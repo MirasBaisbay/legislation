@@ -10,6 +10,7 @@ from pathlib import Path
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from sklearn.metrics.pairwise import cosine_similarity
+from scipy.special import expit
 import torch.nn.functional as F
 
 # ================= LOGGING SETUP =================
@@ -49,7 +50,7 @@ EMBEDDING_MODELS = [
     {
         "name": "Qwen/Qwen3-Embedding-8B",
         "short_name": "Qwen3-8B",
-        "batch_size": 8,  # Optimized for RTX 5090 (was 1)
+        "batch_size": 64,  # RTX 5090 optimized (was 8)
         "max_chunks": None,
         "prompt": None,
         "trust_remote": True,
@@ -58,7 +59,7 @@ EMBEDDING_MODELS = [
     {
         "name": "BAAI/bge-m3",
         "short_name": "BGE-M3",
-        "batch_size": 128,  # Optimized for RTX 5090 (was 8)
+        "batch_size": 512,  # RTX 5090 optimized (was 128)
         "max_chunks": None,
         "prompt": None,
         "trust_remote": True,
@@ -67,7 +68,7 @@ EMBEDDING_MODELS = [
     {
         "name": "jinaai/jina-embeddings-v3",
         "short_name": "Jina-v3",
-        "batch_size": 128,  # Optimized for RTX 5090 (was 8)
+        "batch_size": 512,  # RTX 5090 optimized (was 128)
         "max_chunks": None,
         "prompt": None,
         "trust_remote": True,
@@ -81,7 +82,7 @@ RERANKER_CONFIG = {
     "name": "BAAI/bge-reranker-v2-m3",
     "enabled": True,              # Set to False to disable reranking
     "fp16": True,                 # Use FP16 for faster inference on 5090
-    "batch_size": 256,            # Optimized for RTX 5090 (was 32) - 4-8x faster
+    "batch_size": 512,            # RTX 5090 optimized (was 256)
     "top_k_initial": 100,         # Initial retrieval depth (increases recall)
     "top_n_final": 20,            # Final number of chunks after reranking
     "trust_remote": True
@@ -379,28 +380,15 @@ def process_model(model, config, chunks_map, reranker=None, reranker_config=None
                     # Map reranked scores back to original indices
                     for rank, (rel_idx, score) in enumerate(zip(reranked_indices, reranked_scores)):
                         orig_idx = top_indices[rel_idx]
-                        # Store reranked score (normalized to [0, 1] if needed)
-                        # CrossEncoder scores can be unbounded, so we normalize
+                        # Store reranked score (CrossEncoder logits)
                         reranked_sim_matrix[kw_idx, orig_idx] = score
                         # Accumulate maximum reranked score for each chunk
                         reranked_chunk_scores[orig_idx] = max(reranked_chunk_scores[orig_idx], score)
 
-                # Normalize reranked scores to [0, 1] range for consistency
-                # Using min-max normalization per keyword
-                for kw_idx in range(len(KEYWORDS)):
-                    kw_scores = reranked_sim_matrix[kw_idx]
-                    non_zero = kw_scores[kw_scores != 0]
-                    if len(non_zero) > 0:
-                        min_score = non_zero.min()
-                        max_score = non_zero.max()
-                        if max_score > min_score:
-                            # Normalize only non-zero scores
-                            mask = kw_scores != 0
-                            kw_scores[mask] = (kw_scores[mask] - min_score) / (max_score - min_score)
-                        else:
-                            # All scores are the same
-                            kw_scores[kw_scores != 0] = 1.0
-                        reranked_sim_matrix[kw_idx] = kw_scores
+                # CRITICAL: Convert CrossEncoder logits to probabilities using sigmoid
+                # This preserves cross-country comparisons (unlike min-max normalization)
+                reranked_sim_matrix = expit(reranked_sim_matrix)
+                reranked_chunk_scores = expit(reranked_chunk_scores)
 
                 # Use reranked similarity matrix for scoring
                 sim_matrix = reranked_sim_matrix
