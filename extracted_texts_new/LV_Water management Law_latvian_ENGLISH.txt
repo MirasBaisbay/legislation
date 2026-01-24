@@ -1,0 +1,557 @@
+****
+[No text was provided for translation.]
+
+****
+LAWS
+Publisher: Saeima
+Type: Law
+Adopted: 12.09.2002
+Entry into force: 15.10.2002
+Published: *Latvijas Vēstnesis*, 140, 01.10.2002; *Latvijas Republikas Saeimas un Ministru kabineta Ziņotājs*, 20, 24.10.2002.
+Version displayed: 01.07.2020 - ...
+Amendments:
+Law of 12.12.2002 / LV, 187, 20.12.2002; Ziņotājs, 2, 23.01.2003 / Enters into force 03.01.2003
+Law of 29.04.2004 / LV, 69, 01.05.2004 / Enters into force 02.05.2004
+Law of 03.02.2005 / LV, 25, 15.02.2005; Ziņotājs, 5, 10.03.2005 / Enters into force 01.03.2005
+Law of 31.05.2007 / LV, 93, 12.06.2007; Ziņotājs, 13, 12.07.2007 / Enters into force 26.06.2007
+Law of 23.04.2009 / LV, 73, 13.05.2009 / Enters into force 27.05.2009
+Law of 25.03.2010 / LV, 59, 14.04.2010 / Enters into force 28.04.2010
+Law of 30.09.2010 / LV, 166, 20.10.2010 / Enters into force 03.11.2010
+Law of 20.12.2010 / LV, 206, 30.12.2010 / Enters into force 01.01.2011
+Law of 03.03.2011 / LV, 46, 23.03.2011 / Enters into force 06.04.2011
+Law of 22.11.2012 / LV, 195, 12.12.2012 / Enters into force 26.12.2012
+Law of 06.11.2013 / LV, 232, 27.11.2013 / Enters into force 01.01.2014
+Law of 23.11.2016 / LV, 241, 10.12.2016 / Enters into force 01.01.2017
+Law of 31.01.2019 / LV, 25, 05.02.2019 / Enters into force 19.02.2019
+Law of 21.05.2020 / LV, 106, 03.06.2020 / Enters into force 17.06.2020
+
+The Saeima has adopted and the State President proclaims the following Law:
+
+**Water Management Law**
+
+**Chapter I**
+**General Provisions**
+
+**Article 1. Terms used in this Law**
+
+The following terms are used in this Law:
+1) **protected areas**—territories designated for the abstraction of water intended for human consumption, territories established for the protection of biological resources, water bodies recognised as recreational sites or bathing waters, nutrient-sensitive areas, as well as specially protected nature territories;
+2) **sub-basin**—an area of land from which all surface run-off flows through a series of streams, rivers and, possibly, lakes to a particular point in a watercourse (usually a lake or a river confluence);
+3) **ecological and chemical quality indicators of a water body**—the hydrological, biological, physical, and chemical characteristics of a water body, the quantitative or qualitative values of which can be used to assess water quality;
+4) **emission control**—measures that ensure the limitation of emissions, including emission limit values or restrictions and conditions on the impact, nature or other characteristics of the emission, or on the operating conditions of a polluting activity that affect emissions;
+5) **lake**—a body of still inland surface water;
+6) **inland waters**—all still and flowing waters on the surface of the land, and all groundwater on the landward side of the baseline from which the breadth of territorial waters is measured (hereinafter—territorial waters);
+7) **artificial water body**—a body of surface water created by human activity that meets the conditions of this Law;
+8) **aquifer**—a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater;
+9) **group of aquifers**—a grouping of interconnected subsurface layers, aquifers or structures;
+10) **body of groundwater**—a distinct volume of groundwater within an aquifer or group of aquifers;
+11) **priority substances**—chemical substances that pose a significant risk to the aquatic environment, including substances particularly hazardous to the aquatic environment;
+12) **groundwater**—all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
+13) **transitional waters**—bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows;
+13¹) **bathing area**—a location intended for bathing that meets bathing water hygiene requirements, located on the sea coast or adjacent to inland waters, and which includes a specific developed land area and the bathing water area, used by people for recreation during the bathing season;
+13²) **bathing water**—the area of coastal and inland waters within a bathing area used by people for bathing;
+13³) **bathing season**—a season favourable for bathing, determined by relevant weather conditions and during which a large number of bathers is expected. In Latvia, the bathing season is from 15 May to 15 September;
+14) **coastal waters**—surface waters on the landward side of a line every point of which is at a distance of one nautical mile on the seaward side from the baseline, extending, where appropriate, up to the outer limit of transitional waters;
+14¹) **flood**—the temporary covering by water of land not normally covered by water, including coastal flooding caused by storm surges or rapid rises in water level caused by spring thaws or prolonged rainfall;
+14²) **flood risk**—the combination of the probability of a flood event and of the potential adverse consequences for human health, the environment, cultural heritage and economic activity associated with a flood event;
+15) **heavily modified water body**—a body of surface water which as a result of physical alterations by human activity is substantially changed in character and which meets the conditions of this Law;
+16) **river**—a body of inland water flowing for the most part on the surface of the land but which may flow underground for part of its course, having a distinct channel;
+17) **river basin**—the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly, lakes into the sea at a single river mouth, estuary or delta;
+18) **river basin district**—the area of land and sea, made up of one or more neighbouring river basins together with their associated groundwaters and coastal waters, which is identified under this Law as the main unit for river basin management;
+19) **substances particularly hazardous to the aquatic environment**—chemical substances or groups of substances that are toxic, persistent and liable to bio-accumulate, and other substances or groups of substances which give rise to an equivalent level of concern;
+20) **water resource use**—the use of surface and groundwater resources for the needs of natural or legal persons, as well as water services and other economic activities, including polluting activities, which have a significant impact on the quality or quantity of surface or ground waters;
+20¹) **water services**—activities that provide for the abstraction, impoundment, storage, treatment and distribution of water to natural or legal persons, as well as the collection, treatment and discharge of wastewater into bodies of surface water;
+21) **water resource user**—any natural or legal person who abstracts water or uses it in economic activity;
+22) **body of surface water**—a discrete and significant element of surface water such as a watercourse (river, stream, canal or part thereof), a body of still water (lake, pond, reservoir or part thereof), as well as transitional waters or a stretch of coastal water;
+23) **surface waters**—all inland waters (except groundwater), transitional waters and coastal waters, and, with respect to chemical status, also territorial waters.
+
+(As amended by the Laws of 29.04.2004, 31.05.2007, 23.04.2009, 03.03.2011, and 22.11.2012, which shall enter into force on 26.12.2012.)
+
+**Article 2. Purpose of the Law**
+
+The purpose of this Law is:
+1) to establish a system for the protection and management of surface and ground waters that:
+a) promotes the sustainable and rational use of water resources, ensuring their long-term protection and a sufficient supply of good-quality surface and ground water for the population,
+b) prevents the deterioration of the status of water and of terrestrial ecosystems and wetlands directly dependent on water, protects these ecosystems and improves their status,
+c) improves the protection of the aquatic environment, progressively reduces the emission and discharge of priority substances, and ceases the emission and discharge of substances particularly hazardous to the aquatic environment,
+d) ensures the progressive reduction of groundwater pollution and prevents its further pollution,
+e) ensures the replenishment of groundwater resources,
+f) ensures the protection of land from flooding or desiccation,
+g) ensures the protection of Latvia's marine waters,
+h) contributes to the achievement of objectives set out in international agreements to halt and prevent pollution of the marine environment, to cease or phase out the emission and discharge of substances particularly hazardous to the aquatic environment into the marine environment, and to achieve a state where the concentration of anthropogenic chemical substances in the marine environment is close to zero, and the concentration of naturally occurring chemical substances is close to natural background levels;
+2) to establish a system for the assessment and management of flood risk in order to reduce the adverse consequences associated with floods for human health, the environment, cultural heritage and economic activity.
+
+(As amended by the Law of 23.04.2009, which shall enter into force on 27.05.2009.)
+
+**Article 3. Limitation of Emissions into Water**
+
+The Law establishes a combined approach to emission control from point and diffuse pollution sources in accordance with the pollution prevention and control requirements specified in the Law "On Pollution", by limiting diffuse pollution loads and, where necessary, promoting the use of best available techniques and environmentally friendly technologies.
+
+**Article 4. Artificial Water Bodies and Heavily Modified Water Bodies**
+
+(1) A body of surface water may be designated as an artificial water body or a heavily modified water body in the river basin district management plan (hereinafter—management plan) in the following cases:
+1) if the changes in the hydrological, hydrochemical, and morphological characteristics of the body of water necessary to achieve good ecological status would have a significant adverse effect on:
+a) the wider environment,
+b) navigation, including port operations, or recreation,
+c) activities for which water is stored, such as drinking water supply or electricity generation,
+d) flow regulation, flood protection, or land drainage,
+e) the provision of sustainable development;
+2) if the beneficial objectives served by the artificial or modified characteristics of the water body cannot, for reasons of technical feasibility or disproportionate cost, be reasonably achieved by other means, which are a significantly better environmental option.
+(2) The designation of a water body as an artificial or heavily modified water body shall not prevent the achievement of the objectives of this Law in other nearby water bodies or conflict with the requirements or water quality standards laid down in regulatory acts.
+
+**Article 5. Status of Water Bodies**
+
+(1) The status of surface waters is the general quality of a body of surface water, determined by the poorer of its ecological and chemical status.
+(2) Ecological status is the quality of the structure and functioning of aquatic ecosystems associated with surface waters, assessed in accordance with criteria established by the Cabinet of Ministers.
+(3) Good surface water chemical status is the chemical status of a body of surface water required to achieve the environmental quality objectives for surface waters in accordance with the requirements of this Law, subject to the condition that the concentrations of pollutants in the water do not exceed the environmental quality standards.
+(4) Good surface water status is achieved when both the ecological and chemical status of a body of water meet at least the criteria for good status established by the Cabinet of Ministers.
+(5) The status of groundwater is the general quality of a body of groundwater, determined by the poorer of its quantitative and qualitative status.
+(6) The quantitative status of groundwater is an indicator that characterises the degree to which a body of groundwater is affected by direct and indirect abstraction.
+(7) Good groundwater status is achieved when both the chemical status and the quantitative status of a body of groundwater meet at least the criteria for good status established by the Cabinet of Ministers.
+(8) Ecological potential is the quality of a heavily modified or an artificial water body, assessed in accordance with criteria established by the Cabinet of Ministers.
+(9) Good ecological potential is achieved when the quality of a heavily modified or an artificial water body meets at least the criteria for good ecological potential established by the Cabinet of Ministers.
+(10) The Cabinet of Ministers shall determine:
+1) the characterisation of surface water body types and the corresponding classification of surface water bodies, as well as the procedure for determining anthropogenic pressures;
+2) the classes and classification criteria for bodies of groundwater, the procedure for determining anthropogenic pressures, and the procedure for surveying groundwater resources;
+3) the criteria for high, good, moderate, poor and bad ecological status and for good and poor chemical status of surface waters, as well as the criteria for good and poor chemical status of groundwaters;
+4) the list of priority substances and the procedure for controlling their emissions;
+5) the procedure for drawing up rules for the operation (management) of water bodies and the procedure for cleaning and dredging bodies of surface water and port water areas;
+6) the procedure for the assessment and classification of bathing water quality, as well as the requirements for bathing water profiles and for informing the public;
+7) the procedure for the establishment and maintenance of bathing areas and the safety requirements thereof;
+8) the procedure for displaying informational signs or symbols about a bathing area;
+9) the list of bathing areas where bathing water monitoring during the bathing season is carried out using state budget funds;
+10) measures to ensure bathing water quality and the protection of human health;
+11) bodies of surface water which are at risk of failing to achieve the good surface water status specified in this Law within the time limit provided for in this Law (at-risk water bodies), as well as the requirements for the protection of such water bodies.
+
+(As amended by the Laws of 29.04.2004, 03.02.2005, 31.05.2007, 23.04.2009, and 25.03.2010, which shall enter into force on 28.04.2010.)
+
+**Article 6. Rights of a Water Resource User**
+
+A water resource user has the right to:
+1) use water and water bodies for personal needs and economic activity in accordance with the procedures laid down in this Law and other regulatory acts;
+2) carry out construction in or near water bodies and install structures necessary for the use of water resources, provided that the permits prescribed by regulatory acts have been obtained and the restrictions laid down in regulatory acts are observed;
+3) after obtaining the permits prescribed by regulatory acts, carry out activities that affect water bodies, provided that such activities are performed in accordance with the requirements set out in regulatory acts and the permits;
+4) receive information on the environmental quality objectives set for water bodies, the development of the management plan and the programme of measures, and participate in the public consultation of the management plan.
+
+**Article 7. Duties of a Water Resource User**
+
+The duties of a water resource user are as follows:
+1) when using water resources, to comply with the designated use objectives, environmental quality objectives and quality standards for the water body, the conditions of permits, health protection, construction, and fishery regulations, and other requirements contained in regulatory acts;
+2) to ensure the preservation of water quality and quantity in the water bodies and territory under their ownership or use;
+3) to comply with the conditions provided for in the management plan and the programme of measures;
+4) to carry out all activities related to the use of water resources in such a way as not to cause a deterioration of the status of ground and surface waters, not to cause harm to human health or the environment, including to aquatic ecosystems and terrestrial ecosystems directly dependent on them, and not to create conditions that contribute to floods or land desiccation;
+5) to respect the rights of other water resource users and of the owners of land adjacent to water bodies;
+6) to obtain the permits prescribed by regulatory acts for activities related to the use of water resources;
+7) to submit statistical reports on the use of water resources in accordance with the procedures laid down in regulatory acts and in line with the conditions of the issued permit;
+8) to allow representatives of environmental protection institutions who, in accordance with the procedures laid down in regulatory acts, are carrying out state control of the status of waters or environmental monitoring, to take samples of ground and surface waters in private waters or to take soil samples and inspect monitoring equipment on private property;
+9) to carry out monitoring in the cases and in accordance with the procedures prescribed by permits or regulatory acts;
+10) to compensate for losses caused to the environment or to the biological resources of water as a result of water resource use, if the water resource user's liability for these losses is established in accordance with the regulatory acts in force;
+11) to cease the use of water resources if a deterioration in the status of a body of groundwater or a body of surface water is detected, or if harm is caused to human health or the environment, especially to aquatic ecosystems and terrestrial ecosystems directly dependent on them;
+12) to comply with the conditions for the operation and use of a water body as provided for in the rules for the operation (management) of the water body. The owner or lawful possessor of a hydro-technical structure is responsible for fulfilling the conditions provided for in the rules for the operation (management) of the hydro-technical structure in their ownership or possession and shall take measures to prevent flood risks;
+13) not to alter the hydrological regime of a water body or the banks and bed of a watercourse or body of still water, except where these activities are carried out in accordance with the procedure laid down in regulatory acts;
+14) upon request from the State Environmental Service, to provide information on the use of water resources, the status or quality of waters, in accordance with the procedure laid down in regulatory acts.
+
+(As amended by the Laws of 23.04.2009, 03.03.2011, 22.11.2012, and 21.05.2020, which shall enter into force on 17.06.2020. Clauses 13 and 14 shall enter into force on 01.07.2020. See Transitional Provision 25.)
+
+**Article 7.¹ Rules for the Operation (Management) of Water Bodies to be Drawn Up for Flood Risk Prevention**
+
+(1) In order to prevent flood risks in territories adjacent to a water body, the Cabinet of Ministers shall determine:
+1) those water bodies whose hydrological regime is regulated by hydro-technical structures and for which rules for the operation (management) of water bodies are to be drawn up;
+2) the requirements to be included in the rules for the operation (management) of water bodies, as well as the procedure for the approval of and control over compliance with these rules.
+(2) When drawing up the rules for the operation (management) of a water body, the potential flood risk shall be assessed in the event of non-compliance with the requirements set for the operation of the water body's hydro-technical structures.
+
+(As amended by the Law of 03.03.2011 with amendments made by the Law of 22.11.2012, which shall enter into force on 26.12.2012.)
+
+**Chapter II**
+**River Basin Districts and their Administrative Institutions**
+
+**Article 8. Determination of River Basin Districts**
+
+(1) River basin districts shall be established taking into account the following conditions:
+1) individual river basins shall be identified and assigned to river basin districts, taking into account the possibility of ensuring optimal management of the river basin district;
+2) small river basins may be combined with larger river basins or linked with neighbouring small river basins;
+3) if a body of groundwater lies within several river basins, it shall be assigned to the most appropriate or nearest river basin district;
+4) coastal waters shall be identified and assigned to the most appropriate or nearest river basin district.
+(2) This Law hereby establishes the following river basin districts: the Daugava, Lielupe, Gauja and Venta river basin districts. The scheme of Latvia's river basin districts is set out in the Annex to this Law. The measures necessary to achieve the objectives specified in Article 2 of this Law shall be planned and implemented within the boundaries of the said river basin districts.
+(3) The Cabinet of Ministers shall approve the descriptions of the boundaries of the river basin districts.
+
+(As amended by the Law of 23.04.2009, which shall enter into force on 27.05.2009.)
+
+**Article 9. Administrative Institutions of a River Basin District**
+
+(1) For the coordination of management measures in each river basin district, an advisory council (hereinafter—the Council) shall be established, which shall include representatives of state administration institutions, local governments and non-governmental organisations. The by-laws of the Council shall be approved by the Cabinet of Ministers, and its composition by the Minister for Environmental Protection and Regional Development.
+(2) The Council shall:
+1) coordinate the interests of ministries and other state administration institutions, as well as their regional structural units, local governments, non-governmental organisations and other interest groups on matters related to the achievement of environmental quality and water use objectives in the respective river basin district;
+2) review and provide an opinion on the management plan and the programme of measures, as well as on the prepared proposals concerning the financial resources necessary for their implementation.
+(3) (Repealed by the Law of 03.02.2005.)
+(4) The state limited liability company "Latvian Environment, Geology and Meteorology Centre" (hereinafter—the Centre) shall, for each river basin district:
+1) develop water status monitoring programmes (hereinafter—monitoring programme);
+2) prepare proposals for the financial resources necessary for the implementation of the monitoring programmes;
+3) coordinate and organise the implementation of the monitoring programmes;
+4) provide the European Commission with the information specified in European Union regulatory acts;
+5) prepare and update draft management plans and programmes of measures;
+6) draw up an economic analysis of water resource use;
+7) ensure public participation in the preparation and updating of management plans, including flood risk management plans, and programmes of measures, as well as inform the relevant local governments in whose administrative territory they are planned to be implemented about these plans and programmes;
+8) coordinate the implementation of programmes of measures, maintain and compile information on the measures taken and changes in anthropogenic pressures, and, based on this information and monitoring results, carry out an analysis of the effectiveness of said measures and, if necessary, develop proposals for refining the programmes of measures;
+9) coordinate management measures until the approval of the programme of measures, as well as urgent measures not included in the programme of measures;
+10) prepare proposals for the financial resources necessary for the implementation of the programmes of measures;
+11) ensure the operation of the advisory councils;
+12) cooperate with the competent authorities of the relevant countries to ensure the achievement of the objectives specified in Article 2 of this Law, including environmental quality objectives, in the international river basin district, as well as coordinate joint programmes of measures;
+13) carry out a preliminary flood risk assessment and, based on its results, identify areas where a flood risk exists or could arise, as well as prepare flood hazard maps and flood risk maps for these areas. The Centre shall develop and, in accordance with the procedure laid down in regulatory acts, review the said maps, ensuring that the information provided therein is consistent with the information included in the river basin characterisation, the assessment of the impact of human activities, the economic analysis and the management plans;
+14) based on the maps referred to in clause 13 of this paragraph, develop a flood risk management plan, which shall be included in the river basin district management plan as an integral part thereof.
+(5) The State Environmental Service shall supervise the implementation of the programme of measures and, taking into account the analysis carried out and the proposals developed by the Centre, shall review the conditions of issued permits in accordance with the procedure laid down in regulatory acts.
+(6) The Cabinet of Ministers shall determine the content and format of the information to be provided in the preliminary flood risk assessment, the flood hazard maps, the flood risk maps and the flood risk management plan, as well as additional information to be included when updating the said documents.
+(7) The Minister for Environmental Protection and Regional Development shall approve the preliminary flood risk assessment and its updated version, as well as the flood hazard maps, flood risk maps and their updated versions. The Centre shall publish the preliminary flood risk assessment and the flood hazard maps and flood risk maps on its website.
+
+(As amended by the Laws of 29.04.2004, 03.02.2005, 31.05.2007, 23.04.2009, 25.03.2010, 16.12.2010, 22.11.2012, and 31.01.2019, which shall enter into force on 19.02.2019.)
+
+**Article 10. International Co-operation in River Basin Management and Flood Risk Management**
+
+(1) If a river basin is located partly in the territory of Latvia and partly in the territory of another country which is a Member State of the European Union, the Ministry of Environmental Protection and Regional Development shall cooperate with the competent authorities of the respective country in order to establish and manage an international river basin district.
+(2) If an international river basin district has been established, the Centre shall ensure the management of the part of the river basin district located within the territory of Latvia, exchange information on the status of waters, flood-prone areas and measures to be taken, and cooperate with the competent authorities of the respective country to ensure the development of a single, mutually coordinated management plan and flood risk management plan as an integral part thereof. If a single management or flood risk management plan is not developed for the international river basin district, the Centre shall develop the said plans for the part of the international river basin district located within the territory of Latvia and coordinate them with the competent authorities of the respective country to ensure the mutual consistency of the information, assessments and measures included in the plans.
+(3) If a river basin is located partly in the territory of Latvia and partly in the territory of another country which is not a Member State of the European Union, the Ministry of Environmental Protection and Regional Development shall, within the framework of cooperation agreements on environmental protection, cooperate with the competent authorities of the respective country to promote the achievement of the objectives of this Law throughout the river basin. The Ministry of Environmental Protection and Regional Development shall take measures to promote the development of a single management plan and flood risk management plan as an integral part thereof for the international river basin district. If a single management or flood risk management plan is not developed for the international river basin district, the Centre shall ensure the development of a mutually coordinated management plan and flood risk management plan as an integral part thereof for the parts of the international river basin district located within the territory of Latvia.
+
+(As amended by the Law of 23.04.2009 with amendments made by the Laws of 25.03.2010, 16.12.2010, and 22.11.2012, which shall enter into force on 26.12.2012.)
+
+**Chapter III**
+**Environmental Quality Objectives**
+
+**Article 11. Environmental Quality Objectives for Water Bodies**
+
+(1) The following environmental quality objectives shall be set for water bodies in the management plan:
+1) to prevent the deterioration of the status of all bodies of surface water and to protect them by improving water quality and, where necessary, carrying out remediation, in order to achieve good surface water status in all bodies of surface water;
+2) to protect and enhance water quality in all heavily modified and artificial water bodies, in order to achieve good ecological potential and good chemical status of surface waters;
+3) to progressively reduce pollution from priority substances and to cease or phase out emissions and discharges of substances particularly hazardous to the aquatic environment;
+4) to prevent or limit the input of pollutants into groundwater and to prevent the deterioration of the status of all bodies of groundwater;
+5) to protect bodies of groundwater, to enhance or restore the status of waters therein, and to ensure a balance between abstraction and replenishment of water resources, in order to achieve good groundwater status in all bodies of groundwater;
+6) to reverse any significant and sustained upward trend in the concentration of any pollutant resulting from the impact of human activity in groundwater, in order to progressively reduce pollution;
+7) to comply with the conditions and objectives set in the management plan for specially protected areas.
+(2) Environmental quality objectives shall be achieved by implementing the management plans and programmes specified in this Law. When determining measures to achieve environmental quality objectives, the status of the specific water body and the status of waters in the other water bodies located in the same catchment basin shall be taken into account.
+(3) The environmental quality standards necessary for the achievement of the objectives referred to in paragraph one of this Article shall be determined in accordance with the Law "On Pollution".
+(4) Where more than one environmental quality objective applies to a single water body, the most stringent objective shall apply.
+
+(As amended by the Laws of 31.05.2007 and 23.04.2009, which shall enter into force on 27.05.2009.)
+
+**Article 12. Exemptions in Determining Environmental Quality Objectives and Deadlines for their Achievement for Individual Water Bodies**
+
+(1) The management plan may provide for environmental quality objectives for individual water bodies that differ from those specified in Article 11, paragraph one of this Law, if, taking into account the impact of human activity or the natural condition of these water bodies, it is not possible to achieve the objectives referred to in Article 11, paragraph one of this Law, or their achievement would be disproportionately expensive, and also if:
+1) the environmental and socio-economic needs served by such anthropogenic activity cannot be met by other means, which are a significantly better environmental option not entailing disproportionate costs;
+2) for surface waters, the highest possible ecological and chemical status is aimed for, and for groundwaters, the smallest possible deviation from good groundwater status is ensured, taking into account the impacts of human activity or pollution that cannot be avoided;
+3) the status of the water body does not further deteriorate;
+4) the setting of different environmental quality objectives and the reasons for it are justified in the management plan, and the said objectives are reviewed at least every six years.
+(2) The deadline set in this Law for achieving the environmental quality objectives in individual water bodies may be extended if the status of the respective water body does not deteriorate during this time and if its status cannot be fully improved within the deadline set in this Law, due to one of the following reasons:
+1) for technical reasons, the required level of improvement can only be achieved over a longer period than the deadline set by the Law;
+2) the cost of completing the improvements within the deadline set by the Law is disproportionately high;
+3) natural conditions do not permit improvement of the status of the water body within the deadline set by the Law.
+(3) The reasons for extending the deadline shall be stated in the management plan. The extension of the deadline shall not exceed 12 years, except in cases where natural conditions prevent the achievement of the environmental quality objectives within that time.
+(4) The management plan shall briefly describe the mandatory and supplementary measures to be taken to progressively achieve the desired status of the water body by the end of the extended deadline, and shall include a timetable for the implementation of the measures and, in the event of non-compliance, an explanation of the causes that have significantly hindered the implementation of these measures. A review of the implementation of the said measures and a summary of other measures taken shall be included in the updated management plan.
+
+(As amended by the Law of 23.04.2009, which shall enter into force on 27.05.2009.)
+
+**Article 13. Temporary Exemptions for the Achievement of Environmental Quality Objectives**
+
+(1) A temporary deterioration in the status of water bodies caused by *force majeure*, including severe floods, prolonged drought or an accident which could not reasonably have been foreseen (hereinafter—exceptional circumstances), shall not be in breach of the requirements of this Law, provided that:
+1) all practicable steps are taken to prevent further deterioration in status and not to compromise the achievement of the environmental quality objectives in other water bodies not affected by the said circumstances;
+2) the management plan includes the conditions and parameters under which the regional environmental board may apply the provisions of this Article;
+3) the programme of measures includes measures to be taken in exceptional circumstances, and these do not compromise the restoration of water quality once the situation has normalised;
+4) all practicable steps are taken to restore the status of the water body to that which existed prior to the impact of the exceptional circumstances as soon as reasonably practicable;
+5) a summary of the effects of the exceptional circumstances and of the measures taken or to be taken is included in the next update of the management plan.
+(2) The relevant regional environmental board shall, in each specific case, determine the measures referred to in paragraph one, clauses 1 and 4 of this Article, which shall be binding on water resource users, and shall, at least once a year, together with the Centre, review the impact of the exceptional circumstances and, if necessary, revise the measures determined.
+
+(As amended by the Laws of 31.05.2007 and 25.03.2010, which shall enter into force on 28.04.2010.)
+
+**Article 14. Exemptions for the Achievement of Environmental Quality Objectives in Individual Water Bodies**
+
+(1) The requirements of this Law shall not be breached if:
+1) failure to achieve good groundwater status, good ecological status or good ecological potential, or failure to prevent deterioration in the status of a body of surface or groundwater is the result of new modifications to the physical characteristics of a surface water body or alterations to the level of bodies of groundwater;
+2) failure to prevent deterioration from high status to good status of a body of surface water is the result of new sustainable human development activities;
+3) failure to achieve good status of a body of surface water is due to transboundary pollution.
+(2) The exemptions specified in paragraph one of this Article may be authorised by the relevant regional environmental board only if the following conditions are met:
+1) all practicable steps are taken to mitigate the adverse impact on the status of the water body and not to compromise the achievement of the environmental quality objectives in other water bodies not affected by the said circumstances;
+2) the reasons for such exemptions are justified in the management plan, and the said objectives are reviewed at least every six years;
+3) the need for such exemptions for the water body is of overriding public interest, and/or the benefits to the environment and to society of achieving the environmental quality objectives are outweighed by the benefits of the modifications or alterations to human health, to the maintenance of human safety or to sustainable development;
+4) the beneficial objectives served by these exemptions cannot, for reasons of technical feasibility or disproportionate cost, be achieved by other means, which are a significantly better environmental option;
+5) the co-operation and coordination measures specified in Article 10 of this Law have been carried out and the requirements specified in Articles 12 and 13 of this Law have been complied with in respect of bodies of surface water affected by transboundary pollution, as a result of which it has not been possible to take effective measures to ensure that surface waters comply with environmental quality standards.
+(3) The relevant regional environmental board shall, in each specific case, determine the measures referred to in paragraph two, clause 1 of this Article.
+(4) The application of Articles 12, 13 and 14 of this Law shall not prevent the achievement of the objectives of this Law in other nearby water bodies, shall not be contrary to the requirements or water quality standards laid down in regulatory acts and, when applied, shall ensure at least the same level of environmental protection as that provided for by other regulatory acts.
+
+(As amended by the Laws of 23.04.2009 and 25.03.2010, which shall enter into force on 28.04.2010.)
+
+**Chapter IV**
+**Economic Analysis of Water Resource Use and Charges for Water Resource Use**
+
+**Article 15. Economic Analysis of Water Resource Use, Characterisation of River Basins and Assessment of the Impact of Human Activities**
+
+(1) The Minister for Environmental Protection and Regional Development shall approve, for each river basin district or for the part of an international river basin district located within the territory of Latvia, an economic analysis of water resource use (hereinafter—economic analysis), a characterisation of river basins, and an assessment of the impact of human activities, taking into account the conditions of Article 16 of this Law.
+(2) Based on the information referred to in paragraph one of this Article and taking into account the information and data included in the register of polluting substances, environmental monitoring and state statistical reports, as well as other available information and data, the Centre shall carry out an inventory of emissions, losses and discharges of priority and hazardous substances. The inventory shall be carried out for each river basin district or for the part of an international river basin district located within the territory of Latvia.
+(3) The economic analysis, characterisation of river basins and assessment of the impact of human activities referred to in paragraph one of this Article shall be reviewed at least every six years. When reviewing this information, the following shall be taken into account:
+1) the information provided in the flood hazard maps and flood risk maps;
+2) the inventory of emissions, losses and discharges of priority and hazardous substances for the year preceding the review. For priority and hazardous substances subject to conditions for placing plant protection products on the market, the inventory data may be calculated as an average over the preceding three-year period.
+
+(As amended by the Laws of 29.04.2004, 23.04.2009, 25.03.2010, and 16.12.2010, which shall enter into force on 01.01.2011.)
+
+**Article 16. Economic Analysis**
+
+The economic analysis shall include information:
+1) on the basis of which it is possible to calculate the costs of the necessary measures, taking into account that the water resource user covers all costs of water resource use, and also taking into account calculations of available water resources and a long-term forecast of water demand and costs, including a forecast of necessary investments;
+2) which allows for justifying decisions on the most cost-effective measures included in the programme of measures.
+
+**Article 17. Charges for Water Resource Use**
+
+(1) Natural and legal persons shall use flowing waters free of charge for fisheries (except for natural resources tax payments or compensation for damages for water pollution resulting from these activities), as well as water resources for non-commercial transport, swimming, water sports, water tourism or for personal needs, if the use of water for personal needs does not require the permits specified in regulatory acts.
+(2) The natural resources tax for the abstraction of water resources and for water pollution, for the use of water resources for electricity generation in a hydroelectric power plant (hereinafter—HPP), as well as tariffs for water services (water supply and sewerage) and charges for types of water resource use, other than those referred to in paragraph one of this Article, shall be determined for natural and legal persons in accordance with regulatory acts, observing:
+1) that natural and legal persons cover all costs of water services justified by the economic analysis, as well as pay for water resources and the damage caused to them;
+2) the "polluter pays" principle;
+3) that water resources are to be used rationally, promoting the achievement of the environmental quality objectives specified in this Law;
+4) geographical, geological and climatic conditions, as well as an assessment of the social, ecological and economic consequences of the amount of payments and the application of charges.
+(3) The management plan shall include an overview of the measures planned to be taken to implement the conditions of this Article, as well as an overview of the contribution of different water users to covering the costs of water resource use.
+(4) The implementation of the requirements of this Article shall not hinder precautionary, investigation or remediation measures taken to achieve the objectives of this Law.
+(5) The costs of bank reinforcement works for the Daugava HPP reservoirs and the operating expenses for the engineering protection structures of the Rīga HPP reservoir, related to limiting the bank erosion of the Daugava HPP reservoirs within the HPP's zone of influence, shall be financed in accordance with the state budget for the current year, by allocating annual budget subsidies in the budgets of the Ministry of Agriculture and the Ministry of Environmental Protection and Regional Development.
+
+(As amended by the Laws of 29.04.2004, 23.04.2009, 06.11.2013, and 23.11.2016, which shall enter into force on 01.01.2017.)
+
+**Chapter V**
+**River Basin District Management Plan and Programme of Measures**
+
+**Article 18. Management Plan**
+
+(1) The management plan shall include:
+1) a characterisation of the river basin district;
+2) information on the most significant anthropogenic pressures and the impact of human activity on the status of ground and surface waters;
+3) information on protected areas;
+4) information on the monitoring network and the results of the implemented monitoring programmes;
+5) a summary of the economic analysis;
+6) the quality objectives set for water bodies and protected areas;
+7) information on the planned measures to prevent or reduce the emission of pollution, as well as to achieve the environmental quality objectives;
+8) information on other programmes related to the management of the river basin district;
+9) a report on public information and consultations carried out during the development or updating of the plan;
+10) information and a summary of the measures taken to prevent or reduce transboundary pollution.
+(2) The Cabinet of Ministers shall determine the content and format of the information to be provided in the management plan, as well as additional information to be included in the plan when it is updated.
+(3) The Centre shall ensure that the management plans are accessible to the public.
+(4) The management plan may be taken into account when developing the spatial plan or amendments thereto for the relevant region or local government.
+
+(As amended by the Laws of 29.04.2004, 03.02.2005, 23.04.2009, and 25.03.2010, which shall enter into force on 28.04.2010.)
+
+**Article 19. Approval of the Management Plan**
+
+(1) The Minister for Environmental Protection and Regional Development shall approve a management plan for each river basin district. The Ministry of Environmental Protection and Regional Development and the Centre shall publish the management plans on their websites. The management plan, including the flood risk management plan, shall be updated at least every six years.
+(2) In the cases referred to in Article 10, paragraph one of this Law, the Centre shall cooperate with the competent authority of the respective country to develop a management plan for the international river basin district, including a flood risk management plan as an integral part thereof. Until the approval of the management plan for the international river basin district in accordance with the procedure specified in paragraph one of this Article, the Centre shall prepare, and the Minister for Environmental Protection and Regional Development shall approve, management plans for the parts of the international river basin district located within the territory of Latvia.
+
+(As amended by the Laws of 03.02.2005, 23.04.2009, 25.03.2010, 16.12.2010, and 22.11.2012, which shall enter into force on 26.12.2012.)
+
+**Article 20. Requirements for Programmes of Measures**
+
+(1) In order to achieve the environmental quality objectives specified in this Law, the river basin district management plan shall include a programme of measures for the respective river basin district or for the part of an international river basin district located within the territory of Latvia. The programme of measures shall be developed in accordance with the management plan for the respective river basin district.
+(2) When developing the programme of measures, the results of the economic analysis, the river basin characterisation and the assessment of the impact of human activities specified in Article 15 of this Law shall be taken into account.
+(3) The Cabinet of Ministers shall determine the minimum requirements, conditions and prohibitions to be included in the programme of measures, as well as the actions to be taken if the environmental quality objectives specified in this Law are not achieved in the respective water body.
+(4) Each programme of measures shall specify the mandatory measures and, where necessary, also supplementary measures to be taken in the specific district in order to achieve the established environmental quality objectives. The programmes of measures shall also specify measures that apply to the entire territory of the state.
+
+(As amended by the Laws of 29.04.2004 and 23.04.2009, which shall enter into force on 27.05.2009.)
+
+**Chapter VI**
+**Permits for Water Resource Use and Monitoring Conditions**
+
+**Article 21. Activities for which a Permit for Water Resource Use is Required**
+
+(1) The regional environmental boards shall, within 60 days from the date of receipt of an application, issue a permit for water resource use for activities which affect or may affect water quality, quantity or aquatic ecosystems and which are not Category A or B polluting activities:
+1) the operation of hydro-technical structures;
+2) the abstraction of surface or ground waters;
+3) the artificial recharge of groundwater or the discharge of water for the purpose of lowering the groundwater level, and related activities;
+4) activities that would result in the creation of an artificial or heavily modified water body;
+5) other activities related to regular changes in the level or regime of surface waters.
+(2) The Cabinet of Ministers shall determine the conditions for water resource use, the procedure and deadlines for applying for and issuing a permit for water resource use, the conditions for the control and monitoring of the requirements specified in the permit, as well as samples of the application and permit forms.
+(2¹) If, in accordance with the requirements of regulatory acts, a Category A or B permit is required to commence or continue an activity, the regional environmental board shall not issue a permit for water resource use, but shall specify the limits and conditions for the use of ground or surface water resources in the Category A or B permit.
+(2²) A state fee shall be payable for the issuance of a permit for water resource use. The amount of the fee and the procedure for payment shall be determined by the Cabinet of Ministers.
+(3) The Cabinet of Ministers shall determine the criteria according to which the impact of the activities referred to in paragraph one of this Article on water quality, quantity or aquatic ecosystems is considered insignificant and a permit for water resource use is not required.
+(4) The Cabinet of Ministers shall determine the procedure for the use of the annual budget subsidy allocated for financing the bank reinforcement works for the Daugava HPP reservoirs and the operating expenses for the engineering protection structures of the Rīga HPP reservoir, the institutions responsible for organising the bank reinforcement and the operation of the engineering protection structures, the list of local governments located on the banks of the Daugava HPP reservoirs, as well as the list of the engineering protection structures of the Rīga HPP reservoir.
+
+(As amended by the Laws of 29.04.2004, 31.05.2007, 23.04.2009, 30.09.2010, 16.12.2010, and 23.11.2016, which shall enter into force on 01.01.2017.)
+
+**Article 22. Monitoring of the Status of Surface and Ground Waters and of Protected Areas**
+
+(1) The Minister for Environmental Protection and Regional Development shall approve a water status monitoring programme for each river basin district, which shall include the monitoring of surface waters, groundwaters and protected areas.
+(2) The surface water monitoring programme shall determine:
+1) the extent of run-off volume and flow rate monitoring, in order to be able to assess the ecological and chemical status and ecological potential;
+2) the monitoring of the ecological and chemical status and ecological potential.
+(3) The groundwater monitoring programme shall include the monitoring of chemical status and quantitative status.
+(4) The protected areas monitoring programme shall include measures which are carried out in addition to the monitoring requirements for protected areas laid down in regulatory acts.
+(5) The Cabinet of Ministers shall determine the requirements for the monitoring specified in this Article and for the development of monitoring programmes, as well as the requirements for the monitoring of bathing waters.
+
+(As amended by the Laws of 29.04.2004, 31.05.2007, and 16.12.2010, which shall enter into force on 01.01.2011.)
+
+**Chapter VII**
+**Provision of Information to the Public, Other Countries and the European Commission**
+(Title of Chapter as amended by the Law of 29.04.2004, which shall enter into force on 02.05.2004.)
+
+**Article 23. Provision of Information to the Public**
+
+(1) The Centre shall ensure that the preliminary flood risk assessment, the flood hazard and flood risk maps, as well as the management plans, including the flood risk management plans, are made available to the public after their development. When developing, reviewing and updating the management plans, it shall encourage the active involvement of the public in the implementation of this Law by ensuring that, for each river basin district, the following information is published and made available to the public, including water resource users, for consultation:
+1) the timetable and work programme for the production of the plan, including a statement of the consultation measures to be taken, at least three years before the beginning of the period to which the plan refers;
+2) an overview of the significant water management issues identified in the river basin district, at least two years before the beginning of the period to which the plan refers;
+3) the draft management plan, at least one year before the beginning of the period to which the plan refers.
+(2) Upon request from any natural or legal person, the Centre and other involved institutions shall provide access to the background documents and information used for the development of the draft management plan.
+(3) In order to ensure active public participation and involvement in consultations, a period of at least six months shall be allowed for submitting comments on the documents referred to in paragraph one of this Article.
+
+(As amended by the Laws of 03.02.2005, 23.04.2009, and 25.03.2010, which shall enter into force on 28.04.2010.)
+
+**Article 24. Provision of Information to Other Countries and the European Commission**
+
+(1) The Centre shall, within three months of publication, send the management plan, including the flood risk management plan (also the updated versions of these plans), to the European Commission, as well as to the countries to which it applies. In the case of international river basin districts, at least the part of the management plan covering the territory of Latvia shall be submitted.
+(2) The Centre shall, within three months of the approval of the respective documents, submit to the European Commission:
+1) the economic analysis, the river basin characterisation, and the assessment of the impact of human activities specified in Article 15 of this Law;
+2) the monitoring programme specified in Article 22 of this Law;
+3) the preliminary flood risk assessment and the flood hazard and flood risk maps specified in Article 9, paragraph four, clause 13 of this Law, as well as the relevant reviews and updated versions.
+(3) The Centre shall, within three years of the submission of the management plan, including the flood risk management plan, and the updated versions of these plans, submit an interim report to the European Commission on the progress achieved in the implementation of the programme of measures associated with this plan.
+(4) The information submitted to the European Commission shall be freely available to the public.
+
+(As amended by the Laws of 29.04.2004, 03.02.2005, 23.04.2009, and 25.03.2010, which shall enter into force on 28.04.2010.)
+
+**Chapter VIII**
+**Implementation and Supervision of the Requirements of the Law and Contestation Procedure**
+
+**Article 25. Implementation of the Requirements of the Law**
+
+(1) When carrying out an environmental impact assessment or issuing technical regulations, the State Environmental Bureau or a regional environmental board shall prohibit activities which make it impossible to achieve the environmental quality objectives set in accordance with this Law or to implement the measures set out in the management plan.
+(2) When issuing the permits specified in regulatory acts for activities related to the use of water resources or extending their period of validity, the regional environmental boards shall take into account the environmental quality objectives set for the specific territory or the measures set out in the management plan and the deadlines for their implementation.
+(3) When issuing a permit for the operation of hydro-technical structures, the regional environmental board shall include in its conditions a requirement to carry out the necessary fish resource protection measures, including the opening of sluices or ensuring the construction of fishways in reservoir dams, if the relevant measures are necessary and biologically justified according to the opinion of a fisheries expert assessment, and are also technically feasible according to the opinion provided by specialists with a qualification in hydro-technical engineering and experience in the operation of hydro-technical structures, and by persons who have the right to design hydro-technical structures in accordance with the Construction Law.
+
+(As amended by the Laws of 03.02.2005, 31.05.2007, and 23.04.2009, which shall enter into force on 27.05.2009.)
+
+**Article 26. Supervision, Contestation and Appeal Procedure**
+
+(1) The Ministry of Environmental Protection and Regional Development is responsible for the implementation of the requirements laid down in this Law.
+(2) The Ministry of Environmental Protection and Regional Development shall examine submissions concerning the development and implementation of management plans and programmes of measures, including those concerning insufficient public participation in the development of the said documents.
+(3) The State Environmental Bureau shall examine submissions concerning the measures determined by the regional environmental boards in accordance with Article 13, paragraph two and Article 14, paragraph three of this Law, as well as concerning the issuance of the permits specified in this Law or the conditions of a permit. In the event of a contestation, the State Environmental Bureau shall not suspend the operation of the decision or permit if the suspension of the activity may cause a significant negative impact on the environment.
+(4) If the State Environmental Bureau finds that the measures referred to in paragraph three of this Article, the decisions on issuing a permit or the permit issued are contrary to the requirements of this Law or other regulatory acts, it shall adopt a decision on the review of the decision of the regional environmental board, on making the necessary amendments to the permit, on the annulment of the permit or on the issuance of another permit.
+(5) The administrative acts referred to in this Article may be appealed to a court in accordance with the procedure laid down in regulatory acts. The submission of an application to a court shall not suspend the operation of the administrative act.
+
+(As amended by the Laws of 29.04.2004, 03.02.2005, and 16.12.2010, which shall enter into force on 01.01.2011.)
+
+**Chapter IX**
+**Administrative Offences in the Field of Water Resource Protection and Management and Competence in Administrative Offence Proceedings**
+(Chapter in the wording of the Law of 21.05.2020, which shall enter into force on 17.06.2020. The Chapter shall enter into force on 01.07.2020. See Transitional Provision 25.)
+
+**Article 27. Administrative Offences in the Field of Water Resource Protection and Management**
+
+(1) For a violation of the requirements for the establishment and maintenance of a bathing area as specified in the regulatory acts concerning the procedure for the establishment, maintenance and water quality management of a bathing area, a warning or a fine shall be imposed on the manager of the bathing area—if a natural person, from five to twenty-five fine units, and if a legal person, from seven to fifty fine units.
+(2) For a violation of the requirements for the management of surface or groundwater resources, a warning or a fine shall be imposed—on a natural person, from six to one hundred and forty fine units, and on a legal person, from twelve to two hundred fine units.
+(3) For the use of surface or groundwater resources without the necessary permit for water resource use, a fine shall be imposed—on a natural person, from twenty to one hundred and forty fine units, and on a legal person, from forty to two hundred and eighty fine units.
+(4) For the unauthorised alteration of the hydrological regime of a water body, or for making changes to the banks and bed of a watercourse or a body of still water, a fine shall be imposed—on a natural person, from fifty-six to two hundred fine units, and on a legal person, from eighty-six to four hundred fine units.
+
+(In the wording of the Law of 21.05.2020, which shall enter into force on 17.06.2020. The Article shall enter into force on 01.07.2020. See Transitional Provision 25.)
+
+**Article 28. Competence in Administrative Offence Proceedings**
+
+(1) Administrative offence proceedings for the offences referred to in Article 27, paragraph one of this Law shall be conducted by the Health Inspectorate.
+(2) Administrative offence proceedings for the offences referred to in Article 27, paragraphs two, three and four of this Law shall be conducted by the State Environmental Service.
+
+(In the wording of the Law of 21.05.2020, which shall enter into force on 17.06.2020. The Article shall enter into force on 01.07.2020. See Transitional Provision 25.)
+
+**Transitional Provisions**
+
+1. The Cabinet of Ministers shall, by 1 March 2003, issue the Cabinet of Ministers regulations referred to in Article 8, paragraph three, Article 9, paragraph one, Article 18, paragraph two and Article 20, paragraph three of this Law, and by 22 December 2003, the Cabinet of Ministers regulations referred to in Article 5, paragraph ten, clauses 1, 2, 3 and 4, Article 21, paragraphs two and three, as well as the Cabinet of Ministers regulations referred to in Article 22, paragraph five of this Law on the requirements for monitoring and the development of monitoring programmes, and by 30 December 2007, the Cabinet of Ministers regulations referred to in Article 22, paragraph five of this Law on the requirements for the monitoring of bathing waters.
+(As amended by the Laws of 29.04.2004 and 31.05.2007, which shall enter into force on 26.06.2007.)
+
+2. The institutions specified in Article 9 of this Law shall be established by 1 January 2004.
+(In the wording of the Law of 12.12.2002, which shall enter into force on 03.01.2003.)
+
+3. The emissions and discharges of substances particularly hazardous to the aquatic environment referred to in Article 11, paragraph one, clause 3 of this Law shall be eliminated by 22 December 2020.
+
+4. The economic analysis, the river basin characterisation and the assessment of the impact of human activities for river basin districts referred to in Article 15 of this Law shall be developed and approved by 22 December 2004.
+
+5. The conditions of Article 17, paragraph two of this Law shall be implemented by 1 January 2010. The implementation of the conditions of this Article shall not, until 31 December 2015, restrict the attraction of state, local government and international funding for the implementation of state investment programmes in the field of drinking water and municipal wastewater.
+
+6. The monitoring programmes referred to in Article 22 of this Law shall be developed and approved by 1 January 2006. The monitoring programmes shall be fully implemented no later than 22 December 2006.
+(As amended by the Law of 29.04.2004, which shall enter into force on 02.05.2004.)
+
+7. The management plans referred to in Article 18 of this Law shall be approved and published by 22 December 2009.
+
+8. The programmes of measures referred to in Article 20 of this Law shall be developed and approved by 22 December 2009. The implementation of the measures specified in the programmes of measures shall commence by 22 December 2012.
+
+9. The environmental quality objectives specified in Article 11 of this Law, with the exception of that specified in paragraph one, clause 3, shall be achieved by 22 December 2015.
+
+10. Article 9, paragraph four, clause 4 of this Law concerning the provision of information to the European Commission, as well as the conditions of Article 24 concerning the provision of information to the European Commission, shall apply from 1 May 2004.
+(In the wording of the Law of 29.04.2004, which shall enter into force on 02.05.2004.)
+
+11. The Cabinet of Ministers shall, by 1 January 2006, issue the regulations referred to in Article 5, paragraph ten, clause 5 of this Law.
+(In the wording of the Law of 03.02.2005, which shall enter into force on 01.03.2005.)
+
+12. The Cabinet of Ministers shall, by 1 March 2008, issue the regulations referred to in Article 5, paragraph ten, clause 6 of this Law.
+(In the wording of the Law of 31.05.2007, which shall enter into force on 26.06.2007.)
+
+13. The Cabinet of Ministers shall, by 30 December 2011, issue the regulations referred to in Article 5, paragraph ten, clause 8 of this Law.
+(In the wording of the Law of 23.04.2009, which shall enter into force on 27.05.2009.)
+
+14. The Cabinet of Ministers shall, by 26 November 2009, issue the regulations referred to in Article 9, paragraph six of this Law.
+(In the wording of the Law of 23.04.2009, which shall enter into force on 27.05.2009.)
+
+15. The Centre shall prepare the flood hazard maps and flood risk maps referred to in Article 9, paragraph four, clause 13 of this Law by 22 December 2013.
+(In the wording of the Law of 23.04.2009 with amendments made by the Law of 25.03.2010, which shall enter into force on 28.04.2010.)
+
+16. The Centre shall prepare and publish the flood risk management plans referred to in Article 9, paragraph four, clause 14 of this Law by 22 December 2015.
+(In the wording of the Law of 23.04.2009 with amendments made by the Law of 25.03.2010, which shall enter into force on 28.04.2010.)
+
+17. The Cabinet of Ministers shall, by 31 December 2010, issue the regulations referred to in Article 5, paragraph ten, clause 11 of this Law.
+(In the wording of the Law of 25.03.2010, which shall enter into force on 28.04.2010.)
+
+18. The economic analysis, the river basin characterisation and the assessment of the impact of human activities referred to in Article 15 of this Law shall be reviewed for the first time by 22 December 2013.
+(In the wording of the Law of 25.03.2010, which shall enter into force on 28.04.2010.)
+
+19. The inventory provided for in Article 15, paragraph two of this Law shall commence by including data for one year in the period from 2008 to 2010. For priority and hazardous substances subject to conditions for placing plant protection products on the market, the inventory data may be calculated as an average for the period from 2008 to 2010.
+(In the wording of the Law of 25.03.2010, which shall enter into force on 28.04.2010.)
+
+20. The Cabinet of Ministers shall, by 1 January 2011, issue the regulations referred to in Article 21, paragraph four of this Law.
+(In the wording of the Law of 30.09.2010, which shall enter into force on 03.11.2010.)
+
+21. Article 21, paragraph 2² of this Law shall enter into force on 1 March 2011.
+(In the wording of the Law of 16.12.2010, which shall enter into force on 01.01.2011.)
+
+22. The Cabinet of Ministers shall, by 1 March 2011, issue the regulations provided for in Article 21, paragraph 2² of this Law.
+(In the wording of the Law of 16.12.2010, which shall enter into force on 01.01.2011.)
+
+23. Article 7¹ of this Law shall enter into force on 1 October 2011.
+(In the wording of the Law of 03.03.2011, which shall enter into force on 06.04.2011.)
+
+24. The Cabinet of Ministers shall, by 1 June 2011, issue the regulations referred to in Article 7¹ of this Law.
+(In the wording of the Law of 03.03.2011, which shall enter into force on 06.04.2011.)
+
+25. The amendment to Article 7 of this Law supplementing it with clauses 13 and 14, and Chapter IX of this Law shall enter into force simultaneously with the Administrative Liability Law.
+(In the wording of the Law of 21.05.2020, which shall enter into force on 17.06.2020.)
+
+**Informative Reference to European Union Directives**
+(In the wording of the Law of 23.04.2009, which shall enter into force on 27.05.2009.)
+
+The Law incorporates legal norms arising from:
+1) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy;
+2) Directive 2006/7/EC of the European Parliament and of the Council of 15 February 2006 concerning the management of bathing water quality and repealing Directive 76/160/EEC;
+3) Directive 2006/118/EC of the European Parliament and of the Council of 12 December 2006 on the protection of groundwater against pollution and deterioration;
+4) Directive 2007/60/EC of the European Parliament and of the Council of 23 October 2007 on the assessment and management of flood risks;
+5) Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC.
+
+The Law was adopted by the Saeima on 12 September 2002.
+
+Rīga, 1 October 2002
+In place of the State President,
+Speaker of the Saeima J. Straume
+
+**Annex to the Water Management Law**
+
+**Scheme of River Basin Districts**
+
+[Image of a map of Latvia showing four river basin districts]
+
+**VENTA BASIN DISTRICT**
+**LIELUPE BASIN DISTRICT**
+**GAUJA BASIN DISTRICT**
+**DAUGAVA BASIN DISTRICT**
+
+*Labels on map:*
+LITHUANIA
+ESTONIA
+RUSSIA
+BELARUS
+Salaca
+Gauja
+
+© Official publisher "Latvijas Vēstnesis"
+

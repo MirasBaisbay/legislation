@@ -1,0 +1,876 @@
+****
+**The Lebanese Republic**
+**The Parliament**
+**Law No. 192 of 16/10/2020**
+**(Official Gazette No. 41 of 22/10/2020)**
+
+**Sole Article: A Law to Amend Law No. 77 of 13/4/2018 "The Water Law"**
+
+The proposed law aimed at amending Law No. 77 of 13/4/2018, "The Water Law," is hereby ratified as amended by the joint parliamentary committees and the Parliament.
+
+This law shall enter into force upon its publication in the Official Gazette.
+
+---
+**The Lebanese Republic**
+**The Parliament**
+**A Law to Amend Law No. 77 of 13/4/2018 "The Water Law"**
+
+**Part One - General Provisions**
+**Chapter One - Preliminary Provisions and Definitions**
+
+**Article 1: Water as a National Resource**
+Water, in all its forms, is a national resource whose quality must be preserved, along with the rights of the Lebanese State over internal, regional, and international watercourses. It includes surface water, groundwater, fluctuating freshwater waves off the coast, and, generally, water as a component of terrestrial and aquatic ecosystems.
+
+**Article 2: The Right to Water**
+Every person has the fundamental right to access the water necessary for their needs to ensure the basic requirements for a dignified life, including sanitation. This is in exchange for paying subscription fees for water use.
+
+**Article 3: Objectives of the Water Law**
+This law aims to regulate, develop, rationalize, and exploit water resources, protect them from depletion and pollution, and enhance the efficiency of water transport and distribution systems and the proper maintenance and operation of water facilities, with the goal of ensuring the sustainable management of the natural water resources of the Lebanese State.
+
+**Article 4: Definitions**
+For the purposes of this law, the following terms shall have the meanings ascribed to them hereunder:
+
+*   **The Ministry:** The Ministry of Energy and Water.
+*   **The Minister:** The Minister of Energy and Water.
+*   **Public Water Establishments:**
+    *   Beirut and Mount Lebanon Water Establishment
+    *   South Lebanon Water Establishment
+    *   North Lebanon Water Establishment
+    *   Bekaa Water Establishment
+    *   The Litani River Authority.
+*   **Groundwater Aquifer:** A layer or several rock or geological layers whose porous and permeable nature allows for the flow of groundwater or the accumulation of significant quantities of groundwater.
+*   **Hydrographic Basin:** Any area into which all runoff water flows through a network of streams and rivers, and sometimes lakes, towards the sea, where it discharges through a single mouth.
+*   **Sub-basin:** Any area into which all runoff water flows through a network of streams and rivers, and sometimes lakes, to a specific point in a watercourse.
+*   **Aquatic Environment:** The ecological environment associated with the presence of water and its natural balances.
+*   **Water Scarcity or Deficit:** A significant decrease in the available freshwater in the entire country or in an aquatic ecosystem that is unable to maintain its own ecological balance or meet the water needs it typically fulfilled.
+*   **Surface Water:** Internal, moving, and still waters, with the exception of groundwater and coastal waters regarding their chemical state, which also includes territorial waters.
+*   **Groundwater:** All water located beneath the ground surface in a collection area directly connected to the surface or subsurface.
+*   **Lake:** A body of still inland surface water, regardless of its source of replenishment.
+*   **Body of Groundwater:** A distinct volume of groundwater within a groundwater aquifer.
+*   **Body of Surface Water:** A significant and discrete element of surface water such as a lake, a reservoir, a stream, a river, or a canal, a part of a stream, river, or canal, or a stretch of coastal water.
+*   **Green Water:** Water retained in the soil after rainfall.
+*   **Water Pollution:** The direct or indirect introduction, as a result of human activity, of substances or heat into the air, water, or land which may be harmful to human health or the quality of aquatic ecosystems or terrestrial ecosystems directly depending on aquatic ecosystems, and which may also result in damage to material property or impairment of or interference with the enjoyment of a sound and stable environment and its other legitimate uses.
+*   **Stream (River):** A body of inland water flowing for the most part on the surface of the land but which may flow underground for part of its course.
+*   **Non-conventional Water Resources:** Includes the treatment and reuse of treated water, exploitation of submarine springs, desalination of seawater, greywater, and water produced from cloud seeding.
+*   **Conventional and Non-conventional Water:** The quantity of conventional and non-conventional water that is part of the water balance of the Lebanese State.
+*   **Water Diplomacy:** The diplomacy applied to international basins under international agreements and United Nations conventions.
+*   **Sustainable Water Management:** A process that promotes the coordinated development and management of water, land, and related resources in order to maximize economic and social benefits in an equitable manner without compromising the sustainability of vital ecosystems.
+*   **Irrigation Water:** Water allocated from available water sources for the irrigation of agricultural land, subject to the provisions of this law.
+*   **Transport Network:** The set of infrastructure previously established, or to be established later, for use in conveying water from its source to one or more distribution networks. It consists of the primary network, which comprises a main network for supplying water whose ownership and management remain public, and the secondary network, which branches off from the main network.
+*   **Distribution Network:** The set of water infrastructure, supplied from a specific feed point of a transport network, which can be used to distribute water, also known as the tertiary network.
+*   **Water Supply Point:** The intake or point that constitutes the source from which subscribers are supplied with water.
+*   **Water Register:** A non-evidentiary administrative document prepared and periodically updated by the Ministry of Energy and Water.
+*   **Basin Networks:** The natural watercourses located within a specific hydrographic basin.
+*   **Joint Project:** Any project of public benefit, as defined in Law No. 48 of 7/9/2017 "Law on Regulating Public-Private Partnership" and its amendments, in which the private sector contributes through financing, management, and at least one of the following operations: design, construction, building, development, restoration, equipping, maintenance, rehabilitation, and operation.
+*   **Traditional Water Rights:** Usufruct rights that were practiced according to established customs, traditions, and habits.
+*   **License:** The authorization granted by the competent authority for the use of public water.
+*   **Delegated Management:** A contract under which a public legal person entrusts the management of a public utility to a public or private operator, whose remuneration is mainly linked to the results of the utility's operation. The delegatee may also be tasked with building facilities and acquiring properties necessary for the utility.
+*   **Collective Sanitation:** The discharge of wastewater into collection networks and the transport of this water to treatment plants where it is treated and then discharged or reused.
+*   **Beneficiary:** Anyone who benefits from water through subscription, use, usufruct, or any other means in accordance with laws, customs, and habits.
+*   **Beneficiary of Irrigation Water:** A subscriber and/or usufructuary of irrigation water.
+*   **Right of Usufruct of Water:** The right that entitles its holder to use specific quantities of water for specific purposes, in accordance with the provisions of this law.
+*   **Traditional Rights of Usufruct of Water:** Rights of usufruct of water for a specific property and for specific purposes, the continuity of which is recognized by law or custom, or both, and which are based on the right of individual or collective benefit from the water of rivers, springs, wells, and water installations. They are restricted by the limits stipulated in this law and in the laws in force.
+
+**Chapter Two - Principles of the Water Law**
+
+**Article 5: Rights of Water Beneficiaries**
+1.  Every person who legally benefits from any water resource has the right of usufruct thereof, in a manner that does not harm these resources or the interests of others, and bears the same obligations imposed concerning the conservation of these resources and their protection from depletion and pollution.
+2.  The exploitation of groundwater resources without a prior license from the competent authority is prohibited.
+3.  The Ministry and the Public Water Establishments shall intervene to regulate the rights and duties of water usufruct in accordance with the provisions of this law and the implementing decrees to be issued for its enforcement.
+
+**Article 6: General Objectives through Sustainable Water Management**
+1.  The Ministry shall develop a sustainable water policy with the aim of preserving the water resources of the Lebanese State. The Ministry and the Public Water Establishments, each within the scope of its powers as defined by Law No. 221/2000, shall also provide water services to users for all their uses. To achieve this goal, they must:
+    a. Prioritize the supply of potable water to citizens.
+    b. Achieve sanitation for wastewater.
+    c. Meet the water needs for agriculture, livestock breeding, fishing, aquaculture in inland waters, mineral water extraction, and for the needs of industry, energy generation, transport, tourism, the protection of aquatic, natural, and terrestrial sites and landscapes, and all legally practiced human activities.
+    d. Utilize, wherever possible, non-conventional water sources: desalination, treated water from sanitation plants, and others.
+    e. Combat floods, droughts, and accidental or chronic pollution, in cooperation with the concerned ministries and administrations, and generally anticipate damages that may affect public health and safety and ways to prevent them.
+2.  The Ministry of Energy and Water, in cooperation with the Ministry of Environment, must:
+    a. Combat chronic pollution.
+    b. Prevent any further deterioration and preserve and restore the aquatic environment, as well as the related terrestrial ecosystems and wetlands, with regard to their water needs.
+    c. Prevent pollution and work towards its gradual reduction.
+
+**Chapter Three: Legal Status of Water**
+
+**Article 7: Management of Public Water Property**
+The Ministry of Energy and Water has the authority to manage public water property.
+
+**Article 8: Elements of Public Water Property**
+1.  Water is public property and is inalienable, non-acquirable, and cannot be disposed of in any way, subject to the provisions of Decision No. 144/S of June 10, 1925, and Decision No. 320 of May 26, 1926.
+2.  Public water property includes water in all its natural states and geological locations, its appurtenances, and the public facilities designated or necessary for its management. It comprises:
+    a. Watercourses of any kind, within the boundaries defined by the high-water mark of their flowing water when full but not in flood. The banks, perimeters, and setbacks of watercourses shall be determined by decrees.
+    b. Natural or artificial lakes, coastal lagoons, marshes, and, in general, bodies of water.
+    c. Groundwater, including freshwater springs that emerge offshore from the Lebanese coasts.
+    d. Springs, wells, boreholes, water channels, and other water sources designated for public use, as well as the potential perimeters of the surrounding areas intended for their direct protection.
+    e. Sea or river dams, water dams, passages, and their ancillary facilities.
+    f. Irrigation, sanitation, and drainage canals, water diversion channels and their branches, pipes, water treatment facilities, pumping stations, reservoirs, and wastewater treatment plants when these facilities are designated for public use, as well as the equipment and lands belonging to them.
+    g. Waterfalls suitable for generating electricity.
+
+**Article 9: Non-Public Water**
+Anyone who collects and stores rainwater in a private facility, swimming pools, recreational ponds, marshes, ponds, and reservoirs has the full right to use it but not the right to sell it to third parties. This water does not form part of the public property of the Lebanese State.
+
+**Article 10: Groundwater**
+1.  Groundwater, regardless of its depth, is subject to a special regime for protection and monitoring.
+2.  No person may extract groundwater by drilling artesian wells or by any other means without first obtaining permission or a license from the Ministry of Energy and Water, under the conditions specified by the provisions of this law.
+
+**Article 11: Boundaries of Public Water Property**
+The boundaries of the public water property of the Lebanese State and its appurtenances are those defined by the provisions of Part Two of Decision No. 144/S of June 10, 1925, concerning the definition, delimitation, and temporary occupation of public property.
+
+**Article 12: Acquired Rights over Water**
+1.  Acquired rights over water established before the issuance of Decision 144/S of 10/6/1925 shall be exercised according to the customs and traditions that justified their establishment, as long as they do not conflict with the requirements of sustainable water management, subject to the following provisions:
+    a. Acquired rights may no longer be invoked when these rights become futile, the reasons for which they were established cease to exist, or when the exercise of these rights becomes impossible for material reasons.
+    b. Acquired rights over water may not be transferred separately from the real estate on which these rights are exercised.
+2.  The procedures for exercising and extinguishing acquired rights and/or their suspension to address any water deficit shall be determined by a decree issued by the Council of Ministers upon the proposal of the Minister.
+
+**Article 13: The Water Register**
+1.  A Water Register shall be established at the Ministry of Energy and Water, consisting of the register of acquired rights mentioned in the preceding article, and the general inventory of waters that constitute the aquatic ecosystem of the Lebanese State.
+2.  The regulations for the Water Register, its organization, and its management shall be issued by decree.
+3.  The Land Registry, the General Directorate of Urban Planning, municipalities, and all public and private administrations and institutions that possess records and data related to water must provide the Water Register with this data and information.
+
+**Part Two - Organizational and Legal Framework**
+**Chapter One - The National Water Authority**
+
+**Article 14: The National Water Authority**
+1.  A national authority named "The National Water Authority" shall be established under the Presidency of the Council of Ministers, chaired by the Prime Minister, and shall be composed of:
+    *   The Minister of Energy and Water - Deputy Chairman.
+    *   The Ministers of Environment, Industry, Agriculture, Public Works and Transport, Health, Finance, Interior and Municipalities, and Tourism – Members.
+    *   The Directors General of the Public Water Establishments – Members.
+2.  The Authority may invite whomever it deems appropriate from the public and private sectors and from civil society organizations to attend its meetings.
+3.  The Authority shall establish its working mechanism by a decision issued by the Prime Minister.
+4.  The Authority may form a temporary technical committee chaired by the Minister of Energy and Water, composed of the concerned Directors General, to be joined when necessary by specialists and/or civil society organizations to study a specific subject.
+5.  The Authority shall prepare reports on its activities for submission to the Council of Ministers for its information.
+
+**Article 15: Role of the National Water Authority**
+The National Water Authority shall undertake the following tasks:
+1.  Contribute to defining the objectives and general guidelines for a national, public, and sustainable policy for the water sector.
+2.  Study the General Master Plan for Water, which shall become effective by a decree issued by the Council of Ministers.
+3.  Study the State's capacity to finance plans and projects, develop financing programs, and identify their sources.
+4.  Study plans and programs aimed at regulating water uses, preventing waste, and rationalizing consumption.
+5.  Approve projects and organize water distribution of national and regional importance, in addition to determining project priorities and their distribution across regions.
+6.  Study the orientations and measures deemed appropriate by the competent ministries for the implementation of integrated water management, particularly in the field of protecting aquatic ecosystems, including tourism, industry, energy, forest management, agricultural activities, livestock breeding, fishing, and urban planning.
+7.  Make recommendations concerning research, education, training, and information in the field of water, with the aim of improving the management of this resource.
+8.  Review international treaties related to the sharing of water in transboundary rivers or those that have an impact on national water security, and provide opinions thereon.
+
+**Chapter Two: Organization and Management of Water Resources**
+
+**Article 16: The General Master Plan for Water**
+1.  The Lebanese Republic shall be divided into basins and water or administrative regions, and the water resources of each shall be assessed and planned for their development and use as self-contained units, organized on the basis of the principle of integrated water resources management in line with socio-economic development trends and environmental conservation.
+2.  Sustainable water management shall be achieved through a General Master Plan for Water applied to the entire Lebanese territory, which includes coastal waters and basin networks within the scope of the hydrographic basin.
+3.  Ministries, public administrations, administrative and investment public institutions, and municipalities shall be bound by the General Master Plan for Water after its issuance by the Council of Ministers.
+
+**Article 17: Preparation of the General Master Plan for Water**
+The Ministry, in cooperation with the Public Water Establishments, shall prepare the General Master Plan for Water, in coordination with the Ministries of Environment, Agriculture, Public Works and Transport, and Industry. It shall be approved by a decree issued by the Council of Ministers upon the proposal of the Minister.
+
+**Article 18: Contents of the General Master Plan for Water**
+The General Master Plan for Water shall include the following:
+1.  An analysis of the characteristics of water and aquatic ecosystems that mainly determines:
+    a. The quantities of water currently consumed and available, and those anticipated to be available, based on which current and future water needs can be determined.
+    b. Current water needs in the main sectors: human consumption, agriculture, livestock breeding, industries and similar activities, hydropower generation, tourism, and recreational activities.
+    c. The anticipated medium-term and long-term evolution of water needs in the various sectors of the State.
+    d. The condition of water facilities, sanitation systems, and non-conventional water resource systems.
+2.  Data and tables including:
+    a. Quantities of conventional and non-conventional, surface, groundwater, and spring water.
+    b. The condition of surface and groundwater.
+    c. Areas subject to special provisions.
+    d. Water abstraction areas designated for human consumption.
+3.  Objectives for sustainable water management, including in particular:
+    a. The quantitative objectives to be achieved within a specific timeframe set in the Master Plan, to meet basic water needs and the necessity of harmonizing them with the surrounding environment and the basic needs of the population.
+    b. The qualitative objectives that allow for achieving, within a timeframe determined by the Master Plan, an acceptable environmental state for surface, groundwater, and coastal waters.
+    c. Securing the necessary facilities and equipment to prevent deterioration in water quality, provide protection for it, and improve the condition of water and aquatic ecosystems, and estimating their costs in order to secure them.
+    d. Defining the principles for informing citizens about the objectives and measures to be taken to maintain sustainable water management.
+    e. Defining the means for the optimal use of water to achieve the maximum benefit for all current and future needs in the main water sectors.
+    f. Developing a plan for the prevention and treatment of water pollution.
+4.  Maps that allow for the precise identification of the elements mentioned in the Master Plan, particularly:
+    a. Protected areas.
+    b. Polluted areas and areas at risk of pollution.
+    c. Water abstraction areas designated for human consumption.
+    d. Irrigation areas.
+    e. Areas vulnerable to water scarcity.
+    f. Areas where connection to the collective sanitation network is mandatory.
+    g. Areas where the Public Water Establishments actually provide potable water and collective sanitation.
+    h. The main facilities planned to be established to meet the urgent need for water and the objectives of sustainable water management defined in the Master Plan, particularly facilities for water extraction, potable water treatment, wastewater treatment, discharge of treated and stored water, rainwater drainage, desalination, or hydropower generation.
+    The General Master Plan shall designate the areas subject to it in accordance with the above.
+
+**Article 19: Scope of Application of the General Master Plan for Water**
+When implementing the General Master Plan for Water, the concerned administration must take into account all plans, programs, basin plans, licenses, and permits granted, urban planning, population ratios in the regions, the status of classified establishments, and, in general, all previous administrative decisions related to water.
+
+**Article 20: Evaluation of the General Master Plan for Water**
+The General Master Plan for Water shall be subject to evaluation and review once every five years, and whenever the need arises.
+
+**Article 21: Basin Plans**
+The Ministry shall establish the principles of general water planning in light of the results of the evaluation of basins or water service areas, such that it includes general indicators of the status of water basins in various Lebanese regions and trends in water demand for all water uses in the short, medium, and long term, as follows:
+
+**First: Preparation of Basin Plans**
+The Ministry must prepare plans for the main and sub-basins, particularly in areas suffering from a decline in their water resources or from pollution in their aquatic ecosystems.
+The scope of the basin plans shall be determined in coordination with the Public Water Establishments.
+The detailed rules for the application of this article shall be determined by a decree issued by the Council of Ministers upon the proposal of the Minister.
+
+**Second: Content of Basin Plans**
+Basin plans shall include the following:
+1.  A detailed report presenting the characteristics of the basin that justify the preparation of its specific plan, based on a comprehensive assessment of the water and ecosystem conditions therein.
+2.  An administrative document that specifies:
+    a. The qualitative and quantitative objectives and the deadlines assumed for their achievement.
+    b. An assessment of the water resources in the water basin in terms of quantity and quality.
+    c. An environmental impact assessment.
+    d. Procedures for monitoring waste discharge.
+    e. The priority for allocating equitable water distribution, treating and reusing water, and the control and monitoring procedures that ensure the fair and equitable use of water.
+    f. The method of water distribution among the different categories of beneficiaries.
+    g. Non-conventional water sources.
+    h. Conditions for resource management during crises, such as pollution, water shortages, floods, and fires.
+    i. The means to be used to achieve the specified objectives.
+    j. The indicators that allow for monitoring the work accomplished and evaluating the procedures, programs, and commitments undertaken in relation to the objectives.
+3.  Maps that allow for the identification of the sites targeted in the plan.
+Decisions related to basin plans must be consistent with the provisions of the General Master Plan for Water.
+
+**Article 22: Basin Classification System**
+The Ministry shall establish a system for classifying basins and water areas in light of their water conditions, with the purpose of placing similar ones under a single pattern of procedures.
+
+**Article 23: Basin Plans**
+Each basin or region shall have a water plan prepared by the concerned Public Water Establishment, consistent with the water policy and the General Master Plan. These plans shall be considered an integral part of the General Master Plan after their approval by the Ministry.
+
+**Part Three: Monitoring System**
+**Chapter One - General Monitoring Framework**
+
+**Article 24: General Provisions**
+Subject to the provisions of Law No. 221 of May 29, 2000, and its amendments, and the provisions of Articles (1) and (2) of Decision No. 320 of May 26, 1926, and with the aim of achieving sustainable management of water and aquatic ecosystems, the Ministry and the Ministry of Environment shall contribute, with the Lebanese Standards Institution (LIBNOR), to setting quality standards and the necessary provisions for the conservation of water and the ecosystems necessary for it. In particular, the various types of water consumption and their cumulative impacts on the aquatic environment shall be determined.
+
+**Article 25: Protection of Water Resources**
+The Ministry and the Public Water Establishments, each within its scope and competence, shall protect water resources from pollution, monitor emission standards and pollution sources, establish rules and procedures for monitoring the equipment of water facilities, prevent activities that may lead to pollution or degradation of water quality, and combat cases of accidental pollution.
+The Ministry and the competent Public Water Establishments may each take against the person causing the damage all or some of the following administrative measures:
+a. Prohibiting a specific activity that causes serious risks to aquatic ecosystems or preventing the continuation of such an activity.
+b. Ordering the implementation of repair works such as pollution removal and site maintenance at the expense of the person causing the damage.
+c. Imposing administrative and technical obligations and fines.
+d. Any measure aimed at preventing or limiting any damage affecting aquatic ecosystems.
+
+**Article 26: Technical Monitoring and Water Quality**
+1.  The Ministry shall ensure the monitoring of the quality of surface, groundwater, coastal, and spring water, including exploited or abandoned springs, wells, and boreholes. The Public Water Establishments shall be bound by the monitoring obligations mentioned in this paragraph when the water sources they exploit are affected.
+2.  The Ministry, in cooperation with the concerned Public Water Establishments, shall conduct technical monitoring of equipment, facilities, and works to verify the quality of the extracted water and to monitor and protect water systems from pollution.
+
+**Article 27: Monitoring of Works and Activities**
+The equipment, facilities, works, and activities carried out by any natural or legal person, belonging to either the public or private sector, which lead to the following, shall be subject to the monitoring system:
+1.  Extraction of surface, groundwater, spring, or coastal water, whether or not it is returned to its source.
+2.  Modification of the level or flow pattern of water.
+3.  Discharge, flow, release, or direct or indirect, chronic or occasional, deposition that affects the water or aquatic ecosystems, even if it does not cause pollution in the aquatic ecosystem.
+4.  Extraction of groundwater.
+5.  Cleaning, deepening, straightening, or regulating temporary or permanent watercourses.
+
+**Article 28: The Water Code**
+1.  A code shall be kept at the Ministry, to be organized by a decree issued by the Council of Ministers upon the proposal of the Minister.
+2.  The equipment, facilities, works, and activities mentioned in the preceding article must be recorded in the code.
+3.  The code shall clarify the nature of the controls to which these works are subject, taking into account their potential effects on the quality or level of water and aquatic ecosystems.
+4.  The code shall precisely define the specific levels that apply to water-scarce areas as defined in the General Master Plan.
+
+**Article 29: Compliance with the Provisions of the Environment Law**
+Every owner of a facility must comply with the provisions of the Environmental Protection Law in Lebanon, particularly Articles 21 to 48 of Law No. 444/2002.
+
+**Article 30: Preservation of Water Quality and Type**
+The Public Water Establishments shall establish rules for the equitable distribution of water among the different categories of beneficiaries, while preserving the quality and type of water. They must prevent any form of direct or indirect discharge or leakage of stagnant or polluted water and prevent any action of any kind that would alter the quality of the water or aquatic ecosystems and impose the necessary measures to preserve water quality.
+
+**Article 31: Water Quality Monitoring**
+The Ministry and the Public Water Establishments, each within its competence, shall monitor the quality of water at the source level to ensure its fitness for use, and shall also monitor the quality during transport, distribution, and use.
+
+**Article 32: Obligations of Facility Owners**
+The owners of industrial and classified establishments, and the owners of industrial, commercial, agricultural, and health facilities, and all others who engage in any activities that produce waste, must comply with the provisions of this law regarding refraining from discharging, releasing, diverting, or leaking waste of all types resulting from their activities into river courses and surface and groundwater environments, except after treating it in accordance with the procedures stipulated in the laws in force, under penalty of withdrawal of the licenses granted to them.
+The owners of industrial and classified establishments, and the owners of industrial, commercial, agricultural, and health facilities existing before the issuance of this law must submit to the competent authorities, within six months from its entry into force, applications to regularize the status of their facilities in accordance with its provisions, under penalty of withdrawal of the licenses granted to them.
+
+**Chapter Two: Right of Usufruct of Water**
+
+**Article 33: Traditional Usufruct Rights**
+Traditional rights in the use of rainwater harvesting and naturally flowing floodwater shall be observed, with respect to their use for irrigation and their connection to the agricultural land benefiting from them. Traditional irrigation rights from other water sources shall only be established outside the investment scope of irrigation projects belonging to the Public Water Establishments.
+The detailed rules for the application of this article shall be determined by a decree upon the proposal of the Minister.
+
+**Article 34: Public Interest and Right of Usufruct**
+Subject to the provisions of Article 12 of this law, the cases in which the Lebanese State may appropriate rights of usufruct of water if the public interest so requires or for the necessity of rationalizing water use shall be determined by a decree issued by the Council of Ministers upon the proposal of the Minister, with fair compensation to the beneficiaries in accordance with the laws in force.
+
+**Article 35: Application Procedures**
+1.  The conditions set forth in Decision No. 320 of May 26, 1926, shall be observed in licenses, except for what has been repealed or amended by this law.
+2.  A system and provisions for the application of the licensing system shall be established by a decree upon the proposal of the Minister, which shall include the following:
+    a. The applicable procedures.
+    b. Environmental impact assessment.
+    c. Rules related to extractions, especially the cases in which a minimum water level can be imposed.
+    d. The measures imposed to monitor compliance with the provisions of this chapter.
+
+**Article 36: Licensing System**
+Licenses shall be issued by the Minister according to the following rules:
+1.  No natural or legal person may, after the issuance of this law, establish any water facility to impound, obstruct, or divert runoff and flowing water in watercourses and valleys from their channels without obtaining a prior license. The Ministry shall conduct a comprehensive national survey of all facilities built without a license before the issuance of this law, study them on a case-by-case basis, and propose the necessary technical modifications and administrative procedures where required.
+2.  No water well may be deepened or cleaned without obtaining a license, under penalty of withdrawal of the previously granted license and the backfilling of the well at the owner's expense.
+3.  No new well or replacement well may be drilled, nor any water facility established, unless the beneficiary obtains a valid license for this purpose.
+4.  The beneficiary must comply with the conditions specified in the license, which determines the necessary conditions for implementation.
+5.  All works that may cause risks related to public health and safety, obstruct the flow of water, reduce water resources, significantly increase flood risks, or harm the quality of the aquatic environment or biodiversity in the aquatic environment shall be subject to a prior license.
+6.  All works related to water intended for non-domestic purposes shall be subject to a prior license. The same applies to irrigation facilities, hydroelectric facilities, fish farming, hydroponics, and water exploration.
+7.  Subject to the application of the provisions of Decision No. 320 of May 26, 1926, licenses may be withdrawn or amended by a reasoned decision issued by the Minister in the following cases:
+    a. If the decision is taken in the public interest.
+    b. To prevent dangerous situations such as water scarcity or floods.
+    c. In the event of a serious risk to the natural components of water and aquatic ecosystems.
+    Licenses may also be withdrawn by a reasoned decision issued by the Minister, without compensation, in the following cases:
+    a. When the water facilities are abandoned and are no longer needed by their operators.
+    b. If the licensee does not commence drilling works within the deadlines specified in the licensing system.
+    c. If they use this license for a purpose other than that for which it was granted.
+    d. If they violate the conditions stated in the license.
+    e. If they assign this license to a third party without also assigning the concerned real estate, with or without consideration, without the approval of the licensing authority.
+    The responsibility of the granting authority shall remain in accordance with the general principles governing the abuse of authority, especially if the decision to withdraw the license results in damages to the beneficiary of the license without any fault on their part.
+
+**Article 37: Regularization of Drilled Wells**
+Beneficiaries of water from groundwater wells, drilled without a license from the Ministry or drilled legally but whose owners did not obtain an operating license for them, have the right to obtain an operating license for them after submitting applications to regularize their status within a period not exceeding two years from the date of entry into force of this law, under penalty of closure of the well. The license shall be refused in the following cases:
+*   If the well is drilled on the property of others, public property, or common land.
+*   If the well affects water sources and flowing springs or those feeding lakes or rivers.
+Temporary licenses shall be granted to those whose licenses were withheld for the above reasons until alternatives are secured by the competent water authorities, unless the well is drilled on private and public property.
+
+**Chapter Three: Procedures and Measures**
+
+**Article 38: Administrative Measures**
+Anyone who violates the provisions of the licensing system stipulated under Article 36 of this law and Articles 745 to 749 of the Penal Code shall be subject to the criminal prosecution specified in Part Eight of this law. The Ministry also has the right, in addition to criminal prosecution, to take specific administrative measures against the violator as follows:
+1.  Warning the violator, operator, or owner to comply, within a period specified by the Ministry, with the provisions and instructions related to the violation.
+2.  Specifying the measures that the violator must take to remedy the damage caused.
+3.  In the event of a risk of pollution, deterioration of the aquatic ecosystem, damage to public health, or a threat to the supply of potable water, taking immediate measures at the expense and responsibility of the persons mentioned above to prevent and limit the pollution.
+4.  Suspending or withdrawing the license.
+5.  Drawing up a report of violation against the violator and referring it to the Environmental Public Prosecution or to the competent single criminal judge.
+The Ministry and the Public Water Establishments, each within its powers, must, upon learning of any damage to aquatic ecosystems, immediately take action to address the causes of the damage. They have the right to recover the expenses incurred from the person or persons responsible for causing the damage before the competent judicial authorities.
+
+**Article 39: Incidents**
+1.  Any person who becomes aware of an event that poses a risk to public safety, the quality, distribution, and conservation of water, or to the aquatic plant and fish wealth, must inform the competent authorities.
+2.  Any person who causes any act that harms the quality of water must, immediately upon becoming aware of it, take all appropriate measures to put an end to the risk or damage to the aquatic environment and take action to remedy it.
+3.  The competent administration that intervened to take measures to put an end to the damage to aquatic ecosystems has the right to recover what it incurred from the person causing the damage before the competent judicial authorities.
+
+**Part Four - Economic and Financial Organization of the Water Sector Management**
+**Chapter One - Management Principles**
+
+**Article 40: Industrial and Commercial Nature of the Public Water Utility**
+1.  The public water utility includes the public establishments for investment in potable water, irrigation, and sanitation.
+2.  The public water utility shall be managed like any public utility of an industrial and commercial nature, while observing the principle of continuity and development of the public utility.
+
+**Article 41: Principle of Financial Balance**
+1.  The Public Water Establishments must achieve financial balance for the water utility.
+2.  In order to observe the principle of financial balance for the utility, public water utilities shall be financed from the fees and revenues from subscriptions paid by the beneficiaries.
+
+**Article 42: Financial Balance of Services**
+1.  The fees or tariffs for public water services shall be determined by applying the principle of financial balance of services, which requires the beneficiary to pay for their water consumption, and the polluter to pay for the treatment and repair of the damages they caused.
+2.  The fees or tariffs shall be determined after taking into account the financial balance of the establishment and the social and economic conditions of the beneficiaries. These fees shall follow an increasing block tariff based on the quantity of consumption.
+3.  Until the procedures for applying volumetric tariffs are completed, flat-rate tariffs shall be applied in non-eligible areas.
+
+**Article 43: State Contribution**
+Notwithstanding the principles set out in the articles above, the Lebanese State may make contributions to a public water utility by contributing to the financing of expenses for the renovation, modernization, and expansion of the works of the Public Water Establishments' projects and securing the operating expenses of these projects.
+
+**Chapter Two - Financial and Accounting Provisions**
+
+**Article 44: Financial Provisions**
+1.  The budget and accounts of each Public Water Establishment shall show in detail how the operation, investment, and maintenance operations are distributed for each of potable water, sanitation, and agricultural irrigation. The funds and fees collected from the above operations cannot be used to finance the investment and maintenance of rainwater collection facilities that are not under the authority of the Establishment.
+2.  A specific accounting design must be prepared for each service within the Public Water Establishments.
+
+**Article 45: Approval of Fees**
+The Public Water Establishments shall approve the fees for public water services, including the fees for connection to the public networks within the investment area of the Establishment, subject to the approval of the supervisory authority.
+
+**Article 46: Fees**
+The fees established under this law may include:
+*   Fees for potable water services.
+*   Fees for sanitation services.
+*   Fees for irrigation services.
+*   Fees for the conservation of the water resource and protection of aquatic systems.
+*   Fees resulting from pollution.
+*   Fees for tourism and industrial investment, fishing, aquaculture, and energy generation.
+
+**Article 47: Potable Water Fees**
+1.  Potable water fees and subscriptions are due from everyone who benefits from the public water network.
+2.  The subscription fee for the public potable water network can be determined based on the quantity of water consumed by the subscriber by means of a water meter.
+
+**Article 48: Sanitation Fees**
+Sanitation fees determined under the provisions of this law include fees for collective sanitation and fees for non-collective sanitation.
+1.  Collective sanitation fees are payable by everyone connected to the public sanitation network. This fee is determined based on the volume of water drawn by the beneficiaries of the service, whether its source is the public potable water network or any other source.
+    Fees for non-domestic use of the public sanitation network shall be determined on the basis of:
+    a. The volume and quality of the discharged water, provided that it complies with environmental standards and specifications. If it does not comply with these standards and specifications, the provisions of Article 51 (Pollution Compensation Fee) shall apply.
+    b. The pollution load of the emissions resulting from this water.
+    Natural or legal persons who do not comply with the obligation to connect to the collective sanitation network shall be subject to a fine equal to the value of the fee set for connection to the collective sanitation network.
+2.  Non-collective sanitation fees are payable by everyone not connected to the sanitation network as specified in paragraph "1" above, based on the quantity and quality of the water drawn.
+
+**Article 49: Irrigation Fee**
+1.  An irrigation fee is due from every beneficiary or owner of a property connected to the public irrigation network.
+2.  The value of the fees due shall be determined in relation to the irrigated area or the quantities of water consumed, taking into account the type of irrigated crops.
+
+**Article 50: Fees Related to the Conservation of Water Resources and Protection of Aquatic Systems**
+1.  When necessary, and for the purpose of conserving the water resource and protecting aquatic systems, the Public Water Establishments may impose a fee on natural or legal persons benefiting from water, based on the irrigated area or the number of cubic meters drawn, consumed, or allocated for supply, provided that this fee is used to finance works for the conservation of the water resource and the protection of the related aquatic ecosystems.
+2.  When determining the persons liable, the activities concerned, and the value of the fees, the economic, social, cultural, and environmental importance of these activities and the revenues and profits of any kind shall be taken into account.
+The Public Water Establishments shall collect the fees for the conservation of the resource and protection of aquatic systems from any beneficiary.
+
+**Article 51: Pollution Compensation Fee**
+1.  Natural and legal persons whose activities lead to the pollution of aquatic ecosystems in a way that is not subject to mitigation and pre-treatment, and whose pollution level does not exceed nationally and internationally accepted standards, shall be subject to a compensation fee to be determined by a decree upon the proposal of the Minister.
+2.  The aforementioned compensation fee shall be proportional to the seriousness of the pollution and the extent of the damage to the aquatic environment.
+3.  The compensation fee may be reduced in light of the measures taken by the person causing the damage to remedy it.
+4.  The payment of pollution compensation fees does not preclude the criminal and civil liability of the polluter in the case where their actions are a source of damage or constitute a criminal offense.
+The concerned administrations must take measures that ensure the preservation of the aquatic environment.
+
+**Article 52: Issuance of Bills**
+The bills issued by the Public Water Establishments must clearly indicate the fees for each utility.
+
+**Article 53: Procedures for Issuing and Paying Bills**
+The Public Water Establishments may issue several bills per year, and each beneficiary of this utility's water has the option to pay the value of the subscriptions due in the year in several installments.
+
+**Article 54: Information Regarding Fees**
+Water beneficiaries shall be informed of the new fees, the justifications for their amendment, and their effective date by means of an official announcement circulated in the media and to the concerned municipalities. Bills issued after the amendment of the fees must specify the old and new fees.
+
+**Article 55: Survey of Beneficiaries' Opinion**
+With the aim of improving service and sustainable development, the Public Water Establishments shall conduct a survey of beneficiaries' opinions every three years. The results shall be sent to the Minister and published through the media.
+
+**Part Five: Management of the Public Water Utility**
+**Chapter One - General Provisions**
+
+**Article 56: Public Water Establishments**
+The Public Water Establishments shall manage the public water utility in accordance with the provisions of Law No. 221 of 29/5/2000 and its amendments, the regulations issued for its application, and the provisions of this law.
+
+**Article 57: Public Water Utilities**
+1.  The public potable water utility includes the service of collecting, producing, treating, transporting, storing, and distributing water. Distribution to beneficiaries is mainly done through connections from the network. Water may not be supplied otherwise except in exceptional and temporary cases.
+2.  The public collective sanitation utility includes the collection, transport, and treatment of wastewater. The goal of wastewater treatment is to eliminate pollutants so that it is compatible with the receiving environments. Treatment operations include the treatment and cleaning of all pollutants and sludge in the network and treatment plants up to the outfalls.
+3.  Wastewater is primarily from domestic sources. By virtue of ordinary or special agreements concluded by the Public Water Establishments in this regard, wastewater resulting from commercial or industrial activities may be connected to the public sanitation network, provided that this water is compatible with the technical standards of the networks and treatment plants.
+4.  The Public Water Establishments may supply water for agricultural purposes through the irrigation network or through a set of hydraulic installations.
+
+**Article 58: Agreements with the Public Sector**
+The Ministry and the Public Water Establishments, subject to the competence of each according to the laws and regulations in force, may conclude agreements with public law persons to ensure the sustainable management and development of the public water utility. These agreements may be concluded with municipalities to regulate the application of the provisions of Article 8 of Law No. 221 of May 29, 2000, on the Organization of the Water Sector, with respect to the committees currently managing and operating potable and irrigation water.
+These agreements, when implemented, shall respect the provisions of the General Master Plan for Water and the basin plans and may not cover anything that contravenes the subject of the operation of the public water utility.
+
+**Article 59: Private Sector Participation through Joint Projects**
+The provisions of Law No. 48 of 7/9/2017 "Law on Regulating Public-Private Partnership" shall apply when awarding a contract for a "joint project."
+These contracts shall respect the provisions of the General Master Plan for Water and the basin plans and may not cover anything that contravenes the subject of the operation of the public water utility.
+
+**Article 60: Private Sector Participation through Other Forms**
+The provisions of the regulations in force at the Public Water Establishments shall remain effective when awarding contracts for projects in which the private sector's participation differs from the form stipulated in the definition of a "joint project."
+These contracts shall respect the provisions of the General Master Plan for Water and the basin plans and may not cover anything that contravenes the subject of the operation of the public water utility.
+
+**Chapter Two - Management of the Public Potable Water Utility**
+
+**Article 61: Water Quality**
+The distributed water must be potable, regardless of the form of management of the utility. The competent administrations, especially the Ministry and the Ministry of Public Health, must ensure the application of the standards and specifications in force.
+
+**Article 62: Principle of Utility Exclusivity**
+Within the scope of investment, the public potable water utility enjoys exclusivity of distribution and the exclusive right to maintain the facilities and water channels necessary for the utility.
+Each Public Water Establishment shall take over all potable water committees and projects prior to Law No. 221/2000 that have not yet been taken over, within one year from the date of issuance of this law and in accordance with the procedures in force.
+
+**Article 63: Connection Obligation**
+Every building owner is obliged to connect their building and all its sections to the public potable water distribution network before it is occupied. The connection shall be made in accordance with the system established by the concerned Public Water Establishment and in accordance with the contract signed between it and the beneficiary.
+No transaction related to a real right on the property subscribed to potable water shall be registered in the Land Registry unless the property owner presents a clearance certificate issued by the Establishment stating that the subscriber has paid all due fees, charges, and fines.
+
+**Article 64: Special Subscription Contracts**
+The public potable water utility may distribute water to beneficiaries for non-domestic purposes, and special subscriptions shall be determined in this case.
+
+**Article 65: Utility Performance**
+In application of the legal system governing delegation in the public water utility or what is stipulated in the management contract organized with the competent administration, the public potable water utility is committed to meeting the requirements related to the continuity and quality of the supplied water, as well as respecting the deadlines for subscription requests or their termination.
+
+**Article 66: Measurement of Potable Water Consumption**
+The subscriber's consumption is measured by suitable meters in accordance with the contract signed by the beneficiary. Connections not equipped with meters must meet this condition within a period specified by the Public Water Establishment.
+
+**Article 67: Regulations of the Public Potable Water Utility**
+The regulations of the public potable water utility shall define the relations with water beneficiaries, especially the rules governing connections, special subscriptions, and the locations for placing consumption measurement devices, in addition to the performance of the utility.
+
+**Chapter Three - Management of the Public Collective Sanitation Utility**
+
+**Article 68: Principle of Utility Exclusivity**
+Within the investment scope defined in the General Master Plan for Water stipulated in Article 16 of this law, the public collective sanitation utility exclusively enjoys the right to manage this sector and the exclusive right to maintain all facilities and channels necessary for this utility.
+
+**Article 69: Obligation to Connect to the Public Sanitation Network**
+Within the scope of collective sanitation, every building owner is obliged to connect the building to the network within a period not exceeding one year from the date of full implementation of the sanitation system. As for buildings or sections not intended for housing, they must be connected to the sanitation network within the said period with respect to waste of a domestic nature.
+Every person is obliged to connect to the sanitation network, and sanitation fees are determined based on the subscriber's consumption on the public potable water network. If they benefit fully or partially from a private water source, they must declare it to the Establishment that manages the public utility, and the sanitation fees due from them shall be determined by measuring the consumption from the private source.
+
+**Article 70: Special Subscription Contracts**
+The public sanitation utility may agree to connect non-domestic wastewater under a special connection agreement, provided that the nature or volume of such waste does not cause a malfunction in the operation of the sanitation facilities, and that the said agreement specifies the procedures for assessing the pollution and the discharged volumes.
+Regarding seasonal activities, temporary agreements for waste discharge may be approved exceptionally and for a limited period, provided that they do not cause any damage to the conveyance or wastewater treatment facilities or to the receiving environment.
+
+**Article 71: Utility Performance**
+The public collective sanitation utility is committed to ensuring the continuity and quality of wastewater collection and treatment.
+
+**Article 72: Regulations of the Public Collective Sanitation Utility**
+Relations with the beneficiaries of the collective sanitation network are subject to the regulations established by the Public Water Establishments for the management of this utility and approved by the supervisory authority.
+
+**Article 73: Monitoring of Non-Collective Sanitation Installations**
+The procedures adopted by the administration to monitor and manage non-collective sanitation installations shall be determined by decree.
+
+**Chapter Four - Management of the Public Irrigation Utility**
+
+**Article 74: General Provisions**
+1.  Subject to the legal provisions in force, the Public Water Establishments, each within its investment scope, shall manage and operate irrigation water, including the maintenance of water conveyance, storage, transport, and distribution systems, and the preservation of its quality.
+2.  Applications for subscription to irrigation water shall include clauses specifying the scope of supply, the irrigated area, the types of crops, the irrigation schedule, the required quantities, and the irrigation method.
+3.  Any modification to the contents of the above clause requires a request to amend the subscription, provided that this request is submitted within the deadline specified in the operating regulations of each Public Water Establishment.
+4.  The establishments in charge of irrigation shall keep a register showing the names of the beneficiaries, the irrigated areas, the crops grown, and the quantities drawn, which shall be continuously updated.
+5.  No transaction related to a real right on the property subscribed to irrigation water shall be registered in the Land Registry unless the property owner presents a clearance certificate issued by the Establishment stating that the subscriber has paid all due fees, charges, and fines.
+6.  The regulations for the management and operation of irrigation projects and their amendments shall be binding in regulating the relationship between the beneficiaries and the Public Water Establishment.
+7.  Each Public Water Establishment shall take over all irrigation water committees and projects prior to Law No. 221/2000 that have not yet been taken over, within one year from the date of issuance of this law and in accordance with the procedures in force.
+
+**Article 75: Water User Associations for Irrigation**
+1.  When needed, Water User Associations for Irrigation shall be established in accordance with the provisions of this law, by a decree issued by the Council of Ministers upon the proposal of the Minister based on a request from the concerned Public Water Establishment. Their administrative board shall include a representative of the concerned Public Water Establishment.
+2.  Water User Associations for Irrigation must be non-profit, and at least 65% of the beneficiaries from a specific water source, representing at least 51% of the area of the benefiting geographical region, must be members.
+3.  The geographical area within which the Water User Associations for Irrigation operate and the water source mentioned in the preceding paragraph shall be specified in the decree establishing the association.
+4.  Each Water User Association for Irrigation shall have its own unique name, which may be the name of its place of operation or other distinctive names, which must begin with the following phrase: "Water User Association for Irrigation." Its work shall be confined to the geographical scope or the specified water source, without the scope of one association overlapping with that of another.
+5.  The detailed rules for the application of this article, the administrative and financial regulations to which the Water User Associations for Irrigation are subject, and the mechanism for converting existing committees into Water User Associations for Irrigation shall be determined by a decree issued by the Council of Ministers upon the proposal of the Minister.
+
+**Article 76: Activities of Water User Associations for Irrigation**
+Water User Associations for Irrigation shall carry out the following activities:
+1.  Operating, maintaining, and preserving the sub-distribution network within their scope, in agreement with the Establishment.
+2.  Organizing the process of benefiting from and using irrigation water and collecting membership subscriptions from members, in return for the services provided to them.
+3.  Taking appropriate measures to combat soil degradation, salinity, and pollution, and promoting environmental protection.
+4.  Providing irrigation equipment, machinery, tools, and the necessary fittings for the operation and maintenance of the relevant water distribution network within their scope, as well as ensuring their replacement, operation, and maintenance.
+5.  Training their members on the use of modern irrigation techniques, aspects of irrigated agriculture, methods of water conservation, and rational use of fertilizers and pesticides.
+6.  Contributing and assisting, after the approval of the concerned Public Investment Establishment, in the establishment, improvement, rehabilitation, operation, and maintenance of infrastructure complementary to irrigation projects, especially the main and secondary drainage channels within the association's scope.
+7.  Seeking to resolve disputes arising between the members of the association or with third parties.
+8.  Working to observe, respect, and ensure the interests of the association's members.
+
+**Article 77: Fundamental Principles**
+Every Water User Association for Irrigation must adhere to and respect the following principles in its work:
+1.  Justice and fairness, ensuring respect for the rights of its members, especially in decisions related to the distribution of irrigation water to beneficiaries in a manner that ensures proportionality and reconciliation between needs and available resources.
+2.  Rational use of resources, by the association managing the sub-distribution network within its scope in a rational manner that prevents the overuse of water, soil erosion, salinity, and pollution, as well as promoting environmental protection.
+3.  Transparency and participation, by working in an open, clear, and transparent manner, and encouraging members to participate effectively in its administrative bodies.
+
+**Chapter Six - Annual Water-Related Reports**
+
+**Article 78: Annual Report of the Public Water Establishments**
+Each Public Water Establishment, within its geographical scope, shall prepare an annual report on the water utilities that fall within its geographical scope, in accordance with the provisions of Article (6) of Law No. 221/2000 and its amendments.
+The report shall present the administrative, technical, and financial characteristics and conditions, operating procedures, utility performance, changes in the quality of distributed water, the rate of investment, fees, the status of bill collection, current and future water needs, as well as extension works and renovation of completed water facilities and the programs established for them.
+The annual report shall be submitted to the Minister after its approval by the board of directors of the Public Water Establishment. The Minister shall forward a copy of the annual report to the Parliament in accordance with procedures, and the report shall be published on the official website of the Ministry of Energy and Water.
+
+**Article 79: General Report on the Conditions and Sustainable Management of Water**
+The Minister shall prepare an annual general report on the conditions of sustainable water management.
+The report shall include, in particular:
+1.  The procedures for implementing this law, whether with respect to decrees, decisions, circulars, plans, programs, or ordinary procedures.
+2.  The evolution of available quantitative and qualitative data.
+3.  The outcome of the program for the management and economic use of water.
+4.  The measures taken by the administration.
+The annual report on the general situation and sustainable management of water shall be published in the Official Gazette, and a copy shall be sent to the Parliament and to the National Water Authority.
+
+**Part Six - Protection of Aquatic and Water Ecosystems**
+**Chapter One - Preventive Measures**
+
+**Article 80: Principles**
+1.  Every individual must contribute effectively to the conservation and protection of water throughout the Lebanese territory, and of aquatic ecosystems and waters, and inform the competent administration of any malfunction or damage they may be subjected to.
+2.  Public administrations, especially the Ministry, the Ministry of Environment, the Public Water Establishments, and the Governors, each within the scope of their powers, shall ensure the protection of water and aquatic ecosystems in accordance with the legal provisions in force.
+
+**Article 81: Conservation of the Aquatic Environment**
+The conservation of the aquatic environment is an element of the management of the public water utility.
+
+**Article 82: General Duties of the State**
+1.  The concerned public administrations shall protect the public water utility. The works and operations related to it may be secured by virtue of agreements or contracts.
+2.  The concerned public administrations, their contractors, and the beneficiaries of rights over the public water utility must ensure the maintenance of the aquatic environment and the protection of the national plant, animal, and fish wealth in a way that ensures the free flow of water, limits its pollution, and protects the facilities associated with it.
+
+**Article 83: Duties of Owners of Properties Adjacent to Riverbanks**
+The owner of a property adjacent to a riverbank must ensure the proper care of the banks and the conservation of plant and animal life while respecting the balance of aquatic ecosystems.
+
+**Article 84: Protection of Water Collection Sites**
+**First: Scope of Protection**
+1.  In order to ensure the protection of water quality, it is necessary, before licensing works and facilities established for the abstraction of surface water and/or the extraction of groundwater intended for human consumption, or when licensing them, to designate the point of extraction perimeter and the scope of each of the immediate protection zone, the adjacent protection zone, and, if necessary, the remote protection zone.
+2.  This scope shall also be determined in cases of abstractions and extractions subject to licenses, as long as the water is intended wholly or partially for human consumption.
+3.  The scope of protection shall be determined by a decision issued by the Minister and/or the competent Ministers, each within the scope of their competence.
+
+**Second: Regulations for Protection Zones**
+1.  The State shall expropriate, for the benefit of the Ministry or the Public Water Establishments, the lands located within the immediate protection zone, and these establishments shall fence them and ensure that they are exclusively allocated for water abstraction and exploitation and regularly maintained for this purpose.
+2.  Within the adjacent protection zone, all constructions and activities that would directly or indirectly harm the quality of the water or the aquifer, or that could render this water unfit for human consumption, are prohibited.
+3.  This prohibition particularly applies to landfills for waste and refuse, the spreading of fertilizers, oil installations, facilities and warehouses for chemical and organic materials, quarries, and any materials that pose a risk of pollution or toxicity, especially chemical substances, pesticides, fertilizers, and the drilling of water wells.
+4.  In addition to the immediate and adjacent zones, the Ministry and/or the Public Water Establishments may define a remote protection zone in which lands may be expropriated if necessary, and the warehouses, equipment, and activities mentioned in the previous paragraph shall be regulated to avoid the risks of pollution they may pose to the extracted water.
+
+**Third: Protection of Natural and Cultural Water Heritage**
+1.  Public parks, nature reserves, as well as wetlands of international importance included in the list provided for in the Ramsar Convention of February 2, 1971, shall be subject to regulation, and if necessary, acts that would threaten the balance of these ecosystems or that could affect their biodiversity shall be prohibited therein. This refers in particular to water uses that lead to a modification of its level, the spreading of chemical substances for any purpose, especially pesticides, the discharge of liquid waste or toxic substances, the discharge of wastewater, and the accumulation of filth or domestic or industrial waste.
+2.  If necessary, the regulation or prohibition may extend to acts carried out or anticipated outside the scope of the protected area or wetland.
+3.  The Ministry of Environment shall prepare a plan for wetlands of international importance included in the list provided for in the Ramsar Convention.
+
+**Fourth: Cultural Water Heritage**
+1.  Natural environmental sites and landscapes that represent a special aesthetic and cultural significance may be subject to special protection, including the regulation of activities and equipment that may harm them or their prohibition if necessary.
+2.  The protection measures referred to above shall be taken by joint decisions issued by the Minister and the Ministers of Environment and Culture.
+3.  The protection measures referred to shall apply to bodies of water and areas under the water surface that are of archaeological significance.
+
+**Fifth: Protection of Coastal Springs**
+1.  The sources of fresh springs emerging along the Lebanese coast shall be identified by a decree upon the proposal of the Minister.
+2.  These springs shall be subject to the scope of protection mentioned in the preceding paragraphs, and to special protection for which immediate protection zones shall be defined, within which certain activities are prohibited, particularly fishing, navigation, and any activities or works under the water surface.
+3.  The conditions for the application of this article, as well as the detailed rules for allocating the emerging water for population supply or for other uses, shall be determined by a decree upon the proposal of the Minister and the Minister of Environment.
+
+**Part Seven: Prevention and Management of Natural Risks**
+**Chapter One – Flood Prevention**
+
+**Article 85: General Provisions**
+Subject to the conditions and provisions of sustainable water management, the Minister shall take appropriate precautionary measures to limit floods and the resulting damages in areas exposed to flood and torrent risks as identified in the General Master Plan for Water.
+
+**Article 86: Public Utility Easements**
+1.  In areas where flood risks prevail, as identified in the General Master Plan for Water, a decree issued upon the proposal of the Minister and the Ministers of Public Works and Transport, Environment, and Agriculture shall determine the following:
+    a. The geographical areas where all constructions, works, arrangements, or activities may be prohibited. And if necessary, subjecting the works that may be practiced without endangering the population to specific rules.
+    b. The geographical areas where constructions, works, arrangements, or activities that may increase flood risks or their harmful consequences may be regulated, and if necessary, prohibited.
+2.  The works required by these provisions or rules shall be at the expense of the owners, operators, or beneficiaries.
+3.  The restrictions on land use resulting from the provisions of this article constitute public utility easements.
+
+**Chapter Two - Prevention of Water Scarcity**
+
+**Article 87: Principles**
+1.  In areas with a water deficit identified in the General Master Plan for Water, the Ministry must implement the required administrative procedures to ensure the regulation and rationalization of water use, while maintaining, if possible, a sufficient flow rate in watercourses to ensure the balance of the ecosystem.
+2.  Meeting domestic water needs is a priority for the population, followed by irrigation needs, in areas with a water deficit identified in the General Master Plan for Water.
+3.  Non-conventional water may be used to cover the deficit, provided that it complies with health standards.
+
+**Article 88: Prevention Measures**
+1.  The Minister shall, by decision, based on the General Master Plan for Water or upon the proposal of the Public Water Establishments, take the necessary measures to ensure the sustainable management of water.
+2.  Upon verification of a water deficit, the Minister may, by decision, subject certain categories of water uses to specific measures which may include the temporary suspension of acquired rights over water or the reduction of the quantities of water subject to these rights.
+3.  The measures taken shall be proportional to the crisis situation and shall determine:
+    a. The conditions for meeting priority services.
+    b. The uses subject to prohibition and those subject to rules, as well as the deadlines and details for the application of this prohibition and these rules.
+    c. The procedures for distributing water to and among beneficiaries.
+    d. If necessary, the conditions for transferring water between basins.
+4.  In exceptional cases, special measures may be imposed by a decree upon the proposal of the Minister.
+
+**Part Eight: Penal Provisions**
+**Chapter One - Applicable Penal Provisions**
+
+**Article 89: Relevant Laws**
+Acts and crimes arising from the violation of the provisions of this law shall be subject to the following legal provisions:
+*   The penalties contained in this law, especially Articles 90 to 97 thereof.
+*   Articles 58 to 60 of Decision No. 320 of May 26, 1926.
+*   Article 23 of Decision No. 144 of June 10, 1925.
+*   Articles 745 to 749 of the Penal Code related to crimes concerning the water system.
+*   The law issued by Legislative Decree No. 8735 of August 23, 1974, concerning public sanitation.
+*   Law No. 64 of August 12, 1988, concerning the protection of the environment against pollution from toxic, harmful, and hazardous waste.
+*   Law No. 623 of April 23, 1997, concerning the tightening of penalties for encroachments on electricity, telephone, and water networks.
+*   Law No. 444 of July 29, 2002, concerning the protection of the environment, especially Part Six thereof.
+*   Law No. 80 of October 18, 2018, "The Integrated Solid Waste Management Law."
+
+**Chapter Two: Penalties**
+
+**Article 90: Infractions**
+1.  Whoever abstracts water in violation of the obligation to obtain the license stipulated under Article 36 of this law shall be punished with imprisonment from one day to 10 days, and a fine ranging between one and a half times the minimum wage and 22 times the minimum wage, or with one of these two penalties.
+    The same penalties shall apply to anyone who establishes, modifies, or operates a facility or carries out works or activities therein without obtaining a license for the works.
+2.  Whoever establishes a facility or equipment, or carries out works, or engages in an activity without complying with the conditions specified in the license document shall be punished with a fine ranging between one and a half times the minimum wage and 15 times the minimum wage.
+
+**Article 91: Misdemeanors**
+1.  Whoever, intentionally or unintentionally, throws, discharges, casts, or pours a substance or substances that harm surface or groundwater or seawater, or throws, discharges, or leaves waste of any nature in surface or groundwater or in seawater within the limits of the territorial waters of the Lebanese State, shall be punished with imprisonment from ten days to three years, and a fine ranging between 4 times the minimum wage and 220 times the minimum wage, or with one of these two penalties.
+2.  These penalties shall apply if these acts are committed on the banks of rivers or on the seashore.
+3.  The penalties provided for above shall be increased if these acts cause harm to public health or to plant, fish, and animal wealth, or lead to serious modifications in the normal system of water supply, or to the restriction of the use of swimming areas.
+
+**Article 92: Aggravated Misdemeanors**
+Whoever operates a facility or equipment, or carries out works, or engages in an activity in violation of a measure involving a prohibition, suspension, or destruction ordered by the court in application of Article 96 of this law shall be punished with imprisonment from one month to three years and a fine ranging between 7 times the minimum wage and 300 times the minimum wage, or with one of these two penalties.
+
+**Article 93: Repetition**
+In the event of repetition, the penalties for the crimes stipulated in Articles 90, 91, and 92 of this law shall be doubled.
+
+**Article 94: Investigation of Crimes and Prosecution Procedures**
+1.  Employees of the Ministry and the Public Water Establishments, each within its scope, are granted the powers of judicial police with regard to investigating crimes arising from the application of this law and its implementing decrees. For this purpose, they may do the following:
+    *   Enter the premises and buildings of suspected equipment, facilities, investments, and establishments.
+    *   Inspect all equipment, facilities, machinery, and warehouses.
+    *   Obtain all documents and information related to the equipment and relevant activities.
+    *   Take samples and take the necessary protective measures.
+    They shall also have the right, when necessary and in order to perform their duties, to seek assistance from the security forces, in accordance with procedures, under the supervision of the competent Public Prosecution.
+2.  Subject to the provisions of Article 11 bis of the Code of Criminal Procedure concerning the Environmental Public Prosecution, the reports of crimes drawn up by the employees of the Ministry and the Public Water Establishments may be immediately referred to the competent single criminal judge, who shall take up the public case based on them to rule according to ordinary procedures. Upon referral, the judge may take one or some of the measures stipulated in Article 95 of this law.
+3.  The procedures for the application of this article shall be determined, where necessary, by a decree upon the proposal of the Minister and the Minister of Justice.
+
+**Chapter Three - Measures Related to Penalties**
+
+**Article 95: Judicial Measures**
+In addition to the criminal penalties and fines imposed, the court, if it finds that the damage resulting from the committed acts and crimes leads to harm to human health, aquatic ecosystems, or harm to water in quantity or quality, may order:
+1.  The suspension of operations, activities, or works.
+2.  The cessation of operations or the prohibition of the use of equipment or facilities.
+3.  The removal and/or confiscation of equipment or facilities.
+4.  The imposition of the rehabilitation of the aquatic environment and/or the ecosystem.
+5.  The taking of all measures aimed at remedying the damage and preventing its exacerbation.
+
+**Article 96: Expedited Enforcement**
+An appeal shall not suspend the execution of the appealed judgment. The judgment of first instance may be executed before the expiry of the appeal period and before a decision is made on it upon appeal, unless the court decides otherwise within a period of ten days from the date of the appeal, by a well-reasoned decision explaining the factual and legal reasons on which it based its decision.
+
+**Article 97: Non-conflict of Criminal and Administrative Prosecution**
+The application of penal provisions shall not prevent the competent administrative authorities from exercising their power to issue decisions or implement the measures stipulated in Article 38 of this law.
+
+**Part Nine: Legal Follow-up of Water Management**
+
+**Article 98: Monitoring of Water Policy**
+The Ministry, in coordination with the National Water Authority, shall monitor the water policy.
+
+**Article 99: Information Collection**
+The Ministry shall collect and document all information and data available from the public and private sectors, international organizations, associations, and non-governmental organizations working in the field of water protection related to aquatic ecosystems and the management of public utilities in charge of managing potable water services and supplies, the sanitation network, and the rainwater and irrigation network.
+
+**Article 100: Informing Citizens**
+1.  In order to enable citizens to exercise their rights and fulfill their duties and to ensure the sustainable management of resources and aquatic ecosystems, the Ministry and the Public Water Establishments shall regularly publish all information related to the quality of potable and irrigation water provided to consumers.
+2.  Publication shall be done through the website of the Ministry and the concerned Water Establishments and by any other means.
+3.  In areas exposed to the risks mentioned in Part Seven of this law, the competent authorities shall make available to citizens information related to the prevention and management of these risks.
+
+**Article 101: Training on the Law and Sustainable Water Management**
+1.  The Ministry shall undertake the task of informing and training employees and users working on the application of this law and sustainable water management. Training programs for sustainable water management shall include levels proportional to the different stages of education.
+2.  The Ministries of Environment, Education, and Information, the Public Water Establishments, environmental protection associations, and the private sector shall participate in educating citizens about the concept of the right to water and water culture.
+
+**Part Ten: Final and Transitional Provisions**
+
+**Article 102: Implementing Decrees**
+The implementing decrees mentioned in this law shall be issued upon the proposal of the Minister.
+
+**Article 103: Repealed and Amended Texts**
+*   The phrase "a special decision issued by the Head of State" shall be replaced by the phrase "a decree issued by the Council of Ministers upon the proposal of the Minister" wherever it appears in Decision No. 144/S of 10/6/1925 and in Decision No. 320 of 26/5/1926.
+*   The phrase "an order from the Head of State or from the authority delegated by them for this purpose" shall be replaced by the phrase "a decree issued by the Council of Ministers upon the proposal of the Minister" wherever it appears in Decision No. 144/S of 10/6/1925 and in Decision No. 320 of 26/5/1926.
+*   The phrase "Director of Public Works" shall be replaced by the phrase "the Minister" wherever it appears in Decision No. 144/S of 10/6/1925 and in Decision No. 320 of 26/5/1926.
+*   Legislative Decree No. 227 of 19/10/1942 concerning drinking water supply projects is repealed.
+*   The Law on the Repair and Restoration of Common Canals issued in March of the year 1918 (1334 Hijri) is repealed.
+*   Article 5 of Decree No. 4537/1972 is repealed.
+*   From Decision 320/1926, the following articles and paragraphs are repealed: Paragraph 7 of Article 1, Article 3, Articles 6 to 12, and Part Six "Syndical Associations," Articles 30 to 56.
+*   The effects of Articles 21, 22, and 23 of Decision No. 144/S issued on 10/6/1925 are annulled with regard to the water sector.
+*   All texts preceding this law that conflict with its provisions are considered repealed, and Law No. 77/2018 is also repealed.
+
+**Article 104: Applicable Texts**
+1.  The provisions of this law shall apply to all matters related to the water sector.
+2.  In the absence of a provision in this law, the following legislative and regulatory texts shall apply:
+    *   Law No. 221 of 29/5/2000, "Law on the Organization of the Water Sector."
+    *   Legislative Decree No. 108 of September 16, 1983.
+    *   Law No. 210 of 30/3/2012 ("Law Regulating the Treatment, Bottling, and Sale of Bottled Drinking Water").
+    *   The Law establishing the Litani River Authority issued on August 14, 1954, and its amendments, with respect to the Authority.
+    *   Law No. 63 of 10/10/2016 and Laws 64 and 65 of 3/11/2016.
+
+**Article 105: Publication**
+This law shall enter into force upon its publication in the Official Gazette.
+
+---
+**Index of the Water Law**
+
+**Part One: General Provisions**
+*   **Chapter One - Preliminary Provisions and Definitions**
+    *   Article 1: Water as a National Resource
+    *   Article 2: The Right to Water
+    *   Article 3: Objectives of the Water Law
+    *   Article 4: Definitions
+*   **Chapter Two - Principles of the Water Law**
+    *   Article 5: Rights of Water Beneficiaries
+    *   Article 6: General Objectives through Sustainable Water Management
+*   **Chapter Three - Legal Status of Water**
+    *   Article 7: Management of Public Water Property
+    *   Article 8: Elements of Public Water Property
+    *   Article 9: Non-Public Water
+    *   Article 10: Groundwater
+    *   Article 11: Boundaries of Public Water Property
+    *   Article 12: Acquired Rights over Water
+    *   Article 13: The Water Register
+
+**Part Two: Organizational and Legal Framework**
+*   **Chapter One - The National Water Authority**
+    *   Article 14: The National Water Authority
+    *   Article 15: Role of the National Water Authority
+*   **Chapter Two - Organization and Management of Water Resources**
+    *   Article 16: The General Master Plan for Water
+    *   Article 17: Preparation of the General Master Plan for Water
+    *   Article 18: Contents of the General Master Plan for Water
+    *   Article 19: Scope of Application of the General Master Plan for Water
+    *   Article 20: Evaluation of the General Master Plan for Water
+    *   Article 21: Basin Plans
+    *   Article 22: Basin Classification System
+    *   Article 23: Basin Plans
+
+**Part Three: Monitoring System**
+*   **Chapter One - General Monitoring Framework**
+    *   Article 24: General Provisions
+    *   Article 25: Protection of Water Resources
+    *   Article 26: Technical Monitoring and Water Quality
+    *   Article 27: Monitoring of Works and Activities
+    *   Article 28: The Water Code
+    *   Article 29: Compliance with the Provisions of the Environment Law
+    *   Article 30: Preservation of Water Quality and Type
+    *   Article 31: Water Quality Monitoring
+    *   Article 32: Obligations of Facility Owners
+*   **Chapter Two - Right of Usufruct of Water**
+    *   Article 33: Traditional Usufruct Rights
+    *   Article 34: Public Interest and Right of Usufruct
+    *   Article 35: Application Procedures
+    *   Article 36: Licensing System
+    *   Article 37: Regularization of Drilled Wells
+*   **Chapter Three - Procedures and Measures**
+    *   Article 38: Administrative Measures
+    *   Article 39: Incidents
+
+**Part Four: Economic and Financial Organization of the Water Sector Management**
+*   **Chapter One - Management Principles**
+    *   Article 40: Industrial and Commercial Nature of the Public Water Utility
+    *   Article 41: Principle of Financial Balance
+    *   Article 42: Financial Balance of Services
+    *   Article 43: State Contribution
+*   **Chapter Two - Financial and Accounting Provisions**
+    *   Article 44: Financial Provisions
+    *   Article 45: Approval of Fees
+    *   Article 46: Fees
+    *   Article 47: Potable Water Fees
+    *   Article 48: Sanitation Fees
+    *   Article 49: Irrigation Fee
+    *   Article 50: Fees Related to the Conservation of Water Resources and Protection of Aquatic Systems
+    *   Article 51: Pollution Compensation Fee
+    *   Article 52: Issuance of Bills
+    *   Article 53: Procedures for Issuing and Paying Bills
+    *   Article 54: Information Regarding Fees
+    *   Article 55: Survey of Beneficiaries' Opinion
+
+**Part Five: Management of the Public Water Utility**
+*   **Chapter One - General Provisions**
+    *   Article 56: Public Water Establishments
+    *   Article 57: Public Water Utilities
+    *   Article 58: Agreements with the Public Sector
+    *   Article 59: Private Sector Participation through Joint Projects
+    *   Article 60: Private Sector Participation through Other Forms
+*   **Chapter Two - Management of the Public Potable Water Utility**
+    *   Article 61: Water Quality
+    *   Article 62: Principle of Utility Exclusivity
+    *   Article 63: Connection Obligation
+    *   Article 64: Special Subscription Contracts
+    *   Article 65: Utility Performance
+    *   Article 66: Measurement of Potable Water Consumption
+    *   Article 67: Regulations of the Public Potable Water Utility
+*   **Chapter Three - Management of the Public Collective Sanitation Utility**
+    *   Article 68: Principle of Utility Exclusivity
+    *   Article 69: Obligation to Connect to the Public Sanitation Network
+    *   Article 70: Special Subscription Contracts
+    *   Article 71: Utility Performance
+    *   Article 72: Regulations of the Public Collective Sanitation Utility
+    *   Article 73: Monitoring of Non-Collective Sanitation Installations
+*   **Chapter Four - Management of the Public Irrigation Utility**
+    *   Article 74: General Provisions
+    *   Article 75: Water User Associations for Irrigation
+    *   Article 76: Activities of Water User Associations for Irrigation
+    *   Article 77: Fundamental Principles
+*   **Chapter Six - Annual Water-Related Reports**
+    *   Article 78: Annual Report of the Public Water Establishments
+    *   Article 79: General Report on the Conditions and Sustainable Management of Water
+
+**Part Six: Protection of Aquatic and Water Ecosystems**
+*   **Chapter One - Preventive Measures**
+    *   Article 80: Principles
+    *   Article 81: Conservation of the Aquatic Environment
+    *   Article 82: General Duties of the State
+    *   Article 83: Duties of Owners of Properties Adjacent to Riverbanks
+    *   Article 84: Protection of Water Collection Sites
+
+**Part Seven: Prevention and Management of Natural Risks**
+*   **Chapter One - Flood Prevention**
+    *   Article 85: General Provisions
+    *   Article 86: Public Utility Easements
+*   **Chapter Two - Prevention of Water Scarcity**
+    *   Article 87: Principles
+    *   Article 88: Prevention Measures
+
+**Part Eight: Penal Provisions**
+*   **Chapter One - Applicable Penal Provisions**
+    *   Article 89: Relevant Laws
+*   **Chapter Two - Penalties**
+    *   Article 90: Infractions
+    *   Article 91: Misdemeanors
+    *   Article 92: Aggravated Misdemeanors
+    *   Article 93: Repetition
+    *   Article 94: Investigation of Crimes and Prosecution Procedures
+*   **Chapter Three - Measures Related to Penalties**
+    *   Article 95: Judicial Measures
+    *   Article 96: Expedited Enforcement
+    *   Article 97: Non-conflict of Criminal and Administrative Prosecution
+
+**Part Nine: Legal Follow-up of Water Management**
+*   Article 98: Monitoring of Water Policy
+*   Article 99: Information Collection
+*   Article 100: Informing Citizens
+*   Article 101: Training on the Law and Sustainable Water Management
+
+---
+**Explanatory Memorandum**
+
+Lebanon enjoys a wealth of water resources represented by rivers, springs, lakes, wells, groundwater, and basins. This highlights the need to establish a modern law to regulate this vital utility for the Lebanese State.
+
+Whereas the legislation governing this sector is outdated, mostly dating back to the period before the declaration of independence in 1943, with some originating from the Ottoman occupation of Lebanon and others from the French Mandate era, which, starting from 1920, issued a series of legal acts, most notably Decision No. 144 of June 10, 1925, concerning public property, Decision No. 320 of May 26, 1926, concerning public property and its preservation, and the Land Property Law issued by Decision No. 3339 of 12/11/1930.
+
+Also, after the declaration of independence, several pieces of legislation were issued to regulate this sector. However, given the evolution of legal and scientific concepts and the means of water use, this legislation has become insufficient, necessitating the enactment of a modern water law that takes into account recent developments and the urgent need to preserve this essential resource, and that ensures the meeting of the Lebanese society's needs from this vital natural resource.
+
+Hence, the Ministry of Energy and Water, in cooperation with the competent administrations, prepared a draft water law, the preparation of which took more than ten years. The draft law was referred to the Parliament for study and approval.
+
+Accordingly, the Committee of Public Works, Transport, Energy, and Water began studying the draft law and formed a sub-committee that devoted itself to discussing it and making the required amendments, in the presence of the competent ministries and administrations, especially the Ministry of Energy and Water, the Ministry of Environment, the Ministry of Finance, the Council for Development and Reconstruction, and the Higher Council for Privatization.
+
+Whereas the said committee was on the verge of completing the required amendments to the text of the draft law, but due to the convening of the CEDRE Conference (1), which was dedicated to supporting Lebanon by financing development and infrastructure projects, there was an urgent need to pass the water law before the Prime Minister and the accompanying ministerial delegation headed to the said conference. This prompted the Parliament to vote on the text of the draft law as it came from the government, resulting in the issuance of Law No. 77/2018 (The Water Law).
+
+Whereas the Water Law in the form in which it was issued is flawed with many gaps that make its application almost impossible, therefore, the text of the attached proposed law was prepared in cooperation and coordination with all concerned ministries and administrations in order to fill the said gaps and ensure consistency between the articles of the Water Law.
+
+Whereas the attached text was reached after numerous meetings and lengthy discussions, and it addresses the gaps and problems that marred Law No. 77 (The Water Law) in a way that ensures its proper application, with the consensus of the representatives of the concerned ministries.
+
+For all these reasons, we submit to your esteemed council the attached proposed law in its amended form, hoping for its approval.
+

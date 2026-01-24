@@ -1,0 +1,355 @@
+Legal Collection. Icelandic Law 1 October 2020. Version 150c. Print in two columns.
+
+Act on Water Management
+
+2011 No. 36 15 April
+
+Legislative history in Parliament. Bill for the Act.
+
+Entered into force on 19 April 2011. EEA Agreement: Annex XX, Directives 2000/60/EC, 2006/118/EC, 2008/105/EC, 2009/90/EC). Amended by: Act No. 126/2011 (entered into force 30 Sept. 2011). Act No. 157/2012 (entered into force 3 Jan. 2013). Act No. 59/2013 (entered into force 1 July 2013). Act No. 113/2015 (entered into force 1 July 2016). Act No. 155/2018 (entered into force 10 Jan. 2019). Act No. 72/2019 (entered into force 5 July 2019 except for Art. 9 which enters into force 1 Jan. 2021; EEA Agreement: Annex XX, Directive 2003/4/EC). Act No. 137/2019 (entered into force 31 Dec. 2019).
+
+If this Act refers to a minister or ministry without specifying the portfolio or making a specific reference, it refers to the Minister for the Environment and Natural Resources or the Ministry for the Environment and Natural Resources, which is responsible for this Act. Information on the portfolios of ministries under presidential decree can be found here.
+
+Chapter I. Objective, Scope, and Definitions.
+
+Article 1. Objective.
+The objective of this Act is to protect water and its ecosystems, prevent further deterioration of water quality, and improve the condition of aquatic ecosystems to ensure that water receives comprehensive protection. Furthermore, the Act is intended to promote the sustainable use of water and the long-term protection of water resources.
+To achieve the objectives of this Act, a river basin management plan, a programme of measures, and a monitoring programme shall be prepared.
+
+Article 2. Scope.
+This Act applies to surface water and groundwater, as well as transitional waters and coastal waters, to their ecosystems, and to ecosystems that are dependent on them in terms of water management, cf. Annex I.
+
+Article 3. Definitions.
+In this Act, the following terms shall have the following meanings:
+
+Transitional waters: Bodies of water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows.
+
+Priority substances: Dangerous and persistent substances that cause significant pollution or toxicity in or from water, and which are prioritized according to the danger they pose.
+
+Good chemical status: The chemical status of a body of surface or groundwater which meets the environmental objectives for water.
+
+Groundwater: Water, cold or hot, which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil.
+
+Quantitative status: An expression of the degree to which a body of groundwater is affected by direct and indirect abstractions.
+
+Artificial body of water: A body of water created by human activity.
+
+Heavily modified body of water: A body of surface water which as a result of physical alterations by human activity is substantially changed in character.
+
+Drinking water: Water intended for human consumption, in its natural state or after treatment, regardless of its origin.
+
+Coastal water: Surface water on the landward side of a line every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured, extending out to the outer limit of transitional waters.
+
+Water: Groundwater and surface water.
+
+River basin: The area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly, lakes into a single river mouth, estuary or delta.
+
+River basin area: An area of land with one or more river basins.
+
+River basin district: The main unit for the management of river basins, covering Icelandic river basin areas along with the transitional and coastal waters associated with them.
+
+Hydro-morphological characteristics of a body of water: The volume of water in a body of water and changes in its flow and water level, as well as the type and substrate of the bed and the physical-chemical characteristics of the body of water.
+
+Body of water: A discrete and significant element of water such as all water found in a lake, in or on coastal waters.
+
+Protected area: A defined area, including specific ecosystems, which is considered necessary to protect in order to achieve the objectives of this Act.
+
+Ecological status: The status of the structure and functioning of aquatic ecosystems associated with a body of water, classified as very good, good, moderate, poor, or bad.
+
+Ecological potential: The status of the structure and functioning of aquatic ecosystems in an artificial or heavily modified body of water, classified as maximum, good, or moderate ecological potential.
+
+Surface water: Inland waters, whether standing or flowing, streams, rivers, lakes, lagoons, transitional waters, and coastal waters, as well as glaciers.
+
+Chapter II. Water Management Authorities.
+
+Article 4. Overall Administration of the River Basin District.
+The entire country, including its estuaries and coastal waters, constitutes a single river basin district.
+[The Minister]¹⁾ shall have overall administration of matters under this Act. The Minister shall approve the river basin management plan, programme of measures, and monitoring programme for the river basin district, upon a proposal from the Water Council.
+¹⁾ Act No. 126/2011, Art. 540.
+
+Article 5. Water Council.
+[The Minister]¹⁾ shall appoint a Water Council, which shall consist of five members. [The ministers responsible for energy and aquaculture shall each nominate one member]²⁾ and the Association of Icelandic Municipalities shall nominate two. [The Minister]¹⁾ shall appoint one member without nomination, who shall be the chairperson of the Council. Alternate members shall be appointed in the same manner. The Water Council shall be appointed for a term of five years.
+The Water Council shall meet as deemed necessary.
+¹⁾ Act No. 126/2011, Art. 540. ²⁾ Act No. 137/2019, Art. 19.
+
+Article 6. Role of the Water Council.
+The role of the Water Council is to advise the Minister on water management. The Water Council shall:
+a. supervise the preparation of a proposal for a river basin management plan, a programme of measures, and a monitoring programme,
+b. submit a proposal to the Minister for the approval of the river basin management plan, programme of measures, and monitoring programme, and their review when appropriate, upon a proposal from the Environment Agency,
+c. provide an opinion on the preparation of regulations issued under this Act,
+d. monitor how the objectives of this Act are being achieved and assess, inter alia, the costs incurred by the state and municipalities. The Council shall submit regular reports to the Minister and the Association of Icelandic Municipalities on these matters and make recommendations on costs as needed.
+The Environment Agency shall manage the day-to-day operations and administration of the Water Council and act as an advisor to the Council.
+
+Article 7. Role of the Environment Agency.
+The Environment Agency shall handle administration in the field of water protection in accordance with the provisions of this Act.
+The role of the Environment Agency is to:
+a. coordinate the work on preparing the river basin management plan, programme of measures, and monitoring programme,
+b. ensure the dissemination of information on river basins,
+c. establish environmental objectives for types of water bodies,
+d. ensure that an economic analysis of water use is carried out,
+e. prepare proposals for the river basin management plan, programme of measures, and monitoring programme in cooperation with the relevant municipalities and in consultation with river basin committees and advisory committees, cf. Articles 8 and 9,
+f. prepare a status report,
+g. oversee the implementation of the programme of measures and monitoring programme,
+h. manage the presentation and consultation process for the plans in accordance with this Act,
+i. handle reporting.
+The Environment Agency shall prepare the river basin management plan and its review with regard to public plans and the interests of key stakeholders, such as in the fields of nature conservation, resource utilization, transport, and planning.
+The Environment Agency shall send the approved river basin management plan to the relevant municipalities and those government authorities concerned by the plan. The Agency shall also publicly announce the approved river basin management plan and make it publicly accessible.
+
+Article 8. Role of Municipalities and River Basin Committees.
+Municipalities and municipal public health authorities shall assist the Environment Agency in preparing proposals for the river basin management plan, programme of measures, and monitoring programme, and their review.
+Municipalities shall, in cooperation with public health committees and within the framework of network laws, enforce the requirements set out in the programme of measures and monitoring programme in accordance with the provisions of this Act and regulations in the field of water protection.
+The river basin district shall be divided into river basins by regulation, cf. Art. 29. The determination of the boundaries of river basins shall take into account geological and hydrological factors.
+A river basin committee shall operate in each river basin. The committee shall include at least representatives from the municipalities in the relevant river basin, from the relevant public health committees, and from the Environment Agency, whose representative shall chair the committee. The seating of these and other members of the committee, such as from relevant specialized agencies and stakeholder groups, including non-governmental organizations in the fields of nature conservation, environmental issues, and outdoor recreation, shall be in accordance with the provisions of a regulation.
+The role of the river basin committee is to coordinate work in the relevant river basin and to gather information there for the preparation of the status report, monitoring programme, programme of measures, and river basin management plan.
+
+Article 9. Role of Advisory Committees.
+The Minister shall appoint two advisory committees to work with the Environment Agency at the national level, cf. Art. 29: an advisory committee of specialized agencies and supervisory bodies, and an advisory committee of stakeholders, including non-governmental organizations in the fields of nature conservation, environmental issues, and outdoor recreation. The Environment Agency shall consult closely with the advisory committees.
+The advisory committee of specialized agencies and supervisory bodies shall include, among others, representatives from the National Energy Authority, the Icelandic Meteorological Office, the National Planning Agency, ¹⁾ the Directorate of Fisheries, [the Marine and Freshwater Research Institute],²⁾ [the Transport Authority],³⁾ [the Soil Conservation Service],³⁾ the Icelandic Institute of Natural History, the Icelandic Food and Veterinary Authority, [the Housing and Construction Authority],⁴⁾ the Icelandic Road and Coastal Administration, nature research centers, and municipal public health authorities.
+The role of the advisory committees is to advise the Environment Agency and the Water Council on matters covered by this Act. The advisory committee of specialized agencies and supervisory bodies shall provide necessary data for the work on preparing plans under this Act and information on what data is available. Representatives in the advisory committee of stakeholders shall advise on matters to which their organizations are dedicated.
+The advisory committees shall be assisted by a staff member provided by the Environment Agency, who shall manage the work of the respective committee.
+¹⁾ Act No. 113/2015, Art. 9. ²⁾ Act No. 157/2012, Art. 23. ³⁾ Act No. 59/2013, Art. 38. ⁴⁾ Act No. 155/2018, Art. 28. ⁵⁾ Act No. 137/2019, Art. 19.
+
+Article 10. Cooperation of Research Institutions.
+The Icelandic Meteorological Office, the Icelandic Institute of Natural History, ¹⁾ and [the Marine and Freshwater Research Institute]²⁾ shall provide data and expertise for the implementation of this Act. The detailed arrangements for this cooperation shall be determined by agreements between the Environment Agency and the aforementioned institutions, in accordance with a regulation³⁾ issued by the Minister.
+The Environment Agency may enter into agreements with the Icelandic Meteorological Office, the Icelandic Institute of Natural History, ...¹⁾ and [the Marine and Freshwater Research Institute]²⁾ for specific tasks related to the implementation of this Act, and may also enter into agreements with others for such work. The Minister shall issue more detailed rules on such agreements in a regulation.
+¹⁾ Act No. 113/2015, Art. 9. ²⁾ Act No. 157/2012, Art. 23. ³⁾ Regulation No. 935/2011.
+
+Chapter III. Environmental Objectives.
+
+Article 11. Classification of Bodies of Water and Environmental Objectives.
+Water shall be classified into bodies of water and types of water bodies, and these shall be assessed.
+The assessment of a body of surface water shall be based on available data at any given time and shall consider, for each type of water body, defined biological quality elements as well as hydro-morphological and chemical and physico-chemical elements, as appropriate.
+Environmental objectives are defined by types of water bodies and shall be comparable.
+The status of groundwater shall be assessed according to its quantitative status and chemical elements.
+Environmental objectives are defined by types of groundwater bodies and shall be comparable.
+The assessment of the quality elements of surface and groundwater bodies shall be based on environmental objectives in accordance with provisions set by the Minister in a regulation, cf. Art. 29.
+Environmental objectives shall be set in the river basin management plan in accordance with the provisions of this chapter.
+
+Article 12. Surface Water and Groundwater.
+Surface and groundwater bodies shall be protected, and it shall be ensured that their status does not deteriorate. Their status shall be enhanced and restored with the objective of achieving at least good chemical status. Furthermore, the sustainable use of groundwater shall be ensured so that a balance is maintained between abstraction and recharge.
+
+Article 13. Artificial and Heavily Modified Bodies of Water.
+The Environment Agency shall assess whether a body of water is considered artificial or heavily modified.
+The status of an artificial or heavily modified body of surface water shall be protected so that it does not deteriorate, and its status shall be enhanced with the objective of achieving good ecological potential and good chemical status. Efforts shall be made to achieve the best possible ecological potential in such a body of water.
+A body of surface water may be designated as artificial or heavily modified if the necessary changes to its physico-chemical, ecological, and hydro-morphological characteristics to achieve good ecological status have significant adverse effects on the environment or on the following uses:
+a. navigation, ports, or recreational facilities,
+b. activities involving the storage, transfer, and diversion of water, e.g., drinking water supply, power generation, or irrigation,
+c. flood protection, drainage, or
+d. other sustainable uses of equal importance to the foregoing.
+The provisions of paragraph 3 shall apply when the beneficial objectives served by the modified characteristics of the body of water cannot, for reasons of technical feasibility or disproportionate cost, be achieved by other means, which are a significantly better environmental option. It shall be stated in the river basin management plan if it is considered that the conditions of paragraph 3 are met, and the reasons for this shall be provided.
+
+Article 14. Harmful and Persistent Substances (Priority Substances).
+Pollution from harmful and persistent substances (priority substances) in water shall be progressively reduced through targeted measures with the aim of ceasing their discharge.
+Substances shall be prioritized, and a time-bound plan for the restriction and prohibition of their discharge shall be presented, based on the degree of risk they pose to water and the terrestrial environment. The prioritization shall be based on a risk assessment method.
+
+Article 15. Deadlines.
+The environmental objectives under Art. 11 shall be achieved no later than six years after the first river basin management plan has been approved. An extension may be granted for achieving the environmental objectives twice, for up to six years at a time, provided that the status of the impacted body of water does not deteriorate further and at least one of the following conditions is met:
+a. it is not technically feasible to make improvements within the time limits,
+b. the cost of improvements within the time limits would be disproportionately high, or
+c. natural conditions are such that improvements to the body of water within the time limits are not feasible.
+An extension beyond what follows from paragraph 1 shall only be granted if natural conditions are such that the environmental objectives under Art. 11 cannot be achieved.
+
+Article 16. Less Stringent Environmental Objectives.
+Less stringent environmental objectives than those provided for in Art. 11 may be set if a body of water is subject to such pressure that it is impossible or disproportionately expensive to meet the requirements for environmental objectives. The following conditions must then be met:
+a. it is not possible to achieve a better environmental outcome without disproportionate cost, taking into account environmental and macroeconomic needs,
+b. the best possible status of surface water and groundwater is ensured, and it is ensured that the status of surface water and groundwater changes as little as possible from being good, taking into account the pressure that exists,
+c. it is ensured that the status of the body of water does not deteriorate further.
+
+Article 17. Natural Causes and Force Majeure.
+It shall not be considered a breach of the requirements for environmental objectives under this Act if the ecological status of a body of water is temporarily impaired due to natural causes or force majeure.
+In such circumstances, such measures as are realistic shall be taken to prevent the status of the body of water from deteriorating further than it has and to prevent harm from being caused to another body of water.
+
+Article 18. Modification of a Body of Water.
+The Environment Agency may authorize a modification of a body of water which results in the failure to achieve the environmental objectives under Art. 11 in the case of:
+a. modifications, such as due to pollution or in connection with climate change, to the water quality, ecological, hydro-morphological, or chemical and physico-chemical characteristics of a body of surface water or to the level of a body of groundwater, or
+b. new sustainable activities or modifications that result in the status of a body of surface water changing from very good to good.
+In addition to the conditions set out in paragraph 1, all of the following conditions must be met:
+a. all measures that are considered realistic shall be taken to mitigate the adverse effects on the status of the body of water,
+b. the purposes of the activities or uses outweigh the benefits of achieving the environmental objectives for public welfare and/or for human health and safety or for sustainable development,
+c. the purposes of the activities or uses cannot, for reasons of technical feasibility or disproportionate cost, be achieved by other means, which are a significantly better environmental option.
+
+Chapter IV. Plans.
+
+Article 19. River Basin Management Plan.
+The Environment Agency shall prepare a proposal for a river basin management plan in accordance with Annex II. The river basin management plan shall include, inter alia:
+a. a general description of the characteristics of the river basin district,
+b. a classification of bodies of water,
+c. a description of pressures and impacts from industry and other activities on water,
+d. a register of protected areas and all bodies of water for drinking water abstraction,
+e. a report on monitoring and its results,
+f. a report on the environmental objectives for types of water bodies and on changes to types of water bodies,
+g. a division into river basins,
+h. a report on the programme of measures,
+i. an overview of more detailed measures for individual river basins and types of water bodies, and
+j. a report on consultation with the public, representatives of industry, and other stakeholders, including non-governmental organizations in the fields of nature conservation, environmental issues, and outdoor recreation.
+The plan shall be reviewed every six years.
+In preparing the river basin management plan, an environmental assessment of the plan shall be carried out in accordance with the Act on Environmental Assessment of Plans and Programmes.
+The Environment Agency shall consult with the project management board for the preparation of a protection and utilization plan under the Act on the Protection and Utilization Plan for the Harnessing of Waterfalls and High-Temperature Areas, to ensure consistency between the river basin management plan on the one hand and the protection and utilization plan for waterfalls and high-temperature areas on the other.
+The Environment Agency is authorized to make necessary corrections to the river basin management plan due to new information before it is due for review. The Agency shall publish information about such corrections on its website.
+
+Article 20. Further Justification in the River Basin Management Plan.
+The river basin management plan shall provide a justification for:
+a. the decision that a body of water is considered artificial or heavily modified,
+b. the decision to extend the deadline for environmental objectives,
+c. the decision on less stringent environmental objectives than provided for in Art. 11,
+d. changes to a body of water due to natural causes,
+e. plans for new projects, new sustainable activities, or changes to bodies of water.
+If it is decided to extend a deadline in accordance with this Act, the river basin management plan shall also include a report specifying and setting a timeline for the measures necessary to achieve the environmental objectives.
+
+Article 21. Programme of Measures.
+The Environment Agency shall prepare a proposal for a programme of measures. The programme of measures shall include the measures necessary to achieve the environmental objectives set for the bodies of water. The programme of measures shall be based on analyses and assessments in accordance with the requirements set out in the river basin management plan. The programme of measures shall be part of the river basin management plan.
+The programme of measures shall list the measures provided for in laws and regulations, as well as the supplementary measures planned to achieve the set environmental objectives.
+Decisions on the measures listed in the programme of measures shall be taken by the competent authorities or permit issuers on the basis of the relevant legislation.
+If the results of monitoring or other data show that the environmental objectives for a body of water under Art. 11 are not being achieved, the reasons for this shall be investigated, and the effects of new or possible measures shall be assessed and whether they should be implemented.
+The programme of measures shall be reviewed every six years.
+
+Article 22. Monitoring Programme.
+The Environment Agency shall prepare a programme for monitoring the status of surface and groundwater and for monitoring areas that are protected. The monitoring programme shall provide a comprehensive overview of the status of bodies of water.
+The monitoring programme shall be reviewed regularly and at least every six years.
+The monitoring programme shall cover appropriate ecological, hydro-morphological, and physico-chemical quality elements, as well as monitoring the quantitative status of groundwater. The programme shall also specify the frequency and density of monitoring stations. The monitoring of water due to industrial activities that may cause pollution shall be carried out in accordance with the provisions of an operating license.
+Relevant state institutions and municipal public health authorities shall be responsible for monitoring quality elements in accordance with this provision, as well as monitoring the quantitative status of groundwater.
+The Environment Agency and municipal public health committees are authorized to enter into an agreement on an alternative arrangement for monitoring than that provided for in paragraph 2. It is also authorized to entrust parties that have received accreditation in accordance with Act No. 24/2006, on accreditation, etc., to carry out specific tasks in connection with monitoring under this Act, and a specific contract shall be made for this in each case.
+
+Article 23. Status Report.
+The Environment Agency shall prepare a status report for each river basin in cooperation with the relevant river basin committee. The status report shall include:
+a. a description and type of the bodies of water,
+b. a classification of the bodies of water, and
+c. a description of the main pressures and impacts of human activities on the status of the water.
+
+Article 24. Drinking Water.
+All bodies of water for drinking water abstraction to which the following apply shall be identified in the river basin management plan:
+a. where water abstraction is greater than 10 cubic meters per day on average or where it serves more than 50 individuals with drinking water,
+b. where there are plans to abstract drinking water from it.
+The deterioration of water quality in such a body of water shall be prevented so as not to increase the need for drinking water purification.
+
+Article 25. Register of Protected and Sensitive Areas.
+The Environment Agency shall maintain a register of protected and sensitive areas. It shall, inter alia, identify water protection areas, aquatic ecosystems, and ecosystems dependent on them in terms of water management, as well as areas that enjoy comprehensive protection under law or are protected due to the special status of the water.
+The register of protected and sensitive areas shall be publicly accessible and regularly updated.
+
+Chapter V. Presentation, Legal Effect of Plans, etc.
+
+Article 26. Access to Information.
+[Access to information and data on which the plans under this Act are based shall be governed by the Information Act.]¹)
+¹⁾ Act No. 72/2019, Art. 21.
+
+Article 27. Public Consultation.
+The Environment Agency shall ensure that the following documents are publicly presented and that comments are requested on them:
+a. a milestone and work plan for the work on the river basin management plan, at the latest three years before a new river basin management plan enters into force,
+b. a preliminary overview of significant issues in the river basin management plan, at the latest two years before it enters into force,
+c. a proposal for a river basin management plan, at the latest one year before it enters into force.
+When a review of a river basin management plan leads to changes, the plan shall be presented in accordance with item c of paragraph 1.
+The deadline for submitting comments shall be at least six months.
+The documents shall be presented in a reliable manner, and reference shall be made to the Environment Agency's website for all information at an accessible location.
+
+Article 28. Legal Effect of the River Basin Management Plan.
+Public plans by government authorities, such as concerning planning, nature conservation, energy utilization, and transport, shall be in accordance with the policy on water protection set out in the river basin management plan.
+When reviewing or amending a municipal master plan, the master plan shall, where appropriate, be harmonized with the river basin management plan within six years of the approval of the river basin management plan.
+When processing an application for a permit for water use and for other permits for projects under the Water Act, the Act on Research and Use of Resources in the Ground, and for permits under the Planning Act and the Act on Structures, the permit issuer shall ensure that the permit is in accordance with the policy on water protection set out in the river basin management plan.
+If the results of monitoring or other data show that the environmental objectives in the river basin management plan are not being achieved, measures shall, where possible, be taken to improve the status of the body of water. The relevant permit issuer shall then review the issued permit, where appropriate, with a view to achieving the environmental objectives.
+To enforce the implementation of measures according to paragraphs 2–4, the Environment Agency is authorized to issue a warning to the relevant municipality or permit issuer. The Environment Agency shall also provide a reasonable deadline for remedy. If the request for remedy is not complied with within a specified deadline, the Environment Agency is authorized to impose daily fines until the matter is rectified. Daily fines shall be paid to the State Treasury, and their maximum amount shall be ISK 500,000.
+
+Article 29. Authority to Issue Regulations.
+The Minister is authorized, upon a proposal from the Environment Agency and in consultation with the Water Council and the Association of Icelandic Municipalities, to issue a regulation with more detailed provisions on the following matters:
+a. the classification of bodies of water and their characteristics, and a pressure analysis for surface and groundwater bodies,¹⁾
+b. priority substances and their prioritization on a list according to risk, measures regarding them, assessment methods, and criteria for prioritization, and requirements for certification and their implementation,²⁾
+c. further provisions on environmental objectives and time limits for when they are to be achieved,¹⁾
+d. the content and implementation of the monitoring programme,³⁾
+e. the content of the river basin management plan and the economic analysis of water use,
+f. the content and implementation of the programme of measures, where the measures that are necessary are specified, as well as criteria for when it is not permitted to require supplementary measures,¹⁾
+g. the role and activities of the Water Council,³⁾
+h. the division into river basins, the geographical demarcation of river basins, and the composition and role of river basin committees,³⁾
+i. the role and activities of the advisory committees, their members, the increase in the number of advisory committees, and their further division,³⁾
+j. public consultation, the approval of plans, and the participation of stakeholders in plan preparation, including non-governmental organizations in the fields of nature conservation, environmental issues, and outdoor recreation.
+¹⁾ Regulation No. 535/2011, cf. 1002/2011, 295/2012, 399/2015 and 982/2015. ²⁾ Regulation No. 796/1999, cf. 533/2001, 913/2003, 955/2011 and 981/2015. ³⁾ Regulation No. 935/2011.
+
+Article 30. Implementation of Directives.
+This Act implements the following directives:
+
+Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy, as referred to in Chapter X of Annex XX to the Agreement on the European Economic Area, as amended by the decision of the EEA Joint Committee, No. 125/2007, of 28 September 2007.
+
+Directive 2006/118/EC of the European Parliament and of the Council of 12 December 2006 on the protection of groundwater against pollution and deterioration, as referred to in Chapter II of Annex XX to the Agreement on the European Economic Area, as amended by the decision of the EEA Joint Committee, No. 87/2009, of 3 June 2009.
+
+Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council.
+
+Directive 2009/90/EC of the European Parliament and of the Council of 31 July 2009 laying down, pursuant to Directive 2000/60/EC, technical specifications for chemical analysis and monitoring of water status.
+
+Article 31. Entry into Force.
+This Act shall enter into force immediately.
+
+Article 32. Amendment of Other Acts. ...
+
+Provisional Provisions.
+I.
+[The Minister]¹⁾ shall approve the first river basin management plan under Art. 19 no later than 1 January 2018. The proposal for the first river basin management plan shall be presented at least one year before the Minister approves it. The presentation and legal effect of the first river basin management plan shall otherwise be governed by Articles 27 and 28.
+¹⁾ Act No. 126/2011, Art. 540.
+
+II.
+The first programme of measures under Art. 21 shall be available no later than 1 January 2018 and shall be implemented in 2021.
+
+III.
+The first monitoring programme under Art. 22 shall be available no later than 1 January 2015 and shall be implemented at the same time.
+
+IV.
+The first status report under Art. 23 shall be available no later than 1 January 2014.
+
+Annex I.
+Overview of the geographical scope of the Act, cf. Art. 2. ...
+See Official Journal A No. 36/2011.
+
+Annex II.
+Content of the river basin management plan, cf. Art. 19.
+A. The river basin management plan shall include the following elements:
+
+a general description of the characteristics of the river basin district and a classification of bodies of water, cf. Articles 19 and 23; and the following shall be stated:
+1.1. for surface water:
+– a map showing the location and boundaries of bodies of water,
+– a map showing the ecoregions and types of surface water bodies within the river basin district,
+– reference conditions for the surface water body types,
+1.2. for groundwater:
+– a map showing the location and boundaries of groundwater bodies,
+
+a description of the pressures and impacts of human activities on the status of surface water and groundwater, including:
+– an assessment of pollution from point sources,
+– an assessment of pollution from diffuse sources, including land use,
+– an assessment of pressures on the quantitative status of water, including abstractions,
+– an analysis of other impacts on the status of water,
+
+a register and map of protected areas, cf. Art. 25,
+
+a register and map of monitoring sites that form a comparable network and show the results of monitoring programmes that have been carried out and show the status of:
+4.1. surface water (ecological and chemical),
+4.2. groundwater (chemical and quantitative),
+4.3. protected areas,
+
+a list of the environmental objectives established under Articles 11, 12, 13, 15, and 16 for surface water, groundwater, and protected areas, including an identification of instances where the provisions of Articles 11, 15, 16, 17, and 18 have been applied, and other information required by those articles,
+
+the results of the economic analysis of water use, cf. item d of paragraph 2 of Art. 7,
+
+a summary of the programme of measures adopted under Art. 21, including the ways by which the objectives of Art. 11 will be achieved:
+7.1. a summary of the necessary measures,
+7.2. a report on the steps taken to apply the principle of recovery of the costs of water services,
+7.3. a summary of the measures taken to meet the requirements of Art. 24,
+7.4. a summary of the controls on the abstraction and impoundment of water, including a reference to registers and permits issued under other legislation,
+7.5. a summary of the controls on point source discharges and other activities which have an impact on the status of water in accordance with provisions laid down on the prevention of water pollution,
+7.6. an identification of cases where direct discharges into groundwater have been authorised in accordance with provisions laid down on the prevention of groundwater pollution,
+7.7. a summary of the measures taken to meet the requirements of Art. 14 on priority substances,
+7.8. a summary of the measures taken to prevent or reduce the impact of accidental pollution incidents,
+7.9. a summary of measures under paragraph 4 of Art. 21 and paragraph 4 of Art. 28 with regard to bodies of water which are unlikely to achieve the objectives set out in Art. 16,
+7.10. details of the supplementary measures identified as necessary to meet the environmental objectives set,
+7.11. details of the measures taken to prevent marine pollution,
+
+a register of the monitoring programme and any more detailed programmes, such as planning programmes, road plans, energy plans, which apply to the river basin district, individual river basins or sectors, together with a summary of their contents,
+
+a summary of public information and consultation measures, their results and the changes made to the plan as a consequence,
+
+a list of the competent authorities, cf. Articles 8, 9, 10, and 22.
+
+B. The updated river basin management plan shall, in addition to what is stated in section A, include:
+
+a summary of any changes or updates since the publication of the previous version of the river basin management plan, including a summary of the changes resulting from Articles 15, 16, 17, and 18, as appropriate,
+
+an assessment of the progress made towards the achievement of the environmental objectives, including the presentation of the monitoring results for the preceding plan period in map form, and an explanation for any environmental objectives which have not been reached,
+
+a summary of and an explanation for any measures foreseen in the earlier version of the river basin management plan which have not been undertaken,
+
+a summary of any additional interim measures adopted under Art. 21 since the publication of the previous version of the river basin management plan.

@@ -1,0 +1,617 @@
+****
+
+**CHAPTER 1**
+**INTRODUCTION AND PURPOSE**
+
+**Article 1 - Name**
+This Act shall be cited as the "Water Act".
+
+**Article 2 - Purposes of the Act**
+The principal purposes of this Act are as follows:
+(a) To sustainably manage, conserve, and develop the water resources of the Maldives;
+(b) To establish arrangements for the continuous supply of water required by the citizens of the Maldives for domestic, economic, and social activities, at a standard suitable for use as potable water, safely, conveniently, and at a reasonable price;
+(c) To declare safe drinking water and sewerage services as essential services, and to guarantee the right of every citizen of the Maldives to such services;
+(d) To establish the principles of conduct and the standards to be maintained in the provision of water and sewerage services;
+(e) To establish arrangements for the use of water resources and for the planning and administration of matters concerning the provision of water and sewerage services.
+
+**Article 3 - Definitions**
+Unless otherwise stated in this Act, the following terms and phrases shall have the meanings ascribed to them below:
+(a) "Water resources" means all water resources within the territory of the Maldives, including groundwater, surface water, rainwater, seawater, and the water resources within the Special Economic Zone.
+(b) "Groundwater" means water contained within the soil, rock formations, stone and rock, and water within underground aquifers.
+(c) "Surface water" means water contained in rivers, lakes, sandbanks, wetlands, lagoons, mangrove forests, and other such places.
+(d) "Water" means water in its natural state, water mixed with other substances for a specific purpose, and any type of water other than water discharged through a sewerage system.
+(e) "Potable water" means water that is safe for health and used for drinking, cooking, and general domestic purposes such as washing and cleaning.
+(f) "Safe potable water" means water that is safe for human consumption, preparation of food, and other household purposes, in accordance with the quality standards specified in the regulations made under this Act.
+(g) "Water services" means the service of abstracting water from water resources, treating it, storing it, and supplying it to the public through a pipe network or by any other means.
+(h) "Sewerage services" means the service of collecting wastewater through a sewerage system or by any other means, separating substances such as sewage from it, and safely discharging it into a body of water.
+(i) "Service provider" means parties licensed to provide water and sewerage services in accordance with the regulations made under this Act.
+(j) "Ministry" means the government ministry entrusted by the President of the Republic of Maldives with the responsibility of administering matters related to water.
+(k) "Regulator" means the government authority entrusted with the responsibility of regulating the provision of water and sewerage services, as specified in the regulations made under this Act.
+
+****
+Gazette of the Government of Maldives
+Volume: 49 | Number: 153
+President’s Office, Boduthakurufaanu Magu, Malé, Republic of Maldives
+Tel: 3310274, 3336211 | Website: www.gazette.gov.mv
+To request publication of regulations and procedures in the Gazette, please email: legalaffairs@po.gov.mv
+---
+This Act was passed by the People’s Majlis at the 40th sitting of its second session, held on Monday, 20 July 2020, and was ratified by the President of the Republic on Wednesday, 5 August 2020 (15 Dhul-Hijjah 1441). It is hereby published in the Gazette of the Government of Maldives.
+
+Act No.: 8/2020
+
+**WATER AND SEWERAGE ACT**
+
+**TABLE OF CONTENTS**
+
+**CHAPTER ONE**
+**INTRODUCTION**
+1. Name and introduction
+2. Principal objectives of the Act
+
+**CHAPTER TWO**
+3. Right to access safe water
+4. Right to access an adequate sewerage system service
+5. State’s responsibilities
+
+**CHAPTER THREE**
+**ROLES OF INSTITUTIONS**
+6. Responsibility for policy formulation
+7. Responsibilities of the Ministry
+8. Responsibilities of the Councils
+9. Agreement to provide services
+10. Responsibilities of the Authority
+11. Powers of the Authority
+12. International agreements and treaties
+13. Water and Sewerage Strategic Plan
+14. Plan determined by the service provider
+
+**CHAPTER FOUR**
+**WATER RESOURCES**
+16. Ownership of natural water resources
+17. Protection of available water
+18. Protection of the groundwater lens
+19. Prohibition on use of natural water resources for industrial activities
+20. Contamination of the groundwater lens
+21. Discharge of water from desalination systems
+22. Prohibition of mixing water
+23. Use of water resources in disasters
+24. Preparation for disasters
+
+**CHAPTER FIVE**
+**ENVIRONMENTAL PROTECTION**
+25. Environmental Impact Assessment Report
+26. Prioritizing low-impact technologies
+27. Use of renewable energy
+28. Promoting Integrated Water Resource Management
+
+**CHAPTER SIX**
+**RESPONSIBILITIES OF WATER AND SEWERAGE SERVICE PROVIDERS**
+29. Responsibilities of water and sewerage service providers
+30. Some powers vested in service providers
+31. Providing water services
+32. Providing sewerage services
+33. Providing services to the vulnerable
+
+**CHAPTER SEVEN**
+**REGISTRATION AND LICENSING**
+34. Contracting out service provision
+35. Registration
+36. Issuance of Operating Licenses
+37. Issuance of Exclusive Operating Licenses
+38. License conditions
+39. Licensing procedure
+40. License duration
+41. Application for a license
+42. Setting tariffs
+43. Submission of performance reports
+44. Submission of complaints
+
+**CHAPTER EIGHT**
+**INVESTIGATION AND ACTION**
+45. Investigation
+46. Seeking documents
+47. Falsifying documents
+48. Power to summon persons and investigate
+49. Power of inspection
+50. Obtaining a court order for inspection
+51. Administrative action
+52. Criminal prosecution
+53. Obtaining information on case outcomes
+54. Arranging for uninterrupted service provision
+55. Penalties
+
+**CHAPTER NINE**
+**MISCELLANEOUS**
+56. Confidentiality
+57. Legal protection
+58. Formulating regulations
+59. Commencement of the Act
+60. Precedence
+61. Repeal
+62. Definitions
+
+---
+**CHAPTER ONE**
+**INTRODUCTION**
+
+**1. Name and introduction**
+(a) This is an Act to provide safe, clean water to all residents of the Maldives and to facilitate the establishment of an adequate sewerage system on every inhabited island; to determine the principles and standards for the provision of water and sewerage services; and to determine the principles for the protection and sustainability of the water resources of the Maldives, and other related principles.
+(b) This Act shall be cited as the "Water and Sewerage Act".
+
+**2. Principal objectives of the Act**
+The objectives of this Act are as follows:
+(a) To ensure that citizens receive safe and potable clean water.
+(b) To establish an adequate sewerage system on every inhabited island, to determine ways in which this service can be sustainably provided to citizens at an affordable price, and to ensure this.
+(c) To manage, develop, and protect water resources in a manner that allows for their sustainable use by present and future generations, and to determine and implement ways to ensure equitable access to these resources.
+(d) To ensure that adequate water and sewerage services are available on islands and sites leased for tourism, and on islands and sites leased for industrial activities.
+(e) To determine the rights of water and sewerage service users and the responsibilities of service providers.
+(f) To formulate a long-term plan to prevent or reduce the adverse impacts on water resources and to authorize relevant state institutions to work under it.
+(g) To establish a system for taking action against parties who cause damage through intentional harm to water and sewerage systems or through negligence in their operation and maintenance.
+(h) To increase the participation of private parties in establishing and operating water and sewerage systems, and to reduce the environmental damage incurred through such activities.
+(i) To increase public participation in providing water and sewerage services and to provide services in close proximity to the public.
+(j) To build human resources in the water and sewerage sector, to develop the industry, and to thereby strengthen the economic and social development of the Maldives.
+
+**CHAPTER TWO**
+
+**3. Right to access safe water**
+(a) Every person residing in the Maldives has the right to receive a sufficient quantity of safe water for personal and domestic needs.
+(b) For the purpose of subsection (a) of this Article, the right to receive a sufficient quantity of safe water includes the right to access clean and safe water services at a reasonably fair price, and the right to access such services or other water resources.
+(c) Receiving a sufficient quantity of safe water for personal and domestic needs refers to making available a sufficient quantity of water for drinking, cooking, personal sanitation, and for maintaining the cleanliness of the living space and household items.
+(d) For purposes other than those specified in subsection (c), safe water provided for domestic needs shall be of adequate clarity, with no undesirable odor or taste.
+(e) Water resources must be accessible to all persons residing in the Maldives without discrimination.
+(f) On every inhabited island, facilities for water services shall be established in a manner that is easily accessible to all residents. Furthermore, on islands leased for agriculture, tourism, and industrial activities, facilities that provide water services in the quantity required by the people living and working on those islands shall be established.
+(g) Water and water resources shall be available at a reasonably fair price.
+
+**4. Right to access an adequate sewerage system service**
+(a) Every person on every inhabited island has the right to an adequate sewerage system service.
+(b) For the purpose of subsection (a) of this Article, the right to access an adequate sewerage system service refers to the right to access a sewerage system that is suitable for the island where the person resides.
+
+**5. State’s responsibilities**
+To uphold the rights specified in this Act, the State shall undertake the following:
+(a) To establish and develop the resources needed to provide sustainable water and sewerage services.
+(b) To ensure the provision of hygienically safe, clean water and a good quality sewerage service.
+(c) To take all possible measures at any given time to eliminate all difficulties and obstacles encountered in providing water and sewerage services.
+(d) To protect citizens from difficulties created by any party in accessing safe, clean water and a good quality sewerage service.
+(e) To ensure that a robust system is in place to provide these rights to citizens.
+(f) To determine water standards for the provision of safe water services.
+(g) To give special consideration to persons requiring special protection and to make efforts to provide the service to them with due care.
+(h) To ensure that water and sewerage service providers are delivering services in accordance with the standards and principles specified in this Act.
+(i) To determine the policies required to develop water and sewerage services and make them contemporary, and to conduct the necessary research to bring about required technological changes to maintain such services.
+
+**CHAPTER THREE**
+**ROLES OF INSTITUTIONS**
+
+**6. Responsibility for policy formulation**
+(a) Water and sewerage services in the Maldives shall be provided in accordance with policies determined by the Government.
+(b) The Minister shall, with the advice of the President of the Republic, determine the policies referred to in subsection (a). Such policies determined by the Minister shall be published in the Gazette of the Government of Maldives.
+(c) Any changes to such policies shall be implemented with the advice of the President of the Republic and must be published in the Gazette.
+(d) Any party planning or conducting activities related to water and sewerage shall adhere to the policies formulated under subsection (a) of this Article.
+
+**7. Responsibilities of the Ministry**
+In accordance with Article 6 of this Act, the Minister shall implement policies, and the Ministry shall carry out the following in order to enforce this Act:
+(a) To determine and implement the national policy for water and sewerage services in the Maldives.
+(b) To formulate all regulations required to implement this Act.
+(c) To make arrangements, in collaboration with relevant state authorities, to establish and operate a water and sewerage system suitable for each inhabited island, within a maximum period of 5 (five) years from the date this Act comes into force.
+(d) To ensure, in collaboration with relevant state authorities, that a water and sewerage system suitable for the island or region is established and sustainably operated on islands and in regions leased for tourism and industrial activities.
+(e) To formulate a national strategic plan for water and sewerage, with the advice of the Ministry of Fisheries, Marine Resources and Agriculture, the Ministry of Environment, Climate Change and Technology, the Ministry of National Planning, Housing and Infrastructure, Local Councils, and other relevant institutions.
+(f) To determine the maximum fee that can be charged for water and sewerage services, and to conduct the necessary research in this regard with the advice of the Ministry of Finance and relevant institutions.
+(g) To collect, maintain, and publish all statistics related to water resources and water and sewerage systems on the islands of the Maldives.
+(h) To determine regulations and standards for testing and certifying equipment used for establishing water and sewerage systems.
+(i) To establish water analysis laboratories to ensure the safety of water provided for public use and to arrange for access to the services of such facilities.
+(j) To seek the views of relevant ministries, local councils, relevant state institutions, civil society organizations, and the general public when determining policies to improve the quality of water and sewerage services and to provide them sustainably at an affordable price.
+(k) To determine the national targets related to water and sewerage and to secure the financial and technical assistance needed to achieve those targets.
+(l) To provide financial assistance, advice, and guidance to councils regarding water and sewerage services, and to conduct necessary activities at the national level to enhance the capacity of councils.
+(m) To oversee the work of the regulatory authority for water and sewerage services, and to monitor the plans and strategies of that authority.
+(n) To monitor how councils provide water and sewerage services to citizens and to oversee how related projects are being implemented.
+(o) To establish a National Water and Sewerage Master Plan related to water and sewerage policies within 1 (one) year from the date this Act comes into force, and to review this Master Plan every 10 (ten) years.
+(p) To make necessary amendments to the Master Plan when required.
+(q) To determine, design, and establish technical standards and principles for water and sewerage systems with the advice of relevant institutions.
+(r) To plan and conduct public awareness programs regarding water and sewerage.
+
+**8. Responsibilities and powers of the Councils**
+The following are the responsibilities and powers vested in the councils under this Act:
+(a) To implement at the island level all matters designated as the responsibilities of the council in this Act and in the regulations made hereunder.
+(b) To plan water and sewerage services at the island level and to make arrangements to provide such services equitably.
+(c) To seek the financial and technical resources required to provide water and sewerage services.
+(d) To provide water and sewerage services in accordance with Government policies, regulations made under this Act, and the advice of the Authority.
+(e) To determine the tariffs for water and sewerage services on the island.
+(f) To oversee the provision of services by any third party contracted to provide water and sewerage services, in accordance with relevant regulations and procedures, and to take necessary measures at the island level to maintain the quality of service.
+(g) To protect the rights of the service provider and the service user at the island level.
+(h) To plan and conduct public awareness programs regarding water and sewerage at the island level.
+(i) To ensure that the water and sewerage systems established on the island do not cause adverse changes to the island's environment.
+(j) To provide information sought by relevant government authorities and the Ministry for the purpose of collecting various statistics related to water and sewerage.
+(k) To ensure that a sufficient quantity of water is available on the island for the personal and domestic needs of its residents.
+(l) To contract out the work of providing water and sewerage services assigned to councils to a party licensed for such work, under an agreement made with that party, and to carry out such work.
+
+**9. Agreement to provide services**
+An agreement for the provision of services made under Article 8(l) of this Act shall include the following:
+(a) The powers granted to the service provider under the service provision agreement.
+(b) The conditions for providing the service.
+(c) Procedures for the operation, maintenance, development, and repair of the water and sewerage system, and for maintaining and further developing the quality of service.
+(d) How to resolve any issues that may arise in relation to the service agreement.
+(e) That any issues arising in relation to the service agreement shall be resolved in accordance with the laws of the Maldives.
+
+**10. Responsibilities of the Authority**
+The principal responsibilities of the Authority are as follows:
+(a) To provide the necessary technical assistance to the Ministry in formulating the regulations, which include the procedures and standards to be followed in order to implement this Act.
+(b) To issue licenses to parties producing water and providing sewerage services in the Maldives, and to create and maintain a public registry of information pertaining to them.
+(c) To register all desalination plants operated by various parties for domestic and other purposes and to maintain a record of their information.
+(d) To ensure that water and sewerage services are provided to every individual, and to ensure that there is no discrimination in the provision of such services based on race, country of origin, color, age, gender, physical or mental disability, political or other opinion, financial capacity, family of birth, island of origin, or any other matter.
+(e) To review whether water and sewerage systems are designed in accordance with the standards specified in the regulations formulated by the Ministry for designing such systems, and to approve and authorize such designs.
+(f) To assess the competence of parties who design water and sewerage systems, to issue licenses for such work, and to compile and publish a registry of such parties.
+(g) To raise public awareness and familiarize the public with regulations and procedures related to water and sewerage services.
+(h) To ensure that fees are charged for water and sewerage services in accordance with the regulations made under this Act.
+(i) To take action against parties who violate this Act and the regulations made hereunder.
+(j) To ensure that water and sewerage services on the inhabited islands of the Maldives are provided in accordance with the established standards.
+(k) To ensure that the water and sewerage system established on an inhabited island is the most suitable for that island.
+(l) To determine, with the advice of relevant institutions, the standards that must be met by equipment used for providing water and sewerage services.
+(m) To determine, with the advice of relevant institutions, the standards for water produced for drinking and general use.
+(n) To ensure, in collaboration with Local Councils and service providers, the quality of water provided for public use.
+(o) To collect necessary information, to encourage private parties to conduct such research, and to facilitate the publication of such information. Furthermore, to provide such information to the Ministry when required.
+(p) To ensure that service providers are delivering services in accordance with the standards determined for service provision.
+(q) To maintain records of matters determined by the Authority for service providers to adhere to, such as water pressure, water quality, wastewater treatment standards, water flow rates, billing procedures, and safety in service provision.
+(r) To determine, with the advice of relevant institutions, the standards for water discharged from sewerage systems and desalination plants.
+(s) To determine, with the advice of relevant institutions, the standards required to reduce water wastage in water supply and water-using appliances, meters, and equipment.
+
+**11. Powers of the Authority**
+To implement the matters specified in this Act, the Authority is vested with the following powers under this Act:
+(a) To issue, amend, suspend, and revoke licenses for parties designing water and sewerage systems.
+(b) To monitor water and sewerage service providers and to take action against violating parties in accordance with regulations made under this Act.
+(c) To investigate issues arising in relation to water and sewerage services and to take the necessary measures to resolve such matters.
+(d) To inspect and investigate premises and summon necessary persons when it is believed that an act has been committed in violation of this Act and regulations made hereunder.
+(e) To issue orders to parties as required to ensure compliance with this Act and regulations made hereunder.
+(f) To fine parties that violate this Act and regulations made hereunder and to take other measures against such parties under the Act and regulations.
+(g) To investigate complaints submitted regarding water and sewerage services, to receive and accept such complaints, and to investigate such complaints and matters.
+(h) To ensure that licensed parties are acting in accordance with the conditions specified in the license for service provision.
+(i) To inspect, investigate, and regulate standards required to reduce water wastage in water supply and water-using appliances, meters, and equipment.
+(j) To obtain all necessary documents from a water and sewerage service provider in connection with a complaint submitted regarding the service, in order to investigate the matter.
+(k) To obtain samples of water, wastewater, and sludge from any place, and to analyze them.
+(l) If it is found that water is being used from an island's natural groundwater lens, a lake, or a marshland for water production, to stop such activity and take the necessary measures.
+
+**12. International agreements and treaties**
+The Ministry shall, with the advice and guidance of relevant sectors, undertake the following in relation to international agreements and treaties on water and sewerage:
+(1) To formulate the technical framework required to perform all obligations imposed on the State by such agreements and treaties.
+(2) To make all arrangements necessary to implement such agreements and treaties.
+(3) To communicate regarding such agreements and treaties and to represent the Maldives at various meetings with international parties.
+(4) The Ministry shall maintain and publish a registry of all international agreements and treaties on water and sewerage to which the Government is a party.
+
+**13. Water and Sewerage Strategic Plan**
+(a) In order to develop and advance the water and sewerage sector of the Maldives and to improve the quality of service, the Ministry shall formulate a 5 (five) year Strategic Plan, with the advice of relevant institutions and in accordance with water and sewerage policies. This Strategic Plan shall be reviewed once every 5 (five) years.
+(b) Any amendments to the plan specified in subsection (a) shall be made with the advice of the Authority.
+(c) Before the end of each calendar year, institutions must provide the Ministry with information related to the performance of the Strategic Plan in the preceding year, for the purpose of monitoring the Strategic Plan.
+(d) The Strategic Plan specified in subsection (a) of this Article must be formulated within 3 (three) months from the date this Act comes into force.
+
+**14. Plan determined by the service provider**
+(a) Every party licensed to provide water and sewerage services shall, in accordance with the national water and sewerage policy, formulate a plan for providing water and sewerage services and submit it to the Ministry before the start of each calendar year. A report on the implementation of this plan during that year must be submitted to the Ministry and the Authority within the first 3 (three) months of the following calendar year.
+(b) The plan specified in subsection (a) of this Article shall include the following:
+(1) Water quality.
+(2) The amount of non-revenue water.
+(3) The extent of service interruptions.
+(4) Billing details.
+(5) Details of revenue received and expenditure incurred.
+
+**15. Support from relevant state authorities**
+Relevant state authorities shall provide full cooperation to the Ministry in fulfilling the responsibilities assigned to it under this Act for the protection and maintenance of water resources and water and sewerage systems.
+
+**CHAPTER FOUR**
+**WATER RESOURCES**
+
+**16. Ownership of natural water resources**
+All water resources, including those found naturally, are the property of the State of the Maldives.
+
+**17. Protection of available water**
+(a) The groundwater lens of islands used for agriculture, industrial activities, and tourism, including land reclaimed by dredging lagoons and areas added to such islands, and the groundwater lens of land developed by adding such areas, are protected water resources under this Act, unless otherwise specified.
+(b) The protected water resources under this Act shall be maintained and managed in accordance with the regulations made hereunder.
+(c) Notwithstanding subsection (b) of this Article, this Article does not prohibit the extraction and use of water from a well for personal use, or the collection and use of rainwater, or the extraction and use of seawater, in a manner not constituting the provision of water services on a commercial or for-profit basis.
+
+**18. Protection of the groundwater lens**
+(a) The groundwater lens shall be protected. Wells and boreholes for extracting seawater shall be bored in a manner that does not cause any damage to the natural groundwater lens of the island.
+(b) Intake pipes shall be placed at a depth that does not pierce the island’s groundwater lens or have an adverse effect on it.
+(c) In addition to the water resources specified as protected in this Act, any other water resource shall be protected upon a decision by the Cabinet and publication in the Gazette of the Government of Maldives.
+
+**19. Prohibition on use of natural water resources for industrial activities**
+(a) The groundwater lens of uninhabited islands leased for agriculture, industrial activities, and tourism, and islands created by dredging lagoons for such activities, including areas added to such islands, and the groundwater lens of land developed by adding such areas, and water in lakes and naturally formed water bodies, are not water resources that can be used for industrial purposes.
+(b) Notwithstanding subsection (a) of this Article, parties engaged in agriculture on uninhabited islands leased for agriculture before this Act comes into force shall be given a period of 2 (two) years to install a desalination plant or arrange for water production by other means, as specified in this Act.
+(c) The following are the parties conducting agriculture on inhabited islands who must comply with subsection (a) of this Article:
+(1) Parties conducting agriculture in an area of 10,000 (ten thousand) square feet or larger.
+(d) It is the responsibility of the party to whom the work has been assigned to establish a system for producing water required for industrial activities through desalination, rainwater harvesting, or by using any other technology.
+
+**20. Contamination of the groundwater lens**
+(a) No person shall, intentionally or through negligence, commit any act that could contaminate the groundwater lens of any island in the Maldives.
+(b) Any pesticides or fertilizers used in agriculture shall not be used in a manner that contaminates the groundwater lens.
+(c) Any substance that could contaminate the groundwater if it seeps into the ground shall be transported within the Maldives only after being properly sealed in a manner that prevents seepage, in accordance with the regulations formulated under this Act.
+(d) Any oil, chemical, or similar substance that could contaminate the groundwater if it seeps into the ground shall be transported in separate, sealed containers, or in a manner that is properly secured within the vessel, to prevent spillage.
+(e) In the event that any oil, chemical, or similar substance that could contaminate the groundwater is spilled onto the ground, the responsibility for cleaning such substances and for undertaking the necessary remedial actions for any contamination of the land and water shall be borne by the party transporting such substances.
+(f) It is prohibited to transport by land any oil, chemical, or similar substance that could contaminate the groundwater if it seeps into the ground.
+(g) It is prohibited for any person, whether intentionally or through negligence, to discharge any oil, chemical, or similar substance onto the ground or into the groundwater lens.
+(h) If the groundwater is contaminated due to a substance stored in a manner specified in subsection (g) of this Article, the owner of that substance shall be responsible for its remediation.
+(i) Water containing oil or chemicals shall not be discharged onto the ground or into the sea when cleaning vessels.
+
+**21. Discharge of water from desalination systems**
+(a) Extracting and discharging water from the ground for desalination projects for resorts, agriculture, and other industrial projects shall be done with permission for such activity, in accordance with the regulations made under this Act.
+(b) If discharging water extracted from the ground of an island is not suitable for the ground due to the island’s geography or the quality of the extracted water, that water may be discharged into the sea via a method determined by the Authority, in accordance with the regulations made under this Act.
+(c) It is prohibited to extract and discharge water in a manner contrary to that specified in subsection (a) of this Article.
+
+**22. Prohibition of mixing water**
+(a) It is prohibited to use water extracted from the freshwater lens of the ground, lakes, and similar sources in a desalination system.
+(b) After producing water from a desalination system, no other type of water shall be mixed with it before distributing it for public use, except with the permission of the Authority and in accordance with standards set by the Authority.
+(c) It is prohibited to mix and distribute any type of water that has not been desalinated with water produced from a desalination system.
+
+**23. Use of water resources in disasters**
+The Authority is vested with the power, as specified in the regulations made under this Act, to grant permission to use water from protected water resources during disasters. The main principles for acting in such situations shall be specified in the regulations made hereunder.
+
+**24. Preparation for disasters**
+(a) On inhabited islands, islands leased for tourism, and islands where industrial activities are conducted, an amount of clean water estimated to be required for 5 (five) days shall be stored, and arrangements shall be made for its use in the event of a disaster or incident. The service provider or the operator of the island shall be responsible for this.
+(b) In determining the amount of clean water to be stored on inhabited islands, islands leased for tourism, and islands where industrial activities are conducted in preparation for a potential disaster or incident as specified in subsection (a) of this Article, consideration shall be given to the population of the island, the water storage capacity of the island, and the water resources available on the island.
+
+**CHAPTER FIVE**
+**ENVIRONMENTAL PROTECTION**
+
+**25. Environmental Impact Assessment Report**
+(a) Permission to establish a water and sewerage service system in the Maldives shall be granted only after an Environmental Impact Assessment Report has been prepared in accordance with Regulation No. R-27/2012 (Regulation on Environmental Impact Assessment Reports) and the report has been approved by the Environmental Protection Agency.
+(b) When approving the report specified in subsection (a) of this Article, the license issued for providing water and sewerage services shall stipulate adherence to the mitigation measures determined to reduce environmental damage during the implementation of the project.
+
+**26. Prioritizing low-impact technologies**
+When providing water and sewerage services using different technologies, priority shall be given to technologies that cause the least harm to the environment. And when using the service, service users shall prioritize methods that cause the least harm to the environment.
+
+**27. Use of renewable energy**
+(a) The energy used for water production shall be generated using renewable resources.
+(b) To achieve the objective specified in subsection (a) of this Article:
+(1) Within 5 (five) years from the date this Act comes into force, water production plants operating at the commencement of this Act shall be converted to plants that run on renewable energy. The service provider shall endeavor to achieve this.
+(2) After this Act comes into force, licenses to operate new water production plants shall be issued only after ensuring that the energy required to operate the plant is generated from a renewable resource.
+(c) Notwithstanding subsection (b) of this Article, this Article does not prohibit the generation of water using conventional energy sources in a disaster situation, or due to a problem with the renewable energy generation system that could lead to an interruption in water production.
+
+**28. Promoting Integrated Water Resource Management**
+When providing water services, efforts shall be made to include desalination using seawater and rainwater harvesting. In this regard, efforts shall be made to include a significant proportion of rainwater in the supplied water.
+
+**CHAPTER SIX**
+**RESPONSIBILITIES OF WATER AND SEWERAGE SERVICE PROVIDERS**
+
+**29. Responsibilities of water and sewerage service providers**
+(a) Parties engaged in providing water and sewerage services must, in accordance with this Act and the regulations and procedures made hereunder, undertake the necessary measures to provide uninterrupted service to all persons residing in the area assigned to them.
+(b) Water and sewerage service providers shall submit all required reports for monitoring water and sewerage service activities, in accordance with the procedures determined in the regulations made under this Act.
+(c) Water produced and bottled in the Maldives must conform to the standards determined by the relevant authorities.
+(d) Water and sewerage service providers must work to reduce their reliance on government financial assistance.
+(e) Water and sewerage service providers must develop their services to make them sustainable and modern.
+(f) All water and sewerage service providers must provide assistance and cooperation in all activities undertaken by the Ministry and the Authority to fulfill their responsibilities under this Act.
+(g) For premises allocated for residential housing, the first-time connection of water and sewerage pipes shall be provided free of charge.
+(h) To ensure the uninterrupted provision of water and sewerage services, necessary equipment and items shall be maintained and made available to prevent problems from arising, and in the event of a problem, it must be resolved as quickly as possible.
+(i) A log of service interruptions shall be maintained in a manner visible to the public.
+(j) Water shall be tested and monitored according to established procedures to maintain water quality.
+
+**30. Some powers vested in service providers**
+(a) The service provider has the power to purchase, lease, produce, own, and maintain under its own care, the facilities, buildings, meters, and other related items necessary for providing the service.
+(b) In relation to service provision activities, entry into government and state buildings, and private residences and commercial premises, is permitted. When entering in this manner, the person must be identifiable as an employee of the service provider.
+(c) For the purpose of providing the service, meters may be installed in private, government, and state buildings.
+(d) The service provider may prohibit the service user from discharging specific types of substances into the sewerage system.
+
+**31. Providing water services**
+(a) Water produced on inhabited islands of the Maldives shall meet the standards for drinking water determined by the Authority for various uses, with the advice of the Maldives Food and Drug Authority.
+(b) Where a license has been issued by the Authority to a party to provide water services on an island in the Maldives, no other party on that island shall establish a system to produce freshwater for their own use or for commercial purposes, unless there is no objection from the Authority.
+(c) The Authority shall determine and publish the standards that water distributed on the islands of the Maldives must meet when providing water services. Furthermore, the Authority shall determine and publish the standards for water service systems and the procedures to be followed when establishing such systems.
+(d) Water systems established in the Maldives shall be chlorinated in a manner that eliminates germs.
+(e) If a change needs to be made to the standards and procedures published by the Authority under subsection (c) of this Article, the new standards and procedures shall be announced along with the change.
+(f) In high-rise buildings in the Maldives, it is the responsibility of the building owner to establish a water supply system suitable for that building. Such arrangements must be in accordance with the standards determined for this purpose by the Authority.
+(g) If a service provider violates the standards determined by the Authority, action may be taken against that party in accordance with this Act and the regulations made hereunder.
+
+**32. Providing sewerage services**
+(a) The type of sewerage system to be established on inhabited islands, the method for classifying islands, and the islands where wastewater and sewage treatment systems will be installed, shall be determined by the Minister in accordance with the policies of relevant government institutions.
+(b) Among the islands that fall into the categories determined by the Ministry under subsection (a) of this Article at the time this Act comes into force, a wastewater and sewage treatment system of a standard adequate for the sewerage system must be established within a period determined and published by the Ministry.
+(c) If, prior to the commencement of this Act, the Ministry has required a party to establish a wastewater and sewage treatment system within a specific period, this Article shall also apply to that party.
+(d) On islands where a wastewater and sewage treatment system is required to be established under this Article, it is prohibited to provide sewerage services without a wastewater and sewage treatment system, in accordance with the principles determined by the Ministry.
+(e) Notwithstanding subsection (d), this Article does not prohibit the discharge of floodwater into the sea without treatment during flooding disasters caused by heavy rainfall or tidal surges. However, this must be done in accordance with the regulations made under this Act.
+(f) When undertaking construction or similar industrial activities on islands where sewerage services are provided, water extracted from the ground shall not be discharged into such a sewerage system.
+(g) Sewerage systems established on inhabited islands of the Maldives must conform to the standards of this Act and the regulations made hereunder, and in accordance with the principles determined by the Authority.
+(h) The Authority shall publish the standards that sewerage systems on the islands of the Maldives must meet, the standards for designing such systems, and the procedures to be followed when establishing such systems.
+(i) If a change needs to be made to the standards and procedures published by the Authority under subsection (h) of this Article, the new standards and procedures shall be announced along with the change.
+(j) Wastewater from any sewerage system established in a residence shall be seeped into the ground only after it has been treated to a level that meets the water standards determined by the Authority, and with the permission of the Authority, in accordance with this Act and the regulations made hereunder.
+(k) Any type of water that could cause a problem for the operation of the wastewater treatment system shall be discharged into the sewerage system only in a manner determined by the Authority, in accordance with this Act and the regulations made hereunder.
+(l) Committing an act such as that specified in subsections (j) and (k) of this Article, in violation of this Act and the regulations made hereunder, is prohibited.
+(m) If a service provider violates the standards determined by the Authority for compliance under this Article, action may be taken against that party in accordance with this Act and the regulations made hereunder.
+
+**33. Providing services to the vulnerable**
+(a) In implementing the powers vested in service providers under this Act, lenient measures shall be established for vulnerable persons, as follows:
+(1) When connecting water and sewerage services.
+(2) When disconnecting water and sewerage services.
+(b) The Island Council of each island shall compile a register of vulnerable persons as specified in subsection (a) of this Article, in accordance with the regulations made by the Ministry under this Act.
+
+**CHAPTER SEVEN**
+**REGISTRATION AND LICENSING**
+
+**34. Contracting out service provision**
+(a) Any party shall be contracted to provide water or sewerage services in the Maldives only under an agreement made between the Ministry or the Authority and that party.
+(b) The agreement made under subsection (a) of this Article shall, in consideration of the regulations made under this Act, include matters that water or sewerage service providers are required to do or not to do.
+
+**35. Registration**
+Water and sewerage systems, and desalination plants established and operated in the Maldives, shall be operated only after being registered with the Authority in accordance with the regulations made under this Act.
+
+**36. Issuance of Operating Licenses**
+(a) Water or sewerage services shall be provided on any island of the Maldives only after obtaining an Operating License issued for that purpose by the Authority, in accordance with the licensing procedures specified in the regulations made under this Act.
+(b) A license issued by the Authority shall include the following:
+(1) The party or company to whom the license is issued.
+(2) The period for which the license is issued.
+(3) The purpose for which the license is issued.
+(4) The area where services can be provided under the license.
+(5) The conditions under which the license is issued.
+(6) Other matters specified in the regulations made under this Act.
+
+**37. Issuance of Exclusive Operating Licenses**
+(a) The Authority may decide to issue an Exclusive Operating License to any party for the provision of any public utility service only if it is for a matter of national interest, and upon receiving written advice from the President of the Republic following consultation with the Cabinet of Ministers.
+(b) Upon receiving the President's written advice as per subsection (a) of this Article, the Authority is vested with the power to amend or revoke the conditions of the Exclusive Operating License, taking into account the prevailing circumstances.
+(c) The general procedures for issuing Exclusive Operating Licenses shall be determined and specified in the regulations made under this Act.
+
+**38. License conditions**
+When issuing a license under Article 36 of this Act, the following conditions shall be included:
+(a) To maintain the water and sewerage system in accordance with the standards determined by the Authority.
+(b) To connect water and sewerage for residences, businesses, institutions, and other parties requiring the service, and to maintain the system.
+(c) To fully implement the business plan specified in Article 41(a)(2) of this Act.
+(d) To adhere to the responsibilities imposed under this Act.
+(e) To fully comply with orders issued by the Authority.
+(f) To maintain records of water and sewerage services as directed by the Authority, and upon the conclusion of each calendar year, to prepare a performance report based on these records and submit it to the Authority.
+(g) To fulfill any additional conditions determined in relation to the issuance of the license.
+
+**39. Licensing procedure**
+The procedure for issuing licenses for the provision of water and sewerage services shall be fair, equitable, non-discriminatory, and transparent.
+
+**40. License duration**
+A license to provide water and sewerage services under this Act shall be issued for a period not exceeding 30 (thirty) years. If the Authority finds that the license holder has acted in accordance with the license conditions during this period, the license duration may be extended.
+
+**41. Application for a license**
+(a) The Authority shall publish the procedures to be followed by parties applying to provide water and sewerage services. When applying for a license, the following information shall be submitted:
+(1) The financial and technical capacity of the applicant.
+(2) Business plan.
+(3) Financial plan.
+(4) If a company, the company's board resolution.
+(b) After the party that applied for the license commences service provision, the Authority shall monitor the implementation of the business plan submitted by that party.
+(c) The business plan specified in subsection (a)(2) of this Article shall include the following matters determined by the Authority:
+(1) If applying to provide water services, the quality of the water to be produced.
+(2) If applying to provide water services, the water pressure.
+(3) How the water and sewerage system will be operated and maintained.
+(4) The plan to expand the service in line with the increase in housing and population.
+(5) How wastewater will be treated.
+(6) Billing method.
+(7) How service complaints will be handled.
+(8) And information on the maintenance of water and sewerage service assets.
+
+**42. Setting tariffs**
+(a) The maximum tariff for water and sewerage system services established on inhabited islands of the Maldives shall be determined by the Authority in accordance with the regulations made under this Act.
+(b) Fees for connecting and disconnecting water and sewerage services shall be charged in accordance with the regulations made under this Act.
+(c) It is prohibited to charge any fee for a water and sewerage service other than the fee specified in the regulations made under this Act.
+(d) The maximum tariffs for water and sewerage services in the Maldives shall be publicly announced. Any changes to the tariffs shall also be announced.
+(e) The service tariff for inhabited islands as specified in subsection (a) of this Article shall be determined with the advice of the respective island council.
+(f) Any change to the water and sewerage service tariff must be communicated in writing to the service users at least 1 (one) month in advance.
+
+**43. Submission of performance reports**
+(a) Upon the conclusion of each calendar year, the service provider shall prepare a performance report in a manner determined by the Authority and submit it to the Council, the Ministry, and the Authority before the end of March of the following calendar year.
+(b) The performance report shall include the following:
+(1) The extent to which the matters included in the license conditions have been achieved.
+(2) The work done during the year to improve the service.
+(3) Other information determined by the Authority for inclusion in the report.
+
+**44. Submission of complaints**
+(a) Every user of a water and sewerage service has the right to submit a complaint about the service to the Authority.
+(b) In relation to a complaint submitted to the Authority as specified in subsection (a) of this Article, the service provider shall be given an opportunity to rectify the issues.
+(c) If the matter is not rectified within the opportunity given to rectify the issues as per subsection (b) of this Article, the Authority has the power to take action against such parties in accordance with the regulations made under this Act.
+
+**CHAPTER EIGHT**
+**INVESTIGATION AND ACTION**
+
+**45. Investigation**
+The Authority has the power to investigate any matter where it appears, either in connection with a complaint or upon its own observation, that a party has caused damage to the ground or the environment through any water and sewerage related work. The party conducting such work must provide all necessary documents and information for such investigation.
+
+**46. Seeking documents**
+If an act specified in subsection (a) of this Article constitutes a criminal offense, the matter shall be submitted to the relevant authorities.
+
+**47. Falsifying documents**
+It is a criminal offense to submit any falsified document to the Ministry or the Authority in relation to any matter specified in this Act.
+
+**48. Power to summon persons and investigate**
+The Authority has the power to summon and question any person, and to take their statement, in relation to a matter being investigated by the Authority under this Act or a regulation made hereunder.
+
+**49. Power of inspection**
+(a) For the purposes of this Act, if the Authority deems it necessary to inspect premises where a service is being provided or a business is being conducted with a license or registration, the Authority has the power to enter and inspect such premises. The Authority also has the power to enter such premises and carry out the following:
+(1) To photograph, video, and record audio.
+(2) To inspect and take any necessary documents to the Authority.
+(3) To take samples of water or items for analysis.
+
+**50. Obtaining a court order for inspection**
+(a) Notwithstanding Article 48 of this Act, if the owner or operator of a premises refuses permission or cooperation for an inspection, the Authority shall enter such premises to perform its duties under this Act only under a court order.
+(b) Upon application to the relevant court for an order as specified in subsection (a) of this Article, the court may issue such an order in one of the following circumstances:
+(1) If it is believed for a reasonable cause that entry into the premises intended for inspection is necessary.
+(2) If it is believed that it is necessary to enter, conduct tests, analyze, inspect required items, take photographs, video, or conduct necessary searches.
+(3) If it is believed that it is necessary to take samples of some of the items found on the premises.
+(c) A court order issued under this Article must specify the period for which the order will remain in effect.
+
+**51. Administrative action**
+(a) In enforcing this Act and the regulations made hereunder, if any party violates this Act or the regulations, the Authority has the power to impose an administrative penalty, taking into account the gravity of the act.
+(b) For the purpose of this Article, administrative penalties include the following:
+(1) Suspending the operating license or permit issued to the party for a specific period.
+(2) Revoking the operating license or permit issued to the party.
+(3) Imposing a fine and suspending the operating license or permit issued to the party for a specific period.
+(4) Imposing a fine and revoking the operating license or permit issued to the party.
+
+**52. Criminal prosecution**
+In enforcing this Act and the regulations made hereunder, if an act committed by any party in violation of this Act or the regulations contains a criminal element, the matter shall be investigated and submitted to the relevant authorities for prosecution.
+
+**53. Obtaining information on case outcomes**
+The relevant authorities shall inform the Authority of the outcome of cases sent by the Authority for civil or criminal prosecution under this Act.
+
+**54. Arranging for uninterrupted service provision**
+If a party that has obtained an Operating License or an Exclusive Operating License to provide water and sewerage services under this Act is unable or unwilling to provide the service for any reason during the license period, the Authority has the power to order the provision of the service at the same tariff without change, until another party is arranged to provide the service.
+
+**55. Penalties**
+The administrative penalties that can be imposed under this Act on parties violating this Act and the regulations made hereunder are the penalties specified in this Article:
+(a) Fining a party that provides false information to the Ministry, or to a party designated by the Ministry or the Authority, an amount not exceeding MVR 50,000 (fifty thousand).
+(b) The penalty for a party that establishes a water and sewerage system without obtaining a permit under this Act is a fine of an amount not exceeding MVR 500,000 (five hundred thousand).
+(c) The penalty for a party that provides water and sewerage services without obtaining a license or permit under this Act is a fine of an amount not exceeding MVR 500,000 (five hundred thousand).
+(d) The penalty for a party that amends a license without the Authority's permission, or works outside the scope of the issued license, is a fine of an amount not exceeding MVR 500,000 (five hundred thousand).
+(e) If a violation identified by the Authority is not rectified by the service provider within the period given for rectification, the penalty for that party is a fine of an amount not exceeding MVR 100,000 (one hundred thousand).
+(f) The penalty for a party that intentionally or otherwise damages the facilities and service of a water and sewerage service provider, or commits any act to obstruct the provision of service, is a fine of an amount not exceeding MVR 1,000,000 (one million).
+(g) The penalty for a party who, without a reasonable cause, refuses entry to a place that must be entered for work related to water and sewerage by a licensed service provider or its employee, or obstructs the performance of necessary work, or the removal and transport of an item under the party's ownership, is a fine of MVR 5,000 (five thousand).
+(h) The penalty for a party who, upon a request for information by the Ministry, fails to provide that information within the specified period without a reasonable cause, is a fine of an amount not exceeding MVR 5,000 (five thousand).
+(i) The penalty for a party that enters the area of land and buildings provided to a service provider for the provision of water or sewerage services without the permission of the service provider is a fine of an amount between MVR 1,000 (one thousand) and MVR 10,000 (ten thousand).
+(j) The penalty for a party who, with the intent to misrepresent the amount of water used or for any other purpose, intentionally or negligently alters a meter installed to measure water usage, or facilitates such alteration, is a fine of an amount between MVR 50,000 (fifty thousand) and MVR 100,000 (one hundred thousand). If this offense is repeated, the party shall be fined MVR 5,000 (five thousand) for each day the meter remains altered.
+(k) The penalty for selling water, distributed by the service provider for residential and social purposes, on a commercial basis is a fine of an amount between MVR 1,000 (one thousand) and MVR 25,000 (twenty-five thousand).
+(l) The penalty for a party that opens or obstructs a valve, manhole, or chamber installed by a service provider for the provision of water or sewerage services is a fine of an amount between MVR 1,000 (one thousand) and MVR 25,000 (twenty-five thousand).
+(m) The penalty for a party who, intentionally or through negligence, introduces any substance into the water system that could cause any change to the quality of the water distributed by the service provider, or commits an act that could facilitate the entry of such a substance into the system, is a fine of an amount between MVR 50,000 (fifty thousand) and MVR 100,000 (one hundred thousand).
+(n) The penalty for a party who obstructs an authorized officer from performing their duties and responsibilities under this Act or a regulation made hereunder, obstructs service provision, or intentionally or negligently causes physical harm to, harasses, or otherwise obstructs a service provider's employee while on duty, is a fine of an amount between MVR 5,000 (five thousand) and MVR 25,000 (twenty-five thousand). If the act committed constitutes a criminal offense, the matter shall also be submitted to the relevant authorities.
+(o) The penalty for a party that uses water from an island's freshwater lens, a natural lake, or a water body for water production is a fine of an amount between MVR 500,000 (five hundred thousand) and MVR 1,000,000 (one million).
+
+**CHAPTER NINE**
+**MISCELLANEOUS**
+
+**56. Right to appeal administrative penalties**
+Among the parties against whom the Authority takes action for violating this Act and the regulations made hereunder, those who wish to appeal the administrative penalties imposed by the Authority have the right to file the case in court within the period specified in the relevant regulations.
+
+**57. Confidentiality**
+(a) Among the information obtained by any person, company, or state authority under this Act, information other than that published under subsection (b) of this Article may be disclosed only to parties legally authorized to obtain such information.
+(b) Disclosing any information or part thereof by the Minister, the Authority, or an employee of the Authority, in the following circumstances, shall not be considered a violation of subsection (a) of this Article by the Minister, the Authority, or that employee of the Authority:
+(1) Information that is publicly available from the Authority.
+(2) Information disclosed with the written permission of the owner of that information.
+(3) Information that an employee of the Authority discloses to another employee within the scope of their work.
+(4) Information that is disclosed to other state institutions in connection with a case being investigated by them.
+(5) Information requested via an official document from a state institution under another law.
+
+**58. Legal protection**
+(a) No employee shall be held personally liable for any loss or damage incurred in the performance of their duties in enforcing this Act and the regulations made hereunder, or in any legal proceedings related to such a matter. In such cases, liability shall be borne by the institution where the employee works.
+(b) An employee shall be liable for any loss or damage caused by their negligence or for an offense committed by them.
+
+**59. Formulating regulations**
+(a) All regulations required under this Act shall be formulated by the Ministry.
+(b) The regulations required under this Act shall be formulated and publicly published within a maximum of 6 (six) months from the date this Act comes into force.
+
+**60. Commencement of the Act**
+This Act shall come into force on the date it is passed, ratified, and published in the Gazette of the Government of Maldives.
+
+**61. Precedence**
+If any provision of this Act or a regulation made hereunder conflicts with any provision of any other Act concerning a matter specified herein, precedence shall be given to this Act and the regulations made hereunder.
+
+**62. Repeal**
+Upon the commencement of this Act, all provisions related to water and sewerage contained in the Act on Public Health Protection (Act No. 4/96) are hereby repealed.
+
+**63. Definitions**
+Unless the context otherwise requires, the following terms and phrases in this Act shall have the meanings ascribed to them below:
+(a) "Ministry" refers to the Ministry assigned with the portfolio of formulating water and sewerage policies.
+(b) "Minister" refers to the Minister of the Ministry assigned with the portfolio of formulating water and sewerage policies.
+(c) "Desalination plant" refers to any system that produces water using seawater or any other water resource, including all equipment and parts from the water intake point to the production of clean water.
+(d) "Sewerage system" refers to the sewerage network established to collect wastewater and sewage from household toilets and transport it to one location, including all parts of that network, starting from the sewer pipe exiting the toilets.
+(e) "Water resources" refers to the types of water naturally occurring in the Maldives.
+(f) "Authority" refers to the Utility Regulatory Authority.
+(g) "National Strategic Plan" refers to the strategic plan on water and sewerage.
+(h) "Service tariff" refers to the tariff charged for services from the water and sewerage systems established in the cities and islands of the Maldives.
+(i) "License" refers to a permit granted for the provision of water and sewerage services, subject to specific conditions, and authorizing the provision of services in accordance with those conditions.
+(j) "Water services" refers to the service of producing and distributing water for public use, commercial use, and industrial use.
+(k) "Sewerage service" refers to the service of collecting, treating, and managing sewage and contaminated liquid waste generated from inhabited areas or other places, through a pipe network or by other means.
+(l) "Wastewater and sewage" refers to waste generated from toilets, bathrooms, kitchens, and from washing clothes and dishes.
+(m) "Wastewater and sewage treatment system" refers to a system that treats wastewater and sewage to a level where its discharge into any place does not harm the environment or living organisms of that place.
+(n) "Service provider" refers to parties who provide water and sewerage services under an agreement made with the Ministry or the Authority.
+(o) "Freshwater lens" refers to the naturally formed water under the ground of an island.
+(p) The boundary of the groundwater lens shall be considered the area from where water starts seeping from underground to the point where the salinity or electrical conductivity of the water reaches that of seawater.
+(q) "Contamination" refers to any change to the physical, chemical, and biological properties of the water distributed by the service provider, thereby rendering the water unsafe for drinking or having an adverse effect on the health of humans, animals, or plants when consumed.
+(r) "Drinking water" refers to water that meets the standards determined by the Authority for water suitable for human consumption.
+(s) "Water production" refers to the production of water for drinking and general use with the aid of technology, by extracting seawater, rainwater, or groundwater.
+(t) "Industrial use" refers to any work done to make an economic profit.
+(u) "Service provision area" refers to the areas designated by the Authority for the provision of water or sewerage services.
+(v) "Jurisdiction of the Council" refers to the areas designated as the jurisdiction of that island under the Decentralization Act of Maldives (Act No. 7/2010).
+(w) "Treatment" refers to purifying water of its unsafe substances to a level suitable for a specific use or uses.
+

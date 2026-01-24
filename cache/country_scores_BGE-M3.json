@@ -1,0 +1,2674 @@
+{
+  "AD": {
+    "weighted_score": 0.36721925125846605,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4097187821818848,
+      "ground-water monitoring": 0.39936876325939613,
+      "underground water abstraction": 0.36045017460692763,
+      "groundwater permits": 0.43701001747464246,
+      "groundwater rights": 0.39271299754159394,
+      "well and borehole drilling licenses": 0.36684565147182335,
+      "conjunctive management": 0.34089537480193166,
+      "groundwater protection zones": 0.3628699316230168,
+      "aquifer recharge": 0.3077392652681274,
+      "transboundary aquifers": 0.2945815543553167
+    },
+    "chunk_count": 122
+  },
+  "AF": {
+    "weighted_score": 0.4077153817317695,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4638112490927007,
+      "ground-water monitoring": 0.4649562467683926,
+      "underground water abstraction": 0.4253749345259893,
+      "groundwater permits": 0.46146405224717385,
+      "groundwater rights": 0.45100500079113726,
+      "well and borehole drilling licenses": 0.37033299296465066,
+      "conjunctive management": 0.35451650314619954,
+      "groundwater protection zones": 0.400198433128437,
+      "aquifer recharge": 0.3504241261373624,
+      "transboundary aquifers": 0.3350702785156525
+    },
+    "chunk_count": 154
+  },
+  "Albania": {
+    "weighted_score": 0.3966347851403063,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4413333165886732,
+      "ground-water monitoring": 0.4430101399900287,
+      "underground water abstraction": 0.3977729536916821,
+      "groundwater permits": 0.47555964030390124,
+      "groundwater rights": 0.4423252943507179,
+      "well and borehole drilling licenses": 0.38141247142137547,
+      "conjunctive management": 0.34221231477706116,
+      "groundwater protection zones": 0.3974970349448061,
+      "aquifer recharge": 0.32312795684232143,
+      "transboundary aquifers": 0.322096728492496
+    },
+    "chunk_count": 445
+  },
+  "AO": {
+    "weighted_score": 0.3946090614925192,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4371389030662967,
+      "ground-water monitoring": 0.42438962946886855,
+      "underground water abstraction": 0.40459136628268055,
+      "groundwater permits": 0.46196419614616324,
+      "groundwater rights": 0.4514678713441575,
+      "well and borehole drilling licenses": 0.3824656248897861,
+      "conjunctive management": 0.3471317642673801,
+      "groundwater protection zones": 0.3879962729578889,
+      "aquifer recharge": 0.3265302057408522,
+      "transboundary aquifers": 0.32241478076111824
+    },
+    "chunk_count": 206
+  },
+  "Armenia": {
+    "weighted_score": 0.4053843635146664,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.45403493975819,
+      "ground-water monitoring": 0.45567850245531505,
+      "underground water abstraction": 0.4069604891868841,
+      "groundwater permits": 0.4826568248045716,
+      "groundwater rights": 0.45293053439320896,
+      "well and borehole drilling licenses": 0.38831891508830524,
+      "conjunctive management": 0.3506554830823942,
+      "groundwater protection zones": 0.4032119482501292,
+      "aquifer recharge": 0.339043803976382,
+      "transboundary aquifers": 0.320352194151284
+    },
+    "chunk_count": 664
+  },
+  "Australia": {
+    "weighted_score": 0.3536002245548157,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.38403811178639563,
+      "ground-water monitoring": 0.3807576480907177,
+      "underground water abstraction": 0.35871589376972846,
+      "groundwater permits": 0.4110268123462903,
+      "groundwater rights": 0.37075955061497334,
+      "well and borehole drilling licenses": 0.35450263094742474,
+      "conjunctive management": 0.3568062920391985,
+      "groundwater protection zones": 0.3249580885025055,
+      "aquifer recharge": 0.31213844575911376,
+      "transboundary aquifers": 0.28229877169180967
+    },
+    "chunk_count": 3535
+  },
+  "AZE": {
+    "weighted_score": 0.39681646247448177,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4403356292155891,
+      "ground-water monitoring": 0.43487415298441523,
+      "underground water abstraction": 0.3982212187713717,
+      "groundwater permits": 0.46802087628683503,
+      "groundwater rights": 0.4586384941213053,
+      "well and borehole drilling licenses": 0.3719267191678602,
+      "conjunctive management": 0.3081976685212225,
+      "groundwater protection zones": 0.41894911276822133,
+      "aquifer recharge": 0.3381140653494856,
+      "transboundary aquifers": 0.3308866875585115
+    },
+    "chunk_count": 375
+  },
+  "Bahamas": {
+    "weighted_score": 0.3411385383906394,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3808395204509637,
+      "ground-water monitoring": 0.3622384990608841,
+      "underground water abstraction": 0.3315386265066138,
+      "groundwater permits": 0.4006889277663941,
+      "groundwater rights": 0.36278877682951177,
+      "well and borehole drilling licenses": 0.3467478641576249,
+      "conjunctive management": 0.3602293905221695,
+      "groundwater protection zones": 0.3007516484424754,
+      "aquifer recharge": 0.30140598980367683,
+      "transboundary aquifers": 0.26415614036607976
+    },
+    "chunk_count": 134
+  },
+  "Bangladesh": {
+    "weighted_score": 0.3620386206401135,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40096629601970984,
+      "ground-water monitoring": 0.3868420088977832,
+      "underground water abstraction": 0.3658232267734175,
+      "groundwater permits": 0.41670741999199834,
+      "groundwater rights": 0.3857947436734065,
+      "well and borehole drilling licenses": 0.35935594583336405,
+      "conjunctive management": 0.3539773596448005,
+      "groundwater protection zones": 0.343460932069905,
+      "aquifer recharge": 0.31305594513424834,
+      "transboundary aquifers": 0.2944023283625009
+    },
+    "chunk_count": 180
+  },
+  "Barbados": {
+    "weighted_score": 0.33244865942759283,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3662014974809287,
+      "ground-water monitoring": 0.3505874487954125,
+      "underground water abstraction": 0.31529064648888266,
+      "groundwater permits": 0.4004884707722828,
+      "groundwater rights": 0.34343983032630127,
+      "well and borehole drilling licenses": 0.358494206516309,
+      "conjunctive management": 0.33739015294344255,
+      "groundwater protection zones": 0.30478892085576026,
+      "aquifer recharge": 0.300779289658197,
+      "transboundary aquifers": 0.2470261304384117
+    },
+    "chunk_count": 83
+  },
+  "Belize": {
+    "weighted_score": 0.3620090166414657,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3993050648978105,
+      "ground-water monitoring": 0.38738204311312974,
+      "underground water abstraction": 0.3442819328928292,
+      "groundwater permits": 0.45117848980744235,
+      "groundwater rights": 0.3882711129229938,
+      "well and borehole drilling licenses": 0.39935665305715307,
+      "conjunctive management": 0.3240399876383137,
+      "groundwater protection zones": 0.3363546996933564,
+      "aquifer recharge": 0.3138693746270351,
+      "transboundary aquifers": 0.2760508077645925
+    },
+    "chunk_count": 288
+  },
+  "BF": {
+    "weighted_score": 0.3848796316488316,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4303291954373592,
+      "ground-water monitoring": 0.4245840706434392,
+      "underground water abstraction": 0.38482515488854363,
+      "groundwater permits": 0.45171057325755964,
+      "groundwater rights": 0.42482836656975825,
+      "well and borehole drilling licenses": 0.35781809915031076,
+      "conjunctive management": 0.34568482995722033,
+      "groundwater protection zones": 0.39019914363323327,
+      "aquifer recharge": 0.3254567590239706,
+      "transboundary aquifers": 0.3133601239269211
+    },
+    "chunk_count": 144
+  },
+  "BG": {
+    "weighted_score": 0.3794882952276904,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4167395845922383,
+      "ground-water monitoring": 0.4174854255226324,
+      "underground water abstraction": 0.37504105627647644,
+      "groundwater permits": 0.45046984366756615,
+      "groundwater rights": 0.4072481620408159,
+      "well and borehole drilling licenses": 0.3768493806067389,
+      "conjunctive management": 0.3532382305513873,
+      "groundwater protection zones": 0.3726144003123089,
+      "aquifer recharge": 0.324576795402226,
+      "transboundary aquifers": 0.30062007330451335
+    },
+    "chunk_count": 2840
+  },
+  "Bhutan": {
+    "weighted_score": 0.36217370339394395,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40370028103812394,
+      "ground-water monitoring": 0.39644702602196663,
+      "underground water abstraction": 0.3776635962602736,
+      "groundwater permits": 0.40808637284009225,
+      "groundwater rights": 0.387958866720274,
+      "well and borehole drilling licenses": 0.3366980914900163,
+      "conjunctive management": 0.3338909258394792,
+      "groundwater protection zones": 0.352031444777796,
+      "aquifer recharge": 0.3112380182354483,
+      "transboundary aquifers": 0.3140224107159695
+    },
+    "chunk_count": 236
+  },
+  "BI": {
+    "weighted_score": 0.3956001247782766,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4470925738442616,
+      "ground-water monitoring": 0.4390419852458699,
+      "underground water abstraction": 0.4108312475822119,
+      "groundwater permits": 0.44879435118182415,
+      "groundwater rights": 0.43825445620834197,
+      "well and borehole drilling licenses": 0.3617646760594532,
+      "conjunctive management": 0.3575025784656918,
+      "groundwater protection zones": 0.3980251791540621,
+      "aquifer recharge": 0.3313146838487417,
+      "transboundary aquifers": 0.3233795161923076
+    },
+    "chunk_count": 215
+  },
+  "BIH": {
+    "weighted_score": 0.3894392322149447,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43750277631017526,
+      "ground-water monitoring": 0.4376435130422552,
+      "underground water abstraction": 0.3926949242465909,
+      "groundwater permits": 0.46370480069305053,
+      "groundwater rights": 0.43100226536952624,
+      "well and borehole drilling licenses": 0.3637140375409439,
+      "conjunctive management": 0.33479338534105796,
+      "groundwater protection zones": 0.38980807314383353,
+      "aquifer recharge": 0.32739478291988117,
+      "transboundary aquifers": 0.31613376354213224
+    },
+    "chunk_count": 783
+  },
+  "BJ": {
+    "weighted_score": 0.3794829972817345,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4198199622855367,
+      "ground-water monitoring": 0.41968144124683904,
+      "underground water abstraction": 0.37405333351343667,
+      "groundwater permits": 0.4404049281438549,
+      "groundwater rights": 0.41153407676535353,
+      "well and borehole drilling licenses": 0.36554213075661496,
+      "conjunctive management": 0.34166898147636077,
+      "groundwater protection zones": 0.38127202092501083,
+      "aquifer recharge": 0.32640841818027017,
+      "transboundary aquifers": 0.31444467952406746
+    },
+    "chunk_count": 192
+  },
+  "BOL": {
+    "weighted_score": 0.3671282309487293,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3974053793969924,
+      "ground-water monitoring": 0.39130838694526415,
+      "underground water abstraction": 0.3523647435384264,
+      "groundwater permits": 0.43587850793449456,
+      "groundwater rights": 0.3933582627181541,
+      "well and borehole drilling licenses": 0.38838161515018693,
+      "conjunctive management": 0.3523766504069966,
+      "groundwater protection zones": 0.3575996003821455,
+      "aquifer recharge": 0.31852679422454244,
+      "transboundary aquifers": 0.28408236879009036
+    },
+    "chunk_count": 299
+  },
+  "Botswana": {
+    "weighted_score": 0.3914577026080313,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4395242693062245,
+      "ground-water monitoring": 0.42560915443426,
+      "underground water abstraction": 0.3977517947109524,
+      "groundwater permits": 0.47814157440768423,
+      "groundwater rights": 0.47789181312364376,
+      "well and borehole drilling licenses": 0.38237142603472263,
+      "conjunctive management": 0.32998826917558055,
+      "groundwater protection zones": 0.3650779653233787,
+      "aquifer recharge": 0.3246698910766388,
+      "transboundary aquifers": 0.2935508684872271
+    },
+    "chunk_count": 93
+  },
+  "Brazil": {
+    "weighted_score": 0.39763181478858334,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4455324114965981,
+      "ground-water monitoring": 0.4336065372935726,
+      "underground water abstraction": 0.404456376316714,
+      "groundwater permits": 0.4606973854242598,
+      "groundwater rights": 0.4584806363346555,
+      "well and borehole drilling licenses": 0.37458664333085884,
+      "conjunctive management": 0.34538608834918805,
+      "groundwater protection zones": 0.39200893784690843,
+      "aquifer recharge": 0.3386291131081727,
+      "transboundary aquifers": 0.3229340183849053
+    },
+    "chunk_count": 88
+  },
+  "Brunei": {
+    "weighted_score": 0.38305753518031543,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4297905652663736,
+      "ground-water monitoring": 0.42498865653624646,
+      "underground water abstraction": 0.37796065786571326,
+      "groundwater permits": 0.46451536483106903,
+      "groundwater rights": 0.4239868158615661,
+      "well and borehole drilling licenses": 0.38919570252427965,
+      "conjunctive management": 0.34177525059442515,
+      "groundwater protection zones": 0.35579916647844867,
+      "aquifer recharge": 0.3304948886723835,
+      "transboundary aquifers": 0.29206828317264905
+    },
+    "chunk_count": 111
+  },
+  "BY": {
+    "weighted_score": 0.4269613996173297,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.48438833541359977,
+      "ground-water monitoring": 0.4884533583674998,
+      "underground water abstraction": 0.4449085245542084,
+      "groundwater permits": 0.501407016892743,
+      "groundwater rights": 0.4779287648719543,
+      "well and borehole drilling licenses": 0.3927040172284353,
+      "conjunctive management": 0.3438428798196448,
+      "groundwater protection zones": 0.45049792394582866,
+      "aquifer recharge": 0.3369005285921041,
+      "transboundary aquifers": 0.34858264648727866
+    },
+    "chunk_count": 575
+  },
+  "Cambodia": {
+    "weighted_score": 0.39075441520889787,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4337854383257591,
+      "ground-water monitoring": 0.42830688441065545,
+      "underground water abstraction": 0.37639555016709547,
+      "groundwater permits": 0.4653144877276192,
+      "groundwater rights": 0.4346792912774171,
+      "well and borehole drilling licenses": 0.40705636129124473,
+      "conjunctive management": 0.34829738081650563,
+      "groundwater protection zones": 0.3800266176408678,
+      "aquifer recharge": 0.32174599538437865,
+      "transboundary aquifers": 0.31193614504743616
+    },
+    "chunk_count": 82
+  },
+  "Canada": {
+    "weighted_score": 0.3358918253344108,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3540193505988494,
+      "ground-water monitoring": 0.36105980339341964,
+      "underground water abstraction": 0.32710007329957536,
+      "groundwater permits": 0.3952822534447377,
+      "groundwater rights": 0.3559130219231888,
+      "well and borehole drilling licenses": 0.3310346593865618,
+      "conjunctive management": 0.3540132819095198,
+      "groundwater protection zones": 0.30604784855746353,
+      "aquifer recharge": 0.29379575577854367,
+      "transboundary aquifers": 0.2806522050522483
+    },
+    "chunk_count": 184
+  },
+  "CF": {
+    "weighted_score": 0.39088668810929483,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43610574716570416,
+      "ground-water monitoring": 0.430632989960549,
+      "underground water abstraction": 0.40153799083175457,
+      "groundwater permits": 0.44884224267010064,
+      "groundwater rights": 0.42867425375061124,
+      "well and borehole drilling licenses": 0.38068915725168656,
+      "conjunctive management": 0.3517449097100859,
+      "groundwater protection zones": 0.38771464649997367,
+      "aquifer recharge": 0.3244052051329509,
+      "transboundary aquifers": 0.31851973811953216
+    },
+    "chunk_count": 230
+  },
+  "CG": {
+    "weighted_score": 0.37581680888645563,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4103780622806893,
+      "ground-water monitoring": 0.4020011249800655,
+      "underground water abstraction": 0.3861955203031086,
+      "groundwater permits": 0.4344965239475516,
+      "groundwater rights": 0.4136793198905082,
+      "well and borehole drilling licenses": 0.3674961457218169,
+      "conjunctive management": 0.34340258204247115,
+      "groundwater protection zones": 0.363119624047029,
+      "aquifer recharge": 0.3252821759243959,
+      "transboundary aquifers": 0.31211700972692025
+    },
+    "chunk_count": 188
+  },
+  "China": {
+    "weighted_score": 0.40825057661868663,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4639215896009965,
+      "ground-water monitoring": 0.4586370500707555,
+      "underground water abstraction": 0.403675383175664,
+      "groundwater permits": 0.4747259911369503,
+      "groundwater rights": 0.4572828876090733,
+      "well and borehole drilling licenses": 0.38229055629675396,
+      "conjunctive management": 0.3559790968521828,
+      "groundwater protection zones": 0.4213548842728979,
+      "aquifer recharge": 0.3359033690377134,
+      "transboundary aquifers": 0.3287349581338789
+    },
+    "chunk_count": 145
+  },
+  "CI": {
+    "weighted_score": 0.3909775576338272,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4367235962905292,
+      "ground-water monitoring": 0.4320022297518428,
+      "underground water abstraction": 0.3976072176252726,
+      "groundwater permits": 0.45265639207845065,
+      "groundwater rights": 0.43543119860175067,
+      "well and borehole drilling licenses": 0.3776962931024149,
+      "conjunctive management": 0.3408535638955019,
+      "groundwater protection zones": 0.3921462540665307,
+      "aquifer recharge": 0.3264214077056158,
+      "transboundary aquifers": 0.3182374232203624
+    },
+    "chunk_count": 217
+  },
+  "CL": {
+    "weighted_score": 0.37342603818567777,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4128403267757,
+      "ground-water monitoring": 0.39893119117429787,
+      "underground water abstraction": 0.3719131810807609,
+      "groundwater permits": 0.43404739753749755,
+      "groundwater rights": 0.4248002893537213,
+      "well and borehole drilling licenses": 0.3689478401570605,
+      "conjunctive management": 0.3431771406742648,
+      "groundwater protection zones": 0.35391025753509836,
+      "aquifer recharge": 0.3225820407458217,
+      "transboundary aquifers": 0.303110716822555
+    },
+    "chunk_count": 1315
+  },
+  "CM": {
+    "weighted_score": 0.37411686758589685,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4166464911687011,
+      "ground-water monitoring": 0.40801065507945183,
+      "underground water abstraction": 0.3701283494251375,
+      "groundwater permits": 0.43832497399834874,
+      "groundwater rights": 0.4077124046686641,
+      "well and borehole drilling licenses": 0.3634794136989194,
+      "conjunctive management": 0.34935313330359713,
+      "groundwater protection zones": 0.35555833457554487,
+      "aquifer recharge": 0.32608311170009524,
+      "transboundary aquifers": 0.3058718082405086
+    },
+    "chunk_count": 62
+  },
+  "CO": {
+    "weighted_score": 0.3742793693572285,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40826118784372917,
+      "ground-water monitoring": 0.3982270195813679,
+      "underground water abstraction": 0.3561763596244663,
+      "groundwater permits": 0.4362702072582258,
+      "groundwater rights": 0.40667544438415454,
+      "well and borehole drilling licenses": 0.3778760251625585,
+      "conjunctive management": 0.3499403599959426,
+      "groundwater protection zones": 0.3767300300629308,
+      "aquifer recharge": 0.3094604214168355,
+      "transboundary aquifers": 0.32317663824207377
+    },
+    "chunk_count": 620
+  },
+  "COD": {
+    "weighted_score": 0.38500259451484864,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4283569406265138,
+      "ground-water monitoring": 0.41699293120019437,
+      "underground water abstraction": 0.38886816122334267,
+      "groundwater permits": 0.44411089560661965,
+      "groundwater rights": 0.4262749718591341,
+      "well and borehole drilling licenses": 0.36565439559312457,
+      "conjunctive management": 0.353915390052182,
+      "groundwater protection zones": 0.3792260407206634,
+      "aquifer recharge": 0.3246727454707904,
+      "transboundary aquifers": 0.32195347279592146
+    },
+    "chunk_count": 268
+  },
+  "CR": {
+    "weighted_score": 0.37295690212471616,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4136236346371494,
+      "ground-water monitoring": 0.39044264819200436,
+      "underground water abstraction": 0.3658407437473254,
+      "groundwater permits": 0.439970588286372,
+      "groundwater rights": 0.4178128107959795,
+      "well and borehole drilling licenses": 0.3711183556091173,
+      "conjunctive management": 0.33252427497295595,
+      "groundwater protection zones": 0.3598948629069747,
+      "aquifer recharge": 0.3193432505612867,
+      "transboundary aquifers": 0.3189978515379961
+    },
+    "chunk_count": 566
+  },
+  "CU": {
+    "weighted_score": 0.4076395765918301,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4603577350190018,
+      "ground-water monitoring": 0.4602763313587232,
+      "underground water abstraction": 0.4250663611963424,
+      "groundwater permits": 0.46034091466377236,
+      "groundwater rights": 0.44882768205873685,
+      "well and borehole drilling licenses": 0.3779597708895802,
+      "conjunctive management": 0.347304566201499,
+      "groundwater protection zones": 0.4128246912383452,
+      "aquifer recharge": 0.3422418129669737,
+      "transboundary aquifers": 0.3411959003253264
+    },
+    "chunk_count": 404
+  },
+  "CV": {
+    "weighted_score": 0.37218174041101976,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4117008411845848,
+      "ground-water monitoring": 0.4060556650624004,
+      "underground water abstraction": 0.37475306905219036,
+      "groundwater permits": 0.4290389769540799,
+      "groundwater rights": 0.40237377554243264,
+      "well and borehole drilling licenses": 0.37012943339971616,
+      "conjunctive management": 0.3541375090476065,
+      "groundwater protection zones": 0.35646316719520166,
+      "aquifer recharge": 0.31676311108814986,
+      "transboundary aquifers": 0.30040185558383503
+    },
+    "chunk_count": 1366
+  },
+  "CY": {
+    "weighted_score": 0.38714812441106544,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4165269678025268,
+      "ground-water monitoring": 0.45273894294808587,
+      "underground water abstraction": 0.4024505047227098,
+      "groundwater permits": 0.4415974856694573,
+      "groundwater rights": 0.4043734199377714,
+      "well and borehole drilling licenses": 0.35538146812983246,
+      "conjunctive management": 0.3561584108524764,
+      "groundwater protection zones": 0.38257252514233764,
+      "aquifer recharge": 0.3308446957855524,
+      "transboundary aquifers": 0.3288368231199044
+    },
+    "chunk_count": 372
+  },
+  "CZ": {
+    "weighted_score": 0.3846052736711365,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4199150348449104,
+      "ground-water monitoring": 0.4270675698183653,
+      "underground water abstraction": 0.37193538857633246,
+      "groundwater permits": 0.4597264524726141,
+      "groundwater rights": 0.4157276682219994,
+      "well and borehole drilling licenses": 0.3832666103451561,
+      "conjunctive management": 0.3479570523476004,
+      "groundwater protection zones": 0.37788157939974043,
+      "aquifer recharge": 0.3289768646375975,
+      "transboundary aquifers": 0.3135985160470487
+    },
+    "chunk_count": 2113
+  },
+  "DE": {
+    "weighted_score": 0.382555498989139,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42067452913182324,
+      "ground-water monitoring": 0.41460963615413854,
+      "underground water abstraction": 0.37961293736401713,
+      "groundwater permits": 0.45436975264126056,
+      "groundwater rights": 0.41196512556336906,
+      "well and borehole drilling licenses": 0.37416154776212257,
+      "conjunctive management": 0.3482212155405807,
+      "groundwater protection zones": 0.3761182808137593,
+      "aquifer recharge": 0.3308247875251089,
+      "transboundary aquifers": 0.3149971773952102
+    },
+    "chunk_count": 903
+  },
+  "DJ": {
+    "weighted_score": 0.3504823587462353,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.38650317000802625,
+      "ground-water monitoring": 0.36166208572431524,
+      "underground water abstraction": 0.34315525250220746,
+      "groundwater permits": 0.4266116667528405,
+      "groundwater rights": 0.37546640459378783,
+      "well and borehole drilling licenses": 0.3858983991870595,
+      "conjunctive management": 0.3306444338680372,
+      "groundwater protection zones": 0.3157360255474695,
+      "aquifer recharge": 0.30135809977860323,
+      "transboundary aquifers": 0.277788049500006
+    },
+    "chunk_count": 81
+  },
+  "DK": {
+    "weighted_score": 0.3705827376239358,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40845961354093835,
+      "ground-water monitoring": 0.39852419495927266,
+      "underground water abstraction": 0.3678790208573313,
+      "groundwater permits": 0.4449637170439683,
+      "groundwater rights": 0.3970720045949907,
+      "well and borehole drilling licenses": 0.3641827825895948,
+      "conjunctive management": 0.35288763627767583,
+      "groundwater protection zones": 0.35095415278121805,
+      "aquifer recharge": 0.3255418348306238,
+      "transboundary aquifers": 0.29536241876374464
+    },
+    "chunk_count": 561
+  },
+  "DO": {
+    "weighted_score": 0.4008664334092952,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.45023144023415196,
+      "ground-water monitoring": 0.43431014693264447,
+      "underground water abstraction": 0.3931573164269333,
+      "groundwater permits": 0.4768794837201533,
+      "groundwater rights": 0.46205619507915313,
+      "well and borehole drilling licenses": 0.39951817852401106,
+      "conjunctive management": 0.33436144726592765,
+      "groundwater protection zones": 0.3953223540729782,
+      "aquifer recharge": 0.32769063450010194,
+      "transboundary aquifers": 0.33513713733689693
+    },
+    "chunk_count": 265
+  },
+  "Dominica": {
+    "weighted_score": 0.3526501047975717,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3969271499106918,
+      "ground-water monitoring": 0.3760183529686162,
+      "underground water abstraction": 0.3308631576327181,
+      "groundwater permits": 0.43349458592192464,
+      "groundwater rights": 0.38669099631029424,
+      "well and borehole drilling licenses": 0.3722200253831389,
+      "conjunctive management": 0.3389274909764071,
+      "groundwater protection zones": 0.3175494420377644,
+      "aquifer recharge": 0.3125922145181684,
+      "transboundary aquifers": 0.2612176323159928
+    },
+    "chunk_count": 186
+  },
+  "DZ": {
+    "weighted_score": 0.38886166444622533,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43516075542753324,
+      "ground-water monitoring": 0.4293540678458289,
+      "underground water abstraction": 0.39188700272490606,
+      "groundwater permits": 0.45395493712349294,
+      "groundwater rights": 0.43039465259884213,
+      "well and borehole drilling licenses": 0.3762511718721507,
+      "conjunctive management": 0.3422805988137705,
+      "groundwater protection zones": 0.38621706916139775,
+      "aquifer recharge": 0.3246607481436966,
+      "transboundary aquifers": 0.3184556407506344
+    },
+    "chunk_count": 274
+  },
+  "EC": {
+    "weighted_score": 0.4065459757286968,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.45328393953913965,
+      "ground-water monitoring": 0.44929953286613045,
+      "underground water abstraction": 0.41066154164880403,
+      "groundwater permits": 0.4717455160791857,
+      "groundwater rights": 0.45324626001375734,
+      "well and borehole drilling licenses": 0.3898817045755399,
+      "conjunctive management": 0.3587292547885767,
+      "groundwater protection zones": 0.4012186856413794,
+      "aquifer recharge": 0.3456255706901662,
+      "transboundary aquifers": 0.33176775144428855
+    },
+    "chunk_count": 594
+  },
+  "EE": {
+    "weighted_score": 0.3884209601107473,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43562444684785695,
+      "ground-water monitoring": 0.4418621490186382,
+      "underground water abstraction": 0.38599438254965657,
+      "groundwater permits": 0.4662283664043103,
+      "groundwater rights": 0.41312900420213045,
+      "well and borehole drilling licenses": 0.36817533885716636,
+      "conjunctive management": 0.3320716670329847,
+      "groundwater protection zones": 0.39330767422963864,
+      "aquifer recharge": 0.3276746940635928,
+      "transboundary aquifers": 0.32014187790149756
+    },
+    "chunk_count": 1097
+  },
+  "EG": {
+    "weighted_score": 0.37716490048598655,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4276722731038411,
+      "ground-water monitoring": 0.40636685747756246,
+      "underground water abstraction": 0.3631155738903419,
+      "groundwater permits": 0.4456518669050058,
+      "groundwater rights": 0.41116344025048157,
+      "well and borehole drilling licenses": 0.3968079546373931,
+      "conjunctive management": 0.3289597733180317,
+      "groundwater protection zones": 0.36791304360231897,
+      "aquifer recharge": 0.31273122719726454,
+      "transboundary aquifers": 0.31126699447762446
+    },
+    "chunk_count": 421
+  },
+  "Eritrea": {
+    "weighted_score": 0.34442585370958756,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.37002297661857575,
+      "ground-water monitoring": 0.36509877713326966,
+      "underground water abstraction": 0.3752338922051773,
+      "groundwater permits": 0.35606640372558074,
+      "groundwater rights": 0.337308118111115,
+      "well and borehole drilling licenses": 0.33850149872902485,
+      "conjunctive management": 0.3579650357674154,
+      "groundwater protection zones": 0.30822105321866045,
+      "aquifer recharge": 0.32431460012690333,
+      "transboundary aquifers": 0.31152618146015304
+    },
+    "chunk_count": 413
+  },
+  "ES": {
+    "weighted_score": 0.3931536383367188,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4347509053454195,
+      "ground-water monitoring": 0.4238517329568083,
+      "underground water abstraction": 0.39930966065634244,
+      "groundwater permits": 0.4525956820195598,
+      "groundwater rights": 0.43201888365835833,
+      "well and borehole drilling licenses": 0.3895084933435927,
+      "conjunctive management": 0.3537434324812465,
+      "groundwater protection zones": 0.3863666964953759,
+      "aquifer recharge": 0.33151772587688877,
+      "transboundary aquifers": 0.32787317053359577
+    },
+    "chunk_count": 1080
+  },
+  "Eswatini": {
+    "weighted_score": 0.358904311968797,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39457302472912037,
+      "ground-water monitoring": 0.3844189105509717,
+      "underground water abstraction": 0.33873412676004694,
+      "groundwater permits": 0.4456300317203599,
+      "groundwater rights": 0.386364025188725,
+      "well and borehole drilling licenses": 0.37909793972131933,
+      "conjunctive management": 0.3466721461675532,
+      "groundwater protection zones": 0.31794493924479067,
+      "aquifer recharge": 0.3091550893528864,
+      "transboundary aquifers": 0.28645288625219706
+    },
+    "chunk_count": 319
+  },
+  "ET": {
+    "weighted_score": 0.3609967680091155,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40387823368468956,
+      "ground-water monitoring": 0.39756592061813906,
+      "underground water abstraction": 0.3644912216133705,
+      "groundwater permits": 0.4351364152050448,
+      "groundwater rights": 0.3862593769927128,
+      "well and borehole drilling licenses": 0.36162750991287834,
+      "conjunctive management": 0.33302829368654974,
+      "groundwater protection zones": 0.32933563711197233,
+      "aquifer recharge": 0.3127275466643303,
+      "transboundary aquifers": 0.28591752460146735
+    },
+    "chunk_count": 121
+  },
+  "FI": {
+    "weighted_score": 0.35762941613712346,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39440829220169293,
+      "ground-water monitoring": 0.3802989233967624,
+      "underground water abstraction": 0.3435148889327346,
+      "groundwater permits": 0.4370687558455466,
+      "groundwater rights": 0.3883118883940479,
+      "well and borehole drilling licenses": 0.36945243154280655,
+      "conjunctive management": 0.34263853369468866,
+      "groundwater protection zones": 0.3335515654867786,
+      "aquifer recharge": 0.30431328039470623,
+      "transboundary aquifers": 0.2827356014814699
+    },
+    "chunk_count": 1225
+  },
+  "Fiji": {
+    "weighted_score": 0.326482010560666,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3486006703766181,
+      "ground-water monitoring": 0.34650559652341434,
+      "underground water abstraction": 0.30904175915244486,
+      "groundwater permits": 0.3913274949223849,
+      "groundwater rights": 0.33556650328447446,
+      "well and borehole drilling licenses": 0.34790252516544873,
+      "conjunctive management": 0.35895362492512994,
+      "groundwater protection zones": 0.27732188493388993,
+      "aquifer recharge": 0.2934335990479406,
+      "transboundary aquifers": 0.2561664472749146
+    },
+    "chunk_count": 115
+  },
+  "FR": {
+    "weighted_score": 0.35817822261471316,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3893815823966999,
+      "ground-water monitoring": 0.3829599109505282,
+      "underground water abstraction": 0.3540066767129445,
+      "groundwater permits": 0.4141235467596617,
+      "groundwater rights": 0.37798840490157015,
+      "well and borehole drilling licenses": 0.3569728114682244,
+      "conjunctive management": 0.3400267571527302,
+      "groundwater protection zones": 0.34323934849403975,
+      "aquifer recharge": 0.3240027664689176,
+      "transboundary aquifers": 0.2990804208418151
+    },
+    "chunk_count": 954
+  },
+  "GA": {
+    "weighted_score": 0.3462189188808693,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.37356445756903617,
+      "ground-water monitoring": 0.3833732137049918,
+      "underground water abstraction": 0.3272537913568651,
+      "groundwater permits": 0.39545577886115946,
+      "groundwater rights": 0.3597255755886052,
+      "well and borehole drilling licenses": 0.3466853208425211,
+      "conjunctive management": 0.34276463871011603,
+      "groundwater protection zones": 0.34154834849623705,
+      "aquifer recharge": 0.2978736166167136,
+      "transboundary aquifers": 0.2939444470624472
+    },
+    "chunk_count": 277
+  },
+  "GE": {
+    "weighted_score": 0.406712182631627,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4617048102732503,
+      "ground-water monitoring": 0.47127801849784307,
+      "underground water abstraction": 0.4246395043034456,
+      "groundwater permits": 0.4892221774036703,
+      "groundwater rights": 0.4568755451993916,
+      "well and borehole drilling licenses": 0.3644335385416228,
+      "conjunctive management": 0.333993635801761,
+      "groundwater protection zones": 0.41654933026574054,
+      "aquifer recharge": 0.3240395410204792,
+      "transboundary aquifers": 0.3243857250090653
+    },
+    "chunk_count": 257
+  },
+  "Ghana": {
+    "weighted_score": 0.3549941923521386,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39450527271254404,
+      "ground-water monitoring": 0.38651352233805925,
+      "underground water abstraction": 0.3435535025953577,
+      "groundwater permits": 0.4244187702434933,
+      "groundwater rights": 0.3986383623959658,
+      "well and borehole drilling licenses": 0.3450191661656033,
+      "conjunctive management": 0.3493901436381139,
+      "groundwater protection zones": 0.31776382799668806,
+      "aquifer recharge": 0.3132074975590828,
+      "transboundary aquifers": 0.2769318578764777
+    },
+    "chunk_count": 90
+  },
+  "GN": {
+    "weighted_score": 0.3880214081393937,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43293783770161737,
+      "ground-water monitoring": 0.41641572373823277,
+      "underground water abstraction": 0.3841387929077524,
+      "groundwater permits": 0.4555358113664128,
+      "groundwater rights": 0.4462210784589908,
+      "well and borehole drilling licenses": 0.39128451256379687,
+      "conjunctive management": 0.344037770770301,
+      "groundwater protection zones": 0.38188747565430164,
+      "aquifer recharge": 0.3200516747157033,
+      "transboundary aquifers": 0.307703403516828
+    },
+    "chunk_count": 111
+  },
+  "GQ": {
+    "weighted_score": 0.38854233981818215,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4275782576225064,
+      "ground-water monitoring": 0.41915577089392586,
+      "underground water abstraction": 0.39219905891069395,
+      "groundwater permits": 0.4491788576966755,
+      "groundwater rights": 0.4250184773770544,
+      "well and borehole drilling licenses": 0.37728102306350814,
+      "conjunctive management": 0.3389180720862258,
+      "groundwater protection zones": 0.39376965968742966,
+      "aquifer recharge": 0.32288354859215146,
+      "transboundary aquifers": 0.33944067225165053
+    },
+    "chunk_count": 720
+  },
+  "GR": {
+    "weighted_score": 0.3884674677809278,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4306345380592323,
+      "ground-water monitoring": 0.4465790815057192,
+      "underground water abstraction": 0.391739116347366,
+      "groundwater permits": 0.44885152487881824,
+      "groundwater rights": 0.4199797251012138,
+      "well and borehole drilling licenses": 0.359733195728714,
+      "conjunctive management": 0.3525673459016483,
+      "groundwater protection zones": 0.3966853751412907,
+      "aquifer recharge": 0.3195388213388227,
+      "transboundary aquifers": 0.3183659538064519
+    },
+    "chunk_count": 175
+  },
+  "Grenada": {
+    "weighted_score": 0.3678198179178603,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4087348011618878,
+      "ground-water monitoring": 0.40045363025733255,
+      "underground water abstraction": 0.36083540100495437,
+      "groundwater permits": 0.4446117893206973,
+      "groundwater rights": 0.3923608707603964,
+      "well and borehole drilling licenses": 0.38709144425796665,
+      "conjunctive management": 0.3464635426388022,
+      "groundwater protection zones": 0.3368149446708692,
+      "aquifer recharge": 0.31344125212859064,
+      "transboundary aquifers": 0.2873905029771062
+    },
+    "chunk_count": 266
+  },
+  "Guyana": {
+    "weighted_score": 0.3546604153397427,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3891460446518382,
+      "ground-water monitoring": 0.3838267029309408,
+      "underground water abstraction": 0.33485315568117874,
+      "groundwater permits": 0.4328356377690695,
+      "groundwater rights": 0.38029544443101576,
+      "well and borehole drilling licenses": 0.38778722410541916,
+      "conjunctive management": 0.33589241823547494,
+      "groundwater protection zones": 0.3202598563564687,
+      "aquifer recharge": 0.31115230998366616,
+      "transboundary aquifers": 0.2705553592523542
+    },
+    "chunk_count": 209
+  },
+  "GW": {
+    "weighted_score": 0.39746639109804766,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.444191962031851,
+      "ground-water monitoring": 0.43417195733327035,
+      "underground water abstraction": 0.40324782740817666,
+      "groundwater permits": 0.46443409853107964,
+      "groundwater rights": 0.4488519307852307,
+      "well and borehole drilling licenses": 0.3787436732636108,
+      "conjunctive management": 0.3509722275896165,
+      "groundwater protection zones": 0.39619471429007996,
+      "aquifer recharge": 0.32698062454569066,
+      "transboundary aquifers": 0.32687489520186985
+    },
+    "chunk_count": 171
+  },
+  "HN": {
+    "weighted_score": 0.40474635530511016,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4496757518571478,
+      "ground-water monitoring": 0.4431173751382196,
+      "underground water abstraction": 0.4118515356640915,
+      "groundwater permits": 0.46848375160973543,
+      "groundwater rights": 0.46003857918557484,
+      "well and borehole drilling licenses": 0.3845729199993749,
+      "conjunctive management": 0.35128289059183787,
+      "groundwater protection zones": 0.40986365488623744,
+      "aquifer recharge": 0.3374140631541321,
+      "transboundary aquifers": 0.3311630309647496
+    },
+    "chunk_count": 252
+  },
+  "HR": {
+    "weighted_score": 0.38859394892466603,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44074629627114503,
+      "ground-water monitoring": 0.43496971626571695,
+      "underground water abstraction": 0.3842630810477281,
+      "groundwater permits": 0.4638859975341513,
+      "groundwater rights": 0.4357508689396934,
+      "well and borehole drilling licenses": 0.37131095822420424,
+      "conjunctive management": 0.3416495773668563,
+      "groundwater protection zones": 0.38839657273440387,
+      "aquifer recharge": 0.3185925807172399,
+      "transboundary aquifers": 0.30637384014552144
+    },
+    "chunk_count": 924
+  },
+  "HU": {
+    "weighted_score": 0.3488995312910419,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3714429389097686,
+      "ground-water monitoring": 0.3695311693863689,
+      "underground water abstraction": 0.3471905301941527,
+      "groundwater permits": 0.39972677720984856,
+      "groundwater rights": 0.37360014115666645,
+      "well and borehole drilling licenses": 0.3463204601701298,
+      "conjunctive management": 0.35443498252873584,
+      "groundwater protection zones": 0.3288430291320886,
+      "aquifer recharge": 0.32061422145576424,
+      "transboundary aquifers": 0.277291062766895
+    },
+    "chunk_count": 943
+  },
+  "ID": {
+    "weighted_score": 0.3921348747672237,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4445477168470437,
+      "ground-water monitoring": 0.44114149677777,
+      "underground water abstraction": 0.4114350180934085,
+      "groundwater permits": 0.4488421635866722,
+      "groundwater rights": 0.44199198157532965,
+      "well and borehole drilling licenses": 0.35305515092395173,
+      "conjunctive management": 0.3554257566787954,
+      "groundwater protection zones": 0.3915339532005122,
+      "aquifer recharge": 0.32992675833291724,
+      "transboundary aquifers": 0.30344875165583646
+    },
+    "chunk_count": 475
+  },
+  "IL": {
+    "weighted_score": 0.37130505818123116,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.41829375397676327,
+      "ground-water monitoring": 0.4030010348018025,
+      "underground water abstraction": 0.367971169483758,
+      "groundwater permits": 0.4518394229208855,
+      "groundwater rights": 0.4082509707392044,
+      "well and borehole drilling licenses": 0.36273152992228597,
+      "conjunctive management": 0.3283047528297759,
+      "groundwater protection zones": 0.3482936388394277,
+      "aquifer recharge": 0.33381781230675467,
+      "transboundary aquifers": 0.2905464959916538
+    },
+    "chunk_count": 420
+  },
+  "India": {
+    "weighted_score": 0.3372816779541977,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.36645293822510605,
+      "ground-water monitoring": 0.3583182914109133,
+      "underground water abstraction": 0.32839878958967356,
+      "groundwater permits": 0.3931476755907584,
+      "groundwater rights": 0.35789544705027215,
+      "well and borehole drilling licenses": 0.3522869976512707,
+      "conjunctive management": 0.35164936859653906,
+      "groundwater protection zones": 0.2958660580038906,
+      "aquifer recharge": 0.298317558169078,
+      "transboundary aquifers": 0.27048365525447526
+    },
+    "chunk_count": 228
+  },
+  "IQ": {
+    "weighted_score": 0.37206985901925255,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4071921270096183,
+      "ground-water monitoring": 0.41871261538939064,
+      "underground water abstraction": 0.37789642354508163,
+      "groundwater permits": 0.41877907401599773,
+      "groundwater rights": 0.39595949833573846,
+      "well and borehole drilling licenses": 0.3613933189967215,
+      "conjunctive management": 0.36138087857529916,
+      "groundwater protection zones": 0.3544165660045656,
+      "aquifer recharge": 0.3153890008414194,
+      "transboundary aquifers": 0.30957908747869306
+    },
+    "chunk_count": 44
+  },
+  "IR": {
+    "weighted_score": 0.39483236548250017,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4547627603240158,
+      "ground-water monitoring": 0.4336578021501176,
+      "underground water abstraction": 0.38576203254268043,
+      "groundwater permits": 0.47321855597707485,
+      "groundwater rights": 0.4459490739877869,
+      "well and borehole drilling licenses": 0.40464125415763674,
+      "conjunctive management": 0.3271919483884432,
+      "groundwater protection zones": 0.38206747433591925,
+      "aquifer recharge": 0.33292894176185606,
+      "transboundary aquifers": 0.30814381119947076
+    },
+    "chunk_count": 197
+  },
+  "Ireland": {
+    "weighted_score": 0.3382836814332772,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3723952579001819,
+      "ground-water monitoring": 0.36592678690217856,
+      "underground water abstraction": 0.3404268620920479,
+      "groundwater permits": 0.3996201574686124,
+      "groundwater rights": 0.3602959129271249,
+      "well and borehole drilling licenses": 0.3227721151694395,
+      "conjunctive management": 0.3368035283049566,
+      "groundwater protection zones": 0.30462252305159565,
+      "aquifer recharge": 0.31037464474316895,
+      "transboundary aquifers": 0.26959902577346606
+    },
+    "chunk_count": 207
+  },
+  "IS": {
+    "weighted_score": 0.39474138215604765,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4283267614945763,
+      "ground-water monitoring": 0.45954876273919004,
+      "underground water abstraction": 0.4024906148369445,
+      "groundwater permits": 0.4551007406619366,
+      "groundwater rights": 0.42014344220833405,
+      "well and borehole drilling licenses": 0.36587374902546355,
+      "conjunctive management": 0.36162053769854074,
+      "groundwater protection zones": 0.39204310688133587,
+      "aquifer recharge": 0.333270709669819,
+      "transboundary aquifers": 0.3289953963443356
+    },
+    "chunk_count": 189
+  },
+  "IT": {
+    "weighted_score": 0.3510627042771026,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.38271901397473784,
+      "ground-water monitoring": 0.37599588492313973,
+      "underground water abstraction": 0.3358812792420955,
+      "groundwater permits": 0.4067120529197567,
+      "groundwater rights": 0.35815072694524364,
+      "well and borehole drilling licenses": 0.3566682250214062,
+      "conjunctive management": 0.3486380983954608,
+      "groundwater protection zones": 0.33647276184127384,
+      "aquifer recharge": 0.3158331957955201,
+      "transboundary aquifers": 0.29355580371239176
+    },
+    "chunk_count": 2523
+  },
+  "Jamaica": {
+    "weighted_score": 0.3624367791896403,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39728959484801585,
+      "ground-water monitoring": 0.38062733809984867,
+      "underground water abstraction": 0.3622849553583845,
+      "groundwater permits": 0.44025530501872956,
+      "groundwater rights": 0.3858456661621663,
+      "well and borehole drilling licenses": 0.39969312904533966,
+      "conjunctive management": 0.3478540386952025,
+      "groundwater protection zones": 0.31774132982689807,
+      "aquifer recharge": 0.3171554552461821,
+      "transboundary aquifers": 0.27562097959563553
+    },
+    "chunk_count": 325
+  },
+  "Japan": {
+    "weighted_score": 0.36734922709984896,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4063293076805529,
+      "ground-water monitoring": 0.39027378073041086,
+      "underground water abstraction": 0.36026727914419177,
+      "groundwater permits": 0.4399041714686648,
+      "groundwater rights": 0.40121010072858343,
+      "well and borehole drilling licenses": 0.3642799980158213,
+      "conjunctive management": 0.3423031785414311,
+      "groundwater protection zones": 0.3512756999702191,
+      "aquifer recharge": 0.30960771272764853,
+      "transboundary aquifers": 0.30804104199096594
+    },
+    "chunk_count": 416
+  },
+  "JO": {
+    "weighted_score": 0.36366348763909817,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.41658691725774644,
+      "ground-water monitoring": 0.3904597958035891,
+      "underground water abstraction": 0.3463492626659601,
+      "groundwater permits": 0.4401960164306346,
+      "groundwater rights": 0.40133816553337065,
+      "well and borehole drilling licenses": 0.3954655842319646,
+      "conjunctive management": 0.3166039263359703,
+      "groundwater protection zones": 0.3553246634006161,
+      "aquifer recharge": 0.29047840765995403,
+      "transboundary aquifers": 0.28383213707117566
+    },
+    "chunk_count": 31
+  },
+  "Kazakhstan": {
+    "weighted_score": 0.37818812299422866,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4240770053680903,
+      "ground-water monitoring": 0.41910286228810684,
+      "underground water abstraction": 0.37699573616591503,
+      "groundwater permits": 0.4369203061654088,
+      "groundwater rights": 0.4224243522825259,
+      "well and borehole drilling licenses": 0.3678423204891315,
+      "conjunctive management": 0.3272920546926504,
+      "groundwater protection zones": 0.3815894063056467,
+      "aquifer recharge": 0.3249165687159513,
+      "transboundary aquifers": 0.30072061746886
+    },
+    "chunk_count": 901
+  },
+  "Kenya": {
+    "weighted_score": 0.3710286019835325,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4054956088136048,
+      "ground-water monitoring": 0.39959975881311055,
+      "underground water abstraction": 0.3545061272124322,
+      "groundwater permits": 0.450963742786226,
+      "groundwater rights": 0.40413083507489617,
+      "well and borehole drilling licenses": 0.393833862558417,
+      "conjunctive management": 0.35394712805875217,
+      "groundwater protection zones": 0.3380939999740884,
+      "aquifer recharge": 0.31822737448662397,
+      "transboundary aquifers": 0.29148758205717357
+    },
+    "chunk_count": 601
+  },
+  "KM": {
+    "weighted_score": 0.3968437679504452,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.436579487033314,
+      "ground-water monitoring": 0.43862467367152086,
+      "underground water abstraction": 0.4247393903797894,
+      "groundwater permits": 0.4458293110183476,
+      "groundwater rights": 0.4200341006895037,
+      "well and borehole drilling licenses": 0.36377178228555734,
+      "conjunctive management": 0.352632146700274,
+      "groundwater protection zones": 0.4040116462610626,
+      "aquifer recharge": 0.3449257921704001,
+      "transboundary aquifers": 0.3372893492946821
+    },
+    "chunk_count": 98
+  },
+  "KR_Water Act_korean_ENGLISH": {
+    "weighted_score": 0.39480256823632487,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4434871738879337,
+      "ground-water monitoring": 0.4484965485082321,
+      "underground water abstraction": 0.3986099630111849,
+      "groundwater permits": 0.4545473572690788,
+      "groundwater rights": 0.43069394006322403,
+      "well and borehole drilling licenses": 0.35854701019994684,
+      "conjunctive management": 0.39448858466540243,
+      "groundwater protection zones": 0.3796566906393102,
+      "aquifer recharge": 0.32878685307786376,
+      "transboundary aquifers": 0.3107115610410719
+    },
+    "chunk_count": 191
+  },
+  "KW_ Environmental Protection Law_arabic_ENGLISH": {
+    "weighted_score": 0.34858642407323737,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.38066999925730527,
+      "ground-water monitoring": 0.38646673492072725,
+      "underground water abstraction": 0.32662654099367483,
+      "groundwater permits": 0.4024710353137038,
+      "groundwater rights": 0.3613851199065452,
+      "well and borehole drilling licenses": 0.364582446030184,
+      "conjunctive management": 0.3420948887743725,
+      "groundwater protection zones": 0.3401095122390054,
+      "aquifer recharge": 0.2931851459458548,
+      "transboundary aquifers": 0.2882728173510012
+    },
+    "chunk_count": 533
+  },
+  "Kyrgyzstan": {
+    "weighted_score": 0.395587390138602,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44706068523990056,
+      "ground-water monitoring": 0.4440722320321209,
+      "underground water abstraction": 0.39698792432513696,
+      "groundwater permits": 0.4741775930541203,
+      "groundwater rights": 0.4391540333309809,
+      "well and borehole drilling licenses": 0.3942541823229774,
+      "conjunctive management": 0.33003862416896584,
+      "groundwater protection zones": 0.39245171128102535,
+      "aquifer recharge": 0.33245726999051606,
+      "transboundary aquifers": 0.30521964564027576
+    },
+    "chunk_count": 355
+  },
+  "LA_Water Law_lao_ENGLISH": {
+    "weighted_score": 0.4059565547823801,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4590762291217237,
+      "ground-water monitoring": 0.46128570286773474,
+      "underground water abstraction": 0.40778570418761984,
+      "groundwater permits": 0.4685541830749468,
+      "groundwater rights": 0.4523075363832716,
+      "well and borehole drilling licenses": 0.39751543410331236,
+      "conjunctive management": 0.36244437359583004,
+      "groundwater protection zones": 0.4079669523796724,
+      "aquifer recharge": 0.3292185944277535,
+      "transboundary aquifers": 0.3134108376819359
+    },
+    "chunk_count": 350
+  },
+  "LB_Water Law_arabic_ENGLISH": {
+    "weighted_score": 0.3946362906603976,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44009564630827874,
+      "ground-water monitoring": 0.4420513160036744,
+      "underground water abstraction": 0.39940608051003523,
+      "groundwater permits": 0.45600726189228796,
+      "groundwater rights": 0.43074456598771876,
+      "well and borehole drilling licenses": 0.37886195546009416,
+      "conjunctive management": 0.3570362745670242,
+      "groundwater protection zones": 0.393418872585985,
+      "aquifer recharge": 0.33256511261581767,
+      "transboundary aquifers": 0.31617582067305994
+    },
+    "chunk_count": 436
+  },
+  "Lesotho": {
+    "weighted_score": 0.38516784249432967,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42574460835927036,
+      "ground-water monitoring": 0.4240173400695905,
+      "underground water abstraction": 0.37448547352725486,
+      "groundwater permits": 0.46918402925940306,
+      "groundwater rights": 0.4152340713417412,
+      "well and borehole drilling licenses": 0.3972716115731954,
+      "conjunctive management": 0.3484668161270454,
+      "groundwater protection zones": 0.3675273885643431,
+      "aquifer recharge": 0.3274485109083477,
+      "transboundary aquifers": 0.30229857521310516
+    },
+    "chunk_count": 188
+  },
+  "Liberia": {
+    "weighted_score": 0.3261160518846252,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3539273198607343,
+      "ground-water monitoring": 0.3475338678524518,
+      "underground water abstraction": 0.3018653527967638,
+      "groundwater permits": 0.3781794417493888,
+      "groundwater rights": 0.34194325348935933,
+      "well and borehole drilling licenses": 0.34600516041434864,
+      "conjunctive management": 0.34933200292575073,
+      "groundwater protection zones": 0.2861678254047719,
+      "aquifer recharge": 0.2916672482180172,
+      "transboundary aquifers": 0.26453904613466556
+    },
+    "chunk_count": 69
+  },
+  "LI_Water Act_german_ENGLISH": {
+    "weighted_score": 0.39723077747714297,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4461171144845366,
+      "ground-water monitoring": 0.44758171400633695,
+      "underground water abstraction": 0.40381402168508507,
+      "groundwater permits": 0.46385473827660306,
+      "groundwater rights": 0.4055493082256943,
+      "well and borehole drilling licenses": 0.37927941883393146,
+      "conjunctive management": 0.34144926416341054,
+      "groundwater protection zones": 0.4054500632639338,
+      "aquifer recharge": 0.3477838578246314,
+      "transboundary aquifers": 0.3314282740072664
+    },
+    "chunk_count": 355
+  },
+  "LT_Law on Water of the Republic of Lithuania_lithuanian_ENGLISH": {
+    "weighted_score": 0.40791655576113917,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.46425375022508086,
+      "ground-water monitoring": 0.471667884796027,
+      "underground water abstraction": 0.4353875695400686,
+      "groundwater permits": 0.48522829090087577,
+      "groundwater rights": 0.4608893922774409,
+      "well and borehole drilling licenses": 0.35602222214796114,
+      "conjunctive management": 0.32134616366717683,
+      "groundwater protection zones": 0.43182913143244583,
+      "aquifer recharge": 0.31246318187515965,
+      "transboundary aquifers": 0.34007797074915475
+    },
+    "chunk_count": 199
+  },
+  "LU_ Law of 19 December 2008 on Water_french_ENGLISH": {
+    "weighted_score": 0.36843260490381297,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4034403040821189,
+      "ground-water monitoring": 0.40328559842215245,
+      "underground water abstraction": 0.3645148708138375,
+      "groundwater permits": 0.4262518832736928,
+      "groundwater rights": 0.3908996007589059,
+      "well and borehole drilling licenses": 0.36242500686797535,
+      "conjunctive management": 0.34167694581350416,
+      "groundwater protection zones": 0.3632422512895786,
+      "aquifer recharge": 0.32734153679122197,
+      "transboundary aquifers": 0.30124805092514223
+    },
+    "chunk_count": 213
+  },
+  "LV_Water management Law_latvian_ENGLISH": {
+    "weighted_score": 0.3701025939508459,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.41091274746645473,
+      "ground-water monitoring": 0.42008701215493094,
+      "underground water abstraction": 0.35172308974694283,
+      "groundwater permits": 0.4378756671903302,
+      "groundwater rights": 0.40035916716363684,
+      "well and borehole drilling licenses": 0.36224601264885964,
+      "conjunctive management": 0.34382640553995303,
+      "groundwater protection zones": 0.374015944773079,
+      "aquifer recharge": 0.3061250709225004,
+      "transboundary aquifers": 0.29385482190177126
+    },
+    "chunk_count": 215
+  },
+  "LY_Water Law_arabic_ENGLISH": {
+    "weighted_score": 0.3797580688705568,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4407224044537347,
+      "ground-water monitoring": 0.4144783933839109,
+      "underground water abstraction": 0.3598037576820026,
+      "groundwater permits": 0.44822385695942496,
+      "groundwater rights": 0.4312707390075232,
+      "well and borehole drilling licenses": 0.38084571913193394,
+      "conjunctive management": 0.3244879663805216,
+      "groundwater protection zones": 0.3751844330241471,
+      "aquifer recharge": 0.32734287596591594,
+      "transboundary aquifers": 0.29522054271645337
+    },
+    "chunk_count": 50
+  },
+  "Malawi": {
+    "weighted_score": 0.36822074791880444,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4092084928342239,
+      "ground-water monitoring": 0.3974628619022117,
+      "underground water abstraction": 0.36304486945910147,
+      "groundwater permits": 0.445779975145687,
+      "groundwater rights": 0.39766478898558383,
+      "well and borehole drilling licenses": 0.3847020870138322,
+      "conjunctive management": 0.3456812783430032,
+      "groundwater protection zones": 0.3347492650176799,
+      "aquifer recharge": 0.31772476450176534,
+      "transboundary aquifers": 0.28618909598495573
+    },
+    "chunk_count": 464
+  },
+  "Malaysia": {
+    "weighted_score": 0.3488407034496511,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3823500235949499,
+      "ground-water monitoring": 0.3534786145481495,
+      "underground water abstraction": 0.3420069864618002,
+      "groundwater permits": 0.42776472300718726,
+      "groundwater rights": 0.38122612135214096,
+      "well and borehole drilling licenses": 0.3679523803552398,
+      "conjunctive management": 0.32789618967782364,
+      "groundwater protection zones": 0.326007194674106,
+      "aquifer recharge": 0.2970992973855364,
+      "transboundary aquifers": 0.2826255034395771
+    },
+    "chunk_count": 117
+  },
+  "Malta": {
+    "weighted_score": 0.3209476243083799,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3477338504028335,
+      "ground-water monitoring": 0.3419133946714739,
+      "underground water abstraction": 0.29863170098244307,
+      "groundwater permits": 0.38621255043710584,
+      "groundwater rights": 0.3344935122776464,
+      "well and borehole drilling licenses": 0.34090244084017285,
+      "conjunctive management": 0.33937372457091775,
+      "groundwater protection zones": 0.2866549920309904,
+      "aquifer recharge": 0.2800531633214021,
+      "transboundary aquifers": 0.25350691354881316
+    },
+    "chunk_count": 387
+  },
+  "Mauritius": {
+    "weighted_score": 0.3705070714871859,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40911351254429085,
+      "ground-water monitoring": 0.40452711744655173,
+      "underground water abstraction": 0.36167017984914224,
+      "groundwater permits": 0.4583204749330601,
+      "groundwater rights": 0.4031653906195308,
+      "well and borehole drilling licenses": 0.38409303981780657,
+      "conjunctive management": 0.34002591892100636,
+      "groundwater protection zones": 0.34150407943409744,
+      "aquifer recharge": 0.3148638405442477,
+      "transboundary aquifers": 0.28778716076212535
+    },
+    "chunk_count": 215
+  },
+  "MA_Loi_36-15_2016_french_ENGLISH": {
+    "weighted_score": 0.38856640158048406,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43587245525394025,
+      "ground-water monitoring": 0.421926449306895,
+      "underground water abstraction": 0.388964106876248,
+      "groundwater permits": 0.46190240190425047,
+      "groundwater rights": 0.4264801627362528,
+      "well and borehole drilling licenses": 0.3931625097519428,
+      "conjunctive management": 0.3377123191008577,
+      "groundwater protection zones": 0.37685476531339973,
+      "aquifer recharge": 0.32698080674988056,
+      "transboundary aquifers": 0.3158080388111729
+    },
+    "chunk_count": 442
+  },
+  "MD_Water Law_ romanian_ENGLISH": {
+    "weighted_score": 0.4041724199199227,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44987235361531747,
+      "ground-water monitoring": 0.455346242999489,
+      "underground water abstraction": 0.40517596291028846,
+      "groundwater permits": 0.4873856593461019,
+      "groundwater rights": 0.44701593644588467,
+      "well and borehole drilling licenses": 0.38620045313674434,
+      "conjunctive management": 0.34767570394620984,
+      "groundwater protection zones": 0.4097783329180041,
+      "aquifer recharge": 0.3359626125157162,
+      "transboundary aquifers": 0.317310941365471
+    },
+    "chunk_count": 263
+  },
+  "ME_Water Law_Montenegrin_ENGLISH": {
+    "weighted_score": 0.3989432689612829,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4507609380693403,
+      "ground-water monitoring": 0.45580539284498006,
+      "underground water abstraction": 0.402320655650719,
+      "groundwater permits": 0.47588393950246266,
+      "groundwater rights": 0.44750212919991783,
+      "well and borehole drilling licenses": 0.3738513855736066,
+      "conjunctive management": 0.3361683114880325,
+      "groundwater protection zones": 0.40923143770227993,
+      "aquifer recharge": 0.3236768102020767,
+      "transboundary aquifers": 0.3142316893794136
+    },
+    "chunk_count": 661
+  },
+  "MG_Water Act_french_ENGLISH": {
+    "weighted_score": 0.381980043115212,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42903914968821627,
+      "ground-water monitoring": 0.4188909578576123,
+      "underground water abstraction": 0.37881835284478904,
+      "groundwater permits": 0.44784310155810164,
+      "groundwater rights": 0.4179970994439413,
+      "well and borehole drilling licenses": 0.3748373998443123,
+      "conjunctive management": 0.3501564059520637,
+      "groundwater protection zones": 0.37307507792023414,
+      "aquifer recharge": 0.32715197968035387,
+      "transboundary aquifers": 0.30199090636249587
+    },
+    "chunk_count": 189
+  },
+  "ML_Water Code_french_ENGLISH": {
+    "weighted_score": 0.39443568467362383,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.437428819326038,
+      "ground-water monitoring": 0.43673650079602727,
+      "underground water abstraction": 0.40319939691580775,
+      "groundwater permits": 0.4536612493012963,
+      "groundwater rights": 0.43353005612799456,
+      "well and borehole drilling licenses": 0.37372837809195303,
+      "conjunctive management": 0.36114594842942377,
+      "groundwater protection zones": 0.38911120318151676,
+      "aquifer recharge": 0.33641390289265133,
+      "transboundary aquifers": 0.3194013916735295
+    },
+    "chunk_count": 195
+  },
+  "Mongolia": {
+    "weighted_score": 0.41071686851770056,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.45816112413183935,
+      "ground-water monitoring": 0.4596311021732913,
+      "underground water abstraction": 0.41413684376211285,
+      "groundwater permits": 0.47558570226249286,
+      "groundwater rights": 0.4569048973819169,
+      "well and borehole drilling licenses": 0.40181323985940803,
+      "conjunctive management": 0.35884241242915815,
+      "groundwater protection zones": 0.41219223792368853,
+      "aquifer recharge": 0.34692512918719304,
+      "transboundary aquifers": 0.32297599606590505
+    },
+    "chunk_count": 267
+  },
+  "MR_Water Code_french_ENGLISH": {
+    "weighted_score": 0.37707529429408626,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4196763136036404,
+      "ground-water monitoring": 0.40986789352111636,
+      "underground water abstraction": 0.377576555903852,
+      "groundwater permits": 0.448434792285494,
+      "groundwater rights": 0.41410258472786543,
+      "well and borehole drilling licenses": 0.37026650964207036,
+      "conjunctive management": 0.3401184063748064,
+      "groundwater protection zones": 0.36534191329129767,
+      "aquifer recharge": 0.32191212643474554,
+      "transboundary aquifers": 0.30345584715597484
+    },
+    "chunk_count": 210
+  },
+  "MV_Water Act_ Dhivehi_ENGLISH": {
+    "weighted_score": 0.37575282178340963,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42299530399073365,
+      "ground-water monitoring": 0.429195108232289,
+      "underground water abstraction": 0.3681250730965242,
+      "groundwater permits": 0.4475892817974748,
+      "groundwater rights": 0.406975800402149,
+      "well and borehole drilling licenses": 0.38383280996012,
+      "conjunctive management": 0.33556776119613174,
+      "groundwater protection zones": 0.35633079824091257,
+      "aquifer recharge": 0.3196154393103704,
+      "transboundary aquifers": 0.28730084160739094
+    },
+    "chunk_count": 316
+  },
+  "MX_National Water Law_spanish_ENGLISH": {
+    "weighted_score": 0.3982062979894977,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4449624858353176,
+      "ground-water monitoring": 0.4310084461239374,
+      "underground water abstraction": 0.39644955843853147,
+      "groundwater permits": 0.4645539889866618,
+      "groundwater rights": 0.44635053896932425,
+      "well and borehole drilling licenses": 0.3914654095169003,
+      "conjunctive management": 0.3527229773673613,
+      "groundwater protection zones": 0.38714638924841793,
+      "aquifer recharge": 0.3393879528775063,
+      "transboundary aquifers": 0.32801523253101866
+    },
+    "chunk_count": 1048
+  },
+  "Myanmar": {
+    "weighted_score": 0.3646323600654594,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40257118376376794,
+      "ground-water monitoring": 0.3790719812916481,
+      "underground water abstraction": 0.34888647429598246,
+      "groundwater permits": 0.438144507266423,
+      "groundwater rights": 0.396777505549531,
+      "well and borehole drilling licenses": 0.3868829593834669,
+      "conjunctive management": 0.3208173086010064,
+      "groundwater protection zones": 0.3553661033106554,
+      "aquifer recharge": 0.29508322236332174,
+      "transboundary aquifers": 0.3227223548287912
+    },
+    "chunk_count": 48
+  },
+  "MZ_Water Law_ portuguese _ENGLISH": {
+    "weighted_score": 0.3969294622396034,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43852032344441727,
+      "ground-water monitoring": 0.4273332481990198,
+      "underground water abstraction": 0.39751907854640706,
+      "groundwater permits": 0.4659176830762975,
+      "groundwater rights": 0.4467418788589655,
+      "well and borehole drilling licenses": 0.3869025538785093,
+      "conjunctive management": 0.3543891134507659,
+      "groundwater protection zones": 0.3962905191538235,
+      "aquifer recharge": 0.32923491670871485,
+      "transboundary aquifers": 0.3264453070791132
+    },
+    "chunk_count": 290
+  },
+  "Namibia": {
+    "weighted_score": 0.37537647810661595,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.418985282213832,
+      "ground-water monitoring": 0.4028254308852995,
+      "underground water abstraction": 0.36946788186809043,
+      "groundwater permits": 0.4563683096392068,
+      "groundwater rights": 0.40702457267799724,
+      "well and borehole drilling licenses": 0.3931637476276412,
+      "conjunctive management": 0.34170591484541407,
+      "groundwater protection zones": 0.3445820236439488,
+      "aquifer recharge": 0.33087549912074027,
+      "transboundary aquifers": 0.2887661185439895
+    },
+    "chunk_count": 444
+  },
+  "Nepal": {
+    "weighted_score": 0.3755801238146691,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.416048391183253,
+      "ground-water monitoring": 0.4006258440146888,
+      "underground water abstraction": 0.37535870135533156,
+      "groundwater permits": 0.44798589617595297,
+      "groundwater rights": 0.41968476467587806,
+      "well and borehole drilling licenses": 0.3857361209252823,
+      "conjunctive management": 0.33117170976947424,
+      "groundwater protection zones": 0.3534753636983348,
+      "aquifer recharge": 0.3262480959363729,
+      "transboundary aquifers": 0.2994663504121221
+    },
+    "chunk_count": 81
+  },
+  "New Zealand": {
+    "weighted_score": 0.34144300381196774,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.36825162632891034,
+      "ground-water monitoring": 0.3615259146347017,
+      "underground water abstraction": 0.3148231592033449,
+      "groundwater permits": 0.4028936036916388,
+      "groundwater rights": 0.3639059430901064,
+      "well and borehole drilling licenses": 0.34792383704467217,
+      "conjunctive management": 0.35688660462691424,
+      "groundwater protection zones": 0.32074444552817016,
+      "aquifer recharge": 0.3149393427098602,
+      "transboundary aquifers": 0.26253556126135863
+    },
+    "chunk_count": 7575
+  },
+  "NE_Water Code_french_ENGLISH": {
+    "weighted_score": 0.3953407083570398,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44109623358399974,
+      "ground-water monitoring": 0.43903161795395207,
+      "underground water abstraction": 0.3945977987589142,
+      "groundwater permits": 0.45845546366676343,
+      "groundwater rights": 0.4388059900367351,
+      "well and borehole drilling licenses": 0.3746870336062384,
+      "conjunctive management": 0.3540730671376671,
+      "groundwater protection zones": 0.4004967392913655,
+      "aquifer recharge": 0.3268475257329556,
+      "transboundary aquifers": 0.3253156138018068
+    },
+    "chunk_count": 205
+  },
+  "Nigeria": {
+    "weighted_score": 0.37597148744300757,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4247055338562523,
+      "ground-water monitoring": 0.3998475743420016,
+      "underground water abstraction": 0.383387688147481,
+      "groundwater permits": 0.44982878503589663,
+      "groundwater rights": 0.42837052557448096,
+      "well and borehole drilling licenses": 0.3677812228689803,
+      "conjunctive management": 0.3157983037284732,
+      "groundwater protection zones": 0.3513746441406735,
+      "aquifer recharge": 0.3237134286118235,
+      "transboundary aquifers": 0.3149071681240128
+    },
+    "chunk_count": 29
+  },
+  "NI_Ley General de Aguas Nacionales_2007_spanish_ENGLISH": {
+    "weighted_score": 0.36587943183709937,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3951223775029833,
+      "ground-water monitoring": 0.3906683907087031,
+      "underground water abstraction": 0.3527289528561493,
+      "groundwater permits": 0.4253414541259378,
+      "groundwater rights": 0.39954641297617133,
+      "well and borehole drilling licenses": 0.3759237983657763,
+      "conjunctive management": 0.3395173148780033,
+      "groundwater protection zones": 0.3486056806293664,
+      "aquifer recharge": 0.3223608733624949,
+      "transboundary aquifers": 0.3089790629654074
+    },
+    "chunk_count": 849
+  },
+  "NL_Water Act_2009_dutch_ENGLISH": {
+    "weighted_score": 0.36496038265582154,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39735750389529534,
+      "ground-water monitoring": 0.39639079455689147,
+      "underground water abstraction": 0.36464153503454605,
+      "groundwater permits": 0.42987340411228614,
+      "groundwater rights": 0.38613797875062245,
+      "well and borehole drilling licenses": 0.3594150037512412,
+      "conjunctive management": 0.3544292077331399,
+      "groundwater protection zones": 0.34939242620314026,
+      "aquifer recharge": 0.3119459105007667,
+      "transboundary aquifers": 0.3000200620202859
+    },
+    "chunk_count": 608
+  },
+  "North Korea": {
+    "weighted_score": 0.39505895297828536,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44206691194464465,
+      "ground-water monitoring": 0.4498503744362497,
+      "underground water abstraction": 0.3976375640017623,
+      "groundwater permits": 0.45382181870776833,
+      "groundwater rights": 0.4310397146796958,
+      "well and borehole drilling licenses": 0.35823372276412063,
+      "conjunctive management": 0.39397092986046695,
+      "groundwater protection zones": 0.37707048837073,
+      "aquifer recharge": 0.33137338456531845,
+      "transboundary aquifers": 0.3155246204520967
+    },
+    "chunk_count": 157
+  },
+  "North Macedonia": {
+    "weighted_score": 0.3727515206631854,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.41916564562487413,
+      "ground-water monitoring": 0.4233920219284013,
+      "underground water abstraction": 0.36279628199171854,
+      "groundwater permits": 0.4555558588449949,
+      "groundwater rights": 0.40931999297249344,
+      "well and borehole drilling licenses": 0.36356912752833975,
+      "conjunctive management": 0.32888725540314734,
+      "groundwater protection zones": 0.363359619447255,
+      "aquifer recharge": 0.3120732369709145,
+      "transboundary aquifers": 0.28939616591971506
+    },
+    "chunk_count": 1180
+  },
+  "Norway": {
+    "weighted_score": 0.39630998626593505,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4316941903008223,
+      "ground-water monitoring": 0.43414447458603483,
+      "underground water abstraction": 0.38668532611285944,
+      "groundwater permits": 0.4756887072091353,
+      "groundwater rights": 0.44190658095870766,
+      "well and borehole drilling licenses": 0.3972959204901959,
+      "conjunctive management": 0.3467917048350025,
+      "groundwater protection zones": 0.3910711003901196,
+      "aquifer recharge": 0.33134547768686234,
+      "transboundary aquifers": 0.326476380089611
+    },
+    "chunk_count": 298
+  },
+  "OM_Water Law_arabic_ENGLISH": {
+    "weighted_score": 0.37744712921862467,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42301279857575663,
+      "ground-water monitoring": 0.4104083896914925,
+      "underground water abstraction": 0.36737376138906463,
+      "groundwater permits": 0.44220028595831457,
+      "groundwater rights": 0.4091591026913765,
+      "well and borehole drilling licenses": 0.38497609855441783,
+      "conjunctive management": 0.32474252093452394,
+      "groundwater protection zones": 0.3728235061678385,
+      "aquifer recharge": 0.3330606256991372,
+      "transboundary aquifers": 0.30671420252432463
+    },
+    "chunk_count": 31
+  },
+  "PE_Water Law_spanish_ENGLISH": {
+    "weighted_score": 0.39389364606100025,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43868777430466666,
+      "ground-water monitoring": 0.4331173489657563,
+      "underground water abstraction": 0.39635417698701286,
+      "groundwater permits": 0.4575065146040947,
+      "groundwater rights": 0.4441759012010382,
+      "well and borehole drilling licenses": 0.38112220293465804,
+      "conjunctive management": 0.34911293783701547,
+      "groundwater protection zones": 0.38607278156422886,
+      "aquifer recharge": 0.33336875400129495,
+      "transboundary aquifers": 0.31941806821023655
+    },
+    "chunk_count": 386
+  },
+  "Philippines": {
+    "weighted_score": 0.40224090059728346,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4582443660857862,
+      "ground-water monitoring": 0.43522828201571284,
+      "underground water abstraction": 0.39875451505485804,
+      "groundwater permits": 0.48636724711059764,
+      "groundwater rights": 0.45631366867755296,
+      "well and borehole drilling licenses": 0.3941530685047325,
+      "conjunctive management": 0.34142710610595656,
+      "groundwater protection zones": 0.39463087823875337,
+      "aquifer recharge": 0.3330714016311925,
+      "transboundary aquifers": 0.3242184725476916
+    },
+    "chunk_count": 184
+  },
+  "PL_Water Law Act_polish_ENGLISH": {
+    "weighted_score": 0.387279208168528,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42914484029603583,
+      "ground-water monitoring": 0.4349297843699072,
+      "underground water abstraction": 0.39484979120850067,
+      "groundwater permits": 0.45951529603485713,
+      "groundwater rights": 0.4265853425021481,
+      "well and borehole drilling licenses": 0.3659322575766325,
+      "conjunctive management": 0.34913604064903614,
+      "groundwater protection zones": 0.3694515756312093,
+      "aquifer recharge": 0.3308267649805874,
+      "transboundary aquifers": 0.31242038843636627
+    },
+    "chunk_count": 883
+  },
+  "PT_ Law No. 58_2005, of 29 December (Water Law)_portuguese_ENGLISH": {
+    "weighted_score": 0.39747188558132407,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.43365280983205845,
+      "ground-water monitoring": 0.4450788087101138,
+      "underground water abstraction": 0.4035275193050602,
+      "groundwater permits": 0.45873551369903925,
+      "groundwater rights": 0.43736450083339873,
+      "well and borehole drilling licenses": 0.3738045954315764,
+      "conjunctive management": 0.35984931450054203,
+      "groundwater protection zones": 0.4071615063593323,
+      "aquifer recharge": 0.33030275292364963,
+      "transboundary aquifers": 0.32524153421847
+    },
+    "chunk_count": 551
+  },
+  "PY_Water Law_spanish_ENGLISH": {
+    "weighted_score": 0.40341681372755406,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44731591750723465,
+      "ground-water monitoring": 0.43723315127927115,
+      "underground water abstraction": 0.4083604532005141,
+      "groundwater permits": 0.4748483527520861,
+      "groundwater rights": 0.45414089475856284,
+      "well and borehole drilling licenses": 0.38395833692891174,
+      "conjunctive management": 0.3504425118775254,
+      "groundwater protection zones": 0.39609971532330773,
+      "aquifer recharge": 0.34525933972886286,
+      "transboundary aquifers": 0.3365094639192639
+    },
+    "chunk_count": 177
+  },
+  "RO_ Water Law No. 107_1996_romanian_ENGLISH": {
+    "weighted_score": 0.38818909131871593,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4269221210957205,
+      "ground-water monitoring": 0.4294168899607594,
+      "underground water abstraction": 0.37829897900700543,
+      "groundwater permits": 0.4593441179401025,
+      "groundwater rights": 0.4231164038313193,
+      "well and borehole drilling licenses": 0.3794516157798685,
+      "conjunctive management": 0.34821242642307215,
+      "groundwater protection zones": 0.39545603188795814,
+      "aquifer recharge": 0.33267655403048674,
+      "transboundary aquifers": 0.3089957732308667
+    },
+    "chunk_count": 883
+  },
+  "RS_Water Law_serbian_ENGLISH": {
+    "weighted_score": 0.3905096288203055,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44143520273110487,
+      "ground-water monitoring": 0.44227739030304764,
+      "underground water abstraction": 0.3878831833027743,
+      "groundwater permits": 0.4705431861877897,
+      "groundwater rights": 0.4355115305408652,
+      "well and borehole drilling licenses": 0.37035788852634155,
+      "conjunctive management": 0.3294582715667515,
+      "groundwater protection zones": 0.3926841414942195,
+      "aquifer recharge": 0.32615525396900497,
+      "transboundary aquifers": 0.3087902395811553
+    },
+    "chunk_count": 661
+  },
+  "RU_water code_rus_ENGLISH": {
+    "weighted_score": 0.4038492857357168,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4515587053819522,
+      "ground-water monitoring": 0.44570399675360056,
+      "underground water abstraction": 0.41856919937498327,
+      "groundwater permits": 0.4736412907681999,
+      "groundwater rights": 0.46534095365259104,
+      "well and borehole drilling licenses": 0.3757141765234797,
+      "conjunctive management": 0.31768510367009023,
+      "groundwater protection zones": 0.42422456934339514,
+      "aquifer recharge": 0.33072592176152293,
+      "transboundary aquifers": 0.3353289401273538
+    },
+    "chunk_count": 436
+  },
+  "Rwanda": {
+    "weighted_score": 0.38275940988434176,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4245442177684423,
+      "ground-water monitoring": 0.42558956210469034,
+      "underground water abstraction": 0.40452630661464883,
+      "groundwater permits": 0.43491200566167765,
+      "groundwater rights": 0.4154219650380344,
+      "well and borehole drilling licenses": 0.3512883873789402,
+      "conjunctive management": 0.344777967564983,
+      "groundwater protection zones": 0.37296840881208604,
+      "aquifer recharge": 0.3371509705613316,
+      "transboundary aquifers": 0.3164143073385834
+    },
+    "chunk_count": 233
+  },
+  "Saint Lucia": {
+    "weighted_score": 0.32601030519901875,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3476731358141053,
+      "ground-water monitoring": 0.3451139369105883,
+      "underground water abstraction": 0.3129190007509029,
+      "groundwater permits": 0.3798792788675726,
+      "groundwater rights": 0.332242633956161,
+      "well and borehole drilling licenses": 0.353331757965511,
+      "conjunctive management": 0.34933321207325446,
+      "groundwater protection zones": 0.27822634166685367,
+      "aquifer recharge": 0.29869001386885563,
+      "transboundary aquifers": 0.26269374011638275
+    },
+    "chunk_count": 431
+  },
+  "Saint Christopher and Nevis": {
+    "weighted_score": 0.3726377707644062,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4210916341064941,
+      "ground-water monitoring": 0.4180552609128262,
+      "underground water abstraction": 0.3565056552754989,
+      "groundwater permits": 0.4499279611594776,
+      "groundwater rights": 0.41449854015896137,
+      "well and borehole drilling licenses": 0.36961172917161966,
+      "conjunctive management": 0.3326685907820121,
+      "groundwater protection zones": 0.34094151387734384,
+      "aquifer recharge": 0.3366959637027066,
+      "transboundary aquifers": 0.28638085849712186
+    },
+    "chunk_count": 111
+  },
+  "Saint Vincent and the Grenadines": {
+    "weighted_score": 0.3585956795263151,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39750702676676297,
+      "ground-water monitoring": 0.3939202404351174,
+      "underground water abstraction": 0.35698281400107545,
+      "groundwater permits": 0.4290974242831792,
+      "groundwater rights": 0.3695982354936671,
+      "well and borehole drilling licenses": 0.36929181777791187,
+      "conjunctive management": 0.3474685698528435,
+      "groundwater protection zones": 0.32293590207680506,
+      "aquifer recharge": 0.3186578592463995,
+      "transboundary aquifers": 0.28049690532938965
+    },
+    "chunk_count": 510
+  },
+  "Samoa": {
+    "weighted_score": 0.36920928001928754,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40892895057090123,
+      "ground-water monitoring": 0.40800635480938807,
+      "underground water abstraction": 0.3517157609767923,
+      "groundwater permits": 0.44779049558390727,
+      "groundwater rights": 0.4043511554838382,
+      "well and borehole drilling licenses": 0.3723240596476637,
+      "conjunctive management": 0.35117209763160306,
+      "groundwater protection zones": 0.3552027066820387,
+      "aquifer recharge": 0.3101994400149711,
+      "transboundary aquifers": 0.2824017787917714
+    },
+    "chunk_count": 133
+  },
+  "SA_Saudi water law_arabic_ENGLISH": {
+    "weighted_score": 0.3911960969722834,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44458418098379665,
+      "ground-water monitoring": 0.4427283562548209,
+      "underground water abstraction": 0.38672247380730407,
+      "groundwater permits": 0.4578317853188168,
+      "groundwater rights": 0.42477453551555033,
+      "well and borehole drilling licenses": 0.38081569130191434,
+      "conjunctive management": 0.3523790131477904,
+      "groundwater protection zones": 0.3812032189487055,
+      "aquifer recharge": 0.3297426070646609,
+      "transboundary aquifers": 0.31117910737947474
+    },
+    "chunk_count": 263
+  },
+  "SD_Water resources act_arabic_ENGLISH": {
+    "weighted_score": 0.38146308424357955,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42744203508215023,
+      "ground-water monitoring": 0.41609926126132524,
+      "underground water abstraction": 0.3805940273967617,
+      "groundwater permits": 0.4616615910205678,
+      "groundwater rights": 0.42343705011296934,
+      "well and borehole drilling licenses": 0.3882220818622351,
+      "conjunctive management": 0.34113121575366495,
+      "groundwater protection zones": 0.35618469589799145,
+      "aquifer recharge": 0.31411812540068335,
+      "transboundary aquifers": 0.3057407586474468
+    },
+    "chunk_count": 91
+  },
+  "Sierra Leone": {
+    "weighted_score": 0.34780998057909307,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.37838666684197747,
+      "ground-water monitoring": 0.3757893250402645,
+      "underground water abstraction": 0.33813612881730476,
+      "groundwater permits": 0.4116616448766099,
+      "groundwater rights": 0.36824785940061106,
+      "well and borehole drilling licenses": 0.3550050142941693,
+      "conjunctive management": 0.3535201775477121,
+      "groundwater protection zones": 0.3099222172914432,
+      "aquifer recharge": 0.30944615114871254,
+      "transboundary aquifers": 0.27798462053212597
+    },
+    "chunk_count": 104
+  },
+  "Singapore": {
+    "weighted_score": 0.33174586004552714,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3647469930200369,
+      "ground-water monitoring": 0.3535433762798028,
+      "underground water abstraction": 0.31945602515147076,
+      "groundwater permits": 0.3925099742046766,
+      "groundwater rights": 0.351360524850673,
+      "well and borehole drilling licenses": 0.34749098188398425,
+      "conjunctive management": 0.3423458187667773,
+      "groundwater protection zones": 0.2922283127998043,
+      "aquifer recharge": 0.29706725662153066,
+      "transboundary aquifers": 0.256709336876515
+    },
+    "chunk_count": 534
+  },
+  "SI_ Zakon o vodah (ZV-1)_slovenian_ENGLISH": {
+    "weighted_score": 0.3943857342632428,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4466313537803689,
+      "ground-water monitoring": 0.4340386726610924,
+      "underground water abstraction": 0.39983717444009964,
+      "groundwater permits": 0.47995159075306465,
+      "groundwater rights": 0.4490305289429368,
+      "well and borehole drilling licenses": 0.3653280713667045,
+      "conjunctive management": 0.3312725542324591,
+      "groundwater protection zones": 0.393141525530229,
+      "aquifer recharge": 0.3282140451503392,
+      "transboundary aquifers": 0.3164118257751342
+    },
+    "chunk_count": 1170
+  },
+  "SK_ Act No. 364_2004 Coll. on Waters (Water Act)_slovak_ENGLISH": {
+    "weighted_score": 0.40456819602956634,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4562862818082114,
+      "ground-water monitoring": 0.4630669421528216,
+      "underground water abstraction": 0.41602078972832846,
+      "groundwater permits": 0.48061855120709934,
+      "groundwater rights": 0.44488758487516794,
+      "well and borehole drilling licenses": 0.3723326580343375,
+      "conjunctive management": 0.3465156182534889,
+      "groundwater protection zones": 0.4076298800409099,
+      "aquifer recharge": 0.3335722932674111,
+      "transboundary aquifers": 0.3247513609278875
+    },
+    "chunk_count": 796
+  },
+  "SM_Regulation No.1_italian_ENGLISH": {
+    "weighted_score": 0.37735972450863053,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4251745394177767,
+      "ground-water monitoring": 0.4337571559581531,
+      "underground water abstraction": 0.3853657978255759,
+      "groundwater permits": 0.4285206379457322,
+      "groundwater rights": 0.3807524221997848,
+      "well and borehole drilling licenses": 0.37292877970042004,
+      "conjunctive management": 0.35928272894321445,
+      "groundwater protection zones": 0.3426929400434263,
+      "aquifer recharge": 0.3464706082307009,
+      "transboundary aquifers": 0.29865163482152124
+    },
+    "chunk_count": 574
+  },
+  "SN_Code-de-l-eau_1981_french_ENGLISH": {
+    "weighted_score": 0.3957129518913901,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4345660547676464,
+      "ground-water monitoring": 0.429624991617534,
+      "underground water abstraction": 0.40474877720817476,
+      "groundwater permits": 0.4647698953629616,
+      "groundwater rights": 0.4263606398909283,
+      "well and borehole drilling licenses": 0.39353896187391973,
+      "conjunctive management": 0.35144813715680046,
+      "groundwater protection zones": 0.38922906350301634,
+      "aquifer recharge": 0.3377000966454386,
+      "transboundary aquifers": 0.3251429008874808
+    },
+    "chunk_count": 197
+  },
+  "South Africa": {
+    "weighted_score": 0.3652236764580941,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39237783272085125,
+      "ground-water monitoring": 0.3867281181495464,
+      "underground water abstraction": 0.36435248513199686,
+      "groundwater permits": 0.42038280636278125,
+      "groundwater rights": 0.3892085176838945,
+      "well and borehole drilling licenses": 0.36620699862864203,
+      "conjunctive management": 0.3764708285708761,
+      "groundwater protection zones": 0.33119639531486395,
+      "aquifer recharge": 0.32832597568243793,
+      "transboundary aquifers": 0.29698680633505103
+    },
+    "chunk_count": 1236
+  },
+  "SO_Water Act_somali_ENGLISH": {
+    "weighted_score": 0.4036430359501152,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4510083667179189,
+      "ground-water monitoring": 0.44101857449205845,
+      "underground water abstraction": 0.41393144372603136,
+      "groundwater permits": 0.47473933045188976,
+      "groundwater rights": 0.4589258804337305,
+      "well and borehole drilling licenses": 0.3889847743555367,
+      "conjunctive management": 0.34817712523698874,
+      "groundwater protection zones": 0.3933541649638252,
+      "aquifer recharge": 0.33945229029648183,
+      "transboundary aquifers": 0.3268384088266903
+    },
+    "chunk_count": 398
+  },
+  "ST_Water Law_portuguese_ENGLISH": {
+    "weighted_score": 0.39402668652853967,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4366813565864169,
+      "ground-water monitoring": 0.4438761224728713,
+      "underground water abstraction": 0.4040922599584298,
+      "groundwater permits": 0.4576007103976982,
+      "groundwater rights": 0.4374776897306744,
+      "well and borehole drilling licenses": 0.36479828789101515,
+      "conjunctive management": 0.3533334779458317,
+      "groundwater protection zones": 0.39266484722469264,
+      "aquifer recharge": 0.329727678199387,
+      "transboundary aquifers": 0.3200144348783794
+    },
+    "chunk_count": 212
+  },
+  "SV_General water law_2021_spanish_ENGLISH": {
+    "weighted_score": 0.386816624825578,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4231424488917141,
+      "ground-water monitoring": 0.42637454019903315,
+      "underground water abstraction": 0.39198030736125794,
+      "groundwater permits": 0.44028529680596157,
+      "groundwater rights": 0.41542571405286394,
+      "well and borehole drilling licenses": 0.37564948045858026,
+      "conjunctive management": 0.35912945218931996,
+      "groundwater protection zones": 0.37372151891041316,
+      "aquifer recharge": 0.33992562937629467,
+      "transboundary aquifers": 0.32253186001034123
+    },
+    "chunk_count": 821
+  },
+  "Sweden": {
+    "weighted_score": 0.3465174583922671,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3776340236068146,
+      "ground-water monitoring": 0.3654285293670733,
+      "underground water abstraction": 0.32145945558570105,
+      "groundwater permits": 0.4190799669400504,
+      "groundwater rights": 0.3690758527250238,
+      "well and borehole drilling licenses": 0.35942067874848294,
+      "conjunctive management": 0.34787530869460415,
+      "groundwater protection zones": 0.334679742984694,
+      "aquifer recharge": 0.29167710516614437,
+      "transboundary aquifers": 0.27884392010408265
+    },
+    "chunk_count": 1219
+  },
+  "Switzerland": {
+    "weighted_score": 0.3797106955036217,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42217002879427795,
+      "ground-water monitoring": 0.4111602612463174,
+      "underground water abstraction": 0.36352125919262046,
+      "groundwater permits": 0.438087749169924,
+      "groundwater rights": 0.403983336551011,
+      "well and borehole drilling licenses": 0.367640627273835,
+      "conjunctive management": 0.3502234295650219,
+      "groundwater protection zones": 0.37227748454908705,
+      "aquifer recharge": 0.34964671848349566,
+      "transboundary aquifers": 0.3183960602106261
+    },
+    "chunk_count": 364
+  },
+  "SY_Water Law_arabic_ENGLISH": {
+    "weighted_score": 0.38662932151194884,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4306060972363898,
+      "ground-water monitoring": 0.4220296064667528,
+      "underground water abstraction": 0.37996292462669295,
+      "groundwater permits": 0.4625354700790339,
+      "groundwater rights": 0.4301727502899827,
+      "well and borehole drilling licenses": 0.40442795539627324,
+      "conjunctive management": 0.33569884827002566,
+      "groundwater protection zones": 0.3768705927674646,
+      "aquifer recharge": 0.3206610058110915,
+      "transboundary aquifers": 0.3033279641757816
+    },
+    "chunk_count": 171
+  },
+  "Tanzania": {
+    "weighted_score": 0.39769122891965336,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4458358782036093,
+      "ground-water monitoring": 0.4391288929768885,
+      "underground water abstraction": 0.3932257760138704,
+      "groundwater permits": 0.48467257905305505,
+      "groundwater rights": 0.44098854247640207,
+      "well and borehole drilling licenses": 0.3937973615533012,
+      "conjunctive management": 0.35311017295192043,
+      "groundwater protection zones": 0.37562858776669694,
+      "aquifer recharge": 0.3395819874132507,
+      "transboundary aquifers": 0.3109425107875394
+    },
+    "chunk_count": 348
+  },
+  "TD_Water Code_french_ENGLISH": {
+    "weighted_score": 0.3849157762068168,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4271031189103333,
+      "ground-water monitoring": 0.4078763187534211,
+      "underground water abstraction": 0.3896097139972542,
+      "groundwater permits": 0.45275405068277014,
+      "groundwater rights": 0.42741740839279796,
+      "well and borehole drilling licenses": 0.3845029241962871,
+      "conjunctive management": 0.34187143422888816,
+      "groundwater protection zones": 0.37221667861772606,
+      "aquifer recharge": 0.3297238450938673,
+      "transboundary aquifers": 0.3160822691948219
+    },
+    "chunk_count": 346
+  },
+  "TG_Water Code_french_ENGLISH": {
+    "weighted_score": 0.3940414333305545,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.44728627035208335,
+      "ground-water monitoring": 0.43574036936166505,
+      "underground water abstraction": 0.3970238984336221,
+      "groundwater permits": 0.46072304452327917,
+      "groundwater rights": 0.43354857735488767,
+      "well and borehole drilling licenses": 0.3781491472535654,
+      "conjunctive management": 0.3436035196319194,
+      "groundwater protection zones": 0.39182249235081174,
+      "aquifer recharge": 0.3317380020361456,
+      "transboundary aquifers": 0.32077901200756576
+    },
+    "chunk_count": 396
+  },
+  "Thailand": {
+    "weighted_score": 0.3501658647387937,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.39519497901538087,
+      "ground-water monitoring": 0.3609996289223579,
+      "underground water abstraction": 0.3554818339188072,
+      "groundwater permits": 0.40299407294838246,
+      "groundwater rights": 0.3827208179899499,
+      "well and borehole drilling licenses": 0.3608307622755444,
+      "conjunctive management": 0.3395746256738603,
+      "groundwater protection zones": 0.3266993413196218,
+      "aquifer recharge": 0.2974411332427415,
+      "transboundary aquifers": 0.27972145208129073
+    },
+    "chunk_count": 352
+  },
+  "TJ_Water Code_rus_ENGLISH": {
+    "weighted_score": 0.4152659336330139,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4719721621009631,
+      "ground-water monitoring": 0.46863897591592124,
+      "underground water abstraction": 0.420354550066266,
+      "groundwater permits": 0.4932928301802191,
+      "groundwater rights": 0.4815418435218506,
+      "well and borehole drilling licenses": 0.3749987746120922,
+      "conjunctive management": 0.32428614662818656,
+      "groundwater protection zones": 0.44545855326463263,
+      "aquifer recharge": 0.33127402617448953,
+      "transboundary aquifers": 0.34084147386551805
+    },
+    "chunk_count": 307
+  },
+  "TM_Water Code_rus_ENGLISH": {
+    "weighted_score": 0.41410960943345676,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.46502464066295685,
+      "ground-water monitoring": 0.4682631932455622,
+      "underground water abstraction": 0.4281267390130472,
+      "groundwater permits": 0.47824273134686573,
+      "groundwater rights": 0.47087671318327795,
+      "well and borehole drilling licenses": 0.36998208156896434,
+      "conjunctive management": 0.3348743598073899,
+      "groundwater protection zones": 0.43442716028877765,
+      "aquifer recharge": 0.33962725525073206,
+      "transboundary aquifers": 0.3516512199669943
+    },
+    "chunk_count": 506
+  },
+  "TN_Water Code_arabic_ENGLISH": {
+    "weighted_score": 0.39304135034535775,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4405039480007031,
+      "ground-water monitoring": 0.4251421583410896,
+      "underground water abstraction": 0.3864411630209148,
+      "groundwater permits": 0.4630693499420711,
+      "groundwater rights": 0.43593635328670105,
+      "well and borehole drilling licenses": 0.38761722690599065,
+      "conjunctive management": 0.34466878134820345,
+      "groundwater protection zones": 0.3925895404355846,
+      "aquifer recharge": 0.32994113885274007,
+      "transboundary aquifers": 0.32450384331957954
+    },
+    "chunk_count": 358
+  },
+  "Tonga": {
+    "weighted_score": 0.3791811990036389,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.42640241472043333,
+      "ground-water monitoring": 0.41473399728723953,
+      "underground water abstraction": 0.36447946414419924,
+      "groundwater permits": 0.47199100072358063,
+      "groundwater rights": 0.4160093662863286,
+      "well and borehole drilling licenses": 0.3995763097974851,
+      "conjunctive management": 0.34762354168045023,
+      "groundwater protection zones": 0.3556818821773056,
+      "aquifer recharge": 0.31110042935523985,
+      "transboundary aquifers": 0.28421358386412643
+    },
+    "chunk_count": 49
+  },
+  "TR_Water Law_turkish_ENGLISH": {
+    "weighted_score": 0.3546294418615798,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.40083465298667526,
+      "ground-water monitoring": 0.3848598246409617,
+      "underground water abstraction": 0.33626835066592325,
+      "groundwater permits": 0.41305899007451324,
+      "groundwater rights": 0.38780513053862525,
+      "well and borehole drilling licenses": 0.34443417141326144,
+      "conjunctive management": 0.35252706915544174,
+      "groundwater protection zones": 0.3313224333088081,
+      "aquifer recharge": 0.3024978554133751,
+      "transboundary aquifers": 0.2926859404182131
+    },
+    "chunk_count": 36
+  },
+  "Tuvalu": {
+    "weighted_score": 0.378213608459937,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4300846029761809,
+      "ground-water monitoring": 0.4221352314979547,
+      "underground water abstraction": 0.3713460455117272,
+      "groundwater permits": 0.4613109772932051,
+      "groundwater rights": 0.42082685108599077,
+      "well and borehole drilling licenses": 0.3721452423842534,
+      "conjunctive management": 0.32653048546901947,
+      "groundwater protection zones": 0.34916379517463686,
+      "aquifer recharge": 0.34272008139618815,
+      "transboundary aquifers": 0.28587277181021375
+    },
+    "chunk_count": 41
+  },
+  "UA_Water Code_rus_ENGLISH": {
+    "weighted_score": 0.4093907098902771,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.45865700212871024,
+      "ground-water monitoring": 0.4629159908096861,
+      "underground water abstraction": 0.4179070908905213,
+      "groundwater permits": 0.48088177222178413,
+      "groundwater rights": 0.46030478008910153,
+      "well and borehole drilling licenses": 0.37377600790205856,
+      "conjunctive management": 0.33060795041485724,
+      "groundwater protection zones": 0.4400108095920294,
+      "aquifer recharge": 0.33241750819194377,
+      "transboundary aquifers": 0.33642818666207874
+    },
+    "chunk_count": 420
+  },
+  "Uganda": {
+    "weighted_score": 0.361016496894106,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4024573925728447,
+      "ground-water monitoring": 0.3913760706884535,
+      "underground water abstraction": 0.35256327369979357,
+      "groundwater permits": 0.4437875362504325,
+      "groundwater rights": 0.3956316563870079,
+      "well and borehole drilling licenses": 0.36839500492856897,
+      "conjunctive management": 0.3427256501841699,
+      "groundwater protection zones": 0.32861767767771666,
+      "aquifer recharge": 0.30984911956857786,
+      "transboundary aquifers": 0.2747615869834947
+    },
+    "chunk_count": 282
+  },
+  "United Arab Emirates": {
+    "weighted_score": 0.3457930595590361,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.37460622963607293,
+      "ground-water monitoring": 0.3808438668354269,
+      "underground water abstraction": 0.32800205660704335,
+      "groundwater permits": 0.40019348691603895,
+      "groundwater rights": 0.35365461952112004,
+      "well and borehole drilling licenses": 0.3630053404106621,
+      "conjunctive management": 0.3328610393784039,
+      "groundwater protection zones": 0.34088698213264385,
+      "aquifer recharge": 0.2890976418291337,
+      "transboundary aquifers": 0.2947793323238159
+    },
+    "chunk_count": 227
+  },
+  "United Kingdom": {
+    "weighted_score": 0.352076431312527,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.37393228149730945,
+      "ground-water monitoring": 0.3789339841337258,
+      "underground water abstraction": 0.3562123193312155,
+      "groundwater permits": 0.41380389592848016,
+      "groundwater rights": 0.36320596077992195,
+      "well and borehole drilling licenses": 0.3599354105045781,
+      "conjunctive management": 0.34855241473945897,
+      "groundwater protection zones": 0.3237451789426006,
+      "aquifer recharge": 0.3255706652888412,
+      "transboundary aquifers": 0.27687220197913853
+    },
+    "chunk_count": 3259
+  },
+  "UY_Water Code_1978_spanish_ENGLISH": {
+    "weighted_score": 0.36773312626735427,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.3990384988663568,
+      "ground-water monitoring": 0.3821490947426576,
+      "underground water abstraction": 0.35941480335489034,
+      "groundwater permits": 0.43643969654486503,
+      "groundwater rights": 0.40389296325711055,
+      "well and borehole drilling licenses": 0.3778086605160325,
+      "conjunctive management": 0.33416477393837135,
+      "groundwater protection zones": 0.3589351352746759,
+      "aquifer recharge": 0.32334593537652845,
+      "transboundary aquifers": 0.3021417008020538
+    },
+    "chunk_count": 721
+  },
+  "UZ_Water Code_uzb_ENGLISH": {
+    "weighted_score": 0.3776623837543821,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4338537621535223,
+      "ground-water monitoring": 0.42037268187750026,
+      "underground water abstraction": 0.3854127627811478,
+      "groundwater permits": 0.43574058206851995,
+      "groundwater rights": 0.4294114653927666,
+      "well and borehole drilling licenses": 0.3558156846690168,
+      "conjunctive management": 0.31329868119330234,
+      "groundwater protection zones": 0.3847496681716054,
+      "aquifer recharge": 0.3215161638718403,
+      "transboundary aquifers": 0.2964523853645997
+    },
+    "chunk_count": 497
+  },
+  "Vanuatu": {
+    "weighted_score": 0.3718470851903418,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4075941588110282,
+      "ground-water monitoring": 0.40528375175441556,
+      "underground water abstraction": 0.3591942688256954,
+      "groundwater permits": 0.4431897083216024,
+      "groundwater rights": 0.40963034579799545,
+      "well and borehole drilling licenses": 0.3729818308160924,
+      "conjunctive management": 0.3701565584747654,
+      "groundwater protection zones": 0.35267190602795495,
+      "aquifer recharge": 0.31919772134550967,
+      "transboundary aquifers": 0.2785706017283589
+    },
+    "chunk_count": 109
+  },
+  "VE_Ley de Aguas_2007_spanish_ENGLISH": {
+    "weighted_score": 0.39422370860586314,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4370485301554822,
+      "ground-water monitoring": 0.43940055282311735,
+      "underground water abstraction": 0.4043082009491607,
+      "groundwater permits": 0.45061891563094825,
+      "groundwater rights": 0.43181189895259187,
+      "well and borehole drilling licenses": 0.37153042960569294,
+      "conjunctive management": 0.36334946766708864,
+      "groundwater protection zones": 0.38804482435751364,
+      "aquifer recharge": 0.3291951379375246,
+      "transboundary aquifers": 0.3269291279795113
+    },
+    "chunk_count": 365
+  },
+  "VN_Law on Water_2023_vietnamese_ENGLISH": {
+    "weighted_score": 0.4151316537388315,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.46703030333587775,
+      "ground-water monitoring": 0.4751546211896425,
+      "underground water abstraction": 0.41675846124328697,
+      "groundwater permits": 0.47781399181045703,
+      "groundwater rights": 0.4593860741043461,
+      "well and borehole drilling licenses": 0.3971178566839345,
+      "conjunctive management": 0.354080359204176,
+      "groundwater protection zones": 0.4265833956999618,
+      "aquifer recharge": 0.34449895723848417,
+      "transboundary aquifers": 0.3328925168781483
+    },
+    "chunk_count": 658
+  },
+  "YE_Water Law_arabic_ENGLISH": {
+    "weighted_score": 0.3999298639223605,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4526734811567843,
+      "ground-water monitoring": 0.44425322753091967,
+      "underground water abstraction": 0.40039169499810356,
+      "groundwater permits": 0.46655199628411975,
+      "groundwater rights": 0.4359434117895378,
+      "well and borehole drilling licenses": 0.4089333439768031,
+      "conjunctive management": 0.34775009207278457,
+      "groundwater protection zones": 0.39344880152773953,
+      "aquifer recharge": 0.3286625021892626,
+      "transboundary aquifers": 0.3206900876975505
+    },
+    "chunk_count": 193
+  },
+  "Zambia": {
+    "weighted_score": 0.370055477551009,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.41168888557138245,
+      "ground-water monitoring": 0.405682049178827,
+      "underground water abstraction": 0.35879374548451665,
+      "groundwater permits": 0.45730791567482515,
+      "groundwater rights": 0.40319324121884526,
+      "well and borehole drilling licenses": 0.3812610387881569,
+      "conjunctive management": 0.3469098876099991,
+      "groundwater protection zones": 0.3404389136502667,
+      "aquifer recharge": 0.3133054393529998,
+      "transboundary aquifers": 0.28197365898027066
+    },
+    "chunk_count": 479
+  },
+  "Zimbabwe": {
+    "weighted_score": 0.3815142671808255,
+    "keyword_scores": {
+      "groundwater withdrawal": 0.4303234225506214,
+      "ground-water monitoring": 0.41212289124262874,
+      "underground water abstraction": 0.3808001312170624,
+      "groundwater permits": 0.4697215459810693,
+      "groundwater rights": 0.4253202846515491,
+      "well and borehole drilling licenses": 0.3814601469362659,
+      "conjunctive management": 0.34929545634822373,
+      "groundwater protection zones": 0.35679495480618023,
+      "aquifer recharge": 0.319737424683372,
+      "transboundary aquifers": 0.28956641339128253
+    },
+    "chunk_count": 432
+  }
+}

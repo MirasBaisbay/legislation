@@ -1,0 +1,1751 @@
+**Source text not provided.** Please insert the content from `NL_Water Act_2009_dutch.txt` to proceed with the translation.
+
+****
+Water Act
+Consulted on 08-06-2023. Valid from 01-07-2021 to present
+
+Act of 29 January 2009, containing rules with respect to the management and use of water systems (Water Act)
+
+We Beatrix, by the grace of God, Queen of the Netherlands, Princess of Orange-Nassau, etc. etc. etc.
+
+To all who shall see this or hear it read, greetings! We make it known:
+
+Whereas We have considered that the government, in its duty to ensure the habitability of the country and the protection and improvement of the environment, where that duty takes shape in water management, is faced with major tasks, and that with a view to an effective and efficient approach to water management, it is desirable to streamline and modernise the statutory instruments and in so doing to place the integrated management of water systems at the centre;
+
+So is it that We, having heard the Council of State, and in common concert with the States General, have approved and decreed, as We approve and decree by these presents:
+
+**Chapter 1. General provisions**
+
+**§ 1. Definitions**
+
+**Article 1.1**
+1. In this Act and the provisions based thereon, unless otherwise specified, the following definitions shall apply:
+*   **administrator:** the competent administrative body of the public body charged with management;
+*   **body of groundwater:** a coherent mass of groundwater;
+*   **competent authority:** the administrative body competent to grant a water permit, where applicable with due observance of Article 6.17;
+*   **delta fund:** fund, as referred to in Article 7.22a;
+*   **delta programme:** programme, as referred to in Article 4.9;
+*   **dike section:** a section of a primary flood defence that is subject to a separate standard;
+*   **discharging:** introducing substances into a surface water body or introducing water or substances into a wastewater treatment plant;
+*   **groundwater:** water that occurs freely beneath the earth's surface, including the substances present therein;
+*   **infiltrating water:** introducing water into the soil to replenish groundwater, in conjunction with the abstraction of groundwater;
+*   **ledger:** ledger as referred to in Article 5.1;
+*   **management:** government responsibility with respect to one or more separate water systems or parts thereof, aimed at the objectives mentioned in Article 2.1;
+*   **national waters:** water systems or parts thereof that are managed by the State;
+*   **Our Minister:** Our Minister of Infrastructure and Water Management;
+*   **Our Ministers:** Our Minister of Infrastructure and Water Management together with Our Minister of Agriculture, Nature and Food Quality, each insofar as it concerns matters that are also their responsibility;
+*   **outside waters:** water of a surface water body whose water level is directly influenced by a high storm surge, by high river discharge from one of the major rivers, by high water levels in the IJsselmeer or Markermeer, or by a combination thereof, as well as the Volkerak-Zoommeer, the Grevelingenmeer, the tidal part of the Hollandsche IJssel, and the Veluwe border lakes;
+*   **primary flood defence:** a flood defence that provides protection against flooding by outside waters;
+*   **probability of failure:** the probability of loss of the flood-retaining capacity of a dike section, as a result of which the hydraulic load on a dike section behind it is substantially increased;
+*   **probability of flooding:** the probability of loss of the flood-retaining capacity of a dike section, as a result of which the area protected by the dike section floods to such an extent that it leads to fatalities or substantial economic damage;
+*   **protection zone:** a zone adjacent to a water management work, in which regulations and restrictions may apply for the protection of that work;
+*   **public foul water sewer:** a facility for the collection and transport of urban wastewater, managed by a municipality or a legal person charged with its management by a municipality;
+*   **regional waters:** water systems or parts thereof that are not managed by the State;
+*   **river basin district:** area as referred to in Article 2(15) of the Water Framework Directive;
+*   **river basin management plan:** plan as referred to in Article 13 of the Water Framework Directive;
+*   **sea:** marine waters, with the exception of the internal waters of states, including the seabed and its subsoil;
+*   **storage area:** an area designated for water management purposes under the Spatial Planning Act, not being a surface water body or part thereof, which serves to increase the storage capacity of one or more water systems and is also included as a storage area in the ledger;
+*   **surface water body:** a coherent body of water occurring freely on the earth's surface, including the substances present therein, as well as the associated bed, banks and, insofar as explicitly designated pursuant to this Act, drier bank areas, as well as flora and fauna;
+*   **UN Convention on the Law of the Sea:** the Convention on the Law of the Sea, concluded at Montego Bay on 10 December 1982 (Trb. 1983, 83);
+*   **urban wastewater:** domestic wastewater or a mixture thereof with industrial wastewater, run-off rainwater, groundwater or other wastewater;
+*   **wastewater treatment plant:** a plant for the treatment of urban wastewater, operated by a water board or municipality, or a legal person charged by the board of a water board with the treatment of urban wastewater, including the associated works for the transport of urban wastewater;
+*   **water abstraction:** abstracting groundwater by means of an abstraction installation;
+*   **water abstraction installation:** an installation or works intended for the abstraction of groundwater;
+*   **Water Framework Directive:** Directive 2000/60/EC of the European Parliament and of the Council of the European Union of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327);
+*   **water management:** the government responsibility aimed at the objectives mentioned in Article 2.1;
+*   **water management work:** a surface water body, storage area, flood defence or supporting structure;
+*   **water permit:** a permit as referred to in Articles 6.2, 6.3, 6.4, 6.5, 6.13, 6.18 or 6.19;
+*   **water system:** a coherent whole of one or more surface water bodies and bodies of groundwater, with associated storage areas, flood defences and supporting structures.
+2. For the purposes of this Act and the provisions based thereon, abstraction installations that form a coherent whole shall be regarded as a single abstraction installation.
+3. For the purposes of this Act and the provisions based thereon with regard to the sea, the term surface water body shall also include the subsoil of the seabed.
+
+**§ 2. Geographical provisions**
+
+**Article 1.2**
+1. For the application of the term river basin district in this Act and the provisions based thereon, the Dutch territory is divided into the parts of the Ems, Meuse, Rhine and Scheldt river basin districts located on Dutch territory. In this article and the provisions based thereon, the Dutch territory shall also be understood to include the territorial sea, insofar as it is located on the landward side of the line, every point of which is situated at a distance of one international nautical mile, measured seaward from the low-water line, referred to in Article 1 of the Netherlands Territorial Sea (Boundaries) Act, or the baseline, referred to in Article 2 of that Act.
+2. The mutual boundaries of the Dutch parts of the river basin districts shall be established by or pursuant to an order in council. This shall also provide for the allocation of the bodies of groundwater to the river basin districts.
+3. In the preparation of the order, Our Ministers shall consult the provincial executive of the provinces concerned and the administrators, as well as the competent authorities of the other states in the river basin district.
+
+**Article 1.3**
+1. The primary flood defences and the dike sections are indicated on the maps in Appendix I.
+2. A dike section is bounded on two sides by a line perpendicular to the dike section through a point of which the National Triangulation System coordinates are included in Appendix IA.
+3. The appendix referred to in the first paragraph may be amended by order in council. In the preparation of the order, the provincial executives and administrators who are competent for the primary flood defences in question shall be consulted.
+4. An order in council as referred to in the third paragraph shall not enter into force until three months after the date on which it has been sent to both Houses of the States General.
+
+**Article 1.4**
+This Act also applies in the Dutch exclusive economic zone.
+
+**Chapter 2. Objectives and standards**
+
+**§ 1. Objectives**
+
+**Article 2.1**
+1. The application of this Act is aimed at:
+    a. preventing and, where necessary, limiting floods, water nuisance and water scarcity, in conjunction with
+    b. protecting and improving the chemical and ecological quality of water systems and
+    c. the fulfilment of societal functions by water systems.
+2. The application of this Act is also aimed at objectives other than those mentioned in the first paragraph, insofar as provided for elsewhere in this Act.
+
+**§ 2. Flood defence standards**
+
+**Article 2.2**
+1. In Appendix II to this Act, a alert value is established for each dike section, with the exception of dike section 16-5, mentioned in Appendix I. The alert value is:
+    a. for a dike section, not being a dike section as referred to in subsection b, the probability of flooding per year, the exceeding of which is reported to Our Minister pursuant to Article 2.12, fifth paragraph;
+    b. for dike sections 201, 204a, 204b, 206, 208 up to and including 212, 214 up to and including 219, and 222 up to and including 225, mentioned in Appendix I, the probability of failure per year, the exceeding of which is reported to Our Minister pursuant to Article 2.12, fifth paragraph.
+2. In Appendix III to this Act, a lower limit is established for each dike section. The lower limit is:
+    a. for a dike section as referred to in the first paragraph, second sentence, subsection a, the probability of flooding per year against which the dike section must at least be designed;
+    b. for a dike section, mentioned in the first paragraph, second sentence, subsection b, the probability of failure per year against which the dike section must at least be designed;
+    c. for dike section 16-5, mentioned in Appendix I, if it experiences a hydraulic load due to the flooding of the area protected by a dike section in front of it, the probability of flooding against which the dike section must then at least be designed.
+3. Without prejudice to the second paragraph, Appendix III states:
+    a. for a dike section that may experience an increase in hydraulic load as a result of a measure aimed at increasing the discharge or storage capacity of a water system, the probability of flooding against which the dike section must at least be designed if such an increase occurs;
+    b. for dike sections 208 up to and including 210 and 225, the probability of non-closure that the storm surge barrier must at least meet if it has to be closed.
+
+**Article 2.3**
+1. For the purpose of assessing the safety of a dike section, rules shall be established by ministerial regulation for determining the hydraulic load and strength.
+2. The ministerial regulation referred to in the first paragraph shall be established for a maximum of twelve years at a time. In the preparation of the regulation, the boards of the water boards shall be consulted.
+
+**Article 2.4**
+1. By order in council, after consulting the provincial executive, or by provincial ordinance, a safety standard shall be established for other than primary flood defences managed by the State, or by another administrator, respectively, to be designated therein.
+2. Notwithstanding the first paragraph, the safety standard for flood defences other than primary ones that were designated as primary flood defences pursuant to Article 1.3, first paragraph, as it read on 31 December 2016, shall be established before 1 January 2019. Until that standard is established, the defences in question must provide at least the same level of safety as was the case on 1 January 2017.
+
+**Article 2.5**
+By ministerial regulation, after consulting the provincial executive, or by or pursuant to provincial ordinance, it shall be established for other than primary flood defences managed by the State, or by another administrator, respectively, to be designated therein, for locations to be specified therein, which relationship between water levels and their exceedance probabilities is the starting point for determining their flood-retaining capacity. In that establishment, values of other such factors may also be established.
+
+**Article 2.6**
+Our Minister shall ensure the creation and availability of technical guidelines for the design, management and maintenance of primary flood defences. These guidelines shall serve as recommendations to the administrators.
+
+**Article 2.7**
+1. Landward displacement of the coastline shall be prevented or countered by the State, insofar as Our Minister deems this necessary on account of the standards for dike sections to be maintained pursuant to this Act.
+2. The coastline referred to in the first paragraph shall be indicated on a map made available free of charge by Our Minister, which shall be revised every six years. Notification of its availability shall be made in the Government Gazette.
+
+**§ 3. Standards for water quantity, water quality and function fulfilment**
+
+**Article 2.8**
+A provincial ordinance shall, with a view to the storage and discharge capacity for which regional waters must be designed, set standards with respect to the average annual probability of flooding of areas to be designated therein.
+
+**Article 2.9**
+1. An order in council shall establish the order of priority of societal and ecological needs that is decisive for the distribution of available surface water in the event of water shortages or impending water shortages.
+2. By or pursuant to the order and, in the cases specified in that order, by provincial ordinance, further rules may be laid down with respect to the order of priority referred to in the first paragraph. These rules may also provide for the corresponding application of the order of priority to the available groundwater.
+
+**Article 2.10**
+Standards for the chemical and ecological quality of water systems shall be established pursuant to Chapter 5 of the Environmental Management Act, in accordance with the system of environmental objectives included in Article 4 of the Water Framework Directive.
+
+**Article 2.11**
+By or pursuant to an order in council, standards may be established for national waters and, with a view to international obligations or supra-regional interests, for regional waters, for the functions to be assigned to water systems in accordance with Chapter 4. For regional waters, such standards may also be set by or pursuant to provincial ordinance.
+
+**§ 4. Measuring and assessing**
+
+**Article 2.12**
+1. Every twelve years, the administrator shall report to Our Minister on the general water management condition of the primary flood defence.
+2. Every twelve years, the administrator of the outside waters, being the major rivers, shall report to Our Minister on the extent to which the ledger drawn up for these waters is being complied with, also in light of the rules for determining the hydraulic load and strength, referred to in Article 2.3, first paragraph.
+3. Our Minister shall report to both Houses of the States General on each of the periods mentioned in the first and second paragraphs.
+4. The report referred to in the first paragraph shall contain a safety assessment. This assessment shall be made, inter alia, in light of the standard or standards established for a dike section in Appendices II and III, the rules for determining the hydraulic load and strength established pursuant to Article 2.3, first paragraph, the technical guidelines referred to in Article 2.6, first paragraph, and the ledger. Further rules on the assessment shall be laid down by ministerial regulation. In the preparation of the regulation, the boards of the water boards shall be consulted.
+5. Exceeding a standard laid down in Appendix II shall be reported by the administrator to Our Minister in the report referred to in the first paragraph.
+6. If the safety assessment, referred to in the fourth paragraph, gives cause to do so, the report referred to in the first paragraph shall contain a description of the facilities that are deemed necessary within a specified period.
+7. The next submission of a report as referred to in the third paragraph shall take place before 1 January 2024.
+
+**Article 2.13**
+1. Every twelve years, Our Minister shall send a report to both Houses of the States General on the effectiveness and effects of the standards for dike sections indicated in Appendices II and III.
+2. The next submission of a report as referred to in the first paragraph shall take place before 1 January 2037.
+
+**Article 2.14**
+Without prejudice to Article 2.12, rules may be laid down by or pursuant to an order in council or by or pursuant to a provincial ordinance with regard to the periodic measurement by the administrator of quantities to be specified therein and the assessment, on the basis of the measurement results, of the degree to which the standards referred to in sections 2 and 3 are being achieved, insofar as these are standards established at national or provincial level, respectively.
+
+**Chapter 3. Organisation of water management**
+
+**§ 1. Allocation of management and duties of care**
+
+**Article 3.1**
+1. By or pursuant to an order in council, the water systems that are managed by the State, either in their entirety or with the exception of parts designated therein, shall be designated.
+2. By or pursuant to an order in council, the boundaries shall also be established for the surface water bodies falling under the designation. In doing so, the outer crest line of the primary flood defence, insofar as that primary flood defence is indicated on the maps belonging to this Act as Appendix I, or, where this is absent, the line of the high-water-retaining grounds to be determined therein, shall be used as a guideline for the demarcation of the surface water bodies of the rivers.
+3. By or pursuant to an order in council, land within a surface water body may be designated as drier bank areas as referred to in the definition of surface water body in Article 1.1.
+4. The order referred to in the first paragraph shall be proposed after the provincial executives of all provinces and all water board executives have been consulted on its content.
+5. The proposal for an order in council containing an amendment to the designation referred to in the first paragraph may only be made if agreement has been reached by Our Minister with the other administrator concerned and the provincial executive on a transfer or takeover of management contained therein.
+6. By ministerial regulation, public bodies not belonging to the State may be designated which are wholly or partly charged with the management of national waters designated therein. The designation shall be made in agreement with the relevant administrative body.
+
+**Article 3.2**
+1. By provincial ordinance, public bodies shall be designated for the regional waters which are wholly or partly charged with the management, with due observance of Article 2, second paragraph, of the Water Boards Act.
+2. Insofar as bodies other than water boards are charged with management by provincial ordinance, Articles 4.6, 5.1, 7.2, 8.1 and 8.3 of this Act shall not apply to the administrators concerned and, in the case of provinces and municipalities, neither shall Article 5.29, except insofar as that article is declared applicable by or pursuant to that ordinance to water management works to be designated therein, in connection with the special significance of those water management works.
+3. Article 3.1, third paragraph, shall apply mutatis mutandis.
+
+**Article 3.2a**
+The water board shall take the best possible care to prevent damage to water management works caused by coypu and muskrat.
+
+**Article 3.3**
+1. In the interest of taking timely measures in the event of high water that may pose a danger to a primary flood defence intended for the direct containment of outside waters, Our Minister shall ensure that:
+    a. information is available on the expected deviations from the high water levels published for that purpose by Our Minister;
+    b. warnings and further information are provided to the administrators of primary flood defences and the provincial executives concerned, as soon as it is expected that in the event of a high storm surge, high river discharge from one of the major rivers, high water levels in the IJsselmeer or the Markermeer or, as a result of a combination thereof, the high water level will exceed the alert level.
+2. Alert levels as referred to in the first paragraph, subsection b, shall be established by Our Minister for six years at a time by a decision to be published in the Government Gazette.
+
+**Article 3.4**
+1. The treatment of urban wastewater introduced into a public foul water sewer shall take place in an installation intended for that purpose under the responsibility of a water board. Such an installation may be operated by the water board itself or by a legal person charged with that treatment by the board of the water board.
+2. Notwithstanding the first paragraph, the board of the water board concerned and the council of a municipality concerned may, on the proposal of either party, decide that the treatment of urban wastewater designated therein in that municipality shall, from a time to be determined therein, take place in an installation intended for that purpose under the responsibility of that municipality. A decision as referred to in the previous sentence may only be taken on the grounds that this is demonstrably more efficient for the treatment of urban wastewater.
+3. The board of the water board and the council of the municipality concerned shall decide on a proposal as referred to in the second paragraph within one year of the day on which it was received by the council of the municipality concerned or by the board of the water board. In the absence of agreement within that period, the provincial executive shall decide, after having heard both parties.
+
+**Article 3.5**
+1. The municipal council and the municipal executive shall ensure the efficient collection of run-off rainwater, insofar as the person who disposes of it, intends to dispose of it or must dispose of it cannot reasonably be required to introduce the run-off rainwater onto or into the soil or into the surface water.
+2. The municipal council and the municipal executive shall also ensure the efficient processing of the collected rainwater. The processing of rainwater may in any case include the following measures: the storage, transport, beneficial use, return, whether or not after treatment, to or into the soil or surface water of collected rainwater, and the discharge to a wastewater treatment plant.
+
+**Article 3.6**
+1. The municipal council and the municipal executive shall ensure that measures are taken in the public municipal area to prevent or limit, as far as possible, structurally adverse effects of the groundwater level on the designated use of the land, insofar as taking such measures is efficient and is not the responsibility of the administrator or the province.
+2. The measures referred to in the first paragraph shall also include the processing of the collected groundwater, which shall in any case include the storage, transport, beneficial use and, whether or not after treatment, the introduction of collected groundwater onto or into the soil or surface water, and the discharge to a wastewater treatment plant.
+
+**§ 1a. The Delta Commissioner**
+
+**Article 3.6a**
+1. There shall be a Government Commissioner for the delta programme, reporting directly to Our Minister. He shall bear the title "Delta Commissioner".
+2. The Delta Commissioner shall be appointed by Royal Decree, in accordance with the opinion of the Council of Ministers.
+3. The Delta Commissioner shall be appointed for a period of no more than seven years and may be reappointed once for a period of no more than seven years. The appointment shall end by operation of law as of the date that the exercise of the function of Delta Commissioner is no longer part of the duties of the official concerned.
+
+**Article 3.6b**
+The Delta Commissioner shall promote the establishment and implementation of the delta programme. To this end:
+-   he shall annually make a proposal for the delta programme and submit it to Our Ministers;
+-   he shall promote consultation with the administrative bodies, companies and civil society organisations concerned;
+-   he shall monitor the progress of the implementation of the delta programme and report and advise thereon to Our Ministers.
+
+**Article 3.6c**
+For the purpose of the establishment and implementation of the delta programme, the Delta Commissioner shall, upon request, obtain from Our Ministers the data that must be provided to them by or pursuant to the law.
+
+**Article 3.6d**
+1. In implementation of Article 3.6b, the Delta Commissioner shall consult regularly with the concerned administrative bodies of provinces, water boards and municipalities.
+2. Other concerned administrative bodies may also participate in the consultation by invitation.
+3. The consultation shall in any case discuss the progress of the implementation of the delta programme and proposals for measures and provisions within the framework of the delta programme.
+
+**Article 3.6e**
+The Delta Commissioner shall not be active in another public-administrative or official function or in the private sector in the field of water management, nature, environment or spatial quality.
+
+**§ 2. Inter-administrative cooperation**
+
+**Article 3.7**
+1. Administrators of water systems located within the same river basin district shall, insofar as necessary with a view to coherent and efficient water management, conclude water agreements in which they regulate the aspects of management that transcend their management area in relation to each other.
+2. Administrators may invite another public authority to participate in the water agreement if that authority fulfils a water management task that is not fulfilled by them.
+3. Further rules with respect to water agreements may be laid down by or pursuant to an order in council or, with respect to water agreements relating exclusively to regional waters, a provincial ordinance.
+
+**Article 3.8**
+Water boards and municipalities shall ensure the necessary coordination of tasks and powers with a view to efficient and coherent water management, including the independent management of the intake, collection and treatment of wastewater.
+
+**§ 3. Supervision by higher authority**
+
+**Article 3.9**
+Our Minister shall exercise supervision over the primary flood defences.
+
+**Article 3.10**
+1. By or pursuant to a provincial ordinance, rules may be laid down regarding the information to be provided by boards of water boards with a view to coherent and efficient regional water management.
+2. If international obligations or supra-regional interests so require, rules may be laid down by or pursuant to an order in council regarding the information to be provided by the boards of provinces, water boards or municipalities with respect to water management.
+
+**Article 3.11**
+1. By or pursuant to a provincial ordinance, rules may be laid down with a view to coherent and efficient regional water management with respect to the preparation, adoption, amendment and content of plans, decisions or water agreements as referred to in Article 3.7, first paragraph, to be adopted by boards of water boards.
+2. If international obligations or supra-regional interests so require, rules may be laid down by or pursuant to an order in council with respect to the preparation, adoption, amendment and content of plans, decisions or water agreements as referred to in Article 3.7, first paragraph, to be adopted by the boards of provinces or water boards within the framework of water management.
+
+**Article 3.12**
+1. The provincial executive may, if coherent and efficient regional water management so requires, give an instruction to the board of a water board concerning the exercise of powers or the performance of tasks. If it concerns a water board whose territory is located in two or more provinces, the instruction shall be given by the provincial executive of the province or provinces to which the supervision of the water board has been assigned.
+2. The instruction shall specify a period within which the instruction is to be implemented.
+3. An instruction shall not be given until after the board of the water board has been given the opportunity to make known its opinion on the intention to give the instruction, unless urgent circumstances prevent this.
+4. If the board of a water board fails to comply with the instruction, fails to do so in time or fails to do so properly, the provincial executive is authorised to act on behalf of that board and at the expense of that water board. If the provincial executive makes use of this power, it shall report this to Our Minister without delay.
+
+**Article 3.13**
+1. Our Minister may, if international obligations or supra-regional interests so require, give an instruction to the provincial executive or the board of a water board concerning the exercise of powers or the performance of tasks within the framework of water management. Article 3.12, second paragraph, shall apply mutatis mutandis.
+2. An instruction shall not be given until after the administrative body concerned and, if the instruction is addressed to the board of a water board, the provincial executive of the province or provinces to which the supervision of that water board has been assigned, have been given the opportunity to make known their opinion on the intention to give the instruction, unless urgent circumstances prevent this.
+3. If the board of a water board fails to take a decision required pursuant to the first paragraph or does not take it properly, or fails to perform an action required pursuant to the first paragraph or does not perform it properly, or otherwise fails to achieve a result required pursuant to the first paragraph, fails to achieve it in time or fails to achieve it properly, Our Minister shall decide to provide for this at the expense of the water board. Articles 121, second and fourth paragraphs, and 121a up to and including 121e of the Provinces Act shall apply mutatis mutandis.
+
+**Article 3.14**
+1. Our Minister shall ensure a balanced mutual distribution of the costs of flood protection for water boards.
+2. Our Minister shall inform both Houses of the States General of any proposed change in the distribution of the costs referred to in the first paragraph.
+
+**Chapter 4. Plans**
+
+**§ 1. The national water plan**
+
+**Article 4.1**
+1. Our Ministers shall lay down in a national water plan the main features of national water policy and the related aspects of national spatial policy. For the spatial aspects, the plan is also a structure vision as referred to in Article 2.3, second paragraph, of the Spatial Planning Act.
+2. The main features shall in any case include:
+    a. an indication, in the light of the statutory objectives and standards, of the desired development, functioning and protection of the water systems, as well as the associated timeframes;
+    b. a description of the measures and provisions that are necessary for that development, functioning and protection;
+    c. an indication of the reasonably foreseeable financial and economic consequences of the policy to be pursued;
+    d. a vision of the desired developments in connection with the prevention and, where necessary, limitation of floods and water scarcity, for a period of at least forty years, also in connection with expected climate changes.
+3. The plan shall also include:
+    a. the river basin management plans for the Rhine, Meuse, Scheldt and Ems river basin districts, insofar as they relate or also relate to Dutch territory;
+    b. the North Sea policy;
+    c. the functions of the national waters.
+
+**Article 4.2**
+Our Ministers shall send the adopted national water plan to the States General.
+
+**Article 4.3**
+1. By or pursuant to an order in council, rules shall be laid down concerning the preparation, structure and content of the national water plan, including the river basin management plans for the Rhine, Meuse, Scheldt and Ems river basin districts, insofar as they relate or also relate to Dutch territory. These rules shall in any case provide for:
+    a. the manner in which the draft plan is prepared in joint consultation with representatives from the boards of all provinces, water boards and municipalities;
+    b. consultation of the competent authorities of the other states in the Rhine, Meuse, Scheldt and Ems river basin districts;
+    c. with respect to the North Sea policy: consultation of the competent authorities of other states concerned; and
+    d. public participation by residents and interested parties.
+2. Our Ministers shall bring the opinions received on the draft for an international river basin management plan, insofar as those opinions do not relate exclusively to the Dutch part of that plan, to the attention of the competent authorities of the states concerned.
+
+**§ 2. Regional water plans**
+
+**Article 4.4**
+1. The provincial council shall lay down in one or more regional water plans the main features of the water policy to be pursued in the province and the related aspects of provincial spatial policy. For the spatial aspects, these plans are also structure visions as referred to in Article 2.2, second paragraph, of the Spatial Planning Act.
+2. The main features shall in any case include:
+    a. the establishment of the functions of the regional waters;
+    b. an indication, in the light of the statutory objectives and standards and in conjunction with the functions referred to under a, of the desired development, functioning and protection of the regional waters, as well as the associated timeframes;
+    c. a description of the measures and provisions that are necessary for the development, functioning and protection referred to under b;
+    d. an indication of the reasonably foreseeable financial and economic consequences of the policy to be pursued.
+3. The provincial council, in cooperation with the councils of adjacent provinces, shall ensure that the regional water plans together cover the entire territory of all provinces.
+
+**Article 4.5**
+1. The provincial council shall, by ordinance, lay down rules with respect to the preparation, form and structure of the regional water plan. They shall in any case lay down rules with respect to:
+    a. the manner in which the draft plan is prepared in joint consultation with the administrators of the water systems in the province, as well as the municipal authorities;
+    b. the consultation of Our Minister, the provincial executives of the adjacent provinces and, with respect to boundary-forming or transboundary water systems, the German or Belgian authorities competent with respect to those water systems;
+    c. public participation by interested parties and residents of the province.
+2. An adopted regional water plan shall be sent to Our Minister.
+
+**§ 3. Management plans**
+
+**Article 4.6**
+1. An administrator shall adopt a management plan with respect to the water systems under its management. In doing so, for regional waters, account shall be taken of the regional water plan that relates to those regional waters, and coordination with management plans of other administrators, if there is or could be a connection between the respective water systems, must be guaranteed.
+2. The plan shall contain:
+    a. the programme of measures and provisions which, in addition to and in elaboration of what is included in the national or regional plan on measures, are necessary with a view to the development, functioning and protection of national waters or regional waters, respectively, stating the associated timeframes;
+    b. additional allocation of functions to national waters or regional waters, insofar as the national or regional plan, respectively, provides for the possibility of doing so;
+    c. the intentions for the manner in which the management will be conducted;
+    d. an overview of the financial resources that are necessary for the implementation of the programme and the management to be conducted.
+
+**Article 4.7**
+1. Rules shall be laid down by or pursuant to an order in council or provincial ordinance concerning the preparation, as well as the form and structure of management plans for national waters or regional waters, respectively. These rules shall in any case relate to:
+    a. the consultation of the administrators referred to in Article 4.6, first paragraph, as well as the provincial executives of the provinces and the boards of the security regions within which the water systems or parts thereof are located, as well as the Belgian, German or British authorities competent with respect to boundary-forming or transboundary waters;
+    b. public participation by interested parties and residents of the management area.
+2. The order or ordinance referred to in the first paragraph shall provide for the sending or notification of an adopted management plan to the bodies consulted pursuant to the first paragraph as well as to Our Minister.
+
+**§ 4. Periodic revision of plans**
+
+**Article 4.8**
+1. The plans referred to in this chapter shall be revised once every six years. Furthermore, interim revision of the plans is possible.
+2. Rules may be laid down by order in council with respect to the period within which the revision of a plan must be operational.
+
+**Chapter 4a. Delta Programme**
+
+**Article 4.9**
+1. There shall be a delta programme.
+2. The delta programme shall contain, in connection with the challenges in the field of flood risk management and freshwater supply:
+    a. measures and provisions of national importance for the prevention and, where necessary, limitation of floods and water scarcity;
+    b. measures and provisions for the protection or improvement of the chemical or ecological quality of water systems, insofar as these form part of the challenges.
+3. The delta programme may also contain ambitions in other policy areas, provided that these are not at the expense of the challenges referred to in the second paragraph.
+4. The delta programme may also include studies for the benefit of the measures and provisions referred to in the second and third paragraphs.
+5. In the delta programme, it shall be indicated annually for the next six years, in as much detail as is reasonably possible, which measures and provisions will be implemented in that period and which resources will be made available for:
+    a. challenges as referred to in the second paragraph, subsection a and subsection b respectively, distinguishing between management and maintenance on the one hand and construction on the other;
+    b. ambitions as referred to in the third paragraph, indicating how these ambitions will be financed;
+    c. studies as referred to in the fourth paragraph.
+    It shall also indicate indicatively which measures or types of measures are foreseen in the subsequent twelve years and which resources will probably be available for them under unchanged policy.
+6. The delta programme shall make visible how it contributes to achieving the objectives of the national water plan in the field of flood risk management and freshwater supply.
+7. The delta programme shall indicate how the proposal and the recommendations referred to in Article 3.6b have been taken into account.
+
+**Article 4.10**
+1. Our Minister shall annually offer the delta programme to the States General, simultaneously with the budget of the delta fund for the new year.
+2. Our Minister shall inform the States General in writing of the conclusions he draws from the deliberations in the States General on the delta programme for the implementation of that programme.
+3. Conclusions as referred to in the second paragraph shall be considered part of the delta programme.
+
+**Chapter 5. Construction and management of water management works**
+
+**§ 1. General provisions**
+
+**Article 5.1**
+1. The administrator shall ensure the establishment of a ledger, in which is described what water management works must comply with in terms of location, shape, dimensions and construction. The ledger shall include an overview map, on which the location of water management works and adjacent protection zones is indicated.
+2. The ledger shall be accompanied by a technical management register with respect to primary flood defences or flood defences to which Article 2.4 has been applied, in which the characteristic data of the construction and the actual condition for the preservation of the flood-retaining capacity are further described.
+3. Further regulations may be given by or pursuant to a provincial ordinance or, with respect to water management works managed by the State, an order in council, regarding the content, form and periodic revision of the ledger for categories of water management works to be distinguished therein. Furthermore, an exemption may be granted from the obligations referred to in the first paragraph with respect to certain water management works which, by their nature or function, are not suitable for the description of those elements or are of small dimensions.
+
+**Article 5.2**
+1. An administrator is obliged to adopt one or more water level decisions for surface water or groundwater bodies under its management to be designated for that purpose.
+2. A water level decision shall establish water levels or ranges within which water levels may vary, which shall be maintained as much as possible during specified periods.
+3. The designation shall take place by or pursuant to an order in council or by or pursuant to a provincial ordinance insofar as it concerns national waters or regional waters, respectively. The order or the ordinance may lay down further rules with respect to the water level decision for national waters or regional waters, respectively.
+
+**Article 5.3**
+The administrator shall, with due observance of the rules laid down by or pursuant to Chapter 2, take the necessary measures with respect to the water management works under its management for the safe and efficient use thereof, in accordance with the functions assigned to those water management works pursuant to Chapter 4.
+
+**Article 5.4**
+1. The construction or alteration of a water management work by or on behalf of the administrator shall take place in accordance with a project plan to be adopted by it for that purpose. The execution of a work to influence a body of groundwater shall be equated with the construction or alteration of a water management work.
+2. The plan shall contain at least a description of the work concerned and the manner in which it will be carried out, as well as a description of the provisions to be made, aimed at undoing or limiting the adverse consequences of the execution of the work. For cases to be determined by order in council, the plan shall contain an inventory of societal functions and ambitions and possible innovations with which the construction or alteration of a water management work could be combined, including the possibilities of realising the work in question by means of a works concession or other form of public-private partnership.
+3. By or pursuant to the order in council referred to in the second paragraph, rules may be laid down on the manner in which the inventory is carried out and private parties are involved in it.
+4. The proposal for an order in council to be adopted pursuant to the second paragraph shall not be made until four weeks after the draft has been submitted to both Houses of the States General.
+5. If the plan concerns the relocation of a primary flood defence, it may also contain provisions with respect to the integration into the surroundings of the area between the place where the original primary flood defence is located and the place where the new primary flood defence will be located.
+6. The first paragraph shall not apply if the Route Act or the Emergency Road Widening Act applies to a work referred to in that paragraph, or if Section 3.5 of the Spatial Planning Act is applied to that work.
+
+**§ 2. Project procedure for water management works**
+
+**Article 5.5**
+This section applies to project plans for the construction, relocation or reinforcement of primary flood defences and, in the cases specified by or pursuant to provincial ordinance, to project plans of boards of water boards for the construction or alteration of flood defences other than primary flood defences and to other water management works of supra-local significance that must be realised urgently and in a coordinated manner.
+
+**Article 5.6**
+1. Section 3.4 of the General Administrative Law Act shall apply to the preparation of the project plan.
+2. The making available for inspection, referred to in Article 3:11 of the General Administrative Law Act, shall also take place at the offices of the administrative bodies concerned. Opinions may be submitted by anyone.
+3. The administrator shall adopt a project plan for the construction, relocation or reinforcement of a primary flood defence within twelve weeks after the period for submitting opinions has expired. After adoption, it shall immediately send the plan to the provincial executive.
+
+**Article 5.7**
+1. The project plan requires the approval of the provincial executive of the province in whose territory it is to be implemented. Approval may only be withheld on grounds of conflict with the law or the public interest.
+2. If it concerns a water management work that is located in more than one province, the provincial executives of the provinces concerned may, by corresponding decisions, determine that the provincial executive of the province in which the water management work is mainly located is charged with the approval of the project plan.
+3. Notwithstanding Article 10:31, second and third paragraphs, of the General Administrative Law Act, the taking of a decision on the approval of a project plan for the construction, relocation or reinforcement of a primary flood defence cannot be postponed.
+
+**Article 5.8**
+1. The provincial executive shall promote a coordinated preparation of the decisions necessary for the implementation of the project plan.
+2. The provincial executive may demand from other administrative bodies concerned the cooperation that is necessary for the success of the coordination. Those administrative bodies shall provide the cooperation demanded of them.
+3. If it concerns a water management work that is located in more than one province, the provincial executives of the provinces concerned may, by corresponding decisions, determine that the provincial executive of one of those provinces shall promote the coordination of the preparation of the decisions referred to in the first paragraph.
+4. With respect to applications for taking decisions as referred to in the first paragraph, the administrator is also authorised to submit these to the competent administrative bodies.
+
+**Article 5.9**
+Section 3.4 of the General Administrative Law Act applies to the preparation of the decisions referred to in Article 5.8, first paragraph, on the understanding that:
+a. the draft decisions shall be sent to the provincial executive within a period to be determined by the provincial executive, which shall ensure the sending referred to in Article 3:13, first paragraph, of that Act;
+b. the provincial executive may jointly apply Articles 3:11, first paragraph, and 3:12 of that Act to the draft decisions;
+c. opinions may be submitted by anyone;
+d. notwithstanding Article 3:18 of that Act, the decisions shall be taken within a period to be determined by the provincial executive;
+e. the decisions shall be sent to the provincial executive without delay;
+f. the provincial executive shall decide on the application of Article 3:18, second paragraph, of that Act.
+
+**Article 5.10**
+Insofar as a zoning plan requires an environmental permit for a construction activity as referred to in Article 2.1, first paragraph, under b, of the Environmental Law (General Provisions) Act for the execution of works and activities, such a requirement does not apply in the area included in an adopted project plan.
+
+**Article 5.11**
+1. If an administrative body, not being an administrative body of the State, which is competent in the first instance to decide on an application for a decision necessary for the implementation of the project plan, does not send a draft decision on the application to the provincial executive, or does not do so in time, or does not decide, or does not decide in time or not in accordance with the project plan, or takes a decision which in the opinion of the provincial executive requires amendment, the provincial executive may take a decision on the application. In the latter case, its decision shall replace the decision of the administrative body competent in the first instance. If the provincial executive intends to take a decision on the application itself, it shall consult with the administrative body competent in the first instance.
+2. The first paragraph shall apply mutatis mutandis to decisions to be taken ex officio for the implementation of the project plan and to decisions other than those for the implementation of the project plan, which are aimed at the realisation of the provisions included in the project plan.
+3. If, in the application of the first paragraph, the decision on an application for a decision referred to in that paragraph is taken by the provincial executive, the administrative body that was competent in the first instance to decide on the application shall transfer the fees received in that respect to the provincial executive.
+
+**Article 5.12**
+The decisions referred to in Article 5.8, first paragraph, insofar as they have been prepared in a coordinated manner, shall be published simultaneously by the provincial executive.
+
+**Article 5.13**
+1. No appeal may be lodged with the administrative court against a decision as referred to in Article 5.7, first paragraph, by an interested party who can reasonably be blamed for not having submitted opinions as referred to in Article 3:15 of the General Administrative Law Act against the draft project plan to which the approval relates.
+2. Notwithstanding Article 6:8 of the General Administrative Law Act, the period for lodging an appeal against the decisions referred to in Article 5.8, first paragraph, shall commence on the day after that on which the publication referred to in Article 5.12 took place.
+
+**Article 5.14**
+1. Expropriation pursuant to Title II or IIa of the Expropriation Act may also take place for the implementation of the provisions included in a project plan, as referred to in Article 5.4, second or fifth paragraph.
+2. The summons referred to in Article 18, first paragraph, of the Expropriation Act may be issued after the project plan has been approved by the provincial executive. The court shall not pronounce the expropriation until the project plan has become final and unappealable.
+
+**§ 3. Special provisions with respect to contamination of the bed and bank of surface water bodies**
+
+**Article 5.15**
+1. If, as a result of an unusual incident, the bed or bank of a surface water body is or is threatened to be contaminated or affected in such a way that the quality of that bed or bank forms an obstacle to achieving the desired area quality, the administrator shall immediately take the measures it deems necessary to remove the cause of the contamination or effect and to limit and, as far as possible, undo the contamination or effect and its direct consequences.
+2. Articles 30, second to fourth paragraphs, and 74 of the Soil Protection Act shall apply mutatis mutandis, on the understanding that for "provincial executive" shall be read: the administrator.
+
+**Article 5.16**
+1. The administrator may order persons with rights to land in which there is contamination that may form an obstacle to achieving the desired area quality and which is located in or forms part of the bed or bank of a surface water body, to carry out an investigation into that contamination in a manner to be specified by it.
+2. The administrator may order the person whose actions have caused contamination of the bed or bank of a surface water body to carry out an investigation into that contamination in a manner to be specified by it.
+3. The administrator may order persons with rights to land in which there is contamination that forms an obstacle to achieving the desired area quality and which is located in or forms part of the bed or bank of a surface water body, to take temporary protective measures in a manner to be specified by it.
+4. The orders referred to in the first and third paragraphs shall only be given to persons with rights to land which they use or have used in the course of a business.
+
+**Article 5.17**
+1. If the administrator takes measures or provisions as referred to in Article 4.6, second paragraph, under a, in connection with contamination or degradation of the bed or bank of a surface water body that constitutes an obstacle to achieving the desired area quality, and this contamination or degradation is not limited to that bed or bank, these measures or provisions shall also relate to the soil that does not belong to the bed or bank of the surface water body, insofar as:
+    a. the source of the contamination or degradation is located in the bed or bank of the surface water body, and
+    b. the contamination or degradation of the soil that does not belong to the bed or bank of a surface water body leads to serious risks.
+2. In a case as referred to in the first paragraph, the administrator shall, before taking the measures or provisions, consult with the competent administrative body pursuant to the Soil Protection Act.
+3. Section 3 of Chapter IV of the Soil Protection Act shall not apply to measures or provisions as referred to in the first paragraph that the administrator takes in the soil that does not belong to the bed or bank of a surface water body.
+
+**Article 5.18**
+If contamination or degradation of the bed or bank of a surface water body as referred to in Article 6.8 is not limited to that bed or bank, the administrator shall, before making use of its powers, consult with the competent administrative body pursuant to the Soil Protection Act.
+
+**Article 5.19**
+By or pursuant to an order in council, it may be determined in which cases the quality of the bed or bank of a surface water body constitutes an obstacle to realising the desired area quality. By or pursuant to that order, it may be determined in which cases an intervention in the bed or bank of a surface water body is required without further ado.
+
+**§ 4. Duties to tolerate and special powers**
+
+**Article 5.20**
+1. The persons charged with the inspection of water systems or parts thereof, working under the responsibility of the administrator, are authorised to enter any place, with the exception of dwellings without the consent of the occupant, taking with them the necessary equipment.
+2. Our Minister or the board of a water board is authorised to grant an authorisation as referred to in Article 3, second paragraph, of the General Act on Entry into Dwellings, for entry into a dwelling without the consent of the occupant by one or more persons designated for that purpose by a decision of Our Minister or that board, insofar as that dwelling is part of a water management work or is directly connected to it.
+3. Articles 5:13, 5:15, second and third paragraphs, 5:16 and 5:20, first and second paragraphs, of the General Administrative Law Act shall apply mutatis mutandis.
+4. Our Minister or the board of a water board is authorised to apply mutatis mutandis Article 5:20, third paragraph, of the General Administrative Law Act to the persons referred to in the first paragraph.
+
+**Article 5.21**
+1. The administrator or, where appropriate, the provincial executive may, insofar as is reasonably necessary for the fulfilment of their tasks, impose on persons with rights to land the obligation to tolerate investigations and related work on or in that land.
+2. Except in urgent cases, the decision imposing the duty to tolerate shall be made known to the persons with rights at least two weeks before the start of the investigation.
+
+**Article 5.22**
+1. A person who, in order to obtain data required for the application for or amendment of a water permit or to comply with another obligation incumbent on him under this Act, or an ordinance of a water board or province in the context of water management, must carry out an investigation on or in land with respect to which he lacks the necessary authority, may, if the persons with rights to that land do not give permission, request the administrator or the competent authority under Chapter 6 to impose on the persons with rights a duty to tolerate in accordance with Article 5.21.
+2. The administrator or the competent authority, respectively, shall, when imposing the duty to tolerate, set such conditions that the compensation for damage to the persons with rights is sufficiently assured.
+
+**Article 5.23**
+1. Persons with rights to immovable property are obliged to tolerate maintenance and repair work on water management works, insofar as that work is carried out by or under the supervision of the administrator.
+2. Persons with rights to land situated on or in a surface water body, the maintenance of which is carried out by or under the supervision of an administrator, are obliged to receive on that land dredged material and cuttings which are removed for the regular maintenance of that surface water body.
+3. The administrator shall inform the persons with rights in writing of the intended work at least forty-eight hours in advance.
+
+**Article 5.24**
+1. The administrator may, insofar as reasonably necessary for the performance of its tasks, impose an obligation on persons with rights to immovable property to tolerate the construction or alteration of a water management work and related activities, if, in its opinion, the interests of those persons with rights do not require expropriation.
+2. Article 5.21, second paragraph, shall apply.
+
+**Article 5.25**
+1. Persons with rights to immovable property are obliged to tolerate the installation and maintenance of measuring devices, signals, marks or other signs on or attached to that property by or on behalf of the administrator, if, in the opinion of the administrator, this is necessary in connection with the fulfilment of the function of a water management work.
+2. The first paragraph shall apply mutatis mutandis to traffic signs installed and maintained by or on behalf of the competent authority under the Shipping Traffic Act.
+
+**Article 5.26**
+Persons with rights to immovable property located in or forming part of a surface water body or storage area are obliged to tolerate water nuisance and flooding as a result of the discharge or temporary storage of surface water.
+
+**Article 5.27**
+Persons with rights to land in which the groundwater is affected by the abstraction of groundwater or the infiltration of water pursuant to a water permit are, without prejudice to Article 7.18, obliged to tolerate that abstraction or infiltration.
+
+**§ 5. Danger to water management works**
+
+**Article 5.28**
+1. In this section, danger means circumstances whereby the good condition of one or more water management works is or is threatened to be immediately and seriously compromised.
+2. Article 5.29, first paragraph, second sentence, shall not apply to danger emanating from a wreck within the meaning of the Maritime Accidents (Response) Act that is located in the North Sea or is caused by incidents or circumstances as referred to in Article 16 or 18 of that Act.
+
+**Article 5.29**
+1. The administrator shall ensure that exercises are held in effective action in the event of danger. It shall also draw up a contingency plan for the water management works under its management, which complies with rules to be laid down by or pursuant to an order in council.
+2. The contingency plan shall ensure coordination with crisis plans and disaster response plans relevant to water management, established for the area in which the water management works are located.
+3. The draft of a contingency plan shall in any case be sent for comment to the boards of the security regions within which the water management works are located.
+
+**Article 5.30**
+1. In the event of danger, the administrator is authorised, for as long as the situation created thereby makes it necessary, to take the measures it deems necessary, if necessary in derogation of statutory provisions, on the understanding that it shall not take measures that are contrary to the Constitution or to obligations under international law.
+2. If the board of a water board has made use of the power referred to in the first paragraph, it shall report this to the provincial executive without delay.
+3. If the board of a water board has made use of the power referred to in the first paragraph in connection with danger to a primary flood defence, it shall, notwithstanding the second paragraph, report this to Our Minister without delay.
+4. As soon as the factual circumstances on the basis of which the first paragraph was applied permit, the administrator shall restore the water management work as far as possible to the state prescribed in the ledger.
+5. The administrator shall ensure an evaluation of the actions and further conduct when applying the first and fourth paragraphs. It shall in any case send a copy of this evaluation for information to the provincial executive, as well as to the boards of the security regions within which the water management works are located.
+6. If the evaluation relates to its actions and further conduct in connection with danger to a primary flood defence, the administrator shall, notwithstanding the fifth paragraph, in any case send a copy of the evaluation for information to Our Minister, as well as to the boards of the security regions within which the primary flood defence is located.
+
+**Article 5.31**
+1. The provincial executive may, if in its opinion the board of a water board fails to act or acts insufficiently in the event of danger, apply Article 3.12 mutatis mutandis.
+2. If the circumstances do not permit a prior meeting of the provincial executive, Our Commissioner in the province is authorised to exercise the power referred to in the first paragraph, as long as the danger persists and until the provincial executive makes use of that power.
+3. Our Minister may, if in his opinion the provincial executive or Our Commissioner in the province wrongfully fails to make use or makes insufficient use of the power referred to in the first or second paragraph, apply Article 3.13 mutatis mutandis.
+4. Notwithstanding the first paragraph, Our Minister may, if in his opinion the board of a water board fails to act or acts insufficiently in the event of danger to a primary flood defence, apply Article 3.13 mutatis mutandis.
+
+**Article 5.32**
+1. In the public bodies of Bonaire, Sint Eustatius and Saba, in the event of a flood disaster, Our Minister is authorised, for as long as the situation created thereby makes it necessary, to take the measures he deems necessary, if necessary in derogation of statutory provisions, on the understanding that he shall not take measures that are contrary to the Constitution or to obligations under international law.
+2. A flood disaster also includes an imminent or threatening danger of flooding.
+3. Our Minister shall ensure that exercises are held in effective action in the event of a flood disaster.
+4. Our Minister shall ensure an evaluation of the actions and further conduct when applying the first paragraph.
+
+**Chapter 6. Activities in water systems**
+
+**§ 1. Water permit and general rules**
+
+**Article 6.1**
+In this chapter and the provisions based thereon, unless otherwise specified, the following definitions shall apply:
+*   **discharging:** introducing substances into a surface water body or introducing water or substances into a wastewater treatment plant;
+*   **revision permit:** a permit granted pursuant to Article 6.18, first paragraph, or 6.19, first paragraph;
+*   **substances:** waste materials, polluting or harmful substances;
+*   **dumping of substances:** disposing of substances or of vessels, aircraft or works erected on the seabed in or at sea, in a manner as referred to in Article 6.3, first paragraph, subsection a, in conjunction with Article 6.12, subsection b, or as referred to in Article 6.3, first paragraph, subsection b, or third paragraph.
+
+**Article 6.2**
+1. It is prohibited to introduce substances into a surface water body, unless:
+    a. a permit to that effect has been granted by Our Minister or, with respect to regional waters, the board of the water board concerned;
+    b. an exemption has been granted for this by or pursuant to an order in council;
+    c. Article 6.3, first to third paragraphs, applies.
+2. It is prohibited to introduce water or substances into a wastewater treatment plant by means of works, not being a public foul water sewer, unless:
+    a. a permit to that effect has been granted by the board of the water board referred to in Article 3.4;
+    b. an exemption has been granted for this by or pursuant to an order in council.
+3. For the application of the first paragraph, the land within a surface water body that has been designated as drier bank areas pursuant to Article 3.1 or 3.2 shall not be counted as part of that surface water body.
+4. The first paragraph shall not apply to discharges resulting from the use of fertilisers on agricultural land in floodplains and areas outside the dikes in the context of normal agricultural practice, insofar as rules have been laid down in this respect by or pursuant to the Fertilisers Act.
+
+**Article 6.3**
+1. Without a permit to that effect from Our Minister, it is prohibited:
+    a. to dispose of substances by introducing them into the sea from or via a vessel or an aircraft or by incinerating them at sea;
+    b. to dispose of vessels, aircraft or works erected on the seabed in the sea;
+    c. to take substances on board a vessel or aircraft with the intention of disposing of them in a manner as referred to in subsection a or of introducing those substances into the sea for the purpose of an activity as referred to in subsection d, or to deliver or store substances with that intention;
+    d. to introduce substances into the sea from or via a vessel, aircraft or works erected on the seabed for the purpose of an activity involving deliberate intervention in the marine environment to influence natural processes and which is designated as such in Annex 4 to the Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter of 1972, concluded in London on 7 November 1996 (Trb. 1998, 134).
+2. The first paragraph shall also apply to acts that take place on vessels and aircraft registered in the Netherlands that are located outside the Netherlands and the Dutch exclusive economic zone.
+3. The first paragraph, subsection a, shall apply mutatis mutandis to the disposal of substances by introducing them into the sea from or via works erected on the seabed or by incinerating them at sea, unless those acts are related to or result from the normal use of those works, provided that such use is not for the purpose of disposing of substances.
+4. The first paragraph, subsections a to c, and the second and third paragraphs shall not apply to:
+    a. the placement of solid substances or objects for a purpose other than simply disposing of them;
+    b. the abandonment of solid substances or objects that were initially placed in the sea for a purpose other than disposing of them.
+
+**Article 6.4**
+1. It is prohibited to abstract groundwater or infiltrate water without a permit to that effect from the provincial executive:
+    a. for industrial applications, if the quantity of water to be abstracted exceeds 150,000 m³ per year;
+    b. for the public drinking water supply or a ground energy system.
+2. A provincial ordinance may provide that the first paragraph does not apply to abstractions where the quantity to be abstracted does not exceed 10 m³ per hour.
+
+**Article 6.5**
+By or pursuant to an order in council, it may be determined for national waters and, with a view to international obligations or supra-regional interests, for regional waters that it is prohibited without a permit to that effect from Our Minister or the board of the water board, respectively:
+a. to introduce water into or abstract it from a surface water body;
+b. to abstract groundwater or infiltrate water in cases other than as referred to in Article 6.4;
+c. to use a water management work or a protection zone belonging to it by, other than in accordance with its function, carrying out works, creating or maintaining works therein, thereon, thereabove, thereover or thereunder, or to dump, place or deposit solid substances or objects, or to leave them standing or lying.
+
+**Article 6.5a**
+A prohibition by or pursuant to an order in council as referred to in Article 6.5, introductory clause and subsection c, does not apply to wind farms to which the Offshore Wind Energy Act applies.
+
+**Article 6.6**
+1. Rules may be laid down by or pursuant to an order in council with respect to the performance of acts as referred to in Articles 6.2 to 6.5, on the understanding that for regional waters, insofar as it concerns acts as referred to in Article 6.4 or 6.5, rules shall only be laid down with a view to international obligations or supra-regional interests.
+2. By or pursuant to the order, with respect to acts specified therein, the obligation may be imposed to comply with regulations laid down by an administrative body designated by or pursuant to that order. It may be provided therein that these regulations may deviate from the rules laid down pursuant to the first paragraph.
+3. The order may also provide that an ordinance of a water board or a provincial ordinance, or the regulations to be attached to a water permit, may deviate from the rules laid down pursuant to the first paragraph.
+
+**Article 6.7**
+The rules referred to in Article 6.6, first paragraph, may also include an exemption from a prohibition as referred to in Article 6.3, 6.4 or 6.5 or a prohibition on carrying out acts specified therein, as well as the obligation, with due observance of rules to be laid down by or pursuant to an order in council, to report the carrying out of acts, to carry out measurements, to register data and to provide information thereof to an administrative body designated therein.
+
+**Article 6.8**
+Anyone who performs or omits to perform acts and who knows or could reasonably have suspected that by those acts or omissions the bed or bank of a surface water body could be contaminated or affected, is obliged to take all measures that can reasonably be required of him to prevent that contamination or effect, or, if that contamination or effect occurs, to limit and, as far as possible, undo the contamination or effect and its direct consequences. If the contamination or effect is the result of an unusual incident, the measures shall be taken without delay.
+
+**Article 6.9**
+1. A person who performs acts as referred to in Article 6.8 and in doing so becomes aware of contamination or degradation of the bed or bank of a surface water body caused by those acts, shall report the contamination or degradation to the administrator as soon as possible. He shall indicate which measures as referred to in Article 6.8 he intends to take or has already taken.
+2. The administrator may give instructions with respect to the measures to be taken, referred to in Article 6.8.
+
+**Article 6.10**
+1. Our Minister may prohibit or restrict access to a water management work managed by the State, wholly or in part, by means of a notice to that effect at the location, or made in another suitable manner.
+2. The first paragraph shall not apply to use by public traffic, unless the prohibition or restriction of access relates to a safety zone around a work in the exclusive economic zone which has been established in accordance with Article 60 of the UN Convention on the Law of the Sea, or around a work in the territorial sea.
+
+**Article 6.11**
+1. The powers conferred in this chapter may, with respect to acts as referred to in Article 6.5, subsection c, that take place in the Dutch exclusive economic zone, also be applied to protect interests other than those provided for in Article 2.1, insofar as this is not provided for by or pursuant to another Act.
+2. The powers conferred in this chapter may, with respect to acts as referred to in Article 6.2, second paragraph, also be applied to protect the efficient operation of a wastewater treatment plant.
+
+**Article 6.12**
+This chapter shall not apply to:
+a. acts for which rules have been laid down by or pursuant to the Nuclear Energy Act or the Prevention of Pollution from Ships Act;
+b. acts on board vessels or aircraft at sea, insofar as those acts are related to or result from the normal use of the vessel or aircraft, provided that such use is not for the purpose of disposing of substances;
+c. acts on board warships, naval auxiliary vessels and other ships used for the performance of military duties, regardless of their nationality;
+d. acts at sea for which rules have been laid down by or pursuant to the Mining Act, as well as the abstraction of groundwater for or in connection with the exploration for or extraction of minerals or geothermal energy within the meaning of Article 1 of that Act, insofar as the abstraction takes place at a depth of more than 500 metres below the surface of the earth;
+e. acts for which rules have been laid down by or pursuant to the Plant Protection Products and Biocides Act, unless otherwise provided by order in council.
+
+**§ 2. Further provisions concerning the water permit**
+
+**Article 6.13**
+This section also applies to permits required pursuant to an ordinance of a water board, insofar as they relate to acts in a water system or protection zone. An exemption required pursuant to such an ordinance shall be equated with a permit.
+
+**Article 6.14**
+1. Rules shall be laid down by or pursuant to an order in council with respect to the manner in which the application for a water permit is made and the data and documents to be provided by the applicant with a view to the decision on the application. The order may, notwithstanding Article 2:15, first and second paragraphs, of the General Administrative Law Act, provide that the application shall be submitted wholly or partly electronically, or that the competent authority shall accept applications submitted wholly or partly electronically. It may be provided therein that the obligations shall only apply in categories of cases specified therein.
+2. An ordinance as referred to in Article 6.13 may also lay down rules with respect to the data on the act designated by that ordinance, to be provided by the applicant with a view to the decision on the application.
+
+**Article 6.15**
+1. The application for a permit shall be submitted to the municipal executive of the municipality where the act is wholly or mainly performed. Furthermore, notwithstanding the first sentence, the application may be submitted to the competent authority. In that case, the competent authority shall send a copy of the application to the municipal executive of the municipality where the act is wholly or mainly performed.
+2. The body with which the application has been submitted shall immediately send the applicant a confirmation of receipt of the application, stating the date on which it received the application.
+3. After receiving the application, the competent authority shall immediately send the applicant a notice stating that it is competent to decide on the application and which procedure will be followed for the preparation of that decision.
+
+**Article 6.16**
+1. Unless otherwise provided by order in council, Sections 3.4 of the General Administrative Law Act and 13.2 of the Environmental Management Act shall apply to the preparation of a decision to grant, amend or revoke a permit for discharging or dumping substances or, in the cases referred to in Article 6.4, abstracting groundwater or infiltrating water. When applying Section 3.4 of the General Administrative Law Act, the documents referred to in Article 3:11 of that Act shall also be made available for inspection in the municipality where the act is wholly or mainly performed.
+2. A permit for the abstraction of groundwater or infiltration of water as referred to in Article 6.4 shall not be granted or amended until the board of the water board concerned has been given the opportunity by the provincial executive to give advice on the application or the draft of the decision to be taken on the application.
+3. By order in council, administrative bodies may be designated which shall be given the opportunity by the competent authority to give advice on the draft of the decision to grant or amend a permit.
+
+**Article 6.17**
+1. If an application for a permit relates to an act or set of acts with respect to which more than one administrative body is competent, the application shall be processed and decided on by the administrative body of the highest authority. If there is no highest authority, the application shall be processed and decided on by the administrative body in whose territory the act or set of acts is mainly performed.
+2. Notwithstanding the first paragraph, the administrative bodies concerned may jointly designate from among themselves another administrative body that will process and decide on the application. The power of designation may always be exercised by mandate.
+3. A decision on an application as referred to in the first paragraph shall not be taken until the co-concerned administrative bodies have been given the opportunity to give advice on the application or the draft of the decision to be taken on the application.
+4. The first to third paragraphs shall apply mutatis mutandis to applications for amendment of a permit whereby the number of administrative bodies concerned increases.
+
+**Article 6.18**
+1. If an amendment is requested to a permit that relates to an act that is part of a set of acts of the applicant for which one or more other water permits are also already in force, the competent authority may, in agreement with the other competent administrative bodies, in the interest of efficient implementation and enforcement of the permits concerned, determine that a water permit must be applied for that relates to all acts belonging to the set and provides for the requested amendment.
+2. If it has been determined in accordance with the first paragraph that a revision permit must be applied for, the competent administrative bodies shall decide not to process applications for the amendment of individual water permits that are in force for acts belonging to the set concerned.
+3. The competent authority for the revision permit to be granted pursuant to the first paragraph may not, when granting that permit, amend the rights that the applicant derives from the permits already granted other than would be possible pursuant to Article 6.22, in conjunction with Articles 2.1, 6.11 and 6.20.
+4. A revision permit granted pursuant to the first paragraph shall, from the time it enters into force, replace the permits previously granted for the set of acts concerned. These permits shall expire at the time the revision permit becomes final and unappealable.
+
+**Article 6.19**
+1. If different water permits are in force for a set of acts, one of the competent authorities may, in agreement with the other competent administrative bodies, in the interest of efficient implementation and enforcement of the permits concerned, ex officio grant a permit that relates to all acts belonging to the set.
+2. Article 6.18, second paragraph, shall apply mutatis mutandis as soon as the draft of the revision permit referred to in the first paragraph has been sent to the holders of the permits referred to in the first paragraph. Furthermore, Article 6.18, third and fourth paragraphs, shall apply mutatis mutandis.
+
+**Article 6.20**
+1. A permit may be subject to regulations and restrictions. The regulations to be attached to the permit may also relate to:
+    a. financial security for the fulfilment of obligations applicable under the permit or for the coverage of liability for damage, arising from adverse consequences for the water system caused by the permitted act or the cessation of that act;
+    b. after the cessation of the permitted act, the removal, compensation or limitation of adverse consequences for the water system caused by the permitted act or the cessation of that act.
+2. Further rules may be laid down by or pursuant to an order in council regarding the regulations and restrictions to be attached to a permit.
+3. Conduct contrary to the regulations attached to a permit is prohibited.
+
+**Article 6.21**
+A permit shall be refused insofar as granting it is not compatible with the objectives in Article 2.1 or the interests referred to in Article 6.11.
+
+**Article 6.22**
+1. The competent authority may amend or supplement a permit and the regulations and restrictions attached to it.
+2. The competent authority may revoke a permit in whole or in part if the permit has not been used for three consecutive years.
+3. The competent authority shall revoke the permit in whole or in part:
+    a. at the request of the permit holder, insofar as the objectives and interests referred to in Articles 2.1 and 6.11 do not oppose this;
+    b. if circumstances or facts arise as a result of which the act or acts for which the permit has been granted are no longer considered permissible with a view to the objectives and interests referred to in Articles 2.1 and 6.11;
+    c. if a treaty or decision of an international organisation that is binding on the Netherlands, or a statutory provision for the implementation thereof, so requires.
+4. The competent authority shall not proceed to revocation in a case as referred to in the third paragraph, subsection b or c, insofar as amendment or supplementation of the regulations or restrictions attached to the permit is sufficient.
+
+**Article 6.23**
+1. If, due to amendment or partial revocation of a permit granted with application of Article 6.17, the involvement of the administrative body that granted the permit as the competent authority ends, the permit holder shall be notified, simultaneously with the decision to amend or partially revoke, which administrative body will be the competent authority after the decision has become final and unappealable. If necessary, the remaining administrative bodies shall apply Article 6.17 mutatis mutandis.
+2. The first paragraph shall apply mutatis mutandis if the involvement of the competent authority ends due to the partial refusal of a permit.
+
+**Article 6.24**
+1. A permit also applies to the legal successors of the permit holder, unless otherwise provided in the permit.
+2. The legal successor of the permit holder shall notify the competent authority thereof within four weeks after the permit has become applicable to him.
+
+**§ 3. Special provisions with respect to contamination**
+
+**Article 6.25**
+1. Articles 8.40, second and third paragraphs, and 8.40a of the Environmental Management Act shall, insofar as an order in council to be adopted pursuant to Article 6.6 relates to the discharging or dumping of substances, apply mutatis mutandis to that order.
+2. The proposal for an order in council to be adopted pursuant to Article 6.6 shall not be made, insofar as that order relates to the discharging or dumping of substances, until the draft has been published in the Government Gazette and everyone has been given the opportunity to bring wishes and concerns to the attention of Our Minister within four weeks of the day on which the publication took place. Simultaneously with the publication, the draft shall be submitted to both Houses of the States General.
+
+**Article 6.26**
+1. The following provisions of the Environmental Law (General Provisions) Act shall apply mutatis mutandis to permits for the discharging or dumping of substances:
+    a. 2.14, first paragraph and third to sixth paragraphs,
+    b. 2.22, fifth paragraph, first and second sentences, on the understanding that regulations shall be attached to the water permit which contain stricter requirements than the generally binding regulations referred to in the first sentence of that paragraph, insofar as these requirements are, in the opinion of the competent authority, necessary for the realisation of the measures included in the management plan, referred to in Chapter 4, section 3, of this Act, for the surface water body concerned;
+    c. 2.25, first paragraph, 2.30, 2.31, first paragraph, introductory clause and under b, 2.33, first paragraph, introductory clause and under b, and 8.1, on the understanding that for "environmental permit" shall be read "permit", that for "environment" shall be read "chemical and ecological quality of water systems", and for "an establishment or mining work or its operation": the dumping or discharging of substances.
+2. Notwithstanding Article 6.16, first paragraph, Section 3.4 of the General Administrative Law Act shall not apply to the preparation of a decision on an application to amend a permit for the discharging of substances, which does not lead to other or greater adverse consequences for the chemical and ecological quality of water systems than are permitted under the current permit. Articles 3.8 and 3.9, first paragraph, subsection a, and second to fourth paragraphs, of the Environmental Law (General Provisions) Act shall apply mutatis mutandis to the preparation, referred to in the first sentence, on the understanding that for "environmental permit" shall be read: permit.
+3. A permit for the infiltration of water shall only be granted if there is no danger of groundwater contamination. In assessing that danger, the rules laid down pursuant to Article 12 of the Soil Protection Act shall be observed.
+4. Without prejudice to Article 6.20, regulations shall be attached to a permit as referred to in the third paragraph in accordance with the rules laid down pursuant to Article 12 of the Soil Protection Act. In any case, regulations shall be attached to the permit to ensure the monitoring of the quality of the groundwater.
+5. The third and fourth paragraphs shall apply mutatis mutandis to the regulations to be attached to a permit for the abstraction of groundwater, insofar as those regulations relate to the infiltration of water.
+
+**§ 4. Coordination with Environmental Law (General Provisions) Act or Nuclear Energy Act**
+
+**Article 6.27**
+1. An application for the granting or amendment of a water permit, with the exception of a permit required pursuant to Article 6.5, introductory clause and under c, or on the basis of an ordinance as referred to in Article 6.13 for the use of a water management work or an associated protection zone, which relates to:
+    a. an establishment to which an IPPC installation as referred to in Article 1.1, first paragraph, of the Environmental Law (General Provisions) Act belongs, or
+    b. an establishment as referred to in Article 15, under b, of the Nuclear Energy Act,
+    shall be submitted simultaneously with an application for the granting or amendment of an environmental permit for an activity as referred to in Article 2.1, first paragraph, under e, of the Environmental Law (General Provisions) Act or a permit pursuant to the Nuclear Energy Act.
+2. The decision on an application for a water permit as referred to in the first paragraph shall be prepared in a coordinated manner with the decision on the relevant application pursuant to the Environmental Law (General Provisions) Act or the Nuclear Energy Act, in accordance with Chapter 14 of the Environmental Management Act. In any case, the actions mentioned in Article 14.3, second paragraph, of the Environmental Management Act shall be performed simultaneously.
+3. The application for a water permit referred to in the first paragraph shall in any case not be processed if an application pursuant to the Environmental Law (General Provisions) Act or the Nuclear Energy Act has not also been submitted within six weeks of the time of its submission, or if the application pursuant to those Acts is not processed.
+4. The body that is competent under the relevant Act to decide on the application for a permit shall issue an advice within eight weeks of receipt of the first-mentioned application in the first paragraph, with a view to the coherence between the decisions on the respective applications. That body shall also be given the opportunity to give advice on the draft of the decision on the application. In a case as referred to in Article 3:18, second paragraph, of the General Administrative Law Act, the competent authority may decide to extend the period referred to in the first sentence by a reasonable period to be determined in its decision. If Article 30, fourth paragraph, of the Services Act applies to the application, the extension period shall be aligned with the duration by which the period for giving the decision on the application can be extended pursuant to that paragraph.
+5. If a provision is included in the permit pursuant to the Environmental Law (General Provisions) Act about the period for which it is valid, an identical provision shall be included in the water permit.
+6. If a relevant permit pursuant to the Environmental Law (General Provisions) Act or the Nuclear Energy Act is revoked, the water permit may also be revoked.
+7. The second, fourth and fifth paragraphs and Articles 6.28 and 6.29 shall apply mutatis mutandis to an ex officio amendment of a permit referred to in the first paragraph. Furthermore, the provincial executive shall at least ensure that the decisions concerned are published jointly and that notification thereof is made jointly.
+8. If, in a case as referred to in Article 3.16 of the Environmental Law (General Provisions) Act, or in the Nuclear Energy Act in conjunction with that article, an appeal is lodged against a decision concerning a permit pursuant to one of those Acts, the ruling on appeal may also relate to a related decision given concerning a water permit.
+9. This article shall not apply if Section 3.4 of the General Administrative Law Act does not apply to the preparation of the water permit referred to in the first paragraph, the environmental permit for an activity as referred to in Article 2.1, first paragraph, under e, of the Environmental Law (General Provisions) Act or the permit pursuant to the Nuclear Energy Act.
+
+**Article 6.28**
+1. In a case as referred to in Article 6.27, first paragraph, in which the provincial executive or one of Our Ministers is competent to grant the permit required under the relevant Act, the provincial executive or Our Minister concerned, respectively, may, if this is necessary in the interest of environmental protection with a view to the coherence between the decisions on the respective applications, and if necessary in derogation of rules laid down pursuant to a provincial ordinance as referred to in Article 1.2 of the Environmental Management Act, give an instruction to the competent authority regarding the content of that decision.
+2. An instruction shall be given within eight weeks of the day on which the draft of the decision on the application was made available for inspection in accordance with Article 3:11, first paragraph, of the General Administrative Law Act. It shall not be given except after consultation with the competent authority.
+3. The instruction shall be mentioned in the decision of the competent authority in respect of which it was given. A copy thereof shall be attached to every copy of that decision.
+
+**Article 6.29**
+In a case as referred to in Article 6.27, first paragraph, in which the municipal executive is competent to grant the permit required under the relevant Act, Article 6.28 shall apply mutatis mutandis, on the understanding that the provincial executive may give an instruction to the competent authority at the request of the municipal executive to that effect.
+
+**§ 5. National facility for electronic application**
+
+**Article 6.30**
+The competent authority and the administrative bodies involved in the decision on the application for a water permit shall use the facility referred to in Article 7.6, first paragraph, of the Environmental Law (General Provisions) Act. Article 7.6, second paragraph, second and third sentences, of that Act shall apply mutatis mutandis.
+
+**Chapter 7. Financial provisions**
+
+**§ 1. Levies**
+
+**Article 7.1**
+1. In this chapter and the provisions based thereon, unless otherwise specified, the following definitions shall apply:
+*   **business premises:** a space or site which by its nature and design is to be regarded as a separate unit, not being a dwelling, a wastewater treatment plant or a public foul water sewer;
+*   **built-up immovable property:** built-up immovable property as referred to in Article 117, paragraph, under d, of the Water Boards Act;
+*   **dwelling:** a space which by its design is intended to provide living accommodation as a separate unit and of which the parts, according to the design of that space, are not intended to be let separately;
+*   **first tax official:** official, as referred to in Article 123, third paragraph, under b, of the Water Boards Act or official, as referred to in Article 7.10, fourth paragraph, respectively, who, for the application of the General Act, replaces the inspector;
+*   **General Act:** General Act on State Taxes;
+*   **discharging:** introducing waste materials, polluting or harmful substances into a surface water body;
+*   **resident:** resident as referred to in Article 116, under a, of the Water Boards Act.
+2. For the application of sections 1 and 2:
+    a. the land within a surface water body designated as drier bank areas pursuant to Article 3.1 or 3.2 shall not be counted as part of that surface water body, and
+    b. the exclusive economic zone shall not be counted as part of any surface water body.
+
+**Article 7.2**
+1. Under the name of pollution levy, a levy shall be imposed in respect of discharges into a surface water body managed by the State.
+2. In respect of discharges into a surface water body managed by a water board, the general board of that water board may impose a levy under the name of pollution levy.
+3. The following may be subject to the levy:
+    a. in respect of discharges from business premises or a dwelling: the person who uses that space;
+    b. in respect of discharges by means of a sewerage system or a wastewater treatment plant: the person who manages that sewerage system or that wastewater treatment plant;
+    c. in respect of discharges other than as referred to in subsection a or b: the person who discharges.
+4. In respect of the pollution levy of a water board, for the application of the third paragraph, subsection a:
+    a. use of a dwelling by the members of a household shall be regarded as use by the member of that household designated by the tax official;
+    b. use by the person to whom part of business premises has been let shall be regarded as use by the person who let that part, on the understanding that the person who let the part is authorised to recover the levy as such from the person to whom that part was let;
+    c. the making available of a dwelling or business premises for consecutive use shall be regarded as use by the person who made that space available, on the understanding that the person who made the space available is authorised to recover the levy as such from the person to whom the space was made available.
+5. The revenue from the pollution levy shall be used to fund the management of the administrator's water system.
+
+**Article 7.3**
+1. The basis for the pollution levy is the quantity and quality of the substances discharged in a calendar year. The assessment standard is the pollution value of the substances discharged in a calendar year, expressed in pollution units.
+2. One pollution unit represents, with respect to:
+    oxygen consumption: the annual consumption of 54.8 kilograms of oxygen.
+
+**Article 7.4**
+[Repealed as of 01-07-2014]
+
+**Article 7.5**
+1. The number of pollution units shall be calculated using data obtained by the person liable to pay the levy through measurement, sampling and analysis undertaken during each 24-hour period of the calendar year, in accordance with rules to be laid down by ministerial regulation or tax ordinance, respectively.
+2. At the request of the person liable to pay the levy, the tax official shall, under conditions to be specified, permit a deviation from the frequency of measurement, sampling and analysis referred to in the first paragraph if the person liable to pay the levy makes it plausible that data on measurement, sampling and analysis of a limited number of 24-hour periods is sufficient for the calculation of the pollution value. This decision shall be taken by a decision subject to objection.
+3. The determination of the oxygen consumption of the substances discharged in a calendar year shall be based on the sum of the chemical oxygen demand and the oxygen consumption through the conversion of nitrogen compounds.
+4. If the outcome of the method for determining the chemical oxygen demand is significantly influenced by substances that are not or are virtually not biodegradable, a correction shall be applied to that outcome, in accordance with rules to be laid down by ministerial regulation or tax ordinance, respectively.
+5. Article 122h, first, fifth and sixth paragraphs, and Articles 122i up to and including 122k of the Water Boards Act shall apply mutatis mutandis. Article 122i, first paragraph, of the Water Boards Act shall also apply mutatis mutandis to discharges from a wastewater treatment plant.
+
+**Article 7.6**
+1. The rate of the levy in respect of discharges into a surface water body managed by the State shall be €37.28 per pollution unit.
+2. Notwithstanding the first paragraph, the rate per pollution unit of the levy in respect of discharges into a surface water body managed by the State from a wastewater treatment plant for the biological treatment of domestic wastewater shall be 50% of the amount mentioned in the first paragraph.
+3. The rate of the levy in respect of discharges into a surface water body managed by a water board shall be equal to the rate of the treatment levy, referred to in Article 122d of the Water Boards Act, established by that water board for the tax year in question.
+4. Notwithstanding the first paragraph, the discharge referred to in the second paragraph shall be exempt from the levy if it takes place otherwise than by the administrator, provided that the quantity of waste materials, polluting or harmful substances has not increased.
+
+**Article 7.7**
+1. The provincial council is authorised, under the name of groundwater levy, to impose a levy by way of a tax on the abstraction of groundwater, to cover the costs to be borne by the province of:
+    a. measures directly related to preventing and combating the adverse effects of groundwater abstraction and water infiltration;
+    b. investigations necessary for groundwater policy;
+    c. keeping a register in respect of groundwater abstraction and water infiltration;
+    d. compensation pursuant to Article 7.14, first paragraph, for damage resulting from the implementation of Article 6.4;
+    e. the implementation of Article 7.19.
+2. The levy shall be imposed on the holders of installations or works intended for the abstraction of groundwater, to be designated by provincial ordinance.
+3. The holder of the installation or works shall be deemed to be:
+    a. if the authority competent for this purpose under this Act or the Water Boards Act has granted a permit for the abstraction of groundwater: the person to whom this permit has been granted;
+    b. if the notification required under this Act or the Water Boards Act has been made in respect of the abstraction of groundwater: the person who made this notification;
+    c. in other cases: the person for whose benefit the abstraction takes place.
+4. The basis for the levy is the quantity of groundwater abstracted. If water is infiltrated on the basis of permit regulations, the infiltrated quantity shall be deducted from the abstracted quantity of groundwater for the purpose of determining the basis, in accordance with further rules to be laid down by provincial ordinance.
+
+**Article 7.8**
+1. Exempt from the pollution levy are:
+    a. discharges that take place by means of a public foul water sewer;
+    b. discharges of substances from a wastewater treatment plant by an administrator into a surface water body that it manages;
+    c. discharges of substances from a wastewater treatment plant otherwise than by the administrator, provided that the discharge takes place into a surface water body managed by that administrator and the quantity of waste materials, polluting or harmful substances has not increased.
+2. By order in council it may be determined that the abstraction of groundwater specified in that order is exempt from the groundwater levy.
+3. Furthermore, further rules may be laid down by or pursuant to an order in council or by tax ordinance, respectively, with respect to the pollution levy. Further rules with respect to the costs referred to in Article 7.7, first paragraph, subsection b, may be laid down by order in council.
+
+**Article 7.9**
+Fees may be charged to the applicant by Our Minister, in accordance with rules to be laid down by ministerial regulation, to cover the costs of processing an application for a decision under Chapter 5 or 6 of this Act.
+
+**§ 2. Pollution levy by the State**
+
+**Article 7.10**
+1. The pollution levy in respect of discharges into a surface water body managed by the State shall be levied by Our Minister by means of an assessment. The levy shall be imposed for the calendar year.
+2. Without prejudice to the other provisions of this section, the levy referred to in the first paragraph shall be levied with mutatis mutandis application of the General Act, with the exception of Articles 2, fourth paragraph, 37 to 39, 47a, 48, 52, 53, 54, 76, 80, second, third and fourth paragraphs, 82, 84, 86 and 87 of that Act.
+3. For the application of the General Act, Our Minister shall replace Our Minister of Finance.
+4. Furthermore, for the application of the General Act, the official or officials designated for that purpose by a decision of Our Minister shall replace the board of the State Tax Administration and the inspector, or the officials of the State Tax Administration, respectively.
+5. A decision as referred to in the fourth paragraph shall be announced by publication in the Government Gazette.
+
+**Article 7.11**
+1. If business or residential premises or a wastewater treatment plant is used or managed by more than one person, the tax official may issue a tax assessment in respect of the levy referred to in Article 7.10, first paragraph, for those premises or that wastewater treatment plant in the name of one of those persons.
+2. The tax official is authorised to combine tax assessments of the same type intended for the same person liable to the levy referred to in Article 7.2, third paragraph, on a single assessment notice.
+
+**Article 7.12**
+The officials designated by Our Minister who, for the application of the General Act, replace the officials of the State Tax Administration, are authorised, insofar as is reasonably necessary for levying the levy referred to in Article 7.10, first paragraph:
+a. to enter any place, taking with them the necessary equipment, if necessary with the use of force, with the exception of a dwelling without the consent of the user or users;
+b. to take samples in respect of discharges into surface water bodies managed by the State.
+
+**Article 7.13**
+1. The levy in respect of discharges into a surface water body managed by the State shall be collected with application of the Collection of State Taxes Act 1990 and the State Tax Collection Costs Act as if this levy were a state tax within the meaning of Article 2, first paragraph, subsection a, of the Collection of State Taxes Act 1990 and shall be effected by the collector, referred to in Article 2, first paragraph, subsection i, of that Act, as well as by the other officials mentioned in that Act.
+2. A provisional assessment for the levy referred to in the first paragraph, the assessment notice of which has a date that falls within the year for which it has been established, is recoverable in as many equal instalments as there are months of the year remaining after the month stated in the date of the assessment notice. The first instalment falls due one month after the date of the assessment notice and each of the following instalments one month later.
+3. If the application of the second paragraph does not result in more than two monthly instalments, the tax assessment referred to in that paragraph shall be recoverable two months after the date of the assessment notice.
+
+**§ 3. Compensation for loss or damage**
+
+**Article 7.14**
+1. A person who suffers or will suffer damage as a result of the lawful exercise of a task or power in the context of water management shall, at his request, be granted compensation by the administrative body concerned, insofar as the damage cannot reasonably be borne or be borne in full by him and insofar as the compensation is not or is not sufficiently insured otherwise.
+2. The request for compensation for the damage shall contain a justification, as well as a substantiation of the amount of the compensation requested. Rules may be laid down by or pursuant to an order in council or an ordinance of a province or water board concerning the structure, submission and justification of a request for compensation for damage.
+3. The administrative body may reject the request if five years have elapsed since the day on which the damage manifested itself or since the injured party could reasonably have been aware of the damage, but in any case after twenty years have elapsed since the event causing the damage. Rules may be laid down by or pursuant to the order in council or the ordinance of a province or water board referred to in the second paragraph concerning the handling and manner of assessment of a request for compensation for damage.
+4. The decision concerning the granting of the compensation shall be taken by a separate decision.
+5. Without prejudice to Article 7.15, further rules may be laid down by or pursuant to an order in council with respect to the damage that is eligible for compensation pursuant to the first paragraph.
+
+**Article 7.15**
+For the purposes of Article 7.14, damage shall also include damage in connection with water nuisance or flooding, insofar as this is the result of the relocation of a flood defence or of other measures aimed at increasing the discharge or storage capacity of water systems.
+
+**Article 7.16**
+Section 6.1 of the Spatial Planning Act shall not apply insofar as an interested party invokes or can invoke compensation for damage as referred to in Article 7.14, first paragraph.
+
+**Article 7.17**
+1. If the damage compensated by an administrative body on the grounds of Article 7.14 arises from a decision taken on application, the administrative body may charge this damage to the applicant for that decision by means of a decision.
+2. If compensation as referred to in Article 7.14 is granted by an administrative body, not being Our Minister, in connection with the necessary promotion of a public interest, the promotion of which is not or not wholly the task of that administrative body, Our Minister may, at the request of that administrative body, impose an obligation on the public body whose interest is wholly or partly promoted, to reimburse wholly or partly the costs involved in the application of Article 7.14 which are the result of that promotion of interests.
+3. An obligation as referred to in the second paragraph shall not be imposed until the public body whose interest is wholly or partly promoted, and other directly involved parties have been given the opportunity to put forward their views on the matter.
+4. The decision to impose an obligation as referred to in the second paragraph shall be announced by publication in the Government Gazette.
+
+**Article 7.18**
+1. The damage to an immovable property, caused by the abstraction of groundwater or the infiltration of water pursuant to a water permit, shall be prevented by the permit holder, insofar as this can reasonably be required.
+2. Insofar as the damage has not been prevented, the permit holder is obliged, upon demand, to compensate that damage to anyone who has any right to the use or enjoyment of the immovable property.
+3. Nevertheless, an owner of the immovable property may, if due to the nature or extent of the damage the ownership of that property has become of too little significance to him, demand that the permit holder takes over the ownership of the immovable property. The claim may be made both in the event of non-acceptance of a sum offered as compensation for damage and after acceptance thereof.
+4. Claims on the basis of this article shall be heard by the court within whose jurisdiction the immovable property or the major part thereof is situated.
+
+**Article 7.19**
+1. A person who, on the basis of Article 7.18, first, second or third paragraph, can make a claim with respect to damage in connection with a water permit for the abstraction of groundwater or the infiltration of water as referred to in Article 6.4 or 6.5, subsection b, or pursuant to an ordinance of a water board, may first request the provincial executive of the province in which the immovable property referred to in Article 7.18 is wholly or largely situated to institute an investigation.
+2. If an immovable property is located in an area where the groundwater level is influenced by more than one abstraction and it appears from the investigation that it cannot be determined, or not within a reasonable period, by which abstraction the damage suffered by the immovable property is caused, the provincial executive shall, at the request of the person with rights to that immovable property, grant him compensation for the costs of preventing the damage or compensation for damage. The person with rights is in that case obliged to transfer the rights which he might be able to assert against third parties.
+
+**Article 7.20**
+1. If the court finds the claim referred to in Article 7.18, third paragraph, to be well-founded, it shall order the permit holder to take over and to pay the takeover sum. No other legal remedy is available against the judgment than an appeal in cassation. The appeal in cassation must, on penalty of inadmissibility, be registered in the registers referred to in Article 433 of the Code of Civil Procedure within eight days of its being lodged.
+2. Articles 27, first and second paragraphs, 28, first, second and third paragraphs, 29 to 35 and 37, first paragraph, of the Expropriation Act shall apply mutatis mutandis to the determination of the takeover sum, on the understanding that the court may also appoint two experts instead of one or an odd number of experts.
+3. The judgment by which the permit holder has been ordered to take over can be registered in the public registers, referred to in Section 2 of Title 1 of Book 3 of the Civil Code, after it has become final and conclusive. By registration of the judgment, ownership passes to the permit holder.
+
+**§ 4. Damage to water management works**
+
+**Article 7.21**
+1. The costs of damage caused to water management works managed or maintained by an administrator, for which owners or users of vessels are legally liable, shall be estimated by the official designated for that purpose by the administrator and stated in a report, a copy of which shall if possible be given to the skipper.
+2. If the estimated amount is not paid to the official concerned as security or if security is not provided to his satisfaction for payment thereof within a reasonable period, this official is authorised, if necessary with the use of force, to prevent the continuation of the voyage, the undertaking of the return journey or the commencement of a new voyage, even if the vessel has in the meantime been brought outside his official area.
+3. Without prejudice to the right to compensation for the damage, the public-law body concerned is authorised to use the amount paid for the repair of the damage. If it appears that the actual costs of damage are less than the amount paid, the surplus, with the statutory interest thereon from the day of payment, shall be paid to the person who paid.
+4. This article does not apply to the costs of locating, marking and clearing a wreck within the meaning of the Maritime Accidents (Response) Act.
+
+**Article 7.22**
+1. The State may – subject to mitigation by the court – recover the costs borne by the State of investigating contamination or degradation of the bed or bank of a surface water body and of measures as referred to in Article 4.6, second paragraph, under a, or Article 5.15, first paragraph, in connection with contamination or degradation of the bed or bank of a surface water body that constitutes an obstacle to achieving the desired area quality, from the person whose unlawful act caused that contamination or degradation in the case in question and who is therefore or otherwise liable under civil law to any public authority for the consequences thereof, other than by agreement.
+2. If the costs referred to in the first paragraph are also borne by a water board, the State may also recover these costs in accordance with that paragraph.
+3. The State may recover costs borne by the State as referred to in the first paragraph in accordance with the rules on unjust enrichment from the person who is unjustly enriched by that investigation or those measures. The second paragraph shall apply mutatis mutandis.
+4. The powers referred to in the first and third paragraphs shall accrue to the water board in cases in which costs as referred to in the first paragraph are borne entirely by it, as well as in cases in which the State does not make use of this power, insofar as such costs are borne by it.
+5. Article 75, fifth paragraph, of the Soil Protection Act shall apply mutatis mutandis.
+
+**§ 4a. The delta fund**
+
+**Article 7.22a**
+1. There shall be a delta fund.
+2. The delta fund has the objective of financing and funding:
+    a. measures and provisions to prevent and, where necessary, limit floods, water nuisance and water scarcity;
+    b. measures and provisions to protect or improve the chemical or ecological quality of water systems;
+    c. the collection, processing and dissemination of data related to subsections a and b and the conducting of research related to subsections a and b.
+
+**Article 7.22b**
+1. The delta fund is a budget fund as referred to in Article 2.11, first paragraph, of the Government Accounts Act 2016.
+2. Our Minister shall manage the delta fund.
+
+**Article 7.22c**
+The revenues of the delta fund are:
+a. a contribution from the budget of the Ministry of Infrastructure and Water Management;
+b. contributions from other budgets of the State;
+c. contributions from third parties;
+d. other revenues in the context of achieving the goals of the delta fund.
+
+**Article 7.22d**
+1. The expenditures for the following shall be charged to the delta fund:
+    a. construction, improvement, management, maintenance and operation of water management works that are or will be managed by the State, to prevent and, where necessary, limit floods and water scarcity;
+    b. measures and provisions to protect or improve the chemical or ecological quality of water systems;
+    c. the collection, processing and dissemination of data related to subsections a and b;
+    d. research related to subsections a and b.
+2. Our Minister may grant subsidies from the delta fund for:
+    a. construction, improvement, management, maintenance and operation of water management works that are not or will not be managed by the State, to prevent and, where necessary, limit floods and water scarcity;
+    b. measures and provisions to protect or improve the chemical or ecological quality of water systems;
+    c. research related to subsections a and b.
+3. Articles 2 and 4 to 7 of the Framework Act on Subsidies I and M shall apply to subsidies charged to the delta fund.
+4. Subsidies as referred to in the second paragraph that are granted against a budget that has not yet been adopted shall be granted under the condition referred to in Article 4:34, first paragraph, of the General Administrative Law Act.
+5. Expenditures may also be charged to the delta fund for measures and provisions as referred to in Article 7.22a, second paragraph, subsections a and b, as well as for the collection, dissemination and processing of data and the conducting of research as referred to in Article 7.22a, second paragraph, subsection c, with respect to parts of the Ems, Meuse, Rhine and Scheldt river basin districts located outside Dutch territory.
+6. Expenditures for the bureau supporting the work of the Delta Commissioner, the housing costs of the bureau and other expenditures related to the performance of the Delta Commissioner's task shall also be charged to the delta fund.
+7. Furthermore, other expenditures and subsidies in the context of achieving the goals of that fund shall be charged to the delta fund.
+
+**§ 5. Financing and funding of primary flood defence measures**
+
+**Article 7.23**
+1. Our Minister shall grant a subsidy to the administrator on application for taking measures if:
+    a. the measures are necessary due to:
+        1°. amendment of Appendix III or the rules laid down pursuant to Article 2.3;
+        2°. the transition from the rules laid down on the basis of Article 2.2 or pursuant to Article 2.3 or 2.12, fourth paragraph, as they read on 31 December 2016, to the standards in Appendix III or the rules laid down pursuant to Article 2.3; or
+        3°. amendment of the rules laid down pursuant to Article 2.3 or 2.12, fourth paragraph, as these articles read on 31 December 2016;
+    b. the measures for the calendar year in which the subsidy is granted are included in a programme to be established annually by Our Minister; and
+    c. in the case of measures relating to a dike section as referred to in Article 2.2, first paragraph, second sentence, and which are necessary because of the first paragraph, subsection a, under 1° or 2°, the standard stated in Appendix II has been exceeded.
+2. The subsidy referred to in the first paragraph shall be granted for ninety percent of the estimated costs of a simple and efficient design of the measures. Further rules shall be laid down by ministerial regulation with respect to the cost estimate and the eligible costs.
+3. Articles 2 and 4 to 7 of the Framework Act on Subsidies I and M shall apply.
+4. In the preparation of the programme, referred to in the first paragraph, and of the regulation, referred to in the second paragraph, the boards of the water boards shall be consulted.
+5. An order in council shall designate the measures for which, in deviation from the second paragraph, a subsidy is granted for one hundred percent of the implementation costs. In doing so, the nature and scope of these measures shall be indicated and the locations and the administrators concerned shall be stated.
+
+**Article 7.24**
+1. A water board shall owe an annual contribution to Our Minister to cover the costs associated with the provision of subsidies for measures that are necessary due to:
+    a. amendment of Appendix III or the rules laid down pursuant to Article 2.3;
+    b. the transition from the rules laid down on the basis of Article 2.2 or pursuant to Article 2.3 or 2.12, fourth paragraph, as they read on 31 December 2016, to the standards in Appendix III or the rules laid down pursuant to Article 2.3; or
+    c. amendment of the rules laid down pursuant to Article 2.3 or 2.12, fourth paragraph, as these articles read on 31 December 2016.
+2. The annual contribution shall be calculated according to the formula: C = 0.50 x R1 (I/IT + PV/PVT) + 0.40 x R2 (I/IT + PV/PVT), where C represents: the contribution to be calculated in euros; R1 represents: an amount in euros equal to the amount that is added to the delta fund from a budget as referred to in Article 7.22c, first paragraph, under a or b, for the benefit of the budget of the relevant year for subsidies for the measures designated pursuant to Article 7.23, fifth paragraph, and which together with R2 is not higher than the maximum mentioned in the fourth paragraph; R2 represents: an amount in euros equal to the amount that is added to the delta fund from a budget as referred to in Article 7.22c, first paragraph, under a or b, for the benefit of the budget of the relevant year for subsidies for measures as referred to in the first paragraph, which are not designated pursuant to Article 7.23, fifth paragraph, and which together with R1 is not higher than the maximum mentioned in the fourth paragraph; I represents: the number of residents in the area of the water board on the reference date; IT represents: the number of residents in the areas of the water boards together on the reference date; PV represents: the sum of the values of the built-up immovable properties in the area of the water board on the reference date, established on the basis of Chapter IV of the Valuation of Immovable Property Act; PVT represents: the sum of the values of the built-up immovable properties in the areas of the water boards together on the reference date, established on the basis of Chapter IV of the Valuation of Immovable Property Act.
+3. The reference date referred to in the second paragraph is 1 January 2010 for the annual contribution for the calendar years 2011 to 2014 and for each subsequent consecutive period of four calendar years, 1 January of the last calendar year preceding the period concerned.
+4. The maximum set in the second paragraph for the sum of R1 and R2 is €131 x 10⁶ in 2014 and €181 x 10⁶ from 2015, on the understanding that as of 2016 the latter amount will be indexed annually in relation to the wage and price level of 2011 according to the Gross Government Investment Index, as applied by Our Minister of Finance in the Spring Memorandum.
+5. Resources intended for subsidies for measures as referred to in the first paragraph may also be spent on:
+    a. expenditures of the State for such measures, provided that these expenditures do not exceed the costs of a subsidy for such measures;
+    b. expenditures or subsidies for one or more other measures, whether or not water management measures, which together offer a comparable level of protection, if a measure as referred to in the first paragraph is very costly or has a major social impact and the expenditures or subsidies for such other measures do not exceed the costs of a subsidy for a measure as referred to in the first paragraph, where, if necessary, a deviation from Articles 7.22a and 7.22d is possible;
+    c. one-off subsidies for measures that are necessary to bring other than primary flood defences, to be designated by order in council, into conformity with the safety standards referred to in Article 2.4.
+
+**Article 7.25**
+For the purpose of determining the amount of the contribution referred to in Article 7.24, the executive board of a water board shall provide Our Minister before 1 March of the calendar year following the calendar year in which the reference date falls, with the following data:
+a. the number of residents in the area of the water board on the reference date, and
+b. the sum of the values of the built-up immovable properties in the area of the water board on the reference date, established on the basis of Chapter IV of the Valuation of Immovable Property Act.
+
+**Article 7.26**
+1. Our Minister shall establish the obligation to pay the contribution referred to in Article 7.24 annually before 1 May.
+2. If the final act of the budget of the delta fund gives cause to do so, the obligation to pay shall be amended by Our Minister.
+3. If the obligation to pay is amended on the basis of the second paragraph, no statutory interest shall be due on the sum to be paid or refunded.
+4. Sums due under the first or second paragraph may be collected by Our Minister by means of a collection order.
+5. Our Minister may set off a sum to be refunded to a water board against a sum to be claimed from the same water board under the first or second paragraph for another calendar year.
+
+**Chapter 8. Enforcement**
+
+**Article 8.1**
+1. The administrator has the task of:
+    a. ensuring the administrative enforcement of the provisions of or pursuant to Chapters 5 and 6 or pursuant to Article 10.1, insofar as they relate to the water systems managed by it and the associated protection zones, and of the provisions of or pursuant to Title 12.3 of the Environmental Management Act with respect to the introduction of substances into a surface water body;
+    b. collecting and registering data that are important for the exercise of the task referred to under a;
+    c. handling complaints relating to compliance with the regulations referred to in subsection a.
+2. For the application of the first paragraph, the provincial executive shall be equated with the administrator, in respect of acts as referred to in Article 6.4.
+
+**Article 8.2**
+Notwithstanding Article 8.1, first paragraph, the tasks referred to therein shall rest with respect to:
+a. a permit-requiring act to which Article 6.17, first or second paragraph, applies: with the administrative body that decides on the permit application;
+b. an act for which a notification, measurement, registration or reporting obligation applies pursuant to Article 6.7: with the administrative body designated pursuant to that article.
+
+**Article 8.3**
+1. The officials designated by a decision of Our Minister are charged with the supervision of compliance with the provisions of or pursuant to Chapters 5 and 6 or pursuant to Article 10.1. If the designation concerns officials reporting to a ministry other than that of Our Minister, the decision in question shall be taken in agreement with Our Minister whom it also concerns.
+2. A decision as referred to in the first paragraph shall be announced by publication in the Government Gazette.
+3. Our Minister may lay down rules with respect to the performance of the task referred to in the first paragraph. For officials designated pursuant to the first paragraph who report to a ministry other than that of Our Minister, such rules shall be laid down in agreement with Our Minister concerned.
+4. The officials who are designated for that purpose by a decision of the administrator, not being Our Minister, or another administrative body charged with the implementation of this Act, are also charged with the supervision of compliance with the provisions of or pursuant to Chapters 5 and 6 or pursuant to Article 10.1 within their official area.
+
+**Article 8.4**
+1. The competent authority under Chapter 6 may revoke a water permit in whole or in part if:
+    a. acts are performed contrary to the permit or the regulations attached to it, or the statutory provisions applicable to the permitted act are not complied with;
+    b. the data provided to obtain the permit prove to be so incorrect or incomplete that a different decision would have been taken on the application for the permit if the correct data had been known when it was assessed.
+2. The competent authority shall not proceed to revocation in a case as referred to in the first paragraph, subsection a, until it has set the permit holder a reasonable period to bring his actions into conformity with the permit and the regulations attached to it, or to comply with the applicable statutory provisions, respectively.
+
+**Article 8.5**
+Our Minister is authorised to apply administrative coercion to enforce the provisions of or pursuant to this Act in cases where he is charged with the administrative enforcement thereof.
+
+**Article 8.6**
+With respect to the quality of the implementation and enforcement of the provisions of or pursuant to Chapters 5 and 6 or pursuant to Article 10.1, Articles 5.7 and 5.8 of the Environmental Law (General Provisions) Act shall apply.
+
+**Article 8.7**
+[Repealed as of 01-07-2021]
+
+**Article 8.8**
+The officials of the State Tax Administration, competent in customs matters, shall not give permission for the departure of a vessel or aircraft from the Netherlands if they have serious reasons to suspect that a violation of one of the prohibitions described in Article 6.3 has been or will be committed.
+
+**Article 8.9**
+1. Without prejudice to the right of other states to prosecute in accordance with the UN Convention on the Law of the Sea, Dutch criminal law applies to anyone who, in or over the exclusive economic zone, is guilty of violating the regulations laid down by or pursuant to this Act.
+2. In the investigation and prosecution of criminal offences as referred to in the first paragraph, Section 7 of Part XII of the UN Convention on the Law of the Sea shall be observed.
+
+**Article 8.10**
+Our Minister and the supervisors shall, when applying Article 8.5, or when exercising supervision over compliance with the provisions of or pursuant to this Act, respectively, observe Section 7 of Part XII of the UN Convention on the Law of the Sea.
+
+**Chapter 9. Legal protection**
+
+**Article 9.1**
+[Repealed as of 01-01-2010]
+
+**Article 9.2**
+[Repealed as of 01-01-2010]
+
+**Article 9.3**
+[Repealed as of 01-01-2010]
+
+**Article 9.4**
+[Repealed as of 01-01-2010]
+
+**Article 9.5**
+[Repealed as of 01-01-2010]
+
+**Chapter 10. Final provisions**
+
+**Article 10.1**
+By or pursuant to an order in council, further rules may be laid down for the implementation of international obligations relating to water management, as well as for the proper implementation of this Act, with respect to the subjects regulated in this Act.
+
+**Article 10.2**
+An amendment to the Water Framework Directive or to another directive implemented on the basis of this Act by one or more institutions of the European Union, alone or jointly, shall apply for the purposes of this Act as of the date on which the amending directive in question must be implemented, unless a different date is determined by ministerial decision, which shall be published in the Government Gazette.
+
+**Article 10.2a**
+1. An amendment to Annex 4 to the Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter of 1972, concluded in London on 7 November 1996 (Trb. 1998, 134) shall, for the application of Article 6.3, first paragraph, introductory clause and subsection d, apply from the date on which that amendment enters into force internationally, unless a different date is determined by ministerial decision, which shall be published in the Government Gazette.
+2. If, prior to the date on which Article 6.3, first paragraph, introductory clause and subsection d, becomes applicable to an activity, a water permit has been granted for that activity, it shall be based on Article 6.3, first paragraph, introductory clause and subsection d, provided that the activity is designated in Annex 4 to the Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter of 1972, concluded in London on 7 November 1996 (Trb. 1998, 134) as an activity for which a permit can be granted.
+
+**Article 10.3**
+If, prior to the entry into force of the Act of 14 March 2018 amending the Water Act and the Maritime Management Act BES in connection with the implementation of the amendment of the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter of 1972 (marine geo-engineering) (Stb. 98), a water permit has been granted for an activity as referred to in Article 6.3, first paragraph, subsection d, it shall be based on Article 6.3, first paragraph, introductory clause and subsection d, provided that the activity is designated in Annex 4 to the Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter of 1972, concluded in London on 7 November 1996 (Trb. 1998, 134) as an activity for which a permit can be granted.
+
+**Article 10.4**
+1. Our Minister shall, within five years of the full entry into force of this Act, send a report to the States General on the effectiveness and effects of this Act.
+2. Without prejudice to the first paragraph, Our Minister shall, before 1 January 2025, send a report to the States General on the effectiveness and effects of Articles 2.2, 2.3, 2.12, 3.9 and 7.23 to 7.26.
+
+**Article 10.5**
+The articles of this Act shall enter into force on a date to be determined by Royal Decree, which may be set differently for the different articles or parts thereof.
+
+**Article 10.6**
+This Act shall be cited as: Water Act.
+
+We charge and command that this shall be placed in the Bulletin of Acts and Decrees and that all ministries, authorities, boards and officials whom it may concern shall see to the precise implementation hereof.
+
+The Hague, 29 January 2009
+
+The State Secretary for Transport, Public Works and Water Management,
+J. C. Huizinga-Heringa
+
+Beatrix
+
+Issued the twelfth of March 2009
+The Minister of Justice,
+E. M. H. Hirsch Ballin
+
+**Appendix I. Primary flood defences and dike sections as referred to in Article 1.3, first paragraph**
+
+**Appendix IA. National Triangulation System coordinates of dike section boundaries as referred to in Article 1.3, second paragraph**
+
+| Section | Start Point | End Point |
+|---|---|---|
+| | **X** | **Y** | **X** | **Y** |
+| 1-1 | 209653 | 610745 | 206219 | 609839 |
+| 1-2 | 206219 | 609839 | 209653 | 610745 |
+| 2-1 | 185760 | 606974 | 170840 | 605505 |
+| 2-2 | 170840 | 605505 | 185760 | 606974 |
+| 3-1 | 155445 | 602424 | 144741 | 598119 |
+| 3-2 | 144742 | 598119 | 155445 | 602424 |
+| 4-1 | 133163 | 589773 | 134096 | 590085 |
+| 4-2 | 134096 | 590085 | 133163 | 589773 |
+| 5-1 | 112567 | 558327 | 119733 | 576775 |
+| 5-2 | 119733 | 576775 | 112567 | 558327 |
+| 6-1 | 177262 | 539619 | 153258 | 544493 |
+| 6-2 | 153258 | 544493 | 154105 | 567249 |
+| 6-3 | 154105 | 567249 | 179480 | 592644 |
+| 6-4 | 179480 | 592644 | 204405 | 601934 |
+| 6-5 | 204405 | 601934 | 216161 | 601054 |
+| 6-6 | 216161 | 601054 | 253851 | 603456 |
+| 6-7 | 253851 | 603456 | 276791 | 584521 |
+| 7-1 | 195173 | 519105 | 185608 | 514144 |
+| 7-2 | 185608 | 514144 | 177263 | 539622 |
+| 8-1 | 160680 | 475073 | 138779 | 482584 |
+| 8-2 | 138779 | 482584 | 155909 | 500652 |
+| 8-3 | 155909 | 500652 | 171994 | 513513 |
+| 8-4 | 171994 | 513513 | 186770 | 503645 |
+| 8-5 | 186770 | 503645 | 177821 | 492155 |
+| 8-6 | 177821 | 492155 | 167033 | 486659 |
+| 8-7 | 167033 | 486659 | 160680 | 475073 |
+| 9-1 | 223120 | 504085 | 201902 | 516879 |
+| 9-2 | 201902 | 516879 | 195317 | 519225 |
+| 10-1 | 200190 | 502567 | 199187 | 515698 |
+| 10-2 | 199187 | 515698 | 191128 | 508821 |
+| 10-3 | 191128 | 508821 | 200190 | 502567 |
+| 11-1 | 202254 | 497760 | 187519 | 503868 |
+| 11-2 | 193009 | 505087 | 193009 | 505087 | (closed section) |
+| 11-3 | 187519 | 503868 | 184503 | 492932 |
+| 12-1 | 122746 | 545196 | 131682 | 549716 |
+| 12-2 | 131682 | 549716 | 135858 | 531917 |
+| 13-1 | 102162 | 498527 | 104555 | 526714 |
+| 13-2 | 104555 | 526714 | 106093 | 532122 |
+| 13-3 | 106093 | 532122 | 110007 | 550827 |
+| 13-4 | 110007 | 550827 | 114952 | 549715 |
+| 13-5 | 114952 | 549715 | 122746 | 545196 |
+| 13-6 | 135858 | 531917 | 147789 | 522936 |
+| 13-7 | 147789 | 522936 | 129694 | 512795 |
+| 13-8 | 129694 | 512795 | 133452 | 503197 |
+| 13-9 | 133452 | 503197 | 126138 | 488518 |
+| 13a-1 | 129369 | 484290 | 129369 | 484290 | (closed section) |
+| 13b-1 | 136234 | 496309 | 136234 | 496309 | (closed section) |
+| 14-1 | 109982 | 446912 | 99230 | 436695 |
+| 14-2 | 99230 | 436695 | 84432 | 436197 |
+| 14-3 | 84432 | 436197 | 71043 | 441849 |
+| 14-4 | 71043 | 441849 | 67837 | 444644 |
+| 14-5 | 67837 | 444644 | 77756 | 456910 |
+| 14-6 | 77756 | 456910 | 79853 | 459315 |
+| 14-7 | 79853 | 459315 | 86592 | 467952 |
+| 14-8 | 86592 | 467952 | 87622 | 469672 |
+| 14-9 | 87622 | 469672 | 90297 | 474328 |
+| 14-10 | 90297 | 474328 | 101923 | 497548 |
+| 15-1 | 135883 | 447236 | 118596 | 439655 |
+| 15-2 | 118596 | 439655 | 99456 | 436741 |
+| 15-3 | 99456 | 436741 | 109982 | 446912 |
+| 16-1 | 127067 | 426810 | 115089 | 426090 |
+| 16-2 | 115089 | 426090 | 110825 | 435075 |
+| 16-3 | 110825 | 435075 | 126731 | 441023 |
+| 16-4 | 126731 | 441023 | 140327 | 441632 |
+| 16-5 | 140327 | 441632 | 127067 | 426810 |
+| 17-1 | 103936 | 429891 | 87353 | 429164 |
+| 17-2 | 87353 | 429164 | 97847 | 435094 |
+| 17-3 | 97847 | 435094 | 103936 | 429891 |
+| 18-1 | 85998 | 432719 | 85998 | 432719 | (closed section) |
+| 19-1 | 77476 | 434792 | 77476 | 434792 | (closed section) |
+| 20-1 | 64432 | 429234 | 66654 | 438200 |
+| 20-2 | 66654 | 438200 | 75533 | 432676 |
+| 20-3 | 75533 | 432676 | 79292 | 424880 |
+| 20-4 | 79292 | 424880 | 64432 | 429234 |
+| 21-1 | 82193 | 425313 | 102631 | 417657 |
+| 21-2 | 102631 | 417657 | 82193 | 425313 |
+| 22-1 | 110911 | 421984 | 102666 | 419360 |
+| 22-2 | 102666 | 419360 | 110911 | 421984 |
+| 23-1 | 119764 | 424127 | 119764 | 424127 | (closed section) |
+| 24-1 | 136718 | 416981 | 120742 | 414799 |
+| 24-2 | 120742 | 414799 | 119831 | 424128 |
+| 24-3 | 119831 | 424128 | 131431 | 422736 |
+| 25-1 | 50187 | 423075 | 61809 | 426798 |
+| 25-2 | 61809 | 426798 | 81755 | 413105 |
+| 25-3 | 81755 | 413105 | 70445 | 411726 |
+| 25-4 | 70445 | 411726 | 50187 | 423075 |
+| 26-1 | 47016 | 417935 | 39836 | 409941 |
+| 26-2 | 39836 | 409941 | 52832 | 406943 |
+| 26-3 | 52832 | 406943 | 65464 | 409401 |
+| 26-4 | 65464 | 409401 | 47016 | 417935 |
+| 27-1 | 72311 | 405585 | 71261 | 403770 |
+| 27-2 | 71261 | 403770 | 70970 | 392499 |
+| 27-3 | 71280 | 401961 | 70970 | 392499 |
+| 27-4 | 72311 | 405585 | 71280 | 401961 |
+| 28-1 | 49374 | 396428 | 36840 | 402588 |
+| 29-1 | 36840 | 402588 | 20067 | 394383 |
+| 29-2 | 20067 | 394383 | 30502 | 386511 |
+| 29-3 | 30502 | 386511 | 34921 | 387049 |
+| 29-4 | 34921 | 387049 | 39584 | 384436 |
+| 30-1 | 49557 | 395609 | 59287 | 385942 |
+| 30-2 | 59287 | 385942 | 56848 | 386903 |
+| 30-3 | 56848 | 386903 | 39007 | 383426 |
+| 30-4 | 39007 | 383426 | 39584 | 384436 |
+| 31-1 | 73211 | 379721 | 59363 | 385948 |
+| 31-2 | 59363 | 385948 | 73614 | 383309 |
+| 31-3 | 73614 | 383309 | 73211 | 379721 |
+| 32-1 | 14829 | 376195 | 29538 | 379138 |
+| 32-2 | 29538 | 379138 | 39383 | 374562 |
+| 32-3 | 39383 | 374562 | 49087 | 372961 |
+| 32-4 | 49087 | 372961 | 74526 | 373616 |
+| 33-1 | 75178 | 385198 | 74875 | 378665 |
+| 34-1 | 116711 | 406448 | 103347 | 414028 |
+| 34-2 | 103347 | 414028 | 87346 | 411453 |
+| 34-3 | 87346 | 411453 | 85158 | 407600 |
+| 34-4 | 85158 | 407600 | 76741 | 404715 |
+| 34-5 | 76741 | 404715 | 75178 | 385198 |
+| 34a-1 | 116265 | 413379 | 116265 | 413379 | (closed section) |
+| 35-1 | 133353 | 413856 | 120590 | 414313 |
+| 35-2 | 120590 | 414313 | 117472 | 406225 |
+| 36-1 | 194776 | 406311 | 188281 | 418489 |
+| 36-2 | 188281 | 418489 | 173995 | 422801 |
+| 36-3 | 173995 | 422801 | 160100 | 424249 |
+| 36-4 | 160100 | 424249 | 147185 | 416146 |
+| 36-5 | 147185 | 416146 | 133353 | 413856 |
+| 36a-1 | 176268 | 421159 | 176268 | 421159 | (closed section) |
+| 37-1 | 136718 | 416981 | 141524 | 417788 |
+| 38-1 | 131982 | 423063 | 152240 | 423529 |
+| 38-2 | 152240 | 423529 | 141524 | 417788 |
+| 39-1 | 151648 | 422304 | 151648 | 422304 | (closed section) |
+| 40-1 | 156762 | 427809 | 153475 | 423826 |
+| 40-2 | 153475 | 423826 | 157057 | 426954 |
+| 41-1 | 188437 | 429004 | 179024 | 432495 |
+| 41-2 | 179024 | 432495 | 156762 | 427809 |
+| 41-3 | 157057 | 426954 | 174242 | 423107 |
+| 41-4 | 174242 | 423107 | 188549 | 418869 |
+| 42-1 | 201472 | 430613 | 188637 | 428760 |
+| 43-1 | 140327 | 441632 | 152879 | 440541 |
+| 43-2 | 152879 | 440541 | 181026 | 441462 |
+| 43-3 | 181026 | 441462 | 198792 | 433566 |
+| 43-4 | 198792 | 433566 | 179281 | 433453 |
+| 43-5 | 179281 | 433453 | 159698 | 434666 |
+| 43-6 | 159698 | 434666 | 127067 | 426810 |
+| 44-1 | 159724 | 445337 | 135883 | 447236 |
+| 44-2 | 126138 | 488518 | 142448 | 479755 |
+| 44-3 | 101293 | 499175 | 102030 | 497588 |
+| 45-1 | 174665 | 441898 | 170286 | 440653 |
+| 45-2 | 154906 | 463364 | 160892 | 474315 |
+| 45-3 | 160892 | 474315 | 165407 | 475139 |
+| 46-1 | 147367 | 476951 | 146261 | 470296 |
+| 47-1 | 189183 | 444062 | 200034 | 446939 |
+| 48-1 | 208669 | 428833 | 196600 | 442843 |
+| 48-2 | 196600 | 442843 | 206063 | 446733 |
+| 48-3 | 206063 | 446733 | 216660 | 442082 |
+| 49-1 | 216220 | 442421 | 207390 | 446304 |
+| 49-2 | 207390 | 446304 | 212047 | 457222 |
+| 50-1 | 212047 | 457222 | 210107 | 461154 |
+| 50-2 | 210107 | 461154 | 212966 | 463772 |
+| 51-1 | 212925 | 463941 | 219480 | 473284 |
+| 52a-1 | 202081 | 487555 | 202081 | 487555 | (closed section) |
+| 52-1 | 204945 | 451730 | 207141 | 466939 |
+| 52-2 | 207141 | 466939 | 201740 | 486557 |
+| 52-3 | 201740 | 486557 | 202849 | 494718 |
+| 52-4 | 202849 | 494718 | 202254 | 497760 |
+| 53-1 | 214277 | 474030 | 204320 | 480019 |
+| 53-2 | 204320 | 480019 | 200247 | 502522 |
+| 53-3 | 200247 | 502522 | 223095 | 503033 |
+| 54-1 | 188473 | 418796 | 199502 | 414044 |
+| 55-1 | 196514 | 408294 | 196107 | 412299 |
+| 56-1 | 198600 | 404749 | 196906 | 406964 |
+| 57-1 | 200805 | 401651 | 199362 | 403853 |
+| 58-1 | 197562 | 402562 | 196559 | 403624 |
+| 59-1 | 200592 | 399194 | 200592 | 399194 | (closed section) |
+| 60-1 | 204317 | 396354 | 201451 | 397996 |
+| 61-1 | 204290 | 394684 | 200650 | 396222 |
+| 63-1 | 205024 | 394303 | 208375 | 390752 |
+| 64-1 | 208814 | 389363 | 208375 | 390752 |
+| 65-1 | 209965 | 385965 | 209861 | 390107 |
+| 66-1 | 208840 | 385801 | 209094 | 386525 |
+| 67-1 | 207898 | 380745 | 207982 | 381629 |
+| 68-1 | 206047 | 371417 | 208554 | 378793 |
+| 68-2 | 208554 | 378793 | 209422 | 383535 |
+| 69-1 | 208277 | 378117 | 207921 | 374808 |
+| 70-1 | 204683 | 370579 | 207228 | 374077 |
+| 71-1 | 205042 | 369008 | 205474 | 369641 |
+| 72-1 | 200430 | 366239 | 200544 | 366331 |
+| 73-1 | 199624 | 364130 | 200498 | 365031 |
+| 74-1 | 196533 | 363209 | 198066 | 363575 |
+| 75-1 | 196240 | 359983 | 196463 | 360760 |
+| 76-1 | 196568 | 355447 | 196814 | 356790 |
+| 76-2 | 196814 | 356790 | 197507 | 357256 |
+| 76a-1 | 196387 | 355283 | 196387 | 355283 | (closed section) |
+| 77-1 | 194708 | 353336 | 196682 | 354266 |
+| 78-1 | 188262 | 354004 | 191587 | 355019 |
+| 78a-1 | 192597 | 355730 | 192545 | 356136 |
+| 79-1 | 188222 | 353922 | 186634 | 351562 |
+| 80-1 | 190683 | 351761 | 191854 | 351385 |
+| 81-1 | 186301 | 348601 | 186301 | 348601 | (closed section) |
+| 82-1 | 186854 | 345661 | 186993 | 346140 |
+| 83-1 | 182024 | 335563 | 186136 | 344319 |
+| 84-1 | 183885 | 342125 | 183885 | 342125 | (closed section) |
+| 85-1 | 181373 | 333439 | 181572 | 333937 |
+| 86-1 | 179697 | 331607 | 179697 | 331607 | (closed section) |
+| 87-1 | 180503 | 330368 | 181184 | 332548 |
+| 88-1 | 179298 | 325217 | 180215 | 326880 |
+| 89-1 | 178661 | 324033 | 178792 | 324312 |
+| 90-1 | 178064 | 312736 | 177147 | 320508 |
+| 91-1 | 177690 | 322649 | 177690 | 322649 | (closed section) |
+| 92-1 | 176455 | 320388 | 176455 | 320388 | (closed section) |
+| 93-1 | 176764 | 318968 | 175495 | 321230 |
+| 94-1 | 176728 | 316261 | 176894 | 317096 |
+| 95-1 | 177054 | 309624 | 177395 | 310485 |
+| 201 | 154105 | 567249 | 131682 | 549716 |
+| 202 | 195173 | 519105 | 195317 | 519225 |
+| 204a | 147798 | 522938 | 158288 | 504524 |
+| 204b | 147798 | 522938 | 158288 | 504524 |
+| 205 | 160680 | 475073 | 160892 | 474315 |
+| 206 | 200190 | 502567 | 200247 | 502522 |
+| 208 | 71046 | 441844 | 75202 | 437260 |
+| 209 | 80598 | 431187 | 77484 | 434797 |
+| 210 | 99456 | 436741 | 99230 | 436695 |
+| 211 | 64432 | 429234 | 61801 | 426806 |
+| 212 | 119764 | 424127 | 119831 | 424128 |
+| 213 | 131982 | 423063 | 131431 | 422736 |
+| 214 | 50187 | 423075 | 47016 | 417935 |
+| 215 | 87357 | 411458 | 81758 | 413108 |
+| 216 | 65464 | 409401 | 70445 | 411726 |
+| 217 | 69404 | 410732 | 72311 | 405585 |
+| 218 | 39836 | 409941 | 36840 | 402588 |
+| 219 | 70970 | 392499 | 73614 | 383309 |
+| 221 | 49557 | 395609 | 49374 | 396428 |
+| 222 | 59287 | 385942 | 59363 | 385948 |
+| 223 | 75465 | 376811 | 73211 | 379721 |
+| 224 | 153475 | 423826 | 152240 | 423529 |
+| 225 | 191128 | 508821 | 185608 | 514144 |
+| 226 | 186686 | 506469 | 187005 | 506522 |
+| 227 | 187519 | 503868 | 186770 | 503645 |
+| 228 | 177147 | 320508 | 177077 | 320508 |
+
+**Appendix II. Standards for dike sections as referred to in Article 2.2, first paragraph (alert values)**
+
+| Section | Probability of flooding as referred to in Article 2.2, first paragraph, second sentence, introductory clause and subsection a | Probability of failure as referred to in Article 2.2, first paragraph, second sentence, introductory clause and subsection b |
+|---|---|---|
+| 1-1 | 1:1000 | |
+| 1-2 | 1:1000 | |
+| 2-1 | 1:1000 | |
+| 2-2 | 1:1000 | |
+| 3-1 | 1:3000 | |
+| 3-2 | 1:1000 | |
+| 4-1 | 1:300 | |
+| 4-2 | 1:1000 | |
+| 5-1 | 1:3000 | |
+| 5-2 | 1:3000 | |
+| 6-1 | 1:3000 | |
+| 6-2 | 1:3000 | |
+| 6-3 | 1:3000 | |
+| 6-4 | 1:3000 | |
+| 6-5 | 1:3000 | |
+| 6-6 | 1:3000 | |
+| 6-7 | 1:10000 | |
+| 7-1 | 1:3000 | |
+| 7-2 | 1:3000 | |
+| 8-1 | 1:30000 | |
+| 8-2 | 1:30000 | |
+| 8-3 | 1:30000 | |
+| 8-4 | 1:30000 | |
+| 8-5 | 1:3000 | |
+| 8-6 | 1:3000 | |
+| 8-7 | 1:3000 | |
+| 9-1 | 1:1000 | |
+| 9-2 | 1:3000 | |
+| 10-1 | 1:3000 | |
+| 10-2 | 1:3000 | |
+| 10-3 | 1:10000 | |
+| 11-1 | 1:3000 | |
+| 11-2 | | 1:3000 |
+| 11-3 | 1:300 | |
+| 12-1 | 1:1000 | |
+| 12-2 | 1:3000 | |
+| 13-1 | 1:3000 | |
+| 13-2 | 1:3000 | |
+| 13-3 | 1:3000 | |
+| 13-4 | 1:3000 | |
+| 13-5 | 1:3000 | |
+| 13-6 | 1:3000 | |
+| 13-7 | 1:3000 | |
+| 13-8 | 1:3000 | |
+| 13-9 | 1:3000 | |
+| 13a-1 | 1:300 | |
+| 13b-1 | 1:300 | |
+| 14-1 | 1:30000 | |
+| 14-2 | 1:100000 | |
+| 14-3 | 1:10000 | |
+| 14-4 | 1:10000 | |
+| 14-5 | 1:30000 | |
+| 14-6 | 1:30000 | |
+| 14-7 | 1:30000 | |
+| 14-8 | 1:30000 | |
+| 14-9 | 1:30000 | |
+| 14-10 | 1:30000 | |
+| 15-1 | 1:30000 | |
+| 15-2 | 1:10000 | |
+| 15-3 | 1:10000 | |
+| 16-1 | 1:100000 | |
+| 16-2 | 1:30000 | |
+| 16-3 | 1:30000 | |
+| 16-4 | 1:30000 | |
+| 17-1 | 1:3000 | |
+| 17-2 | 1:3000 | |
+| 17-3 | 1:100000 | |
+| 18-1 | 1:10000 | |
+| 19-1 | 1:100000 | |
+| 20-1 | 1:30000 | |
+| 20-2 | 1:10000 | |
+| 20-3 | 1:30000 | |
+| 20-4 | 1:1000 | |
+| 21-1 | 1:3000 | |
+| 21-2 | 1:300 | |
+| 22-1 | 1:3000 | |
+| 22-2 | 1:10000 | |
+| 23-1 | 1:3000 | |
+| 24-1 | 1:10000 | |
+| 24-2 | 1:1000 | |
+| 24-3 | 1:10000 | |
+| 25-1 | 1:3000 | |
+| 25-2 | 1:1000 | |
+| 25-3 | 1:300 | |
+| 25-4 | 1:300 | |
+| 26-1 | 1:3000 | |
+| 26-2 | 1:3000 | |
+| 26-3 | 1:10000 | |
+| 26-4 | 1:1000 | |
+| 27-1 | 1:3000 | |
+| 27-2 | 1:10000 | |
+| 27-3 | 1:3000 | |
+| 27-4 | 1:1000 | |
+| 28-1 | 1:1000 | |
+| 29-1 | 1:3000 | |
+| 29-2 | 1:10000 | |
+| 29-3 | 1:100000 | |
+| 29-4 | 1:1000 | |
+| 30-1 | 1:3000 | |
+| 30-2 | 1:100000 | |
+| 30-3 | 1:3000 | |
+| 30-4 | 1:1000000 | |
+| 31-1 | 1:30000 | |
+| 31-2 | 1:10000 | |
+| 31-3 | 1:300 | |
+| 32-1 | 1:1000 | |
+| 32-2 | 1:1000 | |
+| 32-3 | 1:3000 | |
+| 32-4 | 1:3000 | |
+| 33-1 | 1:300 | |
+| 34-1 | 1:1000 | |
+| 34-2 | 1:1000 | |
+| 34-3 | 1:3000 | |
+| 34-4 | 1:1000 | |
+| 34-5 | 1:300 | |
+| 34a-1 | 1:3000 | |
+| 35-1 | 1:10000 | |
+| 35-2 | 1:3000 | |
+| 36-1 | 1:10000 | |
+| 36-2 | 1:30000 | |
+| 36-3 | 1:30000 | |
+| 36-4 | 1:10000 | |
+| 36-5 | 1:10000 | |
+| 36a-1 | 1:3000 | |
+| 37-1 | 1:10000 | |
+| 38-1 | 1:30000 | |
+| 38-2 | 1:10000 | |
+| 39-1 | 1:3000 | |
+| 40-1 | 1:30000 | |
+| 40-2 | 1:10000 | |
+| 41-1 | 1:30000 | |
+| 41-2 | 1:10000 | |
+| 41-3 | 1:3000 | |
+| 41-4 | 1:10000 | |
+| 42-1 | 1:10000 | |
+| 43-1 | 1:30000 | |
+| 43-2 | 1:10000 | |
+| 43-3 | 1:30000 | |
+| 43-4 | 1:30000 | |
+| 43-5 | 1:30000 | |
+| 43-6 | 1:30000 | |
+| 44-1 | 1:30000 | |
+| 44-2 | 1:300 | |
+| 44-3 | 1:30000 | |
+| 45-1 | 1:100000 | |
+| 45-2 | 1:300 | |
+| 45-3 | 1:300 | |
+| 46-1 | 1:300 | |
+| 47-1 | 1:3000 | |
+| 48-1 | 1:30000 | |
+| 48-2 | 1:10000 | |
+| 48-3 | 1:10000 | |
+| 49-1 | 1:300 | |
+| 49-2 | 1:10000 | |
+| 50-1 | 1:30000 | |
+| 50-2 | 1:3000 | |
+| 51-1 | 1:1000 | |
+| 52a-1 | 1:3000 | |
+| 52-1 | 1:3000 | |
+| 52-2 | 1:3000 | |
+| 52-3 | 1:3000 | |
+| 52-4 | 1:3000 | |
+| 53-1 | 1:3000 | |
+| 53-2 | 1:10000 | |
+| 53-3 | 1:10000 | |
+| 54-1 | 1:1000 | |
+| 55-1 | 1:1000 | |
+| 56-1 | 1:300 | |
+| 57-1 | 1:300 | |
+| 58-1 | 1:300 | |
+| 59-1 | 1:300 | |
+| 60-1 | 1:300 | |
+| 61-1 | 1:300 | |
+| 62-1 | 1:300 | |
+| 63-1 | 1:300 | |
+| 64-1 | 1:300 | |
+| 65-1 | 1:300 | |
+| 66-1 | 1:300 | |
+| 67-1 | 1:300 | |
+| 68-1 | 1:1000 | |
+| 68-2 | 1:300 | |
+| 69-1 | 1:1000 | |
+| 70-1 | 1:300 | |
+| 71-1 | 1:300 | |
+| 72-1 | 1:300 | |
+| 73-1 | 1:300 | |
+| 74-1 | 1:300 | |
+| 75-1 | 1:300 | |
+| 76-1 | 1:300 | |
+| 76-2 | 1:300 | |
+| 76a-1 | 1:300 | |
+| 77-1 | 1:300 | |
+| 78-1 | 1:300 | |
+| 78a-1 | 1:300 | |
+| 79-1 | 1:300 | |
+| 80-1 | 1:300 | |
+| 81-1 | 1:300 | |
+| 82-1 | 1:300 | |
+| 83-1 | 1:300 | |
+| 84-1 | 1:300 | |
+| 85-1 | 1:300 | |
+| 86-1 | 1:300 | |
+| 87-1 | 1:1000 | |
+| 88-1 | 1:300 | |
+| 89-1 | 1:300 | |
+| 90-1 | 1:3000 | |
+| 91-1 | 1:300 | |
+| 92-1 | 1:300 | |
+| 93-1 | 1:1000 | |
+| 94-1 | 1:300 | |
+| 95-1 | 1:300 | |
+| 201 | | 1:10000 |
+| 202 | 1:10000 | |
+| 204a | | 1:10000 |
+| 204b | | 1:1000 |
+| 205 | 1:3000 | |
+| 206 | | 1:10000 |
+| 208 | | 1:100000 |
+| 209 | | 1:100000 |
+| 210 | | 1:100000 |
+| 211 | | 1:3000 |
+| 212 | | 1:10000 |
+| 213 | 1:10000 | |
+| 214 | | 1:3000 |
+| 215 | | 1:30000 |
+| 216 | | 1:3000 |
+| 217 | | 1:30000 |
+| 218 | | 1:30000 |
+| 219 | | 1:30000 |
+| 221 | 1:10000 | |
+| 222 | | 1:30000 |
+| 223 | | 1:30000 |
+| 224 | | 1:30000 |
+| 225 | | 1:30000 |
+| 226 | 1:3000 | |
+| 227 | 1:3000 | |
+| 228 | 1:3000 | |
+
+**Appendix III. Standards for dike sections as referred to in Article 2.2, second and third paragraphs (lower limits)**
+
+| Section | Probability of flooding as referred to in Article 2.2, second paragraph, second sentence, introductory clause and subsection a | Probability of failure as referred to in Article 2.2, second paragraph, second sentence, introductory clause and subsection b | Probability of flooding as referred to in Article 2.2, second paragraph, second sentence, introductory clause and subsection c | Probability of flooding as referred to in Article 2.2, third paragraph, introductory clause and subsection a | Probability of non-closure as referred to in Article 2.2, third paragraph, introductory clause and subsection b |
+|---|---|---|---|---|---|
+| 1-1 | 1:1000 | | | | |
+| 1-2 | 1:1000 | | | | |
+| 2-1 | 1:300 | | | | |
+| 2-2 | 1:1000 | | | | |
+| 3-1 | 1:3000 | | | | |
+| 3-2 | 1:1000 | | | | |
+| 4-1 | 1:300 | | | | |
+| 4-2 | 1:300 | | | | |
+| 5-1 | 1:1000 | | | | |
+| 5-2 | 1:3000 | | | | |
+| 6-1 | 1:1000 | | | | |
+| 6-2 | 1:1000 | | | | |
+| 6-3 | 1:1000 | | | | |
+| 6-4 | 1:1000 | | | | |
+| 6-5 | 1:1000 | | | | |
+| 6-6 | 1:1000 | | | | |
+| 6-7 | 1:3000 | | | | |
+| 7-1 | 1:1000 | | | | |
+| 7-2 | 1:1000 | | | | |
+| 8-1 | 1:10000 | | | | |
+| 8-2 | 1:10000 | | | | |
+| 8-3 | 1:10000 | | | | |
+| 8-4 | 1:10000 | | | | |
+| 8-5 | 1:1000 | | | | |
+| 8-6 | 1:1000 | | | | |
+| 8-7 | 1:1000 | | | | |
+| 9-1 | 1:300 | | | | |
+| 9-2 | 1:1000 | | | | |
+| 10-1 | 1:1000 | | | | |
+| 10-2 | 1:1000 | | | | |
+| 10-3 | 1:3000 | | | | |
+| 11-1 | 1:1000 | | | | |
+| 11-2 | | 1:1000 | | | |
+| 11-3 | 1:100 | | | | |
+| 12-1 | 1:1000 | | | | |
+| 12-2 | 1:1000 | | | | |
+| 13-1 | 1:1000 | | | | |
+| 13-2 | 1:3000 | | | | |
+| 13-3 | 1:1000 | | | | |
+| 13-4 | 1:1000 | | | | |
+| 13-5 | 1:1000 | | | | |
+| 13-6 | 1:1000 | | | | |
+| 13-7 | 1:1000 | | | | |
+| 13-8 | 1:1000 | | | | |
+| 13-9 | 1:1000 | | | | |
+| 13a-1 | 1:100 | | | | |
+| 13b-1 | 1:100 | | | | |
+| 14-1 | 1:10000 | | | | |
+| 14-2 | 1:30000 | | | | |
+| 14-3 | 1:10000 | | | | |
+| 14-4 | 1:3000 | | | | |
+| 14-5 | 1:10000 | | | | |
+| 14-6 | 1:10000 | | | | |
+| 14-7 | 1:10000 | | | | |
+| 14-8 | 1:10000 | | | | |
+| 14-9 | 1:30000 | | | | |
+| 14-10 | 1:30000 | | | | |
+| 15-1 | 1:10000 | | | | |
+| 15-2 | 1:3000 | | | | |
+| 15-3 | 1:3000 | | | | |
+| 16-1 | 1:30000 | | | | |
+| 16-2 | 1:10000 | | | | |
+| 16-3 | 1:10000 | | | | |
+| 16-4 | 1:10000 | | | | |
+| 16-5 | | | 1:10 | | |
+| 17-1 | 1:1000 | | | | |
+| 17-2 | 1:1000 | | | | |
+| 17-3 | 1:30000 | | | | |
+| 18-1 | 1:3000 | | | | |
+| 19-1 | 1:30000 | | | | |
+| 20-1 | 1:10000 | | | | |
+| 20-2 | 1:10000 | | | | |
+| 20-3 | 1:10000 | | | | |
+| 20-4 | 1:300 | | | | |
+| 21-1 | 1:1000 | | | | |
+| 21-2 | 1:100 | | | | |
+| 22-1 | 1:1000 | | | | |
+| 22-2 | 1:3000 | | | | |
+| 23-1 | 1:1000 | | | | |
+| 24-1 | 1:3000 | | | | |
+| 24-2 | 1:300 | | | | |
+| 24-3 | 1:10000 | | | | |
+| 25-1 | 1:1000 | | | | |
+| 25-2 | 1:300 | | | | |
+| 25-3 | 1:100 | | | 1:10 | |
+| 25-4 | 1:300 | | | | |
+| 26-1 | 1:1000 | | | | |
+| 26-2 | 1:1000 | | | | |
+| 26-3 | 1:3000 | | | | |
+| 26-4 | 1:1000 | | | | |
+| 27-1 | 1:3000 | | | | |
+| 27-2 | 1:10000 | | | | |
+| 27-3 | 1:1000 | | | 1:10 | |
+| 27-4 | 1:300 | | | 1:10 | |
+| 28-1 | 1:300 | | | | |
+| 29-1 | 1:1000 | | | | |
+| 29-2 | 1:3000 | | | | |
+| 29-3 | 1:30000 | | | | |
+| 29-4 | 1:1000 | | | | |
+| 30-1 | 1:1000 | | | | |
+| 30-2 | 1:100000 | | | | |
+| 30-3 | 1:1000 | | | | |
+| 30-4 | 1:1000000 | | | | |
+| 31-1 | 1:10000 | | | | |
+| 31-2 | 1:3000 | | | | |
+| 31-3 | 1:100 | | | 1:10 | |
+| 32-1 | 1:300 | | | | |
+| 32-2 | 1:300 | | | | |
+| 32-3 | 1:1000 | | | | |
+| 32-4 | 1:1000 | | | | |
+| 33-1 | 1:100 | | | 1:10 | |
+| 34-1 | 1:300 | | | | |
+| 34-2 | 1:300 | | | | |
+| 34-3 | 1:1000 | | | 1:10 | |
+| 34-4 | 1:300 | | | 1:10 | |
+| 34-5 | 1:100 | | | 1:10 | |
+| 34a-1 | 1:1000 | | | | |
+| 35-1 | 1:3000 | | | | |
+| 35-2 | 1:1000 | | | | |
+| 36-1 | 1:3000 | | | | |
+| 36-2 | 1:10000 | | | | |
+| 36-3 | 1:10000 | | | | |
+| 36-4 | 1:3000 | | | | |
+| 36-5 | 1:3000 | | | | |
+| 36a-1 | 1:1000 | | | | |
+| 37-1 | 1:3000 | | | | |
+| 38-1 | 1:10000 | | | | |
+| 38-2 | 1:3000 | | | | |
+| 39-1 | 1:3000 | | | | |
+| 40-1 | 1:30000 | | | | |
+| 40-2 | 1:3000 | | | | |
+| 41-1 | 1:10000 | | | | |
+| 41-2 | 1:3000 | | | | |
+| 41-3 | 1:3000 | | | | |
+| 41-4 | 1:3000 | | | | |
+| 42-1 | 1:3000 | | | | |
+| 43-1 | 1:10000 | | | | |
+| 43-2 | 1:3000 | | | | |
+| 43-3 | 1:10000 | | | | |
+| 43-4 | 1:10000 | | | | |
+| 43-5 | 1:10000 | | | | |
+| 43-6 | 1:10000 | | | | |
+| 44-1 | 1:10000 | | | | |
+| 44-2 | 1:100 | | | | |
+| 44-3 | 1:10000 | | | | |
+| 45-1 | 1:30000 | | | | |
+| 45-2 | 1:100 | | | | |
+| 45-3 | 1:100 | | | | |
+| 46-1 | 1:100 | | | | |
+| 47-1 | 1:1000 | | | | |
+| 48-1 | 1:10000 | | | | |
+| 48-2 | 1:3000 | | | | |
+| 48-3 | 1:3000 | | | | |
+| 49-1 | 1:100 | | | | |
+| 49-2 | 1:3000 | | | | |
+| 50-1 | 1:10000 | | | | |
+| 50-2 | 1:1000 | | | | |
+| 51-1 | 1:300 | | | | |
+| 52a-1 | 1:1000 | | | | |
+| 52-1 | 1:1000 | | | | |
+| 52-2 | 1:1000 | | | | |
+| 52-3 | 1:1000 | | | | |
+| 52-4 | 1:1000 | | | | |
+| 53-1 | 1:1000 | | | | |
+| 53-2 | 1:3000 | | | | |
+| 53-3 | 1:3000 | | | | |
+| 54-1 | 1:300 | | | | |
+| 55-1 | 1:300 | | | | |
+| 56-1 | 1:100 | | | | |
+| 57-1 | 1:100 | | | | |
+| 58-1 | 1:100 | | | | |
+| 59-1 | 1:100 | | | | |
+| 60-1 | 1:100 | | | | |
+| 61-1 | 1:100 | | | | |
+| 62-1 | 1:100 | | | | |
+| 63-1 | 1:100 | | | | |
+| 64-1 | 1:100 | | | | |
+| 65-1 | 1:100 | | | | |
+| 66-1 | 1:100 | | | | |
+| 67-1 | 1:100 | | | | |
+| 68-1 | 1:300 | | | | |
+| 68-2 | 1:100 | | | | |
+| 69-1 | 1:300 | | | | |
+| 70-1 | 1:100 | | | | |
+| 71-1 | 1:100 | | | | |
+| 72-1 | 1:100 | | | | |
+| 73-1 | 1:100 | | | | |
+| 74-1 | 1:100 | | | | |
+| 75-1 | 1:100 | | | | |
+| 76-1 | 1:100 | | | | |
+| 76-2 | 1:100 | | | | |
+| 76a-1 | 1:100 | | | | |
+| 77-1 | 1:100 | | | | |
+| 78-1 | 1:100 | | | | |
+| 78a-1 | 1:100 | | | | |
+| 79-1 | 1:100 | | | | |
+| 80-1 | 1:100 | | | | |
+| 81-1 | 1:100 | | | | |
+| 82-1 | 1:100 | | | | |
+| 83-1 | 1:100 | | | | |
+| 84-1 | 1:100 | | | | |
+| 85-1 | 1:100 | | | | |
+| 86-1 | 1:100 | | | | |
+| 87-1 | 1:300 | | | | |
+| 88-1 | 1:100 | | | | |
+| 89-1 | 1:100 | | | | |
+| 90-1 | 1:1000 | | | | |
+| 91-1 | 1:300 | | | | |
+| 92-1 | 1:100 | | | | |
+| 93-1 | 1:300 | | | | |
+| 94-1 | 1:100 | | | | |
+| 95-1 | 1:100 | | | | |
+| 201 | | 1:3000 | | | |
+| 202 | 1:3000 | | | | |
+| 204a | | 1:3000 | | | |
+| 204b | | 1:300 | | | |
+| 205 | 1:1000 | | | | |
+| 206 | | 1:3000 | | | |
+| 208 | | 1:30000 | | 1:100 | 1:100 |
+| 209 | | 1:30000 | | 1:10 | |
+| 210 | | 1:30000 | | | 1:200 |
+| 211 | | 1:1000 | | | |
+| 212 | | 1:3000 | | | |
+| 213 | 1:3000 | | | | |
+| 214 | | 1:1000 | | | |
+| 215 | | 1:10000 | | | |
+| 216 | | 1:1000 | | | |
+| 217 | | 1:10000 | | | |
+| 218 | | 1:10000 | | | |
+| 219 | | 1:10000 | | | |
+| 221 | 1:3000 | | | | |
+| 222 | | 1:10000 | | | |
+| 223 | | 1:10000 | | | |
+| 224 | | 1:10000 | | | |
+| 225 | | 1:10000 | | | 1:100 |
+| 226 | 1:1000 | | | | |
+| 227 | 1:1000 | | | | |
+| 228 | 1:1000 | | | | |
+

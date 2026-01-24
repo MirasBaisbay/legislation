@@ -1,0 +1,648 @@
+****
+[Source text not found. Please provide the text to be translated.]
+
+****
+
+Ministry of Environment, Water & Agriculture
+Kingdom of Saudi Arabia
+
+[VISION 2030 LOGO]
+KINGDOM OF SAUDI ARABIA
+
+**Draft Water Law**
+
+**Chapter One**
+**General Provisions**
+
+**Article One: Definitions**
+The following words and phrases, wherever they appear in this Law, shall have the meanings assigned to them below, unless the context requires otherwise:
+
+**The Ministry:** The Ministry of Environment, Water and Agriculture.
+**The Minister:** The Minister of Environment, Water and Agriculture.
+**The Authority:** The Public Services Regulatory Authority.
+**The Law:** The Water Law.
+**The Regulation(s):** The implementing regulation(s) of this Law.
+**Water Resources:** Groundwater and surface water within the borders of the Kingdom and its territorial waters, including water from wells, *aflaj* (man-made channels), springs, dams, rainwater, other water captured or produced in water facilities, or wastewater.
+**Watershed:** A natural depression in the Earth's surface into which all water drains from adjacent areas and in which all materials transported by the water are deposited.
+**Water Production:** Pumping naturally potable water from its sources, reducing its salinity, purifying it, desalinating saltwater for public use, or collecting and treating wastewater to make it suitable for use.
+**Public Infrastructure:** Facilities used for the production, harvesting, conveyance, distribution, storage, monitoring, purification, or treatment of water, whether owned by the public or private sector.
+**Water Tariff:** A monetary amount paid by the beneficiary for the quantity of consumption and for obtaining water services.
+**Water Distribution:** The process of delivering water from production sites to users via networks, tankers, or any other means.
+**Water Conveyance:** The process of transporting water from production sites to main distribution reservoir points.
+**License:** An authorization or permit issued by the Ministry to access water resources, or issued by the Authority to conduct a water activity or provide services.
+**Water Activity:** Any activity related to water, including production, conveyance, distribution, collection, treatment, reuse, and other activities.
+**Rock Outcrop:** A part of a geological formation whose rocks are exposed above the Earth's surface.
+**Renewable Groundwater:** Groundwater stored in aquifers that are naturally replenished by a suitable amount of water relative to the amount withdrawn from them within a single year.
+**Non-Renewable Groundwater:** Groundwater stored since pluvial periods in aquifers that receive no natural recharge or receive a very negligible amount of water relative to the amount stored therein.
+**Surface Water:** Water that collects or flows on the ground, such as seawater, lakes, rivers, floods, snow, and their channels.
+**Wastewater:** Effluent whose color, taste, odor, or level of health or environmental safety has been altered as a result of its use or its mixing with other substances.
+**Aquifers:** Rock layers with porosity and permeability that enable them to store and transmit water.
+**Transboundary Water:** Surface water or groundwater that crosses international borders.
+**Unusable Water:** Water whose natural properties have changed in a way that is inconsistent with the specifications for its designated uses.
+**Service Provider(s):** The Ministry, or the companies, establishments, or individuals who undertake the conveyance and distribution of water and supervise the operation and maintenance of water facilities.
+**Replacement Value:** The added value determined by the Ministry for exported water.
+**Strategic Storage:** Storing water in artificial reservoirs or suitable aquifers for the purpose of pumping and utilizing it at a later time.
+**Safe Yield of the Source:** The quantity of water that can be withdrawn from a water source without compromising its sustainability or altering its quality.
+**The Code:** The Saudi Code for Water Resources and Their Uses.
+**Saudi Building Code:** The set of requirements and regulations related to building and construction to ensure public safety and health, issued by Council of Ministers Resolution No. (279) dated 8/11/1425 H.
+**Water Trading:** The purchase of water produced by direct pumping, purification, desalination, or treatment from a producer and its sale to water distributors, which includes brokering and arranging for the establishment of water production projects with the aim of purchasing the output of these projects.
+**Use Rights:** The powers granted to the holder of a license to use a water source.
+**Rational Use of Water:** Using the least possible amount of water to meet a need.
+**Non-Consumptive Use:** Using water in a way that does not lead to its depletion or a change in its properties, such as for navigation, diving, fishing, and sailing.
+**Greywater:** Water produced from swimming pools, laundry washing, car washing, or floor washing; it does not include water from toilets, kitchen sinks, or dishwashers.
+**Pollutants:** Any physical, chemical, organic, or radioactive substance that degrades water quality or poses a risk when the water is utilized.
+**Wastewater Treatment:** The conversion of sewage, greywater, agricultural, or industrial wastewater into water that is safe for health and the environment.
+**Biological Treatment:** Treatment processes aimed at activating bacteria in sewage to reduce the concentration of organic matter therein.
+**Secondary Treatment:** The level of treatment that can be achieved through biological treatment followed by sedimentation and disinfection or other processes.
+**Tertiary Treatment:** The level of treatment that can be achieved through secondary treatment followed by filtration and disinfection or other processes.
+**Restricted Agricultural Irrigation:** The irrigation of crops whose fruit does not come into contact with the water, whether eaten fresh or cooked.
+**Unrestricted Agricultural Irrigation:** The irrigation of all crops without exception.
+**Sludge:** The solid precipitated materials resulting from sewage treatment plants, which contain vast quantities of pathogenic microorganisms or heavy elements that pose a health risk.
+**Bottled Water:** Potable water that is packaged in sealed, sanitary containers and meets the Saudi standard specifications for bottled drinking water and packaged food labeling.
+**Unbottled Water:** Potable water that is packaged in unsealed containers, treated in accordance with Saudi standard specifications for unbottled drinking water, and distributed via tankers or water filling stations.
+**Injection:** Pumping water that conforms to technical specifications and standards into aquifers.
+
+**Article Two: Objectives and Scope of the Law**
+This Law aims to regulate, protect, and ensure the sustainability of water resources, manage them, and regulate their affairs, related rights, and aspects of their use. To that end, this shall include, but is not limited to, the following:
+1.  Protecting water resources, securing their sites, monitoring their quality, and improving the efficiency of their use.
+2.  Providing a secure, clean, reliable, and high-quality water supply.
+3.  Improving the efficiency of water production, use, conveyance, and distribution, and ensuring the proper maintenance and operation of its service facilities.
+4.  Establishing the importance of water as an essential source of life and a substance of economic value.
+5.  Defining, controlling, and regulating the rights to use water and its services in a manner that ensures the equitable and beneficial use of water, first for humanitarian purposes, then for economic purposes.
+6.  Ensuring the fair distribution of water to achieve a balance between the need to protect water resources and rationalize their use and the requirements and needs of national development plans, and balancing the management of water supply and demand for different needs.
+7.  Protecting public health and the environment from the various impacts related to water uses, projects, or infrastructure, and limiting all forms of related environmental pollution.
+8.  Raising the level of effectiveness and efficiency of water resource management within the concept of integrated water management, and raising the quality, effectiveness, continuity, and adequacy of water services.
+9.  Enhancing private sector participation in providing water services within an attractive regulatory and investment environment.
+10. Regulating and qualifying water endowment services.
+11. Entrenching the principle of coordination between relevant entities and water users in drafting, establishing, applying, and monitoring the implementation of water policies and regulations.
+12. Ensuring proper readiness and effectiveness in responding to emergency situations.
+13. Promoting the principle of transparency, ensuring the collection and provision of water information, enhancing the right to access and exchange it, and ensuring it is updated and kept current with developments and new findings.
+
+**Article Three**
+With the exception of Zamzam water, the provisions of this Law shall apply to all water resources and affairs in the Kingdom.
+
+**Article Four**
+Transboundary water resources with neighboring countries shall be subject to regional and international treaties, agreements, and memoranda of understanding to which the Kingdom is a party. The Ministry of Foreign Affairs shall coordinate with the Ministry regarding the drafting of their texts to ensure they are consistent with the provisions of this Law.
+
+**Chapter Two**
+**Water Resources and Ownership**
+
+**Article Five**
+Water resources within the borders of the Kingdom and its territorial waters include the following sources:
+a. Rainwater, snow, and flood runoff.
+b. Groundwater, including renewable and non-renewable water in aquifers.
+c. Surface water.
+d. Treated wastewater.
+e. Desalinated seawater.
+
+**Article Six**
+All water resources are the property of the State. Private ownership, such as ownership of land or a facility, does not constitute ownership of the resource.
+
+**Article Seven**
+The Ministry shall undertake the protection, management, and sustainability of water resources and determine the aspects of their use. To that end, it has the right to grant licenses for the use and exploitation of water resources in accordance with the controls and requirements specified in the Regulation.
+
+**Article Eight**
+The Ministry has the right to require the installation of water meters on wells on farms, rest houses, or homes to monitor and regulate the quantity of consumption and collect a tariff or fees for consumption.
+
+**Article Nine**
+Ownership of wells or licenses to use water resources shall not be automatically transferred with the transfer of land ownership. The parties must adhere to the conditions and rules for license transfer specified by the Ministry.
+
+**Article Ten**
+The transfer of ownership of agricultural lands is prohibited except after obtaining approval from the Ministry.
+
+**Chapter Three**
+**Water Strategy and Plans**
+
+**Management of Water Resources**
+
+**Article Eleven**
+The Ministry shall prepare and update the National Water Strategy, which sets the developmental objectives for the water sector. This strategy shall be issued by a decision of the Council of Ministers.
+
+**Article Twelve**
+The Ministry shall implement the National Water Strategy in accordance with a mechanism issued by a decision of the Minister.
+
+**Article Thirteen**
+Water policies, strategies, and plans shall take the following into account:
+1.  Development and sustainability of water resources.
+2.  Management of water demand.
+3.  Protection of non-renewable groundwater as a strategic reserve for municipal purposes.
+4.  Maximum utilization of desalinated water for municipal uses.
+5.  Meeting industrial and agricultural water use priorities with surface water, agricultural drainage water, and treated wastewater, followed by renewable groundwater.
+6.  Achieving health safety and preserving and protecting the environment from all sources and types of pollution in all activities related to the development and use of water resources.
+7.  Monitoring climate change data and scientific forecasts in coordination with the General Authority of Meteorology and Environmental Protection and other entities to determine the impact of climate change on the water sector.
+8.  Encouraging and attracting the private sector to participate in water projects and services.
+
+**Article Fourteen**
+The Ministry may manage water resources based on the watershed standard or any other standard that serves the public interest, without being bound by the administrative regional boundaries in the Kingdom.
+
+**Emergencies and Disasters**
+
+**Article Fifteen**
+In the event of any emergency or disaster (natural or unnatural) that leads to water scarcity or contamination, the Minister shall declare a state of emergency and take any exceptional measures, such as imposing restrictions on water uses or use rights, to manage the crisis and prevent its escalation.
+
+**Article Sixteen**
+The Ministry, in coordination with the relevant entities, shall develop emergency and disaster management plans that include activating monitoring and early warning technologies, identifying and classifying risk levels, the measures and procedures to be taken for each level, and any other plans or procedures.
+
+**Article Seventeen**
+It is prohibited for any natural or legal person to exploit emergency or disaster situations, such as by raising water prices—directly or indirectly—or altering, using, or selling water unlawfully.
+
+**Private Sector Participation**
+
+**Article Eighteen**
+The Authority, in coordination with the Ministry and relevant entities, shall prepare plans to encourage and attract the private sector to participate in water projects and services in accordance with approved national policies and strategies.
+
+**Article Nineteen**
+Private sector participation in water projects and services must, in addition to the objectives required by national policies in the Kingdom, achieve the following:
+1.  Participation in bearing the responsibility for protecting, developing, and sustaining water resources.
+2.  Participation in benefiting from the water sector and bearing the responsibility for its services and risks.
+3.  Expanding participation in the operation of the water sector, investing in operating companies, and participating in their decision-making.
+4.  Achieving flexibility and effectiveness in the management and operation of the water sector.
+5.  Raising the quality of water services by adopting business management models and principles in providing these services and through constructive and legitimate competition among service providers.
+
+**Article Twenty**
+The Authority and relevant entities shall commit to securing a safe environment for investment in water services by ensuring:
+1.  Transparency, impartiality, integrity, and the provision of necessary information.
+2.  The absence of monopoly or dominance over the service or infrastructure.
+3.  Combating unfair competition in accordance with the relevant laws.
+
+**Water Information and Research**
+
+**Article Twenty-One**
+The Ministry shall establish a national center for water information and research.
+
+**Article Twenty-Two**
+Government and private entities and research centers must cooperate with the center and facilitate its access to necessary information, samples, and documents, and provide it with any studies, information, or observations related to water resources.
+
+**Article Twenty-Three**
+The center shall encourage research activities and provide possible support and facilities to researchers and research entities.
+
+**Chapter Four**
+**Protection and Sustainability of Water Resources**
+
+**General Frameworks and Priorities for Water Use**
+
+**Article Twenty-Four**
+Every person has the right to access clean, safe water that conforms to approved specifications to meet their natural needs. The Ministry (or) the service provider shall deliver water to populated communities on a basis of fairness and in accordance with approved standards, plans, and programs.
+
+**Article Twenty-Five**
+All natural and legal persons are prohibited from engaging in any activity that could lead to water pollution.
+
+**Article Twenty-Six**
+All water users must adhere to the following:
+1.  Conservation and avoidance of waste or extravagance in water use.
+2.  The licensed aspects of use and quantities, and enabling measurement and monitoring processes.
+3.  Protecting water resources and the environment from pollution.
+4.  Payment of any imposed fees, fines, or financial consideration.
+
+**Article Twenty-Seven**
+All water uses are subject to measurement and monitoring by the Authority in accordance with the provisions of this Law. The Authority or service providers must ensure this is implemented effectively.
+
+**Article Twenty-Eight**
+The use and allocation of water shall be as determined by the Minister, taking into account the following priorities:
+1.  Human needs.
+2.  Watering of animals.
+3.  Agricultural demand.
+4.  Industrial and tourism demand.
+5.  Urban demand.
+6.  The minimum required for ecological balance, such as in animal and fish reserves.
+
+**Monitoring of Water Resources**
+
+**Article Twenty-Nine**
+The Ministry shall monitor water resources and track any change in water quality, levels, characteristics, quantities, or the surrounding environmental or health conditions.
+
+**Article Thirty**
+1.  The Ministry shall establish monitoring stations, early warning systems, and specialized laboratories to monitor, analyze, and evaluate the characteristics, quantities, and nature of water resources.
+2.  The Ministry may cooperate and coordinate with government and private entities to utilize monitoring stations and laboratories or participate in their establishment.
+
+**Chapter Five**
+**Water Use**
+
+**Use of Groundwater and Surface Water**
+
+**Article Thirty-One**
+Annual water use quantities for developmental purposes shall be allocated—by a decision of the Minister—based on the characteristics of the water-bearing strata and the annual flow rate of wadis, in a manner that ensures their sustainability and the supply of drinking water now and in the future, and in conformity with national development plans.
+
+**Article Thirty-Two**
+It is prohibited to drill, use, deepen, replace, maintain, or backfill wells except with a license from the Ministry.
+
+**Article Thirty-Three**
+It is prohibited to use or obstruct groundwater or surface water, wholly or partially, with any type of barrier, or to construct any facilities or buildings in dam basins, lakes, or the channels of wadis and ravines, except with a license from the Ministry.
+
+**Article Thirty-Four**
+It is prohibited to withdraw water from a source in quantities exceeding what is licensed or to use it for a purpose other than that specified in the license. It is also prohibited to transport it outside the spatial scope specified therein except with a permit from the Ministry.
+
+**Article Thirty-Five**
+The Ministry has the right to suspend or stop licenses or reduce the quantities specified therein due to water scarcity or shortage, or for any reasons related to water or environmental security, public health, or other reasons.
+
+**Article Thirty-Six**
+The Ministry shall take the necessary measures and steps to prevent the use of unusable water resources, including suspending the issuance of licenses, suspending them, or canceling them.
+
+**Article Thirty-Seven**
+The Ministry has the right to enter private properties—such as farms or rest houses—to verify the integrity and legality of their water sources.
+
+**Article Thirty-Eight**
+The transfer of ownership of agricultural lands is prohibited until the legality of their wells has been confirmed.
+
+**Article Thirty-Nine**
+Water produced from saltwater desalination plants shall be allocated to the municipal sector.
+
+**Harvesting of Rainwater, Snow, and Flood Runoff**
+
+**Article Forty**
+The Ministry shall—in areas outside the jurisdiction of municipalities and local councils—establish highly efficient infrastructure, networks, and systems to collect and harvest water from rain, snow, and other sources, and direct it to achieve its maximum benefit.
+
+**Article Forty-One**
+1.  The Ministry shall coordinate with the Ministry of Municipal and Rural Affairs and competent authorities to adopt the establishment of a rainwater or snow harvesting system as a basic requirement for licensing and approving all types of buildings.
+2.  It is prohibited to license buildings, provide their owners with approvals and permits, or supply them with water unless the initial plans and the actual implementation include a suitable water harvesting and collection system that complies with approved standards.
+
+**Use of Wastewater**
+
+**Article Forty-Two**
+The use of untreated wastewater is prohibited under all circumstances and for all purposes.
+
+**Article Forty-Three**
+The use of treated wastewater is prohibited except with a license from the Ministry.
+
+**Article Forty-Four**
+With the exception of drinking, domestic uses, and food industries, the use of tertiary-treated wastewater is permitted after verifying its safety and freedom from pollutants.
+
+**Article Forty-Five**
+The use of secondary-treated water is permitted for restricted agricultural irrigation, industry, mining, construction works, and other activities after verifying its safety and freedom from pollutants, in accordance with the controls and requirements specified in the Regulation.
+
+**Article Forty-Six**
+Priority must be given to licensing the use of treated wastewater in accordance with the standards and aspects of use specified in the Regulation, in a manner that ensures the preservation and sustainability of water resources.
+
+**Article Forty-Seven**
+The uses of treated wastewater must be directed in a way that ensures the preservation and sustainability of water wealth.
+
+**Article Forty-Eight**
+All government and private establishments must coordinate with the Ministry or the competent authority to connect to sewage networks, or to collect it via tankers and discharge it at the nearest treatment plant if a sewage network is not available.
+
+**Article Forty-Nine**
+The use of sludge in agricultural activities is subject to controls issued by the Ministry. In other activities, it is subject to controls issued by the authority competent in the relevant activity, provided that such controls include strict standards for the protection of public health and the environment.
+
+**Article Fifty**
+It is prohibited to issue licenses for the construction of any residential, commercial, industrial, or governmental unit, or to grant it final approvals and permits, or to supply it with water, before verifying the provision of a suitable system for wastewater disposal that can be connected to collection and treatment systems in its initial plans and in the actual implementation.
+
+**Chapter Six**
+**Management of Water Supply and Demand**
+
+**Water Tariff**
+
+**Article Fifty-One**
+The Authority shall determine the tariff or fees for water for all its uses—in accordance with established statutory procedures—taking the following into account:
+1.  The principle of conservation and the preservation and sustainability of water resources.
+2.  The necessary water requirement rate for individuals.
+3.  The necessary water requirement rate for small and medium-sized enterprises.
+4.  The exigencies of national development policies and strategies.
+5.  The costs of water production, conveyance, distribution, storage, and the protection of its sources and infrastructure.
+6.  The protection of low-income individuals.
+7.  The quality of the water used.
+8.  The actual quantity of consumption.
+
+**Article Fifty-Two**
+The Authority shall conduct a periodic review of the water tariff at least once every five years.
+
+**Disposition of Water Use Rights**
+
+**Article Fifty-Three**
+The Ministry or the Authority—according to jurisdiction—shall not transfer a use license from one user to another before verifying that there is no other request with higher priority or greater feasibility than the intended use for the transfer, and that the new use is consistent with the safe yield of the source according to the Code.
+
+**Article Fifty-Four**
+It is prohibited to issue a new use license on the same water source, for the same use, to a person who assigns their granted license to another, until ten years have passed from the date of the disposition.
+
+**Article Fifty-Five**
+The Ministry or the Authority—according to jurisdiction—shall impose a financial consideration on requests to transfer use rights.
+
+**Import and Export of Water**
+
+**Article Fifty-Six**
+Bottled drinking water or water for the purpose of bottling may be imported after verifying its source and monitoring its quality, fitness for use, and conformity with the requirements of the Saudi Food and Drug Authority and relevant standards and specifications.
+
+**Article Fifty-Seven**
+Bottled water may be exported after payment of the replacement value determined by the Ministry.
+
+**Article Fifty-Eight**
+The import of water for other uses is prohibited. The Council of Ministers may make exceptions for specific projects.
+
+**Article Fifty-Nine**
+1.  The export of water in all its forms and types outside the Kingdom is prohibited, with the exception of what is stipulated in Article (62) of this Law.
+2.  The export of water-intensive products, as specified by the Ministry, is forbidden except with its permission and after payment of the replacement value for the water used in their production.
+
+**Conservation, Water Feasibility, and Developmental Planning**
+
+**Article Sixty**
+The Ministry shall regulate and manage the process of water use conservation. All service providers and beneficiaries must commit to conservation processes, monitor water use, and use water-saving tools, equipment, and fixtures.
+
+**Article Sixty-One**
+The Saudi Standards, Metrology and Quality Organization, in coordination with the Ministry and the relevant authority, shall prepare and approve standards and specifications for water-saving sanitary fixtures, plumbing materials, and construction devices, equipment, and tools, and shall develop and update them continuously.
+
+**Article Sixty-Two**
+All public and private sectors—including religious, health, residential, commercial, industrial, educational, and tourism projects, establishments, and facilities—must use sanitary fixtures and plumbing materials that conform to the approved standards and specifications.
+
+**Article Sixty-Three**
+The Ministry and service providers shall impose and monitor the use of advanced and water-saving irrigation techniques and systems in agricultural activities.
+
+**Article Sixty-Four**
+The Ministry of Municipal and Rural Affairs shall include in building permits the requirement to install water-saving sanitary fixtures and plumbing materials in accordance with approved standard specifications. The Ministry and service providers shall verify compliance with this and shall not connect water to non-compliant buildings.
+
+**Article Sixty-Five**
+All public and private entities that provide public services—including financing agencies—are prohibited from doing the following:
+1.  Approving any project that does not comply with the approved specifications and standards for water-saving devices, sanitary fixtures, and plumbing materials.
+2.  Accepting any feasibility study that does not address the water feasibility criterion systematically and without taking it into account in its decisions regarding the project.
+
+**Article Sixty-Six**
+All public and private entities—including professional associations—shall commit to disseminating the principle of water use conservation as a fundamental requirement in the practice of their activities and services.
+
+**Article Sixty-Seven**
+All public and private entities must adopt the "water feasibility criterion" within the economic feasibility studies for their projects, such that this criterion primarily covers the humanitarian and economic value of the quantity of water required for the project.
+
+**Article Sixty-Eight**
+Public and private entities must consider water conservation as a fundamental priority when preparing national and developmental plans. They must also coordinate with the Authority regarding the water needs for implementing those plans and the challenges and risks of securing them.
+
+**Awareness and Education**
+
+**Article Sixty-Nine**
+Government entities and service providers shall adopt the principle of "water use conservation" as one of the cornerstones of their awareness, educational, and marketing programs, as set forth in the Regulation.
+
+**Article Seventy**
+The Ministry, in coordination with public and private entities, shall prepare a water education strategy to entrench the culture of water consumption conservation and the mechanisms for utilizing water resources.
+
+**Article Seventy-One**
+The Ministry shall prepare educational programs for farmers to raise their awareness of the following:
+1.  Crops that are less water-intensive, environmentally safe, and economically viable.
+2.  A list of prohibited agricultural crops due to their high water consumption rates.
+
+**Article Seventy-Two**
+Authorities and associations shall implement educational and awareness programs for beneficiaries and homemakers to emphasize the importance of conservation in water uses and the mechanisms for utilizing greywater, as set forth in the Regulation.
+
+**Saudi Code for Water Resources**
+
+**Article Seventy-Three**
+Within two years of this Law coming into force, the Ministry shall prepare a comprehensive document on the water resources in the Kingdom and their appropriate uses, to be called the (Saudi Code for Water Resources and Their Uses), and shall update it continuously.
+
+**Article Seventy-Four**
+The Saudi Code for Water Resources must include the following information:
+*   Name of the source.
+*   Its symbol.
+*   Its classification (groundwater, surface water, desalinated water, treated wastewater).
+*   Its nature (renewable or non-renewable).
+*   The safe yield quantity.
+*   Appropriate uses for the source.
+*   Special conditions for use rights (duration of use, and quantity allocated for each use).
+
+**Article Seventy-Five**
+It is prohibited to grant or transfer licenses for the use of water resources that violate the uses specified in the Code, except with the approval of the Ministry. The Ministry shall coordinate with the Authority to link the Code with the register of water licenses and the register of the use rights market in a way that ensures compliance with what is specified in the Code.
+
+**Strategic Storage of Water**
+
+**Article Seventy-Six**
+The Ministry shall periodically monitor the quantities of water available in water sources, measure the volume of withdrawal from them, the stored water, its quality, and its rates of depletion and treatment. All relevant entities must enable the Ministry to perform its mission and cooperate with it.
+
+**Article Seventy-Seven**
+The Ministry shall adopt the strategic storage of water in dams or in surface or underground reservoirs, and approve strategic reservoirs distributed throughout all regions of the Kingdom, taking into account, upon the establishment of these reservoirs, the expected needs of the users covered by the reservoir in case of emergencies.
+
+**Article Seventy-Eight**
+The Ministry shall inject aquifers with dam water and at least tertiary-treated wastewater whenever it is safe from a health, environmental, and technical standpoint, and when this water is surplus to the needs for its appropriate uses under this Law.
+
+**Article Seventy-Nine**
+The Minister may prohibit the use of all or some water resources for specific areas or regions and lift the prohibition, and compensate license holders with alternative licenses as set forth in the Regulation.
+
+**Detection and Treatment of Water Leaks**
+
+**Article Eighty**
+The Authority and service providers—each within its purview—shall monitor the construction and maintenance of public infrastructure to ensure its integrity and effectiveness, and take the necessary measures to detect and treat leaks.
+
+**Article Eighty-One**
+The Authority and service providers shall notify the Ministry of any leaks in water and wastewater infrastructure.
+
+**Article Eighty-Two**
+The Authority, in coordination with the Ministry, shall establish the necessary regulatory frameworks to ensure that leaks are treated and that problems of breaks or bursts in water systems and networks are resolved quickly.
+
+**Article Eighty-Three**
+It is prohibited to allow water to flow outside the boundaries of public and private buildings or to leak from internal tanks and networks or from tankers.
+
+**Article Eighty-Four**
+All water users must use high-quality materials and fixtures—that comply with the standards approved by the Saudi Standards, Metrology and Quality Organization—when constructing internal water and sanitary plumbing, and maintain them periodically and when needed to avoid water leakage and waste.
+
+**Chapter Seven**
+**Water Services, Infrastructure, and Related Activities**
+
+**Water Services (Production, Conveyance, Distribution, Storage, Bottling, and Trading)**
+
+**Article Eighty-Five**
+Water services shall be provided by licensed service providers or directly by the Ministry.
+
+**Article Eighty-Six**
+The service provider must comply with the standards, controls, specifications, and measures approved by the Authority.
+
+**Article Eighty-Seven**
+It is prohibited for a service provider to assign all or some of the rights granted to it under the license or to dispose of all or part of the infrastructure established thereunder to another party through any type of disposition without obtaining the approval of the Authority.
+
+**Article Eighty-Eight**
+1.  Before implementing any judicial or administrative decision to stop a service provider or suspend its services, coordination must be made with the Ministry to approve a practical plan to prevent users from being affected by that decision or the level of services provided being affected.
+2.  The service provider shall bear full responsibility in the event of its failure to comply with what is stated in paragraph (a) of this Article.
+
+**Article Eighty-Nine**
+The Ministry may issue licenses to establish private plants for water desalination or treatment. The owners of these plants are obliged to adhere to production standards, protect the environment, and not use the water for purposes other than those permitted by the license.
+
+**Public Infrastructure**
+
+**Article Ninety**
+Public infrastructure established by the public sector is considered the property of the State, and the Authority may license its use in accordance with the provisions of this Law.
+
+**Article Ninety-One**
+The Authority, in coordination with the Ministry and relevant entities, shall issue standards for the establishment, implementation, and maintenance of public infrastructure.
+
+**Article Ninety-Two**
+Everything related to the infrastructure used in providing water services—including sale or otherwise, whether owned by the public or private sector or a partnership between the two—shall be subject to the supervision of the Authority in accordance with the provisions of this Law.
+
+**Article Ninety-Three**
+If a service provider goes bankrupt or its activity is liquidated, it is prohibited to sell the infrastructure it owns at public auction or distribute it to creditors. Coordination must be made with the Authority to transfer its ownership at a fair value to the Ministry or to another service provider selected in accordance with the provisions of this Law.
+
+**Article Ninety-Four**
+The owner of the infrastructure or the service provider shall be responsible for maintaining the infrastructure and detecting and treating leaks therein, unless the license provides otherwise.
+
+**Article Ninety-Five**
+The Ministry shall prepare accurate plans for public infrastructure. Public or private entities must coordinate with the Ministry to avoid undertaking any work that could threaten the safety of the infrastructure or cause its damage or contamination.
+
+**Article Ninety-Six**
+It is prohibited to carry out any works or excavations on the boundaries of or within the right-of-way of public infrastructure except after coordinating with its owner and obtaining the approval of the Ministry or the Authority, according to jurisdiction, for those works and taking the necessary measures to protect it.
+
+**Charitable and Endowment Water Facilities**
+
+**Article Ninety-Seven**
+The Ministry may license the drilling of a well or the establishment of a desalination or treatment plant or other water facilities for any charitable or endowment entity, provided that the establishment, operation, and maintenance of the charitable water facility is carried out by a service provider that is qualified and selected according to the procedures and requirements set by the Authority.
+
+**Article Ninety-Eight**
+The water produced from the charitable facility and its services shall be subject to the requirements and controls specified in the Regulation.
+
+**Article Ninety-Nine**
+If the operation and maintenance of the services of the charitable water facility are endowed to the beneficiaries, the donor's relatives, or others, the provisions of relevant laws must be observed.
+
+**Conducting Water Activities**
+
+**Article One Hundred**
+Subject to relevant laws, a license from the Authority must be obtained to engage in any of the following activities:
+1.  Providing services for the supply of water equipment, technologies, and supplies.
+2.  Water conveyance and supply.
+3.  Construction and maintenance of water infrastructure, including dams, public water reservoirs, desalination plants, and wastewater treatment plants.
+
+**Article One Hundred and One**
+An exploration license does not entitle its holder to the right to use the discovered water. The right to use it is subject to the nature and conditions of the discovered source, in accordance with the Code and the provisions for use contained in this Law.
+
+**Article One Hundred and Two**
+1.  No water facility may be established without obtaining a valid approval and license from the Ministry or the Authority, according to jurisdiction.
+2.  The contractor must be licensed by the Ministry for works related to water resources and by the Authority for water service activities referred to in Article (106) of this Law.
+3.  The contractor is obliged to provide the Ministry with all information related to drilling works, the well, and geological information specific to the well.
+
+**Article One Hundred and Three**
+It is prohibited to carry out any transaction—whether sale, lease, licensing, import, or otherwise—on equipment, machinery, and supplies for well drilling, water production, maintenance, or backfilling, except with a license from the Ministry.
+
+**Article One Hundred and Four**
+It is prohibited for a person licensed to drill wells to provide their services except with a valid license from the Ministry. The licensee shall bear full responsibility arising from the use of their equipment, machinery, or fixtures by others—whether lawfully or unlawfully—in violation of the provisions of this Law.
+
+**Chapter Eight**
+**Health and Environmental Protection**
+
+**Water Quality and Environmental Standards**
+
+**Article One Hundred and Five**
+a. The Ministry and government entities—each within its purview—shall monitor compliance with water quality standards for water used in agricultural irrigation and commercial and industrial uses.
+b. The Authority shall monitor the quality of water used for municipal purposes produced by service providers and in the conveyance, distribution, and storage systems, and ensure its conformity with the standards and specifications approved by the competent authorities.
+
+**Article One Hundred and Six**
+Service providers and water producers and importers must disclose necessary and accurate information about the water's quality, components, source, and any other information specified by the Authority.
+
+**Article One Hundred and Seven**
+1.  The General Authority of Meteorology and Environmental Protection—in coordination with the Ministry and the Authority—shall issue standards and requirements for the protection of water resources and the environment from pollution that may result from the practice of any activity.
+2.  Service providers and public and private sector institutions must ensure that their projects, activities, and facilities, or those under their supervision, comply with the standards referred to in paragraph (a) of this Article, and avoid any improper or unsafe practices.
+
+**Basic Measures for the Protection of Water Resources, Health, and the Environment**
+
+**Article One Hundred and Eight**
+The Ministry and the Authority shall encourage the transfer and use of environmentally friendly technologies, means, and materials in all water services and projects.
+
+**Article One Hundred and Nine**
+It is prohibited to inject any chemical, biological, or any other polluting substances into any water source and its appurtenances, or to use an operating or dry well and its appurtenances for the disposal of untreated wastewater or for the disposal of solid or liquid waste.
+
+**Article One Hundred and Ten**
+It is prohibited to establish open ponds, channels, or dumps for wastewater except with a license from the Ministry. The Ministry of Municipal and Rural Affairs must coordinate with the Ministry and obtain its approval when planning, allocating, or establishing dumps for solid and liquid waste in order to achieve the approved standards in a way that prevents the pollution of water resources or their infrastructure.
+
+**Article One Hundred and Eleven**
+It is prohibited to discharge untreated wastewater or wastewater treated to a degree that does not comply with approved standard specifications in the areas of rock outcrops of aquifers or in watercourses. It is also prohibited to bury wastewater residues in these areas without coordinating with the Ministry to implement a suitable alternative for disposal according to approved plans.
+
+**Article One Hundred and Twelve**
+The Ministry shall prepare—in coordination with the General Authority of Meteorology and Environmental Protection and the King Abdulaziz City for Science and Technology—a schedule of safe materials and standards for their use in wells and their appurtenances.
+
+**Article One Hundred and Thirteen**
+It is prohibited to dump or bury any materials, pollutants, or waste, whether natural or industrial, including animal carcasses and wastewater, in any surface or groundwater source or within the boundaries of its right-of-way.
+
+**Article One Hundred and Fourteen**
+It is prohibited to remove sand, gravel, silt, clay, rock, or any component of a surface watershed, watercourse, or aquifer rock outcrop outside the right-of-way of the source without the approval of the Ministry.
+
+**Article One Hundred and Fifteen**
+The authorities competent in issuing licenses for surface water for non-consumptive purposes must ensure that licensees comply with the standards for protecting water resources from pollution and avoid practices that could cause harm to the water, its basin, its channel, or its right-of-way.
+
+**Article One Hundred and Sixteen**
+Environmental and health requirements must be adhered to when discharging any outputs from desalination or treatment plants into any water source, such as seas, bays, and others.
+
+**Article One Hundred and Seventeen**
+It is prohibited to establish treatment plants within populated areas except in accordance with standards set by the Authority to ensure that nearby residents are not disturbed or subjected to health or environmental harm.
+
+**Article One Hundred and Eighteen**
+It is prohibited to suspend or stop the operation of collection systems or treatment plants judicially or in any other manner without coordinating with the Ministry and agreeing on a plan for the safe disposal and treatment of wastewater.
+
+**Article One Hundred and Nineteen**
+A safe separating distance—to be specified in the Regulation—must be established between wastewater collection networks and water sources, reservoirs, and conveyance and distribution systems, and all necessary measures must be taken to prevent the leakage of wastewater into those sources or networks.
+
+**Chapter Nine**
+**Violations**
+
+**Article One Hundred and Twenty**
+1.  The Ministry and the Authority—each according to its jurisdiction—shall be responsible for identifying violations of the provisions of this Law and its regulations, investigating them, and taking statutory action regarding them.
+2.  The Ministry and the Authority may qualify specialized companies or offices to carry out monitoring and violation identification tasks in accordance with controls and standards specified in the Regulation.
+
+**Article One Hundred and Twenty-One**
+1.  Violations shall be identified and investigated by monitors and inspectors who have the capacity of "judicial enforcement officers," whose appointment is issued by a decision of the Minister.
+2.  Monitors and inspectors have the right to enter for inspection, review records and information, and obtain copies of necessary documents from places falling under the provisions of this Law, taking into account their established rights and guarantees.
+
+**Article One Hundred and Twenty-Two**
+Without prejudice to the provisions of other laws, any of the following acts shall be considered a violation subject to penalty:
+1.  Undertaking any works or services without a license.
+2.  Non-compliance with decisions and instructions issued by the Ministry or the Authority.
+3.  Concealing information and data or providing it in a misleading or incorrect manner.
+4.  Misusing any water source or utilizing it for a purpose other than that for which it was designated.
+5.  Breaching approved security and safety requirements and conditions.
+6.  Failing to report an accident, incident, or negligence.
+7.  Obstructing monitors and specialists in identification and investigation.
+8.  Violating the conditions and controls of licenses.
+9.  Violating the provisions of this Law, its implementing regulations, or any of the rules, controls, instructions, or circulars issued thereunder.
+
+**Committee for the Review of Violations**
+
+**Article One Hundred and Twenty-Three**
+a. Violations of the provisions of this Law shall be reviewed, decided upon, and the penalties stipulated in this Law shall be imposed by a committee (or more) of three members—from the staff of the Ministry or the Authority—provided that one of them is a specialist in Sharia or law.
+b. This committee shall be formed by a decision of the Minister for a term of three years, renewable.
+c. The Regulation shall specify the rules and procedures for the committee's work and the remuneration of its members.
+
+**Article One Hundred and Twenty-Four**
+The committee shall have jurisdiction over the following:
+1.  Reviewing violations of the provisions of this Law and its implementing regulations and imposing the penalties contained in this Law.
+2.  Reviewing all complaints related to water resources, services, and affairs, whether filed against service providers or licensees, or between service providers, licensees, and service beneficiaries, or between the Authority and service providers or licensees.
+
+**Article One Hundred and Twenty-Five**
+1.  The committee shall issue its decision within (60) sixty days—extendable for a similar period—from the date it is submitted to the committee.
+2.  An appeal against the committee's decisions may be filed with the Administrative Court if the concerned parties are not satisfied with the committee's decision, or if the period referred to in paragraph (a) of this Article has elapsed without a decision being made.
+
+**Article One Hundred and Twenty-Six**
+The Minister may take a precautionary decision to stop the violation or the activity, partially or wholly—in the event a violation is identified that requires urgent and precautionary measures—in order to avoid any harm, and shall refer the violation to the committee formed under this Law for urgent review within (15) fifteen days.
+
+**Chapter Ten**
+**Penalties**
+
+**Article One Hundred and Twenty-Seven**
+Without prejudice to any more severe penalty stipulated in another law, anyone who violates the provisions of this Law or its regulations shall be punished with one or more of the following penalties:
+1.  A fine not exceeding five million riyals for the first offense. In the case of a repeat offense, the fine shall be doubled, provided that it does not exceed double its maximum limit in any case.
+2.  Stopping or suspending the activity or service—partially or wholly—for a period not exceeding one year.
+3.  Cancellation of the license.
+4.  Imprisonment for a term not exceeding five years.
+5.  Public disclosure in the media.
+
+**Article One Hundred and Twenty-Eight**
+Penalties shall be determined according to the magnitude of each violation separately. If any violation includes a penalty of imprisonment or public disclosure, the violation must be referred to the Public Prosecution within a period not exceeding (60) sixty days from the confirmation of the violation to complete the statutory procedures regarding it.
+
+**Article One Hundred and Twenty-Nine**
+Anyone who attempts to violate the provisions of this Law or conceals a violator of its provisions shall be punished with half the penalty prescribed for the violation. In the case of repetition, they shall be punished with the same penalty prescribed for the violation.
+
+**Article One Hundred and Thirty**
+The violation shall be remedied at the violator's expense, and compensation shall be paid for all its resulting effects, including, but not limited to:
+1.  Compensation for all revenues, whether for themself or for others.
+2.  Compensation for all losses, dues, and statutory expenses that they avoided paying.
+3.  Compensation for the damage and remediation of the harm.
+
+**Chapter Eleven**
+**Transitional and Final Provisions**
+
+**Article One Hundred and Thirty-One**
+The Ministry, the Authority, service providers, and concerned entities must take the necessary measures to adjust their situations to comply with the provisions of this Law within two years of its entry into force.
+
+**Article One Hundred and Thirty-Two**
+All water use rights granted under other laws, licenses, or special permits shall be canceled after two years from the implementation of this Law. The holders of these rights must rectify their situations to comply with the provisions of this Law within this period. The Minister may extend this period for a third year if the public interest and the nature of the work so require.
+
+**Article One Hundred and Thirty-Three**
+Anyone who discloses the existence of unlicensed wells before this Law comes into force shall be exempt from punishment if the disclosure is made within two years of its implementation date.
+
+**Article One Hundred and Thirty-Four**
+After the end of the period specified in Article (135) of this Law, the Ministry and the Authority shall carry out an extensive inspection campaign using all possible technologies to monitor and identify violations of water licenses.
+
+**Article One Hundred and Thirty-Five**
+This Law repeals all provisions in other laws that conflict with it.
+
+**Article One Hundred and Thirty-Six**
+The implementing regulations, rules, or instructions for this Law shall be issued by a decision of the Minister.
+
+**Article One Hundred and Thirty-Seven**
+This Law shall come into effect (180) one hundred and eighty days from the date of its publication in the Official Gazette.
+

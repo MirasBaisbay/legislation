@@ -1,0 +1,2495 @@
+
+
+--- PAGE 1 ---
+
+THE WATER RESOURCES ACT 2024 
+Act No. 9 of 2024 
+Government Gazette of Mauritius No. 77 of 25 July 2024 
+ 
+I assent 
+ 
+PRITHVIRAJSING ROOPUN, G.C.S.K. 
+25th July 2024 
+ 
+President of the Republic of Mauritius 
+ARRANGEMENT OF SECTIONS 
+Section 
+PART I – PRELIMINARY  
+1. Short title 
+2. Interpretation 
+3. Application of Act 
+4. Objects of Act 
+5. Domaine public 
+6. Vesting of public property  
+PART II – FRAMEWORK FOR WATER RESOURCES MANAGEMENT 
+7. Powers and duties of Minister 
+8. Entitlement to use of water 
+9. Commission 
+10. Staff of Commission 
+11. Administration of water resources 
+12. Functions of Commission 
+13. Duties of Commission 
+14. Powers of Director 
+15. Registers 
+16. Water Resources Technical Committee 
+
+
+--- PAGE 2 ---
+
+17. Meetings of Committee 
+18. Disclosure of interest 
+19. Functions of Committee 
+PART III – WATER USE PERMIT 
+20. Water use permit 
+21. Application for water use permit 
+22. Processing of application 
+23. Examination of application 
+24. Determination by Minister 
+25. Reserved use of water 
+26. Conditions of water use permit 
+27. Payment for water use permit 
+28. Alterations to permits 
+29. Variation of permit in public interest 
+30. Obligations of permit holder 
+31. Failure to comply with permit 
+32. Exemptions 
+PART IV – MANAGEMENT AND ADMINISTRATION OF WATER RESOURCES 
+Sub-Part A – General 
+33. Buffer zone 
+34. Restricted areas 
+35. Alternative water sources 
+Sub-Part B – Rivers and Canals 
+36. Rivers 
+37. Canals 
+38. Works related to rivers, canals and other watercourses 
+Sub-Part C – Dams 
+39. Private and other dams 
+40. Responsibilities of dam owners 
+41. Assessment of safety risk 
+42. Dams declared a safety risk 
+43. Protection of dams 
+
+
+--- PAGE 3 ---
+
+Sub-Part D – Underground Water and Boreholes 
+44. Management and regulation of underground water 
+45. Drilling, development and use of boreholes 
+46. Special arrangements 
+47. Emergency supply 
+PART V – EXISTING WATER RIGHTS 
+48. Existing water rights 
+49. Application for registration of existing water rights 
+50. Processing of application 
+51. Registration of existing water rights 
+52. Application to Supreme Court 
+53. Public interest 
+54. Constitutional redress 
+55. Legality and compensation 
+56. Determination and payment of compensation 
+57. No right to compensation 
+58. Temporary order 
+PART VI – ENFORCEMENT 
+59. Remedial notice 
+60. Enforcement notice 
+61. Prohibition notice 
+62. Stop order 
+63. Revocation of notices 
+64. Enforcement powers of Director and authorised officers 
+65. Judge’s order 
+66. Compliance monitoring 
+67. Obstruction of authorised officer 
+68. Damage 
+69. Offences 
+70. Prosecution and jurisdiction 
+71. Powers of Court 
+ 
+
+
+--- PAGE 4 ---
+
+PART VII – APPLICATION OF ACT TO RODRIGUES 
+72. Interpretation 
+73. Commission for Water Resources 
+74. Vesting of publicly owned water resources property or infrastructure 
+75. Regulations for Rodrigues 
+PART VIII – MISCELLANEOUS 
+76. Protection from liability 
+77. Confidentiality 
+78. Regulations 
+79. Repeal 
+80. Consequential amendments 
+81. Transitional provisions 
+82. Commencement  
+SCHEDULE 
+An Act 
+To provide a legal framework for the use, management, control, protection, 
+conservation, and sustainable development of water resources in Mauritius 
+ENACTED by the Parliament of Mauritius, as follows – 
+PART I – PRELIMINARY 
+1.  Short title 
+This Act may be cited as the Water Resources Act 2024. 
+2.  Interpretation 
+In this Act – 
+“adverse effects of climate change” has the same meaning as in the Climate Change Act 
+2020; 
+ “alternative water sources” means sustainable sources of water, other than surface water 
+or underground water; 
+“aquifer” means an underground geological formation which naturally retains or enables 
+the passage of water; 
+
+
+--- PAGE 5 ---
+
+“authorised officer” means an officer designated under section 10(3)(a); 
+“borehole” means a hole that is drilled into the ground by the use of machinery; 
+“brackish water” means water that has more salinity than freshwater, but not as much as 
+seawater; 
+“buffer zone” means an area of land, declared as such under section 33, in which the 
+activities are regulated for the purpose of protecting water resources; 
+“bulk raw water” means untreated water, from any source, supplied to a water provider or 
+a major water user; 
+“canal” means a manmade open channel, the purpose of which is to convey water; 
+“catchment” means an area of land in which rainfall naturally drains into a common river or 
+discharge system; 
+“Central Water Authority” means the Central Water Authority established under the Central 
+Water Authority Act; 
+“Commission” means the Water Resources Commission established under section 9; 
+“Committee” means the Water Resources Technical Committee established under section 
+16; 
+“dam” means any artificial barrier that has the ability to impound water, wastewater, or any 
+liquid-borne material, for the purpose of storage, control or diversion; 
+“desalination” means the reduction or removal of salinity from brackish water or seawater; 
+ “Director” means the Director of the Water Resources Commission; 
+“domestic purpose” means water used for the purpose of cooking, drinking, washing or for 
+any other purpose related to domestic life; 
+“domestic supply” means water supplied from the waterworks and used for drinking, 
+washing or cooking or for any other purpose of domestic life; 
+“effluent” means waste water, whether treated, partially or untreated, produced by or 
+discharged from agricultural, industrial, commercial or domestic premises or waste 
+waterworks; 
+“enforcement notice” means a notice issued under section 60; 
+
+
+--- PAGE 6 ---
+
+“existing water right” means a right to use or take surface water which – 
+(a) 
+existed and belonged to a person before the commencement of this Act; and 
+(b) 
+is established and registered under Part V; 
+“hydrological area” means an area of land so defined to enable the study or management 
+of surface water and underground water; 
+“integrated water resources management” means a process which promotes the 
+coordinated development and management of water and related resources for the purpose 
+of maximising the resultant economic and social welfare in an equitable manner without 
+compromising the sustainability of vital ecosystems; 
+“lake” means a natural body of standing open water; 
+“local authority” has the same meaning as in the Local Government Act; 
+ “Minister” means the Minister to whom responsibility for the subject of water resources is 
+assigned; 
+“Ministry” means the Ministry responsible for the subject of water resources; 
+“permit” means a permit issued under this Act; 
+“permit holder” means the holder of a water use permit issued under this Act; 
+“prohibition notice” means a notice issued under section 61; 
+“public dam” means a dam which is under the responsibility of the Commission; 
+“public department” means a Ministry, Government department, statutory corporation or 
+public authority established under any enactment; 
+“remedial notice” means a notice issued under section 59; 
+“reserved use” means the designation of certain water resources which – 
+(a) 
+may only be used for specified purposes; and 
+(b) 
+may not be allocated for a purpose other than those specified under section 25; 
+“reservoir” means a large natural or artificial impoundment that – 
+(a) 
+is used for the storage of raw water; 
+
+
+--- PAGE 7 ---
+
+(b) 
+is used as a source of water supply; 
+“restricted area” means an area of land or water declared as such under section 34; 
+“river” – 
+(a) 
+has the same meaning as in the Forests and Reserves Act; and 
+(b) 
+includes any naturally occurring open channel through which water flows; 
+ “river basin” has the same meaning as a catchment; 
+“small planter” has the same meaning as in the Small Farmers Welfare Fund Act; 
+“spring” means underground water that naturally discharges above ground level and forms 
+a stream or tributary of a river or stream; 
+“stop order” means an order issued under section 62; 
+“stream” has the same meaning as in the Forests and Reserves Act; 
+“supervising officer” means the supervising officer of the Ministry; 
+“surface water” means inland waters, excluding underground water; 
+“underground water”– 
+(a) 
+means any water which naturally occurs or is retained under the surface of the 
+ground; and 
+(b) 
+includes – 
+(i) 
+underground streams, subsurface reservoirs, and lakes; and 
+(ii) 
+any water held or flowing underground in a zone of saturation or in an aquifer; 
+“water use permit” means a permit, to use water issued, under this Act; 
+“water resources” – 
+(a) 
+means the combined resource of surface water, underground water of whatever 
+nature; and 
+(b) 
+includes alternative water sources; but 
+(c) 
+does not include treated water supplied by the Central Water Authority for domestic, 
+commercial and industrial purposes; 
+
+
+--- PAGE 8 ---
+
+ “water resources infrastructure” means the infrastructure vested in the Commission under 
+this Act; 
+“water supply provider” means any person, business or organisation which supplies water 
+to consumers or water users for whatever purpose; 
+“watercourse” means any naturally occurring or artificial system of channels, lakes, 
+reservoirs, wetlands or impoundments, including its banks and immediate surroundings 
+through which water flows or resides. 
+ 3. 
+Application of Act 
+This Act shall – 
+(a) 
+bind the State; 
+(b) 
+apply – 
+(i) 
+to the island of Mauritius; 
+(ii) 
+subject to Part VII, to the Island of Rodrigues; 
+(iii) 
+to the other islands forming part of the State of Mauritius with such 
+modification and adaptation as the Minister may, by regulations, prescribe. 
+ 4. 
+Objects of Act 
+The objects of this Act are – 
+(a) 
+to promote the efficient use of water and to provide for an integrated management of 
+water resources; 
+(b) 
+to safeguard the immediate and long-term public interest for an equitable access to 
+water and its beneficial use for social and economic development; 
+(c) 
+to establish appropriate institutions, structures and regulatory processes to achieve 
+effective control, protection, planning, management and development of water 
+resources and the supply of bulk raw water to water supply providers; 
+ (d) 
+in relation to water resources – 
+(i) 
+to provide a legal framework for its use, management, control, conservation 
+and protection for the social and economic well-being of the people of 
+Mauritius; 
+
+
+--- PAGE 9 ---
+
+(ii) 
+to promote and coordinate its coherent, orderly and optimal use for the public 
+benefit; 
+(iii) 
+to promote its sustainable development; and 
+(iv) 
+to develop preparedness, adaptation and resilience strategies to address the 
+adverse effects of climate change; 
+(e)  
+to adopt the appropriate management approaches and technologies for the purpose 
+of – 
+(i) 
+reducing the waste or loss of water; 
+(ii) 
+promoting water recycling, reuse, desalination and alternative water sources; 
+(f) 
+ to encourage and require water users to contribute towards the protection of the 
+quality of water and to carry out their activities by way of cooperation and a mutually 
+shared understanding of the growing stress upon finite water resources. 
+ 5. 
+Domaine public 
+(1) 
+All surface water, including springs which are the sources of a river, tributary of a 
+river or stream are part of the domaine public and are inalienable and imprescriptible. 
+(2) 
+Subject to this Act, all underground water shall vest in the State. 
+ 6. 
+Vesting of public property 
+(1) 
+Every publicly owned water resources infrastructure specified in the Schedule shall 
+be vested in the Commission. 
+(2) 
+Notwithstanding any other enactment, but subject to subsection (3), any State land 
+which, immediately before the commencement of this Act was occupied or granted to the 
+Central Water Authority in respect of the management of water resources and water resources 
+infrastructure shall be vested in the Commission by the Government of Mauritius for the purpose 
+of carrying out its functions under this Act. 
+(3)  
+The infrastructure, other than the water resources infrastructure specified in the 
+Schedule which, on the date of coming into operation of this section, belongs to or is run by the 
+Central Water Authority and is used for – 
+(a) 
+the supply of treated water for domestic and commercial purposes as well as 
+the supply of water for industrial purposes by the Central Water Authority 
+
+
+--- PAGE 10 ---
+
+throughout Mauritius; 
+(b) 
+the operation, maintenance and development required for – 
+(i) 
+the supply of treated water; and 
+(ii) 
+the taking, abstraction or use of underground water from boreholes 
+pursuant to section 32, 
+shall continue to be vested in the Central Water Authority. 
+PART II – FRAMEWORK FOR WATER RESOURCES MANAGEMENT 
+7. 
+Powers and duties of Minister 
+For the purposes of this Act, the Minister – 
+(a) 
+shall set national objectives and goals to ensure long-term water security and the 
+sustainability of water resources; 
+(b) 
+shall cause to be developed and implemented strategies, policies, plans and 
+priorities for the holistic and integrated management of water resources and the 
+optimal and effective use of water resources; 
+ (c) shall, for the purpose of the management of water resources, ensure coordination 
+and cooperation between public departments, local authorities, and such other 
+institutions as may be necessary; 
+(d) shall, for the purpose of implementing an integrated water resources management, 
+promote the coordination and cooperation between the public and private 
+stakeholders; 
+(e) shall monitor and review the activities of public departments involved in the use, 
+management, development, control, conservation and protection of water resources; 
+(f) 
+shall issue such recommendations and guidelines to public departments, statutory 
+bodies and any other entity as may be necessary for the implementation of the 
+objects of this Act; 
+(g) may, on the recommendation of the Committee – 
+(i) 
+order that uses of water be temporarily waived or varied, or require a water 
+user to have recourse to alternative water sources, in order to ensure 
+
+
+--- PAGE 11 ---
+
+adequate supply of water to the public; 
+(ii) 
+authorise water to be drawn from any river, stream, spring, canal or borehole 
+in such quantity as may be required to meet the water requirements of the 
+population for a specific period of time; 
+(iii) 
+authorise water to be drawn from any river, stream, spring, canal or borehole 
+by a person for a specific period of time until a water use permit is issued; 
+(iv) 
+authorise the desalination of seawater or brackish water for a specific period 
+of time until a water use permit is issued; 
+(h)  may, where the compulsory acquisition of any land is necessary in the public interest 
+for the use, control, management, development or protection of water resources, 
+initiate the procedure for the compulsory acquisition of the land which shall be 
+carried out in accordance with the Land Acquisition Act; 
+(i) 
+may give such written directions of a general character to the Committee, the Central 
+Water Authority, or any other water supply provider as are consistent with this Act; 
+(j) 
+shall take such other necessary actions and decisions as may be necessary to 
+enable him to discharge his functions and duties under this Act. 
+8. 
+Entitlement to use of water 
+(1) 
+For the purpose of determining the entitlement to use of water under this Act, priority 
+shall be given to the need to ensure a sustainable and adequate supply of water for the needs 
+of the population and for the purposes of public utility and safety in the national interest. 
+(2) 
+Without prejudice to the generality of subsection (1), the following shall be taken into 
+consideration for the purpose of determining the entitlement to the use of water – 
+(a) 
+the guiding principles for the management of water resources and sustainable 
+development in the implementation and furtherance of the objects set out in 
+section 4; 
+(b) 
+the current and future social and economic needs of the people of Mauritius; 
+(c) 
+the policies and guidelines made or issued under this Act for the purpose of 
+managing the water resources; 
+(d) 
+the overall availability of water in the river, catchment, aquifer or hydrological 
+
+
+--- PAGE 12 ---
+
+area and the availability of alternative water sources; 
+(e) 
+the environmental needs and impacts of the intended water use in the river, 
+catchment, aquifer or hydrological area or water sources from which the water 
+originates and may be discharged into; 
+(f) 
+the need for the conservation and protection of water resources; 
+(g) 
+the reserved use of water in accordance with section 25; 
+(h) 
+the preparedness for the adverse effects of climate change; 
+(i) 
+the need for environmental protection of the ecosystem. 
+9.  
+Commission 
+(1) 
+There shall be, for the purposes of this Act, a department within the Ministry, to be 
+known as the Water Resources Commission. 
+(2) 
+The Commission shall be administered by a Director who shall – 
+(a) 
+be a public officer; 
+(b) 
+be appointed by the Public Service Commission; 
+(c) 
+be responsible for the control, operation and management of the day to day 
+business of the Commission; 
+(d) 
+discharge his duties and functions and such other assignments as may be 
+given to him by the Minister in accordance with this Act; 
+(e) 
+be responsible to the supervising officer for the proper discharge of his 
+functions and the execution of his duties under this Act. 
+10. 
+Staff of Commission 
+(1) 
+There shall be designated or appointed such public officers as may be necessary to 
+assist the Commission in the discharge of its functions. 
+(2) 
+Every officer of the Commission shall be under the administrative control of the 
+Director. 
+(3) 
+(a) The Director may designate an officer of the Commission to be an authorised 
+officer. 
+
+
+--- PAGE 13 ---
+
+(b) The Director and the authorised officer shall have such duties and powers as 
+may be conferred under this Act. 
+(4) 
+Subject to subsection (5), the Director may, in writing, authorise an officer of a local 
+authority to exercise powers vested in an officer under this Act. 
+ (5) 
+No officer of a local authority shall be authorised to issue or make an order or notice 
+under this Act. 
+11. 
+Administration of water resources 
+The Commission shall be responsible for all matters relating to the management and 
+administration of water resources under this Act, including, in particular – 
+(a) 
+all surface water, underground water and springs that are part of the domaine 
+public; 
+(b) 
+the State land and water resources infrastructure vested in the Commission. 
+12. 
+Functions of Commission 
+The Commission shall, notwithstanding any other enactment but subject to this Act – 
+(a) 
+be responsible for the use, management, control and development of water 
+resources for domestic, industrial and commercial purposes, energy production, 
+irrigation and such other purposes as may be prescribed; 
+(b) 
+monitor, and enforce measures for the conservation, efficient use and protection of 
+water resources and their related environment; 
+(c) 
+be responsible for the management of bulk raw water; 
+(d) 
+construct or cause to be constructed, dams, barrages, reservoirs, boreholes and 
+related works, canals and such other works, structures and devices as may be 
+necessary to provide bulk raw water supplies; 
+(e) 
+elaborate and implement plans for the development, mobilisation, sustainable use 
+and management of water resources, which incorporate – 
+(i) 
+the integrated water resources management; 
+(ii) 
+the optimal utilisation of water resources; 
+(iii) 
+the conservation of water and protection of water resources; 
+
+
+--- PAGE 14 ---
+
+(iv) 
+schemes for the development of river basins and inter-basin transfers; 
+(v) 
+schemes for the desalination of water and alternative water sources; 
+(f) 
+investigate, quantify and monitor water resources in order to maintain a national 
+inventory and database of water resources and hydrological data and publish an 
+annual water resources report accordingly; 
+(g) 
+maintain registers of the water use permits and existing water rights under this Act; 
+(h) 
+cause to be put in place, reviewed and updated the means, infrastructure, 
+procedures, measures and methodology to determine the availability of water in 
+each river basin, catchment, aquifer or hydrological area; 
+(i) 
+develop guidelines and procedures for the allocation and management of water 
+resources during prolonged dry periods; 
+(j) 
+monitor the quality of surface and underground water and ensure its protection 
+against the discharge of effluents or such other activity which may adversely impact 
+upon the quality or safety of any water resource; 
+(k) 
+ensure the safety and maintenance of the water resources infrastructure vested in 
+the Commission; 
+(l) 
+inspect, monitor and ensure that privately owned water resources infrastructure 
+meets the appropriate safety and maintenance standards; 
+(m) 
+undertake the inspection, analysis, appraisal and coordination of civil works and 
+projects relating to the conservation, protection, utilisation and development of water 
+resources and shall, for that purpose – 
+(i) 
+scrutinise designs and projects and assess the technical aspects, benefits and 
+feasibility of the projects; 
+(ii) 
+inspect and monitor any works undertaken in relation to water resource 
+development or infrastructure; 
+ (n)  provide and enforce safety requirements in respect of dams and take such 
+measures as may be necessary to ensure their maintenance, security and integrity; 
+(o)  undertake or commission research and analysis as is required to fulfil the objects of 
+this Act; 
+
+
+--- PAGE 15 ---
+
+(p)  undertake such measurements and analyses as are required to – 
+(i) 
+determine the availability of water resources with regard to water use permit 
+applications; 
+(ii) 
+initiate and pursue necessary action in case of non-compliance or breach of 
+condition attached to water use permits; 
+ 
+(q)  maintain, monitor and manage restricted areas, buffer zones and such reserved use 
+of water as may be prescribed pursuant to this Act; and 
+(r) 
+ advise the Minister on any matter related to water resources and water resources 
+management. 
+13. 
+Duties of Commission 
+The Commission shall, subject to this Act, perform such acts as are necessary or 
+expedient to attain its objects and discharge its functions effectively and may, in particular – 
+(a) 
+enter into any agreement or make arrangements with any public department for the 
+supply of bulk raw water and take such other measures as may be necessary for the 
+implementation of the agreement; 
+(b) 
+enter into arrangements with Ministries, local authorities, educational and research 
+institutions or any person for the purpose of performing its duties and discharging its 
+functions; 
+(c) 
+interact with organisations which represent water users and the public for the 
+purpose of improving the management, conservation and protection of water 
+resources; 
+ (d)  establish, maintain and operate – 
+(i) 
+accredited laboratories; 
+(ii) 
+gauging and monitoring stations; 
+(e) 
+ establish hydrological areas and define river basins for the purpose of water 
+resources management. 
+14. 
+Powers of Director 
+(1) The Director may – 
+
+
+--- PAGE 16 ---
+
+(a) 
+convene meetings and require the attendance of applicants, permit holders 
+and such other persons or representatives as the Committee may deem 
+necessary for the purpose of determining an application for a permit under this 
+Act; 
+(b) 
+monitor compliance with the requirements and conditions of permits issued 
+under this Act; 
+(c) 
+implement, monitor and manage the enforcement actions and measures set 
+out in this Act; 
+(d) 
+monitor that the exercise of existing water rights is carried out in compliance 
+with this Act; 
+(e) 
+collect such fees as may be prescribed. 
+(2) 
+The Director may, in the discharge of his functions under this Act, delegate any of his 
+powers, in writing, to an authorised officer. 
+15.  Registers 
+(1) The Director shall keep and maintain – 
+(a) 
+a register of all applications for permits; 
+(b) 
+a register containing particulars of permits and permit holders; 
+(c) 
+a register of all boreholes drilled in Mauritius, including test drillings, failed 
+drillings and dry boreholes; 
+(d) 
+a register of all weirs, watercourse diversions, abstraction works and pumping 
+stations and any discharge point of treated effluent in such manner as may be 
+necessary to enable the measurement and management of the water 
+resources; 
+(e) 
+a register of all dams, including private dams; 
+(f) 
+a register of existing water rights; 
+(g) 
+a register of State land and water resource infrastructure vested in the 
+Commission; and 
+(h) 
+such other registers as may be prescribed. 
+
+
+--- PAGE 17 ---
+
+(2) 
+Every register kept under this section shall, during office hours, be available for 
+consultation by the public. 
+16. 
+Water Resources Technical Committee 
+(1) 
+There is established, for the purposes of this Act, a Water Resources Technical 
+Committee. 
+(2) 
+The Committee shall consist of – 
+(a) 
+the supervising officer of the Ministry, as Chairperson; 
+(b) 
+the Director of the Commission; 
+(c) 
+a representative of the Ministry responsible for the subject of agriculture; 
+(d) 
+a representative of the Ministry responsible for the subject of blue economy; 
+(e) 
+a representative of the Ministry responsible for the subject of disaster risk 
+management; 
+(f) 
+a representative of the Ministry responsible for the subject of environment; 
+(g) 
+a representative of the environmental health engineering unit of the Ministry 
+responsible for the subject of health; 
+(h) 
+a representative of the Ministry responsible for the subject of housing; 
+(i) 
+a representative of the Ministry responsible for the subject of local authorities; 
+and 
+(j) 
+a representative of the Technical Services of the Ministry. 
+(3) The Committee may co-opt not more than 3 persons with specialised qualifications 
+and experience to assist the committee at any of its meetings and the co-opted member of the 
+Committee – 
+(a) 
+shall not have the right to vote at any meeting of the Committee; and 
+(b) 
+be paid such fees or allowances as the Minister may determine. 
+(4) Every member, other than an ex officio member, shall hold office for such time and 
+subject to such terms and conditions as the Minister may determine. 
+(5) 
+Every member shall be paid such fees and allowances as the Minister may 
+
+
+--- PAGE 18 ---
+
+determine. 
+(6) (a)  The Committee may set up such ad hoc or technical subcommittees as may be 
+necessary to assist it in the discharge of its functions under this Act. 
+(b) 
+An ad hoc and technical subcommittee set up under paragraph (a) shall 
+consist of not less than 3 members of the Committee and such other persons as the Committee 
+may co-opt. 
+17. 
+Meetings of Committee 
+(1) 
+The Committee shall meet as often as is necessary and at such time and place as 
+the Chairperson may determine. 
+(2) 
+Where the Chairperson is absent from a meeting of the Committee, the 
+representative of the Technical Services of the Ministry shall chair the meeting. 
+(3) 
+At any meeting of the Committee, 6 members shall constitute a quorum. 
+(4) 
+Every decision of the Committee shall be by resolution of the majority of members 
+present and voting and, in the case of an equality of votes, the person presiding at the meeting 
+shall, in addition to his deliberative vote, have a casting vote. 
+(5) 
+A co-opted member shall have no right to vote. 
+(6) 
+Subject to this section, the Committee may regulate its meetings in such manner as 
+it may determine. 
+18. 
+Disclosure of interest 
+Any member of the Committee, who has an interest, direct or indirect, in a matter being 
+considered by the Committee shall, as soon as is practicable, disclose in writing to the 
+Committee the nature of his interest and shall not participate or vote at a meeting of the 
+Committee in respect of that matter. 
+19. 
+Functions of Committee  
+The Committee shall – 
+(a) in respect of water use permits – 
+(i) 
+examine every application for a water use permit in accordance with this Act 
+and, submit its report and recommendations to the Minister; 
+
+
+--- PAGE 19 ---
+
+(ii) 
+comply with all procedures relating to the issue, variation, rejection, 
+suspension or revocation of any water use permit as specified in this Act; 
+(iii) 
+promote coordination and collaboration between water users, public 
+departments, statutory bodies and the Commission for the purpose of 
+ensuring an efficient use and the protection of water resources; 
+(b) advise the Minister and the Commission on any matter, related to water resources 
+and water resources management, that the Minister or Commission may refer to it; 
+ (c) make recommendations to the Minister on – 
+(i) 
+the temporary variation of water use permits and on drawing water from rivers, 
+stream, spring, canal, dams or borehole as may be required in the public 
+interest for a stated period of time; 
+(ii) 
+the temporary authorisation for water to be drawn from any river, stream, 
+spring, canal or borehole for a stated period of time pending the determination 
+of an application for the issue of water use permit; 
+(iii) 
+the fees or tariffs payable in respect of the application or variation or issue of a 
+water use permit or in respect of the volume of water granted by a permit; 
+20. Water use permit 
+(1) 
+No person shall take, abstract, divert, obstruct or use any water, including surface 
+water, underground water or springs, from the domaine public or from any water resources 
+infrastructure unless he holds a water use permit. 
+(2) 
+No person shall abstract or use seawater or brackish water for the purpose of 
+desalination unless he holds a permit. 
+(3) 
+No person shall – 
+(a) 
+abstract, divert, obstruct or use any surface water from any river, canal, 
+watercourse, dam or any underground water; 
+(b) 
+construct or erect any works in or over any surface water, dam or 
+underground water, 
+unless he holds a permit under this Act. 
+  
+
+
+--- PAGE 20 ---
+
+21. Application for water use permit 
+(1) 
+Any person who intends to obtain a water use permit shall make an application to 
+the Director in such form and manner as the Committee may determine.  
+(2) 
+The applicant shall furnish to the Director such information, data, documents and 
+plans as may be required. 
+(3) 
+The Director may require an applicant to furnish – 
+(a) 
+information in relation to – 
+(i) 
+the application, including, but not limited to, particulars of any existing 
+water use, intended or actual volume and use, location of use, means of 
+water abstraction, its conveyance and its disposal after use; 
+(ii) 
+water conservation and protection and for the measuring and recording 
+of relevant aspects of water abstraction and discharge; and 
+(b) 
+such information, plans or documents as the Committee may require for the 
+purpose of examining the application. 
+(4) 
+Where the applicant fails to provide the information required under this section within 
+such time as the Committee may determine, the Committee may reject the application and 
+inform the applicant accordingly in writing. 
+(5) 
+The applicant shall notify the Director of any material change which may have 
+occurred, whether before or after the issue of the permit, with regard to the information or 
+documents submitted in connection with an application. 
+22. Processing of application 
+(1) 
+The Director shall, on receipt of an application, require the applicant to give public 
+notice of the application in such form and manner as the Committee may determine. 
+(2) 
+The notice under subsection (1) shall afford an adequate opportunity for members of 
+the public or any interested party to comment on an application, or object to the grant of a 
+permit. 
+(3) 
+Any objection to the grant of the permit shall be filed within such time as may be 
+specified in the notice. 
+(4) 
+The Director shall refer the application, together with all relevant documents and 
+information, to the Committee. 
+
+
+--- PAGE 21 ---
+
+23. Examination of application 
+(1) 
+The Committee shall examine the application, including any comment or objection, 
+in accordance with this Act before submitting its report and recommendations to the Minister. 
+(2) 
+For the purpose of making a recommendation to the Minister, the Committee shall 
+take into consideration – 
+(a) 
+the availability, intended volume and purpose of use of water; 
+(b) 
+the requirements set out in section 8 for the purpose of determining the 
+entitlement to the use of water; 
+(c) 
+whether any construction work, abstraction or discharge of surface or 
+underground water, or the abstraction of brackish or seawater is in a location 
+or area protected by law from such development or use; 
+(d) 
+whether the use of the water, discharge of water or any associated 
+construction work would contravene, or is likely to contravene, this Act or any 
+other enactment; 
+(e) 
+whether the use of the water or the consequences of its use would constitute 
+a direct risk to the public health or the environment; 
+(f) 
+whether the applicant has the ability and capacity to comply with, and to fulfil 
+all the requirements under, this Act; 
+(g) 
+such other matter as may be deemed relevant. 
+ 
+ 
+24. Determination by Minister 
+The Minister may, after considering the report and recommendations of the Committee – 
+(a) 
+grant an application and issue a water use permit on such terms and conditions as 
+may be specified in the permit; 
+(b) 
+reject the application and inform the applicant, in writing of the reasons of the 
+rejection within 15 days of the date of his decision. 
+25. Reserved use of water 
+(1) 
+For the purposes of this Act, the Minister may, by notice published in the Gazette, 
+declare a water resource to be a reserved use of water. 
+(2) 
+The notice published in the Gazette shall set out the location of every reserved use 
+
+
+--- PAGE 22 ---
+
+of water and the volume of water reserved at that location. 
+(3) 
+Subject to subsection (4), a reserved use of water shall only be used for the supply 
+of water required for public consumption or for purposes of public utility and safety. 
+(4) 
+Notwithstanding subsection (3), a reserved use of water may otherwise be used 
+only to supply water for firefighting or to meet water demands for limited periods during times of 
+emergency or severe water shortage. 
+(5) 
+No person shall, without lawful authority, – 
+(a) 
+take, abstract, divert, obstruct or use water from a watercourse from which 
+water flows into a reserved use of water; 
+(b) 
+abstract water from, or interfere in any manner whatsoever with the 
+conservation or protection of, underground water, a catchment or aquifer in 
+the immediate surrounding of a reserved use of water.  
+(6) 
+The Director shall keep updated information of every reserved use of water and 
+volume of water available therein to meet the demands for the supply of water for the purposes 
+specified under this section. 
+26. Conditions of water use permit 
+(1) 
+A water use permit shall be valid for a period not exceeding 5 years and may be 
+renewed for successive periods of 5 years or such other period as the Committee may 
+determine. 
+(2) 
+An application for the renewal of a water use permit shall be made to the Director in 
+such form and manner as the Committee may determine. 
+(3) 
+A water use permit shall be issued or renewed subject to such conditions, 
+restrictions and limitations as may be necessary for the purpose of – 
+(a) 
+safeguarding a water source; 
+(b) 
+safeguarding the environment and the needs of other water users; 
+(c) 
+ensuring public safety; 
+(d) 
+ensuring that the permit holder adheres to the specified use and volume of 
+water allocated in a permit; 
+(e) 
+requiring a permit holder to keep and make available such records as may be 
+necessary; 
+
+
+--- PAGE 23 ---
+
+(f) 
+requiring a permit holder to reduce his use of water during times of water 
+shortage or emergency; 
+(g) 
+regulating the use of water in the public interest on an annual, seasonal or 
+monthly basis; 
+(h) 
+ensuring payment for the taking, abstraction or use of water; 
+(i) 
+ensuring that the permit holder protects, conserves and uses water efficiently;  
+(j) 
+ensuring that the permit holder makes effective use of, and have recourse to, 
+alternative water sources which may be available; 
+(k) 
+measuring and recording the volume of water abstraction and discharge. 
+(4) 
+A water use permit shall – 
+(a) 
+specify the period during which the permit shall be valid; 
+(b) 
+specify the volume of water which may be used every year, season or month; 
+(c) 
+specify the purpose for which the water shall be used; 
+(d) 
+specify the means and method by which water shall be abstracted and 
+conveyed; 
+(e) 
+set out such other conditions as may be necessary in the public and 
+environmental interest; 
+(f) 
+specify the measures which may be applied during a dry season or times of 
+water shortage or emergency; 
+(g) 
+set out such other conditions as may be necessary for the permit holder to 
+fulfil his obligations; 
+(h) 
+specify the fees or tariffs that are payable; 
+(i) 
+contain guidelines for the implementation or operation of an activity, including 
+in respect of any impact on water resources in a watercourse, catchment and 
+hydrological area and in respect of the use of alternative water sources. 
+(5) 
+For the purposes of this Act, the Minister may, on the recommendation of the 
+Committee, vary any condition, restriction or limitation set out in the permit and inform the permit 
+holder accordingly in writing. 
+ 
+ 
+
+
+--- PAGE 24 ---
+
+27. Payment for water use permit 
+(1) 
+The Minister may, on the recommendation of the Committee, determine – 
+(a) 
+the fees for application of permits; 
+(b) 
+the fees for an application for the alteration of a water use permit; 
+(c) 
+the annual cost of a water use permit based upon the volume of water 
+allocated under the permit. 
+(2) 
+The Minister may, where the use of water is required in the public interest, waive 
+any payment under this section. 
+28. Alterations to permits 
+(1) 
+Any permit holder who wishes to vary or modify a water use permit shall make an 
+application, in writing, to the Director, stating the reasons for the proposed variation or 
+modification. 
+(2) 
+An application under subsection (1) shall be – 
+(a) 
+made in such form and manner as the Committee may determine; 
+(b) 
+subject to the procedures and conditions specified in sections 21 to 27. 
+29. Variation of permit in public interest 
+(1) 
+Nothing in this Part shall prevent the Minister from authorising the Director to limit, in 
+whole or in part, the water allocated under any existing water use permit where the Minister has 
+reasonable cause to believe that it is in the public interest during times of water shortage or 
+emergency to vary or modify the terms and conditions of any entitlement to use of water to – 
+(a) 
+supply water for the needs of the public; and 
+(b) 
+ensure that a reserved use of water contains sufficient water for the purposes 
+specified in section 25. 
+ 
+(2) 
+ Where there is any variation to a water use permit under subsection (1), the Minister 
+shall, in writing, inform the permit holder accordingly. 
+(3) 
+The Minister or the State shall not be liable to pay any compensation to a water use 
+permit holder following the variation of any terms and conditions of a permit. 
+ 
+
+
+--- PAGE 25 ---
+
+30. Obligations of permit holder 
+(1)  
+Every permit holder shall comply with such terms and conditions as may be 
+specified in the permit and in this Act. 
+(2) 
+A permit holder shall – 
+(a) 
+make use of the water allocated pursuant to him only for the purpose specified 
+in the permit; 
+(b) 
+return any unused water to a watercourse in such manner as may be specified 
+in the permit; 
+(c) 
+at all times, avoid wastage of water and conserve, protect and make an 
+efficient use of the available water; 
+(d) 
+keep and make available to the Director such records as may be required; 
+(e) 
+effect prompt payment of fees or tariffs. 
+(3) 
+A permit holder shall not sell or transfer, in full or in part, any water allocated to him 
+pursuant to the permit. 
+(4) 
+A permit holder shall inform the Director of any change in the circumstances which 
+may affect the conditions of his permit, including – 
+(a) 
+the sale or transfer of the land in respect of which water is taken or used; 
+(b) 
+any factor which may prevent or hinder compliance with a condition of the 
+permit; 
+(c) 
+any change in the volume, or reduction in the amount of, water which is 
+available; and 
+(d) 
+any reduction in the amount of water used or taken. 
+ 
+(5) 
+A permit holder shall not – 
+(a) 
+dispose in a river, stream, watercourse or canal any object which may impede 
+or cause to impede the flow of water in the river, stream, watercourse or 
+canal; 
+(b) 
+carry out any activity or take any action which may cause any soil erosion; 
+(c) 
+alter the composition or adversely affect the quality of any surface or 
+underground water by any means, process or activity; 
+(d) 
+carry out any cultivation or any fish or animal breeding in or within a river 
+
+
+--- PAGE 26 ---
+
+reserve or buffer zone. 
+(6) 
+Any person who fails to comply with subsection (5) shall commit an offence. 
+31. Failure to comply with permit 
+(1) 
+Where a permit holder or person acting on his behalf fails to comply with any term, 
+condition, obligation, limitation or restriction set out in a permit or in this Act, the Director may, 
+with the approval of the Minister, suspend or cancel the permit. 
+(2) 
+Any suspension or cancellation of a permit under subsection (1) shall be without 
+prejudice to any other action which may be taken against the permit holder under this Act. 
+(3) 
+Before any cancellation or suspension of a permit, the permit holder shall be 
+afforded an adequate opportunity to make representations to the Director as to why the permit 
+should not be suspended or cancelled. 
+32.  Exemptions 
+(1) 
+The Commission shall be exempt from the requirement to obtain or hold a water use 
+permit in respect of any enterprise or activity undertaken in the discharge of its functions and 
+duties under this Act. 
+(2) 
+The Minister may, in the public interest, exempt any person from the requirement to 
+hold a permit under this Act.   
+(3) 
+The Central Water Authority shall be exempt from the requirement to obtain or hold 
+a water use permit in respect of water which is being abstracted, taken or used by the Central 
+Water Authority on the commencement of this Part.      
+(4) 
+Subject to subsection (5), the Central Water Authority shall be exempt from the 
+requirement to hold or obtain a permit in respect of surface water, or underground water drawn 
+from boreholes by the Central Water Authority in order to cater for the immediate supply of 
+water for public purposes during times of acute water shortage or emergency. 
+(5)  
+The Central Water Authority shall for the purpose of section 32(3) and (4) submit to 
+the Commission – 
+(a) 
+the location together with a site plan of all the water sources from which water 
+is being abstracted, used or taken by the Central Water Authority; 
+(b) 
+the volume of water which is being abstracted, used or taken by the Central 
+Water Authority; 
+
+
+--- PAGE 27 ---
+
+(c) 
+such other particulars or information which is requested by the Commission. 
+(6) 
+Any exemption granted or obtained under subsection (2), (3) or (4) shall be subject 
+to such terms and conditions as may be specified in writing by the Minister. 
+ 
+PART IV – MANAGEMENT AND ADMINISTRATION OF WATER RESOURCES 
+Sub-Part A – General 
+33. 
+Buffer zone 
+(1) 
+The Minister shall, by a notice published in the Gazette, declare such buffer zones 
+as may be necessary to protect any water resource and its immediate surrounding. 
+(2) 
+The notice specified in subsection (1) shall delimit the coordinates of each buffer 
+zone. 
+(3) 
+No person shall, within a buffer zone, carry out or cause to be carried out – 
+(a) 
+the removal of trees, unless authorised in writing by the Director and by any 
+public department from which an authorisation is required by law; 
+(b) 
+the destruction or damage to any endemic or protected flora, fauna, or its 
+ecosystems; 
+(c) 
+the destruction or damage to any geological or physiographical features; and 
+(d) 
+any activity which may adversely impact upon the quality of the surface or 
+underground water. 
+(4) 
+No person shall carry out any work in a buffer zone except with the written 
+authorisation of the Director and on such terms and conditions as the Director may determine. 
+(5) 
+Any person who fails to comply with subsection (3) or (4) shall commit an offence. 
+34. Restricted areas 
+(1) 
+The Minister shall, by notice published in the Gazette, declare as a restricted area, 
+the area that surrounds a dam, reservoir, lake or any such structures as are necessary for the 
+management, protection and conservation of water resources and their related environment. 
+(2) 
+The notice specified in subsection (1) shall delimit the coordinates of every restricted 
+area. 
+(3) 
+(a)  
+No person shall, without lawful authority, enter or remain in a restricted 
+
+
+--- PAGE 28 ---
+
+area. 
+(b)   
+The Director may issue to a person a written authorisation to enter or 
+remain in a restricted area subject to such terms and conditions as may be specified therein. 
+(4) 
+A police officer or an authorised officer may prohibit any unauthorised person 
+from entering or remaining in a restricted area. 
+(5)  
+Any person who fails to comply with subsection (3) or (4) shall commit an 
+offence. 
+35. 
+Alternative water sources 
+(1) 
+The Commission shall promote and regulate the development and use of 
+alternative sources of water, including desalinated water. 
+(2) 
+No person shall desalinate seawater or brackish water unless he holds a permit 
+under this Act. 
+(3) 
+(a)  
+Any person who intends to desalinate seawater or brackish water shall 
+make an application to the Director. 
+(b) 
+The application under paragraph (a) shall be made in such form and 
+manner as the Committee may determine. 
+(4) 
+With respect to desalination – 
+(a) 
+the abstracting of water for the purpose of desalination from any source, 
+including brackish water and seawater, shall require a water use permit; 
+(b) 
+any person who intends to become a water supply provider as a result of 
+desalinating water shall first apply and obtain a permit which shall be in 
+such form and manner and subject to such conditions as may be 
+determined and approved by the Minister upon the recommendation of the 
+Committee. 
+(5) 
+The water use permit shall – 
+(a) 
+state the period during which it shall be valid; 
+(b) 
+specify the maximum volume of water which may be abstracted and used; 
+(c) 
+specify any special conditions required to secure the public and environmental 
+interest; 
+(d) 
+set out such other conditions as may be necessary for the permit holder to 
+
+
+--- PAGE 29 ---
+
+fulfil its obligations and ensure compliance with this Act and any other 
+enactment; 
+(e) 
+specify the fees that are payable. 
+Sub-Part B – Rivers and Canals 
+36. 
+ Rivers 
+(1) 
+Subject to Part V, no person shall stop, divert, alter the flow or interfere in any 
+manner whatsoever with the course of a river, stream or watercourse. 
+(2) 
+(a)  
+Subject to paragraph (b), no person shall use water from any river, 
+stream or watercourse for a purpose other than that specified in a water use permit issued to 
+him, or as specified in this Act. 
+(b) 
+Paragraph (a) shall not apply to any small planter. 
+(c) 
+(i) Any small planter who intends to use water from any river, stream 
+or watercourse shall notify the Director accordingly in such manner as the Director may 
+determine. 
+(ii) For the purpose of subparagraph (i), the Director may, at any time, 
+impose such conditions as he may determine. 
+(3) 
+No person shall carry out any work in or along a river, stream or watercourse 
+unless authorised in accordance with this Act. 
+(4) Any person may, without any machinery, installation, appliance or device, take water 
+from any open part of a river, stream or watercourse for his personal or domestic use. 
+37.  
+Canals 
+(1) 
+No person, including the owner of a private canal shall take, abstract, divert or use 
+water from any water resource to be transferred into his canal unless he holds a water use 
+permit issued under this Act. 
+(2) 
+The Committee shall take into consideration the following before making a 
+recommendation to the Minister, with regard to the issue of a permit – 
+(a) 
+the availability of adequate water from the original source or from additional 
+sources to provide flows to the canal; 
+(b) 
+the capacity and condition of the canal to be able to convey existing or 
+
+
+--- PAGE 30 ---
+
+additional water efficiently and without wastage or loss of water; 
+(c) 
+any impact that it may have on the existing users of water from that canal and 
+who are not the owners of the canal. 
+(3) 
+(a) 
+ A permit issued under this section shall specify that the Commission 
+may, for the purpose of avoiding undue wastage or loss of water, replace or cause to be 
+replaced a canal by pipelines or any other suitable structures. 
+(b) 
+The replacement under paragraph (a), of the canals by pipelines or any 
+other suitable structures, shall be subject to the approval of the Minister. 
+(4) 
+(a)  
+A permit holder who intends to transfer water to which he is entitled along 
+a private canal to another person shall make a written application to the Director, specifying the 
+purpose, the volume and such other information as may be required. 
+(b) 
+The Minister may, on the recommendation of the Committee, grant the 
+application subject to such terms and conditions as the Committee may recommend. 
+(5) Where a canal is privately owned – 
+(a) 
+the owner shall ensure that the canal is maintained, kept in good working 
+condition, and protected in accordance with this Act; 
+(b) 
+an owner of a portion of land through which a canal passes shall keep the 
+canal free from any obstruction which may impede the flow of water in the 
+canal; and 
+(c) 
+where there are different owners on each side of a canal, the owners shall 
+jointly keep the canal in good working condition, cleared and free from any 
+obstruction. 
+(6) 
+(a)  
+No person shall, without the written authorisation of the Director, carry out 
+any construction work or alteration of a canal. 
+ (b) 
+The authorisation under paragraph (a) shall be subject to such conditions 
+as the Director may determine. 
+(7) 
+(a)  
+Any owner of a private canal who, for the purpose of its maintenance, 
+intends to stop the flow of water in that canal shall make an application, in writing, to the 
+Director. 
+(b) 
+The application under paragraph (a) shall specify – 
+(i) 
+the reason why the flow of water should be stopped; 
+
+
+--- PAGE 31 ---
+
+(ii) 
+the period during which the flow of water shall be stopped; and 
+(iii) 
+the appropriate measures that he will take to continuously provide 
+water during that period. 
+(8) 
+The Director may cause the flow of water into any canal to be stopped where – 
+(a) 
+the users of water from a canal do not have the required water use permit; 
+(b) 
+the canal requires urgent maintenance, improvement or clearing; 
+(c) 
+there is undue waste or loss of water; 
+(d) 
+the canal represents a hazard or threat to the health or security of the public 
+or to the security of any infrastructure. 
+38. 
+Works related to rivers, canals and other watercourses 
+(1) 
+No person shall, without the prior written authorisation of the Director, construct, 
+modify or make any change to any structure or use any equipment which may change the 
+course or alter the flow or level of water in any stream, river, canal or watercourse. 
+(2) 
+No person shall, without the prior written authorisation of the Director – 
+(a) 
+carry out any work to dredge, deepen, widen, alter the course of or stop the 
+flow of any watercourse; 
+(b) 
+alter any catchment, hydrological area and underground water zone; 
+(c) 
+alter any pipe, basin, dam, or any work or structure connected with any water 
+works, irrigation works or any other work for which the Commission is 
+responsible. 
+(3) 
+No person shall, without the written authorisation of the Director, demolish or 
+remove any structure or significant part thereof that may affect a watercourse. 
+Sub-Part C – Dams 
+39. 
+Private and other dams 
+(1) 
+Any person who owns or makes use of a dam shall require a water use permit 
+and shall abide by the conditions of that permit in accordance with this Act. 
+(2) Any person who claims to be the owner of a dam shall – 
+(a) 
+produce to the Director the title establishing his ownership of the land; 
+(b) 
+register that dam with the Director in such manner as the Committee may 
+determine. 
+
+
+--- PAGE 32 ---
+
+(3) No person shall construct a dam, impoundment or erect any structure for storing 
+water, unless that person applies for and obtains a permit and produces to the Director – 
+(a) 
+the title establishing his ownership of the land; 
+(b) 
+such other permits as may be required for that purpose; 
+(c) 
+such additional information, plans or documents as the Director may require. 
+(4) 
+An application for a permit under this sub-part shall be made in such form and 
+manner as the Committee may approve. 
+(5) Any person who has obtained a permit to build a dam shall – 
+(a) 
+appoint a person having expertise in matters pertaining to dams to assess the 
+safety of the design, its structural integrity, and safety aspects of any 
+operations necessary during the construction of the dam; 
+(b) 
+require the expert to monitor, investigate and report on every safety aspect of 
+the dam and any associated activities during the construction period; 
+(c) 
+require the expert to produce a safety report on completion of works in such 
+form and manner as the Director may determine, and submit it to the Director; 
+and 
+(d) 
+forthwith inform the Director of any safety issues the expert may identify 
+during the period of construction and completion of the dam. 
+(6) 
+The Committee shall recommend the issue of a permit where it is satisfied that a 
+dam may be operated and used safely. 
+(7) 
+Where it appears to the Director that the construction or operation of a dam does 
+not satisfy safety requirements or that the dam may not be used and operated safely, or where 
+he is informed of a safety issue by the dam expert appointed under this section, the Director 
+may – 
+(a) 
+require and give written instruction to the dam owner to take such actions as 
+may be necessary to ensure the safe construction, operation and 
+maintenance of the dam; 
+(b) 
+require the dam owners, operators and/or contractors engaged in the 
+construction, maintenance or repair of a dam to take such immediate action as 
+the Director may instruct, including lowering of water levels or emptying of the 
+dam; 
+
+
+--- PAGE 33 ---
+
+(c) 
+where there is any safety or security risks, forthwith suspend any permit or 
+authorisation issued to the owners of a dam or in respect of a dam under 
+construction, repair or maintenance; and 
+(d) 
+reinstate any permit issued to the owner of a dam which the Director has 
+suspended when satisfied that it is safe to continue construction, repair, 
+maintenance, operation or use of that dam. 
+40. Responsibilities of dam owners 
+(1)  
+The drawings, specifications, design assumptions, calculations, documents, and 
+test results, emergency preparedness plans and such other relevant documents shall, at all 
+times, be available for inspection by the Director. 
+(2) 
+The owner of a dam shall, at all times, maintain and keep copies of the drawings 
+and emergency preparedness plan of the dam. 
+(3) 
+The owner of a dam shall carry out regular checks and safety assessments to 
+ensure that the dam is safe and will not cause prejudice to downstream occupants or users of 
+the water therein. 
+(4) The owner of a dam shall – 
+(a) 
+take such measures as may be necessary to ensure that the spill water from 
+the dam is released and conveyed safely; and 
+(b) 
+upgrade its dam structure and review its storage capacity and operating 
+practices and ensure that it is not unsafe or detrimental to discharge water 
+downstream. 
+(5) (a) The owner of a dam shall appoint such person having expertise in matters 
+pertaining to dams to carry out an annual inspection of the dam, its structures, operating rules 
+and emergency preparedness plans and shall provide an original copy of that report to the 
+Director. 
+(b) Notwithstanding paragraph (a), the Director may request the owner of a dam to 
+carry out the inspection at such interval as the Director may determine. 
+(6) 
+(a) Where the owner of a private dam intends to undertake any repairs or 
+alterations to the structure of a dam, he shall hire the services of a person having expertise in 
+the field to certify that any proposed repairs or alterations to the structure of the dam can be 
+carried out safely. 
+
+
+--- PAGE 34 ---
+
+(b) 
+Any application for any repair or alteration to the structure of a dam shall 
+be accompanied by such certificate as the person having expertise in the field may issue under 
+paragraph (a). 
+ (7) 
+The Director may require the owner of any dam to carry out an in-depth 
+assessment of any such safety aspect regarding the construction, operation and use of the dam 
+which is deemed to be necessary. 
+41. 
+Assessment of safety risk 
+The Director may designate an officer or a person having expertise in the field to – 
+(a) 
+identify and detail such specific actions or repairs as may be required to address the 
+risks that may arise from the operation and discharge of water from a dam with 
+regard to – 
+(i) 
+the structure of the dam; 
+(ii) 
+the spillway of the dam; or 
+(iii) 
+any other associated structure of the dam; 
+(b) 
+determine and inform the Director whether a dam represents any risk to the safety 
+of the public. 
+42. 
+Dams declared a safety risk 
+(1) 
+For the purpose of determining whether a dam represents a risk to the safety of the 
+public, the Director shall take into consideration – 
+(a) 
+the need to protect the public, property and the quality of water resources 
+against the potential risks that the dam represents; 
+(b) 
+the extent of potential loss or harm involved; 
+(c) 
+the cost estimates of any proposed measures and whether they are 
+realistically achievable; 
+(d) 
+the impact of any damage to the dam; 
+(e) 
+the manner in which the dam has been or is designed, constructed, altered, 
+repaired, operated, inspected, maintained or abandoned; 
+(f) 
+the qualifications and expertise of the person by whom the dam is designed, 
+constructed, altered, repaired, operated, inspected or maintained; and 
+
+
+--- PAGE 35 ---
+
+(g) 
+the manner in which water is contained, stored or impounded in that dam. 
+(2) 
+The Director shall inform the Minister of any dam which is considered to be a risk to 
+the safety of the public. 
+(3) 
+The Director may, with the approval of the Minister, by written notice served on the 
+owner of a dam – 
+(a) 
+declare the dam to be a risk to the safety of the public; and 
+(b) 
+direct the owner of the dam to undertake, at the owner’s cost, and within such 
+period as may be specified in the notice, to make such repairs or alterations 
+as may be necessary to protect the public, any property or the quality of water 
+resource from a risk of failure of the dam. 
+43. 
+Protection of dams 
+No person shall, without the written approval of the Director – 
+(a) 
+make structural modifications to a dam or alter the capacity of the dam or remove 
+any structure from a dam; 
+(b) 
+tamper with any equipment at a dam; 
+(c) 
+remove water from a dam for any purpose other than for the purpose specified in 
+the permit; 
+(d) 
+construct any structure within a distance of 200 metres from a dam or such other 
+distance as the Director may direct; 
+(e) 
+carry out any rock quarrying activity, deep excavation or major modifications of the 
+landform area located within 200 metres downstream of the dam and 100 metres 
+upstream of the dam high water mark, or such distance as the Director may direct; 
+and 
+(f) 
+carry out excavations in or change the course of the inflow channels to a dam. 
+Sub-Part D – Underground Water and Boreholes 
+44. 
+Management and regulation of underground water 
+(1) 
+Any underground water shall be developed or used in accordance with this Act. 
+(2) 
+No person shall take, abstract, divert or use any underground water unless he holds 
+a permit under this Act. 
+(3) 
+Any person who, before the commencement of this Act – 
+
+
+--- PAGE 36 ---
+
+(a) 
+holds a licence under the Ground Water Act; or 
+(b) 
+was a party to a written agreement with the State for the abstraction, 
+diversion, obstruction, measurement or use of any underground water, 
+shall, on production of the licence or of the original written agreement, to the Director as the 
+case may be, be deemed to be the holder of a water use permit under this Act. 
+45. 
+Drilling, development and use of boreholes 
+(1) 
+No person shall abstract, take or use water from any borehole unless he holds a 
+water use permit under this Act. 
+(2) 
+(a) No person shall drill or cause to be drilled any borehole without the written 
+authorisation of the Director. 
+(b) Any person who intends to drill, or cause to be drilled, a borehole shall make 
+an application to the Director. 
+(3) 
+Any person who strikes or comes across underground water in the course of any 
+digging, boring or drilling operations on any premises shall forthwith notify the Director of the 
+existence of such water. 
+(4)      (a) 
+Any person who drills, or causes to be drilled, a borehole shall keep a 
+record of every drill in such form and manner as the Director may determine. 
+ (b) 
+The record kept under paragraph (a) shall, during office hours, be 
+available for inspection by the Director or such officer as he may authorise. 
+(5) 
+Every person who drills and develops a borehole shall take such precautions as 
+may be required to safeguard the quality of the underground water. 
+(6) 
+Any person who by any act or process alters or adversely affects the quality of any 
+underground water shall commit an offence. 
+46. 
+Special arrangements 
+The Director may, in the public interest, or for the purpose of providing water for domestic 
+purposes, enter into such agreement as may be necessary in respect of the use of water from 
+any borehole where – 
+(a) 
+the borehole has not been used for a period of at least 3 consecutive years; and 
+(b) 
+no water use permit has been issued or 3 years before the commencement of this 
+Sub-part. 
+
+
+--- PAGE 37 ---
+
+47. 
+Emergency supply 
+(1) 
+Notwithstanding any other enactment, the Director may, for the purpose of ensuring 
+adequate water supply for public purposes during periods of emergency or acute water 
+shortage, use underground water or water from any borehole situated on any private land or 
+premises by giving reasonable advance notice to the occupier or owner thereof. 
+(2) 
+The owner or occupier shall upon a written notice of the Director pursuant to 
+subsection (1), arrange and provide for the most appropriate access for the abstraction and 
+conveyance of the water to ensure an immediate and uninterrupted supply of water for public 
+purposes. 
+(3) 
+Where a person fails to comply with this section, the Director may apply for a 
+Judge’s Order pursuant to section 65. 
+PART V – EXISTING WATER RIGHTS 
+48. Existing water rights 
+Any person who, before the commencement of this Act, was pursuant to the Rivers and 
+Canals Act or any other enactment – 
+(a) entitled to take water from a river or stream – 
+(i) 
+as the holder of a concession in accordance with his title of concession; 
+(ii) 
+by virtue of a portion of water assigned to him as a borderer by order of the 
+Supreme Court; 
+(b) entitled to abstract or divert water from a water source into his canal; 
+(c) 
+entitled to the use of water from a spring in his ground or as a result of the passage 
+of a spring, stream or run of water through his property, 
+shall, within 6 months of the commencement of this section, submit in such form and manner as 
+the Director may determine, an application for the registration of his existing water right. 
+49. Application for registration of existing water rights 
+Any person who makes an application for the registration of an existing water right under 
+this Part shall submit to the Director – 
+(a) 
+the title of concession or the order of the Supreme Court or such other title or 
+document that establishes his right; 
+(b) 
+any documentary evidence that establishes the volume or quantity of water that is 
+
+
+--- PAGE 38 ---
+
+assigned to him; 
+(c) 
+the mode of abstraction of water and location from which it is abstracted; 
+(d)     any Court Order in respect of any construction work or device for the taking, use, 
+abstraction or discharge of the water. 
+50. 
+Processing of application 
+On receipt of an application for registration under this Part, the Director may – 
+(a) 
+require an applicant to furnish such additional information or document as he may 
+require; 
+(b) 
+make such enquiry and consult such persons or authorities as is deemed 
+necessary; 
+(c) 
+require the applicant to give public notice of the application in such form and manner 
+as he may direct; 
+(d) 
+consider any objection or representation made by any interested party. 
+ 
+51. 
+Registration of existing water rights 
+(1) 
+The Director shall keep and maintain a register of existing 
+water rights which – 
+(a) 
+have been established under this Part; 
+(b) 
+are the subject of an Order by the Supreme Court. 
+(2) 
+The register shall contain the following information – 
+(a) 
+the name and other particulars of the person who holds the existing water 
+right; 
+(b) 
+a site plan locating the place where the water is found and the manner in 
+which the water should be abstracted; 
+(c) 
+the volume of water to which he is entitled; 
+(d) 
+the purpose for which he is entitled to use the water. 
+ 
+52. 
+Application to Supreme Court 
+(1) 
+Where the Director intends – 
+
+
+--- PAGE 39 ---
+
+(a) 
+to vary, amend or alter the flow of water from any river, stream, canal or 
+spring; 
+(b) 
+to vary, amend or alter the volume of water taken, abstracted or diverted from 
+any river, stream, canal or spring; 
+ (c) to carry out any work for the purpose of stopping, 
+changing or directing the course of any river, stream or canal, 
+in a manner which may affect or impact upon an existing water right registered under this Part, 
+the Director shall make an application for an Order from the Supreme Court authorising him to 
+do so. 
+(2)    The Director may apply to the Supreme Court for the cancellation or suspension of 
+any existing water right where the holder of the existing water right – 
+(a) 
+fails to take, abstract or use water in accordance with the title or Court order 
+which entitles him to use the water; 
+(b) 
+fails to make an efficient use of water allocated to him; 
+(c) 
+uses the water in such manner as may constitute a threat to the environment 
+or other water users. 
+ 
+53. 
+Public interest 
+For the purpose of determining an application under section 52(1), the Supreme Court 
+shall take into consideration – 
+(a) 
+the need for water to be removed for public consumption with due regard to existing 
+and future interest for supplying towns, villages, public buildings or establishments 
+and for such other purposes of public utility; 
+(b) 
+the need to maintain a sustainable environment; 
+(c) 
+the safety of the public and preparedness against the adverse effects of climate 
+change; 
+(d) 
+the need for an adequate quantity of water to be always preserved in the river, 
+stream, canal or spring to meet the natural wants of all water users and the public; 
+(e) 
+such works or construction as may be required if the order is granted. 
+ 
+
+
+--- PAGE 40 ---
+
+54. 
+Constitutional redress 
+(1) 
+Where any person alleges that any provision of the Constitution has been 
+contravened or is likely to be contravened in relation to him by the application or operation of 
+this Act, in respect of an existing water right, or that his interest or right has been or is likely to 
+be affected by such contravention, he may make an application to the Supreme Court for 
+redress in accordance with this Part. 
+(2) 
+An application for constitutional redress to the Supreme Court shall be made by way 
+of a Plaint with Summons in accordance with the Supreme Court (Constitutional Relief) Rules 
+2000 or such other rules as the Chief Justice may make. 
+ 
+55. 
+Legality and compensation 
+An application for constitutional redress under section 54 may include any claim for – 
+(a) 
+the determination of the interest or right of the person, the legality of any taking of 
+possession or acquisition of the existing water right or interest; 
+(b) 
+the payment of adequate compensation. 
+ 
+56. 
+Determination and payment of compensation 
+Where the Supreme Court determines that – 
+(a) 
+there has been a contravention of any provision of the Constitution in relation to the 
+claimant; and 
+(b) 
+his interest in the existing water right has been injuriously affected by such 
+contravention, 
+the Supreme Court shall – 
+(i) 
+determine the amount of any compensation to which the claimant is entitled 
+for the injurious affectation to his constitutionally protected right which has 
+been caused as a result of the contravention; 
+(ii) 
+make such order as is necessary for payment of the compensation; 
+(iii)     make such order as the Court may deem fit to impose in order to secure the 
+constitutionally protected right or interest of the claimant in respect of an existing 
+water right. 
+
+
+--- PAGE 41 ---
+
+ 
+57.    No right to compensation 
+Nothing in this Part shall be construed as giving rise to a right for compensation, in 
+respect of any decision or action that arises from the application of this Act, other than a 
+decision which may be the subject of an order for payment of compensation by the Supreme 
+Court under this Part. 
+58. 
+Temporary order 
+Notwithstanding any plaint or action that may be pending before the Supreme Court, the 
+Judge in Chambers may, on an ex parte application by the Minister or Director, make such 
+temporary or immediate order for the supply, control or protection of water resources as may be 
+necessary and urgent in the public interest. 
+ 
+PART VI – ENFORCEMENT 
+59. 
+Remedial notice 
+(1) 
+ Where the Director has reasonable ground to believe that an activity or omission by 
+any person may, or is likely to contravene this Act, or any condition of a permit, he may 
+issue and cause to be served a remedial notice on the permit holder or the person 
+responsible for the activity or omission, as the case may be. 
+(2) A remedial notice shall – 
+(a) 
+specify the nature of the activity or omission which may constitute a 
+contravention of the Act or permit; 
+(b) 
+set out the remedial measures to be undertaken by the person served with the 
+notice; 
+(c) 
+specify the timeframe within which such measures should be implemented. 
+(3)      For the purpose of determining the remedial measures required under subsection 
+(2), the Director may hold, with the person, such consultations as may be necessary. 
+(4) 
+The Director may amend or vary a remedial notice by causing to be served on the 
+person on whom the remedial notice had been served, a variation notice specifying the 
+amendment to the remedial notice. 
+(5) 
+A variation notice issued under subsection (4) shall supersede the notice to which it 
+
+
+--- PAGE 42 ---
+
+refers to the extent of the amendment. 
+(6) 
+The issue of a remedial notice or variation notice under this section shall be without 
+prejudice to any other action which may be taken under this Act. 
+(7) 
+Any person who fails to comply with a remedial notice or a variation notice shall 
+commit an offence. 
+ 
+60.  Enforcement notice 
+(1)  Where the Director has reasonable ground to believe that a person is contravening 
+or is likely to contravene this Act or any condition of a permit, he may issue and cause the 
+person to be served with an enforcement notice. 
+(2)  An enforcement notice shall – 
+(a) 
+specify the nature of the contravention or breach of permit, as the case may 
+be; 
+(b) 
+specify such measures as may be required to remedy or prevent the 
+contravention or breach; 
+(c) 
+specify the timeframe within which such measures should be implemented. 
+(3) 
+Any person who fails to comply with an enforcement notice shall commit an 
+offence. 
+ 
+61. Prohibition notice 
+(1) Where the Director has reasonable ground to believe that an enterprise or activity, or 
+the manner in which the enterprise or activity is carried out – 
+(a)  may involve a serious or imminent risk, hindrance or obstruction to the     
+management, conservation and protection of water resources; 
+(b) 
+may interfere with or damage any instrumentation, water resources 
+infrastructure, structure or device used for the management of water 
+resources or for the purpose of ensuring public safety; 
+(c) 
+may interfere or adversely affect the quality of water or the safety and 
+maintenance of water resources or any related infrastructure, 
+the Director may issue and cause to be served a prohibition notice on the person who owns or 
+
+
+--- PAGE 43 ---
+
+manages the enterprise or is in control or in charge of the enterprise or activity. 
+(2) A prohibition notice – 
+(a) 
+shall specify the enterprise or any aspect of the enterprise or activity which is 
+prohibited from operation or performance; 
+(b) 
+may specify any condition, including the taking of remedial measures, subject 
+to which the enterprise or activity may be resumed. 
+(3) Any person who fails to comply with a prohibition notice shall commit an offence. 
+ 
+62. 
+Stop order 
+(1) Where a person undertakes or carries out any activity – 
+(a) 
+without such permit as may be required under this Act; 
+(b) 
+which represents a serious nuisance or a direct threat to the security or 
+functioning of any instrumentation, water resources infrastructure, structure or 
+device; 
+(c) 
+which causes or may be responsible for excessive wastage or loss of water; 
+(d) 
+which is likely to impact on the quality of water resources, 
+the Director may issue and cause to be served, on that person, or the person responsible, in 
+charge or in control of such activity, a stop order prohibiting the activity. 
+ (2) Any person who fails to comply with a stop order issued under subsection (1) shall 
+commit an offence. 
+ 
+63. 
+Revocation of notices 
+(1) Where the Director is satisfied that – 
+(a) 
+the remedial measures specified in a notice or order have been implemented; 
+and 
+(b) 
+there exists no further justification for maintaining the notice or order, 
+the Director may revoke a notice or order and shall accordingly inform the person upon whom 
+the notice or order was served. 
+
+
+--- PAGE 44 ---
+
+(2) The revocation of the notice or order shall be without prejudice to any action, 
+including the prosecution for an offence, which may be taken under the Act. 
+ 
+64. 
+Enforcement powers of Director and authorised officers 
+(1) The Director or an authorised officer may, at any time and without warrant, enter and 
+search any land or premises, other than a dwelling house where – 
+(a) 
+there is reasonable suspicion that a contravention of this Act has been, or is 
+likely to be, committed; 
+(b) 
+there is, on the land or premises, an abusive use, wastage or loss of water; 
+(c) 
+there is, on the land or premises, any enterprise or activity, which is likely to 
+impact on the quality of water resources. 
+(2) The Director or an authorised officer may, on entering any land or premises pursuant 
+to subsection (1) – 
+(a)  bring with him any person or equipment which he may need for the purpose of       
+exercising his duties and discharging his functions; 
+(b) 
+require the production of a water use permit and such records or documents 
+as are required to be kept by the permit holder and take copies, photographs 
+or extracts thereof; 
+(c) 
+inspect, monitor and assess any water resources, or activities which involve 
+the use of water resources, including carrying out tests, taking measurements 
+and samples, inspecting water infrastructures, equipment and machinery and 
+determining the efficiency of water use; 
+(d) 
+take samples and photographs and require the person to furnish such 
+information as may be required in respect of the undertaking or activity which 
+is the subject of the inspection; 
+(e) 
+require any person suspected of having contravened this Act to produce 
+satisfactory proof of his identity and address; 
+(f) 
+secure any article, object, equipment, plant or machinery that may be related 
+to the contravention; 
+(g) 
+secure any document, file or record that may reasonably be required for the 
+purpose of investigation or prevention of the contravention; 
+
+
+--- PAGE 45 ---
+
+(b) 
+conduct such investigations or experiments as may be required to ascertain 
+the availability and amount of underground water under such land and the 
+possibility of exploiting such underground water. 
+(3) 
+The Director or an authorised officer shall not enter a dwelling house unless he 
+obtains the consent of the owner or occupier. 
+(4) 
+The Director or an authorised officer shall, for the purpose of exercising his powers 
+under this section, exhibit, on request from any person on the premises, such documentary 
+evidence as may be required to establish his identity and authority. 
+65. 
+Judge’s order 
+(1) Where a person fails to comply with any notice or order under this Act, the Judge 
+may, on an ex parte application by the Director, make such interim and immediate order 
+as may be urgent and necessary for the management, conservation or protection of any 
+water resources or infrastructure or for the emergency supply of water for public purposes. 
+(2) Where any person – 
+(a) 
+refuses or prevents the Director or an authorised officer from entering or 
+gaining access to a dwelling house or to any land or premises for the purpose 
+of exercising his duties and powers under the Act; or 
+(b) 
+obstructs or hinders or prevents the Director or an authorised officer from 
+exercising any of the duties and powers conferred upon him under the Act, 
+the Director or the authorised officer may apply to a Judge for an order authorising him to enter 
+and inspect any dwelling house, land or premises or to exercise any of his duties or powers 
+under this Act. 
+(3) The Judge may, on being satisfied that it is necessary for the Director or the 
+authorised officer to exercise any of the duties or powers conferred upon him under the 
+Act, issue an order authorising the Director or the authorised officer to enter and inspect 
+any dwelling house, land or premises or to exercise his duties or powers without any 
+hindrance, obstruction or impediment on the part of any person. 
+ 
+ 
+66. 
+Compliance monitoring 
+(1) 
+The Director may, in respect of any act or omission relating to the use of water 
+
+
+--- PAGE 46 ---
+
+resources, cause to be carried out, or arrange for, the monitoring of any use of water resources 
+in order to ensure compliance with this Act. 
+(2) 
+The Director may, by notice, require any person in charge or in control of the 
+abstraction or use of water resources – 
+(a) to carry out such monitoring as he may direct in relation 
+to the use of the water resources; and 
+ (b) to keep and supply to him the records and results of 
+the monitoring and any such other information as he may require. 
+ 
+67. 
+Obstruction of authorised officer 
+Any person who obstructs, impedes, coerces or harasses the Director or an authorised 
+officer in the exercise of any of his powers and duties under this Act shall commit an offence. 
+68.     Damage 
+Any person who – 
+(a) 
+throws or dumps any waste, pollutant or any other substance in a river, stream or 
+watercourse or carries out any activity which may adversely impact upon the quality 
+of the water resources; 
+(b) 
+without lawful authority, constructs or carries out any works in relation to, or which 
+affects, the use of water resources; 
+(c) 
+damages any instrumentation, water resources infrastructure, structure or device; 
+(d) 
+discharges polluted water underground or into any river, canal, stream, watercourse, 
+lake, reservoir or lagoon, 
+shall commit an offence. 
+69. Offences 
+Any person who – 
+(a) 
+fails to comply with any notice, order or direction issued under this Act; 
+(b) 
+fails to submit a report or document or to provide information required under this 
+Act; 
+(c) 
+submits a report, document or any information which is false or misleading in any 
+
+
+--- PAGE 47 ---
+
+material particular; 
+(d) 
+fails to acknowledge or evades service of any notice, order or direction issued under 
+this Act; 
+(e) 
+contravenes this Act or any regulations made under this Act, 
+shall commit an offence and shall, on conviction, be liable to a fine not exceeding 2 million 
+rupees and to imprisonment for a term not exceeding 5 years. 
+ 
+70. 
+Prosecution and jurisdiction 
+(1) Notwithstanding – 
+(a) 
+section 114 of the Courts Act; and 
+(b) 
+section 72 of the District and Intermediate Courts (Criminal Jurisdiction) Act, 
+a Magistrate shall have jurisdiction to try all offences under this Act and may impose any penalty 
+and exercise all the ancillary powers provided under this Act. 
+(2)  An authorised officer may swear an information before a District Magistrate and 
+conduct prosecution on behalf of the Commission in respect of an offence under this Act or any 
+regulations made under this Act. 
+(3)     The following enactments shall not apply to a sentence imposed under this Act – 
+(a) 
+sections 152 and 153 of the Criminal Procedure Act; 
+(b) 
+the Probation of Offenders Act. 
+ 
+71. 
+Powers of Court 
+(1) The Court may, in addition to any penalty under this Act – 
+(a) 
+order the forfeiture of any object, machinery, plant, vehicle or article used in, 
+or connected in any way, with the commission of an offence; and 
+(b) 
+order, or prohibit, the doing of any act or activity to stop a continuing 
+contravention. 
+(2) 
+Where the conviction relates to an enforcement notice, a prohibition notice, an order 
+or a direction, the Court shall order compliance with the notice, order or direction within such 
+period as the Court may determine. 
+
+
+--- PAGE 48 ---
+
+(3) 
+The Court shall, on being satisfied by the Director that the circumstances so 
+warrant, make an order that an undertaking, enterprise or activity be stopped, ceased, closed or 
+pulled down. 
+ 
+PART VII – APPLICATION OF ACT TO RODRIGUES 
+72. 
+Interpretation 
+ In this Part – 
+“Chief Commissioner” has the same meaning as in the Rodrigues Regional Assembly Act; 
+         “Commission” means the Commission responsible for water resources established 
+pursuant to the Rodrigues Regional Assembly Act. 
+ 
+73. 
+Commission for Water Resources 
+(1) 
+The Commission shall be responsible for all matters relating to the management 
+and administration of water resources in the Island of Rodrigues. 
+(2) 
+The Commission shall, in respect of the Island of Rodrigues – 
+(a) 
+develop such plans and put in place such mechanism and administrative 
+measures as may be necessary for the purpose of the management, 
+conservation and protection of water resources in accordance with this Act; 
+and 
+(b) 
+make recommendations to the Rodrigues Regional Assembly on matters 
+relating to the sustainable development, management and protection of water 
+resources, including monitoring, control and enforcement. 
+74.   Vesting of publicly owned water resources property or infrastructure 
+(1) Every publicly owned water resources infrastructure in the Island of Rodrigues shall 
+be vested in the Rodrigues Regional Assembly. 
+(2) The Rodrigues Regional Assembly shall, in accordance with this Act, be solely 
+responsible for the management and administration of water resources in the Island of 
+Rodrigues, including – 
+(a) 
+all surface water, underground water and springs that are part of the domaine 
+public; 
+
+
+--- PAGE 49 ---
+
+(b) 
+alternative water sources; 
+(c) 
+the publicly owned water resources infrastructure vested in the Rodrigues 
+Regional Assembly. 
+(3) 
+Nothing in this Part shall be construed as authorising or empowering the 
+Commission or any other institution to alienate, dispose of, or create any charge, 
+obligation or any right, any property or infrastructure vested in the Rodrigues Regional 
+Assembly for the purposes of management and administration of water resources under 
+this Act. 
+ 
+75. 
+Regulations for Rodrigues 
+(1) 
+The Rodrigues Regional Assembly may make regulations generally for the purposes 
+of this Act in respect of the Island of Rodrigues. 
+(2) 
+Without prejudice to the generality of subsection (1), the Rodrigues Regional 
+Assembly may, in particular, make regulations for – 
+(a) 
+the effective management of water resources, including during periods of 
+shortage of water; 
+(b) 
+an integrated approach to the management of water resources; 
+(c) 
+the efficient use of water; 
+(d) 
+the conservation, protection and sustainable use of water resources; 
+(e) 
+the alternative water sources, including desalination and re-use of treated 
+effluent; 
+(f) 
+the enactment of such offences as may be necessary for the implementation 
+of this Act; 
+(g) 
+the guidelines, procedures and policies to measure and monitor the water 
+resources; 
+(h) 
+the issue of permits, licenses, clearances and authorisations for the purpose 
+of administering effectively and sustainably the water resources; 
+(i) 
+the protection of restricted areas and buffer zones; and 
+(j) 
+the reserved use of water resources. 
+ 
+
+
+--- PAGE 50 ---
+
+PART VIII – MISCELLANEOUS 
+76. 
+Protection from liability 
+(1) 
+No liability, civil or criminal, shall be incurred by any Minister, the Commission and 
+its officers, the Committee and its members, the Director, any authorised officer or public officer 
+in respect of any act done or omitted in good faith in the execution of their functions or duties 
+under this Act. 
+(2) 
+This section shall be in addition to, and not in derogation from, the Public Officers’ 
+Protection Act. 
+ 
+77.    Confidentiality 
+No person acting in the administration and execution of this Act or discharging any 
+function or duty under this Act shall disclose, otherwise than in the performance of his duty, any 
+information which he has obtained by virtue of this Act. 
+ 
+78.  
+Regulations 
+(1) 
+The Minister may make regulations generally for the purposes of this Act. 
+(2) 
+Without prejudice to the generality of subsection (1), the Minister may, in particular, 
+make regulations for – 
+(a)  the effective management of water resources and their management during   
+periods of shortage of water and emergency; 
+(b) 
+an integrated water resources management; 
+(c) 
+the efficient use of water; 
+(d) 
+the conservation of water and protection of water resources; 
+(e) 
+the sustainable use of water resources; 
+(f) 
+the alternative sources of water, including desalination and re-use of treated 
+effluent; 
+(g) 
+the enactment of such offences as may be necessary for the implementation 
+of this Act; 
+(h) 
+the guidelines, procedures and policies to measure and monitor the water 
+
+
+--- PAGE 51 ---
+
+resources; 
+(i) 
+the issue of permits for the purpose of effectively and sustainably managing 
+the water resources; 
+(j) 
+the protection of restricted areas and buffer zones; 
+(k) 
+the reserved use of water resources; 
+(l) 
+the management, operation and maintenance of dams; 
+(m) 
+the water resources infrastructure; 
+(n) 
+providing measures to ensure the cleaning, clearing, maintenance, safety and 
+security of watercourses; 
+(o) 
+the operation, management and development of water resources and water 
+resources infrastructure in the islands, other than the Island of Rodrigues, 
+which form part of the State of Mauritius; 
+(p) 
+the levying and payment of fees; 
+(q) 
+the amendment of the Schedule. 
+79.  Repeal 
+(1) 
+The Ground Water Act is repealed. 
+(2) 
+Sections 6, 9, 10, 12, 13, 15, 24, 26(2), 29, 30, 37, 40 to 46, 80 to 83, 92 to 94 and 
+96 of the Rivers and Canals Act are repealed. 
+80. 
+Consequential amendments 
+(1) The Central Water Authority Act is amended – 
+(a) 
+in section 2 – 
+(i) 
+be deleting the definitions “existing water right”, “ground water” and “new 
+water right”; 
+(ii) 
+by deleting the definition of “water resources” and replacing it by the 
+following definition – 
+“water resources” shall have the same meaning as in the Water 
+Resources Act 2024. 
+(b) 
+by repealing section 4 and replacing it by the following section – 
+4. 
+Objects of Authority 
+
+
+--- PAGE 52 ---
+
+The Authority shall be responsible for – 
+(a) 
+the supply of treated water for domestic and commercial purposes 
+as well as the supply of water for industrial purposes throughout 
+Mauritius; 
+(b)   the operation, maintenance and development of the infrastructure 
+required for – 
+(i) 
+the supply of treated water; and 
+(ii) 
+the taking, abstraction or use of underground water from 
+boreholes pursuant to section 32. 
+(c) 
+in section 20 – 
+(i) 
+by repealing subsection (1) and replacing it by the following subsection – 
+(1)  
+Subject to the Water Resources Act 2024, the Authority 
+shall be the sole undertaker for the supply of treated water other than 
+desalinated water for domestic, commercial and industrial purposes 
+throughout Mauritius. 
+     (ii)  in subsection (2) – 
+(A)     by repealing paragraphs (a) and (b) and replacing them by the 
+following paragraphs – 
+(a) conduct studies and prepare plans and 
+schemes for the treatment and distribution of 
+water for domestic, commercial and industrial 
+supply; 
+(b) transfer 
+to 
+the 
+Commission 
+upon 
+the 
+commencement of the Water Resources Act 
+2024, all documents that the Authority has in 
+its custody with regard to the management of 
+water resources; 
+(B)      by inserting, after paragraph (b), the following new paragraphs – 
+(ba) assess, coordinate and advise, in respect of     
+projects undertaken by any person, on aspects 
+relating to the supply and distribution of water; 
+
+
+--- PAGE 53 ---
+
+(bb)   promote water conservation; 
+(bc) promote public awareness, education and 
+understanding of good water savings practice; 
+                             (C)    by repealing paragraphs (c), (d), (e), (f), (h), (k) and (l); 
+  
+(d) 
+by repealing section 21 and replacing it by the following section – 
+ 
+ 
+21. 
+Special powers of Authority 
+For the purpose of section 20, and subject to the approval of the Minister, 
+the Authority may – 
+(a) 
+construct or cause to be constructed service reservoirs, water 
+supply networks, treatment plants and such other works, structures 
+and devices as may be necessary for the treatment and distribution 
+of potable water; 
+(b) 
+undertake measures for the prevention of malaria and other 
+diseases; 
+(c) 
+enter upon or inspect any property at any time between sunrise 
+and sunset; 
+(d) 
+establish, maintain and operate laboratories and conduct 
+experiments and research in accordance with this Act; 
+(e)    enter into arrangements with appropriate Ministries, local authorities,      
+educational and research institutions or any person for the purpose 
+of discharging its duties; 
+(f) 
+determine and levy rates or fees for the supply of water for any 
+purpose, including   sewerage; 
+(g) 
+subject to the Water Resources Act 2024, discontinue the supply of 
+water of any consumer that discharges polluted water underground 
+or into any canal, river, stream, lake, reservoir or lagoon; 
+(h) 
+enter into water purchase agreement with such person as may be 
+necessary for the purpose of using alternative water sources; 
+(e) 
+by repealing section 22; 
+(f) 
+by repealing section 46A; 
+(g) 
+in the Schedule, by deleting the following item – Rivers and 
+
+
+--- PAGE 54 ---
+
+Canals Act 
+ 
+(2) 
+The Central Electricity Board Act is amended, in section 5(1)(a)(vi) by deleting the 
+words “Central Water Authority” and replacing them by the words “Water Resources 
+Commission established under the Water Resources Act 2024”. 
+(3) 
+The Irrigation Authority Act is amended – 
+(a) 
+in section 4, by deleting the words “Central Water Authority” wherever they 
+appear and replacing them by the words “Water Resources Commission 
+established under the Water Resources Act 2024”; 
+(b) 
+in section 6, in subsection (2), by repealing paragraph (e) and replacing it by 
+the following new paragraph – 
+(e)     a representative of the Ministry responsible for the subject of   
+water resources; 
+(c) 
+in section 15 – 
+(i) 
+in subsection (1), by deleting the words “Central Water Authority” and 
+replacing them by the words “Water Resources Commission established 
+under the Water Resources Act 2024”; 
+(ii) 
+in subsection (2), by deleting the words “Central Water Authority” and 
+replacing them by the words “Water Resources Commission”. 
+81. 
+Transitional provisions 
+(1)      Subject to this section, any act done or any authorisation granted by the Ministry 
+shall, on the commencement of this Act, be deemed to have been done or granted under 
+this Act. 
+ (2) Any licence, permit or authorisation which – 
+(a) 
+has been granted under a repealed or amended legislation; or 
+(b)     is deemed to have been granted under this Act, shall lapse after 18   
+months following the commencement of this Act. 
+(3) 
+Where this Act does not make provision for any transition or saving, the Minister 
+may make such regulations as may be necessary for such transition or saving. 
+ 
+
+
+--- PAGE 55 ---
+
+82. Commencement 
+(1) 
+This Act shall come into operation on a date to be fixed by Proclamation. 
+(2) 
+Different dates may be fixed for the coming into operation of different sections of this 
+Act. 
+Passed by the National Assembly on the twelfth day of July two thousand and twenty four. 
+Urmeelah Devi Ramchurn (Ms)  
+Clerk of the National Assembly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 56 ---
+
+SCHEDULE  
+[Section 6(1)] 
+PART I – DAMS, RESERVOIRS AND ASSOCIATED STRUCTURES 
+1.    Arnaud Dam 
+2.    Bagatelle 
+3.    Bois Clair 
+4.    Cascade Diversion Dam 
+5.    Dagotiere 
+6.     La Ferme 
+7.     La Nicoliere 
+8.    La Pipe 
+9.    Magenta 
+10.   Mare aux Vacoas 
+11.   Mare Longue 
+12.   Midlands 
+13.   Municipal Dyke 
+14.   Piton du Milieu 
+15.   Valetta 
+ 
+ 
+
+
+--- PAGE 57 ---
+
+PART II – FEEDER CANALS, OTHER CANALS AND PIPELINES 
+1.  Arnaud  Diversion Channel 
+2. 
+Feeder Canal from Cascade Diversion Dam to Bagatelle Dam 
+3.  Headworks Pierrefonds Pipeline to Port Louis 
+4.  La Fenetre Feeder Canal from Riviere du Rempart at Bassin to 
+  La Ferme Reservoir  
+5. 
+ La Ferme Canal 
+6.  La Nicoliere Feeder Canal 
+7.     Magenta Canal 
+8.      Parc-aux-Cerfs Canal 
+9.    Pierrefonds Tunnel 
+10.    Pradier Feeder to Arnaud Dam 
+11.    River Chevrettes Diversion Canal 
+12.    River Francoise Diversion Pipeline 
+13.    River Papayes Diversion Canal to Riviere du Rempart 
+14.     River Vacoas Diversion Canal 
+15.     River Vacoas Syphon at Bois Clair 
+16.     Tatamaka Feeder to Mare aux Vacoas Reservoir 
+17.     The Trianon-Grosses Roches Feeder to La Ferme Reservoir 
+ 

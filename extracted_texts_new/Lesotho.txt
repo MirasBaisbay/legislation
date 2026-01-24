@@ -1,0 +1,1299 @@
+
+
+--- PAGE 1 ---
+
+Laws.Africa Legislation Commons
+Lesotho
+Water Act, 2008
+Act 15 of 2008
+Legislation as at 30 December 2008
+FRBR URI: /akn/ls/act/2008/15/eng@2008-12-30
+There may have been updates since this ﬁle was created.
+PDF created on 17 May 2023 at 15:46.
+Check for updates
+About this collection
+The legislation in this collection has been reproduced as it was originally printed in the Government Gazette, with
+improved formatting and with minor typographical errors corrected. All amendments have been applied directly to
+the text and annotated. A scan of the original gazette of each piece of legislation (including amendments) is available
+for reference.
+ 
+This is a free download from the Laws.Africa Legislation Commons, a collection of African legislation that is digitised
+by Laws.Africa and made available for free.
+www.laws.africa
+info@laws.africa
+There is no copyright on the legislative content of this document.
+This PDF copy is licensed under a Creative Commons Attribution 4.0 License (CC BY 4.0). Share widely and freely.
+i
+
+
+--- PAGE 2 ---
+
+Water Act, 2008
+Contents
+1. Short title and commencement ................................................................................................................................................................. 1
+2. Interpretation .................................................................................................................................................................................................... 1
+3. Principles ............................................................................................................................................................................................................ 3
+4. Ownership of water resources ...................................................................................................................................................................  3
+5. Use of water .....................................................................................................................................................................................................  3
+6. Restrictions on the use of water in cases of emergency .................................................................................................................  4
+7. Powers and duties of the Minister ............................................................................................................................................................ 4
+8. Commissioner of Water ................................................................................................................................................................................. 4
+9. Water Tribunal .................................................................................................................................................................................................. 5
+10. Formulation of water and sanitation strategy ................................................................................................................................... 5
+11. Publication of water and sanitation strategy ..................................................................................................................................... 5
+12. Contents of the Water and Sanitation Strategy ................................................................................................................................  5
+13. Determination of a reserve ....................................................................................................................................................................... 6
+14. Classiﬁcation of water resources ............................................................................................................................................................ 6
+15. Catchment management ............................................................................................................................................................................ 6
+16. Contents of a catchment management plan ...................................................................................................................................... 7
+17. Provision of water and sanitation services in the urban and rural areas ................................................................................. 7
+18. Wetlands protection and rehabilitation ...............................................................................................................................................  7
+19. Natural spring ................................................................................................................................................................................................ 8
+20. Water use permit .......................................................................................................................................................................................... 8
+21. Construction permit ..................................................................................................................................................................................... 9
+22. Wells and boreholes .................................................................................................................................................................................... 9
+23. Suspension, cancellation and variation of water use and construction permits ................................................................... 9
+24. Protection of wells, natural springs or boreholes .........................................................................................................................  10
+25. Controlled activities .................................................................................................................................................................................. 10
+26. Pollution control ......................................................................................................................................................................................... 10
+27. Efﬂuent discharge permits ...................................................................................................................................................................... 11
+28. Acquisition and declaration of land for water resources development .................................................................................  11
+29. Servitude ........................................................................................................................................................................................................ 11
+30. Compensation .............................................................................................................................................................................................. 12
+31. Public access to information .................................................................................................................................................................. 12
+32. Government waterworks .......................................................................................................................................................................... 12
+33. Control measures for dam safety ......................................................................................................................................................... 13
+34. Registration of dams with safety risk ................................................................................................................................................. 13
+ii
+
+
+--- PAGE 3 ---
+
+35. Considerations in declaring dam as a dam with a safety risk ................................................................................................... 13
+36. Exemption of owners of certain categories of dams .................................................................................................................... 14
+37. Prevention of ﬂood risk ............................................................................................................................................................................ 14
+38. Powers of entry ........................................................................................................................................................................................... 14
+39. Immunity from liability ............................................................................................................................................................................ 15
+40. Offences in relation to employer and employee relationships ................................................................................................. 15
+41. General provision on offences and penalties .................................................................................................................................. 15
+42. Regulations ................................................................................................................................................................................................... 16
+43. Repeals and Savings ................................................................................................................................................................................. 16
+Schedule 1: ........................................................................................................................................................................................................... 16
+Schedule 2 (Section 20 (2)) ........................................................................................................................................................................... 20
+iii
+
+
+--- PAGE 4 ---
+
+iv
+
+
+--- PAGE 5 ---
+
+Water Act, 2008 
+ Lesotho
+Lesotho
+Water Act, 2008
+Act 15 of 2008
+Published in Government Gazette no. 88 on 30 December 2008
+Commenced on 30 December 2008
+[This is the version of this document from 30 December 2008.]
+An Act to provide for the management, protection, conservation development and sustainable utilisation
+of water resources.
+Enacted by the Parliament of Lesotho.
+1.
+Short title and commencement
+This Act may be cited as the Water Act, 2008 and comes into operation on the date of publication in the
+Gazette.
+2.
+Interpretation
+In this Act, unless the context otherwise requires—
+“authorised person” means a person authorised to exercise duties under this Act;
+“aquifer” means a geological formation which has structures or textures that hold water or permit
+appreciable water movement through them;
+“borehole” includes a well, excavation or any artiﬁcially constructed or improved underground cavity
+which can be used for the purpose of intercepting, collecting or storing water in or removing water from an
+aquifer, observing and collecting data and information on water in an aquifer or recharging an aquifer;
+“conservation” in relation to a water resource means the efﬁcient and productive use of water and water
+demand management;
+“commercial water use” means usage of water in the pursuit of a commercial activity;
+“commissioner” means the Commissioner of Water established in terms of section 8;
+“consumptive use of water” means water used and no longer available for further use;
+“controlled activities” means activities which have a potential to cause adverse effect on the quality and
+quantity of water;
+“dam” means an embankment constructed for the purpose of retaining water;
+“Director” means the Director of the Department of Water Affairs;
+“domestic water use” means water use for personal and household needs;
+“efﬂuent” means the outﬂow after use of water from any building or works and includes the discharge
+from industrial and commercial processes as well as sewage;
+“Lesotho Water and Sanitation Policy” means the water and sanitation policy of the Government of
+Lesotho;
+“line Ministry” means a Ministry of the Government directly or indirectly involved in water resources
+management and development;
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+1
+
+
+--- PAGE 6 ---
+
+Water Act, 2008 
+ Lesotho
+“local authorities” means local authorities established in accordance with the Local Government Act,
+19971;
+“Ministry” means the Ministry responsible for water resources;
+“natural spring” means water emerging from beneath the surface of the ground not as a result of drilling
+or excavation operations;
+“non consumptive” means water used and still available for further use;
+“protection” in relation to water resource means maintenance of the quality of water resource to the
+extent that the water resource may be used in an ecological sustainable manner, prevention of the
+degradation of the water resource and the rehabilitation of the water resource;
+“pollution” means the direct or indirect alteration of the physical, chemical or biological properties of a
+water resource so as to make it less ﬁt for any beneﬁcial purpose for which it may reasonably be expected
+to be used or harmful or potentially harmful to the welfare, health or safety of human beings, to any
+aquatic or non-aquatic organisms, to the resource quality, or to property;
+“person” includes a natural person and a juristic person;
+“prescribe” means prescribe by regulations or in a schedule to this Act;
+“regulated activities” means activities regulated in terms of the Lesotho Electricity and Water Authority
+Act 2008
+“reserve” means the quality and quantity of water required to satisfy basic human needs for domestic use
+by securing a basic water supply and for protection of aquatic ecosystems in order to secure ecologically
+sustainable development and use of the relevant water resource;
+“servitude” means a right, restriction or obligation attached to a speciﬁc piece of property or land that
+entitles another person, other than the owner of the land, to a speciﬁc use of such property or land;
+“sewage” means the discharge from sanitary appliances attached to domestic, commercial, industrial or
+other buildings;
+“sewerage” means a planned system of sewers through which sewage is conveyed to treatment and
+disposal works;
+“stakeholder” means a person with an interest in the management or use of a water resource;
+“waste” includes any solid material or material that is suspended, dissolved or transported in water
+including sediment and which is spilled or deposited on land or into a water resource in such volume,
+composition or manner as to cause, or to be likely to cause the water resource to be polluted;
+“wastewater” means water disposed of after use;
+“water” means the surface water ﬂowing in channel and ground water, percolating ground water, ﬂood,
+sewage and drainage water, pluvial water and diffused surface water, which means water occurring
+generally upon the surface of the earth and not ﬂowing in channels, springs and mineral water including
+thermal water, atmospheric water, snowfall and glaciers, and water artiﬁcially contained in reservoirs,
+canals, pipelines, tanks, wells and boreholes, as well as the artiﬁcial recharge of underground aquifers;
+“watercourse” means a river or spring, pond, swamp, marsh, stream, estuary, aquifer, artisan basin, a
+natural channel in which water ﬂows regularly or intermittently, a wetland, lake, dam or any other body on
+which water ﬂows and any collection of water which the Minister may, by notice in the Gazette, declare to
+be a watercourse;
+“water management institutions” means government and non-government agencies having
+responsibility over water resources management at national or international level;
+1
+Act No. 6 of 1997
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+2
+
+
+--- PAGE 7 ---
+
+Water Act, 2008 
+ Lesotho
+“Water resources” means sources of water useful or potentially useful to humans;
+“Water Tribunal” means the tribunal established in terms of section 9;
+“waterworks” includes any borehole, structure, earthwork or equipment installed or used for or in
+connection with water use;
+“well” means a hole sunk into the ground for abstraction of water or for observation purposes, more
+speciﬁcally an excavated unlined hole that encounters a shallow aquifer;
+“wetlands” means land which is transitional between terrestrial and aquatic systems where the water
+table is usually at or near the surface, or the land is periodically covered with shallow water, and which
+land in normal circumstances supports or would support vegetation typically adapted to life in saturated
+soil.
+3.
+Principles
+In carrying out duties and functions under this Act, the Minister, line Ministries and water management
+institutions shall take account of and, as far as practicable, give effect to the following general principles
+applicable to the effective management, conservation and protection of water resources—
+(a)
+sustainable utilisation of water resources;
+(b)
+intergenerational equity;
+(c)
+integrated water resources management;
+(d)
+equitable distribution of water and sanitation services;
+(e)
+public participatory approach;
+(f)
+precautionary principle;
+(g)
+polluter pays principle;
+(h)
+integration of environmental and social issues into water resources management, among them,
+HIV/AIDS and gender mainstreaming; and
+(i)
+sector wide approach to water resources management.
+4.
+Ownership of water resources
+The ownership of all water resources in Lesotho is vested in the Basotho Nation and held in trust by the
+King on behalf of the Basotho Nation.
+5.
+Use of water
+(1)
+The right to use water shall be in accordance with the provisions of this Act.
+(2)
+In the case of conﬂicting water use and if water is insufﬁcient to cater for other uses, domestic use
+shall prevail and be given ﬁrst preference over other uses.
+(3)
+For purposes of this section, water use shall include—
+(a)
+taking of water from a watercourse;
+(b)
+storing water;
+(c)
+impounding or diverting the ﬂow of water in a water course;
+(d)
+engaging in a stream ﬂow reduction activity identiﬁed as such;
+(e)
+discharging waste or water containing waste into a water resource through a pipeline, canal,
+sewer, sea, outfall or other conduit;
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+3
+
+
+--- PAGE 8 ---
+
+Water Act, 2008 
+ Lesotho
+(f)
+using water for irrigation, industrial and or mining purposes and disposing in any manner
+water which has been heated in any industrial activity, mining or power generation process;
+(g)
+altering the bed, banks, course or characteristics of a watercourse;
+(h)
+removing, discharging or disposing of water found underground if necessary for the efﬁcient
+continuation of an activity or safety of people;
+(i)
+using water for recreational purposes; and
+(j)
+bottling of water for commercial purposes.
+6.
+Restrictions on the use of water in cases of emergency
+(1)
+Where a serious shortage of water for domestic purposes exists or is threatened in any area, due
+to drought, pollution or other courses, the Minister may, by notice in the Gazette, and to users of
+water, declare that a water emergency exists in that area and restrict the use of water in that area
+for any period he may deem necessary.
+(2)
+For purposes of managing water in cases of emergency as declared under this section, the Minister
+may direct that any person who has a supply of water in excess of his domestic purposes make
+available such quantity to other users as the Minister may specify.
+(3)
+For purposes of this section, emergency means a disaster or hazard caused by climatic hydrologic
+tectonic, accidental, natural or man made events which may have adverse effect or affect a large
+population and which require extraordinary measures to be undertaken to safeguard public interest.
+7.
+Powers and duties of the Minister
+(1)
+The power and duty to control and regulate the use of water resources shall be vested in the
+Minister.
+(2)
+In exercising his powers under this Act, the Minister may give directions to water management
+institutions on the discharge of their functions.
+8.
+Commissioner of Water
+(1)
+There shall be a Commissioner of Water who shall be a public ofﬁcer within the Ministry.
+(2)
+The functions of the Commissioner shall be to—
+(a)
+provide policy direction to the departments within the Ministry and water management
+institutions dealing with water resources;
+(b)
+implement the water and sanitation policy;
+(c)
+develop water and sanitation strategies and plans and ensure their implementation and
+periodical review;
+(d)
+be a custodian of the national water resources data on behalf of the Minister;
+(e)
+coordinate all water management activities including activities relating to international
+waters;
+(f)
+produce state of water resources reports once every year;
+(g)
+carry out such regulatory activities in respect to water resources as are provided for under
+this Act; and
+(h)
+advise the Minister concerning the management and utilization of water resources.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+4
+
+
+--- PAGE 9 ---
+
+Water Act, 2008 
+ Lesotho
+9.
+Water Tribunal
+(1)
+There is established a Water Tribunal whose function shall be to adjudicate over disputes arising
+under this Act or any other law in relation to or in connection with the management of water
+resources.
+(2)
+The Tribunal shall comprise three members, one of whom shall be a Judge nominated by the Chief
+Justice, who shall be the chairperson.
+(3)
+The two other members shall be persons with expertise in water resources management or Natural
+Resources Accounting and shall be appointed by the Minister.
+(4)
+The Minister shall, in consultation with the Minister responsible for Finance, determine allowances
+payable and reimbursable for expenses and other incidentals incurred by members of the Tribunal
+while fulﬁlling their functions in terms of this section.
+(5)
+Members of the Tribunal shall serve for a period of three years and may be reappointed for a further
+period of three years.
+(6)
+The Tribunal shall determine its own rules of procedure.
+10.
+Formulation of water and sanitation strategy
+(1)
+The Commissioner shall develop, in consultation with relevant stakeholders, a Water and Sanitation
+Strategy.
+(2)
+The water and sanitation strategy developed pursuant to subsection (1) shall be published by notice
+in the Gazette.
+(3)
+The strategy developed pursuant to this section shall be in relation to the use, development,
+conservation, management and control of water resources within the country and in respect to each
+designated catchment area.
+(4)
+The strategy developed pursuant to this section shall be reviewed whenever necessary.
+(5)
+Every water management institution exercising powers and responsibilities under this Act shall be
+bound by the strategy.
+11.
+Publication of water and sanitation strategy
+(1)
+Following the development of a draft water and sanitation strategy, the Commissioner shall
+publish, in a newspaper with widest circulation, a notice—
+(a)
+setting out a summary of the proposed strategy;
+(b)
+stating the address where the proposed strategy can be inspected;
+(c)
+inviting written comments on the proposed strategy within a speciﬁed period, which period
+may not be later than 60 days after publication;
+(2)
+Upon receipt of the comments, the Commissioner shall consider the comments and incorporate
+them where appropriate.
+12.
+Contents of the Water and Sanitation Strategy
+The Water and Sanitation Strategy developed under this Act shall set out the strategies, objectives,
+plans, guidelines, procedures and institutional arrangements in relation to the protection, conservation,
+development, management and control of water resources within the framework of the existing
+Government water and sanitation policy in order to achieve—
+(a)
+the effective implementation of this Act; and
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+5
+
+
+--- PAGE 10 ---
+
+Water Act, 2008 
+ Lesotho
+(b)
+such water and sanitation quality standards as may be prescribed.
+13.
+Determination of a reserve
+(1)
+The Commissioner shall determine a reserve for all or part of the water resources within the
+country.
+(2)
+A reserve shall comprise—
+(a)
+the basic human needs reserve representing the quantity and quality of water resources
+required to satisfy the basic human needs of those dependent on the concerned water
+resource; and
+(b)
+the ecological reserve representing the quantity and quality of water required to protect
+aquatic ecosystems in order to secure ecologically sustainable development and use of the
+water resource.
+(3)
+Every person or water management institution having responsibility under this Act shall, when
+carrying out their roles and responsibilities, give effect to a reserve as determined pursuant to this
+section.
+(4)
+A reserve so determined shall be published in the Gazette.
+(5)
+The Commissioner shall monitor a reserve and update the information on the reserve regularly.
+14.
+Classiﬁcation of water resources
+(1)
+The Commissioner shall classify water resources within the Country and stipulate the quantity
+and quality parameters to be achieved in relation to different classes of water resources and a time
+frame for achieving them.
+(2)
+Water resources may be classiﬁed according to use, type, location or geographical function.
+(3)
+Classes of water resources and the quantity and quality parameters applicable shall be published in
+the Gazette.
+15.
+Catchment management
+(1)
+A Minister may, by notice in the Gazette, designate, in consultation with the Minister responsible
+for land, catchment areas for the management and protection of water resources.
+(2)
+A local authority shall be responsible for the management of catchment areas in its area of
+jurisdiction.
+(3)
+A local authority has the following functions:
+(a)
+elaboration of catchment management plans for the protection and use of water resources in
+the catchment area, which shall be in line with the water and sanitation strategies and plans
+developed by the Commissioner,
+(b)
+promotion of community participation in its catchment area through education and other
+appropriate activities;
+(c)
+promotion of community self-reliance, including the recovery of costs for the operation and
+maintenance of waterworks;
+(d)
+collection, management and sharing of data that is necessary for proper management of its
+catchment; and
+(e)
+resolving conﬂicts relating to water resources within its catchment area.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+6
+
+
+--- PAGE 11 ---
+
+Water Act, 2008 
+ Lesotho
+16.
+Contents of a catchment management plan
+A catchment management plan shall—
+(a)
+follow the principles given in the Lesotho Water and Sanitation Policy and shall not be in conﬂict
+with such water and sanitation strategies as may be published;
+(b)
+be reviewed at regular intervals;
+(c)
+take into account the natural resources, demography, land use, climate and waterworks within the
+catchment area;
+(d)
+contain plans for water allocation within the catchment area;
+(e)
+take national water use priorities into consideration;
+(f)
+take into account the needs and expectations of existing and potential water users;
+(g)
+identify opportunities and mechanisms for enabling the public and the private sector to participate
+in the water resources management and in the provision of water and sanitation services; and
+(h)
+identify the water resources management needs of the catchment area and for environmental
+protection, including those for wetlands conservation, riparian buffer zones and the prevention of
+erosion.
+17.
+Provision of water and sanitation services in the urban and rural areas
+(1)
+Where a permit is obtained by a water and sanitation service provider for use in connection with
+a regulated activity, the service provider and his services shall be regulated under the Lesotho
+Electricity and Water Authority Act, 2008 taking into consideration Water and Sanitation Policy and
+Strategies formulated under this Act.
+(2)
+Provision of water and sanitation services in the rural areas as well as operations and maintenance
+of the systems shall be the responsibility of a local authority established in terms of the Local
+Government Act, 1997, with the technical assistance from the Commissioner, where necessary.
+18.
+Wetlands protection and rehabilitation
+(1)
+The Minister may, in consultation with the Minister responsible for land, declare, by notice in the
+Gazette, certain wetlands areas as protected areas and prohibit entry or use unless authorised.
+(2)
+Use of or entry into wetlands areas may be authorised if it is necessary for implementing measures
+for protection and conservation of such areas, or carrying out functions necessary for implementing
+the provisions of this Act.
+(3)
+The Commissioner shall put sign boards or any markings showing or stating no trespass or entry
+into or through the protected area.
+(4)
+The Commissioner shall, in collaboration with relevant water management institutions, take all
+relevant and necessary steps to—
+(a)
+put in place measures to minimise damage to wetlands through channel erosion,
+compaction, drying out or overgrazing; and
+(b)
+rehabilitate already damaged wetlands.
+(5)
+No person shall damage, destroy or cause any harm to wetlands.
+(6)
+A person who contravenes subsection (5) of this section commits an offence and is liable on
+conviction to a ﬁne not exceeding ﬁfty thousand Maloti or to imprisonment for a period not
+exceeding two years or both.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+7
+
+
+--- PAGE 12 ---
+
+Water Act, 2008 
+ Lesotho
+19.
+Natural spring
+(1)
+The Minister may, by notice in the Gazette, in consultation with the Minister responsible for land,
+declare certain natural springs as protected springs and prohibit or regulate use unless authorised.
+(2)
+Use of or entry into natural springs, without a permit, may be authorised if necessary for
+implementing measures for protection and conservation of such springs.
+(3)
+A person who wishes to engage in a commercial activity in respect of abstracting and using water
+from a natural spring for purposes of bottling water shall make an application for a water use
+permit to the Director, in accordance with section 20.
+(4)
+No person shall damage, destroy or cause any harm to a natural spring.
+(5)
+A person who contravenes subsection (4) of this section commits an offence and is liable on
+conviction to a ﬁne not exceeding ﬁfty thousand Maloti or to imprisonment for a period not
+exceeding two years or both.
+20.
+Water use permit
+(1)
+No person shall engage in an activity of using or abstracting water without a water use permit
+(2)
+A person who wishes to use water shall make an application to the Director in form A prescribed in
+Schedule 1.
+(3)
+An application made pursuant to this section shall be accompanied by a non-refundable fee
+prescribed in Schedule 2(a).
+(4)
+The Director shall, where he is satisﬁed that an application made under this section complies with
+the requirements of the Act, issue to the applicant a water use permit with conditions in Form A1
+prescribed in schedule 1.
+(5)
+Where two or more applications are made for one and the same water use and the resources are
+insufﬁcient to justify the issue of a permit, the applications shall be considered on merit and on the
+basis of the respective needs of the applicants.
+(6)
+The Director may, where an application made under this section does not comply with the
+requirements of the Act, refuse to issue a water use permit.
+(7)
+Where the Director refuses to issue a water use permit pursuant to subsection (6), he shall notify
+an applicant, in writing, of his reasons for refusing to issue a water use permit within thirty days of
+receipt of the application.
+(8)
+A water use permit shall be valid for a period of ﬁve years from the date of issue.
+(9)
+A water use permit is transferable with a written consent of the Director.
+(10)
+The Director may determine the volume of water which may be used or abstracted.
+(11)
+The Director shall supervise and monitor abstraction or use of water and ensure that a permit
+holder complies with the conditions of his permit.
+(12)
+The Director shall keep a register of the quantity and quality of water abstracted and make it
+available to the public and relevant authorities.
+(13)
+A permit issued under this section does not guarantee a permit holder availability of a water
+resource.
+(14)
+The Director shall, where he has issued a permit under this section, not be liable for any loss or
+damage sustained as a result of non-availability of water.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+8
+
+
+--- PAGE 13 ---
+
+Water Act, 2008 
+ Lesotho
+21.
+Construction permit
+(1)
+No person shall engage in waterworks activities without a construction permit.
+(2)
+A person who wishes to construct waterworks shall apply, in writing, to the Director.
+(3)
+The Director shall, where an application made pursuant to subsection (2) complies with the
+requirements of this Act, issue to the applicant a construction permit with conditions in form B
+prescribed in Schedule 1, upon payment of a non-refundable fee prescribed in Schedule 2(b).
+(4)
+The Director may, where an application made pursuant to this section does not comply with the
+requirements of the Act, refuse to issue a construction permit to the applicant.
+(5)
+Where the Director refuses to issue a permit under subsection (4), he shall notify the applicant,
+in writing, of his decision for refusing to issue the permit, within thirty days of receipt of the
+application.
+(6)
+A construction permit shall not be issued where the construction or use of waterworks interferes
+substantially with the use of other waterworks.
+(7)
+The Director shall supervise and monitor construction of waterworks and ensure that a permit
+holder complies with the conditions of a permit.
+(8)
+The Director shall keep a register of waterworks and make it available to the public.
+(9)
+A construction permit issued pursuant to subsection (4) is valid for a period of ﬁve years from the
+date of issue.
+(10)
+A construction permit is transferable with a written permission of the Director.
+(11)
+A person who contravenes subsection 1 of this section commits an offence and is liable on
+conviction to a ﬁne not exceeding ﬁfty thousand Maloti or to imprisonment for a period not
+exceeding two years or both.
+22.
+Wells and boreholes
+(1)
+A person who is engaged in an activity of drilling boreholes or digging wells shall register with the
+Director.
+(2)
+The Director shall, where a person has registered pursuant to subsection (1), issue to the person a
+drilling contractors certiﬁcate in form C prescribed in Schedule 1.
+(3)
+A person who wishes to abstract and use water from wells and boreholes shall make an application
+in terms of section 20.
+(4)
+The Director shall keep a register of boreholes and wells and make it available to the public.
+(5)
+A user of a borehole or well shall use it in accordance with this Act.
+23.
+Suspension, cancellation and variation of water use and construction permits
+(1)
+The Director may suspend, vary or cancel a water use permit, or construction permit where a permit
+holder—
+(a)
+has made a material statement in an application or in any report or statement of fact
+required to be furnished in terms of this Act which is false;
+(b)
+violates or contravenes any of the conditions to the permit;
+(c)
+contravenes any of the provisions of this Act;
+(d)
+does not use the permit within six months of the issuance of the permit without good cause;
+or
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+9
+
+
+--- PAGE 14 ---
+
+Water Act, 2008 
+ Lesotho
+(e)
+has abandoned or surrendered the permit.
+(2)
+Where the Director suspends, cancels or varies a water use permit, or construction permit, he shall
+serve a notice, on a permit holder, setting out the facts or the conduct alleged and shall afford him
+an opportunity to be heard.
+24.
+Protection of wells, natural springs or boreholes
+A local authority shall install well covers or other pollution control devices to wells, natural springs or
+boreholes falling within its area of jurisdiction.
+25.
+Controlled activities
+(1)
+The Minister may, by notice in the Gazette, declare certain activities as controlled activities.
+(2)
+The Minister may issue directives controlling, regulating, or prohibiting the carrying out of
+controlled activities. Such activities may include:
+(a)
+irrigation of any land with waste or water containing waste;
+(b)
+alteration of the ﬂow regime of a water resource; or
+(c)
+intentional recharging of an acquifer with any waste or water containing waste.
+(3)
+Institutions or organs dealing with controlled activities shall submit to the Commissioner their
+plans showing how they intend to prevent, minimise or mitigate against the adverse impact on
+water resources arising from the carrying out of controlled activities.
+(4)
+The Commissioner shall, where satisﬁed that an institution has put in place a satisfactory plan for
+preventing, minimising or mitigating against the adverse impact on water resources arising from
+the carrying out of the controlled activities, issue an authorisation for the carrying out of planned
+activities subject to compliance with an approved plan.
+(5)
+The Commissioner shall keep a register of an approved plan for controlled activities and update it
+regularly.
+(6)
+A register kept under this section shall be made accessible to the public and may be inspected at the
+ofﬁces of the Commissioner and shall be public information.
+26.
+Pollution control
+(1)
+Every person has an obligation to prevent pollution of water resources from occurring.
+(2)
+Where pollution occurs or is likely to occur as a result of activities on land, the person who owns,
+controls occupies or uses the land in question shall be responsible for taking measures to prevent
+such pollution from occurring or continuing.
+(3)
+Where appropriate measures were not taken, the relevant authority shall put in place measures
+intended to prevent pollution from occurring or continuing and remedy the negative effects.
+(4)
+Measures to be put in place in terms of this section shall include measures to—
+(a)
+cease or modify or control any process causing the pollution;
+(b)
+control or prevent movement of pollutants;
+(c)
+comply with any prescribed waste standard or management of waste;
+(d)
+eliminate any source or potential source of pollution; and
+(e)
+remedy the negative effects and disturbances to the bed and banks of a watercourse.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+10
+
+
+--- PAGE 15 ---
+
+Water Act, 2008 
+ Lesotho
+(5)
+A person putting in place measures to remedy negative effects of pollution or potential pollution
+shall be entitled to recover costs of remedying the negative effects of such pollution from the
+person who directly or indirectly contributed to pollution or potential pollution.
+(6)
+Where there is one or more polluters and all have failed to put in place measures to remedy the
+negative effects, a person entitled to recover costs in terms of this section shall apportion the costs
+amongst the polluters.
+(7)
+The apportionment made pursuant to subsection (6) does not relieve any of the polluters of their
+joint and several liability for the full amount in relation to costs.
+(8)
+Apportionment of costs shall only be done after having afforded all parties an opportunity to be
+heard.
+(9)
+A person who pollutes or discharges any substance which renders the water harmful to human
+health or the environment commits an offence and is liable on conviction to a ﬁne not exceeding
+ﬁfty thousand Maloti or to imprisonment for a period not exceeding two years or both.
+(10)
+This section does not apply in relation to—
+(a)
+a substance discharged into water by an authorised person for purposes of treating water or
+aquatic life; or
+(b)
+a substance that is used for the purpose of measuring pollution.
+27.
+Efﬂuent discharge permits
+(1)
+A person who wishes to discharge efﬂuent into water courses shall obtain a permit in accordance
+with the Environment Act, 20072.
+(2)
+In issuing a permit pursuant to this section, the Director shall issue the permit taking into
+consideration provisions of this Act in relation to protection and conservation of water resources
+and industrial waste water management policy.
+(3)
+The Director shall—
+(a)
+consult with the Commissioner of Water before such a permit is issued; and
+(b)
+obtain comments from the Commissioner in relation to such a permit and act accordingly.
+(4)
+For purposes of this section, “Director” means the Director responsible for environment.
+28.
+Acquisition and declaration of land for water resources development
+(1)
+Where land is required for water resources development, acquisition of the land shall be done in
+accordance with the Land Act, 1979.
+(2)
+The Minister shall, in consultation with the Minister responsible for land, declare any land to be a
+selected development area for water resources development.
+(3)
+Declared areas in terms of this section shall be published in the Gazette.
+29.
+Servitude
+(1)
+A person who applies for a permit which, if granted, would require the use of land occupied by
+another, shall apply to the Minister for a servitude over that land.
+2
+Act No. 17 of 1979
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+11
+
+
+--- PAGE 16 ---
+
+Water Act, 2008 
+ Lesotho
+(2)
+An occupier of land over which a servitude is sought shall be notiﬁed of the application for a permit
+in terms of subsection (1) and shall be entitled to a hearing on the terms and conditions of the
+proposed servitude.
+(3)
+Any permit to which this section applies shall state terms and conditions of the proposed servitude.
+(4)
+A holder of a servitude shall be liable for damage to the land over which the servitude is held and
+shall take the necessary measures to remedy adverse effects and avoid occurrence of damage.
+(5)
+Where consent of the Minister responsible for land is required for obtaining a servitude over land,
+no servitude shall be granted unless such consent has been obtained.
+(6)
+A servitude cannot be claimed unless the claimant is authorised to use water and if authorisation is
+withdrawn or otherwise terminated, the servitude will lapse.
+(7)
+A servitude under this Act may also be claimed in relation to waterworks.
+(8)
+Where there may be need for compensation under this section, compensation shall ﬁrst be
+determined by agreement between the parties failing which shall be referred to the Tribunal.
+30.
+Compensation
+(1)
+Where compulsory acquisition of land is required in terms of this Act, compensation may be paid in
+accordance with the Land Act, 19793.
+(2)
+Where an intended acquisition of land will lead to loss of a right to use water, the Minister and the
+person holding the right to use water shall negotiate the terms of such acquisition, including the
+provision for compensation.
+(3)
+In the case of failure to reach an agreement, the matter shall be referred to arbitration.
+(4)
+Parties shall agree to the composition of an arbitration panel.
+31.
+Public access to information
+A water management institution shall, at its own expense, make information at its disposal available to
+the public in an appropriate manner in respect of—
+(a)
+a reserve in relation to quality and quantity of water resources in the country and allocations so far
+made;
+(b)
+the register of permits issued;
+(c)
+the register of borehole drilling contractors; and
+(d)
+any other information that the public needs to know under this Act subject to such limitations
+relating to public security or commercial conﬁdentiality as may be appropriate.
+32.
+Government waterworks
+(1)
+The Minister shall have power to acquire, establish, control, manage and operate Government
+waterworks.
+(2)
+Before work done pursuant to subsection (1), the Minister shall obtain an approved environmental
+clearance from a department responsible for environment.
+(3)
+The Minister may control or prohibit access and use of Government waterworks.
+3
+Act No. 11 of 2008
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+12
+
+
+--- PAGE 17 ---
+
+Water Act, 2008 
+ Lesotho
+(4)
+For purposes of this section, Government waterworks includes water storage dams, water transfer
+schemes and ﬂood attenuation works.
+33.
+Control measures for dam safety
+(1)
+The Minister may, on the advice of the Commissioner, declare a dam to be a dam with a safety risk.
+(2)
+The Commissioner shall put in place control measures for dam safety which shall be evaluated on
+regular basis by an authorised person.
+(3)
+An owner of a dam shall—
+(a)
+provide any information, drawings, speciﬁcations, design assumptions, calculations,
+documents and test results for the dam; and
+(b)
+give access to the dam to an authorised person to inspect the dam to determine the safety of
+the dam and a possible need for repairs or alterations.
+(4)
+The Commissioner may direct an owner, at the owner’s cost, to undertake repairs or alterations to
+a dam which are necessary to protect the public, property and the resource quality from any risk of
+structural failure of the dam.
+(5)
+If an owner of a dam with a safety risk fails to comply with directives from the Commissioner, the
+Commissioner may undertake the repairs or alterations and recover the cost from the owner.
+(6)
+The Commissioner shall develop safety guidelines for users in relation to safety gear and time when
+use is restricted.
+34.
+Registration of dams with safety risk
+(1)
+The Commissioner shall keep a register of dams with a safety risk.
+(2)
+For the purpose of ﬂood risk prevention and ﬂood management and control, an owner of a dam with
+a safety risk shall register that dam with the Commissioner.
+35.
+Considerations in declaring dam as a dam with a safety risk
+In declaring a dam as a dam with a safety risk or a category of dams as a category of dams with a safety
+risk, the following considerations shall be taken into account:
+(a)
+the need to protect the public, property and the resource quality against the potential hazard posed
+by the dam or category of dams;
+(b)
+the extent of potential loss or harm involved;
+(c)
+the cost of any prescribed measures and whether they are reasonably achievable;
+(d)
+the socio-economic impact if such a dam fails;
+(e)
+the likelihood of the dam failing; and
+(f)
+in the case of a particular dam, the following shall be considered:
+(i)
+the manner in which such a dam is designed, constructed, altered, repaired, operated,
+inspected or maintained;
+(ii)
+a person by whom such a dam is designed, constructed, altered, repaired, operated, inspected
+or maintained;
+(iii)
+the manner in which the water is contained, stored or impounded in such a dam; and
+(iv)
+the volume of water stored in such a dam.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+13
+
+
+--- PAGE 18 ---
+
+Water Act, 2008 
+ Lesotho
+36.
+Exemption of owners of certain categories of dams
+(1)
+The Minister may, on the advice of the Commissioner, exempt an owner of a dam belonging to a
+certain category of dams from complying with the dam safety provisions.
+(2)
+The Minister may withdraw or impose further or new conditions in respect of an exemption.
+(3)
+Before an exemption is granted in terms of subsection (2), the following shall be considered:
+(i)
+the degree of risk or potential risk posed by a dam or category of dams to public safety,
+property and the resource quality;
+(ii)
+the manner of design, construction, alteration, repair, impoundment of water in operation of
+a dam or category of dams;
+(iii)
+the supervision involved in relation to a dam or category of dams;
+(iv)
+alternative measures proposed for regulating the design, construction, alteration, repair,
+operation, maintenance, impoundment of water, inspection of such a dam or category of
+dams and the effectiveness of the measures;
+(v)
+the knowledge and expertise of the persons involved in any risk relating to a dam or category
+of dams;
+(vi)
+the cost relating to a dam or category of dams;
+(vii)
+any security provided or intended to be provided for any damage which could be caused by a
+dam or a category of dams; and
+(viii)
+whether a dam or category of dams is permitted in terms of a license or any other
+authorisation issued under this Act or any other law.
+37.
+Prevention of ﬂood risk
+For the purpose of preventing or minimising the risk of ﬂooding, or ﬂood damage, the Commissioner may
+—
+(a)
+regulate construction of submersible land dykes, levees or other structures likely to hinder the
+runoff of ﬂoodwater, including authorising construction of such structures if they are necessary for
+the protection of already existing residences or other private structures;
+(b)
+alter or demolish dykes, embankments, levees, structures or other works if, in the Commissioner’s
+opinion, they hinder water runoff or extend the ﬂood plain with harmful results;
+(c)
+regulate the growing of crops, the building of structures or the placing of deposits on land located
+between a watercourse and any protection dykes, embankments or levees;
+(d)
+consult with regional and local authorities in determining the geographic extent of ﬂoodplain areas
+and assist such authorities in regulating the development and use of lands within such areas; or
+(e)
+prescribe measures for the control and management of storm and ﬂoods.
+38.
+Powers of entry
+(1)
+An authorised person has power to enter any land or premises for the purpose of enforcing the
+provisions of this Act.
+(2)
+Users of wells or boreholes or natural springs shall allow an authorised person at all reasonable
+times, access to the wells, natural springs or boreholes in order to—
+(a)
+inspect such wells, natural springs or boreholes; or
+(b)
+measure or obtain information in relation to the quality and quantity of water used.
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+14
+
+
+--- PAGE 19 ---
+
+Water Act, 2008 
+ Lesotho
+(3)
+An authorised person who enters any land or premises for purposes of exercising his duties under
+this section shall identify himself to an owner or occupier of land or premises by producing an
+identiﬁcation document, or in the case of a non-public servant acting pursuant to delegated pow-
+ers, a certiﬁcate of authorisation signed by or on behalf of the Minister.
+(4)
+A document produced pursuant to subsection (3) shall have the name and surname of a person,
+institution or department, a photo and a stamp of the institution and department and indicate the
+purpose of entry.
+(5)
+An authorised person who enters any land or premises pursuant to this section—
+(a)
+shall inform an owner or occupant of the land or premises about the purpose of his entry;
+(b)
+shall, where precautionary measures are required, take reasonable steps to ensure the safety
+of persons and property on the land or premises;
+(c)
+may, where necessary, enter with another person, vehicle, equipment or material; or
+(d)
+may take samples or remove any material or substance from the land or premises if
+necessary.
+(6)
+An authorised person shall, before entering any land or premises pursuant to this section, give
+notice where possible, but may still enter at any reasonable time without prior notice.
+(7)
+A person who obstructs an authorised person in performing his functions under this section
+commits an offence and is liable on conviction to a ﬁne not exceeding ﬁfty thousand Maloti or to
+imprisonment for a period not exceeding two years or both.
+(8)
+Notwithstanding any provision of this section, an authorised person may not, under any
+circumstances, enter a private dwelling without a written consent of the occupier or without a
+warrant obtained from the courts of law authorising entry.
+39.
+Immunity from liability
+(1)
+No action lies against an authorised person for a commission or an omission of an act done in good
+faith in the exercise of his functions under this Act.
+(2)
+Notwithstanding the provisions of this section, in the event that a commission or omission of an act
+was unlawful, negligent and in bad faith, liability shall apply.
+40.
+Offences in relation to employer and employee relationships
+Where a commission or an omission of an act by an employee or agent constitutes an offence in terms of
+this Act and takes place with the express or implied permission of the employer or principal, as the case
+may be, the employer or principal is, in addition to the employee or agent, liable to conviction for that
+offence.
+41.
+General provision on offences and penalties
+(1)
+No person shall—
+(a)
+use water otherwise than as permitted under this Act;
+(b)
+fail to comply with the conditions of permits issued under this Act;
+(c)
+fail to produce or allow access to books of accounts, documents or assets when required to do
+so under this Act;
+(d)
+unlawfully tamper or interfere with any waterworks or seal or measuring device attached to
+waterworks;
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+15
+
+
+--- PAGE 20 ---
+
+Water Act, 2008 
+ Lesotho
+(e)
+fail or refuse to give data or information, give false information or misleading data or
+information when required to give such information under this Act;
+(f)
+refuse to perform duties or obstruct any other person in the exercise of his power or duty
+under this Act;
+(g)
+unlawfully commit any act which detrimentally affects or is likely to affect a water resource;
+(h)
+fail to comply with a temporary restriction on the use of water in terms of this Act; or
+(i)
+commit any other breach against the provisions of this Act.
+(2)
+A person who contravenes the provisions of this section commits an offence and is liable on
+conviction to a ﬁne not exceeding ﬁfty thousand Maloti or to imprisonment for a period not
+exceeding two years or both.
+42.
+Regulations
+(1)
+The Minister may make regulations for carrying into effect the purposes of this Act.
+(2)
+Without limiting the generality of subsection (1), the Minister may—
+(a)
+prescribe a procedure for determining a reserve;
+(b)
+provide procedure for allocating water; or
+(c)
+prescribe a procedure for determining a reserve for purpose of giving effect to the provisions
+of this Act;
+(d)
+prescribe a procedure for the protection of Government waterworks and the safety of and
+security of the people; or
+(e)
+provide for a procedure for classifying dams with a safety risk or a category of dams with a
+safety risk.
+43.
+Repeals and Savings
+(1)
+The Water Resources Act, 19784 is repealed.
+(2)
+The regulations made pursuant to the repealed Act shall remain in force and considered to have
+been made under this Act to the extent that they are not in conﬂict with this Act, and shall remain
+in force until repealed.
+(3)
+A permit or authorisation issued prior to the commencement of this Act shall be valid to the extent
+that it is not inconsistent with this Act and shall be regarded as issued under this Act.
+Schedule 1:
+Application forms
+Form A – Application for water use permit (Section 20(2))
+I
+Owner Name ________________ Address ____________
+II
+Location ____________ District ____________
+Town/Village ____________ Chief ____________
+4
+Act No. 22 of 1978
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+16
+
+
+--- PAGE 21 ---
+
+Water Act, 2008 
+ Lesotho
+Latitude ____________ S Longitude ____________ E
+Altitude ____________ m
+Date of coming into operation of use ____________
+Catchment ____________
+III
+Type of use ____________ Volume of Water requested ____________ m3/day
+Consumptive ____________ Non Consumptive ____________ Treatment ____________
+Nature ________________________
+IV
+Surface water ____________ By Diversion ____________ By Pumping ____________ Head ____________ m ____________
+on channel Storage ____________ off Channel Storage ____________
+Elevation of the crest above River Bed ____________ m
+Length of Dam Crest ____________ m
+Ground water:
+1.
+spring ____________ yield ____________ m3/day
+2.
+borehole/well ____________ diameter ____________ m
+depth ____________ m ____________ static water level ____________, m ____________ static water level ____________
+m
+I, ____________________ certify that all particulars of the use described above are correct and undertake to notify the
+Director of Water Affairs of any future changes in use.
+Signature ________________________
+Date Stamp:
+Application recieved on ____________
+by: ______________________
+Signature ______________________
+Form A1 – Water use permit (Section 20(4))
+No. ____________
+I
+Owner Name __________________
+Address __________________
+II
+Location
+District __________ Town/Village __________
+Chief ____________________
+Latitude __________ S Longitude __________ E
+Altitude ____________________ m
+Date of coming into operation of use __________
+Catchment ____________________
+III
+Type of use ________________
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+17
+
+
+--- PAGE 22 ---
+
+Water Act, 2008 
+ Lesotho
+Volume of Water Authorised __________ m3 /day
+Consumptive __________ Non Consumptive __________
+Treatment __________
+Nature __________
+IV
+Surface water __________ By Diversion __________ By Pumping __________
+Head __________ m __________ on channel Storage __________ off Channel Storage __________
+Elevation of the crest above River Bed __________ m __________ Length of Dam Crest __________ m __________
+Ground water:
+1.
+spring __________ yield __________ m3 /day
+2.
+borehole/well __________ diameter __________ m
+depth __________ m __________ static water level __________ water level __________ m
+The permit entitles the holder to utilize __________ m3 /day under the conditions set out under parts II,
+III and IV of the permit. It does not guarantee that such quantities are or will be available, and it may be
+varied in the public interest in accordance with the relevant sections of the Water Act of 2008. This permit
+is not transferable and must be renewed on or before ______________
+Permit sought on ____________________
+Permit issued on ____________________
+by; Signature ____________________
+Date Stamp
+Form B – Construction permit No. (Section 21(3))
+In accordance with the provisions of Section 21(3) of the Water Act 2008, Messrs __________ is granted permission
+to construct waterworks at __________ and has undertaken to start on __________ and complete on __________ subject
+to the provisions of paragraph 3 of this undertaking.
+The applicant further undertakes to comply and abide by the rules and regulations governing the drilling
+speciﬁcations and use of water, and further acquainted with the relevant provisions of Water Act 2008.
+The applicant further undertakes to provide that any time speciﬁed for the completion of the construction of
+waterworks which may be extended by the Director of Water Affairs.
+Singed __________ Applicant Date __________
+Authorized by Name __________ Signature __________
+Designation __________
+Date Stamp
+Form C – Drilling contractors certiﬁcate (Section 22(2))
+This is to certify that ____________________
+Operating from ____________________
+Address ____________________
+Telephone ____________________
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+18
+
+
+--- PAGE 23 ---
+
+Water Act, 2008 
+ Lesotho
+Has registered as a drilling contractor with the Department of Water Affairs in terms of Section 22(1) of the Water
+Act 2008 on the __________ has been acquainted with the contents of the Act and has undertaken to comply with
+relevant provisions of this Act.
+The Drilling Contractor Signature __________ Date __________
+Registering Ofﬁcer: Name __________
+Signature __________
+Designation ___________________
+Date Stamp
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+19
+
+
+--- PAGE 24 ---
+
+Water Act, 2008 
+ Lesotho
+Schedule 2 (Section 20 (2))
+Fees for water use permit
+Type of use
+Fee (M per 5 years)
+Consumptive uses
+a. Domestic
+0-400litres/day Free
+b. irrigation
+M10/hectare
+(i)
+c. Industry
+(1)
+small scale
+M100
+(2)
+medium scale
+M500
+(3)
+large scale
+M2000
+d. Water bottling
+M500
+e. Mining
+M5,000
+(ii) Non-consumptive uses
+1. hydropower
+M 100
+2. recreation
+M 100
+3. navigation
+M100
+(iii) Fees for construction permit
+M 200
+By Laws.Africa and contributors. Licensed under CC-BY. Share widely and freely.
+20

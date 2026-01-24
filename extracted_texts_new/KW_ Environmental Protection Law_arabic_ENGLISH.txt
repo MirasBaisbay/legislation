@@ -1,0 +1,922 @@
+****
+Issue No. 1192, Sixtieth Year, Kuwait. Published on December 11, 1954. The Official Gazette of the Government of the State of Kuwait, issued by the Ministry of Information. Sunday, 15 Ramadan 1435 H / July 13, 2014 AD.
+
+**Law No. (42) of 2014**
+**Concerning the Issuance of the Environmental Protection Law**
+
+- After reviewing the Constitution,
+- And the Penal Code issued by Law No. 16 of 1960 and its amending laws,
+- And Law No. 17 of 1960 issuing the Code of Criminal Procedure and Trials and its amending laws,
+- And Law No. 12 of 1964 concerning the prevention of pollution of navigable waters by oil and its amending laws,
+- And Law No. 30 of 1964 establishing the State Audit Bureau and its amending laws,
+- And Law No. 37 of 1964 concerning public tenders and its amending laws,
+- And the Decree issued on 17/12/1967 concerning the determination of the breadth of the territorial sea of the State of Kuwait,
+- And Law No. 28 of 1969 concerning labor in the oil sector,
+- And Law No. 19 of 1973 concerning the conservation of petroleum resources,
+- And Law No. 131 of 1977 concerning the regulation of the use of ionizing radiation and protection from its hazards,
+- And Decree-Law No. 18 of 1978 concerning safety regulations and the protection of public facilities and public wealth resources and its amending laws,
+- And the Kuwait Regional Convention for Cooperation on the Protection of the Marine Environment from Pollution of 1978,
+- And Decree-Law No. 31 of 1978 on the rules for preparing public budgets, monitoring their implementation, and the final account and its amending laws,
+- And Law No. 15 of 1979 concerning the Civil Service and its amending laws,
+- And the Decree concerning the Civil Service issued on 4/4/1979,
+- And Decree-Law No. 28 of 1980 issuing the Maritime Commerce Law and its amending laws,
+- And Law No. 94 of 1983 concerning the establishment of the Public Authority for Agriculture Affairs and Fish Resources and its amending laws,
+- And Decree-Law No. 9 of 1987 concerning the prohibition of certain acts detrimental to public hygiene and plantations,
+- And Law No. 15 of 1995 concerning combating smoking,
+- And Law No. 21 of 1995 establishing the Environment Public Authority, as amended by Law No. (16) of 1996,
+- And Law No. 56 of 1996 issuing the Industry Law and its amending laws,
+- And Law No. (10) of 2003 issuing the Unified Customs Law for the Cooperation Council for the Arab States of the Gulf,
+- And Law No. (5) of 2005 concerning Kuwait Municipality and its amending laws,
+- And Law No. (6) of 2010 concerning labor in the private sector,
+
+The National Assembly has approved the following law, and We have ratified and promulgated it:
+
+***
+
+**Preliminary Chapter**
+**General Provisions**
+
+**Chapter One: Definitions**
+
+**(Article 1)**
+For the purposes of applying the provisions of this Law, the following terms shall have the meanings ascribed to them below:
+**The Authority:** The Environment Public Authority.
+**The Supreme Council:** The Supreme Council for the Environment.
+**The Board of Directors:** The Board of Directors of the Environment Public Authority.
+**The Director General:** The Director General of the Environment Public Authority.
+**Concerned Authorities:** All executive authorities concerned with matters of the environment and development.
+**Enclosed Public Place:** A place that has the form of a fully constructed building into which air enters only through designated openings. Public transportation is considered an enclosed public place.
+**Semi-Enclosed Public Place:** A place that has the form of an incomplete building and is directly connected to the outside air such that it cannot be completely closed.
+**Environment:** The biological and physical surroundings that include living organisms such as humans, animals, and plants, and all that surrounds them, including natural habitats, air, water, soil, and the solid, liquid, or gaseous substances or natural radiation they contain, as well as the fixed and mobile installations established by man.
+**Polluting Substances and Agents:** Any liquid, solid, or gaseous substances, smoke, vapors, etc., or microorganisms (such as bacteria and viruses) or other micro- and macro-organisms, odors, noise, radiation, heat, light glare, or vibrations produced by human action or by nature, such as earthquakes and floods, which lead directly or indirectly to environmental pollution, cause an imbalance in the environment, or cause harm to the health of humans and living organisms.
+**Environmental Pollution:** All human and natural activities that contribute to the presence of any polluting substances or agents in the environment in quantities, characteristics, or for a duration that may, directly or indirectly, alone or in interaction with others, harm public health or lead to activities that may degrade the natural ecosystem or impede the enjoyment of life and the use of private and public property.
+**Source of Pollution:** The place through which substances, pollutants, or energy are discharged, released, or emitted into the surrounding environment (air, water, soil). A source of pollution may be stationary (such as chimneys, sewage drains, industrial zones, and landfills) or mobile (such as vehicles, ships, and aircraft).
+**Environmental Protection:** The set of policies and measures aimed at protecting natural resources and ecosystems, and the procedures that ensure the prevention, mitigation, or control of pollution; the preservation of the environment, its natural resources, and biodiversity; the rehabilitation of areas that have degraded due to harmful practices; the establishment of terrestrial and marine reserves; the designation of buffer zones around stationary sources of pollution; the prevention of acts harmful or destructive to the environment; and the encouragement of positive behavioral patterns.
+**Air Pollution:** The introduction of any polluting substances or agents (chemical, physical, or biological) or energy into the air that leads to a change in the natural characteristics and specifications of the air and the atmosphere, and their presence in concentrations and for durations that may result in harmful and dangerous effects on human health or the environment, whether this pollution is caused by natural sources or human activity.
+**Indoor Environment:** The physical surroundings and installations in which humans are present, meaning the environmental conditions that surround a person within residential, commercial, and other establishments.
+**Work Environment:** The physical surroundings and the conditions surrounding a person in the places where they are present to perform their work, whether inside or outside buildings and establishments.
+**Ozone Layer:** One of the upper layers of the atmosphere (the lower part of the stratosphere) containing high concentrations of ozone gas, which works to absorb harmful ultraviolet radiation from the sun and prevent it from reaching the Earth's surface.
+**Ground-Level Ozone:** One of the gases formed as a secondary pollutant near the Earth's surface as a result of the reaction between primary air pollutants (nitrogen oxides, vapors of organic compounds, and sunlight).
+**Ozone-Depleting Substances:** A group of manufactured chemical substances (such as chlorofluorocarbons, Freon gases, and halons) that, when released into the air and transported to the upper layers of the atmosphere (the stratosphere), react with and deplete ozone molecules, leading to the degradation of the ozone layer and the expansion of the ozone hole.
+**Greenhouse Gases:** Any of the gases that contribute to absorbing infrared radiation emitted from the heated Earth's surface and preventing it from spreading and scattering into outer space, leading to the trapping of heat in the Earth's atmosphere and its warming.
+**Climate Change:** The occurrence of significant changes in the statistical distribution of climate patterns over periods extending for decades. These are changes that occur in the averages and intensity of weather conditions or in their frequency and distribution around the world (such as rising atmospheric temperatures, rising sea levels, and changes in wind patterns, among others).
+**Water Pollution:** The introduction of any substances or energy into the aquatic environment, intentionally or unintentionally, directly or indirectly, resulting in harm to living resources, threatening human health, or impeding aquatic activities, including fishing, navigation, tourism, and development activities, or spoiling the suitability of seawater for use, diminishing its enjoyment, or altering its properties.
+**Soil Pollution:** The changes that occur in the natural, chemical, or biological properties of the soil, adversely affecting its efficiency.
+**Integrated Coastal Zone Management:** An approach based on the participation of all relevant authorities to coordinate among themselves in a manner that ensures the preservation of the environment in coastal areas.
+**Natural Resources:** All materials and compounds in nature that are exploited by humans for manufacturing, development, and improving the quality of life, and which can be directly utilized (such as air, water, land, animals, fish, and plants) or indirectly (such as oil, gas, and alternative energies).
+**Biodiversity:** The numbers, species, genera, and genetic variations of living organisms present in a geographical area or in natural habitats and ecosystems. The extent and degree of biodiversity is considered an indicator for measuring the health of ecosystems.
+**Sustainable Development:** Development that aims for the rational use of natural resources to meet the needs of the present generation while preserving these resources and not disrupting ecosystems in order to meet the needs of future generations.
+**Environmental Impact:** The tool by which the negative and positive, direct and indirect, immediate and future effects resulting from projects are identified through prediction, with the aim of avoiding adverse impacts on human health and protecting the surrounding environment.
+**Environmental Impact Assessment Studies:** Comprehensive scientific studies to assess the effects associated with projects and activities on the environment before commencing their implementation or upon introducing any modifications or expansions to existing ones, in accordance with the decisions issued by the competent authority. These studies include identifying, predicting, measuring, and interpreting the expected effects, and determining methods for monitoring them to limit or reduce their negative impacts during the various stages of the project.
+**Environmental Audit:** A set of evaluation activities conducted by specialized environmental consulting firms to identify implementation gaps in an establishment's environmental compliance and management system and the related corrective actions. These activities include preparing the establishment to obtain internationally accredited certificates for environmental management systems.
+**The Competent Minister:** The Prime Minister or the First Deputy Prime Minister.
+**Environmental Inspection:** Field operations conducted by judicial officers at all establishments, activities, and development projects to verify the degree of compliance with environmental regulations, requirements, and standards. This may require the use of various devices, equipment, machinery, and systems, as well as sampling and scientific and technical documentation.
+**Judicial Officers:** Employees of the Authority or others appointed by the Competent Minister and qualified to monitor and enforce this Law and its implementing regulations and decisions.
+**Marine Environment Pollution:** The introduction by man, directly or indirectly, intentionally or unintentionally, of substances or energy into the marine environment that may result in adverse effects on human health, harm living resources or marine ecosystems, impede legitimate marine activities including fishing, or impair the quality of water and its suitability for certain uses or affect the legitimate use of the marine environment.
+**Discharge:** Any leak, spill, emission, release, or intentional or unintentional discharge of any type of polluting substance (solid, liquid, gaseous, and dust) or a form of energy into the surrounding environment (air, water, soil), or its disposal in prohibited areas.
+**Harmful Substances:** Substances that directly or indirectly cause harm to human health or living organisms, including, for example, chemical, biological, and radioactive materials, and solid and liquid waste.
+**Sewage:** Water discharged from human settlements (such as residential, commercial, and industrial areas), containing liquid and solid human waste, oils, grease, sediments, solid residues, dissolved substances, and bacteria, which is transported to treatment sites via sewage networks or dedicated tankers.
+**Sewage Treatment Plants:** Installations or equipment specifically designed to receive sewage for treatment by mechanical, physical, chemical, and biological methods to remove substances and pollutants harmful to the environment and public health, allowing for its reuse.
+**Sludge:** The materials that settle during the treatment of liquid waste in specialized sanitary and industrial treatment plants. These materials are usually in a semi-solid form and contain many organic or hazardous substances, requiring special treatment depending on their composition.
+**Industrial Effluent:** Liquid waste resulting from a range of manufacturing processes in industrial establishments and development activities, which requires treatment at the source or transport to specialized treatment sites.
+**Solid Municipal Waste:** Solid waste and materials generated from homes, residential communities, and commercial activities (such as food waste from homes, including paper, cardboard, packaging remnants, plastic, wood, glass, and metals).
+**Landfills:** Sites that are designated, used, and managed for the disposal of one or more types of waste by landfilling above ground, in low-lying areas, or underground, which may result in numerous environmental impacts depending on the type of waste and the disposal method used.
+**Hazardous Waste:** Liquid, solid, or gaseous waste that is highly toxic, corrosive, explosive, or flammable, and which poses, directly or indirectly, a significant danger to the health of humans and living organisms and to the ecosystem.
+**Medical Waste:** Waste from medical activities generated by hospitals, medical complexes, health centers and clinics of all kinds, blood banks, medical laboratories, medical research centers, and veterinary clinics.
+**Nuclear Waste:** Radioactive materials that emit ionizing radiation, such as uranium and cesium, produced from electricity generation in nuclear power plants, certain industrial and medical uses, and stages of the nuclear fuel cycle. Nuclear waste is divided into three levels: Level one, high-level radioactive waste; Level two, intermediate-level radioactive waste; and Level three, low-level radioactive waste.
+**Radioactivity Level:** The rate which must not exceed the amount of ionizing radiation that would cause discernible harm to human health or the environment if a body is exposed to it continuously, intermittently, or for an unspecified period.
+**Hazardous Substances:** Substances with hazardous properties that harm human health or have a detrimental effect on the environment, such as infectious, toxic, explosive, flammable, or ionizing radiation-emitting materials.
+**Reception Facilities for Polluting Substances:** The installations, equipment, and basins designated for receiving, settling, treating, and discharging waste and polluting substances.
+**Pollution Damage:** Any loss resulting from environmental pollution by a harmful substance, whatever its cause, including the cost of pollution control and rehabilitation measures, and any loss or damage resulting from such measures.
+**Rescue Measures:** Any preventive measures implemented by any person or entity before, during, or after a pollution incident to control it and mitigate its effects.
+**Incident:** Any event or series of events from a single source or multiple sources that has resulted in pollution.
+**Oil:** Includes all types of crude petroleum and its products, including any type of gaseous and liquid petroleum hydrocarbons, lubricating oils, fuel oils, refined oils, furnace oil, bitumen, and other materials extracted from petroleum or its waste.
+**Oily Mixture:** Any mixture containing any quantity of oil.
+**Unclean Ballast Water:** Water present inside a ship's tank to maintain its balance if its oil content exceeds 10 parts per million.
+**Vessel:** Any floating marine structure, whatever its shape or form, whether fixed or freely moving.
+**Produced Water (Water Associated with Drilling):** Polluted water generated and discharged from drilling, exploration, well testing, or production operations.
+**Rehabilitation:** Any action taken to restore the balance of an ecosystem after it has been exposed to a pollution incident, including all administrative and field efforts to ensure the restoration of the environmental situation to its natural state and to the environmental standards set by the competent authorities.
+
+**Chapter Two: Scope of Application and Objectives of the Law**
+
+**(Article 2)**
+The provisions of this Law shall apply to all public and private entities and individuals.
+
+**(Article 3)**
+This Law aims to achieve the following purposes:
+1.  Protection of the environment and its resources and the preservation of its natural balance throughout the entire territory of the State.
+2.  Combating pollution and environmental degradation in its various forms and avoiding any immediate or long-term damage resulting from economic, agricultural, industrial, tourism, urban, or other development plans and programs, and other activities and development programs aimed at improving the standard of living.
+3.  Development of natural resources, ensuring the achievement of sustainable development goals, and preserving biodiversity throughout the entire territory of the State.
+4.  Protection of society, human health, and living organisms from all harmful activities and actions.
+5.  Protection of the environment from the harmful effects of activities and actions that take place outside the territory of the State.
+
+**Chapter Three: Management of Environmental Affairs**
+
+**First: The Supreme Council for the Environment**
+
+**(Article 4)**
+The Supreme Council for the Environment shall be formed under the chairmanship of the Prime Minister or the First Deputy Prime Minister, with the membership of a number of ministers selected by the Chairman of the Supreme Council. The Director General of the Authority shall be a member and rapporteur of the Council. The Supreme Council shall include in its membership three persons with expertise and competence in the field of environmental protection, who shall be appointed by decree for a term of four years, renewable for one similar term. The decree appointing them shall specify their remuneration. The Council shall issue internal bylaws to regulate its working procedures and the manner of issuing its decisions. The Council shall operate within the framework of the government's general policy to take all measures that would protect the State's territory from pollution, whatever its source, and achieve the objectives stipulated in this Law.
+
+It shall also be competent in the following matters:
+1.  Drawing up the general policy for environmental protection in the State.
+2.  Adopting national plans for environmental protection and emergency plans to confront environmental disasters.
+3.  Following up on the implementation of the provisions of this Law by all state agencies, and resolving any conflict or dispute of competencies that may hinder the achievement of the policies, objectives, and articles contained herein.
+4.  Approving the annual budget of the Authority.
+5.  Selecting two representatives from non-governmental associations concerned with environmental affairs for membership on the Board of Directors.
+6.  Approving the internal bylaws of the Board of Directors based on the proposal of the Board of Directors.
+7.  Adopting the Authority's annual work plan and its periodic review and evaluation.
+8.  Reviewing and approving the annual report on the environmental performance of the State's institutions and following up on correcting the shortcomings of the State's institutions mentioned therein.
+9.  Adopting the financial regulations related to the salaries and wages of employees of the Authority.
+10. Approving the organizational structure of the Authority.
+11. Approving the formation of permanent auxiliary committees and approving their budgets.
+12. Imposing legal penalties on companies, establishments, and entities that violate the provisions of this Law and the environmental requirements and standards contained in its Executive Regulation.
+
+**(Article 5)**
+A decision shall be issued by the Supreme Council to form a Board of Directors for the Authority for a term of four years, renewable for one similar term. The Board of Directors shall be chaired by the Director General and shall include the membership of:
+1.  One representative from each of the Ministry of Health, Ministry of Interior, Ministry of Communications, Ministry of Electricity and Water, Ministry of Commerce and Industry, Ministry of Public Works, Ministry of Information, Ministry of Oil, Kuwait Municipality, Public Authority for Industry, Kuwait University, Kuwait Institute for Scientific Research, and the Public Authority for Agriculture Affairs and Fish Resources, provided that their grade is not less than that of an Assistant Undersecretary, to be selected by the competent minister.
+2.  Two representatives from public benefit associations concerned with the environment.
+
+**Second: The Environment Public Authority**
+
+**(Article 6)**
+The Environment Public Authority is a public authority with a legal personality and an attached budget, concerned with environmental affairs. It has general jurisdiction over environmental affairs in the State and is attached to the Council of Ministers and supervised by the Supreme Council for the Environment.
+
+**(Article 7)**
+The Authority is competent to carry out all acts and tasks that ensure the protection of the environment in the country, and in particular the following:
+1.  Developing and implementing the State's general policy regarding environmental protection and formulating strategies and action plans to protect the environment, conserve natural resources and ecosystems, and achieve sustainable development goals, including appropriate scientific, environmental, and health standards for human life, industrial and urban expansion, and the exploitation of natural resources in a manner that ensures the preservation of the health and safety of workers, all facilities, the work environment, and the protection of the environment and the maintenance of ecological balance in general.
+2.  Preparing and supervising the implementation of integrated action plans that include all matters related to environmental protection in the short and long term, in coordination with the concerned state agencies in light of environmental policies.
+3.  Supervising, following up on, and evaluating activities, procedures, and practices related to environmental protection.
+4.  Defining pollutants, setting environmental quality standards, preparing draft laws, regulations, systems, and requirements for environmental protection, following up on their implementation, and establishing the necessary controls to prevent, reduce, and combat environmental pollution, in coordination with the concerned authorities in the State.
+5.  Preparing and participating in directing and supporting research and studies in the field of environmental protection, conservation of its resources, and achieving environmental development, and following up on the evaluation of their results and implementing the recommendations issued therefrom through the concerned authorities in the State.
+6.  Identifying problems arising from environmental pollution and degradation in cooperation with local and international institutions concerned with the environment, proposing appropriate solutions, and following up on their application.
+7.  Studying regional and international agreements concerning environmental affairs and expressing opinions regarding accession to them in coordination with the concerned authorities, and cooperating and coordinating with these organizations regarding the implementation of the provisions of these agreements.
+8.  Following up on new developments in international law in the field of environmental protection and coordinating the State's relations with international and regional organizations concerned with environmental affairs.
+9.  Supervising the implementation of policies set by the Supreme Council for the Environment.
+10. Developing a general framework for environmental education, training, and awareness programs, raising the level of environmental awareness, and achieving positive community participation in environmental protection.
+11. Developing and implementing comprehensive environmental surveys and continuous monitoring programs for environmental standards and indicators in all environmental sectors, and carrying out environmental monitoring, measurement, and continuous follow-up of environmental quality.
+12. Developing a comprehensive plan to confront environmental disasters and taking the necessary measures to face them in times of war and peace, in coordination and cooperation with the concerned authorities.
+13. Developing an integrated action plan to support civil society institutions and working to qualify community sectors on the methods and means of environmental protection, in cooperation with the concerned authorities.
+14. Preparing a system for assessing the environmental impact of various state projects, developing guidelines and necessary procedures, and expressing an opinion on them before their implementation is approved by the concerned authorities.
+15. Studying the environmental reports submitted to it on the environmental conditions in the country and taking the necessary action, and preparing an annual report that includes both the general environmental situation and the environmental performance of the State's institutions in the State of Kuwait.
+16. Granting approval to companies, institutions, and consulting firms specialized in preparing environmental impact assessment studies or providing environmental consultations or environmental auditing, and entities working in the field of environmental services and laboratories to practice these activities.
+17. Establishing and developing a comprehensive environmental database for the State and working to improve environmental decision-making mechanisms and achieve electronic linkage with State institutions and exchange data among them.
+18. Preparing environmental data and indicators for the State of Kuwait and publishing them in the official reports and statistics of the Authority and related entities inside and outside the country.
+19. Setting the standards and requirements that project and establishment owners must implement and taking the measures stipulated by law against those who violate these standards and conditions.
+
+**(Article 8)**
+The Authority shall have a Director General appointed by decree with the rank of Undersecretary, who shall be a specialist with experience in fields related to the environment, for a term of four years, renewable for one similar term. He shall be responsible for implementing the Authority's decisions. The Director General shall represent the Authority before the judiciary and in its relations with others. He may have one or more deputies appointed by decree.
+
+**(Article 9)**
+The Board of Directors of the Environment Public Authority shall have all the necessary powers to achieve its purposes stipulated in this Law, and in particular:
+1.  Supervising the implementation of policies set by the Supreme Council for the Environment.
+2.  Proposing national plans for environmental protection and emergency plans to confront environmental disasters and supervising their implementation after their adoption by the Supreme Council.
+3.  Preparing the organizational structure of the Authority, indicating the necessary bodies and defining their competencies.
+4.  Preparing the internal bylaws of the Board of Directors, which shall specifically include the following:
+    a.  Defining the competencies of the Director General and his deputies.
+    b.  Regulating the work of the Board of Directors, the manner of issuing its decisions, and the rules and procedures for the meetings of committees and working groups formed within the Authority.
+    c.  Determining the remuneration of the members of the Board of Directors, the deputy directors, members of committees and working groups, experts, and consultants.
+5.  Issuing the internal regulations of the Authority, including administrative regulations and regulations for the appointment of the Authority's employees, their promotions, their remuneration, the in-kind or cash benefits granted to them, the disciplinary penalties imposed on them, and the termination of their services, without prejudice to the provisions of Articles (5) and (38) of the Civil Service Law. The provisions of the Civil Service Law and its system shall apply to the employees of the Authority in matters for which no special provision is made in its internal system.
+6.  Approving the draft annual budget of the Authority.
+7.  Proposing draft laws and decrees related to the environment.
+8.  Proposing the formation of permanent auxiliary committees and approving their recommendations.
+9.  Setting schedules for the fees and charges collected by the Authority for the services it provides.
+10. Approving the development, updating, and amendment of executive environmental standards, requirements, and regulations.
+11. Reviewing and approving the penalties prescribed for violators as stipulated in the Environmental Protection Law and approving the settlement regulations for environmental violations.
+
+The Board may delegate some of its competencies to the Director General or any of its committees.
+
+**(Article 10)**
+The Authority shall have an attached budget within the general state budget. The rules and procedures governing the general state budget shall be followed in its preparation. The fiscal year of the Authority shall begin and end with the fiscal year of the State. By way of exception, the first fiscal year shall begin from the date this Law comes into force and end at the end of the fiscal year following the date of the Law's issuance.
+
+**(Article 11)**
+The financial resources of the Authority shall consist of the following:
+1.  Annual allocations in the general state budget.
+2.  Fees and charges for services provided by the Authority to others.
+3.  Subsidies and grants from national and foreign entities for the purposes of environmental protection and development, which are approved by the Board of Directors.
+4.  Revenue from any pilot projects undertaken by the Authority.
+
+**(Article 12)**
+Notwithstanding the provisions of Article (16) of the aforementioned Law No. 31 of 1978, subsidies and grants from national and foreign entities for the purposes of environmental protection and development, which are approved by the Board of Directors, shall accrue to the Authority. These subsidies and grants shall be disposed of for the purposes for which they were granted, by a decision of the Board of Directors.
+
+**Third: The Environment Protection Fund**
+
+**(Article 13)**
+A special fund called the Environment Protection Fund shall be established at the Authority, reporting to the Supreme Council for the Environment. The following shall accrue to it:
+1.  Amounts allocated by the State in its budget to support the Fund.
+2.  Fines and compensations awarded by a court or agreed upon for damages affecting the environment.
+3.  Any other resources approved by the Supreme Council.
+
+**(Article 14)**
+The Supreme Council for the Environment shall issue a decision regarding the internal bylaws of the Fund, defining its purposes and system of operation.
+
+**(Article 15)**
+The Fund shall be competent in the following:
+1.  Establishing projects aimed at protecting the environment and its resources and preserving its natural balance.
+2.  Supporting efforts to contain environmental disasters and crises.
+3.  Establishing projects for the rehabilitation of damaged sites in the State.
+4.  Encouraging the transition towards a green economy and sustainable development.
+5.  Supporting investment in the field of environmental science and technology and developing national cadres to work in this field.
+6.  Supporting investment in the environmental education sector and establishing educational and awareness centers related to environmental fields.
+7.  Supporting special environmental studies and research related to the Fund's projects.
+8.  Supporting official environmental civil society institutions and working to encourage the participation of other community institutions working in non-environmental fields, in a way that enables them to contribute to environmental protection, each according to its specialty.
+
+***
+
+**Part One**
+**Development and Environment**
+
+**Chapter One: Environmental Impact Assessment**
+
+**(Article 16)**
+All entities subject to the provisions of this Law are prohibited from commencing the implementation of any project or introducing any modifications or expansions to existing activities, or obtaining any licenses for such, until after conducting environmental impact assessment studies in accordance with the systems, requirements, and procedures specified by the Executive Regulation of this Law.
+
+**(Article 17)**
+No entity, whether a company, institution, consulting firm, center, laboratory, or any other multi-activity entity, may engage in any activity, services, or consultations in the environmental field without first obtaining the Authority's approval, in accordance with the requirements and procedures specified by the Executive Regulation of this Law.
+
+**Chapter Two: Occupational and Indoor Environment**
+
+**(Article 18)**
+All establishments shall comply with all engineering and environmental requirements specified by the Executive Regulation of this Law.
+
+**(Article 19)**
+All establishments, in the course of their activities, shall ensure the safety of workers and that they are not exposed to any harm resulting from the emission or leakage of polluting substances in the work environment, whether resulting from the nature of the establishment's activity or from a malfunction in its equipment. They shall take the necessary procedures, precautions, and measures to not exceed the safe permissible limits for exposure to chemical substances, noise, vibrations, heat, humidity, lighting, ultrasonic waves, inactive radiation, and any other requirements specified by the Executive Regulation of this Law.
+
+**(Article 20)**
+Enclosed and semi-enclosed public places must be equipped with adequate means of ventilation, proportionate to the size of the place, its capacity, and the type of activity practiced therein, so as to ensure the renewal and purity of the air, while complying with the air flow rates specified by the Executive Regulation of this Law.
+
+***
+
+**Part Two**
+**Protection of the Terrestrial Environment from Pollution**
+
+**Chapter One: Management of Chemical Substances and Hazardous Waste**
+
+**First: Management of Chemical Substances**
+
+**(Article 21)**
+The production or handling of chemical substances specified by the Executive Regulation of this Law is prohibited except after obtaining a license from the competent authority, following the approval of the Authority.
+The Authority may halt the activity or request the revocation of the license from the granting authority if the product is proven to be environmentally or medically hazardous. In all cases, the Authority's approval of the product must be obtained before its marketing or importation.
+
+**(Article 22)**
+All entities that produce, package, handle, store, transport, import, or export chemical substances, or through which they pass through the territory of the State of Kuwait, shall comply with the environmental procedures and standards specified by the Executive Regulation of this Law.
+
+**(Article 23)**
+The approval of the concerned authorities must be obtained when importing or exporting hazardous substances and chemical substances. A condition for authorizing such is the completion of inspection, conformity, and auditing procedures by the concerned authorities or by qualified companies for this purpose. The Executive Regulation of this Law shall specify the organizing procedures and requirements for this, the required records, and the responsibilities of the concerned authorities towards them.
+
+**(Article 24)**
+The Authority, in coordination with the competent authorities, shall be responsible for implementing the requirements of international agreements related to the management of chemical substances and hazardous materials and waste, and for conducting comprehensive national surveys of chemical compound emissions. The Authority shall also, within two years of the issuance of this Law, prepare the National Chemical Safety Program and develop plans and timetables for its implementation in cooperation with the concerned authorities in the State.
+
+**Second: Management of Hazardous, Medical, Solid Municipal Waste, and Sludge**
+
+**(Article 25)**
+The importation, introduction, burial, dumping, or storage of nuclear waste or its disposal in any form is prohibited throughout the entire territory of the State of Kuwait.
+It is prohibited, without prior permission from the Authority, to allow the passage of means of sea, air, or land transport carrying any of this waste through the territory of the State, in coordination with the concerned authorities in the State.
+
+**(Article 26)**
+The handling of low-level radioactive waste generated from hospitals or certain industries is prohibited without a prior license from the concerned authorities. This waste must be disposed of in accordance with the environmental conditions and standards specified by the Executive Regulation.
+
+**(Article 27)**
+The importation or exportation of hazardous waste or allowing its entry or transit through the territory of the State of Kuwait is prohibited. An exception is made for the exportation of hazardous waste for which the State does not possess the technical capacity, necessary facilities, or appropriate means or ports for its disposal. In all cases, the approval of the Authority must be obtained for this.
+
+**(Article 28)**
+The collection, transportation, and disposal of solid municipal waste, hazardous waste, healthcare waste, and sludge resulting from sewage and industrial effluent are prohibited without a license from the concerned authorities. The Executive Regulation of this Law shall specify the procedures and conditions for granting these licenses and the mechanism for handling and dealing with these materials.
+
+**(Article 29)**
+Hazardous waste, solid municipal waste, healthcare waste, and sludge of all types must be disposed of in accordance with the environmental conditions and standards specified by the Executive Regulation of this Law. The disposal of waste of all types by direct landfilling in sites not environmentally designated is also prohibited.
+
+**(Article 30)**
+Solid municipal waste must be disposed of in accordance with the environmental conditions and standards specified by the Executive Regulation of this Law. The concerned authorities shall undertake to complete and finalize the infrastructure for solid municipal waste recycling works within a maximum of five years from the date of issuance of this Law.
+
+**(Article 31)**
+The concerned authorities shall be obligated to establish sewage and rainwater drainage networks after obtaining inter-agency approvals prior to their construction. They shall also be obligated to maintain and monitor them to ensure the safety of the marine environment and the quality and efficiency of work at treatment plants.
+
+**(Article 32)**
+The concerned authorities shall be obligated to set standard specifications for all recycled materials and the nature, quality, and mechanisms of their use in a way that achieves safety and efficiency of use. The State shall also grant priority in its projects to recycled materials produced within the territory of the State that comply with standard specifications, in support of recycling industries.
+
+**(Article 33)**
+It is prohibited to dispose of garbage or waste of any kind except in the containers designated for that purpose.
+
+**(Article 34)**
+The Authority, in coordination with the competent authorities, shall be responsible for preparing the National Program for Integrated Waste Management, including the preparation, development, and updating of a national strategy for the integrated management of solid municipal waste, medical waste, liquid waste, and hazardous waste, accompanied by action plans, responsibilities of State institutions, monitoring and surveillance programs, and timetables for their implementation. The Authority shall present the program to the Supreme Council for its adoption within a maximum of three years from the issuance of this Law.
+
+**(Article 35)**
+The connection of sanitary and industrial liquid waste from industrial areas to public rainwater drainage networks and sewage networks is prohibited. The competent authorities shall be obligated to establish special treatment plants for these areas within a maximum of seven years from the date of issuance of this Law.
+
+**(Article 36)**
+The establishment of new landfills for waste in the State of Kuwait or the expansion of existing ones is prohibited except with the approval of the Supreme Council. In all cases, environmental impact assessment studies are required. When establishing or expanding them, compliance with the conditions specified by the Executive Regulation of this Law is required.
+The concerned authorities shall be obligated to develop a detailed plan for the management, evaluation, and treatment of all landfills in the country within one year from the date of issuance of this Law, to be presented to the Supreme Council for its adoption.
+
+**(Article 37)**
+The concerned authorities shall, within five years from the date of issuance of this Law, conduct a comprehensive inventory of the types, quantities, and locations of asbestos waste in the country. They shall also be obligated to dispose of this hazardous waste in a qualified site. The State shall bear the financial obligations arising from the collection, transportation, and disposal of this waste from private residences and government facilities.
+
+**(Article 38)**
+Sources that generate hazardous waste, healthcare waste, or sludge, in addition to the authorities responsible and tasked with collecting, transporting, and disposing of waste of all types, shall provide the Authority with details of this waste while maintaining a special register. The Executive Regulation of this Law shall specify the required data and the mechanism for its transfer and management.
+
+**(Article 39)**
+The dumping, treatment, or incineration of solid municipal waste is prohibited except in facilities designated for that purpose. In doing so, distance from human settlements and environmentally sensitive areas shall be taken into account. The Executive Regulation of this Law shall specify the specifications and controls for these facilities and their locations.
+
+**Chapter Two: Protection of the Terrestrial and Agricultural Environment from Pollution**
+
+**(Article 40)**
+Anyone who visits terrestrial areas for the purpose of setting up camps or for any other purpose is prohibited from carrying out any activity that would harm the soil, affect its natural properties, or pollute it in a way that affects its productive capacity. The Executive Regulation of this Law shall specify the requirements and standards to be adhered to.
+
+**(Article 41)**
+Grazing, land use for irrigated agriculture, or any other activity that would harm the quantity or quality of vegetation in any area, leading to desertification or degradation of the terrestrial environment, is prohibited.
+Damaging crops, plants, and trees, and picking flowers in squares, streets, and public facilities, or uprooting trees and wild plants in public lands, is also prohibited.
+An exception is made for what is specified by the Executive Regulation of this Law for development purposes. In all cases, compensation must be made for any uprooted green areas and trees.
+
+**(Article 42)**
+The Authority, in cooperation with the concerned authorities, shall determine the requirements for pesticides, fertilizers, and soil enhancers with respect to the following, as specified by the Executive Regulation of this Law:
+1.  The types and specifications of these materials that may be produced, manufactured, imported, traded, or used in the State.
+2.  The permissible limits of pesticide residues on locally produced or imported food.
+3.  The conditions to be adhered to for the disposal of pesticide waste or the compounds used in their manufacture or those whose expiration date has passed.
+4.  The procedures for registering these materials or renewing their registration.
+5.  The conditions and specifications for sampling these materials and the methods of their analysis and evaluation of analysis results.
+6.  How to monitor, evaluate, and treat pollution resulting from the unsafe or incorrect handling or use of these materials.
+
+**(Article 43)**
+The spraying or use of organochlorine pesticides, pesticides, or any other chemical compounds for agricultural, public health, or other purposes is prohibited except after observing the conditions, controls, and guarantees specified by the Executive Regulation of this Law.
+
+**(Article 44)**
+The authority responsible for the activity of extracting quarry materials or importing them shall, in cooperation with the Authority and other competent authorities, determine the areas and lands designated for the extraction of these materials or regulate existing ones in accordance with the conditions and procedures specified by the Executive Regulation of this Law. The determination of these lands shall take into account geological and environmental surveys of various areas within the territory of the State.
+
+**(Article 45)**
+The authority granting the license for quarrying activities shall monitor all activities related to this activity, such as the extraction, handling, importation, storage, and sale of these materials. This includes supervision, monitoring, prevention of violations, and enforcement of the penalties stipulated in this Law.
+
+**(Article 46)**
+No quarry may be established, expanded, developed, merged, or subdivided into more than one project, nor may any change be made to it, except under a license issued by the concerned authority. Licenses to practice this activity may not be granted except to companies qualified by the competent authorities.
+In all cases, those practicing this activity are obligated to rehabilitate the sites after the end of their work period, in accordance with the requirements set by the Authority in this regard.
+
+**(Article 47)**
+When establishing installations in the terrestrial environment, means of protection against sand encroachment and mitigation of its environmental and economic impacts shall be applied in the manner specified by the Executive Regulation of this Law.
+
+***
+
+**Part Three**
+**Protection of the External Air from Pollution**
+
+**(Article 48)**
+The Authority shall undertake continuous monitoring and evaluation and prepare research and studies to preserve air quality and limit the harmful effects resulting from the emission of polluting gases. The Executive Regulation of this Law shall specify air quality standards.
+The Authority, in coordination and cooperation with the competent concerned authorities, shall take the necessary measures when these standards are exceeded.
+
+**(Article 49)**
+The Authority, in coordination with the concerned authorities, shall prepare and develop a national strategy for air quality management in the State of Kuwait, set action plans and timetables necessary for its implementation, and evaluate its results. The Authority shall also update and evaluate this strategy every five years.
+
+**(Article 50)**
+The Authority shall publish air quality indicators on electronic websites and inform the public about air quality levels and the measures to be taken when concentrations reach levels that may affect the health of the community or a specific group thereof.
+
+**(Article 51)**
+The Authority shall establish, develop, and update a national network for the continuous monitoring and surveillance of air quality in the State of Kuwait. Government and private entities shall also be obligated to establish air quality monitoring and surveillance systems within the scope of their work and activities and link them to the Authority in the manner specified by the Executive Regulation of this Law.
+
+**(Article 52)**
+All establishments, in the course of their activities, shall not emit or leak air pollutants in excess of the permissible limits specified by the Executive Regulation of this Law.
+The person responsible for the establishment must use appropriate means for continuous monitoring of gas emission rates from various sources within the establishment and inform the Authority immediately upon exceeding the maximum permissible limits. The Executive Regulation of this Law shall specify the establishments to which the provision of this paragraph applies.
+
+**(Article 53)**
+The owner or operator of an establishment is obligated to perform periodic maintenance of machinery and equipment and to take all necessary precautions to prevent leakage, emission, or any pollutants that may cause environmental pollution.
+
+**(Article 54)**
+All entities and individuals, when carrying out productive, service, or other activities, especially when operating machinery and equipment and using warning devices and loudspeakers, shall not exceed the permissible limits for noise levels, and it must be in a place designated for it and not exceed it.
+The licensing authorities shall ensure the use of appropriate machinery and equipment so that the total sound emitted from stationary sources in one area is within the permissible limits.
+The Executive Regulation of this Law shall specify the permissible limits for sound intensity and the duration of exposure to it.
+
+**(Article 55)**
+The establishment of facilities that produce noise and cause harm to the surrounding environment is prohibited. The Authority shall work to ensure the application of noise reduction systems on roads, in public projects, and around human settlements, in accordance with the controls specified by the Executive Regulation of this Law.
+
+**(Article 56)**
+Advertising and promoting cigarettes and types of tobacco, their derivatives, and accessories in the territory of the State of Kuwait is prohibited. Smoking is also prohibited in enclosed and semi-enclosed public places and public transportation. All entities are obligated to take all measures to prevent smoking in these places in a manner that ensures no harm is caused to others.
+
+**(Article 57)**
+The competent authority is obligated to prepare, develop, implement, and update the national plan for the phase-out of ozone-depleting substances and to supervise its implementation in cooperation with the concerned authorities and regional and international organizations. The competent authority shall submit an annual report to the Board of Directors on the progress of the plan. The Executive Regulation of this Law shall specify the competent authority and its mechanism of work.
+
+**(Article 58)**
+The importation, exportation, or re-exportation of substances controlled by international agreements regulating ozone-depleting substances, their charts, their alternatives, or their recycled materials is prohibited except after obtaining the approval of the Authority. The Executive Regulation of this Law shall specify the ozone-depleting substances and the related requirements and standards. The Director General may, by decision, delete or add new substances.
+
+**(Article 59)**
+The manufacture or importation of any devices, equipment, and products that contain or operate with the controlled substances mentioned in the preceding article is prohibited, including trucks, vehicles, aerosol cans, sprays, all refrigeration and air conditioning devices, drinking water coolers, and insulating materials and industrial sponges, except after obtaining the approval of the Authority.
+
+**(Article 60)**
+The manufacture or use of the controlled substances mentioned in Article (59) of this Law in any new industries or constructions, or in the expansion of existing facilities, or in the cleaning of electronic circuits, industrial equipment, air conditioning and refrigeration systems, in sterilization, and in drying clothes is not permissible except after obtaining the approval of the Authority.
+
+**(Article 61)**
+The Authority, in coordination with the competent concerned authorities, shall, within two years from the date this Law comes into force, establish a halon bank to inventory the available and imported quantities of these substances and to monitor them. The Executive Regulation of this Law shall specify the competence and system of work of this bank.
+
+**(Article 62)**
+The importation, exportation, or manufacture of the controlled substances listed in Annexes (B, C, E) of the Montreal Protocol is prohibited except after obtaining the approval of the Authority. The importation or exportation of devices and equipment containing these substances is also prohibited.
+
+**(Article 63)**
+All entities and individuals, when repairing and maintaining devices and equipment containing any of the controlled substances, shall comply with the requirements and standards specified by the Executive Regulation of this Law.
+
+**(Article 64)**
+The disposal of containers, cylinders, or their waste containing controlled substances is prohibited except in accordance with the requirements and controls stipulated in the Executive Regulation of this Law.
+
+***
+
+**Part Four**
+**Protection of the Marine and Coastal Environment from Pollution**
+
+**Chapter One: Protection of the Marine Environment from Pollution**
+
+**First: Scope of Protection**
+
+**(Article 65)**
+The Authority shall prepare and follow up on the implementation of the national plan for the management of the marine environment, accompanied by a timetable for the stages of implementation, the responsibilities of the concerned authorities towards it, and the requirements for its implementation.
+
+**(Article 66)**
+The Authority shall establish a national network for monitoring and surveillance of the marine environment that covers all the territorial waters of the State of Kuwait. It shall include the monitoring of all indicators of the environmental status of the marine environment. The Authority shall also provide all the requirements for the success of the network, such as infrastructure like laboratories, and the qualification of national cadres, among others, within five years of the issuance of this Law. All concerned state institutions shall cooperate with the Authority to implement this plan.
+
+**(Article 67)**
+The provisions of this chapter shall apply to all vessels, equipment, ports, and terrestrial, marine, and aerial installations located within the marine areas and what is above them in the upper layers of the air and in the seabed and subsoil, as stipulated in Article (68) of this Law, whatever their shape or form, whether fixed or mobile, as well as floating and submerged pipelines, loading, unloading, and discharge facilities, and others. It shall also apply on the high seas if it results in pollution in the prohibited waters.
+Excepted from the application of the provisions of this chapter are warships and means of transport in their service. The vessels and means of transport excepted from the application of the provisions of this part shall take all precautions to prevent pollution of the prohibited marine areas.
+
+**(Article 68)**
+The following marine areas and what is above them in the upper layers of the air and in the seabed and subsoil are considered areas where any pollution of the marine environment by harmful substances is prohibited, whatever its cause, source, and quantities. After the commission of any such act, it shall be a crime according to the provisions of this Law:
+a. The internal waters of the State of Kuwait located behind the closing line of Kuwait Bay.
+b. The territorial sea of the State of Kuwait, which extends to a distance of 12 nautical miles from the baseline.
+c. The contiguous zone to the territorial sea, which extends to a distance of 24 nautical miles from the baseline from which the breadth of the territorial sea is measured.
+d. The waters adjacent to the territorial sea, which extend to a distance of 50 nautical miles from the baseline from which the breadth of the territorial sea is measured.
+
+**(Article 69)**
+The Authority, in cooperation and coordination with the other concerned authorities in the State, shall develop an integrated national plan within two years from the date of issuance of this Law, aimed at mobilizing the available capabilities of all entities working within the prohibited marine areas and related entities, including equipment, machinery, materials, and expertise to confront and combat pollution cases and others. The Executive Regulation shall specify the authority responsible for managing the plan and the mechanism for coordination and work on its application.
+
+**Second: Pollution from Vessels and Land-Based Sources**
+
+**(Article 70)**
+Vessels that use the prohibited marine areas must be equipped with special equipment and devices for pollution prevention and waste treatment in accordance with international requirements.
+
+**(Article 71)**
+It is prohibited for vessels, regardless of their nationality, to discharge or dump oil, its residues, or other harmful substances in the prohibited zone. They are obligated to discharge polluting waste and refuse at reception facilities.
+
+**(Article 72)**
+All industrial, commercial, tourism, private residential, and other establishments, whether governmental or non-governmental, are prohibited from discharging any materials, waste, or liquids that would cause pollution on the beaches or their adjacent waters, whether intentionally or unintentionally, directly or indirectly.
+
+**(Article 73)**
+The owner or possessor of any place on land or any device intended for storing or transporting oil, waste, sewage, or any other harmful substances is prohibited from discharging them into the prohibited zone.
+
+**(Article 74)**
+Vessels carrying harmful or polluting substances must keep a cargo record book in which the captain or any other person responsible for the vessel records all data related to the cargo, its destination, and the precautions taken to prevent any pollution, in accordance with international requirements.
+
+**(Article 75)**
+National and foreign companies and bodies licensed to explore, extract, or exploit offshore oil fields and other marine natural resources, including the transport of oil, are prohibited from discharging any polluting substances or produced water from drilling, exploration, well testing, or production operations into the prohibited zones.
+
+**(Article 76)**
+National and foreign companies and bodies licensed to combat pollution in the prohibited zones must use safe means that do not result in harm to the marine environment and treat polluting materials according to the latest technical systems and in a manner consistent with the provisions of this Law and its implementing regulations.
+
+**(Article 77)**
+It is not permissible to abandon any vessel or installation in the prohibited marine areas without obtaining permission from the Authority, which shall specify the conditions and procedures to be followed when submitting a request for abandonment. All this is without prejudice to civil liability for compensation for losses and damages resulting from pollution and the removal of its effects.
+
+**Third: Records and Administrative Procedures**
+
+**(Article 78)**
+All oil-transporting vessels with a tonnage of one hundred and fifty tons or more, and all other vessels with a tonnage of four hundred tons or more, are obligated to maintain a special emergency plan to combat any oil pollution that may result from them, and to provide the necessary devices and equipment to implement this plan.
+
+**(Article 79)**
+All vessels designated for the transport of oil are obligated to maintain an oil record book in which the captain or any other person responsible for the vessel records the date, time, and location of all oil loading, transport, and unloading operations for each cargo separately. The Executive Regulation of the Law shall specify the records that vessels must maintain.
+
+**Fourth: Administrative and Judicial Procedures**
+
+**(Article 80)**
+The person responsible for any means, equipment, or terrestrial, marine, or aerial installation shall, in the event of any pollution incident to the marine environment by oil or other harmful substances, report it immediately to the authorities specified by the Executive Regulation of this Law.
+
+**(Article 81)**
+The Executive Regulation of this Law shall specify the following matters:
+1.  The conditions that Kuwaiti vessels must meet, the certificates they must carry, and the rules and procedures for their inspection in accordance with local and international requirements.
+2.  The accepted guarantee certificates to cover pollution risks that must be available on Kuwaiti and foreign vessels and all terrestrial and marine installations present in the prohibited marine areas.
+3.  The rules for settlement in violations that occur in accordance with the provisions of this chapter.
+4.  The fees collected by the State for the services it provides, including the wages of pollution control inspectors, and the determination of the authority concerned with that.
+5.  Cases of detention of vessels and other means, and the mechanism for closing establishments and properties that caused the pollution, and the procedures for their release.
+6.  The rules for inspecting vessels and other means and installations.
+7.  The mechanism for forming technical committees concerned with estimating the cost of pollution control measures and the environmental damage for each pollution incident and determining their affiliation.
+8.  The issuance of the necessary licenses for the construction and management of reception facilities for polluting substances.
+
+**(Article 82)**
+The Competent Minister shall delegate the necessary employees to monitor the implementation of the provisions of this chapter and its implementing regulations and decisions, and to establish proof of violations of its provisions. These employees shall have the capacity of judicial police. For this purpose, they shall have the right to enter establishments, means, equipment, and vessels located within the prohibited marine areas and those located on land that have contributed or may contribute to pollution. They shall have the right to inspect and collect evidence, seize cases violating the provisions of this chapter, write the necessary reports and refer them to the Public Prosecution. They shall also have the right to seek the assistance of the police.
+
+**(Article 83)**
+The following shall be responsible for pollution in the prohibited marine areas referred to in Article (68) of this Law:
+a. The owner, operator, or captain of the vessel or aircraft if the pollution occurs from a vessel or aircraft.
+b. The owner or operator of the installation if the pollution occurs from the installation.
+c. The owner, user, or possessor of the device for storing oil or harmful substances if the pollution occurs from it.
+d. The owner or captain of the vessel or the owner of the installation abandoned before obtaining permission for abandonment.
+
+**(Article 84)**
+The person responsible for the pollution stipulated in this chapter may limit the liability arising from marine pollution incidents in the prohibited zone for each incident to a maximum of fifteen million Kuwaiti Dinars (15,000,000 KWD) or an amount of eighty Kuwaiti Dinars (80 KWD) per registered ton of the vessel's or device's capacity for storing oil or harmful substances, whichever is less.
+
+**(Article 85)**
+Civil liability may not be limited in accordance with the preceding article in the following cases:
+a. If it is proven that the incident giving rise to civil liability was due to non-compliance with environmental requirements or gross negligence and errors.
+b. Violation of safety and navigation regulations and systems.
+In all cases, the limitation of liability does not include the costs of cleanup, pollution removal, mitigation, and environmental rehabilitation.
+
+**(Article 86)**
+The competent authority shall notify the Ministry of Foreign Affairs to inform the diplomatic or consular representatives of the state to which the source of pollution belongs, which caused the pollution incident in accordance with the provisions of this Law, of what it has committed, the supporting evidence, and the measures taken by the State. The competent authority also has the right to notify neighboring states as well as regional and international organizations of the incident.
+The Executive Regulation shall specify the competent authority and the responsibilities of other state agencies regarding incidents.
+
+**(Article 87)**
+The owner of a vessel carrying polluting substances, as well as devices for storing and transporting oil and harmful substances operating in the prohibited marine areas stipulated in Article (68), must provide the competent authority with a financial guarantee or a bank guarantee to cover civil liability for marine pollution damages in accordance with the controls specified by the Executive Regulation of this Law. A valid guarantee certificate must be submitted to the competent authority upon the vessel's entry into the territorial waters of the State of Kuwait.
+
+**Chapter Two: Drinking Water and Groundwater**
+
+**(Article 88)**
+The Authority, in cooperation and coordination with the concerned authorities, shall preserve the water sources in the State of Kuwait to ensure the safety of drinking water in accordance with the standards of the World Health Organization and the standards and requirements specified by the Executive Regulation of this Law.
+
+**(Article 89)**
+The Authority, in cooperation and coordination with the concerned authorities, shall prepare a national program for drinking water management in the country within five years from the date of issuance of this Law. The program shall include the responsibilities of the concerned state institutions, coordination mechanisms among them, and the determination of monitoring and surveillance programs for all stages of production, transport, and distribution, and plans for the protection of water sources used, such as seawater and groundwater. The Authority shall also update this program every seven years at most.
+
+**(Article 90)**
+The competent authorities are obligated to monitor and supervise the quality of all types of drinking water produced locally in desalination plants or from groundwater and bottling plants, as well as all types of water imported from outside the territory of the State, such as bottled drinking water, mineral water, and the like. The Executive Regulation of this Law shall specify the responsibilities of the competent authorities and the mechanisms for supervision, monitoring, auditing, and the conditions for production, transport, storage, inspection, handling, and marketing of water in the State.
+
+**(Article 91)**
+The Authority, in cooperation with the competent authorities, is obligated to publish all data and results related to the quality of drinking water for consumers. It shall also work on the continuity of related awareness programs.
+
+**(Article 92)**
+The competent authority is obligated to maintain the drinking water in the internal networks of governmental establishments and buildings such as schools, hospitals, authorities, and others, and to monitor it through documented periodic inspection. All private entities are also obligated to ensure the quality of water within their establishments. The Executive Regulation of this Law shall specify the conditions and standards to be observed to achieve this.
+
+**(Article 93)**
+The competent authority shall work to ensure the suitability of fresh water transport tanks (transport tankers) to ensure the preservation of the quality of drinking water transported to consumers. It shall also supervise the quality of water at its filling sites.
+
+**(Article 94)**
+Products related to drinking water, such as filters, purifiers, and coolers, may not be sold, traded, or marketed without obtaining the necessary approvals from the competent authority. The Executive Regulation of this Law shall specify the conditions to be observed in this regard.
+
+**(Article 95)**
+The means of transport, tanks, connections, and coolers for drinking water must meet the requirements and standards specified by the Executive Regulation of this Law to ensure the preservation of the suitability of drinking water for human consumption.
+The Authority, in coordination with the competent authorities, shall conduct periodic inspections of the tanks, connections, and coolers of drinking water to ensure their suitability. Owners of buildings and establishments shall be notified of the procedures to be followed. In case of non-compliance with these procedures, the necessary repairs may be carried out at their expense.
+
+**(Article 96)**
+Groundwater is a national resource that may not be exploited without prior permission from the competent authorities. The Authority shall supervise the exploitation of this water in a manner that ensures its protection from pollution and its sustainability. The Executive Regulation of this Law shall specify the competent authorities, the responsibility of each, and the related requirements and standards.
+
+**Chapter Three: Protection of the Coastal Environment from Pollution**
+
+**(Article 97)**
+Quarrying rocks and gravel, removing beach sand, reclaiming beaches, or building groins, breakwaters, and concrete, rock, or other walls is prohibited except after the approval of the Authority and the concerned authorities and compliance with all the requirements and standards specified by the Executive Regulation of this Law.
+
+**(Article 98)**
+The use of evaporation pits for the disposal of polluted produced water in oil fields is prohibited. The best methods for recycling or treating that water on-site must be chosen, while complying with the implementation of the requirements and standards contained in the Executive Regulation of this Law in this regard.
+
+**(Article 99)**
+When establishing water distillation plants, power generation plants, ports, harbors, or other coastal installations, environmental approvals from the Authority and the necessary permits from the competent authorities must be obtained, and the requirements and standards specified by the Executive Regulation of this Law must be complied with.
+
+***
+
+**Part Five**
+**Biodiversity**
+
+**Chapter One: Endangered Species**
+
+**(Article 100)**
+The hunting, killing, catching, collecting, harming, possessing, or transporting of wild terrestrial and marine species, whether alive or dead, or interfering with their young, eggs, nests, or habitats, is prohibited. The Executive Regulation of this Law shall specify the types and numbers of species permitted to be hunted in specific seasons and places. An exception is made for hunting for scientific purposes after the approval of the competent concerned authorities in coordination with the Authority.
+
+**(Article 101)**
+Trafficking in endangered species or any part thereof or their products, as listed in the CITES convention and other applicable international agreements, is prohibited. The Director General, in cooperation with the competent authorities, may by decision add other species.
+An exception is made for cases licensed by the competent authorities after the approval of the Authority for scientific or therapeutic purposes, or for zoos or exhibitions.
+
+**Chapter Two: Natural Reserves**
+
+**(Article 102)**
+Protected areas in the State shall be determined by a decision of the Supreme Council. The decision shall include their geographical boundaries, classification, regulation, and how they are managed and monitored in a way that ensures their protection from pollution and the preservation of marine or terrestrial biodiversity and natural heritage.
+
+**(Article 103)**
+Natural reserves, ecological enclosures, fenced areas for research and scientific purposes, and isolated border areas for protection purposes, and the like, are considered areas subject to the special environmental requirements and laws for natural reserves, which are specified by the Executive Regulation of this Law. All concerned state agencies are obligated to coordinate with the Authority in managing these areas.
+
+**(Article 104)**
+The competent authority determined by the Supreme Council shall manage the natural reserves in the territory of the State. The Supreme Council has the right to assign other authorities with the tasks of supervising some reserves or enclosures. In all cases, the Authority shall approve the policies, plans, programs, decisions, and regulations for the management of reserves. The Authority shall also supervise the continuous monitoring and surveillance operations to ensure the implementation of plans, decisions, and regulations for reserves, as well as the implementation of programs for environmental protection in natural reserves and the propagation of animals and plants, especially endangered species, and the reintroduction of extinct species.
+
+**(Article 105)**
+The introduction of any type of animal or plant that does not belong to the natural reserves or the performance of any act that would obstruct the efforts made to preserve the natural environment in general or to harm it or to interfere with or harm the terrestrial or marine organisms within the reserves or to damage their contents in any way is prohibited. This includes, in particular, the following:
+1.  Fishing for fish, shrimp, oysters, and other living organisms.
+2.  Collecting shells, coral, and other marine animals or harming them in any way.
+3.  Introducing domestic animals or hunting, killing, catching, chasing, or harming wild animals, or destroying their nests or burrows, or disturbing them in any way.
+4.  Grazing or introducing sheep, livestock, or other grazing animals.
+5.  Damaging or uprooting wild plants or starting fires for any reason.
+6.  The movement of cars and vehicles of all kinds off paved roads or designated tracks.
+7.  Sailing or anchoring ships and boats and the movement of amphibious or other similar vehicles in tidal zones and mudflats.
+8.  The takeoff and landing of aircraft of all kinds or flying at low altitudes over or near the reserve.
+9.  Construction works, the building of floaters or fixed drilling platforms, landfilling operations, or the construction of marinas, breakwaters, or others.
+10. Setting up camps or recreational facilities, whether permanent or temporary.
+11. Damaging or vandalizing the fences of reserves in any way.
+12. Prospecting for minerals, extracting them, or exploiting quarries or using explosives, uprooting coral or coastal rocks, or removing sand or carrying out landfilling operations or other works that lead to a change in the coastline or the topography of the reserve.
+13. Discharging, dumping, or landfilling liquid or solid polluting substances or hazardous materials, or using pesticides or poisons, or introducing them into the reserves, or dumping human waste or ship waste such as oils or others.
+14. Conducting blasting operations, firing weapons, or training on such.
+
+**(Article 106)**
+It is not permissible to excise any part of the approved reserves in the State except by a decision of the Supreme Council, after the Authority presents the reasons for doing so. In all cases, it is not permissible to excise any part of them that has biodiversity or natural features not available in other locations in the country.
+
+**(Article 107)**
+The competent authorities shall determine the grazing capacity in terrestrial areas based on the potential of the country's rangelands. The competent authorities are obligated to update the grazing sites every ten years at most. In all cases, grazing in all its forms is prohibited on islands and in natural reserves. The competent authorities are also obligated to provide the necessary monitoring capabilities for this. The Executive Regulation of this Law shall specify the competent authorities, the responsibilities of each, and the mechanism for issuing annual follow-up reports.
+
+**Chapter Three: Kuwait Bay**
+
+**(Article 108)**
+In Kuwait Bay, being an area of a special nature, it is prohibited to practice any environmentally harmful activity, especially the following activities:
+1.  Discharging sanitary or industrial wastewater or dumping any waste.
+2.  Carrying out landfilling operations with the products of deepening navigational channels.
+3.  Fishing for all marine organisms and establishing fishing weirs and fish farms.
+4.  Erecting chalets on its shores.
+By a decision of the Supreme Council, any other activities with a negative environmental impact on the Bay may be prohibited based on the Authority's recommendation in this regard. In all cases, the approval of the Supreme Council is required for projects established within the waters or on the shores of Kuwait Bay.
+
+**(Article 109)**
+The Supreme Council shall issue a national plan for managing the environmental situation in Kuwait Bay, including the requirements for monitoring, protection, and rehabilitation, and the approval of projects established within its scope, within three years from the date of issuance of this Law. The Council shall also update the plan every ten years. All state institutions are obligated to support this plan and adhere to what is stated therein.
+
+**(Article 110)**
+The approval of the Supreme Council is required for all projects related to the oil sector within the scope of Kuwait Bay. In all cases, all oil companies operating in this area, after the approval of the Supreme Council, are required to implement the highest available levels of protection for their operations to ensure the protection of the environmental situation of Kuwait Bay.
+
+***
+
+**Part Six**
+**Environmental Management**
+
+**Chapter One: Environmental Strategies**
+
+**(Article 111)**
+The competent authorities are obligated to develop clear work strategies within the scope of their work related to the environment, coupled with timelines, implementation mechanisms, and attached projects. The Supreme Council is responsible for determining the authorities concerned with preparing and adopting these strategies and for the annual follow-up of their implementation stages. The Authority shall also develop the general framework for preparing these strategies, supervise them, and ensure integration among them.
+
+**(Article 112)**
+The work on preparing these strategies shall be completed within five years from the date of issuance of this Law. The concerned authorities are obligated to provide the necessary financial credits for their success. In all cases, the duration of the strategies shall not be less than twenty years, and they shall be developed and updated every five years.
+
+**Chapter Two: Environment Police**
+
+**(Article 113)**
+A specialized military unit shall be established in the Ministry of Interior called the "Environment Police," responsible for monitoring the application of environmental laws and requirements in the sectors and fields determined by the Supreme Council. The unit shall also support the work of the judicial officers of the Authority.
+
+**(Article 114)**
+All laws and decisions regulating the work of the police force in the State shall apply to the Environment Police. The Ministry of Interior is responsible for managing the force and providing all the necessary capabilities for its work. It is also responsible for submitting an annual report to the Supreme Council on its work.
+
+**(Article 115)**
+The Minister of Interior is responsible for issuing a decision to organize the unit within six months from the date of issuance of this Law, provided that the unit begins its work within a maximum of two years from the date of issuance of this Law.
+
+**Chapter Three: Environmental Data Management**
+
+**(Article 116)**
+The Authority, in cooperation with the concerned authorities in the State, is obligated to develop a national plan for environmental data management, to be approved by the Supreme Council. All state agencies are obligated to share their data, whether environmental or related to environmental affairs, with the Authority periodically and directly. The Authority shall also publish and make the data available to the population in the State of Kuwait in a documented and transparent manner. The Executive Regulation of this Law shall specify the types of data, the mechanism for its exchange, and the responsibility of the authorities for it.
+
+**(Article 117)**
+All state institutions are obligated to establish monitoring and surveillance systems for their projects and work sites and to link them with the Authority. The Executive Regulation of this Law shall specify the types of projects and the mechanism for their linkage with the Authority.
+
+**Chapter Four: Environmental Crises and Disasters**
+
+**(Article 118)**
+The Authority, in cooperation with the competent authorities, is responsible for preparing emergency plans and plans for managing natural risks, including dust and sand storms, droughts, flash floods, earthquakes, fish and marine life mortality cases, and others, in addition to environmental risks that may result from human activities. In all cases, the competent authorities are responsible for managing these plans and providing the requirements for their success. The Authority is responsible for monitoring their performance and submitting the necessary reports on them to the Supreme Council.
+
+**Chapter Five: EPA Management Systems**
+
+**(Article 119)**
+Specialized departments for the environment shall be established in state institutions to ensure the follow-up and application of environmental laws within the scope of these institutions' work. The Supreme Council shall determine the authorities concerned with establishing these departments. The Authority shall also determine the scope of work of these departments and their organizational structure in coordination with the competent authorities in this regard.
+
+**(Article 120)**
+The Supreme Council shall, when necessary, appoint environmental monitors from the employees of the Authority or from outside it in state institutions to monitor their environmental performance. The Supreme Council shall determine the time period, specific tasks for their work, and their remuneration. State institutions must cooperate with the environmental monitors and provide them with all the data necessary to perform their work and accomplish their required tasks. The Executive Regulation of this Law shall specify the competencies of the environmental monitors and the conditions that must be met for their selection. In all cases, their qualification shall not be less than a university degree and their experience shall not be less than 10 years.
+
+**(Article 121)**
+All concerned state institutions, in cooperation with the Authority, are obligated to calculate the environmental loads within their scope of work, such as rangelands, fisheries, air quality, groundwater, and others. These institutions are also obligated to ensure the preservation of these loads in a way that achieves their environmental sustainability.
+
+**(Article 122)**
+All state institutions are obligated to use energy-saving systems in their new facilities. The Authority is responsible for including energy-saving requirements within its environmental requirements.
+
+**(Article 123)**
+The concerned state agencies shall, within two years from the date of issuance of this Law, determine the standard specifications for all energy-consuming devices, equipment, systems, machinery, and materials. The importation of any materials not conforming to these specifications is prohibited. The Executive Regulation shall specify the authorities concerned with determining the specifications, the mechanism for their issuance, and ensuring their application.
+
+**(Article 124)**
+The destruction, interference with, or trafficking in fixed or movable cultural heritage is prohibited. The establishment of civil or military facilities in archaeological sites of historical, tourist, and religious value is also prohibited.
+
+**Chapter Six: Environmental Media and Awareness**
+
+**(Article 125)**
+The State shall establish a museum of natural history for the State of Kuwait for the purpose of promoting environmental citizenship and preserving the natural history of the State in all its geological, geomorphological, biological, marine, and other forms, both existing, lost, and extinct, within a maximum of five years from the date of issuance of this Law. The Supreme Council shall determine the government authority concerned with establishing this museum and the authority concerned with its management.
+
+**(Article 126)**
+The publication and dissemination of false news or information about the environmental situation in the country in all its components, which would lead to panic or doubt about the quality of the environmental situation, is prohibited, unless it is based on scientific facts, in the interest of social security and the status of the State.
+
+**(Article 127)**
+All property owners in the State are obligated to improve the condition of their properties by renovating them and modifying their facades in a way that prevents visual pollution and improves the general appearance. The competent authority, in cooperation with the Authority, is obligated to set the detailed requirements in the Executive Regulation of this Law within one year from the date of issuance of this Law. The competent authority is also obligated to apply what is stated in the Executive Regulation in this regard within five years from the date of its issuance.
+
+***
+
+**Part Seven**
+**Penalties**
+
+**(Article 128)**
+Anyone who violates the provisions of Articles (16, 17, 18, 126) of this Law shall be punished by a fine of not less than five thousand dinars and not more than fifty thousand dinars.
+
+**(Article 129)**
+Anyone who violates the provisions of Articles (19, 20, 21, 23, 43) of this Law shall be punished by imprisonment for a term not exceeding three years and a fine of not less than ten thousand dinars and not more than fifty thousand dinars, or by one of these two penalties.
+
+**(Article 130)**
+Anyone who violates the provision of Article (25) of this Law shall be punished by the death penalty or life imprisonment and a fine of not less than five hundred thousand dinars and not more than one million dinars.
+The penalty shall be life imprisonment and a fine of not less than two hundred and fifty thousand dinars and not more than five hundred thousand dinars for anyone who violates the provision of Article (25, first paragraph) of this Law.
+Anyone who violates the provision of Article (25, second paragraph) shall be obligated to re-export the nuclear waste subject of the crime at their own expense.
+
+**(Article 131)**
+Anyone who violates the provisions of Articles (27, 28, 29, 30) of this Law shall be punished by imprisonment for a term of not less than three years and not more than ten years and a fine of not less than twenty thousand dinars and not more than two hundred thousand dinars. Anyone who violates the provision of Article (27) shall be obligated to re-export the hazardous waste subject of the crime at their own expense.
+
+**(Article 132)**
+Anyone who violates the provisions of Articles (31, 35) of this Law shall be punished by imprisonment for a term of not less than one year and not more than three years and a fine of not less than ten thousand dinars and not more than fifty thousand dinars, or by one of these two penalties.
+
+**(Article 133)**
+Anyone who violates the provision of Article (33) of this Law shall be punished by a fine of not less than fifty dinars and not more than five hundred dinars.
+
+**(Article 134)**
+Anyone who violates the provisions of Articles (40, 127) of this Law shall be punished by a fine of not less than two hundred and fifty dinars and not more than five thousand dinars, with the obligation for the violator to remove the effects of the violation within the period specified by the Authority. If they fail to do so, the Authority shall carry out the removal at their own expense.
+
+**(Article 135)**
+Anyone who violates the provision of Article (41) of this Law shall be punished by a fine of not less than two hundred and fifty dinars and not more than five thousand dinars.
+
+**(Article 136)**
+Anyone who violates the provision of Article (52, first paragraph) of this Law shall be punished by a fine of not less than thirty thousand dinars and not more than one hundred and fifty thousand dinars. The penalty shall be a fine of not less than fifty thousand dinars and not more than two hundred thousand dinars for anyone who violates the provision of Article (52, second paragraph).
+
+**(Article 137)**
+Anyone who violates the provision of Article (54) of this Law shall be punished by a fine of not less than five hundred dinars and not more than five thousand dinars, with confiscation of the devices and equipment used.
+
+**(Article 138)**
+Anyone who violates the provision of Article (56, first paragraph) of this Law shall be punished by a fine of not less than fifty thousand dinars and not more than two hundred thousand dinars.
+Anyone who smokes in violation of the provision of Article (56, second paragraph) shall be punished by a fine of not less than fifty dinars and not more than one hundred dinars. The manager responsible for the establishment that violates the provision of the second paragraph of the aforementioned article shall be punished by a fine of not less than one thousand dinars and not more than five thousand dinars.
+
+**(Article 139)**
+Anyone who violates the provisions of Articles (58, 59, 60, 62) of this Law shall be punished by imprisonment for a term not exceeding one year and a fine of not less than ten thousand dinars and not more than fifty thousand dinars, or by one of these two penalties. In all cases, the court shall order the confiscation of the materials, equipment, devices, and products subject of the crime.
+
+**(Article 140)**
+Anyone who violates the provisions of Articles (63, 64) of this Law shall be punished by imprisonment for a term not exceeding six months and a fine of not less than one thousand dinars and not more than five thousand dinars, or by one of these two penalties.
+
+**(Article 141)**
+Anyone who intentionally causes pollution in the marine areas stipulated in Article (68) of this Law in violation of the provisions of Articles (72, 73, 74, 75, 76) shall be punished by imprisonment for a term not exceeding six months and a fine of not less than fifty thousand dinars and not more than two hundred thousand dinars, or by one of these two penalties.
+
+**(Article 142)**
+Anyone who unintentionally causes any pollution in the marine areas stipulated in Article (68) of this Law in violation of the provisions of Articles (72, 73, 74, 75, 76) shall be punished by a fine of not less than thirty thousand dinars and not more than one hundred and fifty thousand dinars.
+
+**(Article 143)**
+Anyone who commits one of the following acts shall be punished by a fine of not less than ten thousand dinars and not more than fifty thousand dinars:
+1.  Failure to equip the vessel with pollution reduction equipment in violation of the provisions of Article (70) of this Law.
+2.  Failure to take all adequate precautions to prevent or reduce the effects of pollution before and after the occurrence of damage to the vessel or one of its devices.
+3.  Failure to immediately report any leak of oil or any other substance to the competent administrative authority, in violation of Article (80) of this Law.
+
+**(Article 144)**
+Without prejudice to the provisions of Articles (160, 161) of this Law, the Competent Minister or his delegate may, upon the request of the concerned parties, accept a settlement in cases of unintentional pollution as follows:
+1.  Payment of an amount not less than fifty thousand dinars in the event of a violation of the provisions of Articles (72, 73, 74, 75, 76).
+2.  Payment of the cost of pollution control measures as determined by the competent technical committee stipulated in Article (81, item 7) of this Law.
+The acceptance of the settlement shall result in the extinguishment of the criminal case against the accused.
+
+**(Article 145)**
+Anyone who commits one of the following acts shall be punished by a fine of not less than ten thousand dinars and not more than forty thousand dinars:
+1.  Failure of the vessel to keep an oil record book or a cargo record book for other harmful substances referred to in Articles (78, 79) of this Law, or failure to record the required data in it, or recording incorrect data with knowledge thereof.
+2.  Failure of the vessel to carry the international certificates related to the prevention of oil pollution as prescribed by international conventions and those approved by the Competent Minister for vessels flying the flag of a state not party to the prescribed international conventions.
+
+**(Article 146)**
+The owner of a vessel who abandons the vessel or installation in the prohibited marine areas without obtaining permission from the competent administration shall be punished by imprisonment for a term of not less than two months and not more than two years and a fine of not less than ten thousand dinars and not more than one hundred thousand dinars, or by one of these two penalties, with the obligation to pay the costs of removing the effects of the violation as determined by the competent committee stipulated in Article (81, item 7) of this Law.
+
+**(Article 147)**
+Anyone who violates the provision of Article (95, first paragraph) of this Law shall be punished by a fine of not less than one hundred dinars and not more than one thousand dinars.
+
+**(Article 148)**
+Anyone who violates the provision of Article (97) of this Law shall be punished by imprisonment for a term not exceeding one year and a fine of not less than two thousand dinars and not more than twenty thousand dinars, or by one of these two penalties.
+
+**(Article 149)**
+Anyone who violates the provision of the first paragraph of Article (100) of this Law shall be punished by imprisonment for a term not exceeding one year and a fine of not less than five hundred dinars and not more than five thousand dinars, or by one of these two penalties, with confiscation of the seized species and the tools used.
+Anyone who violates the provision of the third paragraph of Article (107) and Article (108) of this Law shall be punished by imprisonment for a term of not less than one year and not more than three years and a fine of not less than five thousand dinars and not more than fifty thousand dinars, or by one of these two penalties.
+
+**(Article 150)**
+Anyone who violates the provision of Article (105) of this Law shall be punished by imprisonment for a term not exceeding one year and a fine of not less than five hundred dinars and not more than five thousand dinars, or by one of these two penalties.
+
+**(Article 151)**
+Anyone who violates the provisions of Articles (101, 124) of this Law shall be punished by imprisonment for a term of not less than one year and not more than three years and a fine of not less than five thousand dinars and not more than fifty thousand dinars, or by one of these two penalties. In all cases, the species and archaeological artifacts subject of the crime shall be confiscated.
+
+**(Article 152)**
+Anyone who violates the provision of Article (173) of this Law shall be punished by imprisonment for a term not exceeding one year and a fine of not less than one thousand dinars and not more than five thousand dinars, or by one of these two penalties.
+
+**(Article 153)**
+The penalties stipulated in this Law shall not apply to cases of pollution resulting from:
+a. Securing the safety of lives, means of transport, or goods.
+b. Discharge resulting from damage to the vessel, aircraft, or their equipment, provided that it was not done by the person responsible for either of them with the intent to disable or damage them, or from negligence. It is required in all cases that the person responsible for either of them has taken, before and after the occurrence of the damage, all adequate precautions to prevent or reduce the effects of pollution and immediately notifies the competent administration.
+c. A sudden break in a pipeline carrying oil or oily mixture during operations or during drilling, exploration, or well testing, without negligence in monitoring or maintaining the pipelines, provided that adequate precautions are taken to monitor the operation of the pipelines and control the pollution and its source immediately upon its occurrence.
+All this is without prejudice to the right of the injured party to recourse against the person responsible for the costs of removing the effects resulting from the pollution and compensation for the losses and damages resulting therefrom.
+
+**(Article 154)**
+In all cases, if the person responsible for the pollution reoffends within five years from the date of the initial violation and commits any violation of the provisions of the first chapter of the fourth part of this Law, the penalty shall be doubled, and the rules of settlement stipulated in this chapter shall not apply.
+
+**(Article 155)**
+Any person tasked with monitoring the implementation of the provisions of this Law and its implementing regulations and decisions shall be punished by imprisonment for a term not exceeding one year if the violation of those provisions occurs as a result of their contribution with the violator.
+
+**(Article 156)**
+Anyone who commits one of the acts violating the provisions of this Law shall be punished by imprisonment for a term of not less than one year and not more than seven years if it results in permanent disability to a person. The penalty shall be imprisonment for a term of not less than three years and not more than ten years if the violation results in such disability to three or more persons. If this act results in the death of a person, the penalty shall be imprisonment for a term of not less than five years and not more than fifteen years. It shall be life imprisonment if the act results in the death of three or more persons.
+
+**(Article 157)**
+The court may, in the case of a conviction for a violation of any of the provisions of this Law, order either the publication of the full judgment or a summary of it in the newspapers it specifies or through audible and visual communication media, or the posting of copies of the judgment or a summary of it in the places it designates for a period not exceeding one month, at the expense of the convicted person.
+The removal of these copies, their concealment in any way, or their destruction shall be punished by imprisonment for a term not exceeding three months and a fine not exceeding one thousand dinars, or by one of these two penalties. If the perpetrator is one of the persons responsible for managing the work or one of its workers, they shall be punished by imprisonment for a term not exceeding six months.
+
+***
+
+**Part Eight**
+**Civil Liability and Compensation for Environmental Damage**
+
+**(Article 158)**
+The direct causer of pollution is responsible for the damage resulting from the pollution, even if not at fault. The indirect causer is only liable for fault.
+
+**(Article 159)**
+If there are multiple persons responsible for a pollution incident, the liability shall be joint and several.
+
+**(Article 160)**
+Without prejudice to any other law, the person civilly responsible for pollution is obligated to compensate for:
+a. The damage inflicted on natural resources.
+b. Harm to the environment or reduction of its utility.
+c. The costs of cleanup, pollution removal or mitigation, and environmental rehabilitation.
+d. Compensation for the disruption of public facilities.
+
+**(Article 161)**
+Nothing in this Law shall prevent any natural or legal person from claiming compensation from the person responsible for the pollution for the damages they have suffered as a result of the pollution, whether linked by a contract or not.
+
+**(Article 162)**
+Both the producer and the distributor are obligated to ensure the safety of a product which, by its nature, its contents, or its method of use, may expose the lives of persons or property to danger.
+Liability for products exists whether the producer or distributor is linked to the injured party by a contract or not.
+
+**(Article 163)**
+If there are multiple sources of damage and the injured party is unable to attribute the damage to its perpetrator, the injured party may claim full compensation for the damage they have suffered from one of the causers. The defendant may deny liability by proving that the activity they practice did not cause the damage and that the damage occurred due to an external cause in which they had no hand.
+
+**(Article 164)**
+Whoever occupies a place for residence or for other purposes shall be liable to the injured party for compensation for any damage that occurs to them from noise, odors, or other things emanating from it, unless it is proven that the damage occurred due to an external cause in which they had no hand.
+
+**(Article 165)**
+Anyone threatened by the danger of pollution may request the court to order the owner of the hazardous activity establishment or the owner of the waste site to provide a report or data on the materials they produce or deal with.
+
+**(Article 166)**
+The person responsible for pollution shall be exempt from liability if it is proven that the damage was due to:
+a. Force majeure.
+b. It occurred entirely due to an intentional act of a person not linked to the owner or operator by a contractual or subordinate relationship.
+c. It occurred entirely due to negligence or error caused by the competent administrative authority.
+The application of the preceding paragraph is conditional on the person responsible for the pollution having informed the competent administration of the incident and its causes if they knew or should have known about it, and having taken all necessary precautions to prevent the incident or reduce the effects of the pollution.
+
+**(Article 167)**
+Claims arising from pollution incidents shall be extinguished by the lapse of three years from the day the injured party became aware of the damage and who is responsible for it, and from the day the damages are finalized with regard to the claim for compensation for damages to natural resources, or from the day the cleanup procedures, removal of polluting materials, and environmental rehabilitation are completed with regard to the claim for those expenses.
+
+***
+
+**Part Nine**
+**Final Provisions**
+
+**(Article 168)**
+The Director General shall designate from the Authority or other concerned administrative authorities, in agreement with them, the necessary employees to carry out the inspection work required for the implementation of this Law and its regulations and decisions, except for the first chapter of the fourth part thereof, and to establish proof of crimes committed in violation of its provisions. These employees shall have the capacity of judicial police. For this purpose, they shall have the right to enter all places where these crimes occur, write reports, take samples, conduct necessary measurements and studies, and others, to determine the extent of environmental pollution and its sources, and to ensure the application of regulations and requirements for the protection of workers and the environment, examine licenses, records, and any other documents, obtain a copy of them, and request the necessary data from business owners or their representatives in accordance with what is specified by the Executive Regulation of this Law, and seize everything they find in violation of the provisions of this Law. They may also seek the assistance of the police if the situation so requires.
+
+**(Article 169)**
+The employees tasked with implementing the provisions of this Law and its implementing regulations and decisions referred to in the preceding article of this Law shall take an oath before the Director that they will perform their work with honesty and integrity and that they will not disclose any work secret they come across by virtue of their position, even after leaving their work.
+
+**(Article 170)**
+The Director or his delegate may request the data, information, and documents he deems necessary from any public or private entity practicing an activity that may lead to environmental pollution.
+The Authority may, in the place it deems appropriate, establish centers and monitoring stations as required for environmental protection, in coordination with the concerned authorities. It may also establish laboratories or control labs competent with the final opinion on laboratory results related to environmental pollution.
+
+**(Article 171)**
+The Public Prosecution shall investigate, dispose of, and prosecute all crimes arising from the application of the provisions of this Law and its implementing regulations and decisions.
+
+**(Article 172)**
+Any citizen or association concerned with environmental protection may resort to the competent administrative and judicial bodies for the purpose of implementing the provisions of the Environmental Law and what is stated in the Executive Regulation of this Law.
+
+**(Article 173)**
+Every public official or other person who knows or could have known, during or because of the performance of their work, of the existence of a violation of the provisions of this Law or its Executive Regulation that results in environmental damage, must report it immediately to the Authority, the Public Prosecution, or the police.
+
+**(Article 174)**
+The Director General or his delegate may grant a violator of the requirements and standards stipulated in this Law or its Executive Regulation, except for the first chapter of the fourth part, a grace period to correct their violation immediately. If they fail to do so within thirty days, or if it becomes clear during that time that the continuation of the violation would cause serious damage to the environment, the Authority, in agreement with the concerned authorities, may take the necessary legal measures to stop the violating activity, close the establishment, or revoke the license, without prejudice to the penalties provided for in this Law and compensation for damages arising from these violations.
+
+**(Article 175)**
+Law No. 21 of 1995 establishing the Environment Public Authority, as amended in some of its provisions by Law No. 16 of 1996, is hereby repealed. Law No. 12 of 1964 concerning the prevention of pollution of navigable waters by oil is also repealed. Any provision that contradicts the provisions of this Law is also repealed.
+
+**(Article 176)**
+The application of the penalties stipulated in this Law shall not prejudice the imposition of any more severe penalty stipulated in any other law.
+
+**(Article 177)**
+The application of the provisions of this Law shall not prejudice the provisions of the aforementioned Law No. 9 of 1973 and Law No. 131 of 1977. Nor shall it prejudice the provisions contained in any other law that regulates environmental protection in specific fields. However, the authorities that apply these laws, or any other authority that has the power to issue regulations, systems, and requirements related to environmental protection, must obtain the approval of the Authority before issuing these regulations, systems, and requirements.
+
+**(Article 178)**
+The Authority is not subject to the prior supervision in accordance with the provisions of Law No. 30 of 1964 establishing the State Audit Bureau, nor is it subject to the provisions of Law No. 37 of 1964 concerning public tenders.
+
+**(Article 179)**
+The Competent Minister shall issue the decisions, regulations, and systems necessary for the implementation of the provisions of the first chapter of the fourth part of this Law. The Director General, after the approval of the Board of Directors, shall issue the regulations and decisions necessary for the implementation of this Law, except for the first chapter of the fourth part thereof, within one year from the date it comes into force.
+
+**(Article 180)**
+The regulations and decisions in force on the date this Law comes into effect shall continue to be applied in matters that do not contradict its provisions until the issuance of its implementing regulations and decisions.
+
+**(Article 181)**
+The Prime Minister and the ministers, each within his jurisdiction, shall implement this Law, and it shall come into force after the expiration of three months from the date of its publication in the Official Gazette.
+
+**Amir of Kuwait**
+**Sabah Al-Ahmad Al-Jaber Al-Sabah**
+
+Issued at Seif Palace on: 1 Ramadan 1435 H
+Corresponding to: June 29, 2014 AD
+
+---
+
+**Explanatory Memorandum**
+**For Law No. (42) of 2014**
+**Concerning the Issuance of the Environmental Protection Law**
+
+Despite the efforts made to protect the environment and preserve its natural resources in the State of Kuwait, there is an ambition to continuously develop and improve performance for the optimal use and conservation of resources, especially after the damage they sustained as a result of the brutal aggression from military operations and other factors. To limit environmental pollution, conserve various natural resources, address different environmental problems, achieve continuous development, and integrate the environmental element into organizational structures, this law concerning environmental protection has been prepared. It addresses general provisions in its first chapter. The law has adopted the definition of environmental protection as the measures and policies...
+
+The Committee approved the observations made regarding the preliminary chapter on some technical terms, so it approved the addition of several terms to the text of the first article as follows: Indoor Environment, Work Environment, Ozone Layer, Ground-Level Ozone, Ozone-Depleting Substances, Greenhouse Gases, Climate Change, Integrated Coastal Zone Management, Natural Resources, Biodiversity, The Competent Minister, Environmental Inspection, Sewage, Sewage Treatment Plants, Sludge, Industrial Effluent, Solid Municipal Waste, Landfills, Hazardous Waste, Medical Waste, Nuclear Waste, Radioactivity Level, Hazardous Substances.
+
+In the second chapter, it addressed the scope of application and objectives of the law, while the third chapter outlined how to manage environmental affairs by establishing a Supreme Council for the Environment chaired by the Prime Minister or one of his deputies, with the membership of a number of ministers chosen by the Chairman of the Supreme Council, in addition to establishing a public authority concerned with environmental affairs with an independent legal personality called the (Environment Public Authority), as well as establishing an Environment Protection Fund. In the first part of the law, it addressed development and the environment, explaining in its first chapter the environmental impact of development projects, and in the second chapter, it spoke about the work environment and the indoor environment.
+
+The second part dealt with the protection of the terrestrial environment from pollution, and the third part spoke about the protection of the external air from pollution through the Environment Public Authority carrying out continuous monitoring and evaluation operations and preparing research and studies to preserve the quality of the external air from the harmful effects resulting from the emission of polluting gases.
+
+The fourth part dealt with the protection of the marine and coastal environment from pollution by imposing penalties on anyone who commits or causes any act that pollutes the marine environment with harmful substances, with the exception of warships and means of transport in their service.
+
+The fifth part spoke about biodiversity, as Article (100) stipulated a ban on hunting, killing, catching, collecting, harming, possessing, or transporting endangered wild terrestrial and marine species, whether alive or dead, or interfering with their young, eggs, or nests. Article (101) stipulated a ban on trafficking in endangered species or any part thereof. In the second chapter of this part, it spoke about natural reserves.
+
+The sixth part dealt with environmental management, and the seventh part dealt with penalties for those who violate the application of this law.
+
+The eighth part outlined civil liability and compensation for environmental damage, while the ninth part contained final provisions for this law.
+

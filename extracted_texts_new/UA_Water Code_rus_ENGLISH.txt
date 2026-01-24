@@ -1,0 +1,1252 @@
+****
+[The source text for translation is missing. Please provide the text from `UA_Water Code_rus.txt` to proceed.]
+
+****
+Water Code of Ukraine of June 6, 1995, No. 213/95-VR (as amended and supplemented as of 10.10.2024)
+
+For amendments, see: Law of Ukraine of 20.03.23 No. 2973-IX (see dates of entry into force); Law of Ukraine of 16.07.24 No. 3855-IX (see dates of entry into force)
+
+On the entry into force of this Code, see the Resolution of the Verkhovna Rada of Ukraine of June 6, 1995, No. 214/95-VR
+
+All waters (water bodies) on the territory of Ukraine are the national heritage of the Ukrainian people, one of the natural foundations of its economic development and social well-being. Water resources ensure the existence of people, fauna, and flora and are limited and vulnerable natural objects. In the context of increasing anthropogenic pressures on the natural environment, the development of social production, and the growth of material needs, it is necessary to develop and comply with special rules for the use of water resources, their rational use, and environmentally-oriented protection. The Water Code, in conjunction with organizational, legal, economic, and educational measures, will contribute to the formation of a water-ecological legal order and ensure the ecological safety of the population of Ukraine, as well as the more effective, scientifically-based use of waters and their protection from pollution, contamination, and depletion.
+
+**SECTION I. GENERAL PROVISIONS**
+
+**Chapter 1. BASIC PROVISIONS**
+
+**Article 1. Key Concepts**
+The following terms are used in this Code:
+
+**sea port water area (port water area)** - a part of a water body (or bodies) defined by boundaries, excluding the shipping channel, intended for the safe approach, maneuvering, mooring, and departure of vessels;
+
+**catchment basin** - the part of the earth's surface and soil strata from which water drains into a watercourse or body of water;
+
+**basin principle of management** - comprehensive (integrated) management of water resources within a river basin district;
+
+**reach** - a section of a river located above or below a water-retaining structure (dam);
+
+**swamp** - an excessively moist land plot with a stagnant water regime and specific vegetation cover;
+
+**water use** - the process of abstracting water for use in production to obtain products and for the domestic and drinking needs of the population, as well as without its abstraction for the needs of hydropower, aquaculture, water and air transport, and other needs;
+
+**drainage water** - water that has filtered from a certain territory and is diverted by means of a drainage system to lower the groundwater level;
+
+**return water** - water returned by means of technical structures and facilities from the economic part of the water cycle to its natural parts in the form of wastewater, mine water, quarry water, or drainage water;
+
+**bilge water** - water with admixtures (mainly petroleum products), collected in the wells of a vessel's machinery spaces;
+
+**wastewater** - water generated in the course of domestic and industrial activities (excluding mine, quarry, and drainage water), as well as water drained from a built-up area where it formed as a result of atmospheric precipitation;
+
+**produced water** - water that comes to the surface along with oil and gas during their extraction;
+
+**waters** - all waters (surface, ground, marine) that are part of the natural links of the water cycle;
+
+**groundwater** - waters located below the earth's surface in the rock strata of the upper part of the earth's crust in all physical states;
+
+**surface waters** - waters of various water bodies located on the earth's surface;
+
+**water body** - a natural or artificially created element of the environment in which waters are concentrated (sea, liman, river, stream, lake, reservoir, pond, canal (except for canals in irrigation and drainage systems), as well as an aquifer);
+
+**water resources** - the volumes of surface, ground, and marine waters of a specific territory;
+
+**water availability** - a characteristic of the volume of river flow over a certain period of time relative to its long-term average value;
+
+**water user** - a natural or legal person engaged in water use;
+
+**water management section** - a part of a river basin for which water management balances are developed, limits for water abstraction from a water body are set, and other parameters of water body use (water use) are established;
+
+**water management zoning** - the division of hydrographic units into water management sections, carried out for the development of water management balances;
+
+**water management balance** - the ratio between available water resources for use in a certain territory and the demand for them in a certain region over a specific period of time;
+
+**water management systems** - a complex of interconnected water bodies and hydraulic structures designed for managing water resources;
+
+**water intake** - a structure or device for abstracting water from a water body;
+
+**body of standing water** - a surface water body with no outflow or with slow outflow;
+
+**water use** - the use of waters (water bodies) to meet the needs of the population, industry, agriculture, transport, and other sectors of the economy, including the right to abstract water, discharge wastewater, and other types of use of waters (water bodies);
+
+**aquifer** - a homogeneous layer of rock strata where waters are permanently present;
+
+**reservoir** - an artificial body of water with a capacity of more than 1 million cubic meters, built to create a water supply and regulate its flow;
+
+**multipurpose reservoir** - a reservoir that, according to its passport, is used for two or more purposes (excluding recreational);
+
+**hydrographic zoning** - the division of the territory of Ukraine into hydrographic units, which is carried out for the development and implementation of river basin management plans;
+
+**hydraulic structures of sea ports (hydraulic structures)** - engineering and technical structures (port water area, berths, piers, other types of mooring structures, moles, dams, breakwaters, other shore protection structures, underwater structures of artificial and natural origin, including channels, operational areas of berths, anchorages) located within the territory and water area of a sea port and intended to ensure the safety of navigation, maneuvering, and mooring of vessels;
+
+**maximum permissible concentration (MPC)** of a substance in water - an established concentration level of a substance in water, above which the water is considered unsuitable for specific purposes of water use;
+
+**maximum permissible discharge (MPD)** of a substance - the mass of a substance in return water that is maximally permissible for discharge under the established regime of a given point of a water body per unit of time;
+
+**eutrophication** - an increase in the content of biogenic substances in a body of water, causing a bloom of algae, a decrease in water transparency and dissolved oxygen content in the deep layers due to the decomposition of organic matter from dead plants and animals, as well as mass death of benthic organisms;
+
+**environmental flow** - the minimum calculated water discharge released from a reservoir (pond) into a river in accordance with the operating regimes established for these reservoirs (ponds), taking into account the water availability forecast and environmental requirements;
+
+**ecological status of a surface water body** - an integrated indicator of the quality of a surface water body, determined by biological, hydromorphological, chemical, and physicochemical parameters;
+
+**water abstraction** - the removal of water from a water body for use with or without technical devices;
+
+**water pollution** - the introduction of pollutants into water bodies;
+
+**polluting substance (pollutant)** - a substance introduced into a water body as a result of human economic activity;
+
+**enclosed water body** - a natural or artificially created body of water not connected to other water bodies (except aquifers);
+
+**floodplain lands** - a coastal territory that may be flooded or inundated during a flood (freshet);
+
+**contamination of waters** - the introduction of foreign objects and materials into water bodies that have a harmful effect on the state of the waters;
+
+**sanitary protection zone** - a territory and water area where a special sanitary-epidemiological regime is introduced to prevent the deterioration of water quality of sources of centralized domestic and drinking water supply, as well as to ensure the protection of water supply facilities;
+
+**heavily modified surface water body** - a surface water body or part thereof whose natural characteristics have undergone significant changes as a result of human activity;
+
+**quantitative status of a groundwater body** - an indicator of the impact of water abstraction on a groundwater body;
+
+**liman (estuary)** - the inundated lower part of a river valley or ravine by sea waters;
+
+**limit on water use** - the maximum volume of water use established by a permit for special water use;
+
+**limit on water abstraction** - the maximum volume of water abstraction from water bodies, which is established in a permit for special water use;
+
+**limit on pollutant discharge** - the maximum volume of pollutant discharge into surface water bodies, which is established in a permit for special water use;
+
+**low water period** - a period (phase) of the hydrological regime of a water body during which a decrease in its water availability is observed, resulting in a deterioration of the conditions for meeting water resource needs;
+
+**surface water body** - a surface water object or part thereof;
+
+**groundwater body** - a groundwater object or part thereof;
+
+**low-flow period (of a certain period)** - a period of the annual cycle during which low water availability is observed;
+
+**places of mass recreation of the population on water bodies** - water bodies (their parts) and adjacent land plots, islands, and beach zones, designated by local self-government bodies in the manner prescribed by law for the organized recreation of the population;
+
+**water monitoring** - a system of observations, collection, processing, storage, and analysis of information on the state of water bodies, forecasting its changes, and developing scientifically-based recommendations for making relevant decisions;
+
+**lake** - a natural depression on land filled with fresh or salt water;
+
+**redistribution of water resources** - the supply (transfer) of water from one river basin to another or within the same river basin to meet the water resource needs of water users in low-water regions;
+
+**transitional waters** - surface waters within the estuarine section of a river, as well as limans, where fresh and salt waters mix;
+
+**river basin management plan** - a document containing an analysis and a set of measures to achieve the objectives defined for each river basin district within established deadlines;
+
+**flood risk management plan** - a document containing an analysis of previous floods and a set of measures aimed at prevention, protection, preparation, forecasting, and an early warning system for specific territories within a river basin district;
+
+**beach zone** - the part of the coastal protection strip adjacent to the water's edge along seas, around sea bays and limans, with a regime of limited economic activity;
+
+**coastal protection strip** - a part of a water protection zone of a corresponding width along a river, sea, or around bodies of water, where a stricter regime of economic activity is established than on the rest of the territory of the water protection zone;
+
+**coastal waters** - waters between the coastline and a line in the territorial sea at a distance of one nautical mile from the baseline used to determine the width of the territorial sea;
+
+**river basin district** - the main management unit in the field of water use, protection, and restoration of water resources, consisting of a river basin (or adjacent river basins) and the coastal and groundwater associated with them;
+
+**aquaculture** - the artificial breeding and reproduction of fish and other aquatic living resources;
+
+**fishery water body** - a water body (or part thereof) used for fishery purposes;
+
+**river basin (catchment)** - a part of the earth's surface and soil strata from which water flows sequentially through connected bodies of water and watercourses into the sea, a liman, or a lake;
+
+**pond** - an artificially created body of water with a capacity not exceeding 1 million cubic meters;
+
+**sub-basin** - a part of a river basin from which water flows through connected bodies of water and watercourses into the main river of the basin or a downstream water management section;
+
+**scheme for water use and protection and restoration of water resources** - a pre-project document that defines the main water management and other measures to be implemented to meet the prospective water needs of the population and economic sectors, as well as for the protection of waters or prevention of their harmful effects;
+
+**technological reservoir** - an artificially created reservoir for a special technological purpose, determined by a technical design and/or passport, which is filled artificially using hydraulic structures and devices;
+
+**water's edge** - the boundary of water on the bank of a water body (shoreline);
+
+**chemical status of a surface water body** - an indicator of the quality of a surface water body, determined by specific groups of pollutants;
+
+**chemical status of a groundwater body** - an indicator of the quality of a groundwater body, determined by specific groups of pollutants;
+
+**artificial surface water body** - a surface water body or part thereof created as a result of human activity;
+
+**water quality** - a characteristic of the composition and properties of water that determines its suitability for specific uses.
+
+**Article 2. Water Legislation of Ukraine**
+The task of water legislation is: to regulate legal relations in order to ensure the conservation, scientifically-based, rational use of waters for the needs of the population and economic sectors, the restoration of water resources, the protection of waters from pollution, contamination, and depletion, the prevention of the harmful effects of waters and the elimination of their consequences, the improvement of the state of water bodies, as well as the protection of the rights of enterprises, institutions, organizations, and citizens to water use.
+
+Water relations in Ukraine are regulated by this Code, the Law of Ukraine "On the Protection of the Natural Environment," and other legislative acts.
+
+Relations concerning the adoption, entry into force, administrative appeal, implementation, and termination of administrative acts in the sphere of water relations are regulated by the Law of Ukraine "On Administrative Procedure," taking into account the specifics defined by this Code.
+
+Land, mining, and forest relations, as well as relations concerning the use and protection of fauna and flora, territories and objects of the nature reserve fund, atmospheric air, the exclusive (maritime) economic zone, and the continental shelf of Ukraine that arise during the use of water bodies, are regulated by the relevant legislation of Ukraine.
+
+**Article 3. Water Fund of Ukraine**
+All waters (water bodies) on the territory of Ukraine constitute its water fund.
+
+The water fund of Ukraine includes:
+1) surface waters:
+natural bodies of water (lakes);
+watercourses (rivers, streams);
+artificial bodies of water (reservoirs, ponds) and canals, except for canals in irrigation and drainage systems;
+other water bodies;
+2) groundwater and springs;
+3) internal sea waters and the territorial sea.
+
+**Article 4. Lands of the Water Fund**
+The lands of the water fund include lands occupied by:
+Seas, rivers, lakes, reservoirs, other water bodies, swamps, as well as islands not occupied by forests;
+coastal protection strips along seas, rivers, and around bodies of water, except for lands occupied by forests;
+hydraulic, other water management structures and canals, as well as lands allocated for rights-of-way for them;
+shoreline strips of waterways.
+
+**Article 5. Water Bodies of National and Local Significance**
+Water bodies of national significance include:
+1) internal sea waters, the territorial sea, as well as the water areas of sea ports;
+2) groundwater that is a source of centralized water supply;
+3) surface waters (lakes, reservoirs, rivers, canals, except for canals in irrigation and drainage systems) that are located and used on the territory of more than one oblast, as well as their tributaries of all orders;
+4) water bodies within the territories of the nature reserve fund of national significance, as well as those classified as therapeutic.
+
+Water bodies of local significance include:
+1) surface waters that are located and used within one oblast and that are not classified as water bodies of national significance;
+2) groundwater that cannot be a source of centralized water supply.
+
+**Article 6. Ownership of Waters (Water Bodies)**
+Waters (water bodies) are the exclusive property of the Ukrainian people and are granted only for use.
+
+The Ukrainian people exercise the right of ownership of waters (water bodies) through the Verkhovna Rada of Ukraine, the Verkhovna Rada of the Autonomous Republic of Crimea, and local councils.
+
+Certain powers regarding the disposal of waters (water bodies) may be granted to the relevant state executive authorities and the Council of Ministers of the Autonomous Republic of Crimea.
+
+**Article 7. Competence of the Verkhovna Rada of Ukraine in the Field of Regulation of Water Relations**
+The competence of the Verkhovna Rada of Ukraine in the field of regulation of water relations includes:
+1) legislative regulation of water relations and determination of the main directions of state policy in this field;
+2) disposal of the water fund of Ukraine;
+3) approval of national and interstate programs for the use and protection of waters and the restoration of water resources;
+4) deleted
+5) deleted
+6) deleted
+7) resolution of other issues in the field of legislative regulation of water relations in accordance with the Constitution of Ukraine.
+
+**Article 8. Competence of the Verkhovna Rada of the Autonomous Republic of Crimea in the Field of Regulation of Water Relations**
+The competence of the Verkhovna Rada of the Autonomous Republic of Crimea in the field of regulation of water relations on the territory of the Autonomous Republic of Crimea includes:
+1) approval of republican (Autonomous Republic of Crimea) programs for the use and protection of waters and the restoration of water resources;
+2) coordination of the activities of district and city (cities of republican significance of the Autonomous Republic of Crimea) councils on the use and protection of waters and the restoration of water resources;
+3) approval of projects for sanitary protection zones of domestic and drinking water intakes;
+4) making decisions in the established manner on classifying water bodies of local significance as objects of the nature reserve fund or to relevant categories of special protection;
+5) establishing, in the manner prescribed by law, local navigation rules for small and recreational vessels and water scooters and the use of means for entertainment on water;
+6) establishing, if necessary, stricter water quality standards than those in Ukraine as a whole for water bodies of local significance;
+7) making decisions, in agreement with the central executive authority that implements state policy in the sphere of water management development and the central executive authority that implements state policy in the sphere of environmental protection, in case of emergency situations, on the discharge of wastewater from holding facilities into water bodies, if this does not lead to an exceedance of water use environmental safety standards;
+8) resolution of other issues in the field of regulation of water relations as defined by law.
+
+**Article 8-1. Competence of Oblast, Kyiv, and Sevastopol City Councils in the Field of Regulation of Water Relations**
+The competence of oblast, Kyiv, and Sevastopol city councils in the field of regulation of water relations on their territory includes:
+1) ensuring the implementation of state policy in the field of water use and protection and the restoration of water resources;
+2) deleted as of January 1, 2013;
+3) coordination of state target and interstate programs for the use and protection of waters and the restoration of water resources, and participation in their implementation;
+4) development, approval, and implementation of regional programs for the use and protection of waters and the restoration of water resources;
+5) deleted;
+6) deleted;
+7) coordination of the activities of district and city councils on the use and protection of waters and the restoration of water resources;
+8) approval of projects for sanitary protection zones of domestic and drinking water intakes;
+9) making decisions in the established manner on classifying water bodies of local significance as objects of the nature reserve fund or to relevant categories of special protection;
+10) establishing, in the manner prescribed by law, local navigation rules for small and recreational vessels and water scooters and the use of means for entertainment on water;
+11) establishing, if necessary, stricter water quality standards than those in Ukraine as a whole for water bodies of local significance;
+12) restricting, temporarily prohibiting (suspending) the activities of enterprises, institutions, and organizations in case of their violation of the requirements of water legislation;
+13) organizing work related to the elimination of the consequences of accidents and natural disasters, deterioration of water quality, or their harmful effects, involving enterprises, institutions, and organizations in the manner prescribed by law;
+14) making decisions, in agreement with the central executive authority that implements state policy in the sphere of sanitary and epidemic well-being of the population, the central executive authority that implements state policy in the sphere of water management development, and the central executive authority that implements state policy in the sphere of environmental protection, in case of emergency situations, on the discharge of wastewater from holding facilities into water bodies, if this does not lead to an exceedance of water use environmental safety standards;
+15) organizing public information on the state of water bodies, its changes, and the implementation of water protection measures;
+16) exercising control over the use and protection of waters and the restoration of water resources;
+17) resolution of other issues in the field of regulation of water relations as defined by law.
+
+**Article 9. Competence of District Councils in the Field of Regulation of Water Relations**
+The competence of district councils in the field of regulation of water relations on their territory includes:
+1) coordinating the work of village, settlement, and city (cities of district subordination) councils during their implementation of inter-territorial water management and water protection measures and providing them with appropriate methodological assistance;
+2) deleted
+3) organizing work related to the elimination of the consequences of accidents and natural disasters, deterioration of water quality, or their harmful effects, involving enterprises, institutions, and organizations in this work in the established manner;
+4) organizing work on the demarcation in kind and establishment of coastal protection strips along rivers, seas, and around bodies of water;
+5) submitting proposals in the established manner on declaring water bodies as objects of the nature reserve fund to the Verkhovna Rada of the Autonomous Republic of Crimea and oblast councils;
+6) restricting, temporarily prohibiting (suspending) the activities of enterprises and other objects in case of their violation of the requirements of water legislation within their competence;
+7) establishing rules for general water use in the manner prescribed by Article 47 of this Code;
+8) exercising control over the use and protection of waters and the restoration of water resources;
+9) organizing public information on the state of water bodies, on environmental emergencies that may negatively affect human health, and on measures being taken to improve the state of waters;
+10) resolution of other issues in the field of regulation of water relations within their competence.
+
+**Article 10. Competence of Village, Settlement, City, and City District Councils in the Field of Regulation of Water Relations**
+The competence of village, settlement, city, and city district councils in the field of regulation of water relations on their territory includes:
+1) implementing measures for the rational use and protection of waters and the restoration of water resources;
+2) controlling the use and protection of waters and the restoration of water resources;
+3) establishing rules for general use of water bodies in the manner prescribed by Article 47 of this Code;
+4) restricting, temporarily prohibiting (suspending) the activities of enterprises and other objects in case of their violation of the requirements of water legislation within their competence;
+5) organizing work related to the elimination of the consequences of accidents and natural disasters, deterioration of water quality, or their harmful effects, involving enterprises, institutions, and organizations in this work in the established manner;
+6) organizing public information on the state of water bodies, as well as on environmental emergencies that may negatively affect human health, and on measures being taken to improve the state of waters;
+7) resolution of other issues in the field of regulation of water relations within their competence.
+
+**Article 11. Participation of Citizens and their Associations, and other Public Formations in the Implementation of Measures for the Use and Protection of Waters and the Restoration of Water Resources**
+Citizens and their associations, and other public formations, have the right, in the established manner, to:
+1) participate in the consideration by local councils and state bodies of issues related to the use and protection of waters and the restoration of water resources;
+2) with the agreement of local councils and state bodies, carry out work on the use and protection of waters and the restoration of water resources at their own expense and with the voluntary participation of members of citizens' associations;
+3) participate in inspections conducted by the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, regarding the compliance of water users with water protection rules and measures, and to submit proposals on these issues;
+4) deleted;
+5) exercise public control over the use and protection of waters and the restoration of water resources;
+6) receive, in the established manner, information on the state of water bodies, sources of pollution, and water use, and on plans and measures for the use and protection of waters and the restoration of water resources;
+7) file lawsuits in court for compensation for damages caused to the state and citizens as a result of pollution, contamination, and depletion of waters;
+7.1) participate in the preparation of river basin management plans and contribute to their implementation;
+7.2) participate in the preparation of flood risk management plans and contribute to their implementation;
+8) perform other functions related to the use and protection of waters and the restoration of water resources in accordance with the law.
+
+**Section II. STATE MANAGEMENT AND CONTROL IN THE FIELD OF USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Chapter 2. STATE TARGET, INTERSTATE, AND REGIONAL PROGRAMS IN THE FIELD OF USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 12. State Target, Interstate, and Regional Programs for the Use and Protection of Waters and the Restoration of Water Resources**
+State target, interstate, and regional programs for the use and protection of waters and the restoration of water resources are developed to carry out purposeful and effective activities to meet the needs of the population and economic sectors for water, to conserve, rationally use and protect waters, and to prevent their harmful effects.
+
+State target, interstate, and regional programs for the use and protection of waters and the restoration of water resources are developed based on data from the state water accounting, the water cadastre, schemes for the use and protection of waters and the restoration of water resources, and taking into account river basin management plans.
+
+The development and implementation of these programs are funded by the State Budget of Ukraine, the budget of the Autonomous Republic of Crimea and local budgets, funds from enterprises, institutions, and organizations, non-budgetary funds, voluntary contributions from organizations and citizens, and other funds.
+
+**Chapter 3. STATE MANAGEMENT IN THE FIELD OF USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 13. Bodies that Carry Out State Management in the Field of Use and Protection of Waters and Restoration of Water Resources**
+State management in the field of use and protection of waters and restoration of water resources is carried out according to the basin principle, based on state target, interstate, and regional programs for the use and protection of waters and restoration of water resources, as well as river basin management plans.
+
+State management in the field of use and protection of waters and restoration of water resources is carried out by the Cabinet of Ministers of Ukraine, the Council of Ministers of the Autonomous Republic of Crimea, village, settlement, and city councils and their executive bodies, district and oblast councils, executive authorities, and other state bodies in accordance with the legislation of Ukraine.
+
+The executive authorities in the field of use and protection of waters and restoration of water resources are the central executive authority that shapes state policy in the sphere of environmental protection, the central executive authority that implements state policy in the sphere of environmental protection, the central executive authority that implements state policy in the sphere of water management development, the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, the central executive authority that implements state policy on state supervision (control) in the sphere of protection and rational use of waters and restoration of water resources, and other bodies in accordance with the legislation.
+
+**Article 13.1. Hydrographic and Water Management Zoning of the Territory of Ukraine**
+The hydrographic unit is the river basin district.
+In Ukraine, 9 river basin districts are established:
+the Dnipro River basin district;
+the Dniester River basin district;
+the Danube River basin district;
+the Southern Bug River basin district;
+the Don River basin district;
+the Vistula River basin district;
+the river basin district of Crimea;
+the river basin district of the Black Sea region;
+the river basin district of the Azov Sea region.
+
+Within the established river basin districts, the central executive authority that shapes state policy in the sphere of environmental protection may designate sub-basins.
+
+The boundaries of river basin districts, sub-basins, and water management sections are approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+Water management sections are designated within river basin districts, taking into account the basin principle of management, administrative-territorial structure, physical-geographical conditions, and economic activity, by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 13.2. River Basin Management Plans**
+River basin management plans are developed and implemented to achieve the environmental objectives defined for each river basin district within established deadlines.
+
+The main elements of river basin management plans are:
+1) a general description of the surface and groundwaters of the river basin district;
+2) identification of the main anthropogenic impacts on the quantitative and qualitative status of surface and groundwaters, including from point and diffuse sources;
+3) identification and mapping of zones (territories) subject to protection;
+4) mapping of monitoring networks, results of monitoring programs conducted for surface waters (ecological and chemical), groundwaters (chemical and quantitative), and zones (territories) subject to protection;
+5) a list of objectives for surface waters, groundwaters, and zones (territories) subject to protection, and the deadlines for their achievement;
+6) an economic analysis of water use;
+7) a review of the implementation of programs or measures, including ways to achieve the set objectives;
+8) a complete list of programs (plans) for the river basin district or sub-basin, their content, and the problems they are intended to solve;
+9) a report on public information and public discussion of the draft river basin management plan;
+10) a list of competent authorities;
+11) the procedure for obtaining information (including primary data) on the state of surface and groundwaters.
+
+River basin management plans are approved by the Cabinet of Ministers of Ukraine every six years.
+The procedure for developing a river basin management plan is approved by the Cabinet of Ministers of Ukraine.
+
+**Article 13.3. Basin Councils**
+A basin council is a consultative and advisory body within a river basin territory, formed under the central executive authority that implements state policy in the sphere of water management development, to ensure the rational use and protection of waters and the restoration of water resources, and their integrated management.
+
+A basin council is formed by the central executive authority that implements state policy in the sphere of water management development to develop proposals and ensure the coordination of interests of enterprises, institutions, and organizations in the field of water use and protection and restoration of water resources within the basin.
+
+The decisions of basin councils are taken into account when developing basin management plans and implementing measures for the rational use and protection of waters and the restoration of water resources.
+
+The composition of basin councils includes representatives of central and local executive authorities, local self-government bodies, other interested organizations, institutions, enterprises, and public representatives.
+
+The model regulation on basin councils is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 13.4. Water Management Balances**
+Water management balances are developed to assess the availability and potential for use of water resources.
+
+Water management balances are approved by the central executive authority that implements state policy in the sphere of water management development.
+
+The procedure for developing water management balances is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Chapter 4. COMPETENCE OF STATE BODIES IN THE FIELD OF MANAGEMENT AND CONTROL OVER THE USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 14. Competence of the Cabinet of Ministers of Ukraine in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the Cabinet of Ministers of Ukraine in the field of management and control over the use and protection of waters and restoration of water resources includes:
+1) implementation of state policy in the field of use and protection of waters and restoration of water resources;
+2) disposal of internal sea waters, the territorial sea, and the water areas of sea ports;
+3) exercising state control over the use and protection of waters and restoration of water resources;
+4) determining priorities for water use;
+5) ensuring the development of state target and interstate programs for the use and protection of waters and restoration of water resources;
+6) determining the procedure for the activities of state executive authorities in the field of use and protection of waters and restoration of water resources, and coordinating their activities;
+7) establishing the procedure for issuing permits for special water use, dredging works (except for maintenance dredging), laying cables, pipelines, and other communications on lands of the water fund, as well as the procedure for developing standards for the maximum permissible discharge of pollutants into water bodies and the list of pollutants whose discharge into water bodies is standardized, developing and approving criteria for assessing the pollution of underground aquifers of water bodies, and determining the procedure for registering places of mass recreation of the population on water bodies;
+8) Deleted by the Law of Ukraine of 02.12.10 No. 2756-VI
+9) deleted by Law No. 1990-III of 21.09.2000;
+10) making decisions in case of emergency situations on the discharge of wastewater from holding facilities into water bodies if they lead to an exceedance of the maximum permissible concentrations of pollutants in these bodies;
+11) organizing and coordinating work related to the prevention and elimination of the consequences of accidents, natural disasters, harmful effects of waters, or deterioration of water resources quality;
+12) making decisions on restricting, temporarily prohibiting (suspending) the activities of enterprises, institutions, organizations, and facilities in case of their violation of the requirements of water legislation;
+13) approving projects for sanitary protection zones of domestic and drinking water intakes that supply water to the territory of more than one oblast;
+13.1) approving river basin management plans and the procedure for their development;
+13.2) approving flood risk management plans and the procedure for their development;
+14) managing Ukraine's external relations in the field of use and protection of waters and restoration of water resources;
+14.1) allocating the water areas of sea ports;
+15) resolving other issues in the field of use and protection of waters and restoration of water resources.
+
+**Article 15. Competence of the Central Executive Authority that Shapes State Policy in the Sphere of Environmental Protection in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the central executive authority that shapes state policy in the sphere of environmental protection in the field of management and control over the use and protection of waters and restoration of water resources includes:
+1) shaping state policy in the sphere of protection and reproduction of waters (surface, ground, marine) and rational use of water resources;
+2) deleted
+3) developing state target and interstate programs for the use and protection of waters and restoration of water resources;
+4) deleted
+5) developing and approving norms and rules regarding the regulation of use and protection of waters and restoration of water resources within its competence;
+6) deleted
+7) deleted
+8) deleted
+9) deleted
+10) conducting international cooperation on issues of use and protection of waters and restoration of water resources;
+10.1) approving the boundaries of river basin districts, sub-basins, and water management sections;
+10.2) approving the procedure for developing water management balances;
+10.3) designating sub-basins and water management sections within river basin districts;
+10.4) approving the model regulation on basin councils;
+10.5) approving the methodology for classifying a surface water body into one of the classes of ecological and chemical status, as well as classifying an artificial or heavily modified surface water body into one of the classes of ecological potential;
+10.6) approving the methodology for classifying a groundwater body into one of the classes of quantitative and chemical status;
+10.7) approving the list of pollutants for determining the chemical status of surface and groundwater bodies and the ecological potential of an artificial or heavily modified surface water body;
+10.8) approving the methodology for identifying surface and groundwater bodies;
+11) resolving other issues in the field of use and protection of waters and restoration of water resources.
+The central executive authority that shapes state policy in the sphere of environmental protection exercises its powers independently and through its territorial bodies (if created), and on the territory of the Autonomous Republic of Crimea - through the executive authority of the Autonomous Republic of Crimea for environmental protection.
+
+**Article 15-1. Competence of the Central Executive Authority that Implements State Policy in the Sphere of Environmental Protection in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the central executive authority that implements state policy in the sphere of environmental protection in the field of management and control over the use and protection of waters and reproduction of water resources includes:
+1) implementing state policy in the sphere of protection and reproduction of waters (surface, ground, marine) and rational use of water resources;
+2) participating in the implementation of state target and interstate programs for the use and protection of waters and restoration of water resources;
+3) organizing and conducting state monitoring of waters;
+4) exercising powers in the sphere of environmental impact assessment in accordance with the legislation on environmental impact assessment;
+5) issuing, terminating (revoking, invalidating), reissuing, and issuing duplicates of permits for conducting works on lands of the water fund (except for maintenance dredging) within coastal protection strips along seas, sea bays, and limans, in internal sea waters, limans, and the territorial sea;
+6) developing and implementing, in the established manner, organizational and economic measures to ensure the protection and use of waters and the restoration of water resources;
+7) resolving other issues in the field of use and protection of waters and restoration of water resources.
+The central executive authority that ensures the implementation of state policy in the sphere of environmental protection exercises its powers independently and through its territorial bodies (if created), and on the territory of the Autonomous Republic of Crimea - through the executive authority of the Autonomous Republic of Crimea for environmental protection issues.
+
+**Article 15-2. Competence of the Central Executive Authority that Implements State Policy on State Supervision (Control) in the Sphere of Protection and Rational Use of Waters and Restoration of Water Resources in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the central executive authority that implements state policy on state supervision (control) in the sphere of protection and rational use of waters and restoration of water resources in the field of management and control over the use and protection of waters and reproduction of water resources includes:
+1) exercising state supervision (control) over compliance with the requirements of legislation on the protection and rational use of waters and restoration of water resources;
+2) making decisions in the established manner on restricting, temporarily prohibiting (suspending) the activities of enterprises, institutions, organizations, and facilities in case of their violation of the requirements of water legislation;
+3) resolving other issues in the field of use and protection of waters and restoration of water resources.
+
+**Article 16. Competence of the Central Executive Authority that Implements State Policy in the Sphere of Water Management Development in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the central executive authority that implements state policy in the sphere of water management development in the field of management and control over the use and protection of waters and restoration of water resources includes:
+1) implementing state policy in the sphere of water management development, management, use, and reproduction of surface water resources;
+2) developing and establishing operating regimes for artificial water bodies and water management systems, and approving their operating rules;
+3) developing and participating in the implementation of state target and interstate programs for the use and protection of waters and restoration of water resources;
+4) meeting the needs of the population and economic sectors for water resources and carrying out their inter-basin redistribution;
+5) ensuring the functioning of the state environmental monitoring system with regard to conducting radiological and hydrochemical observations on multipurpose water bodies, transboundary watercourses, inter-branch and agricultural water supply systems, and in the impact zones of nuclear power plants;
+6) designing, constructing, and operating multipurpose water management systems and facilities;
+7) implementing measures for the ecological improvement of surface waters and their maintenance;
+8) maintaining the state accounting of water use and the state water cadastre;
+9) issuing permits for special water use;
+9-1) issuing, terminating (revoking, invalidating), reissuing, and issuing duplicates of permits for conducting works (except for maintenance dredging) on lands of the water fund (except for conducting works on lands of the water fund within coastal protection strips along seas, sea bays, and limans, in internal sea waters, limans, and the territorial sea);
+9-2) issuing permits for special water use of water bodies in the exclusion zone and the zone of unconditional (compulsory) resettlement of the territory radioactively contaminated as a result of the Chornobyl disaster;
+10) conducting international cooperation in the field of use and protection of waters and restoration of water resources of transboundary waters;
+11) implementing measures related to the prevention of the harmful effects of waters and the elimination of their consequences, including flood protection for rural settlements and agricultural lands;
+12) exercising control over compliance with the operating regimes of reservoirs and water management systems;
+12-1) summarizing and analyzing water users' reports on the use of water resources;
+12-2) coordinating water supply standards;
+12-3) monitoring water quality at control points in the areas of major multipurpose water intakes and inter-branch and agricultural water supply systems;
+12-4) monitoring water bodies for radiological indicators in territories that have been radioactively contaminated;
+12-5) Deleted;
+12-6) developing, jointly with other executive authorities, a set of measures to prevent emergencies, reduce the destructive consequences of floods, and ensure the safe passage of floodwaters and ice drifts;
+12-7) organizing the implementation of works related to minimizing the consequences of the harmful effects of waters, including protection against flooding, and flood protection for rural settlements and agricultural lands;
+12-8) developing schemes for the integrated use and protection of water resources, forming long-term forecasts of water management balances, approving water management balances, and participating in resolving issues related to the interstate distribution of river flow and the use of transboundary waters;
+12-9) carrying out the passportization of rivers and drinking water supply sources;
+12-10) developing measures to provide centralized water supply to rural settlements that use imported water;
+12-11) coordinating land management documentation in cases and in the manner prescribed by the Land Code of Ukraine and the Law of Ukraine "On Land Management" regarding the compliance of said documentation with water legislation.
+13) resolving other issues in the field of management and control over the use and protection of waters and restoration of water resources.
+The central executive authority that implements state policy in the sphere of water management development exercises its powers independently and through its territorial bodies (if created), and on the territory of the Autonomous Republic of Crimea - through the executive authority of the Autonomous Republic of Crimea for water management issues.
+
+**Article 17. Competence of the Central Executive Authority that Implements State Policy in the Sphere of Geological Study and Rational Use of Subsoil in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil in the field of management and control over the use and protection of waters and restoration of water resources includes:
+1) issuing special permits for subsoil use for the development of groundwater deposits, in coordination with the centers for disease control and prevention of the central executive authority that shapes state policy in the sphere of healthcare, and the central executive authority that implements state policy in the sphere of labor protection;
+2) maintaining the state accounting of groundwater and the water cadastre;
+3) conducting state monitoring of groundwater;
+4) deleted
+5) deleted
+6) identifying non-operational wells and taking measures for their decommissioning or repair and further use;
+7) exercising state geological control over prospecting, exploration, and other works related to the geological study of groundwater;
+8) resolving other issues in the field of management and control over the use and protection of waters and restoration of water resources.
+
+**Article 17-1. Competence of the Council of Ministers of the Autonomous Republic of Crimea in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of the Council of Ministers of the Autonomous Republic of Crimea in the field of management and control over the use and protection of waters and restoration of water resources on the territory of the Autonomous Republic of Crimea includes:
+1) ensuring the implementation of state policy in the field of water management, use and protection of waters, and restoration of water resources;
+2) participating in the development and implementation of state programs, and developing and ensuring the implementation of republican (Autonomous Republic of Crimea) programs for the use and protection of waters and restoration of water resources;
+3) deleted as of July 1, 2013;
+4) deleted;
+5) meeting the needs of the population and economic sectors for water resources and carrying out their inter-basin redistribution;
+6) designing, constructing, and operating multipurpose water management systems and facilities;
+7) implementing measures for the ecological improvement of surface waters and their maintenance;
+8) deleted
+9) implementing measures related to the prevention of the harmful effects of waters and the elimination of their consequences, including flood protection for settlements and lands;
+10) exercising control over compliance with the operating regimes of reservoirs and water management systems;
+11) deleted
+12) organizing work related to the elimination of the consequences of accidents and natural disasters, deterioration of water quality, or their harmful effects, involving enterprises, institutions, and organizations in the manner prescribed by law;
+13) organizing public information on the state of water bodies, its changes, and the implementation of water protection measures;
+14) exercising control over the use and protection of waters and restoration of water resources;
+15) resolving other issues in the field of regulation of water relations as defined by law.
+
+**Article 17-2. Competence of Oblast, Kyiv, Sevastopol City State Administrations, and the Executive Authority of the Autonomous Republic of Crimea for Environmental Protection in the Field of Management and Control over the Use and Protection of Waters and Restoration of Water Resources**
+The competence of oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection in the field of management and control over the use and protection of waters and reproduction of water resources includes:
+1) deleted;
+2) coordinating projects for water protection zones;
+3) deleted
+4) resolving other issues in the field of regulation of water relations as defined by law.
+
+**Chapter 5. CONTROL OVER THE USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 18. Task of Control over the Use and Protection of Waters and Restoration of Water Resources**
+Control over the use and protection of waters and restoration of water resources consists in ensuring compliance by all legal and natural persons with the requirements of water legislation.
+
+**Article 19. State Control over the Use and Protection of Waters and Restoration of Water Resources**
+State control over the use and protection of waters and reproduction of water resources is exercised by the Cabinet of Ministers of Ukraine, the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, and other state bodies in accordance with the legislation of Ukraine.
+
+The procedure for exercising state control over the use and protection of waters and restoration of water resources is determined by this Code and other legislative acts.
+
+**Article 20. Public Control over the Use and Protection of Waters and Restoration of Water Resources**
+Public control over the use and protection of waters and restoration of water resources is carried out by public inspectors for environmental protection, whose powers are determined by a regulation approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 21. State Monitoring of Waters**
+State monitoring of waters is carried out to ensure the collection, processing, storage, and analysis of information on the state of waters, to forecast its changes, and to develop scientifically-based recommendations for making management decisions in the field of water use and protection and restoration of water resources.
+
+The components of state water monitoring are the monitoring of biological, hydromorphological, chemical, and physicochemical indicators.
+
+State water monitoring is an integral part of the state system of environmental monitoring of Ukraine and is carried out in the manner determined by the Cabinet of Ministers of Ukraine.
+
+**Article 21.1. Ecological and Chemical Status of a Surface Water Body, Ecological Potential of an Artificial or Heavily Modified Surface Water Body**
+The ecological status of a surface water body is determined by biological indicators using hydromorphological, chemical, and physicochemical indicators and is classified, based on the ecological water quality standard, as "excellent," "good," "moderate," "poor," or "bad."
+
+The chemical status of a surface water body is determined by specific groups of pollutants and is classified, based on the ecological water quality standard, as "good" or "failure to achieve good."
+
+The ecological potential of an artificial or heavily modified surface water body is determined by biological indicators using hydromorphological, chemical, and physicochemical indicators and is classified, based on the ecological water quality standard, as "good," "moderate," "poor," or "bad."
+
+The methodology for classifying a surface water body into one of the classes of ecological and chemical status, as well as classifying an artificial or heavily modified surface water body into one of the classes of ecological potential, is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+The list of pollutants for determining the chemical status of a surface water body and the ecological potential of an artificial or heavily modified surface water body is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 21.2. Quantitative and Chemical Status of a Groundwater Body**
+The quantitative status of a groundwater body is determined by the ratio of groundwater abstraction to its total volume and is classified as "good" or "poor."
+
+The chemical status of a groundwater body is determined by specific groups of pollutants and is classified as "good" or "poor."
+
+The methodology for classifying a groundwater body into one of the classes of quantitative and chemical status is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+The list of pollutants for determining the chemical status of a groundwater body is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 22. Environmental Impact Assessment**
+To ensure environmental safety during the placement, design, and construction of new and reconstruction of existing enterprises, structures, and other objects related to water use, an environmental impact assessment is carried out in the manner determined by law.
+
+**Article 23. Legal Protection and Incentives for Employees who Carry Out Protection and Control in the Field of Use and Protection of Waters and Restoration of Water Resources**
+Employees of specially authorized state bodies and public inspectors who carry out protection and control in the field of use and protection of waters and restoration of water resources are guaranteed legal protection of their honor, dignity, health, and life in accordance with the legislation of Ukraine.
+
+Incentives for employees of specially authorized state bodies and public inspectors in the field of use and protection of waters and restoration of water resources are provided in the manner established by the Cabinet of Ministers of Ukraine.
+
+**Chapter 6. STATE ACCOUNTING OF WATERS. STATE WATER CADASTRE**
+
+**Article 24. Tasks of State Accounting of Waters**
+The task of state accounting of waters is to establish information on the quantity and quality of waters, as well as data on water use, on the basis of which water is allocated among water users and measures are developed for the rational use and protection of waters and restoration of water resources.
+
+**Article 25. State Accounting of Water Use**
+State accounting of water use is maintained to systematize data on water abstraction and use, discharge of wastewater and pollutants, the presence of water recycling systems and their capacity, as well as on existing wastewater treatment systems and their efficiency.
+
+State accounting and analysis of the state of water use are carried out through the submission of water use reports by water users.
+
+The organization of state accounting of water use is carried out by the central executive authority that implements state policy in the sphere of water management development.
+
+The procedure for maintaining state accounting of water use is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 26. State Accounting of Surface Waters**
+State accounting of surface waters is carried out by:
+the central executive authority that implements state policy in the sphere of hydrometeorological activities, by conducting continuous hydrometric and hydrochemical observations of the quantitative and qualitative characteristics of surface waters in accordance with a program approved by the central executive authority that shapes state policy in the sphere of hydrometeorological activities, in agreement with the central executive authority that shapes state policy in the sphere of environmental protection, and the central executive authority that implements state policy in the sphere of water management development;
+the central executive authority that implements state policy in the sphere of water management development, with regard to the accounting of surface water bodies.
+
+**Article 27. State Accounting of Groundwater**
+State accounting of groundwater is carried out by the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, by conducting observations of the quantitative and qualitative characteristics of groundwater according to a program approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 28. State Water Cadastre**
+The State Water Cadastre is compiled to systematize data from state water accounting and to determine the available water resources for use.
+
+The State Water Cadastre is maintained by the central executive authority that implements state policy in the sphere of water management development, the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, and the central executive authority that implements state policy in the sphere of hydrometeorological activities, in the manner determined by the Cabinet of Ministers of Ukraine.
+
+The State Water Cadastre includes spatial data, metadata, and services, the publication of which, and other activities and access to which, are carried out on the Internet in accordance with the Law of Ukraine "On the National Geospatial Data Infrastructure."
+
+**Chapter 7. ECONOMIC REGULATION OF RATIONAL USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 29. Organizational and Economic Measures to Ensure Rational Use and Protection of Waters and Restoration of Water Resources**
+Organizational and economic measures to ensure the rational use and protection of waters and restoration of water resources include:
+1) issuing permits for special water use;
+2) establishing rates for fees for special water use;
+3) deleted by Law No. 1990-III of 21.09.2000;
+4) providing water users with tax, credit, and other benefits if they introduce low-waste, waste-free, energy- and resource-saving technologies, and implement other measures in accordance with the law that reduce the negative impact on waters;
+5) compensating, in the established manner, for damages caused to water bodies in case of violation of legislative requirements.
+
+**Article 30. Fees for Special Water Use**
+Fees for special water use are collected to stimulate the rational use and protection of waters and the restoration of water resources and include a rent payment for the special use of water and an environmental tax for the discharge of pollutants into water bodies, which are established by the Tax Code of Ukraine.
+
+**Article 31. deleted by Law No. 1990-III of 21.09.2000**
+
+**Article 32. Deleted by the Law of Ukraine of 02.12.10 No. 2756-VI**
+
+**Chapter 8. STANDARDIZATION IN THE FIELD OF USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 33. Tasks of Standardization in the Field of Use and Protection of Waters and Restoration of Water Resources**
+Standardization in the field of use and protection of waters and restoration of water resources is carried out to ensure the ecological and sanitary-hygienic safety of waters by establishing requirements for objects subject to standardization.
+
+**Article 34. Deleted.**
+
+**Article 35. Standards in the Field of Use and Protection of Waters and Restoration of Water Resources**
+In the field of use and protection of waters and restoration of water resources, the following standards are established:
+1) standards for the environmental safety of water use;
+2) ecological quality standards for water in surface and groundwater bodies;
+3) standards for the maximum permissible discharge of pollutants;
+4) sectoral technological standards for the generation of substances discharged into water bodies;
+5) technological standards for water use.
+The legislation of Ukraine may establish other standards in the field of use and protection of waters and restoration of water resources.
+
+**Article 36. Standards for the Environmental Safety of Water Use**
+To assess the possibility of using water from water bodies for the needs of the population and economic sectors, standards are established that ensure safe conditions for water use, namely:
+maximum permissible concentrations of substances in water bodies whose water is used to meet the drinking, domestic, and other needs of the population;
+maximum permissible concentrations of substances in water bodies whose water is used for the needs of the fishing industry;
+permissible concentrations of radioactive substances in water bodies whose water is used to meet the drinking, domestic, and other needs of the population.
+If necessary, stricter environmental safety standards for water use may be established for the waters of water bodies used for therapeutic, resort, health-improving, recreational, and other purposes.
+
+Standards for the environmental safety of water use are developed and approved by:
+the specially authorized central executive authority for health protection - for water bodies whose water is used to meet the drinking, domestic, and other needs of the population;
+the central executive authority that shapes state policy in the field of fisheries - for water bodies whose water is used for the needs of the fishing industry.
+
+Standards for the environmental safety of water use are enacted in agreement with the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 37. Ecological Quality Standard for Water in Surface and Groundwater Bodies**
+To assess the ecological and chemical status of a surface water body and the chemical status of a groundwater body, and to determine a set of water protection measures, an ecological quality standard for water in surface and groundwater bodies is established, which contains scientifically-based values of pollutant concentrations and water quality indicators (general physical, biological, chemical, radiological).
+
+The ecological quality standard for water in surface and groundwater bodies is developed and approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 38. Standards for the Maximum Permissible Discharge of Pollutants**
+Standards for the maximum permissible discharge of pollutants are established with the aim of gradually achieving the ecological quality standard for water.
+
+The procedure for developing standards for maximum permissible discharge and the list of pollutants that are standardized are established by the Cabinet of Ministers of Ukraine.
+
+**Article 39. Sectoral Technological Standards for the Generation of Substances Discharged into Water Bodies and Supplied to Treatment Facilities**
+To assess the environmental safety of production, sectoral technological standards are established for the generation of substances discharged into water bodies and supplied to treatment facilities, i.e., standards for the maximum permissible concentrations of substances in wastewater generated during the production of one type of product using the same raw materials.
+
+Sectoral technological standards for the generation of substances discharged into water bodies and supplied to treatment facilities are developed and approved by the relevant central executive authorities in agreement with the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 40. Technological Standards for Water Use**
+To assess and ensure the rational use of water in economic sectors, technological standards for water use are established, namely:
+current technological standards for water use - for the existing level of technology;
+prospective technological standards for water use - taking into account achievements at the level of advanced world technologies.
+Technological standards for water use are developed and approved by the relevant central executive authorities in agreement with the central executive authority that shapes state policy in the sphere of environmental protection.
+
+**Article 41. Regulation of the Discharge into Water Bodies of Substances for which Standards have not been Established in the Field of Use and Protection of Waters and Restoration of Water resources**
+The discharge into water bodies of substances for which environmental safety standards for water use and maximum permissible discharge standards have not been established is prohibited.
+
+The discharge of such substances in exceptional cases may be permitted by the central executive authority that implements state policy in the sphere of healthcare, the central executive authority that implements state policy in the sphere of environmental protection, and the central executive authority that implements state policy in the field of fisheries and the fish industry, provided that during the period established by them, these standards will be developed and approved.
+
+The clients for the development of environmental safety standards for water use and maximum permissible discharge standards for these substances are the water users who discharge them.
+
+**Section III. WATER USE**
+
+**Chapter 9. WATER USERS. RIGHTS AND OBLIGATIONS**
+
+**Article 42. Water Users**
+Water users in Ukraine may be enterprises, institutions, organizations, and citizens of Ukraine, as well as foreigners and stateless persons, and foreign legal entities.
+
+Water users can be primary and secondary.
+Primary water users are those who have their own water intake facilities and corresponding equipment for water abstraction, and also receive water from canals of irrigation and drainage systems, reservoirs, ponds, water management systems, canals, and water mains (water pipelines) for inter-basin and intra-basin redistribution of water resources.
+
+The abstraction and use of water by primary water users from canals of irrigation and drainage systems, reservoirs, ponds, water management systems, canals, and water mains (water pipelines) for inter-basin and intra-basin redistribution of water resources are carried out on a paid basis based on a contract with enterprises, institutions, and organizations that ensure the redistribution (transfer) of water resources, including to low-water regions, and with a permit for special water use. Concluding a contract is mandatory.
+The list of enterprises, institutions, and organizations that ensure the redistribution (transfer) of water resources, including to low-water regions, is approved by the Cabinet of Ministers of Ukraine.
+
+Secondary water users (subscribers) are those who do not have their own water intake facilities and receive water from the water intake facilities of primary water users and discharge wastewater into the systems of such primary water users on the basis of a water supply (water delivery) and/or wastewater disposal contract, without obtaining a permit for special water use.
+Secondary water users discharge wastewater into water bodies on the basis of permits for special water use.
+
+**Article 43. Basic Rights of Water Users**
+Water users have the right to:
+1) carry out general and special water use;
+2) use water bodies on lease terms;
+3) deleted by Law No. 1990-III of 21.09.2000;
+4) demand from the owner of the water body or water supply system to maintain proper water quality according to the conditions of water use;
+5) construct hydraulic and other water management facilities, and carry out their reconstruction and repair;
+6) transfer water for use to other water users on specified terms;
+7) carry out other functions related to water use in the manner established by law.
+The rights of water users are protected by law.
+Violated rights of water users are subject to restoration in the manner established by law.
+
+**Article 44. Obligations of Water Users**
+Water users are obliged to:
+1) use water resources economically, care for their restoration and the improvement of water quality;
+2) use water (water bodies) in accordance with the purposes and conditions of their provision;
+3) comply with the established standards for the maximum permissible discharge of pollutants and the established limits for water abstraction, limits for water use, and limits for the discharge of pollutants, as well as sanitary and other requirements for the proper maintenance of their territory;
+4) use effective modern technical means and technologies to maintain their territory in proper condition, and also take measures to prevent the pollution of water bodies with wastewater (rain, snow) that is discharged from it;
+5) not allow the violation of rights granted to other water users, as well as causing damage to economic objects and objects of the natural environment;
+6) maintain in proper condition the sanitary protection zones of drinking and domestic water supply sources, coastal protection strips, rights-of-way, shoreline strips of waterways, treatment and other water management structures and technical devices;
+7) carry out, using measuring equipment, including automated systems, the accounting of water abstraction and use, control over the quality and quantity of return waters and pollutants discharged into water bodies, and over the quality of water in water bodies at control points, and also submit reports to the relevant bodies in the manner prescribed by this Code and other legislative acts;
+8) carry out technological, forest reclamation, agrotechnical, hydraulic, sanitary, and other measures, coordinated in the established manner, to protect waters from depletion, improve their condition, and cease the discharge of polluted wastewater;
+9) carry out special water use only with a permit;
+10) provide unimpeded access to their facilities for state inspectors of the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, as well as public inspectors for environmental protection, who are checking compliance with the requirements of water legislation, and provide them with necessary information free of charge;
+11) timely pay fees for special water use and other fees in accordance with the law;
+12) timely inform the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, the centers for disease control and prevention of the central executive authority that shapes state policy in the sphere of healthcare, the Council of Ministers of the Autonomous Republic of Crimea, local state administrations, and local self-government bodies about the occurrence of accidental pollution;
+13) carry out urgent work related to the elimination of the consequences of accidents that may cause a deterioration in water quality, and provide necessary technical means to eliminate accidents at the facilities of other water users in the manner established by law;
+14) fulfill other obligations regarding the use and protection of waters and the restoration of water resources in accordance with the law.
+
+**Article 45. Restriction of the Rights of Water Users**
+In case of low water, the threat of epidemics and epizootics, as well as in other cases provided for by law, the rights of water users may be restricted or the conditions of water use may be changed in order to protect public health and for other state interests. In such cases, priority is given to the use of water for the drinking and domestic needs of the population.
+The rights of water users are also restricted during accidents or under conditions that may lead to or have led to water pollution, and when carrying out urgent measures to prevent natural disasters caused by the harmful effects of water and to eliminate their consequences.
+The rights of water users who carry out special water use may be restricted by the body that issued the permit for special water use or granted the water body for use or lease.
+The rights of secondary water users may be restricted by primary water users in agreement with the body that issued the permit for special water use or granted the water body for use.
+The right of general water use may be restricted in the manner prescribed by Article 47 of this Code.
+
+**Chapter 10. TYPES AND PROCEDURE OF WATER USE**
+
+**Article 46. Types of Water Use**
+Water use can be of two types - general and special.
+
+**Article 47. Right of General Water Use**
+General water use is carried out by citizens to meet their needs (bathing, boating on pleasure craft, amateur and sport fishing, watering animals, abstracting water from water bodies without the use of structures or technical devices, and from wells) free of charge, without the assignment of water bodies to specific individuals, and without the provision of relevant permits.
+
+For the purpose of protecting the life and health of citizens, protecting the natural environment, and for other reasons provided for by law, district and city councils, upon the submission of the central executive authority that implements state policy in the sphere of water management development, the chief state sanitary doctor of the respective administrative territory, oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, and other state bodies, shall establish places where bathing, boating on pleasure craft, abstracting water for drinking or domestic needs, and watering animals are prohibited, and shall also, based on certain grounds, determine other conditions that restrict general water use on water bodies located on their territory.
+
+It is prohibited to restrict general water use, including restrictions on bathing and boating, amateur and sport fishing, and mooring to the shore during daylight hours, due to the use of land plots of coastal protection strips (beach zones) by legal or natural persons, except in cases provided for by law.
+Local councils are obliged to inform the public about the rules they have established that restrict general water use.
+
+On water bodies granted on lease, general water use is permitted under the conditions established by the water user, in agreement with the body that granted the water body on lease.
+The water user is obliged to inform the public about the conditions of water use, as well as about the established restrictions on general water use on the leased water body.
+If such conditions have not been established by the water user or the relevant council, general water use is considered permitted without restrictions.
+
+**Article 48. Special Water Use**
+Special water use is the abstraction of water from water bodies using structures or technical devices, the use of water, and the discharge of pollutants into water bodies, including the abstraction of water and the discharge of pollutants with return waters using canals.
+Special water use is carried out by legal and natural persons primarily to meet the drinking needs of the population, as well as for domestic, therapeutic, health-improving, agricultural, industrial, transport, energy, fishery (including for aquaculture purposes), and other state and public needs.
+
+The following are not considered special water use:
+the passage of water through hydraulic structures (except for hydropower);
+the discharge of water from water bodies in accordance with their established operating regimes to maintain environmental flows in a river and to prevent hydrodynamic accidents;
+the supply (transfer) of water to water users in low-water regions;
+the elimination of the harmful effects of waters (flooding, salinization, waterlogging);
+the use of groundwater to extract useful components;
+the extraction of water from the subsoil along with the extraction of minerals;
+the clearing of riverbeds, canals, and the bottom of bodies of water, construction, dredging, and blasting works;
+the extraction of minerals (except groundwater) and aquatic plants;
+the laying of pipelines and cables;
+conducting drilling and geological exploration works;
+the use of surface waters for navigation;
+the supply (transfer) of water through canals and water pipelines of irrigation and drainage systems, canals, and water mains (water pipelines) for inter-basin and intra-basin redistribution of water resources for the needs of water users;
+conducting maintenance dredging works;
+the abstraction and/or use of water in a volume up to 5 cubic meters per day, except for that used for the production of (is a component of) beverages and packaged drinking water;
+other works performed without water abstraction and discharge of return waters.
+
+**Article 49. Right to Carry Out Special Water Use**
+Special water use is paid and is carried out on the basis of a permit for special water use.
+
+A permit for special water use is issued by the territorial bodies of the central executive authority that implements state policy in the sphere of water management development.
+The issuance, reissuance, and termination (revocation, invalidation) of a permit for special water use are carried out in accordance with the laws of Ukraine "On Administrative Procedure" and "On the Permit System in the Sphere of Economic Activity" in the manner established by the Cabinet of Ministers of Ukraine.
+The issuance (reissuance, termination (revocation, invalidation)) of a permit for special water use is carried out free of charge.
+The submission by a legal or natural person, or a natural person-entrepreneur, of an application for obtaining (reissuing, terminating (revoking, invalidating)) a permit for special water use and the corresponding documents, as well as the issuance (refusal to issue, reissuance, termination (revocation, invalidation)) of this permit to them, are carried out in paper or electronic form.
+
+To obtain a permit for special water use, a legal or natural person, or a natural person-entrepreneur, shall apply to the bodies specified in the second part of this article with an application, to which are attached:
+a justification of the need for water with a month-by-month normative calculation of water use and wastewater disposal;
+a description and scheme of the water abstraction and wastewater discharge points;
+standards for the maximum permissible discharge (MPD) of pollutants into water bodies with wastewater (calculated for each outlet (discharge) separately);
+approved individual technological standards for the use of drinking water (for enterprises and organizations of the housing and communal services sector, business entities that provide centralized water supply and/or wastewater disposal services, and housing maintenance enterprises and organizations);
+a copy of the title documents for the water bodies (for lessees of water bodies).
+The list of documents specified in the sixth part of this article is exhaustive.
+The documents specified in the sixth part of this article are not submitted for the facilities of secondary water users (subscribers) who do not have their own water intake facilities, receive water from the water intake facilities of primary water users, and discharge wastewater into the systems of such primary water users on the basis of a water supply (water delivery) and/or wastewater disposal contract, without obtaining a permit for special water use.
+
+The issuance or refusal to issue a permit for special water use is carried out within 30 calendar days from the date of receipt of the application and the documents necessary for issuing the permit.
+The bodies specified in the second part of this article are obliged, within five working days from the date of receipt of the application for a permit for special water use, to send copies of the relevant documents:
+in the case of using groundwater - to the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil;
+in the case of using water bodies classified as therapeutic - to the central executive authority that shapes and implements state policy in the sphere of healthcare.
+The central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, and the central executive authority that shapes and implements state policy in the sphere of healthcare, are obliged, within 15 calendar days from the date of receipt of copies of the documents, to provide free of charge to the body making the decision on issuing a permit for special water use, their conclusions in electronic form regarding the possibility of its issuance.
+The exchange of documents between the executive authorities specified in this article is carried out in electronic form in the manner established by the central executive authority that shapes state policy in the sphere of environmental protection.
+The bodies specified in the second part of this article, when making a decision to issue a permit for special water use or to refuse its issuance, shall take into account the relevant conclusions of the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, and the central executive authority that shapes and implements state policy in the sphere of healthcare.
+If the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, or the central executive authority that shapes and implements state policy in the sphere of healthcare, fails to provide a conclusion on the possibility of issuing a permit for special water use within the established period, it is considered that the respective central executive authority has no objection to the issuance of such a permit.
+
+The grounds for refusal to issue a permit for special water use are:
+submission of an incomplete package of documents as required by this article, provided that the business entity or natural person was given an opportunity to supplement them;
+detection of unreliable information in the documents submitted by the business entity or natural person, or non-compliance with the requirements of laws and regulatory legal acts adopted in accordance with them, or long-term forecasts of water management balances, provided that the business entity or natural person was given an opportunity to eliminate the deficiencies in the application and to add the necessary documents and information;
+a negative conclusion from the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, or the central executive authority that shapes and implements state policy in the sphere of healthcare, regarding the possibility of carrying out special water use.
+Parts eighteen and nineteen are deleted.
+Termination (revocation, invalidation) of a permit for special water use is carried out on the grounds specified in Article 55 of this Code.
+The ground for issuing a duplicate of a permit for special water use is its loss or damage.
+A duplicate of a permit for special water use is issued upon application within two working days from the date of receipt of the application for its issuance.
+A permit for special water use is annulled on the grounds specified in Article 55 of this Code.
+A permit for special water use establishes a limit on water abstraction, a limit on water use, and a limit on the discharge of pollutants. In the event of a low water period, these limits may be reduced by the issuing authority without amending the permit for special water use.
+
+The form of the permit for special water use and the application for its receipt, as well as the form of the normative calculation of water use and wastewater disposal, are approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+
+The issuance of a permit for special water use to a business entity that has privatized a single property complex of a state or municipal enterprise is carried out by reissuing the previously issued permit for the term of its validity.
+
+**Article 50. Terms of Special Water Use**
+The terms of special water use are established by the bodies that issued the permit for special water use.
+Special water use can be short-term (for three years) or long-term (from three to twenty-five years).
+If necessary, the term of special water use may be extended for a period not exceeding, respectively, short-term or long-term water use.
+The extension of the terms of special water use at the request of interested water users is carried out by the state bodies that issued the permit for special water use.
+
+**Article 51. Use of Water Bodies on Lease Terms**
+Reservoirs (except for multipurpose reservoirs), ponds, lakes, and enclosed natural bodies of water may be granted for use on lease terms for fishery needs, cultural and health-improving, therapeutic, recreational, sports, and tourism purposes, as well as for conducting scientific research.
+Water bodies that are:
+used for drinking water needs;
+located within territories and objects protected in accordance with the Law of Ukraine "On the Nature Reserve Fund of Ukraine"
+are not subject to be granted for use on lease terms for fishery needs.
+Water bodies are granted for use under a land lease agreement in conjunction with the water body located on it, in the manner prescribed by the land legislation of Ukraine. The right to lease a land plot under a water body extends to such a water body.
+Water bodies are granted for use on lease terms by the bodies that dispose of land plots under water (water space) in accordance with the powers defined by the Land Code of Ukraine, under a lease agreement agreed with the central executive authority that implements state policy in the sphere of water management.
+Granting water bodies for use on lease terms is carried out if a passport of the water body is available. The procedure for developing and the form of the passport are approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+Water bodies are granted for use on lease terms without restricting the right of general water use, except in cases defined by law.
+Lessees of a water body are obliged to provide places for the free exercise of citizens' right to general water use (bathing, boating on pleasure craft, amateur and sport fishing, etc.). When determining such places, preference is given to traditionally located places of mass recreation of the population on water bodies.
+Ensuring the protection of the life and health of citizens in places of mass recreation of the population on water bodies is the responsibility of the water user who has taken the water body for use on lease terms.
+Within populated areas, it is prohibited to restrict any types of general water use, except in cases defined by law.
+The prohibition of general water use of water bodies granted for use on lease terms, and their non-target use, is a ground for termination of the lease agreement.
+The model lease agreement for land in conjunction with a water body located on it is approved by the Cabinet of Ministers of Ukraine.
+The conditions for using water bodies, the amount of rent, and the term of the lease agreement are determined in the lease agreement for land in conjunction with the water body located on it.
+The methodology for determining the amount of payment for leased water bodies is approved by the central executive authority that shapes state policy in the sphere of environmental protection.
+For the use of a water body, the lessee is obliged to pay rent for the water body and rent for the land plot under such a water body.
+The lease agreement for a water body defines the obligations to implement measures for the protection and improvement of the ecological state of the water body, the operation of reservoirs and ponds in accordance with the operating regimes established for them by the central executive authority that implements state policy in the sphere of water management, as well as the need to formalize the right to use hydraulic structures.
+The transfer by the lessee of the right to lease a water body to other business entities is prohibited.
+Lessees to whom a water body is granted for use on lease terms are obliged to allow other water users to carry out special water use in the manner prescribed by this Code, except in cases where such special water use makes it impossible for the lessee to use the water body for their own needs as defined in the lease agreement.
+Water users who have been issued a permit for special water use have the right to discharge wastewater into leased water bodies, provided that the standards for the maximum permissible discharge of pollutants are not exceeded.
+The use of water bodies granted on lease is carried out in accordance with the requirements of this Code, the Land Code of Ukraine, and other legislative acts of Ukraine.
+The granting of parts of fishery water bodies, fishery technological reservoirs, and water areas (water space) of internal sea waters, the territorial sea, and the exclusive (maritime) economic zone of Ukraine for use for aquaculture purposes is regulated by the Law of Ukraine "On Aquaculture."
+
+**Article 52. deleted by Law No. 1990-III of 21.09.2000**
+
+**Article 53. Use of Water Bodies for the Needs of Air Transport**
+The use of water bodies for the needs of air transport is carried out free of charge and without a corresponding permit.
+If necessary, it may be partially or fully prohibited by the Council of Ministers of the Autonomous Republic of Crimea, oblast, Kyiv, and Sevastopol city councils upon the submission of the respective executive authorities of the Autonomous Republic of Crimea, oblast, Kyiv, Sevastopol city state administrations, and the central executive authority that implements state policy in the sphere of water management development, in accordance with the law.
+
+**Article 54. Partial or Full Prohibition of the Use of Water Bodies**
+The use of water bodies that have special state significance, scientific, or cultural value, as well as those that are part of the water recycling systems of thermal and nuclear power plants, may be partially or fully prohibited in the manner established by law.
+Timber rafting on water bodies is prohibited.
+The use of water bodies in the exclusion zone and the zone of unconditional (compulsory) resettlement of the territory radioactively contaminated as a result of the Chornobyl disaster is carried out taking into account the restrictions established by the Law of Ukraine "On the Legal Regime of the Territory that was Radioactively Contaminated as a result of the Chornobyl Disaster."
+
+**Article 55. Grounds for Termination of the Right of Special Water Use**
+Termination of the right of special water use is carried out by terminating (revoking, invalidating) the permit for special water use.
+The body that issued the permit for special water use shall decide to revoke the permit or declare it invalid in the following cases:
+a water user's application for the revocation of the permit for special water use;
+declaration of the water body as having special state significance, or scientific, cultural, or therapeutic value;
+termination of a legal entity (merger, accession, division, transformation, liquidation) or termination of the entrepreneurial activity of a natural person-entrepreneur, or death of the natural person who received the permit.
+The body that issued the permit for special water use may declare it invalid if it is established that the application for the permit and the documents attached to it contained false information, except for clerical errors, obvious grammatical or arithmetic errors that do not affect the content of the submitted information.
+The body that issued the permit for special water use shall apply to an administrative court with a claim to apply a response measure in the form of annulment of the permit on the following grounds:
+establishment of the fact of providing false information in the application and the documents attached to it;
+transfer of water management structures to other water users;
+the need to primarily satisfy the drinking and domestic needs of the population;
+systematic, for two or more tax (reporting) periods, non-payment of the fee for special water use within the terms established by law;
+violation of the conditions of special water use and water protection, regarding which the central executive authority that implements state policy on state supervision (control) in the sphere of protection and rational use of waters and restoration of water resources had previously issued an order for their elimination, providing sufficient time for their elimination.
+The decision of the body that issued the permit for special water use on the termination of its validity (revocation, invalidation) is issued to the legal or natural person immediately, and if there are valid reasons - no later than three working days from the date of its adoption. In such a case, the permit's validity ceases 30 days after the adoption of the respective decision.
+
+**Article 56. Deleted.**
+
+**Article 57. Compensation for Damages Caused to Water Users by the Termination of the Right or Change of Conditions of Special Water Use**
+Water users are compensated for damages caused by the termination of the right or change of conditions of special water use, except in cases where such termination (change of conditions) was carried out through the fault of the water user or at their request.
+The procedure for compensating such damages to water users is established by the Cabinet of Ministers of Ukraine.
+
+**Chapter 11. SPECIAL WATER USE FOR SATISFYING THE DRINKING AND DOMESTIC NEEDS OF THE POPULATION**
+
+**Article 58. Requirements for the Quality of Waters Used to Satisfy the Drinking and Domestic Needs of the Population**
+To satisfy the drinking and domestic needs of the population, waters are used whose quality characteristics meet the established environmental safety standards for water use and sanitary norms.
+Water users have the right to demand information on the quality of drinking water from the water owner (water supplier).
+If the quality characteristics of these waters do not meet the established environmental safety standards for water use and sanitary norms, their use is terminated by a decision of the central executive authority that implements state policy in the sphere of safety and specific indicators of food quality.
+
+**Article 59. Centralized Water Supply for the Population**
+When carrying out special water use to meet the drinking and domestic needs of the population through centralized water supply, enterprises, institutions, and organizations responsible for drinking and domestic water pipelines shall abstract water directly from water bodies in accordance with approved projects of water intake facilities, water quality standards, and permits for special water use.
+These enterprises, institutions, and organizations are obliged to constantly monitor the quality of water in water bodies, maintain the sanitary protection zone of the water intake in proper condition, and inform the centers for disease control and prevention of the central executive authority that shapes state policy in the sphere of healthcare, the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, the central executive authority that implements state policy in the sphere of water management development, and local councils about deviations from the established water quality standards.
+At centralized groundwater intakes, within their deposits and adjacent territories, water users must establish a local network of observation wells.
+
+**Article 60. Non-Centralized Water Supply for the Population**
+When using water for the drinking and domestic needs of the population through non-centralized water supply, legal and natural persons abstract it directly from surface or groundwater bodies in the order of general and special water use.
+Periodic control over the quality of water used for non-centralized water supply for the population is carried out by enterprises, institutions, and organizations accredited by the National Accreditation Agency of Ukraine (conformity assessment bodies) at the expense of the water users.
+
+**Article 61. Use of Drinking Quality Groundwater**
+Drinking quality groundwater must be used primarily to meet the needs of drinking and domestic water supply for the population, as well as for the food industry and animal husbandry.
+
+**Chapter 12. SPECIAL WATER USE AND USE OF WATER BODIES FOR THERAPEUTIC, RESORT, AND HEALTH-IMPROVING PURPOSES**
+
+**Article 62. Classification of Water Bodies as Therapeutic**
+Water bodies with natural therapeutic properties are classified as therapeutic if they are included in a special list.
+The list of water bodies classified as therapeutic, indicating the water reserves and their therapeutic properties, as well as other conditions favorable for treatment and prevention, is approved by the Cabinet of Ministers of Ukraine upon the submission of the central executive authority that shapes state policy in the sphere of healthcare, the central executive authority that shapes state policy in the sphere of geological study and rational use of subsoil, and the central executive authority that shapes state policy in the sphere of water management development.
+
+**Article 63. Use of Water Bodies Classified as Therapeutic**
+Water bodies classified as therapeutic in the established manner are used exclusively for therapeutic and health-improving purposes.
+
+**Article 64. Procedure for Using Waters for Health-Improving, Recreational, and Sports Purposes**
+The use of waters for health-improving, recreational, and sports purposes is carried out in the order of general and special water use.
+Places for using waters for health-improving, recreational, and sports purposes are established by the relevant councils in the manner prescribed by law.
+The use of water bodies for health-improving, recreational, and sports purposes in the order of general water use may be prohibited or restricted in accordance with Article 45 of this Code.
+
+**Chapter 13. SPECIFICS OF SPECIAL WATER USE AND USE OF WATER BODIES FOR THE NEEDS OF ECONOMIC SECTORS**
+
+**Article 65. Specifics of Special Water Use and Use of Water Bodies for the Needs of Agriculture and Forestry**
+The use of waters for the needs of agriculture and forestry is carried out in the order of both general and special water use.
+When irrigating agricultural lands, water users are obliged to take measures to prevent flooding, waterlogging, salinization, and pollution of these lands.
+The quality of water used for irrigating agricultural lands must meet the established standards.
+The irrigation of agricultural lands with wastewater may be permitted by oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection, in agreement with the centers for disease control and prevention of the central executive authority that shapes state policy in the sphere of healthcare, and the central executive authority that implements state policy in the sphere of veterinary medicine.
+The irrigation of agricultural lands and the discharge of drainage waters into water bodies are carried out on the basis of a permit for special water use, which is issued to the owner of the irrigated lands in the manner established by this Code.
+When draining agricultural lands, measures must be taken to prevent the degradation and wind erosion of these lands, as well as the deterioration of the state of water bodies.
+The provisions of this article also apply to irrigated and drained lands of the forest fund.
+
+**Article 66. Specifics of Special Water Use and Use of Water Bodies for Industrial and Hydropower Needs**
+When using water bodies for industrial needs, water users are obliged to comply with the established conditions of special water use, environmental requirements, and also to take measures to reduce water consumption (especially drinking water) and to stop the discharge of polluted return waters by improving production technologies, water supply schemes, and wastewater treatment.
+Limits on the consumption of drinking water for industrial needs from municipal and departmental domestic-drinking water pipelines are set by local councils in agreement with oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection.
+In case of natural disasters, accidents, other extreme situations, as well as overconsumption by a water user of the established water consumption limit, local councils have the right to reduce or prohibit the consumption of drinking water for industrial needs from municipal water pipelines and to temporarily restrict its consumption from departmental domestic-drinking water pipelines in the interests of primarily satisfying the drinking and domestic needs of the population.
+Hydropower enterprises are obliged to comply with the regimes of water accumulation and drawdown, regimes of water level fluctuations in the upper and lower reaches, and the passage of water through hydraulic structures, taking into account the maintenance of the water level necessary to preserve the guaranteed dimensions of the shipping channel, uninterrupted navigation and passage of vessels through navigation locks, as well as the passage of fish to spawning grounds in accordance with the designs of fish passage facilities, in accordance with the operating regimes for artificial water bodies and water management systems established by law, taking into account the water availability forecast, environmental requirements, and the interests of all water users.
+Hydropower enterprises operating hydraulic structures are obliged to inform in advance the central executive authority that implements state policy in the sphere of inland water transport about the forecasted temporary inability to ensure the required water level.
+
+**Article 67. Specifics of Using Water Bodies for the Needs of Maritime and Inland Water Transport, and Small Vessels**
+Rivers, lakes, reservoirs, canals, other bodies of water, sea port water areas, as well as internal sea waters and the territorial sea are waterways of general use, except in cases where their use for this purpose is fully or partially prohibited by law.
+The list of internal sea waters and inland waterways classified as navigable is approved by the Cabinet of Ministers of Ukraine.
+The classification of maritime and inland waterways is carried out by the central executive authority that shapes state policy in the spheres of maritime and inland water transport.
+The discharge from vessels of oil, oily mixtures, noxious liquid substances, cargo and operational waste, and garbage (except for food waste) in the exclusive (maritime) economic zone of Ukraine, the territorial sea, and on other waterways of general use is prohibited.
+The discharge of clean ballast water from vessels is carried out in accordance with the international treaties of Ukraine and the rules for the protection of internal sea waters and the territorial sea from pollution and contamination. The discharge of clean ballast water on inland waterways is prohibited.
+The discharge of food waste from vessels is carried out in compliance with the requirements of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto.
+The discharge of sewage from vessels is permitted in the territorial sea, internal sea waters, on other waterways of general use, and in the water areas of sea ports without restrictions while underway and when moored, provided it is treated and disinfected in shipboard installations in accordance with the requirements of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, or in accordance with the technical requirements for inland navigation vessels, which are approved by the central executive authority that shapes state policy in the sphere of inland water transport.
+In the territorial sea, internal sea waters, on other waterways of general use, and in the water areas of sea ports, the discharge from vessels of segregated ballast is permitted if it was taken on board within the waters of the Black and Azov Sea basins, or if this ballast water was exchanged during the vessel's voyage as far as possible from the nearest land, but at a distance of not less than 50 nautical miles from the nearest land and in places with a depth of at least 200 meters, or if this ballast water has been treated (disinfected) in a shipboard ballast water management system that meets the requirements of international conventions in the field of merchant shipping.
+In this article, the terms "segregated ballast," "oil," "oily mixture," "garbage," "sewage," "clean ballast," and "noxious liquid substance" are used in the meanings given in the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto.
+For the purposes of this article, shipboard food waste means food products that have completely or partially lost their original consumer properties in the processes of their storage, processing, and consumption on board a vessel.
+Vessels and floating structures, in order to prevent pollution of waterways of general use, shall be equipped with equipment for the accumulation and/or disposal of pollutants in accordance with the requirements of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, or in accordance with the technical requirements for inland navigation vessels, which must comply with the legislation of the European Union.
+The use of water bodies for navigation by small and recreational vessels and water scooters, and the use of means for entertainment on water, is permitted in compliance with the rules of navigation in areas of intense shipping on maritime waterways and the rules of navigation on inland waterways, which are approved by the central executive authority that shapes state policy in the spheres of maritime and inland water transport, and local navigation rules for small and recreational vessels and water scooters and the use of means for entertainment on water, which are approved by the Verkhovna Rada of the Autonomous Republic of Crimea, oblast, Kyiv, and Sevastopol city councils in agreement with the central executive authority that implements state policy in the spheres of maritime and inland water transport.
+The construction on small rivers of bridges, bridge crossings, and other structures, and the laying of engineering communications that create an obstacle for the passage of small vessels, is prohibited. The under-bridge clearance of the navigation span of such bridges, crossings, and structures must be at least 1.5 meters from the design high navigation water level, and its width must be at least 3 meters. It is also prohibited to lay underwater communications (crossings) on small rivers that create an obstacle for the passage of small vessels with a maximum draft of up to 1.5 meters from the design water level.
+
+**Article 68. Specifics of Special Water Use and Use of Water Bodies for the Needs of Fisheries and Hunting**
+On water bodies (or parts thereof) that are used for commercial fishing and other aquatic harvesting or are important for the reproduction of their stocks, the rights of water users may be restricted in the interests of fisheries and aquatic harvesting. The list of commercial sections of fishery water bodies (their parts) is determined by the Cabinet of Ministers of Ukraine.
+Water users who are granted the use of fishery water bodies (their parts) are obliged to take measures that ensure the improvement of the ecological state of the water bodies and the conditions for the reproduction of fish stocks, as well as to maintain the coastal protection strips in proper sanitary condition at fishing sites.
+Part four is deleted.
+Other issues of water use for the needs of fisheries and hunting are regulated by the Law of Ukraine "On the Animal World" and other legislative acts.
+
+**Article 69. Specifics of Using Water Bodies for Firefighting Needs**
+Water abstraction for firefighting needs is carried out from any water body without a permit for special water use, in the quantity necessary to extinguish a fire.
+Using water for any other purpose from water bodies specifically designated for firefighting needs is prohibited.
+Supervision over compliance with the procedure for using water bodies for firefighting needs is carried out by local councils and fire safety authorities.
+
+**Chapter 14. CONDITIONS FOR THE DISCHARGE OF RETURN WATERS INTO WATER BODIES**
+
+**Article 70. Conditions for the Discharge of Wastewater into Water Bodies**
+The discharge of wastewater into water bodies is permitted only if there are standards for maximum permissible concentrations and established standards for the maximum permissible discharge of pollutants.
+Water users are obliged to take measures to prevent the discharge of wastewater or to stop it if it:
+1) can be used in recycling, reuse, and sequential water supply systems;
+2) contains valuable waste that can be extracted;
+3) contains industrial raw materials, reagents, semi-finished products, and final products of enterprises in quantities exceeding the established standards for technological waste;
+4) contains substances for which maximum permissible concentrations have not been established;
+5) exceeds the maximum permissible discharges of toxic substances and contains infectious disease agents;
+6) exceeds the maximum permissible standards in terms of the volume of discharged pollutants;
+7) leads to an increase in the water temperature of the water body by more than 3 degrees Celsius compared to its natural temperature in the summer period;
+8) consists of bottom residues or sludge that is formed as a result of its treatment and disinfection.
+Discharging wastewater using the terrain (gullies, lowlands, quarries, etc.) is prohibited.
+
+**Article 71. Restriction, Temporary Prohibition (Suspension), or Termination of Wastewater Discharge into Water Bodies**
+In case of exceeding the established standards for the maximum permissible discharge of pollutants, the discharge of wastewater into surface water bodies may be restricted, temporarily prohibited (suspended), or terminated in the manner established by law.
+
+**Article 72. Conditions for the Discharge of Mine, Quarry, and Pit Waters into Water Bodies and the Return of Produced Waters from Oil and Gas Fields to Underground Horizons**
+Enterprises, institutions, and organizations that pump out mine, quarry, and pit waters to prevent the flooding of mines, quarries, and pits during mineral extraction are obliged to implement effective technologies that ensure a reduction in their mineralization level before discharge into water bodies, and enterprises, institutions, and organizations that extract oil and gas shall return produced waters from oil and gas fields to underground horizons.
+The conditions for the discharge of these waters into water bodies and the return of produced waters from oil and gas fields to underground horizons are established by oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection.
+
+**Article 73. Conditions for the Discharge of Drainage Waters into Water Bodies**
+Enterprises, institutions, and organizations that operate drainage systems to eliminate flooding, waterlogging, or secondary salinization of irrigated lands are obliged to implement effective technologies to reduce the level of natural and man-made pollution of drainage waters before discharging them into water bodies.
+The conditions for discharging these waters into water bodies are established by oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection.
+
+**Article 74. Holding Ponds for Industrial Polluted Wastewater and Technological Reservoirs**
+Enterprises, institutions, and organizations that have holding ponds for industrial polluted wastewater or mine, quarry, and pit waters are obliged to implement effective technologies for their neutralization and disposal and to carry out the recultivation of lands occupied by these holding ponds.
+The discharge of these waters into surface water bodies is carried out according to an individual regulation, agreed with the oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection.
+The use of technological reservoirs (cooling ponds of thermal and nuclear power plants, fish-rearing ponds, settling ponds, etc.) must be carried out in accordance with the operating norms and rules defined in the technical designs, approved in the manner established by law.
+
+**Article 75. Procedure for the Disposal of Pollutants, Production Waste, and Wastewater in Deep Underground Aquifers and the Return of Produced Waters from Oil and Gas Fields to Underground Horizons**
+The creation of disposal sites for the burial in deep underground aquifers, which do not contain fresh water, of polluting liquid substances, production waste, and wastewater, including mineralized mine and thermal waters formed on the basis of natural waters and which cannot be treated by existing methods, is permitted in exceptional cases after conducting special studies with the permission of the central executive authority that implements state policy in the sphere of environmental protection, based on projects agreed with the specially authorized central executive authorities for health protection, the central executive authority that implements state policy in the sphere of labor protection, and the relevant local council.
+The return of produced waters from oil and gas fields to underground horizons is carried out according to technological projects agreed with the central executive authority that implements state policy in the sphere of environmental protection.
+
+**Chapter 15. OPERATION OF WATER MANAGEMENT SYSTEMS**
+
+**Article 76. Deleted.**
+
+**Article 77. Operation of Artificial Water Bodies and Water Management Systems**
+The operating regime of an artificial water body or a water management system is established by the central executive authority that implements state policy in the sphere of water management development, taking into account the water availability forecast, environmental requirements, and the interests of all water users.
+The development of operating regimes for reservoirs and water management systems is carried out taking into account the operating rules, which are approved by the central executive authority that implements state policy in the sphere of water management development for each reservoir and water management system separately.
+The operating rules for a cascade of multipurpose reservoirs and the procedure for establishing operating regimes for artificial water bodies and water management systems are approved by the central executive authority that shapes state policy in the sphere of environmental protection, in agreement with the central executive authority that shapes state policy in the spheres of maritime and inland water transport, the central executive authority that shapes state policy in the fuel and energy complex, the central executive authority that shapes state policy in the sphere of housing and communal services, the central executive authority that shapes state policy in the sphere of fisheries, the central executive authority that shapes state policy in the sphere of civil protection, and the central executive authority that implements state policy in the sphere of water management development.
+
+**Article 78. Obligations of Water Users who Operate Structures of Artificial Water Bodies and Water Management Systems**
+Water users who operate structures of artificial water bodies and water management systems are obliged to comply with the established operating regimes.
+The client for the development of operating rules for reservoirs or water management systems is the balance holder of the relevant hydraulic structures.
+
+**Chapter 16. USE OF RIVERS**
+
+**Article 79. Classification of Rivers of Ukraine**
+Depending on the catchment area of the basin, rivers are divided into large, medium, and small.
+Large rivers are those located in several geographical zones and have a catchment area of more than 50 thousand square kilometers.
+Medium rivers are those with a catchment area from 2 to 50 thousand square kilometers.
+Small rivers are those with a catchment area of up to 2 thousand square kilometers.
+Lists of large and medium rivers with information on their catchment area are compiled by the central executive authority that implements state policy in the sphere of water management development and are posted on its official website.
+For the purpose of identifying surface and groundwater bodies, the rivers of Ukraine are divided into types according to the methodology for identifying surface and groundwater bodies.
+The classification of rivers of Ukraine defined in this article is not applied for the purpose of identifying surface and groundwater bodies.
+
+**Article 80. Specifics of Using Small Rivers**
+In order to protect the water availability of small rivers, it is prohibited to:
+1) change the relief of the river basin;
+2) destroy the channels of intermittent rivers, streams, and watercourses;
+3) straighten river channels and deepen their bottoms below the natural level or block them without constructing culverts, passages, or aqueducts;
+4) reduce the natural vegetation cover and forest cover of the river basin;
+5) plow floodplain lands and apply chemical agents on them;
+6) carry out drainage reclamation works on waterlogged areas and tracts in the upper reaches of rivers;
+7) allocate land plots in river floodplains for any construction (except for hydraulic, hydrometric, and linear structures), as well as for gardening and vegetable growing;
+8) carry out other works that may negatively affect or do affect the water availability of the river and the quality of water in it.
+Water users and land users whose lands are located in the river basin shall ensure the implementation of comprehensive measures to preserve the water availability of rivers and protect them from pollution and contamination.
+
+**Article 81. Set of Measures to Preserve the Water Availability of Rivers and Protect them from Pollution**
+The set of measures to preserve the water availability of rivers and protect them from pollution includes:
+1) observing restrictions on the use of lands within water protection zones, coastal protection strips, and beach zones;
+2) creating specialized services for the maintenance of rivers, coastal protection strips, hydraulic structures, and keeping them in proper condition;
+3) introducing a soil-protective farming system with contour-meliorative organization of the catchment area;
+4) carrying out agrotechnical, agro-forest-meliorative, and hydraulic anti-erosion measures, as well as creating appropriate structures (culverts, passages, aqueducts, etc.) for the organized diversion of surface runoff during the construction and operation of roads, railways, and other engineering communications;
+4.1) preventing eutrophication and pollution of water bodies with nitrates;
+5) introducing water-saving technologies, as well as implementing the water protection measures provided for by this Code at enterprises, institutions, and organizations located in the river basin;
+6) creating hydrological nature monuments.
+In order to assess the ecological state of a river basin and to develop measures for the rational use and protection of waters and the restoration of water resources, a passport is compiled for it in the manner determined by the Cabinet of Ministers of Ukraine.
+
+**Article 82. Regulation of River Flow, Creation of Artificial Bodies of Water**
+In order to preserve the ecological and chemical state of rivers, it is prohibited to construct reservoirs and ponds in their basins with a total volume exceeding the runoff volume of the given river in a calculated low-water year, which occurs once every twenty years.
+The creation of artificial bodies of water and water-retaining structures on rivers and in their basins that affect the natural runoff of surface and the state of groundwater is permitted only with the permission of local councils in agreement with the oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, the central executive authority that implements state policy in the sphere of water management development, and the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil.
+
+**Chapter 17. TRANSBOUNDARY WATERS. WATER BODIES AFFECTED BY RADIOACTIVE CONTAMINATION**
+
+**Article 83. Use of Transboundary Waters**
+The use of transboundary waters is carried out in the manner determined by the legislation of Ukraine and interstate treaties.
+
+**Article 84. Use of Waters Affected by Radioactive Contamination**
+The use of waters affected by radioactive contamination is carried out in accordance with the Law of Ukraine "On the Legal Regime of the Territory Affected by Radioactive Contamination as a Result of the Chornobyl Disaster" and other legislative acts of Ukraine.
+
+**Section IV. WATER PROTECTION**
+
+**Chapter 18. USE OF LANDS OF THE WATER FUND. WATER PROTECTION ZONES AND SANITARY PROTECTION ZONES**
+
+**Article 85. Use of Lands of the Water Fund**
+The procedure for granting lands of the water fund for use and terminating the right to use them is established by land legislation.
+Lands of the water fund are granted for permanent use to military units of the State Border Guard Service of Ukraine for the purpose of ensuring national security and defense for the construction, arrangement, and maintenance of engineering-technical and fortification structures, fences, border markers, border clearings, and communications; to water management specialized organizations, other enterprises, institutions, and organizations that have created specialized services for the maintenance of water bodies, coastal protection strips, rights-of-way, shoreline strips of waterways, hydraulic structures, and keeping them in proper condition.
+Land plots of coastal protection strips, rights-of-way, and shoreline strips of waterways may be granted for use on lease terms to enterprises, institutions, organizations, citizens' associations, religious organizations, citizens of Ukraine, foreigners and stateless persons, and foreign legal entities for haymaking, fishery needs, cultural-health, recreational, sports, and tourism purposes, as well as for conducting scientific research.
+The use of these plots for the specified purposes is carried out taking into account the requirements for the protection of rivers and bodies of water from pollution and contamination, as well as in compliance with the rules of architectural planning of suburban zones and sanitary requirements, in the manner established by the Cabinet of Ministers of Ukraine.
+
+**Article 86. Performance of Works on Lands of the Water Fund**
+On the lands of the water fund, works may be carried out related to the construction of hydraulic, linear, and hydrometric structures, engineering-technical and fortification structures, fences, border markers, border clearings, deepening of the bottom to ensure navigation, including maintenance dredging (works carried out to maintain the specified navigational dimensions of maritime and inland waterways, and sea port water areas), extraction of minerals (except sand, pebbles, and gravel in the channels of small and mountain rivers), clearing of riverbeds, canals, and the bottom of bodies of water, laying of cables, pipelines, other communications, as well as drilling and geological exploration works.
+The locations and procedure for carrying out the specified works (except for maintenance dredging) are determined in accordance with projects that are coordinated with the oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, the central executive authority that implements state policy in the sphere of water management development (except for works on lands occupied by seas, as well as works related to the construction, arrangement, and maintenance of engineering-technical and fortification structures, fences, border markers, border clearings, and communications), and the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil.
+The locations and procedure for carrying out maintenance dredging are determined in accordance with the passports of hydraulic structures and/or the plan of channel works and do not require obtaining a permit for carrying out works on the lands of the water fund.
+
+**Article 87. Water Protection Zones**
+To create a favorable regime for water bodies, prevent their pollution, contamination, and depletion, the destruction of aquatic plants and animals, and to reduce fluctuations in runoff, water protection zones are established along rivers, seas, and around lakes, reservoirs, and other bodies of water.
+A water protection zone is a nature protection territory with regulated economic activity.
+On the territory of water protection zones, it is prohibited:
+1) to use persistent and highly toxic pesticides;
+2) to set up cemeteries, animal burial grounds, landfills, and filtration fields;
+3) to discharge untreated wastewater using the terrain (gullies, lowlands, quarries, etc.), as well as streams.
+In individual cases, the extraction of sand and gravel may be permitted in a water protection zone outside the lands of the water fund on the dry part of the floodplain, in ancient riverbeds, in agreement with the oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, the central executive authority that implements state policy in the sphere of water management development, and the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil.
+The outer boundaries of water protection zones are determined by specially developed projects.
+The procedure for determining the size and boundaries of water protection zones and the regime of economic activity within them are established by the Cabinet of Ministers of Ukraine.
+The executive committees of village, settlement, and city councils are obliged to inform the public and all interested organizations about decisions regarding the boundaries of water protection zones and coastal protection strips, as well as the water protection regime in effect on these territories.
+Control over the creation of water protection zones and coastal protection strips, as well as over compliance with the regime of use of their territories, is exercised by the bodies that carry out state control over the use and protection of lands and the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources.
+
+**Article 88. Coastal Protection Strips**
+In order to protect surface water bodies from pollution and contamination and to preserve their water availability, land plots for coastal protection strips are allocated within water protection zones along rivers, seas, and around lakes, reservoirs, and other bodies of water.
+Coastal protection strips are established along the banks of rivers and around bodies of water along the water's edge (during a certain period) with a width of:
+for small rivers, streams, and creeks, as well as ponds with an area of less than 3 hectares - 25 meters;
+for medium rivers, reservoirs on them, and ponds with an area of more than 3 hectares - 50 meters;
+for large rivers, reservoirs on them, and lakes - 100 meters.
+If the slope steepness is more than three degrees, the minimum width of the coastal protection strip is doubled.
+Coastal protection strips are established on land plots of all land categories, except for the lands of maritime and inland water transport.
+The lands of coastal protection strips are in state and municipal ownership and can be granted for use only for the purposes specified by this Code.
+Within existing populated areas, a coastal protection strip is established taking into account urban planning documentation.
+Within populated areas, coastal protection strips are established in accordance with comprehensive spatial development plans for territorial communities, general plans of populated areas, and if they are absent or if the boundaries of such strips are not established by the said urban planning documentation, they are determined with a width of 100 meters from the water's edge of seas, sea bays, and limans, and for other water bodies - in accordance with the second part of this article.
+The boundaries of coastal protection strips and beach zones are indicated in land management documentation and urban planning documentation and are marked on the territory by executive authorities and local self-government bodies with informational signs. Information about the boundaries of coastal protection strips and beach zones is entered into the State Land Cadastre as information about restrictions on land use.
+Part eight is deleted.
+Along seas and around sea bays and limans, a coastal protection strip is established with a width of at least two kilometers from the water's edge.
+Within the coastal protection strip of seas and around sea bays and limans, a beach zone is established, the width of which is determined depending on the landscape-forming activity of the sea, but not less than 100 meters from the water's edge, which includes:
+territories located between the line of maximum low tide and the line of maximum wave run-up recorded during severe storms, as well as the territory of the shore that is periodically flooded by waves;
+coastal territories - composed of sand, gravel, stones, shell rock, sedimentary rocks formed as a result of the sea's activity, or other natural or anthropogenic factors;
+rocks and other mountain formations.
+A beach zone is not established within the coastal protection strip of seas and around sea bays and limans on land plots classified as lands of maritime transport, as well as on land plots where military and other defense objects and fishery enterprises are located.
+The use of the beach zone within the coastal protection strip of seas and around sea bays and limans is carried out in compliance with the requirements for the protection of the marine environment, the coastal protection strip from pollution and contamination, and the requirements of sanitary legislation.
+Citizens are guaranteed unimpeded and free access to the coast of seas, sea bays, limans, and islands in internal sea waters within the beach zone, to the banks of rivers, bodies of water, and islands for general water use, except for lands of protection zones, sanitary protection zones, sanitary-protective zones, and zones of special land use regime, as well as land plots on which are located:
+hydraulic, hydrometric, and linear structures;
+high-hazard facilities;
+boarding houses, rehabilitation facilities, sports facilities, sanatoriums and other therapeutic and health-improving institutions, and children's health camps that have the appropriate documents required by law for the structures and for carrying out the corresponding activities;
+objects of the nature reserve fund, and cultural heritage objects.
+Restricting citizens' access in any way (including by installing fences or other structures) to the coast of water bodies on land plots of coastal protection strips that are in the use of legal or natural persons, as well as charging a fee for it, is a ground for terminating the right to use the land plots of coastal protection strips by a court decision.
+In the case of granting the right to use a beach zone, users are obliged to ensure unimpeded and free passage along the shore of the sea, bay, or liman. Restricting passage in any way along the shore of the sea, sea bay, or liman within the beach zone or charging a fee for it is a ground for terminating the right to use the beach zone by a court decision.
+Within populated areas, local executive authorities and local self-government bodies allocate and equip beach zones for unimpeded and free use.
+On islands, a regime of limited economic activity is established, as provided for coastal protection strips.
+The regime of use of objects and territories of the nature reserve fund located within the coastal strip of seas and around sea bays and limans is regulated by the Law of Ukraine "On the Nature Reserve Fund of Ukraine."
+
+**Article 89. Restriction of Economic Activity in Coastal Protection Strips along Rivers, around Bodies of Water, and on Islands**
+Coastal protection strips are a nature protection territory with a regime of limited economic activity.
+In coastal protection strips along rivers, around bodies of water, and on islands, it is prohibited to:
+1) plow lands (except for soil preparation for grassing and afforestation), as well as gardening and vegetable growing;
+2) store and apply pesticides and fertilizers;
+3) set up summer camps for livestock;
+4) construct any structures (except for hydraulic, navigational, hydrometric, and linear structures, as well as engineering-technical and fortification structures, fences, border markers, border clearings, communications, outdoor sports grounds, and physical culture and sports facilities that are not real estate objects), including recreation centers, dachas, garages, and car parks;
+5) wash and service transport vehicles and machinery;
+6) set up garbage dumps, manure storage facilities, liquid and solid production waste collectors, cemeteries, animal burial grounds, filtration fields, etc.;
+7) burn dry vegetation or its remains in violation of the procedure established by the central executive authority that shapes state policy in the sphere of environmental protection.
+Objects located in a coastal protection strip may be operated if this does not violate its regime. Unsuitable for operation structures, as well as those that do not meet the established economic regimes, are subject to removal from the coastal protection strips.
+In coastal protection strips, reconstruction, restoration, and major repair of existing objects are permitted.
+
+**Article 90. Restriction of Economic Activity in Coastal Protection Strips along Seas, Sea Bays, and Limans, and on Islands in Internal Sea Waters**
+The coastal protection strip along seas, sea bays, and limans is part of the sanitary protection zone of the sea and can be used only for the construction of military and other defense objects, objects that generate energy by using wind, solar, and wave energy, objects for the supply, distribution, transmission (transport) of energy, as well as sanatoriums, children's health camps, and other therapeutic and health-improving institutions with mandatory centralized water supply and sewerage, and hydraulic, hydrometric, and linear structures.
+In coastal protection strips along seas, sea bays, and limans, and on islands in internal sea waters, it is prohibited to:
+1) apply persistent and highly toxic pesticides;
+2) set up domestic and industrial waste disposal sites and wastewater collectors;
+3) set up cesspools for the accumulation of domestic wastewater with a volume of more than 1 cubic meter per day;
+4) set up filtration fields and create other structures for receiving and disinfecting liquid waste;
+5) burn dry vegetation or its remains in violation of the procedure established by the central executive authority that shapes state policy in the sphere of environmental protection.
+Within the beach zone of coastal protection strips, the construction of any structures is prohibited, except for hydraulic, hydrometric, and linear structures, as well as engineering-technical and fortification structures, fences, border markers, border clearings, and communications.
+
+**Article 91. Rights-of-Way**
+For the needs of operation and protection from pollution, damage, and destruction of main, inter-farm, and other canals on irrigation and drainage systems, hydraulic and hydrometric structures, as well as bodies of water and dams on rivers, rights-of-way are established with a special regime of use.
+The sizes of rights-of-way and the regime of their use are established by a project developed and approved by water users in agreement with the oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, and the central executive authority that implements state policy in the sphere of water management development.
+Land plots within rights-of-way are allocated for creating water protection forest plantations, bank-strengthening and anti-erosion hydraulic structures, and constructing crossings and production facilities.
+
+**Article 92. Shoreline Strips of Waterways**
+On navigable waterways outside the boundaries of urban settlements, shoreline strips are established for carrying out work related to navigation.
+The size of the shoreline strip of a waterway is determined by a width of at least 20 meters from the water's edge inland at the average long-term water level within natural sections of rivers and at the normal impounded level within artificially created waterways.
+On a bank with a slope of more than 45 degrees, the shoreline strip of a waterway is determined inland from its edge.
+The procedure for establishing shoreline strips of waterways and their use is determined by the Cabinet of Ministers of Ukraine.
+
+**Article 93. Sanitary Protection Zones**
+In order to protect water bodies in areas of water abstraction for centralized water supply for the population, therapeutic and health-improving needs, sanitary protection zones are established, which are divided into belts of special regime.
+The boundaries of sanitary protection zones of water bodies are established by local councils on their territory in agreement with the central executive authority that implements state policy in the sphere of water management development, the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, oblast, Kyiv, Sevastopol city state administrations, and the executive authority of the Autonomous Republic of Crimea for environmental protection.
+The regime of sanitary protection zones of water bodies is established by the Cabinet of Ministers of Ukraine.
+
+**Chapter 19. WATER BODIES OF THE NATURE RESERVE FUND**
+
+**Article 94. Protection and Use of Water Bodies Classified as part of the Nature Reserve Fund**
+Water bodies classified in the manner established by law as territories and objects of the nature reserve fund are protected and used in accordance with the requirements established by the Law of Ukraine "On the Nature Reserve Fund of Ukraine" (2456-12).
+On water bodies classified as part of the nature reserve fund, any activity that contradicts their intended purpose is prohibited.
+
+**Chapter 20. PROTECTION OF WATERS FROM POLLUTION, CONTAMINATION, AND DEPLETION**
+
+**Article 95. Protection of Waters (Water Bodies)**
+All waters (water bodies) are subject to protection from pollution, contamination, depletion, and other actions that may worsen water supply conditions, harm human health, lead to a decrease in fish stocks and other aquatic resources, worsen the living conditions of wild animals, reduce soil fertility, and cause other adverse phenomena due to changes in the physical and chemical properties of waters, a reduction in their capacity for natural purification, and disruption of the hydrological and hydrogeological regime of waters.
+The activity of natural and legal persons that harms waters (water bodies) may be terminated by a court decision.
+
+**Article 96. Conditions for the Siting, Design, Construction, Reconstruction, and Commissioning of Enterprises, Structures, and other Objects that May Affect the State of Waters**
+During the siting, design, construction, reconstruction, and commissioning of enterprises, structures, and other objects, as well as during the introduction of new technological processes, the rational use of waters must be ensured. This involves providing for technologies that ensure the protection of waters from pollution, contamination, and depletion, the prevention of their harmful effects, the protection of lands from salinization, flooding, or overdrying, and also contribute to the preservation of natural conditions and landscapes both directly in their location zone and in the catchment area of water bodies.
+The design and construction of once-through water supply systems for industrial enterprises is prohibited, with the exception of enterprises that, due to production technology, cannot be converted to a recycling water supply.
+The implementation of projects for economic and other activities without an assessment of their impact on the state of waters is prohibited.
+
+**Article 97. Conditions for the Siting, Design, Construction, Reconstruction, and Commissioning of Enterprises, Structures, and other Objects that May Affect the State of Fishery Water Bodies**
+During the siting, design, construction, reconstruction, and commissioning of enterprises, structures, and other objects on fishery water bodies, measures are taken to ensure the protection of fish, other aquatic animals and plants, and their reproduction.
+The main measures to ensure the protection and reproduction of fish stocks, aquatic animals, and plants include equipping water intake and other structures with fish protection devices in accordance with approved projects, constructing fish hatcheries, artificial spawning grounds, fish passage facilities, preparing the reservoir bed, etc.
+
+**Article 98. Prohibition on the Commissioning of Enterprises, Structures, and other Objects that Affect the State of Waters**
+It is prohibited to commission:
+1) new and reconstructed enterprises, workshops, units, municipal, and other objects not equipped with devices and treatment facilities of the required capacity that prevent the pollution and contamination of waters or their harmful effects, and not equipped with the necessary measuring instruments that account for the volumes of water abstraction and discharge;
+2) irrigation systems, reservoirs, and canals - until the measures provided for by the projects to prevent flooding, inundation, waterlogging, salinization of lands, and soil erosion, as well as pollution of surface and groundwater by discharge from irrigation systems, have been carried out;
+3) drainage systems - until the water receivers and other structures are fully ready in accordance with the approved projects;
+4) water intake structures - without fish protection devices and without sanitary protection zones for water intakes established in accordance with approved projects;
+5) hydraulic structures - until the devices for passing floodwaters and fish are fully ready in accordance with the approved projects;
+6) operational water wells - without equipping them with water-regulating and control-measuring devices.
+Filling a reservoir before carrying out the measures provided for by the projects for the preparation of its bed is prohibited.
+
+**Article 99. Prohibition of Discharging Waste and Garbage into Water Bodies**
+The discharge of industrial, domestic, radioactive, and other types of waste and garbage into water bodies is prohibited.
+
+**Article 100. Protection of the Surface of Catchment Areas and Ice Cover of Bodies of Water, Watercourses, as well as Seas, their Bays, and Limans**
+Enterprises, institutions, organizations, and citizens are prohibited from polluting and contaminating the surfaces of catchment areas, the ice cover of bodies of water, watercourses, as well as seas, their bays, and limans with industrial, domestic, and other waste, garbage, petroleum, chemical, and other polluting substances.
+
+**Article 101. Protection of Waters from Pollution and Contamination due to Losses of Lubricants, Fuel, Chemical, Petroleum, and other Polluting Substances**
+The owners of water transport means, pipelines, floating and other structures on water bodies, as well as other legal and natural persons, are obliged to ensure the protection of waters from pollution and contamination due to losses of lubricants, fuel, chemical, petroleum, and other polluting substances.
+
+**Article 102. Protection of Internal Sea Waters and the Territorial Sea**
+It is prohibited to discharge into internal sea waters and the territorial sea from vessels, means for entertainment on water, stationary and floating platforms, as well as aircraft, chemical, radioactive, and other harmful substances, radioactive or other waste, materials, objects, and garbage that may cause sea pollution (except for discharges carried out in accordance with Article 67 of this Code).
+The protection of internal sea waters and the territorial sea from pollution and contamination is carried out in accordance with this Code, international treaties of Ukraine, as well as the rules for the protection of internal sea waters and the territorial sea from pollution, which are developed taking into account the international treaties of Ukraine and are approved by the Cabinet of Ministers of Ukraine.
+
+**Article 103. Prevention of Water Pollution by Fertilizers and Chemical Plant Protection Agents**
+In order to prevent water pollution, agricultural and forestry enterprises, peasant (farmer) households, and citizens are obliged to comply with the established rules for the storage, transportation, and use of fertilizers, chemical plant protection agents, and other toxic preparations and substances.
+
+**Article 104. Protection of Water Bodies Classified as Therapeutic**
+The protection of water bodies classified as therapeutic is carried out in the manner established for the sanitary protection of resorts.
+In order to protect water bodies classified as therapeutic, sanitary protection districts for resorts with a special regime are established in the manner provided for by healthcare legislation.
+The discharge of any return waters into water bodies classified as therapeutic is prohibited.
+
+**Article 105. Protection of Groundwater**
+Enterprises, institutions, and organizations whose activities may negatively affect the state of groundwater, especially those that operate holding ponds for industrial, domestic, and agricultural effluents or waste, must take measures to prevent the pollution of groundwater, as well as equip local networks of observation wells to monitor the qualitative state of these waters.
+In the event that aquifers with drinking-quality groundwater are discovered, persons conducting drilling, mining, and other works related to the search, exploration, and exploitation of mineral deposits must report this in the established manner to the oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, and the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, in order to take measures to protect groundwater from depletion and pollution.
+All water wells unsuitable for operation, abandoned observation and exploration wells for all types of minerals, as well as vertical and other mining-exploration and operational mine workings and abandoned wells must be plugged or decommissioned.
+The decommissioning of exploration workings and the plugging of exploration wells of any purpose are carried out by the organizations that perform the exploration work, and of unsuitable and abandoned operational and observation wells and workings - by the organizations on whose balance sheet they are located.
+If it is impossible to identify the owner of abandoned wells and workings, their decommissioning is carried out by a decision of local councils and the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil.
+If the operation of artesian wells is possible, they are equipped with regulating devices.
+In case of depletion of groundwater reserves, as well as in case of groundwater pollution, the reasons why this occurred are established, and upon the proposals of the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, and the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, measures for their restoration are carried out at the expense of the guilty parties.
+
+**Article 106. Carrying out Special Works for the Construction of Operational Water Wells**
+Special works for the construction of operational water wells are carried out in accordance with design and estimate documentation by organizations that have the appropriate permits to perform such works.
+Part two is deleted.
+The said documentation is coordinated in the manner established by the Law of Ukraine "On the Regulation of Urban Development Activities."
+
+**Chapter 21. PREVENTION OF THE HARMFUL EFFECTS OF WATERS AND ACCIDENTS ON WATER BODIES AND ELIMINATION OF THEIR CONSEQUENCES**
+
+**Article 107. Harmful Effects of Waters and Measures for their Prevention and Elimination of their Consequences**
+The harmful effects of waters are:
+1) the consequences of flooding that led to the inundation and flooding of lands and populated areas;
+2) the destruction of banks, protective dams, and other structures;
+3) waterlogging, flooding, and salinization of lands caused by an increase in the groundwater level as a result of non-standardized water supply during irrigation, water leakage from water supply and sewerage systems, and the blocking of groundwater flows during the placement of large industrial and other structures;
+4) the drying of lands caused by the abstraction of groundwater in quantities exceeding the established water withdrawal volumes;
+5) the pollution (salinization) of lands in mineral extraction areas, as well as after the completion of the exploitation of deposits and their conservation;
+6) soil erosion, the formation of ravines, landslides, and mudflows.
+When designing water management and other objects, the possible harmful effects of waters must be taken into account, and during the operation of these objects, measures must be taken to prevent them, namely:
+1) grassing and creating forest plantations on coastal protection strips, slopes, gullies, and ravines;
+2) constructing anti-erosion hydraulic structures, earth embankments, spillways, protective dams, and regulating reservoirs;
+3) constructing drainage systems;
+4) strengthening banks, etc.
+
+**Article 107.1. Flood Risk Management Plans**
+Flood risk management plans are developed for specific territories within a river basin district that have a high risk of flooding.
+Flood risk management plans are developed and implemented to reduce the potential negative impact of floods on human life, the environment, cultural heritage, and economic activity.
+Flood risk management plans are approved by the Cabinet of Ministers of Ukraine.
+The procedure for developing a flood risk management plan is approved by the Cabinet of Ministers of Ukraine.
+Methodologies for developing flood hazard and risk maps and for the preliminary assessment of flood risks are approved by the central executive authority that shapes state policy in the sphere of hydrometeorological activities.
+
+**Article 108. Urgent Measures to Prevent Natural Disasters Caused by the Harmful Effects of Waters, Accidents on Water Bodies, and to Eliminate their Consequences**
+In the event of a threat of a natural disaster related to the harmful effects of waters, local councils, with the involvement of enterprises, institutions, and organizations, are obliged to take urgent measures to prevent this disaster, and in the event of its occurrence - to immediately eliminate its consequences in accordance with the legislation of Ukraine.
+In emergency situations on water bodies related to their pollution, which may adversely affect human health and the state of aquatic ecosystems, the enterprise, institution, or organization through whose fault the accident occurred or which discovered it, must immediately begin to eliminate its consequences and report the accident to the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, the central executive authority that implements state policy in the sphere of water management development, the centers for disease control and prevention of the central executive authority that shapes state policy in the sphere of healthcare, the oblast, Kyiv, Sevastopol city state administrations, the executive authority of the Autonomous Republic of Crimea for environmental protection, and the relevant council.
+The central executive authority that implements state policy in the sphere of water management development must ensure the accident-free operation of water bodies during floods and freshets, predict the spread of their consequences, and, together with the relevant councils, take measures to ensure the uninterrupted water supply for the population and economic sectors.
+The central executive authority that implements state policy in the sphere of hydrometeorological activities monitors the development of natural phenomena and provides local councils and state executive authorities with the necessary hydrological and hydrochemical information.
+Local councils are obliged to inform the public about accidents, natural disasters, their scale, possible violations of environmental safety, and the measures taken to eliminate their consequences.
+
+**Section V. DISPUTES ON ISSUES OF USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES. LIABILITY FOR VIOLATION OF WATER LEGISLATION**
+
+**Chapter 22. RESOLUTION OF DISPUTES ON ISSUES OF USE AND PROTECTION OF WATERS AND RESTORATION OF WATER RESOURCES**
+
+**Article 109. Procedure for Consideration of Disputes on Issues of Use and Protection of Waters and Restoration of Water Resources**
+Disputes on issues of use and protection of waters and restoration of water resources are considered by the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, the central executive authority that implements state policy in the sphere of water management development, the central executive authority that implements state policy in the sphere of geological study and rational use of subsoil, local councils, a court, or an arbitration court in the manner established by law.
+Plaintiffs - the central executive authority that implements state policy on state supervision (control) in the sphere of environmental protection, rational use, reproduction, and protection of natural resources, and the central executive authority that implements state policy in the sphere of water management development - are exempt from paying the state fee in cases concerning the recovery of funds to compensate for damages caused by violations of water legislation.
+Disputes on issues of water use and protection that arise with other states, as well as between foreigners, stateless persons, foreign legal entities, and the owner of the waters, are considered in accordance with the legislation of Ukraine.
+
+**Chapter 23. LIABILITY FOR VIOLATION OF WATER LEGISLATION**
+
+**Article 110. Liability for Violation of Water Legislation**
+Violation of water legislation entails disciplinary, administrative, civil, or criminal liability in accordance with the legislation of Ukraine.
+Water users are exempt from liability for violations of water legislation if they arose as a result of force majeure or military actions.
+Liability for violation of water legislation is borne by persons guilty of:
+1) unauthorized seizure of water bodies;
+2) pollution and contamination of waters;
+3) violation of the economic activity regime in water protection zones and on lands of the water fund;
+4) destruction of the beds of rivers, streams, and watercourses, or violation of the natural conditions of surface runoff during the construction and operation of roads, railways, and other engineering communications;
+5) commissioning of enterprises, municipal, and other objects without treatment facilities or devices of adequate capacity;
+6) non-compliance with the conditions of a permit or violation of the rules of special water use;
+7) unauthorized conduct of hydraulic works (construction of ponds, dams, canals, wells);
+8) violation of the rules for maintaining state water accounting or distortion or inclusion of false information in state statistical reporting documents;
+8-1) burning of dry vegetation or its remains in violation of the procedure established by the central executive authority that shapes state policy in the sphere of environmental protection, in coastal protection strips and on islands;
+9) damage to water management and hydrometric structures and devices, violation of operating rules and established operating regimes;
+10) illegal creation of systems for discharging return waters into water bodies, the city sewerage network, or storm sewers, and unauthorized discharge of return waters;
+11) use of lands of the water fund not for their intended purpose;
+12) failure to report (concealment of) information about emergency situations on water bodies;
+13) refusal to provide (concealment of) design documentation and conclusions regarding the quality of projects for enterprises, structures, and other objects that may affect the state of waters, as well as acts and conclusions of commissions that accepted the object for operation;
+14) violation of the rules for the protection of internal sea waters and the territorial sea from pollution and contamination;
+15) restricting in any way the unimpeded and free access of citizens to the coast of seas, sea bays, limans, and islands in internal sea waters within the beach zone, as well as to the banks of rivers, bodies of water, and islands for general water use, except in cases provided for by law.
+The legislation of Ukraine may establish liability for other offenses regarding the use and protection of waters and the restoration of water resources.
+
+**Article 111. Compensation for Damages Caused as a Result of Violations of Water Legislation**
+Enterprises, institutions, organizations, and citizens of Ukraine, as well as foreigners and stateless persons, and foreign legal entities are obliged to compensate for damages caused by them as a result of violations of water legislation, in the amounts and manner established by the legislation of Ukraine.
+Compensation for damages caused as a result of violations of water legislation does not exempt the guilty parties from the fee for special water use, nor from the need to take measures to eliminate the harmful consequences.
+Holding persons guilty of violating water legislation liable does not exempt them from the duty to compensate for the damages they caused as a result of violating water legislation.
+
+**Section VI. INTERNATIONAL RELATIONS**
+
+**Chapter 24. INTERNATIONAL TREATIES**
+
+**Article 112. Application of International Treaties**
+If an international treaty in which Ukraine participates establishes rules other than those provided for by the water legislation of Ukraine, then the rules of the international treaty shall apply.
+

@@ -1,0 +1,1032 @@
+****
+Please provide the source text for translation.
+
+****
+NATIONAL ASSEMBLY OF THE SOCIALIST REPUBLIC OF VIETNAM
+**Independence - Freedom - Happiness**
+
+Law No.: 28/2023/QH15
+
+**LAW ON WATER RESOURCES**
+
+Pursuant to the Constitution of the Socialist Republic of Vietnam,
+The National Assembly promulgates the Law on Water Resources.
+
+**Chapter I**
+**GENERAL PROVISIONS**
+
+**Article 1. Scope of regulation**
+1. This Law provides for the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources; prevention, control, and remediation of harm caused by water within the territory of the Socialist Republic of Vietnam.
+2. Groundwater beneath the seabed and seawater within the exclusive economic zone and continental shelf of the Socialist Republic of Vietnam; mineral water and natural hot water are not within the scope of regulation of this Law.
+
+**Article 2. Definition of terms**
+In this Law, the terms below shall be construed as follows:
+1. *Water resources* include surface water, groundwater, rainwater, and seawater.
+2. *Water sources* are natural and man-made accumulations of water. Natural accumulations of water include rivers, streams, canals, ditches, creeks, lakes, ponds, marshes, lagoons, underground aquifers, and other naturally formed accumulations of water. Man-made accumulations of water include hydroelectric and irrigation reservoirs, rivers, canals, ditches, creeks, lakes, ponds, marshes, and other accumulations of water created by humans.
+3. *Surface water* is water existing on the surface of the mainland and islands.
+4. *Groundwater* is water existing in underground aquifers on the mainland, islands, and beneath the seabed.
+5. *Transboundary surface water sources* are surface water sources distributed across the territory of Vietnam and the territory of another country.
+6. *Inter-provincial surface water sources* are surface water sources distributed across the territory of two or more provinces or centrally-governed cities.
+7. *Intra-provincial surface water sources* are surface water sources distributed across the territory of one province or centrally-governed city.
+8. *A river basin* is the land area within which surface water and groundwater naturally flow into a river and exit through a common outlet or to the sea.
+9. *A transboundary river basin* is a river basin situated on the territory of Vietnam and the territory of another country.
+10. *An inter-provincial river basin* is a river basin situated on the territory of two or more provinces or centrally-governed cities.
+11. *An intra-provincial river basin* is a river basin situated on the territory of one province or centrally-governed city.
+12. *A domestic water source* is a water source with the function of supplying water for domestic use.
+13. *Water source pollution* is the alteration of the physical, chemical, or biological properties of water that does not conform to environmental standards and technical regulations, adversely affecting humans, living organisms, and nature.
+14. *Water source degradation* is the decline in the quantity and quality of a water source, adversely affecting water exploitation and use activities and aquatic ecosystems.
+15. *Water source depletion* is a severe decline in the quantity of water, rendering the water source no longer exploitable or usable.
+16. *The function of a water source* is the capacity of the water source to provide value and benefits for water use purposes.
+17. *The carrying capacity of a surface water source* is the limit to which it can receive an additional amount of pollutants while still ensuring the water quality for its intended use according to standards and technical regulations.
+18. *Minimum flow* is the lowest flow rate necessary to maintain a river, stream, or a section thereof, in order to ensure the normal development of the aquatic ecosystem and to guarantee a minimum level for water exploitation and use activities.
+19. *The groundwater abstraction threshold* is the permissible limit for groundwater abstraction aimed at ensuring it does not cause saltwater intrusion, water source degradation, water source depletion, land subsidence, or adverse impacts on water sources and the environment.
+20. *A sanitary protection zone for a domestic water intake area* is the area adjacent to a domestic water intake location that is designated for protection to prevent the pollution of the domestic water source.
+21. *A water source protection corridor* is a demarcated land strip along or around a surface water source to protect the water source and maintain its function.
+22. *Water source restoration* refers to measures to improve water quantity and quality in order to restore the flow, the function of the water source, and enhance the economic, ecological, cultural, and historical values associated with the water source.
+23. *Water security* is the assurance of water quantity and quality to serve public welfare in all situations, meeting the water use needs for socio-economic development, national defense, security, and environmental activities, and minimizing risks and harm from man-made and natural disasters related to water.
+24. *Exploitation and use of water resources* refers to activities of exploiting and using the potential and value of water resources to serve public welfare, socio-economic development, the environment, and the preservation of religious and belief activities, cultural values, and biodiversity.
+25. *Real-time reservoir operation* is the process of continuous and instantaneous regulation of a reservoir based on compliance with the reservoir operating procedure and the updating of real-time hydrometeorological information, data, and forecasts.
+26. *Wastewater* is water whose characteristics and properties have been altered, discharged from production, business, service, domestic, or other activities.
+27. *Water reuse* is the activity of reusing wastewater that meets national technical regulations appropriate for the intended purpose of water use.
+28. *Water recycling* is the process of reusing water within a production activity cycle.
+29. *Water source development* refers to measures to enhance the capacity for water retention, storage, conveyance, transfer, sustainable exploitation and use, and to increase the value of water resources.
+
+**Article 3. Principles for the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and for the prevention, control, and remediation of harm caused by water**
+1. Ensuring sovereignty, unity, and territorial integrity, national interests, fairness, and reasonableness in the protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and in the prevention, control, and remediation of harm caused by water; ensuring water security so that all people have fair and reasonable access to and use of water.
+2. Water resources must be managed in an integrated and unified manner in terms of quantity and quality; between surface water and groundwater; between upstream and downstream, combined with the management of other natural resources.
+3. The management of water resources must be unified by river basin and by water source, combined with management by administrative boundaries; with a clear assignment and decentralization of state management responsibility for water resources and water sources, and state management responsibility for the planning, construction, and operation of irrigation works, hydroelectric power plants, urban water supply, and rural water supply.
+4. The protection of water resources must prioritize prevention, linked to the protection of water quantity and quality; the protection and improvement of forest quality must be linked to the protection and development of water-generating sources and the functions of water sources.
+5. The exploitation and use of water resources must be declared, registered, and licensed, consistent with the supply capacity of the water source, in accordance with the water resources regulation and distribution plan, and consistent with water resources planning; ensuring integrated, multi-purpose, economical, and efficient use.
+6. The management, exploitation, and use of water resources must be consistent with natural laws and conditions; culture, history, religion, and beliefs; market mechanisms, and the level of socio-economic development.
+7. The prevention, control, and remediation of harm caused by water must have proactive plans and measures; ensuring the harmonization of the interests of the nation, regions, localities, sectors, and fields; combining advanced science and technology with traditional experience and being appropriate for socio-economic conditions.
+8. National sectoral plans, technical and specialized plans with content on the exploitation and use of water resources; surface water environmental quality management plans; socio-economic development, national defense, and security plans, programs, and projects must be linked to the capacity and function of water sources, protect water resources, ensure the maintenance of minimum flow, not exceed the groundwater abstraction threshold, and be consistent with water resources planning.
+9. The protection, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water are the right, obligation, and responsibility of all agencies, organizations, and individuals.
+
+**Article 4. State policies on water resources**
+1. To modernize and professionalize water resources management, moving towards national water resources governance on a digital technology platform through the national information system and database on water resources and a system of decision support tools, ensuring the effective use of resources in water resources management.
+2. To prioritize investment in searching for, exploring, and exploiting water sources, storing water, and restoring degraded, depleted, and polluted water sources; to have preferential policies for investment projects exploiting water for domestic and production purposes for people in regions with scarce freshwater, ethnic minority areas, mountainous areas, border areas, islands, areas with difficult socio-economic conditions, and areas with particularly difficult socio-economic conditions; to create conditions for the poor, women, children, persons with disabilities, and other vulnerable groups to access domestic water.
+3. To prioritize investment in building a network for monitoring and supervising water resources, the national information system and database on water resources, and enhancing the capacity to forecast water resources, floods, inundation, droughts, saltwater intrusion, sea-level rise, and other harm caused by water.
+4. To encourage, provide incentives for, and support organizations and individuals to participate in carrying out basic surveys of water resources; protecting and developing water sources and water-generating sources; storing water and restoring degraded, depleted, and polluted water sources; regulating and distributing water resources; preventing, controlling, and remediating harm caused by water.
+5. To encourage organizations and individuals to develop and apply standards, research, transfer, and apply advanced science and technology to manage, protect, restore, and develop water sources; to exploit and use water economically and efficiently, recycle water, and reuse water; to desalinate seawater into freshwater; to collect and use rainwater, and artificially recharge groundwater; to restore degraded, depleted, and polluted water sources; and to prevent, control, and remediate harm caused by water.
+6. To expand and strengthen international integration and cooperation on water resources.
+
+**Article 5. Lists of river basins and water sources**
+1. The lists of river basins and water sources shall serve as the basis for implementing the content of management, basic survey, planning, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water by river basin and water source.
+2. The list of river basins includes:
+a) The list of transboundary river basins;
+b) The list of inter-provincial river basins;
+c) The list of intra-provincial river basins.
+3. The list of water sources includes:
+a) The list of transboundary surface water sources, the list of inter-provincial surface water sources, and the list of intra-provincial surface water sources;
+b) The list of groundwater sources.
+
+**Article 6. Development of science and technology in the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water**
+1. Scientific research, application, and development of technology shall serve the following activities:
+a) Basic survey of water resources; water resources accounting; development of a national set of indicators for water security;
+b) Monitoring, supervision, and forecasting of water sources;
+c) Regulation and distribution of water resources on a digital technology platform; development of a system of decision support tools, and real-time operating procedures for reservoirs and interconnected reservoirs;
+d) Solutions for responding to and preventing droughts, water shortages, floods, inundation, saltwater intrusion, land subsidence, and erosion of river/lake beds, banks, and shoals; application of advanced technology to desalinate seawater into freshwater;
+dd) Solutions for artificial groundwater recharge;
+e) Water recycling, water reuse, and improving water use efficiency in production, business, and services;
+g) Wastewater treatment, and the rehabilitation and restoration of degraded, depleted, and polluted water sources; solutions for water source development and protection of water-generating sources;
+h) Regulating the operation of reservoirs, and the rational exploitation and use of water sources; controlling water sources, creating sources, storing water, and building interconnected networks for water transfer;
+i) Manufacturing of water-saving equipment and technology; improvement, innovation, and upgrading of water-using equipment.
+2. Ministries, ministerial-level agencies, and provincial-level People's Committees, within the scope of their duties and powers, shall organize the development and implementation of scientific research and technological development programs to serve the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water.
+3. Based on the requirements for the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water in each period, and on the proposals of Ministries, ministerial-level agencies, and provincial-level People's Committees, the Ministry of Science and Technology shall preside over and coordinate with the Ministry of Natural Resources and Environment to develop a national-level science and technology program on water resources in accordance with the law on science and technology and other relevant provisions of law.
+
+**Article 7. National information system and database on water resources**
+1. Information and data on water resources include:
+a) Water quantity and quality;
+b) Data on the exploitation and use of water resources and the discharge of wastewater into water sources;
+c) Data from the inventory, survey, and assessment of water resources, and water resources planning;
+d) Information and data on the declaration, registration, and licensing of water resources exploration, exploitation, and use;
+dd) Lists of river basins; lists of water sources; a list of lakes, ponds, marshes, and lagoons that may not be filled in; water source protection corridors; functions of water sources; minimum flow; groundwater abstraction thresholds; cross-sections of rivers and streams; maps zoning areas at risk of drought and water scarcity; lists and maps of prohibited zones and restricted zones for groundwater abstraction, and other information on water resources;
+e) Monitoring information and data on water resources as prescribed in Article 51 of this Law, and hydrometeorological and water environmental quality monitoring data.
+2. The State shall allocate the budget to invest in the construction, management, operation, and maintenance of the national information system and database on water resources.
+3. The national information system and database on water resources must meet the following requirements:
+a) Integration, connection, interoperability, and sharing of water resources data with databases related to the basic survey, exploitation, and use of water resources of agencies, organizations, and individuals; ensuring information security and safety;
+b) Being convenient for the provision of public services on water resources; for accessing, approaching, and using information and data, and for updating information into the national information system and database on water resources in accordance with the law.
+4. Organizations and individuals are encouraged to sponsor, support, and apply new technologies in the construction, management, operation, and maintenance of the national information system and database on water resources.
+5. The Ministry of Natural Resources and Environment shall organize the construction, management, operation, and maintenance of the national information system and database on water resources; and shall update the information and data on water resources specified in Clause 1 of this Article that fall within its scope of management into the national information system and database on water resources.
+6. Ministries and ministerial-level agencies shall direct the connection and interoperability of data related to water resources as specified in Clause 1 of this Article that fall within their scope of management with the national information system and database on water resources.
+7. Provincial-level People's Committees shall direct the provision and updating of information and data on water resources as specified in Clause 1 of this Article that fall within their scope of management into the national information system and database on water resources.
+8. Organizations and individuals are encouraged to share and update information and data on water resources that they have generated into the national information system and database on water resources, and such organizations and individuals shall be given priority in the exploitation and use of information and data from the national information system and database on water resources.
+9. The Government shall provide details for this Article.
+
+**Article 8. Prohibited acts**
+1. Disposing of waste or refuse, or dumping or allowing the leakage of toxic substances, or discharging toxic exhaust gases into water sources.
+2. Discharging wastewater into groundwater sources; discharging wastewater that has not been treated to meet environmental technical regulations on wastewater into surface water sources or the sea.
+3. Discharging wastewater or introducing waste into sanitary protection zones for domestic water intake areas.
+4. Illegally exploring, exploiting, or using water resources, or illegally practicing the profession of groundwater drilling.
+5. Encroaching upon or filling in rivers, streams, canals, ditches, or creeks, except in cases otherwise provided for by law; placing obstructions or obstacles, constructing architectural works, or planting trees that obstruct flood drainage or water circulation in rivers, streams, reservoirs, canals, ditches, or creeks without remedial measures.
+6. Illegally extracting sand, gravel, mud, soil, and other types of minerals in rivers, streams, canals, ditches, creeks, lakes, or within water source protection corridors; drilling, digging, or building houses, structures, architectural objects, and other activities within water source protection corridors that cause erosion of the banks of rivers, streams, canals, ditches, creeks, or lakes.
+7. Vandalizing works for the protection, regulation, and storage of water, the exploitation and use, monitoring, and supervision of water resources, and works for the prevention, control, and remediation of harm caused by water.
+8. Falsifying information or data on water resources.
+9. Failing to comply with the operating procedures for reservoirs or interconnected reservoirs issued by a competent authority.
+10. Constructing dams, reservoirs, or works for water regulation, storage, or development contrary to water resources planning, provincial planning, and other relevant plans.
+
+**Chapter II**
+**BASIC SURVEY, STRATEGY, AND PLANNING FOR WATER RESOURCES**
+
+**Section 1**
+**BASIC SURVEY OF WATER RESOURCES**
+
+**Article 9. Basic survey activities for water resources**
+1. Basic survey activities for water resources are conducted to collect information and data to serve the development of the national water resources strategy, water resources planning, and the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, the prevention, control, and remediation of harm caused by water, and to ensure water security. The results of basic survey activities for water resources that use the state budget must be appraised and accepted by a competent state agency in accordance with the regulations of the Minister of Natural Resources and Environment.
+2. The basic survey of water resources must ensure the principles of uniformity, synchronization, inheritance, and the economical and effective use of resources.
+3. The basic survey of water resources includes the following activities:
+a) Surveying and assessing water resources;
+b) Inventorying water resources;
+c) Preparing the national water resources report;
+d) Establishing and maintaining a water resources monitoring network, and a system for water source supervision, warning, and forecasting; building and operating a system of decision support tools;
+dd) Measuring the cross-sections of rivers and streams; assessing the evolution of erosion of river beds, banks, and shoals; conducting surveys and investigations to serve the formulation of groundwater protection plans and the establishment of water source protection corridors;
+e) Developing water source scenarios; compiling reports on the exploitation and use of water resources by provinces, centrally-governed cities, and relevant Ministries to be sent to the Ministry of Natural Resources and Environment for consolidation.
+4. The master plan for the basic survey of water resources is provided for as follows:
+a) The master plan for the basic survey of water resources is a technical and specialized plan. The formulation of the master plan for the basic survey of water resources shall be based on the socio-economic development, national defense, and security strategy and plan, the national water resources strategy, and water resources planning;
+b) The master plan for the basic survey of water resources includes the following main contents: assessment of the results of the implementation of the previous planning period; identification of requirements for information and data on water resources, and the exploitation and use of water resources nationwide; identification of basic survey activities for water resources as prescribed in Clause 3 of this Article and the order of priority for implementation during the planning period; the water resources monitoring network; solutions, funding, plans, and implementation schedules; integration of the lists of transboundary surface water sources, inter-provincial surface water sources, and groundwater sources;
+c) The planning period for the master plan for the basic survey of water resources is 10 years, with a vision to 30 years;
+d) The Ministry of Natural Resources and Environment shall organize the formulation and adjustment of the master plan for the basic survey of water resources and submit it to the Prime Minister for approval.
+5. The Government shall provide details for Clause 3 of this Article and shall provide for the formulation, appraisal, approval, and adjustment of the master plan for the basic survey of water resources.
+
+**Article 10. Organization of implementation of basic survey of water resources**
+1. Basic survey activities for water resources shall be carried out according to the following provisions:
+a) Regularly for the activity specified in Point d, Clause 3, Article 9 of this Law;
+b) Annually for the activity specified in Point e, Clause 3, Article 9 of this Law;
+c) Periodically every 5 years for the activities specified in Points b, c, and dd, Clause 3, Article 9 of this Law;
+d) The activity specified in Point a, Clause 3, Article 9 of this Law shall be carried out in accordance with the master plan for the basic survey of water resources; in case of ad-hoc implementation to serve urgent tasks in the state management of water resources within a provincial area, it shall be decided by the Chairperson of the People's Committee of the same level; within the area of two or more provinces or centrally-governed cities, it shall be decided by the Minister of Natural Resources and Environment, unless decided by the Prime Minister.
+2. Funding for basic survey activities for water resources shall be allocated in the annual state budget estimate from recurrent expenditure and development investment expenditure sources in accordance with the law on the state budget and the law on public investment.
+3. The Ministry of Natural Resources and Environment is responsible for organizing the implementation of the basic survey of water resources nationwide, except for the content specified in Clause 4 of this Article; and for consolidating the results of the basic survey of water resources nationwide.
+4. Provincial-level People's Committees shall develop plans and organize the implementation of the basic survey of water resources within the areas under their management and shall consolidate and update the results into the national information system and database on water resources specified in Article 7 of this Law.
+5. Organizations and individuals carrying out basic surveys of water resources using the state budget must update the information and results of the basic survey of water resources into the national information system and database on water resources specified in Article 7 of this Law.
+6. The Government shall provide details for this Article.
+
+**Section 2**
+**STRATEGY AND PLANNING FOR WATER RESOURCES**
+
+**Article 11. National water resources strategy**
+1. The national water resources strategy is the basis for developing water resources planning and the master plan for the basic survey of water resources. The development of the national water resources strategy must be based on the results of basic surveys, forecasts of water sources, the impacts of climate change on water resources, and must ensure the following requirements:
+a) Consistency with the national master plan; socio-economic development, national defense, and security strategy and plan;
+b) Ensuring water security; protecting and developing water sources; exploiting and using water resources economically and efficiently;
+c) Water use demand, the supply capacity of water sources, and orientations for international cooperation; compliance with international treaties to which the Socialist Republic of Vietnam is a signatory.
+2. The national water resources strategy has the following main contents:
+a) Viewpoints, guiding principles, vision, and objectives for the protection, exploitation, use, and development of water sources, and the prevention, control, and remediation of harm caused by water;
+b) Orientations, tasks, and overall solutions for the protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water; priority schemes and projects for implementation in each phase of the strategy period.
+3. The national water resources strategy shall be developed for a 10-year period, with a 50-year vision.
+4. The Ministry of Natural Resources and Environment shall preside over and coordinate with relevant Ministries, ministerial-level agencies, and provincial-level People's Committees to develop the national water resources strategy and submit it to the Prime Minister for approval.
+
+**Article 12. Water resources planning**
+1. Water resources planning includes:
+a) Water resources planning, which is a national sectoral plan implemented in accordance with the law on planning. The Ministry of Natural Resources and Environment shall organize the formulation of water resources planning;
+b) Integrated planning for inter-provincial river basins, which is a technical and specialized plan that specifies the details of water resources planning and is formulated for a 10-year period, with a vision of 20 to 30 years;
+c) Planning for the protection, exploitation, and use of transboundary water sources, which is a technical and specialized plan that is formulated and adjusted when there is cooperation between countries sharing water sources, and the formulation of which is based on agreements between the countries sharing the water sources.
+2. The subjects of water resources planning are surface water and groundwater.
+3. The formulation and adjustment of technical and specialized plans of Ministries and ministerial-level agencies with content on the exploitation and use of water resources must obtain the opinion of the Ministry of Natural Resources and Environment regarding their consistency with water resources planning. In case the content on the exploitation and use of water resources in a technical and specialized plan and the content of the surface water environmental quality management plan under the law on environmental protection contradict water resources planning, they must be adjusted to be consistent with water resources planning.
+
+**Article 13. Basis for formulating integrated planning for inter-provincial river basins**
+1. The national water resources strategy, water resources planning, the socio-economic development, national defense, and security strategy and plan, and other relevant strategies and plans.
+2. The natural and socio-economic conditions of each locality in the river basin, each region, the specific conditions of each river basin, the supply capacity of water sources, and the forecast impacts of climate change on water resources.
+3. The demand for the exploitation and use of water resources by sectors and localities, and for environmental protection.
+4. The results of the basic survey of water resources.
+5. The approved task of formulating the integrated planning for the inter-provincial river basin.
+
+**Article 14. Principles for formulating integrated planning for inter-provincial river basins**
+The formulation of integrated planning for inter-provincial river basins must comply with the provisions of the law on planning and the following principles:
+1. Ensuring the comprehensive consideration of surface water with groundwater, the exploitation and use of water resources with the protection and development of water sources, and the prevention, control, and remediation of harm caused by water;
+2. Ensuring the harmonious distribution of water use benefits among localities, sectors, and fields, and between upstream and downstream; ensuring water security;
+3. Ensuring it serves as a basis for the formulation of other technical and specialized plans with content on the exploitation and use of water resources, surface water environmental quality management plans, groundwater protection plans, and the regulation and distribution of water resources.
+
+**Article 15. Task of formulating integrated planning for inter-provincial river basins**
+1. The task of formulating integrated planning for an inter-provincial river basin has the following main contents:
+a) The basis for formulating the plan;
+b) An overview of the inter-provincial river basin;
+c) The subject, scope, and content of the plan formulation;
+d) Solutions, funding, plans, and schedules for plan formulation;
+dd) The responsibilities of relevant agencies in organizing the formulation of the plan.
+2. The Minister of Natural Resources and Environment shall approve the task of formulating the integrated planning for an inter-provincial river basin.
+
+**Article 16. Contents of integrated planning for inter-provincial river basins**
+Integrated planning for an inter-provincial river basin has the following main contents:
+1. Analysis and assessment of natural and socio-economic conditions and related socio-economic development orientations; the current state of management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources; prevention, control, and remediation of harm caused by water;
+2. Forecasting trends in the quantity and quality of water sources and water use demand for various sectors during the planning period; functional zoning of water sources; areas regularly experiencing or at risk of drought and water scarcity; thresholds and quantities of water that can be abstracted for each river section, each area, and each aquifer; minimum flow in rivers and streams; reviewing and consolidating works for water regulation, storage, exploitation, use, and development; identifying water resources issues to be addressed during the planning period;
+3. Defining the viewpoints and objectives of the planning;
+4. Orientations for the regulation, distribution, and protection of water resources, and the prevention, control, and remediation of harm caused by water, including:
+a) Distribution of water quantities and order of priority for regulating and distributing water resources in case of drought or water shortage for sectors, localities, and entities exploiting and using water resources; identification of backup water sources and works for domestic water supply; inter-basin water transfer (if any);
+b) Identification of large-scale dams, reservoirs, and works for water regulation, storage, and development that have inter-regional or inter-provincial impacts or major impacts on water sources;
+c) Structural and non-structural solutions for protecting water sources and minimizing harm caused by water;
+d) Restoration of degraded, depleted, and polluted water sources;
+dd) Identification of areas and water sources that require priority for the formulation of detailed plans on one or more of the following contents: regulation, distribution, exploitation, and use of water resources; protection of water resources; prevention, control, and remediation of harm caused by water;
+e) Other contents specific to each river basin;
+5. Solutions, funding, implementation plans, and supervision of the implementation of the planning.
+
+**Article 17. Organization of formulation and approval of integrated planning for inter-provincial river basins**
+1. The Ministry of Natural Resources and Environment shall preside over and coordinate with the Ministry of Agriculture and Rural Development, the Ministry of Industry and Trade, the Ministry of Construction, and relevant Ministries, ministerial-level agencies, and provincial-level People's Committees to organize the formulation of integrated planning for inter-provincial river basins and submit it to the Prime Minister for approval.
+2. Integrated planning for inter-provincial river basins must be consulted on in writing with Ministries, ministerial-level agencies, provincial-level People's Committees, river basin organizations, large-scale water exploiting and using organizations and individuals, and other relevant agencies and organizations before being submitted to a competent authority for approval.
+3. The agency organizing the formulation of integrated planning for an inter-provincial river basin may formulate the plan itself or hire a consulting unit.
+4. Technical regulations, norms, and unit prices for the formulation of integrated planning for inter-provincial river basins shall be implemented in accordance with the regulations of the Minister of Natural Resources and Environment.
+5. The Government shall provide details for the formulation, appraisal, and approval of integrated planning for inter-provincial river basins; and shall provide for the list of inter-provincial river basins for which planning must be formulated.
+
+**Article 18. Publication and organization of implementation of integrated planning for inter-provincial river basins**
+1. No later than 15 days from the date of approval of the integrated planning for an inter-provincial river basin, the content of the planning must be published by the Ministry of Natural Resources and Environment and posted regularly and continuously on its electronic portal and notified to relevant Ministries, ministerial-level agencies, and localities. Provincial-level People's Committees within the river basin covered by the integrated planning for the inter-provincial river basin shall post the content of the planning regularly and continuously on their local electronic information pages. In cases where the planning contains content related to state secrets, it shall be implemented in accordance with the law on the protection of state secrets.
+2. Organizations, individuals, and residential communities shall be facilitated to exercise their right to supervise and propose measures for the implementation of the integrated planning for inter-provincial river basins.
+3. Information, data, and calculation models used for the development of integrated planning for inter-provincial river basins must be managed on a digital technology platform and updated and connected to the national information system and database on water resources.
+4. The Ministry of Natural Resources and Environment shall organize the implementation of the integrated planning for inter-provincial river basins; and shall update information and data on the dossier of the integrated planning for inter-provincial river basins into the national information system and database on planning in accordance with the law on planning.
+
+**Article 19. Review and adjustment of integrated planning for inter-provincial river basins**
+1. The review of integrated planning for inter-provincial river basins shall be carried out as follows:
+a) The planning shall be reviewed periodically every 5 years;
+b) The agency that organized the formulation of the planning is responsible for organizing the review of the planning;
+c) The results of the planning review must be reported to the Prime Minister.
+2. Integrated planning for inter-provincial river basins shall be considered for adjustment in the following cases:
+a) There is an adjustment to the national water resources strategy, water resources planning, the socio-economic development, national defense, and security strategy or plan, or a national sectoral plan with content on the exploitation and use of water resources that fundamentally changes the main content of the integrated planning for the inter-provincial river basin;
+b) New national key projects or works are established that affect water resources;
+c) There is a fluctuation in natural conditions that has a major impact on water resources;
+d) There is a proposal from a relevant Ministry, ministerial-level agency, or provincial-level People's Committee to adjust the functional zoning of water sources; to supplement, adjust the scale of, or remove from the planning dams, reservoirs, or works for water regulation, storage, and development, and other partial adjustments.
+3. The Prime Minister shall decide on the adjustment of the integrated planning for inter-provincial river basins, unless the Prime Minister decides to decentralize authority as prescribed in Clause 4 of this Article.
+4. In the case of a partial adjustment to the content of the functional zoning of water sources; the addition, adjustment, or removal from the integrated planning for an inter-provincial river basin of dams, reservoirs, or works for water regulation, storage, and development, and other partial adjustments that do not fundamentally change the main content of the planning, the Prime Minister shall decide on the decentralization of authority to the Minister of Natural Resources and Environment to approve the adjustment and report the implementation results to the Prime Minister.
+5. The formulation, consultation, appraisal, publication, and organization of implementation for the adjustment of integrated planning for inter-provincial river basins shall be carried out in the same manner as for the formulation of integrated planning for inter-provincial river basins as prescribed in Article 17 of this Law, except for partial adjustments as prescribed in Clause 4 of this Article.
+6. The Government shall provide details for this Article.
+
+**Article 20. Plan for the exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water in provincial planning**
+The content of the plan for the exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water in provincial planning includes the contents as prescribed by the law on planning and the following contents:
+1. Assessment of the quantity and quality of water sources in the provincial area; the current state of protection, exploitation, and use of water resources, protection of water-generating sources, prevention, control, and remediation of harm caused by water, and discharge of wastewater into water sources;
+2. Forecasting water use demand during the planning period;
+3. Orientations for investment in building a water resources monitoring network in the provincial area;
+4. Identification of small and medium-sized dams, reservoirs, and works for water regulation, storage, and development.
+
+**Chapter III**
+**PROTECTION OF WATER RESOURCES AND RESTORATION OF WATER SOURCES**
+
+**Article 21. Protection of surface water sources**
+The protection of surface water sources includes the following main activities:
+1. Management of water source protection corridors;
+2. Maintenance of minimum flow in rivers and streams; ensuring flow circulation;
+3. Prevention, control, and restoration of degraded, depleted, and polluted water sources; improving the carrying capacity of surface water sources;
+4. Protection of surface water sources with functions of regulation, water supply, and flood and inundation prevention and control; water sources with functions of protecting and preserving religious and belief activities, cultural values, biodiversity, and tourism development;
+5. Protection and development of water-generating sources;
+6. Protection of the surface water environment in accordance with the law on environmental protection.
+
+**Article 22. Functions of water sources**
+1. A water source has one or more of the following basic functions:
+a) Supplying water for domestic use;
+b) Supplying water for agricultural production and aquaculture;
+c) Supplying water for industrial production; business, services;
+d) Supplying water for hydropower;
+dd) Preservation of religious and belief activities and cultural values;
+e) Inland waterway and maritime transport;
+g) Creating landscapes and environment; tourism development; protecting the development of aquatic ecosystems; protecting and conserving biodiversity; storing water and draining floods.
+2. The function of a water source is one of the bases for selecting solutions to protect the water source, rehabilitate and restore degraded, depleted, and polluted water sources; and for deciding on the acceptance, approval, or licensing of projects that discharge wastewater into water sources in accordance with the law on environmental protection.
+3. The function of a water source is determined based on the current state and demand for water exploitation and use of sectors and localities, the requirements for the protection and preservation of religious and belief activities, cultural values, biodiversity, aquatic ecosystems, the creation of landscapes and environment, water storage, flood drainage, and the supply capacity of the water source.
+4. Surface water sources must be functionally zoned in accordance with the regulations of the Minister of Natural Resources and Environment to implement measures for the protection of water sources.
+5. The functional zoning of surface water sources is determined in the integrated planning for inter-provincial river basins for inter-provincial surface water sources and in provincial planning for intra-provincial surface water sources. The Ministry of Natural Resources and Environment shall organize the review of the functions of water sources during the review process of the integrated planning for inter-provincial river basins; provincial-level People's Committees shall organize the review of the functions of water sources in provincial planning. In cases where there is no planning or the planning does not specify the functions of water sources, the Ministry of Natural Resources and Environment shall determine and announce the functions for inter-provincial surface water sources, and provincial-level People's Committees shall determine and announce the functions for intra-provincial surface water sources.
+6. The function of a water source shall be considered for adjustment in the following cases:
+a) There is a change in the requirements for water source protection to serve socio-economic development;
+b) There is a major change in the supply capacity of the water source for which there are no remedial measures.
+7. Wastewater discharged into a surface water source must meet the environmental technical regulations on wastewater appropriate to the function of the water source, and the discharge of wastewater must comply with the provisions of the law on environmental protection.
+
+**Article 23. Water source protection corridors**
+1. Water source protection corridors are established to protect the stability of banks and prevent encroachment on land along water sources; to prevent activities that pose a risk of causing pollution or degradation of water sources; to protect the development of aquatic ecosystems, and natural flora and fauna along water sources; to protect and preserve religious and belief activities, cultural values, biodiversity, and tourism development related to water sources.
+2. Water sources for which protection corridors must be established include:
+a) Hydroelectric and irrigation dams and reservoirs on rivers and streams;
+b) Lakes on rivers and streams not falling under the provisions of Point a of this Clause;
+c) Lakes, ponds, marshes, and lagoons identified in the list of lakes, ponds, marshes, and lagoons that may not be filled in;
+d) Rivers, streams, canals, ditches, and creeks that are sources of water supply, main drainage channels, or are important for socio-economic development activities and environmental protection;
+dd) Water sources with functions of protecting and preserving religious and belief activities, cultural values, biodiversity, and tourism development not falling under the provisions of Point c of this Clause.
+3. Provincial-level People's Committees shall organize the establishment, publication, and adjustment of the list of water sources for which protection corridors must be established; and shall approve and adjust the scope of water source protection corridors and the plan and method for installing boundary markers for water source protection corridors.
+4. The scope of a water source protection corridor must be shown on the cadastral map.
+5. Water source protection corridors must be published and managed in accordance with this Law and the law on land; for the cases specified in Point c, Clause 6 of this Article, they must also be implemented in accordance with the laws on irrigation, dikes, and inland waterway transport.
+6. The determination of the scope of water source protection corridors and the installation of boundary markers for water source protection corridors are provided for as follows:
+a) The organization managing and operating the dam or reservoir specified in Point a, Clause 2 of this Article; the organization assigned to manage the lake on a river or stream specified in Point b and the lake, pond, marsh, or lagoon specified in Points c and dd, Clause 2 of this Article shall propose the scope of the water source protection corridor and submit it to the provincial-level People's Committee for approval; shall carry out the installation of boundary markers and organize the handover of the boundary markers to the provincial-level People's Committee;
+b) Provincial-level People's Committees shall organize the determination of the scope of water source protection corridors and the installation of boundary markers for water source protection corridors for cases where there is no assigned management and operation organization;
+c) In the case of irrigation dams, reservoirs, canals, and ditches belonging to irrigation works, the scope and boundary markers of the water source protection corridor shall be determined according to the boundary markers of the scope of protection for irrigation works. In cases where the boundary markers of the protection corridor for a river, stream, canal, or creek coincide with the boundary markers of the navigation channel protection corridor or the boundary markers of the dike protection corridor, the boundary markers of the navigation channel protection corridor under the law on inland waterway transport and the boundary markers of the dike protection corridor under the law on dikes shall be used;
+d) Provincial-level People's Committees shall hand over the boundary markers of the water source protection corridor to the district-level People's Committee or the commune-level People's Committee for management and protection.
+7. Agencies, organizations, residential communities, households, and individuals living, producing, conducting business, or providing services within the scope of a water source protection corridor must ensure the following requirements:
+a) Not to cause erosion of the banks of rivers, streams, canals, ditches, creeks, lakes, ponds, marshes, or lagoons, or to affect the stability and safety of rivers, streams, canals, ditches, creeks, lakes, ponds, marshes, or lagoons;
+b) Not to affect the water source protection corridor that has been approved by a competent state agency;
+c) To implement measures to protect water resources in accordance with the law.
+8. Not to newly construct or expand the scale of hospitals, infectious disease examination and treatment facilities, cemeteries, waste landfills, hazardous chemical production facilities, or production and processing facilities with hazardous waste within the scope of a water source protection corridor. For existing facilities that cause water source pollution, remedial solutions must be implemented in accordance with the law on environmental protection.
+9. The Government shall provide details for this Article; shall provide for the determination of the scope of water source protection corridors; and shall provide for the water sources for which boundary markers for protection corridors must be installed and the installation of such boundary markers.
+
+**Article 24. Minimum flow**
+1. Cases where minimum flow must be determined include:
+a) Rivers and streams with water transfer works, dams, reservoirs, or large-scale water abstraction works that may affect public welfare, socio-economic development, and aquatic ecosystems. Based on the resources, local socio-economic development conditions, the importance of the water source, disaster prevention and control requirements, and water source protection requirements, the competent authorities specified in Clauses 6 and 7 of this Article shall decide on the order of priority and the locations where minimum flow needs to be maintained for each river and stream for which minimum flow needs to be determined.
+b) Dams and reservoirs built on rivers and streams, except for dams and reservoirs that are already in operation and for which the structure for discharging the minimum flow cannot be adjusted or supplemented.
+2. The minimum flow is one of the bases for consideration during the appraisal and approval process of the following tasks:
+a) Water resources planning; technical and specialized plans with content on the exploitation and use of water resources; the plan for the exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water in provincial planning;
+b) Operating procedures for reservoirs and interconnected reservoirs in river basins;
+c) Plans for the regulation and distribution of water resources in river basins; restoration of degraded, depleted, and polluted water sources;
+d) Projects for the construction of dams and reservoirs on rivers and streams; projects with water transfer activities;
+dd) Registration and licensing of water resources exploitation;
+e) Projects directly related to the maintenance and assurance of minimum flow in rivers and streams.
+3. The determination of minimum flow must ensure the following principles:
+a) It must be carried out for each specific location on a river or stream and must ensure representativeness and systematicity within the river basin;
+b) Ensuring fairness, reasonableness, harmonization of interests, and equality among entities exploiting and using water resources, and between upstream and downstream localities;
+c) Being consistent with the characteristics of the water source, the function of the water source, the flow regime of the river or stream, topographical features, water use demand, the role of the river or stream in the river system; and consistent with the scale, method of exploitation, and operational regulation capacity of the reservoir;
+d) Being consistent with international agreements and treaties related to water resources with countries sharing water sources to which the Socialist Republic of Vietnam is a signatory.
+4. The bases for determining minimum flow include:
+a) Hydrological characteristics, flow regime, and functions of the water source; current state and demand for the exploitation and use of water resources;
+b) Requirements for the protection and prevention of degradation, depletion, and pollution of water sources; protection and conservation of aquatic ecosystems and biodiversity; disaster prevention and control; ensuring national defense and security, and other requirements related to the protection of water sources;
+c) The scale, scope of impact, method of exploitation, and water regulation capacity with respect to the dam or reservoir;
+d) International agreements and treaties related to water resources with countries sharing water sources to which the Socialist Republic of Vietnam is a signatory.
+5. The minimum flow shall be determined in the integrated planning for inter-provincial river basins for inter-provincial and transboundary rivers and streams, and in provincial planning for intra-provincial rivers and streams as specified in Point a, Clause 1 of this Article.
+In cases where there is no planning or the planning does not have content determining the minimum flow, the Ministry of Natural Resources and Environment shall determine and announce the minimum flow for inter-provincial and transboundary rivers and streams; provincial-level People's Committees shall determine and announce the minimum flow for intra-provincial rivers and streams.
+6. The Ministry of Natural Resources and Environment has the following responsibilities:
+a) To preside over the determination and adjustment of the location and value of the minimum flow on inter-provincial and transboundary rivers and streams and to consult with relevant Ministries, ministerial-level agencies, and provincial-level People's Committees before making a decision; to announce the minimum flow on inter-provincial and transboundary rivers and streams;
+b) To approve and announce the minimum flow downstream of dams and reservoirs specified in Point b, Clause 1 of this Article that fall within its licensing authority for water resources exploitation.
+7. Provincial-level People's Committees have the following responsibilities:
+a) To preside over the determination and adjustment of the location and value of the minimum flow on intra-provincial rivers and streams and to consult with the Ministry of Natural Resources and Environment and relevant agencies before making a decision; to announce the minimum flow on intra-provincial rivers and streams;
+b) To approve and announce the minimum flow downstream of dams and reservoirs specified in Point b, Clause 1 of this Article that fall within their registration and licensing authority for water resources exploitation.
+8. Organizations and individuals managing and operating dams and reservoirs as specified in Point b, Clause 1 of this Article must determine and propose the minimum flow downstream of the dam or reservoir, which shall be stated in the registration declaration or the application file for a surface water exploitation license, and submit it to the competent authority for approval.
+9. The determination and adjustment of minimum flow for the cases specified in Clause 1 of this Article shall be carried out in accordance with the regulations of the Minister of Natural Resources and Environment. The review and adjustment of minimum flow shall be carried out periodically every 5 years or when there is an adjustment to the content related to the exploitation and use of water resources in the plans; when new water exploitation projects or works are established that cause a major change to the flow regime on rivers or streams; or when there is a fluctuation in natural conditions that has a major impact on water sources.
+
+**Article 25. Ensuring flow circulation**
+The following activities must ensure the circulation of flow in accordance with this Law and other relevant provisions of law:
+1. Exploration and extraction of minerals in rivers, streams, canals, and ditches;
+2. Construction of bridges, wharves, or other works that obstruct or cross rivers, streams, canals, or ditches;
+3. Laying pipelines or cables across rivers, streams, canals, or ditches, placing cages or rafts on rivers, or other activities.
+
+**Article 26. Protection of the quality of domestic water sources**
+1. Organizations and individuals are responsible for protecting the quality of domestic water sources. A person who discovers an act causing pollution of a domestic water source is responsible for promptly reporting it to the nearest People's Committee.
+2. Provincial-level People's Committees have the following responsibilities:
+a) To control activities that pose a risk of causing pollution to domestic water sources;
+b) To determine and organize the announcement of sanitary protection zones for domestic water intake areas based on the proposals of organizations and individuals exploiting water resources for domestic use, in accordance with the regulations of the Minister of Natural Resources and Environment;
+c) To organize the monitoring and publication of information on the quality of domestic water sources, and to warn of abnormal phenomena regarding the quality of domestic water sources in the area;
+d) To direct district-level and commune-level People's Committees to implement measures to monitor, supervise, and protect the quality of domestic water sources locally.
+3. District-level and commune-level People's Committees are responsible for implementing measures to protect the quality of domestic water sources locally.
+4. The Ministry of Construction shall preside over and coordinate with the Ministry of Public Security, Ministries, ministerial-level agencies, and provincial-level People's Committees to develop a list of particularly important domestic water supply works and submit it to the Prime Minister for approval.
+5. The Ministry of Public Security shall develop and organize the implementation of plans to protect the particularly important domestic water supply works specified in Clause 4 of this Article.
+6. The Ministry of Natural Resources and Environment shall preside over and coordinate with provincial-level People's Committees to determine and announce sanitary protection zones for domestic water intake areas for works whose sanitary protection zones span the territory of two or more provinces or centrally-governed cities.
+
+**Article 27. Protection of water quality in agricultural production, aquaculture, mineral extraction, and other activities**
+1. Organizations and individuals using fertilizers, plant protection chemicals, aquatic veterinary drugs, aquaculture feed, aquaculture environmental treatment products, and other chemicals in cultivation, animal husbandry, and aquaculture must comply with the provisions of law and must not cause water source pollution.
+2. Production, business, service, and mineral extraction establishments and other activities must not discharge wastewater that has not been treated to meet environmental technical regulations into surface water sources or the sea; in case of using hazardous chemicals, safety measures must be taken, and leakage that causes water source pollution must not be allowed.
+3. Organizations and individuals using water resources for inland waterway transport, recreation, tourism, healthcare, convalescence, scientific research, and other purposes must not cause water source pollution.
+4. The Ministry of Agriculture and Rural Development shall perform state management of the use of fertilizers and plant protection chemicals in agricultural production activities in accordance with the law to ensure that it does not cause water source pollution or affect the function of water sources.
+5. Provincial-level People's Committees shall consider and decide on the change of land use purpose for open-pit mines for minerals, soil, and construction materials after exploitation ceases to create lakes for water regulation, storage, water supply, and landscape creation when they fully meet the conditions prescribed by this Law and the laws on investment, land, environmental protection, and minerals, and shall update and supplement them into the list of intra-provincial surface water sources and the list of lakes, ponds, marshes, and lagoons that may not be filled in.
+
+**Article 28. Protection of water sources with functions of protecting and preserving religious and belief activities, cultural values, biodiversity, and tourism development**
+1. Water sources with functions of protecting and preserving religious and belief activities, cultural values, biodiversity, and tourism development include:
+a) Water sources associated with important wetlands, biodiversity conservation areas, and water sources with high biodiversity value in accordance with the law on biodiversity;
+b) Water sources associated with religious and belief activities, scenic landscapes, and historical-cultural relics that have been ranked or zoned for protection in accordance with the laws on beliefs and religions, cultural heritage, and other relevant provisions of law;
+c) Water sources associated with natural heritage in accordance with the law on environmental protection.
+2. The exploitation and use of water resources, the discharge of wastewater into water sources, and other activities within the scope of the protection corridors for the water sources specified in Clause 1 of this Article must be strictly controlled and supervised to ensure they do not affect the functions of protecting and preserving religious and belief activities, cultural values, biodiversity, and tourism development of the water source.
+3. The State prioritizes the protection and restoration of the water sources specified in Clause 1 of this Article when they become degraded, depleted, or polluted.
+
+**Article 29. Protection and development of water-generating sources**
+1. The protection and development of water-generating sources is the activity of managing, protecting, and developing forests to enhance the water retention capacity of the soil, prevent soil erosion, landslides, saltwater intrusion, flash floods, and debris flows, and to protect and develop water sources.
+2. The State has policies to protect and develop forests, encourages the reclassification of forests from production forests to protection forests in accordance with planning; coordinates and allocates revenue from payments for forest environmental services to activities for the protection and development of water-generating sources in river basins; allocates revenue from the exploitation of water resources in downstream localities to pay upstream localities, ensuring fairness and reasonableness.
+3. Organizations and individuals investing in the construction of reservoirs, mineral exploitation and processing projects, and other activities that use water resources and affect forest areas must perform their obligations in accordance with the law on forestry.
+4. Organizations and individuals exploiting and using water resources must pay for forest environmental services in accordance with the law on forestry.
+
+**Article 30. Groundwater abstraction threshold**
+1. The groundwater abstraction threshold is one of the bases for consideration during the appraisal and decision-making or approval process of the following tasks:
+a) Water resources planning; provincial planning and technical and specialized plans with content on the exploitation and use of water resources; issuance of prohibited zones and restricted zones for groundwater abstraction;
+b) Plans for the regulation and distribution of water resources in river basins; restoration of degraded, depleted, and polluted groundwater sources;
+c) Licensing of groundwater exploration and abstraction;
+d) Projects and solutions for artificial groundwater recharge.
+2. The groundwater abstraction threshold is determined based on the characteristics of the water source; the current state and demand for the exploitation and use of water resources; the requirements for the protection of groundwater sources and for socio-economic development.
+3. The determination of the groundwater abstraction threshold must ensure the following requirements:
+a) It must be carried out for each area and aquifer;
+b) Balancing the amount of water abstracted with the annual amount of recharge to the aquifer and the relationship with related aquifers;
+c) Protecting groundwater sources, and harmonizing the lawful rights and interests of relevant organizations, individuals, and localities.
+4. The Government shall provide details for this Article.
+
+**Article 31. Protection of groundwater**
+1. Organizations and individuals must backfill wells that are damaged, no longer in use, or not planned for continued use in the following cases:
+a) Drilling or digging wells for the investigation, assessment, exploration, or abstraction of groundwater;
+b) Drilling for geotechnical investigation, foundation treatment for construction works, or construction of underground works;
+c) Drilling for geological exploration, or the exploration or extraction of minerals, oil, and gas, and other projects.
+2. Organizations and individuals must ensure the requirements for groundwater protection and the provisions of the law on environmental protection in the following cases:
+a) Designing and executing drilling, digging, and testing works in projects for the investigation, assessment, exploration, or abstraction of groundwater;
+b) Geotechnical investigation, foundation treatment for construction works, construction of underground works; geological exploration, or the exploration or extraction of minerals, oil, and gas;
+c) Pumping water to dewater mines or construction pits, causing a lowering of the groundwater level, and other drilling, digging, and testing activities.
+3. The drilling for investigation, survey, exploration, and abstraction of groundwater must be carried out by organizations or individuals holding a license to practice the profession of groundwater drilling.
+4. Based on the groundwater protection plan, the provincial-level People's Committee shall organize the demarcation, publication, and adjustment of the list of prohibited zones and restricted zones for groundwater abstraction; and shall decide to remove areas from the list of prohibited zones and restricted zones for groundwater abstraction when the groundwater source has been restored.
+5. The determination of prohibited zones and restricted zones for groundwater abstraction must ensure the harmonization of the lawful rights and interests of relevant organizations and individuals and shall be considered for demarcation in the following areas:
+a) Areas where the groundwater level has been continuously declining and is at risk of exceeding the groundwater abstraction threshold;
+b) Areas where land subsidence has occurred or is at risk of occurring;
+c) Areas where the groundwater source is at risk of saltwater intrusion.
+6. In cases where an organization or individual has been granted a groundwater abstraction license in a restricted zone for groundwater abstraction, they may continue to abstract up to the expiration date of the license and may be granted, have extended, adjusted, or re-granted a license if they meet the conditions, but not exceeding the licensed abstraction rate.
+7. The provincial-level People's Committee shall issue and organize the implementation of a groundwater protection plan. The groundwater protection plan must be issued within a period not exceeding 03 years from the effective date of this Law and shall be reviewed and adjusted periodically every 5 years or ad-hoc to meet socio-economic development and water source protection requirements. The groundwater protection plan must identify areas and aquifers that are degraded, depleted, or polluted and need protection and restoration; areas that need to be demarcated or removed from prohibited or restricted zones for groundwater abstraction; groundwater abstraction plans; areas that need artificial groundwater recharge; and solutions for protecting the quality of groundwater sources.
+8. The Minister of Natural Resources and Environment shall issue national technical regulations on the backfilling of wells specified in Clause 1 of this Article; shall provide for the protection of groundwater in the activities specified in Clause 2 of this Article; and shall provide for the formulation and adjustment of groundwater protection plans specified in Clause 7 of this Article.
+9. The Government shall provide details for Clauses 3 and 5 of this Article; and shall provide for the demarcation, publication, and adjustment of prohibited zones and restricted zones for groundwater abstraction.
+
+**Article 32. Prevention and control of degradation, depletion, and pollution of water sources**
+1. The construction of urban areas, concentrated residential areas, tourist areas, recreational areas, high-tech parks, industrial parks, economic zones, export processing zones, industrial clusters, and craft villages must take into account the carrying capacity of surface water sources, the supply capacity of water sources, and must not be located within the scope of water source protection corridors in river sections that are eroded or at risk of erosion.
+2. Organizations and individuals whose activities cause land subsidence, or the degradation, depletion, pollution, or salinization of water sources must implement remedial measures; if they cause damage, they must pay compensation and be held responsible in accordance with the law.
+3. Wastewater generated from production, business, and service activities, urban areas, and concentrated residential areas must be collected, treated, and controlled, and measures for the prevention, response, and remediation of water source pollution incidents must be in place in accordance with the law on environmental protection.
+4. Organizations and individuals extracting minerals or constructing works, if they conduct water pumping and dewatering activities that lead to a lowering of the groundwater level and cause land subsidence, must immediately stop the pumping and dewatering and implement remedial measures; if they cause damage, they must pay compensation and be held responsible in accordance with the law.
+5. Wastewater ponds and lakes, and wastewater and waste storage areas must have measures implemented to protect water sources in accordance with the law on environmental protection, ensuring that they do not cause water source pollution.
+
+**Article 33. Prevention and control of seawater pollution**
+1. Organizations and individuals operating at sea must have plans, equipment, and personnel to ensure the prevention and limitation of seawater pollution. In case of causing seawater pollution, they must promptly treat and remedy it and immediately notify the competent state agency upon discovery; if they cause damage, they must pay compensation in accordance with the law on environmental protection.
+2. Discharge sources from activities in coastal areas, on islands, and activities at sea must be controlled and treated to meet standards and technical regulations as prescribed by law before being discharged into the sea.
+
+**Article 34. Restoration of degraded, depleted, and polluted water sources and response to and remediation of water source pollution incidents**
+1. The restoration of degraded, depleted, and polluted water sources shall be carried out as follows:
+a) Establishing a list of degraded, depleted, and polluted water sources that need restoration;
+b) Developing plans, programs, and schemes for the restoration of degraded, depleted, and polluted water sources; prioritizing the restoration of rivers and river sections that are depleted, have no flow, or are severely polluted in the list of degraded, depleted, and polluted water sources that need restoration; allocating resources for implementation;
+c) Adjusting operating regimes, supplementing and upgrading water regulation and storage works, building dams, reservoirs, pumping stations, water conveyance works, and dredging to raise water levels, supplement water, restore flow, improve and enhance flow circulation, the quantity and quality of water sources, and artificially recharge groundwater; treating environmental pollution; treating and controlling wastewater; recycling and reusing water.
+2. Based on the approved water resources planning, the extent and scope of degradation, depletion, and pollution of water sources in river basins, and the requirements for the exploitation, use, and protection of water sources, the Ministry of Natural Resources and Environment shall preside over and coordinate with relevant Ministries, ministerial-level agencies, and provincial-level People's Committees to establish a list of degraded, depleted, and polluted water sources that need restoration; and shall develop plans, programs, and schemes for the restoration of degraded, depleted, and polluted water sources and submit them to the Prime Minister for approval.
+3. Ministries, ministerial-level agencies, and provincial-level People's Committees investing in projects to build dams and reservoirs on rivers included in the list of water sources needing restoration as specified in Point a, Clause 1 of this Article must consult with the Ministry of Natural Resources and Environment and the river basin organization where the project is implemented on the content of water source restoration before the competent authority approves the investment policy or decides on the investment in the project.
+4. Organizations and individuals participating in the restoration of degraded, depleted, and polluted water sources shall be given incentives and support in accordance with Articles 73 and 74 of this Law and other relevant provisions of law.
+5. Funding for the restoration of degraded, depleted, and polluted water sources shall be allocated from the state budget, economic non-business funds, environmental protection non-business funds, development investment funds, environmental protection funds, payments from entities that caused the degradation, depletion, or pollution of water sources, and other contributions from organizations and individuals.
+6. The response to and remediation of water source pollution incidents shall be carried out in accordance with the law on environmental protection. In the case of a transboundary water source pollution incident, the following provisions must also be implemented:
+a) The provincial-level People's Committee where the transboundary water source is located must promptly handle and report to the Ministry of Natural Resources and Environment on the water source pollution incident occurring in its area;
+b) The Ministry of Natural Resources and Environment shall preside over and coordinate with the Ministry of Foreign Affairs, Ministries, river basin organizations, and relevant agencies to coordinate with the competent authorities in the country where the transboundary water source pollution incident occurred to immediately take measures to prevent and remedy the consequences in accordance with international law and international agreements and treaties to which the Socialist Republic of Vietnam is a signatory.
+
+**Chapter IV**
+**REGULATION, DISTRIBUTION, AND EXPLOITATION AND USE OF WATER RESOURCES**
+
+**Section 1**
+**REGULATION AND DISTRIBUTION OF WATER RESOURCES**
+
+**Article 35. Regulation and distribution of water resources**
+1. The regulation and distribution of water resources for the purposes of exploitation and use must be based on water resources planning, water source scenarios, the current state, demand, and water resources abstraction quotas, taking into account the impacts of climate change and the results of water resources accounting, and must ensure the following principles:
+a) Ensuring water security, fairness, and reasonableness among organizations and individuals exploiting and using water resources in the same river basin, and between upstream and downstream;
+b) Prioritizing the quantity and quality of water supplied for domestic use; contributing to ensuring food security, energy security, and other essential needs of the people. In case of drought or water shortage, based on the principles and order of priority determined in the integrated planning for the inter-provincial river basin, the distribution of water resources shall be restricted for activities that use large amounts of water and are not urgent, and priority shall be given to domestic supply and activities that use water economically and efficiently;
+c) Ensuring the maintenance of minimum flow in rivers and streams and the groundwater abstraction threshold;
+d) Combining or alternating the exploitation of surface water with the exploitation of groundwater and rainwater; enhancing the storage of rainwater.
+2. The regulation and distribution of water resources are carried out through regulating the operating regime of dams, reservoirs, and water abstraction works, and coordinating the activities of exploitation and use of water sources in river basins and aquifers to optimize the economic, social, and environmental benefits brought by the water source, moving towards regulating, distributing, and controlling water sources using a system of decision support tools.
+3. The system of decision support tools is built and operated based on hydrometeorological and water resources monitoring and forecast data, the current state of surface water and groundwater sources, the demand for water resources exploitation and use, and a set of numerical models built and operated for each river basin and the aquifers in each region. The Ministry of Natural Resources and Environment shall organize the construction, management, and operation of the system of decision support tools. Organizations and individuals are encouraged to participate in building the system and providing decision support services for the regulation and distribution of water resources, but must comply with the provisions of Article 70 of this Law.
+4. Water source scenarios are developed based on the current state of water sources in river basins, hydrometeorological forecasts, and water source developments, and include the following main contents: the current state of surface water and groundwater sources, the current state of water storage in reservoirs in the river basin, the water level in aquifers; the demand for water resources exploitation and use; forecasts of trends in rainfall, flow, water storage in reservoirs, and water levels in aquifers during the year; and assessment of the level of drought and water scarcity in river basins.
+5. Annually, the Ministry of Natural Resources and Environment shall preside over and coordinate with Ministries, ministerial-level agencies, provincial-level People's Committees, river basin organizations, and other relevant organizations to develop and announce water source scenarios for river basins included in the list of inter-provincial river basins for which integrated planning must be formulated. Based on the announced water source scenarios, the current state and developments of water sources, and hydrometeorological forecasts, the Ministry of Natural Resources and Environment shall decide on the updating of the water source scenarios.
+6. Based on the water source scenarios and the requirements for the management, exploitation, and use of water resources, the Ministry of Agriculture and Rural Development, the Ministry of Industry and Trade, the Ministry of Construction, and provincial-level People's Committees in inter-provincial river basins, within the scope of their duties and powers, shall direct the formulation of plans for the exploitation and use of water resources consistent with the water source scenarios.
+7. Based on the water source scenarios, for river basins where drought or water shortage is forecast, the Ministry of Natural Resources and Environment shall preside over and coordinate with relevant Ministries, ministerial-level agencies, and provincial-level People's Committees to develop and organize the implementation of a plan for the regulation and distribution of water resources in compliance with the principles specified in Clause 1 of this Article.
+8. The Government shall provide details for this Article.
+
+**Article 36. Regulation and distribution of water resources during drought and water scarcity**
+1. When drought or water scarcity occurs, based on the actual situation and the forecast results of the drought and water scarcity situation, the Ministry of Natural Resources and Environment shall preside over and coordinate with Ministries, ministerial-level agencies, provincial-level People's Committees, river basin organizations, and other relevant organizations to review, update, and implement the plan for the regulation and distribution of water resources specified in Clause 7, Article 35 of this Law; in case of a severe and widespread drought or water scarcity, it shall report to the Prime Minister for consideration and decision on the plan for the regulation and distribution of water resources.
+2. Based on the plan for the regulation and distribution of water resources, Ministries, ministerial-level agencies, and provincial-level People's Committees, within the scope of their duties and powers, shall organize the implementation of response measures to minimize damage and shall implement the following provisions:
+a) The Ministry of Natural Resources and Environment shall preside over and coordinate with the Ministry of Agriculture and Rural Development, the Ministry of Industry and Trade, the Ministry of Construction, and relevant Ministries, ministerial-level agencies, and provincial-level People's Committees to regulate water sources to serve domestic use, agricultural production, industrial production, irrigation, hydropower, and other water resources exploitation and use needs; and shall decide on restricting the distribution of water resources for activities that use large amounts of water and are not urgent;
+b) The Ministry of Agriculture and Rural Development shall direct the regulation and distribution of water resources within the irrigation works system in accordance with the law on irrigation;
+c) The Ministry of Industry and Trade shall direct the regulation of the operation of hydroelectric reservoirs;
+d) The Chairperson of the provincial-level People's Committee shall decide on the use of existing surface water and groundwater sources and backup water supply works in the area under their management to proactively respond to the water shortage situation, ensuring water supply for domestic use and other essential water use needs; and shall direct the mobilization of all resources to implement measures to overcome the water shortage situation in the area.
+3. Organizations and individuals shall implement measures to cut and reduce the amount of water abstracted and shall participate with local authorities in implementing response and remediation measures for the water shortage situation in the area.
+
+**Article 37. Inter-basin water transfer**
+1. Projects involving water transfer activities or activities of digging rivers, canals, or ditches to transfer water that have a major impact on socio-economic development, the environment, and the lives of the people must have the content of their water transfer plan approved by the state management agency for water resources. The approval must be based on the following:
+a) The national water resources strategy and the national environmental protection strategy;
+b) Water resources planning, provincial planning, and other relevant plans, the socio-economic development plan of the locality, and sectors related to the exploitation and use of water resources in the river basins;
+c) The supply capacity of the water sources, the demand for water resources exploitation and use of the donor basin and the recipient basin;
+d) The scale of the project involving water transfer activities; the extent of the impact of the water transfer on the exploitation and use of water resources, flood prevention and control, erosion of river beds, banks, and shoals, saltwater intrusion, and the impact on the economy, society, and the environment.
+2. The approval of the content of the water transfer plan shall be carried out before the competent authority approves the investment policy for the project or decides on the investment in the project. The written approval of the content of the water transfer plan is one of the bases for considering the approval of the investment policy for the project or the decision on the investment in the project.
+3. The Government shall provide details for this Article; and shall provide for the order, procedures, and authority for approving the content of a water transfer plan.
+
+**Article 38. Operating procedures for reservoirs and interconnected reservoirs**
+1. Dams and reservoirs must have an operating procedure approved by a competent authority in accordance with the law on the safety management of dams and water reservoirs before storing water.
+2. Dams and reservoirs on the list specified in Point a, Clause 7 of this Article must be operated according to the operating procedure for interconnected reservoirs.
+3. The operating procedures for reservoirs and interconnected reservoirs must be based on the requirements of ensuring the safety of the works, flood prevention and control, water supply for downstream areas, and must ensure the principles specified in Clause 1, Article 35 of this Law.
+4. The operating procedures for reservoirs and interconnected reservoirs must be developed and issued with the aim of operating the reservoirs in real time to ensure the safety of the works and downstream areas, and to optimize the use of water resources for various use purposes and the economic, social, and environmental benefits brought by the water source. Organizations and individuals managing and operating dams and reservoirs are responsible for researching and investing in synchronized technical infrastructure solutions to ensure they meet the conditions and requirements for real-time operation of reservoirs and interconnected reservoirs.
+5. Localities, organizations, and individuals are encouraged to participate in building or contributing funds to build and operate a system of decision support tools for the operation of reservoirs and interconnected reservoirs to ensure the economical and efficient use of water, and must comply with the provisions of Article 70 of this Law.
+6. The operating procedure for interconnected reservoirs in a river basin must be consulted on with relevant Ministries, ministerial-level agencies, provincial-level People's Committees, river basin organizations, and other relevant organizations before being submitted to a competent authority for approval.
+7. The responsibility for developing the operating procedures for reservoirs and interconnected reservoirs is provided for as follows:
+a) The Ministry of Natural Resources and Environment shall establish a list of dams and reservoirs that must be operated according to an interconnected reservoir operating procedure; shall preside over and coordinate with relevant Ministries, ministerial-level agencies, and provincial-level People's Committees to organize the development and adjustment of the operating procedure for interconnected reservoirs in river basins and submit it to the Prime Minister for approval. In cases where a Ministry, ministerial-level agency, provincial-level People's Committee, or an organization managing and operating a dam or reservoir proposes to adjust the operating procedure for interconnected reservoirs, they must develop an adjustment plan and send it to the Ministry of Natural Resources and Environment for appraisal and submission to the Prime Minister for approval;
+b) The organization managing and operating a dam or reservoir is responsible for formulating and adjusting the operating procedure for the reservoir and submitting it to the competent authority for approval in accordance with the law on the safety management of dams and water reservoirs, and it must be consistent with the operating procedure for interconnected reservoirs.
+8. When the technical infrastructure ensures that the conditions and requirements for real-time operation of reservoirs and interconnected reservoirs are met, the formulation and adjustment of the real-time operating procedure for interconnected reservoirs shall be carried out as follows:
+a) The Ministry of Natural Resources and Environment shall organize the development of the procedure or the adjustment of the real-time operating procedure for interconnected reservoirs and submit it to the Prime Minister for approval. In cases where Ministries, ministerial-level agencies, provincial-level People's Committees, or organizations managing and operating dams or reservoirs propose to adjust the real-time operating procedure for interconnected reservoirs, they shall develop an adjustment plan and send it to the Ministry of Natural Resources and Environment for appraisal and submission to the Prime Minister for approval;
+b) The Ministry of Agriculture and Rural Development, the Ministry of Industry and Trade, and provincial-level People's Committees, within the scope of their duties and powers, shall consider and approve the procedure or the adjustment of the real-time operating procedure for reservoirs at the proposal of the organization managing and operating the dam or reservoir;
+c) Organizations managing and operating dams and reservoirs are encouraged to develop and apply standards, research, transfer, and apply advanced science and technology to operate reservoirs in real time, enhance the efficiency of water resources exploitation and use, and ensure safety and water supply for downstream areas.
+9. For reservoirs not on the list of dams and reservoirs for which an interconnected reservoir operating procedure must be established in river basins as specified in Point a, Clause 7 of this Article, based on the requirements of ensuring the safety of the dam and reservoir, minimum flow, and the requirements for flood prevention and control, drought and water scarcity, and water supply for downstream areas, the provincial-level People's Committee shall establish a list of dams and reservoirs on rivers and streams within its management area for which a regulation on operational coordination must be developed and shall consult with the Ministry of Natural Resources and Environment before approval. Based on the list of dams and reservoirs on rivers and streams within its management area for which a regulation on operational coordination needs to be developed, the provincial-level People's Committee shall organize the development of the regulation on operational coordination between the dams and reservoirs on the rivers and streams and shall consult with the Ministry of Natural Resources and Environment before issuance. In cases where the dams and reservoirs on rivers and streams for which a regulation on operational coordination must be developed fall within the scope of two or more provinces or centrally-governed cities, the provincial-level People's Committee in the downstream area shall preside over the development of the regulation on operational coordination and shall consult with the relevant provincial-level People's Committees and the Ministry of Natural Resources and Environment before the provincial-level People's Committee in the downstream area issues it.
+10. The Government shall provide details for Clause 4, Point a of Clause 7, Clause 8, and Clause 9 of this Article.
+
+**Article 39. Artificial groundwater recharge**
+1. The State encourages organizations and individuals to research solutions and implement artificial groundwater recharge. Priority is given to investing in and building water storage works combined with artificial groundwater recharge on islands, in water-scarce regions, and in the areas specified in Point a, Clause 5, Article 31 of this Law.
+2. Artificial groundwater recharge must be based on the results of assessing the suitability of the quality, quantity, and the retention and storage capacity of the underground aquifer; the demand for water resources exploitation and use and the requirements for groundwater protection; and an assessment of the socio-economic and environmental impacts of artificial groundwater recharge.
+3. The Minister of Natural Resources and Environment shall issue regulations on artificial groundwater recharge.
+
+**Article 40. Artificial rainmaking**
+Artificial rainmaking, including inducing rain or increasing rainfall, must be based on the water resources exploitation and use needs of the water-deficient region and the permissible conditions to decide on appropriate measures and scale, and must be approved by a competent state agency in accordance with the law on hydrometeorology.
+
+**Section 2**
+**EXPLOITATION AND USE OF WATER RESOURCES**
+
+**Article 41. General provisions on the exploitation and use of water resources**
+1. The exploitation and use of water resources for domestic use, agricultural production, aquaculture, industrial production, waterway transport, hydropower, irrigation, sports, tourism, business, services, source creation, salinity control, landscape creation, and other purposes must comply with the principles specified in Article 3 of this Law and the following provisions:
+a) The investment in and construction of exploitation works, dams, reservoirs, and works for water regulation, storage, and development must be consistent with water resources planning, provincial planning, and technical and specialized plans with content on the exploitation and use of water resources; and with the supply capacity of the water source;
+b) The exploitation and use of water resources must be subject to the management, supervision, regulation, and distribution by the state management agency for water resources;
+c) The exploitation and use of water resources must be consistent with the supply capacity of the water source and the water resources regulation and distribution plan;
+d) ...
+****
+exploitation of water resources must ensure requirements for minimum flow on rivers and streams; groundwater abstraction thresholds and water resource exploitation quotas;
+dd) To carry out declaration, registration, and licensing for the exploitation and use of water resources in accordance with the provisions of this Law.
+2. The exploitation and use of water resources on transboundary rivers and streams must be consistent with international agreements and treaties to which the Socialist Republic of Vietnam is a party.
+
+**Article 42. Rights and obligations of organizations and individuals exploiting and using water resources**
+1. Organizations and individuals exploiting and using water resources have the following rights:
+a) To exploit and use water resources for domestic activities, agricultural production, aquaculture, industrial production, inland waterway transport, hydropower, irrigation, sports, tourism, business, services, and other purposes in accordance with the provisions of this Law and other relevant laws;
+b) To benefit from the exploitation and use of water resources;
+c) To have their lawful rights and interests protected by the State during the process of exploiting and using water resources;
+d) To convey water through adjacent real estate under the management and use of other organizations or individuals in accordance with the law;
+dd) To file complaints and lawsuits against acts that violate their rights to exploit and use water resources and other lawful interests in accordance with relevant laws;
+e) To request the water resource licensing agency to temporarily suspend the validity of their water resource exploitation license;
+g) In cases where the amount of exploited water must be cut or reduced, or the validity of the water resource exploitation license must be temporarily suspended upon request by a competent state agency, to be granted a reduction in the water resource exploitation right granting fee corresponding to the number of days and the amount of water exploitation that was cut, reduced, or temporarily suspended;
+h) Other rights as provided by law.
+
+2. Organizations and individuals exploiting and using water resources have the following obligations:
+a) To protect water resources, and to prevent, control, and remediate harm caused by water in accordance with the provisions of this Law and other relevant laws;
+b) To use water for its intended purpose, thriftily, efficiently, and safely;
+c) Not to obstruct or cause damage to the lawful exploitation and use of water resources by other organizations and individuals;
+d) To protect the water sources they directly exploit and use;
+dd) To fulfill financial obligations; to compensate for damages caused by them during the exploitation and use of water resources in accordance with the law;
+e) To provide information and data related to the exploitation and use of water resources upon request by competent state agencies; to create favorable conditions for basic water resource investigation activities and scientific and technological research on water resources;
+g) When adjusting or supplementing the scale of exploitation or the purpose of use of water resources, to obtain permission from a competent state agency, except in cases not requiring registration or licensing as provided in Article 52 of this Law;
+h) To cut, reduce, or increase the amount of water exploited or to adjust the operating and exploitation regime of works upon request by a competent state agency;
+i) To comply with the water resource exploitation quotas stipulated by the competent state agency for water resources;
+k) To correctly implement the contents specified in the water resource exploitation license;
+l) Other obligations as provided by law.
+
+**Article 43. Exploitation of water resources for domestic use**
+1. Organizations and individuals exploiting water resources to produce and supply clean water for domestic use have the following responsibilities:
+a) To apply standards, technical regulations, and operate water supply systems; to have backup water supply plans, and plans for preventing and responding to water source pollution incidents, water shortages, and other incidents in accordance with the law on water supply to ensure stable, safe, and continuous water supply and to minimize water loss and waste;
+b) To provide guidance on the sanitary protection zones for domestic water intake areas and to control and monitor activities within these sanitary protection zones;
+c) To carry out monitoring and supervision of water resource exploitation and automatic, continuous, and periodic monitoring and supervision of the quality of the exploited water source as provided in Article 51 of this Law, and to connect and transmit data to the National Water Resource Information System and Database.
+2. To combine centralized and decentralized water supply models in the investment, construction, management, and operation of domestic water supply works. The investment, construction, management, and operation of centralized domestic water supply works must ensure that they do not obstruct the water exploitation of organizations and individuals who have been licensed to exploit water resources within the water supply service area.
+3. The Ministry of Construction, the Ministry of Agriculture and Rural Development, and the Ministry of Health, within the scope of their respective tasks and powers, have the following responsibilities:
+a) To adjust and supplement content related to water supply in relevant plans for urban and rural domestic water supply to ensure conformity with the water resource planning;
+b) To issue and implement standards and technical regulations to ensure safety, thrifty and efficient water use, and reduction of water loss rates; to issue national technical regulations on the quality of clean water used for domestic purposes; to propose mechanisms and policies to support the sustainable development and safety of household-scale water supply in rural areas;
+c) To direct the formulation of backup water supply plans, and plans for preventing and responding to water source pollution incidents, water shortages, and other incidents.
+4. Provincial-level People's Committees shall organize the implementation of urgent measures to ensure domestic water supply in cases of drought, water shortage, or serious water source pollution incidents causing water scarcity.
+5. The Government shall regulate the production, supply, and consumption of domestic water.
+
+**Article 44. Exploitation of water resources for agricultural production**
+1. Organizations and individuals exploiting water resources for agricultural production have the following responsibilities:
+a) To take measures to conserve water, prevent soil acidification, salinization, and erosion, and to ensure that water sources are not polluted;
+b) To comply with the operating procedures for reservoirs, interconnected reservoirs, and the operation of irrigation works and systems as provided in Article 38 of this Law and the law on irrigation;
+c) To operate reservoirs, irrigation works, and systems to ensure their design functions, flow circulation, and maintenance of the minimum flow as provided in Article 24 of this Law, without causing stagnation or pollution of water sources; to carry out monitoring and supervision of water resource exploitation as provided in Article 51 of this Law; to use water thriftily, minimize loss and waste, enhance water use efficiency, and combine the restoration, rehabilitation, and development of water sources.
+2. The Ministry of Agriculture and Rural Development and Provincial-level People's Committees, within the scope of their respective tasks and powers, have the following responsibilities:
+a) To review and adjust the operating procedures for reservoirs, irrigation works, and systems to ensure thrifty, efficient, and multi-purpose water use, to prevent water loss and waste, and to ensure flow circulation within the system of works, without causing stagnation or pollution of water sources;
+b) To direct the restructuring of cropping seasons, plants, and livestock to be consistent with the capacity of the water source, water source scenarios, and the water resource regulation and distribution plans provided in Articles 35 and 36 of this Law; to apply advanced, water-saving, and efficient irrigation technologies.
+
+**Article 45. Exploitation of water resources for hydropower**
+1. The exploitation of water resources for hydropower must ensure integrated, multi-purpose use, except for small-scale water exploitation; participate in flood mitigation and reduction and supply water to downstream areas when requested by a competent authority; and ensure the requirements for dam and reservoir safety.
+2. Organizations and individuals exploiting water resources for hydropower must comply with the operating procedures for reservoirs and interconnected reservoirs as provided in Article 38 of this Law and the law on dam and reservoir safety.
+3. The Ministry of Industry and Trade shall direct the review and adjustment of operating procedures for hydropower reservoirs as provided in Article 38 of this Law to ensure safety, thrifty, efficient, and multi-purpose water use, flood prevention and control; maintenance of the minimum flow as provided in Article 24 of this Law, and water supply to downstream areas.
+
+**Article 46. Exploitation of water resources for salt production and aquaculture**
+1. The State encourages investment in the exploitation of seawater for salt production.
+Organizations and individuals exploiting seawater for salt production must not cause saltwater intrusion or adversely affect agricultural production and the environment.
+2. Organizations and individuals exploiting water resources for aquaculture must not cause the degradation, depletion, or pollution of water sources, obstruct flow, damage works on rivers, hinder inland waterway transport, or cause salinization of water sources.
+3. Aquaculture in reservoirs must not affect the safety of the dam and reservoir, the quality of the water source, or the functions of flood prevention and control and water supply to downstream areas of the dam and reservoir.
+
+**Article 47. Exploitation of water resources for industrial production, mineral extraction and processing, and other purposes**
+1. Organizations and individuals exploiting water resources for industrial production, mineral extraction, and processing must have measures to collect and treat used water to meet national standards and technical regulations for wastewater before discharging it into a water source.
+2. Organizations and individuals exploiting and using water resources for scientific research, healthcare, sports, entertainment, tourism, source creation, salinity control, landscaping, and other purposes must use water reasonably, thriftily, and efficiently, and must not cause the degradation, depletion, or pollution of water sources, obstruct flow, or cause other adverse effects on water sources.
+
+**Article 48. Use of water sources for inland waterway transport**
+1. The State encourages the use of water sources for the development of inland waterway transport.
+2. Inland waterway transport activities must not cause pollution of water sources, obstruct flow, or cause damage or erosion to the beds, banks, and shoals of rivers, canals, ditches, or channels; if damage is caused, compensation must be paid in accordance with the law.
+3. The construction and operation of inland waterway transport infrastructure works must not cause pollution of water sources and must be consistent with the capacity to meet water level requirements on rivers and streams and the requirements for the protection of river beds, banks, and shoals.
+
+**Article 49. Use of water sources for other purposes**
+1. The use of reservoir water surfaces for business, services, and solar power generation must not affect the safety of the dam and reservoir, the quality of the water source, or the functions of flood prevention and control and water supply to downstream areas of the dam and reservoir.
+2. The use of the water surface of rivers, streams, canals, ditches, and channels for aquaculture, business, and services must ensure that it does not cause pollution of the water source, obstruct flow, damage the beds, banks, and shoals of rivers, streams, canals, ditches, and channels, or affect other water exploitation and use activities.
+3. The excavation of lakes, ponds, rivers, streams, canals, ditches, and channels to create spaces for water collection and storage and for landscaping must be carried out in accordance with the law and must ensure that it does not cause land subsidence or adversely affect water sources and the environment.
+4. The activities specified in this Article must be carried out in accordance with the law on land and other relevant laws; and must be registered as provided in Article 52 of this Law.
+
+**Article 50. Dams, reservoirs, and the exploitation and use of water related to dams and reservoirs**
+1. The investment and construction of dams and reservoirs on rivers and streams must be consistent with water resource planning, provincial planning, and technical and specialized plans containing content on water resource exploitation and use, and must ensure multi-purpose objectives, proactive water storage, and the regulation, distribution, restoration, and development of water sources.
+2. The investment, construction, management, and operation of dam and reservoir works and the management of exploitation and use of water sources from reservoirs must ensure the safety of the dam and reservoir.
+3. The investment and construction of dams and reservoirs on rivers and streams must meet the following requirements:
+a) Conformity with flood prevention and control standards and other relevant technical requirements as provided by the law on natural disaster prevention and control; must ensure integrated, multi-purpose use of water sources; and combine the restoration and rehabilitation of degraded, depleted, or polluted water sources;
+b) The design and overall layout of the headworks must include work components to ensure the maintenance of the minimum flow as provided in Article 24 of this Law, the release of additional water to downstream areas when requested by a competent authority, the use of the dead storage capacity of the reservoir in cases of severe drought or water shortage, and to ensure the migration of fish species and the passage of inland waterway transport vessels;
+c) For the investment and construction of irrigation dams and reservoirs, the provisions of the law on irrigation must also be complied with.
+4. The construction and operation of reservoirs not built on rivers or streams must ensure they do not adversely affect water sources and the environment; do not affect historical-cultural relics and scenic landscapes; and comply with drainage regulations to avoid causing man-made waterlogging.
+5. The exploitation and use of water sources from reservoirs and activities within the water source protection corridor must ensure the requirements for protection, exploitation, and use, and for the prevention, control, and remediation of harm caused by water as provided by this Law; ensuring the safety of dam and reservoir works during investment, construction, management, and operation shall be carried out in accordance with the law on the management of dam and reservoir safety. The operation of dams and reservoirs on rivers and streams must also ensure the requirements for flood mitigation and reduction for downstream areas, integrated and multi-purpose use of water sources, combined with the restoration and rehabilitation of water sources, landscaping, and adherence to the principles stipulated in Articles 35 and 36 of this Law.
+6. Organizations and individuals managing and operating dams and reservoirs have the following responsibilities:
+a) To comply with the operating procedures for reservoirs and interconnected reservoirs; to ensure the safety of the dam and reservoir, the minimum flow, and the requirements for flood and inundation prevention and control, drought and water shortage mitigation, and water supply to downstream areas; if damage is caused, compensation must be paid in accordance with the law;
+b) To comply with the reservoir operation commands of competent state agencies in cases of floods, inundation, drought, water shortage, saltwater intrusion, and other emergency situations;
+c) To implement the plan for regulating and distributing water resources in the river basin; to allocate reservoir storage capacity to enhance the ability to mitigate and reduce floods and supply water to downstream areas, and to restore and rehabilitate water sources as requested by a competent state agency;
+d) To provide notifications and warnings to ensure the safety of people and related activities in the area downstream of the dam and reservoir before operating water releases to downstream areas, in accordance with the law on the management of dam and reservoir safety;
+dd) To monitor hydrometeorological conditions, connect data to the National Water Resource Information System and Database, and calculate and forecast inflow to the reservoir to serve the operation of the reservoir and interconnected reservoirs and the regulation and distribution of water resources in accordance with the law; to carry out monitoring and supervision of water resource exploitation as provided in Article 51 of this Law;
+e) To implement the reporting regime and provide information and data as provided by this Law and other relevant laws;
+g) To develop a natural disaster response plan and an emergency response plan in accordance with the law on natural disaster prevention and control and the management of dam and reservoir safety;
+h) To install boundary markers for the water source protection corridor as provided in Article 23 of this Law.
+7. Organizations and individuals managing and operating dams and reservoirs are encouraged to hire qualified and capable organizations and individuals to provide decision support services for the operation of reservoirs and interconnected reservoirs as provided in Article 70 of this Law in order to optimize the socio-economic and environmental benefits provided by water resources.
+8. The Ministry of Agriculture and Rural Development shall preside over and coordinate with the Ministry of Industry and Trade and the Ministry of Natural Resources and Environment to research and propose plans for using a portion of the flood control storage capacity above the normal water level of large and important reservoirs to enhance the ability to mitigate and reduce floods for downstream areas during emergency and unusual situations, and shall submit them to the Prime Minister for decision.
+9. The State shall invest in and encourage organizations and individuals to build works and reservoirs for the purpose of protecting, controlling, restoring, rehabilitating, and developing water sources, supplying and storing water, recharging groundwater, and transferring water to water-scarce regions, inhabited islands, and areas heavily affected by climate change, to ensure proactive storage of fresh water and the regulation and distribution of water resources within and between provinces.
+
+**Article 51. Monitoring and supervision of water resource exploitation**
+1. Water resource monitoring includes the measurement and calculation of rainfall, flow, water levels, and the quality of surface water and groundwater. Monitoring is carried out through automatic, continuous monitoring and periodic monitoring, and is regulated as follows:
+a) The Ministry of Natural Resources and Environment shall organize the establishment and operation of a water resource monitoring network for inter-provincial surface water sources, transboundary surface water sources, groundwater sources, and the monitoring of hydrometeorological conditions and water environment quality. The establishment of the water resource monitoring network must be carried out in accordance with the master plan for basic water resource investigation;
+b) Provincial-level People's Committees shall organize the establishment and operation of a water resource monitoring network for intra-provincial water sources. The establishment of the water resource monitoring network must be carried out in accordance with the provincial planning;
+c) Organizations and individuals exploiting water resources must carry out monitoring and install measurement equipment that is inspected and calibrated in accordance with the law on measurement. Organizations and individuals are encouraged to participate in investing in, constructing, and operating water resource monitoring works and providing water resource monitoring data to state management agencies for water resources. In cases where organizations and individuals exploit water resources to produce and supply clean water for domestic use, they must comply with the provisions of this clause and carry out automatic, continuous, and periodic monitoring and supervision of the quality of the exploited water source;
+d) The relocation, change of location, or dissolution of a surface water resource monitoring station shall be carried out in accordance with the law on hydrometeorology; for groundwater resource monitoring stations, it shall be carried out in accordance with the regulations of the Minister of Natural Resources and Environment. Organizations and individuals carrying out activities that necessitate the relocation or change of location of a monitoring station are responsible for paying compensation in accordance with the law;
+dd) The results of water resource monitoring, hydrometeorological monitoring, and water environment quality monitoring must be updated and shared with the National Water Resource Information System and Database.
+2. The supervision of water resource exploitation is regulated as follows:
+a) State management agencies for water resources are responsible for receiving monitoring data from organizations and individuals exploiting water resources and for supervising the implementation of the content of the registration confirmation certificate and the water resource exploitation license;
+b) Organizations and individuals exploiting water resources are responsible for updating, connecting, and transmitting monitoring data to the National Water Resource Information System and Database to serve the supervision of water resource exploitation;
+c) The Ministry of Natural Resources and Environment and Provincial-level People's Committees shall supervise the water resource exploitation activities for works under their licensing authority.
+3. The Government shall regulate the subjects, scale, regime, parameters, and indicators for the monitoring and supervision of water resource exploitation and water quality, and the implementation roadmap.
+
+**Section 3**
+**DECLARATION, REGISTRATION, AND LICENSING OF WATER RESOURCES**
+
+**Article 52. General provisions on the declaration, registration, and licensing for the exploration, exploitation, and use of water resources**
+1. Organizations and individuals exploiting water resources for domestic activities, agricultural production, aquaculture, industrial production, hydropower, irrigation, sports, tourism, business, services, source creation, salinity control, flood prevention, landscaping, and other purposes must have a water resource exploitation license corresponding to the type of water source being exploited as provided in clause 2 of this Article, except for the cases specified in clauses 3, 4, and 5 of this Article; in the case of groundwater exploitation, a groundwater exploration license must also be obtained before constructing the works.
+2. Water resource exploitation licenses include:
+a) Surface water exploitation license;
+b) Groundwater exploitation license;
+c) Seawater exploitation license.
+3. Organizations and individuals are not required to declare, obtain a license for water resource exploitation, or register for the exploitation and use of water resources in the following cases:
+a) Exploitation of water for cultural, religious, and belief activities, firefighting, national defense and security purposes, and for watering plants and washing roads for public purposes;
+b) Small-scale exploitation of surface water for use in agricultural production and aquaculture;
+c) Small-scale exploitation of surface water for purposes other than those specified in point a and point b of this clause and point dd of clause 5 of this Article;
+d) Exploitation of water for domestic use in areas during periods of drought, water shortage, saltwater intrusion, pollution incidents, or epidemics as announced by a competent authority in accordance with the law;
+dd) Exploitation of seawater for use in salt production;
+e) Exploitation of seawater to serve activities at sea;
+g) Small-scale exploitation of seawater for use in production, business, service, and aquaculture activities on islands and the mainland;
+h) Use of the water surface of rivers, streams, canals, ditches, channels, and reservoirs for small-scale aquaculture, business, and services;
+i) Small-scale excavation of lakes, ponds, canals, ditches, and channels to create spaces for water collection and storage, water conveyance, and landscaping;
+k) Activities using the water surface within the protection scope of irrigation works shall be carried out in accordance with the law on irrigation;
+l) Other cases as stipulated by the Government.
+4. Households exploiting groundwater for their own domestic use must make a declaration for management purposes.
+5. Organizations and individuals must register for the exploitation and use of water resources in the following cases:
+a) Medium-scale exploitation of surface water for use in agricultural production and aquaculture;
+b) Small-scale exploitation of groundwater for purposes other than those specified in point a of clause 3 and clause 4 of this Article;
+c) Use of free-flowing groundwater in open-pit mines for ore processing at the pit or pumping to dewater the free-flowing water in the open-pit mine;
+d) Medium-scale exploitation of seawater for use in production, business, service, and aquaculture activities on islands and the mainland;
+dd) Small and medium-scale works for damming rivers, streams, canals, ditches, and channels for the purpose of source creation, salinity control, flood prevention, and landscaping;
+e) Use of the water surface of rivers, streams, canals, ditches, channels, and reservoirs for aquaculture, business, and services on a scale not falling under the case specified in point h of clause 3 of this Article; use of the water surface of reservoirs for solar power generation;
+g) Excavation of rivers, streams; excavation of lakes, ponds, canals, ditches, and channels to create spaces for water collection and storage, water conveyance, and landscaping on a scale not falling under the case specified in point i of clause 3 of this Article.
+6. The competent state agencies specified in Article 53 of this Law shall issue water resource exploitation licenses which determine the water resource exploitation quota for organizations and individuals falling under the case specified in clause 1 of this Article; and shall confirm the registration of exploitation and use of water resources for organizations and individuals falling under the case specified in clause 5 of this Article.
+7. In cases where an organization or individual explores or exploits groundwater within the protection scope of an irrigation work, the water resource licensing agency must obtain a written opinion from the state agency managing that irrigation work before issuing the groundwater exploration or exploitation license.
+8. The consultation with representatives of residential communities and relevant organizations and individuals regarding the impact of water exploitation works is regulated as follows:
+a) Organizations and individuals investing in the construction of water exploitation works that have a significant impact on socio-economic development and the lives of people in the area are responsible for coordinating with local authorities to consult with representatives of residential communities and relevant organizations and individuals on the impact of the project's water resource exploitation and use plan; they must compile, absorb, and provide a written explanation of the feedback and submit it with the application file for the water resource exploitation license;
+b) The organization or individual investing in the project must announce and publicize information on the contents related to the project's water resource exploitation and the potential impacts before implementation;
+c) The costs of organizing the consultation shall be borne by the organization or individual investing in the project.
+9. The Government shall provide detailed regulations for this Article.
+
+**Article 53. Authority, order, and procedures for declaration, registration, and licensing for the exploration, exploitation, and use of water resources**
+The authority, order, and procedures for issuing, renewing, adjusting, reissuing, approving the return of, suspending, revoking, and annulling water resource exploitation licenses and groundwater exploration licenses, and for the declaration and registration of exploitation and use of water resources are regulated as follows:
+1. The Ministry of Natural Resources and Environment shall issue, renew, adjust, reissue, approve the return of, suspend, revoke, and annul water resource exploitation licenses and groundwater exploration licenses for large-scale water exploitation works; and for water exploitation works that have inter-regional or inter-provincial impacts;
+2. Provincial-level People's Committees shall issue, renew, adjust, reissue, approve the return of, suspend, revoke, and annul water resource exploitation licenses and groundwater exploration licenses not falling under the case specified in clause 1 of this Article; and shall organize the registration of exploitation and use of surface water and seawater;
+3. District-level People's Committees shall organize the registration of groundwater exploitation;
+4. Communal-level People's Committees shall receive declarations of groundwater exploitation by households for domestic use;
+5. The Government shall provide detailed regulations for this Article; shall regulate the order and procedures for the declaration of groundwater exploitation by households and the registration of exploitation and use of water resources; and shall regulate the issuance, renewal, adjustment, reissuance, approval of the return of, suspension, revocation, and annulling of water resource exploitation licenses and groundwater exploration licenses.
+
+**Article 54. Term of water resource exploitation licenses and groundwater exploration licenses**
+1. The term of a water resource exploitation license is regulated as follows:
+a) A surface water exploitation license has a maximum term of 10 years and a minimum term of 05 years and may be considered for renewal multiple times, with each renewal being for 05 years;
+b) A seawater exploitation license has a maximum term of 15 years and a minimum term of 10 years and may be considered for renewal multiple times, with each renewal being for 10 years;
+c) A groundwater exploitation license has a maximum term of 05 years and a minimum term of 03 years and may be considered for renewal multiple times, with each renewal being for 03 years;
+d) In cases where an organization or individual applies for a license with a term shorter than the minimum term specified in points a, b, and c of this clause, the license shall be issued for the term requested in the application and may be considered for renewal multiple times, with each renewal not exceeding the term of the previously issued or renewed license.
+2. A groundwater exploration license has a term of 02 years and may be considered for renewal once, with the renewal period not exceeding 01 year. In cases where an organization or individual applies for issuance or renewal of a license with a shorter term, the license shall be issued or renewed for the term requested in the application.
+3. In cases where an application file for the renewal of a water resource exploitation license is submitted by an organization or individual 45 days before the license expires, the effective date recorded in the renewed license shall be consecutive with the expiry date of the previously issued license.
+
+**Article 55. Principles of registration and licensing for the exploration, exploitation, and use of water resources**
+1. To be in accordance with the proper authority, subjects, order, and procedures as stipulated by law.
+2. To ensure the interests of the State and the lawful rights and interests of organizations and individuals that have registered or been issued a water resource exploitation license or a groundwater exploration license, and of other relevant organizations and individuals.
+3. To prioritize the registration and licensing of the exploration, exploitation, and use of water resources for domestic supply.
+4. To protect water resources and the environment in accordance with the law; not to cause the degradation, depletion, or pollution of water sources when carrying out the exploration, exploitation, and use of water resources.
+
+**Article 56. Basis for granting water resource exploitation licenses and groundwater exploration licenses**
+1. The granting of a water resource exploitation license and a groundwater exploration license must be based on the following:
+a) Water resource planning; national sectoral planning, provincial planning, and technical and specialized plans containing content on water resource exploitation and use; the capacity of the water source;
+b) The current status of exploitation and use of water resources in the region; requirements for water resource protection;
+c) The appraisal results of the competent state agency on the application file for the water resource exploitation license and the groundwater exploration license as stipulated by the Government;
+d) The demand for exploitation and use of water resources as stated in the application for the license.
+2. In the case of granting a groundwater exploitation license or a groundwater exploration license, it must also be based on the provisions in Article 30 and clause 4 of Article 31 of this Law.
+
+**Article 57. Conditions for granting water resource exploitation licenses and groundwater exploration licenses**
+1. An organization or individual shall be granted a water resource exploitation license when the following conditions are met:
+a) Completion of the consultation process as provided in clause 8 of Article 52 of this Law;
+b) The exploitation of water resources is consistent with the content specified in point a, clause 1 of Article 56 of this Law; the exploitation of groundwater is consistent with the regulations related to prohibited and restricted zones for groundwater exploitation as provided in Article 31 of this Law;
+c) Ensuring the requirements for the protection, exploitation, and use of water resources and for the prevention, control, and remediation of harm caused by water as provided by this Law;
+d) Ensuring that the information and data used to prepare the project proposal and report are complete and accurate.
+2. An organization or individual shall be granted a groundwater exploration license when the following conditions are met:
+a) Having a construction plan for the groundwater exploration components that meets the requirements for groundwater protection and is consistent with the regulations related to prohibited and restricted zones for groundwater exploitation as provided in Article 31 of this Law;
+b) Ensuring that the information and data used to prepare the project proposal are complete and accurate.
+3. An organization exploiting surface water that involves the construction of a dam or reservoir on a river or stream, in addition to meeting the provisions of clause 1 of this Article and point b, clause 3 of Article 50 of this Law, must also meet the following conditions:
+a) Having a plan for equipment and personnel to monitor hydrometeorological conditions, forecast inflow to the reservoir, operate the reservoir, and monitor and supervise water resource exploitation;
+b) Having reservoir operating procedures in accordance with the law on the management of dam and reservoir safety for cases where the work already exists.
+
+**Section 4**
+**THRIFTY AND EFFICIENT USE OF WATER**
+
+**Article 58. Circular, thrifty, and efficient use of water**
+1. Organizations and individuals exploiting and using water resources shall implement the following solutions for circular, thrifty, and efficient water use:
+a) Exploit and use water resources for their intended purpose and in a reasonable manner;
+b) Develop plans to replace outdated, high-water-consumption vehicles, equipment, and technologies;
+c) Improve water use processes; apply advanced technologies in the exploitation and use of water resources; increase the capacity for circular water use and water reuse; and store rainwater;
+d) Arrange cropping seasons, plants, and livestock structures consistent with the capacity of the water source; improve, optimize, and apply measures, technologies, and techniques for cultivation, construction, maintenance, and operation of water conveyance and storage works to conserve water and use water efficiently in agricultural production;
+dd) Organizations and individuals managing and operating water supply systems must comply with standards and technical regulations to ensure stable, safe, and continuous water supply and to minimize water loss and waste;
+e) Organizations and individuals managing and operating irrigation works and systems must apply measures for thrifty and efficient water use and ensure the reasonable operation of the water supply system to minimize water loss and waste.
+2. The Ministry of Natural Resources and Environment, the Ministry of Agriculture and Rural Development, the Ministry of Industry and Trade, the Ministry of Construction, and the Ministry of Science and Technology, within the scope of their respective tasks and powers, have the following responsibilities:
+a) To develop models for thrifty and efficient water use; to disseminate and promote models, technologies, and equipment for water conservation;
+b) To develop programs and plans and to direct and guide research on the application of technological models for thrifty and efficient water use in order to gradually eliminate outdated, high-water-consumption technologies.
+3. Provincial-level People's Committees are responsible for applying comprehensive measures to manage and strictly control the implementation of regulations on thrifty and efficient water use in their localities.
+
+**Article 59. Circular water use and water reuse**
+1. The State encourages investment projects in production, business, and services that involve water exploitation and use and wastewater discharge to have solutions for circular water use and water reuse right from the project construction phase.
+2. The treatment of wastewater and reuse of water shall be carried out in accordance with the law on environmental protection.
+3. Investment projects in production, business, and services that involve water exploitation and use and wastewater discharge in areas where surface water sources no longer have carrying capacity, as announced by a competent state agency, must have solutions for circular water use, water reuse, or have a plan to treat wastewater to meet environmental technical regulations on surface water quality before discharging into the water source, in accordance with the law on environmental protection.
+4. Depending on the local socio-economic development conditions, Provincial-level People's Committees shall have plans and roadmaps to specify the types of projects that must have a plan for circular water use and water reuse for projects in areas that frequently experience drought and water shortage, and shall determine the incentives that such projects are entitled to in accordance with the law.
+5. Investment projects in production, business, and services that implement solutions for circular water use and water reuse shall be considered for a reduction in the water resource exploitation right granting fee as provided by this Law.
+6. Organizations and individuals shall research and apply solutions for circular water use and water reuse in areas where water sources are degraded, groundwater exploitation thresholds have been exceeded, and carrying capacity no longer exists.
+
+**Article 60. Incentives for thrifty and efficient water use activities**
+1. Organizations and individuals investing in circular water use and water reuse; collecting and using rainwater; using desalinated seawater; and investing in water-saving equipment and technology shall receive incentives as provided by law.
+2. The criteria for water-saving products, equipment, and technologies shall be regulated by the Minister of Science and Technology.
+
+**Chapter V**
+**PREVENTION, CONTROL, AND REMEDIATION OF HARM CAUSED BY WATER**
+
+**Article 61. Responsibility and obligation for prevention, control, and remediation of harm caused by water**
+1. State agencies, organizations, and individuals have the responsibility and obligation to participate in the prevention, control, and remediation of harm caused by water in accordance with the provisions of this Law and other relevant laws.
+2. Ministries, ministerial-level agencies, and People's Committees at all levels, within the scope of their respective tasks and powers, shall decide on and organize the implementation of measures for the prevention, control, and remediation of harm caused by water.
+
+**Article 62. Prevention, control, and remediation of harm caused by water from natural disasters**
+The prevention, control, and remediation of harm from floods, inundation, sea-level rise, hail, acid rain, and other harm caused by water from natural disasters shall be carried out in accordance with the law on dikes, the law on natural disaster prevention and control, and other relevant laws.
+
+**Article 63. Prevention of man-made drought, water scarcity, floods, and waterlogging**
+1. The State shall invest in and encourage organizations and individuals to participate in investing in the construction of water storage works and the search for water sources to proactively respond to drought and water scarcity; to build new, renovate, and restore lakes, ponds, and other works with the function of water supply, regulation, and prevention of man-made waterlogging; to prioritize the utilization of open-pit mines for minerals, soil, and construction materials after exploitation has ceased, ensuring compliance with laws on environmental protection, minerals, and other relevant laws, to create reservoirs for water regulation, storage, supply, and landscaping.
+2. The State shall prioritize the implementation of comprehensive and integrated rainwater collection and drainage solutions to minimize urban waterlogging.
+3. Urban planning, construction planning for urban areas, concentrated residential areas, tourist areas, industrial parks, economic zones, export processing zones, industrial clusters, and transport planning must restrict the conversion of the use purpose of special-use forests and upstream protection forests, and the filling of lakes, ponds, lagoons, and swamps, and must include solutions for rainwater storage and drainage to ensure that no man-made waterlogging is caused.
+4. The culverting of rivers, streams, canals, ditches, and channels shall be minimized to ensure drainage capacity, reduce man-made waterlogging, and protect aquatic ecosystems.
+5. The State shall prioritize investment in the construction of water regulation and storage works in areas that frequently experience drought, water shortage, saltwater intrusion, floods, and inundation to ensure safety against floods, drought, and to control salinity.
+6. Lakes, ponds, lagoons, and swamps that have the function of regulation, water supply, prevention of waterlogging, landscaping, environmental protection, and the protection and preservation of religious, belief, cultural, and biodiversity values must be included in a list of lakes, ponds, lagoons, and swamps that are not to be filled in, and this list must be published for management and protection. The Ministry of Natural Resources and Environment shall compile, publish, and adjust the list of lakes, ponds, lagoons, and swamps that are not to be filled in for those belonging to inter-provincial surface water sources. Provincial-level People's Committees shall compile, publish, and adjust the list of lakes, ponds, lagoons, and swamps that are not to be filled in for those belonging to intra-provincial surface water sources.
+7. The Ministry of Natural Resources and Environment shall organize hydrometeorological and water resource forecasting and warning within its authority; develop real-time drought and water shortage risk zoning maps on a digital technology platform; and direct and supervise the implementation of the water resource regulation and distribution plans provided in Articles 35 and 36 of this Law.
+8. The Minister of Construction shall issue national technical regulations on construction planning and national regulations on technical infrastructure works to increase the capacity for rainwater infiltration, storage, and drainage, ensuring groundwater recharge and preventing waterlogging.
+9. The Ministry of Transport and the Ministry of Construction, within the scope of their respective tasks and powers, are responsible for ensuring drainage capacity and not obstructing flow or causing flooding in river basins during the design and construction of transport infrastructure.
+10. The Government shall provide detailed regulations for clause 6 of this Article.
+
+**Article 64. Prevention of saltwater intrusion**
+1. The State shall invest in and encourage organizations and individuals to participate in investing in the construction of salinity control and freshwater retention works to proactively respond to drought, water scarcity, and saltwater intrusion; and shall prioritize projects for planting wave-breaking protection forests in areas that frequently experience saltwater intrusion.
+2. The exploration and exploitation of groundwater in delta and coastal areas must ensure the prevention of saltwater intrusion into groundwater aquifers.
+3. The exploitation of seawater for socio-economic development must not cause the salinization of water sources.
+4. Organizations and individuals exploiting and using water resources for agricultural production and aquaculture must have measures to prevent the salinization of water sources.
+5. The management and operation of salinity control, freshwater retention works, reservoirs, and water regulation works must comply with procedures, standards, and technical regulations to ensure the prevention of saltwater intrusion.
+6. The Ministry of Natural Resources and Environment, the Ministry of Agriculture and Rural Development, the Ministry of Industry and Trade, the Ministry of Construction, and Provincial-level People's Committees, within the scope of their respective tasks and powers, and based on water source scenarios and the water resource regulation and distribution plans provided in clause 4 and clause 7 of Article 35 and clause 1 of Article 36 of this Law, shall organize the implementation of measures to prevent saltwater intrusion.
+
+**Article 65. Prevention of land subsidence**
+1. Organizations and individuals carrying out the activities specified in clause 1 of Article 31 of this Law must comply with relevant standards and technical regulations and ensure that they do not cause land subsidence. In the event of land subsidence, they must immediately cease the exploration and exploitation of groundwater, implement remedial measures, and report to the People's Committee of the locality where the subsidence occurred; if damage is caused, they must pay compensation and be held responsible in accordance with the law.
+2. In areas that have subsided or are at risk of subsidence due to groundwater exploration and exploitation activities, the Provincial-level People's Committee shall organize the delineation of prohibited and restricted zones for groundwater exploitation.
+3. The prevention of land subsidence shall be carried out in accordance with the provisions of clauses 1 and 2 of this Article and the protection of groundwater shall be carried out in accordance with the provisions of Article 31 of this Law.
+
+**Article 66. Prevention of erosion of the beds, banks, and shores of rivers and lakes**
+1. Activities to restore the beds, banks, and shores of rivers and lakes, construct hydraulic works, and exploit sand, gravel, and other minerals on rivers, lakes, and in the water source protection corridor must not cause erosion or adversely affect the stability of the beds, banks, and shores of rivers and lakes and the water source protection corridor.
+2. The activities specified in clause 1 of this Article that pose a risk of destabilizing the beds, banks, and shores of rivers and lakes must undergo an impact assessment and have an implementation plan to protect and prevent erosion of the beds, banks, and shores of rivers and lakes. The impact assessment and the appraisal of the implementation plan to protect and prevent erosion of the beds, banks, and shores of rivers and lakes shall be carried out during the appraisal process of the environmental impact assessment report. The content of the impact assessment and the implementation plan to protect and prevent erosion of the beds, banks, and shores of rivers and lakes shall be a main component of the environmental impact assessment report.
+3. During the process of licensing the exploitation of sand, gravel, and other minerals on rivers and lakes, the competent licensing authority must organize an appraisal of the content regarding the location, scope, depth of exploitation, and exploitation regime before issuing the license to ensure that erosion is not caused, in order to protect the beds, banks, and shores of rivers and lakes.
+4. Rivers and river sections with eroded banks and shoals or at risk of erosion must have areas designated as prohibited or temporarily prohibited for the exploitation of sand, gravel, and other minerals. The delineation of prohibited and temporarily prohibited areas for the exploitation of sand, gravel, and other minerals shall be carried out in accordance with the law on minerals.
+5. Within the scope of their respective tasks and powers, the Ministry of Agriculture and Rural Development and the Ministry of Industry and Trade shall direct the operation of irrigation and hydropower works; the Ministry of Construction and the Ministry of Transport shall review and issue national standards and technical regulations on the construction of works and shall direct and supervise the construction activities of works on rivers and in the water source protection corridor to ensure the requirements for preventing erosion of the beds, banks, and shores of rivers and lakes.
+6. The Government shall provide detailed regulations for clauses 1 and 2 of this Article.
+
+**Chapter VI**
+**ECONOMIC TOOLS, POLICIES, AND RESOURCES FOR WATER RESOURCES**
+
+**Article 67. State budget revenues from water resource activities**
+1. Natural resource tax and other taxes as provided by the law on taxation.
+2. Various fees as provided by the law on fees and charges.
+3. Water resource exploitation right granting fees.
+4. Compensation for damages to the State, and revenue from administrative penalties in the water resource sector as provided by law.
+
+**Article 68. Taxes and fees on water resources**
+1. Natural resource tax shall be applied to natural water in accordance with the law on natural resource tax.
+2. The price for calculating natural resource tax on natural water shall be implemented in accordance with the law on natural resource tax and other relevant laws.
+3. Environmental protection tax shall be applied to products and goods whose use causes adverse impacts on the environment or to pollutants, and shall be implemented in accordance with the law on environmental protection tax.
+4. Fees on water resources include:
+a) Fees for the exploitation and use of water sources in accordance with the law on fees and charges. The fee levels specified in this point shall be determined based on the nature of the public service and the activities in the water resource sector;
+b) Environmental protection fees and fee levels for wastewater shall be applied to the activity of discharging wastewater into the environment in accordance with the law on fees and charges and the law on environmental protection.
+
+**Article 69. Water resource exploitation right granting fees**
+1. Organizations and individuals exploiting water resources that fall under the cases requiring a license for the exploitation of surface water or groundwater must pay a water resource exploitation right granting fee in the following cases:
+a) Exploitation of surface water for commercial power generation;
+b) Exploitation of surface water and groundwater to serve production, business, service activities, aquaculture, and supply for agriculture and domestic use.
+2. Organizations and individuals exploiting water resources are not required to pay a water resource exploitation right granting fee in the following cases:
+a) Exploitation of seawater;
+b) Exploitation and use of water resources for domestic activities, agricultural production, aquaculture, industrial production, hydropower, irrigation, sports, tourism, business, services, source creation, salinity control, flood prevention, and landscaping as specified in clauses 3, 4, and 5 of Article 52 of this Law;
+c) Exploitation of water resources for the purposes of source creation, salinity control, flood prevention, and landscaping as specified in clause 1 of Article 52 of this Law.
+3. Organizations and individuals exploiting surface water and groundwater as specified in clause 1 of this Article shall be exempt from the water resource exploitation right granting fee in the following cases:
+a) Exploitation of water to supply for the domestic use of people in border areas, on islands, in areas with difficult socio-economic conditions, and in areas with particularly difficult socio-economic conditions;
+b) Projects with water exploitation work components that have been guaranteed by the Government of Vietnam under a Government guarantee;
+c) During the period when a water exploitation work is damaged due to a force majeure event and cannot continue to be exploited or exploitation must be temporarily suspended.
+4. Organizations and individuals exploiting surface water and groundwater as specified in clause 1 of this Article shall be granted a reduction in the water resource exploitation right granting fee in the following cases:
+a) The water exploitation work must cut or reduce the amount of water exploited when requested by a competent state agency as provided in point g, clause 1 of Article 42 of this Law;
+b) Exploitation and use of circular water and reused water as provided in clause 5 of Article 59 of this Law;
+c) Reservoirs that are already in operation must be adjusted to supplement flood control storage capacity for downstream areas compared to the approved function of the reservoir;
+d) Exploitation of water for agricultural production during periods of drought, water shortage, or saltwater intrusion.
+5. The water resource exploitation right granting fee shall be determined based on the quantity of water, the quality of the water source, the type of water source, the conditions of exploitation, the scale, the duration of exploitation, and the purpose of water use.
+6. The Government shall provide detailed regulations on the payment, exemption, and reduction of the water resource exploitation right granting fee; and shall regulate the calculation method and collection levels for the water resource exploitation right granting fee.
+
+**Article 70. Water resource services**
+1. Water resource services include:
+a) Decision support services for the regulation and distribution of water resources;
+b) Decision support services for the operation of reservoirs and interconnected reservoirs.
+2. An organization must meet the following conditions to provide the services specified in clause 1 of this Article:
+a) Having a decision establishing the organization issued by a competent authority, or a business registration certificate, or other equivalent documents in accordance with the law on enterprises;
+b) Having the technical infrastructure, physical facilities, equipment, and software to ensure the capacity to perform the service;
+c) Having a team of professional staff suitable for performing decision support services for the regulation and distribution of water resources, and decision support services for the operation of reservoirs and interconnected reservoirs.
+3. The Government shall provide detailed regulations for this Article.
+
+**Article 71. Water resource accounting**
+1. Water resource accounting is the process of synthesizing, calculating, and balancing water sources, and determining the value of water resources in socio-economic activities to ensure water source security.
+2. Water resource accounting must ensure the following principles:
+a) Ensuring synchronization and uniformity of information and data during the accounting process;
+b) Integration with the National Water Resource Information System and Database;
+c) Being developed according to groups of accounts for water resources.
+3. The results of water resource accounting shall be used by competent authorities to consider and decide on the regulation and distribution and the implementation of solutions for the management of exploitation, use, and protection of water resources.
+4. The Ministry of Natural Resources and Environment shall preside over and coordinate with the Ministry of Planning and Investment, relevant Ministries and ministerial-level agencies, Provincial-level People's Committees, and relevant organizations and individuals to organize water resource accounting.
+5. The Government shall provide detailed regulations for this Article and the roadmap for implementing water resource accounting.
+
+**Article 72. Resources for the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water**
+1. The State shall allocate resources to implement the following activities:
+a) Basic investigation and planning for water resources;
+b) Protection of water resources; development, storage of water, and restoration of degraded, depleted, and polluted water sources; protection and development of forests;
+c) Prevention, control, and remediation of harm caused by water;
+d) Development of the National Water Resource Information System and Database;
+dd) Construction and development of infrastructure for the exploitation and use of water in border areas, on islands, in areas with difficult socio-economic conditions, in areas with particularly difficult socio-economic conditions, and in freshwater-scarce regions;
+e) Scientific research, development, and technology transfer for the thrifty and efficient exploitation and use of water;
+g) Dissemination, education, and communication on water resources;
+h) International integration and cooperation on water resources;
+i) Inspection and examination in the water resource sector;
+k) Activities related to the exploitation, use, protection, development, and storage of water, the restoration of water sources, the prevention, control, and remediation of harm caused by water, and other activities related to water resources to ensure water source security.
+2. The resources to implement the activities specified in clause 1 of this Article include:
+a) The state budget from recurrent expenditure and development investment sources;
+b) The environmental protection fund;
+c) Contributions from organizations and individuals; socialized sources and other lawful capital sources as provided by law.
+3. The state budget shall be allocated in a manner consistent with the budget capacity and the task requirements for the protection and development of water sources. The use of environmental protection operational funds for water resource protection activities; the restoration of degraded, depleted, and polluted water sources; and the prevention, control, and remediation of harm caused by water.
+4. The State encourages financial institutions to develop green credit, green bonds, and other financial products to support the protection, development, and restoration of water sources.
+5. Organizations and individuals are responsible for managing and effectively using the allocated budget portion and other revenue sources in accordance with the law.
+
+**Article 73. Incentives and support for activities of managing, protecting, regulating, distributing, restoring, developing, exploiting, and using water resources, and preventing, controlling, and remediating harm caused by water**
+Organizations and individuals shall be entitled to incentives, support, or exemption from or reduction of the water resource exploitation right granting fee in accordance with the provisions of this Law and relevant laws when carrying out the following activities:
+1. Participating in the restoration of degraded, depleted, and polluted water sources;
+2. Searching for, exploring, and exploiting water to supply for domestic and production use for people in freshwater-scarce regions, ethnic minority areas, mountainous regions, border areas, islands, areas with difficult socio-economic conditions, areas with particularly difficult socio-economic conditions, and for the poor, women, children, persons with disabilities, and other vulnerable groups;
+3. Using circular water and reused water; collecting and using rainwater; desalinating seawater into freshwater; investing in water-saving equipment and technology;
+4. Constructing water regulation and storage works in water-scarce regions, ethnic minority areas, mountainous regions, border areas, islands, areas with difficult socio-economic conditions, and areas with particularly difficult socio-economic conditions;
+5. Developing technology, equipment, and products serving the protection, development, and restoration of water sources;
+6. Constructing and operating works for the artificial recharge of groundwater.
+
+**Article 74. Socialization of investment in water development, storage, and restoration**
+1. The State encourages the socialization of the following activities:
+a) Restoration of degraded, depleted, and polluted water sources;
+b) Construction of works for water development and storage.
+2. Organizations and individuals investing in projects with activities specified in clause 1 of this Article shall comply with the provisions of this Law, the law on investment, the law on public-private partnership investment, and other relevant laws.
+
+**Chapter VII**
+**INTERNATIONAL COOPERATION ON WATER RESOURCES**
+
+**Article 75. Principles of international cooperation on water resources**
+1. Respect for the independence, sovereignty, territorial integrity, and lawful interests of nations sharing a water source.
+2. Ensuring fairness and reasonableness in the protection, exploitation, use, and development of water sources, and the prevention, control, and remediation of harm caused by water with respect to transboundary water sources.
+3. Not causing harm to the lawful rights and interests of nations sharing a water source, in accordance with international treaties to which the Socialist Republic of Vietnam is a party.
+4. Compliance with Vietnamese law, international agreements, and international treaties to which the Socialist Republic of Vietnam is a party.
+5. Protection, exploitation, use, and development of transboundary water sources to ensure the optimal and sustainable benefits provided by the water source, taking into account the interests of the nations sharing the water source.
+6. Taking appropriate preventive measures to minimize harm caused by water to nations sharing a water source during the process of using the transboundary water source within the territory of the Socialist Republic of Vietnam.
+
+**Article 76. Content of international cooperation on water resources**
+1. To proactively and actively cooperate with foreign nations, foreign organizations, and international organizations on water resources, prioritizing the protection and sustainable development of water resources, human resource training, scientific research, and the prevention, control, and remediation of harm caused by water to ensure water source security.
+2. To proactively and actively cooperate in exchanging information and data on the current status and forecasts of water sources, hydrometeorology, hydrogeology, ecology, and water quality related to transboundary water sources; to coordinate in researching and formulating plans for the protection, exploitation, and use of transboundary water sources; to prevent, control, and remediate harm caused by water with respect to transboundary water sources; to create favorable conditions for the management, protection, and sustainable development of water resources and the implementation of projects related to transboundary water sources. In cases where information and data are related to state secrets, the provisions of the law on the protection of state secrets shall apply.
+3. To proactively and actively participate, contribute substantively, and research and propose new ideas and initiatives on water resources at regional and international organizations and forums, and relevant international river basin organizations to promote cooperation, exploitation, use, and sustainable development, and to ensure the security of transboundary water sources.
+
+**Article 77. Responsibility to protect Vietnam's rights and interests with respect to transboundary water sources**
+1. Organizations and individuals are responsible for protecting the rights and interests of Vietnam related to transboundary water sources in accordance with the provisions of this Law, other provisions of Vietnamese law, and relevant international agreements and treaties on water resources to which the Socialist Republic of Vietnam is a party.
+2. The Ministry of Natural Resources and Environment is responsible for monitoring, supervising, receiving information, compiling the situation of transboundary water sources, forecasting and warning of adverse impacts, and promptly reporting and proposing solutions to the Government and the Prime Minister to ensure the rights and interests of Vietnam.
+3. People's Committees at all levels in border areas with transboundary water sources, upon discovering unusual issues regarding flow, water levels, or water quality in the area under their management, must report to the directly superior People's Committee; Provincial-level People's Committees are responsible for reporting to the Ministry of Natural Resources and Environment.
+
+**Article 78. Resolution of disputes and disagreements over transboundary water sources**
+Disputes and disagreements related to water resources between Vietnam and other nations or territories sharing a water source shall be resolved on the basis of the principles specified in Article 75 of this Law, through peaceful measures, and in accordance with international agreements and treaties to which the Socialist Republic of Vietnam is a party. In cases where disputes or disagreements related to a transboundary water source occur in a river basin with an international river basin organization in which the Socialist Republic of Vietnam participates, they must also be resolved according to the regulations of that international river basin organization.
+
+**Chapter VIII**
+**STATE MANAGEMENT RESPONSIBILITY FOR WATER RESOURCES**
+
+**Article 79. State management responsibility for water resources of the Government, Ministries, and ministerial-level agencies**
+1. The Government shall exercise unified state management of water resources nationwide.
+2. The Ministry of Natural Resources and Environment is the lead agency assisting the Government in exercising state management of the management, protection, regulation, distribution, restoration, development, exploitation, and use of water resources; and the management of river basins and water sources, and has the following responsibilities:
+a) To issue, according to its authority, or to submit to competent state agencies for issuance, and to organize the implementation of legal normative documents on water resources;
+b) To issue national technical regulations; norms and unit prices for planning, basic investigation, exploration, exploitation, use, and protection of water resources;
+c) To develop and publish the national set of indicators on water source security and to preside over and coordinate with Ministries, ministerial-level agencies, and Provincial-level People's Committees to implement measures to ensure water source security;
+d) To organize the compilation and propose adjustments to the list of transboundary river basins and the list of inter-provincial river basins for submission to the Prime Minister for issuance; to issue and adjust the list of intra-provincial river basins, the list of transboundary surface water sources, the list of inter-provincial surface water sources, and the list of groundwater sources;
+dd) To disseminate, educate, and communicate on water resources to raise awareness about water resource protection and the thrifty and efficient exploitation and use of water; to inspect, examine, and handle violations of the law on water resources; to train human resources in water resources;
+e) To organize monitoring, supervision, warning, and forecasting of rain, floods, inundation, drought, water shortage, pollution, saltwater intrusion, and other unusual phenomena related to water resources;
+g) To manage, store, publish, and issue documents, information, and data on water resources; to organize the development and guide the implementation of online public services for water resources according to its authority;
+h) To submit to the Government and the Prime Minister plans for resolving issues related to transboundary water sources, participation in international organizations, and the signing of international agreements and treaties related to water resources; to preside over international cooperation activities on water resources;
+i) To be the standing body of the Vietnam National Mekong Committee and other river basin organizations;
+k) To inspect, examine, and handle violations of the law on water resources according to its authority;
+l) To perform other responsibilities as provided by this Law and other relevant laws.
+3. The Ministry of Agriculture and Rural Development, within the scope of its tasks and powers, shall exercise state management of the planning, construction, and operation of irrigation works and systems and rural water supply works, and ensure the safety of irrigation dams and reservoirs under its management in accordance with the regulations on the exploitation and use of water resources; provide information and data for the development of water source scenarios; and perform other responsibilities as provided by this Law and other relevant laws.
+4. The Ministry of Industry and Trade, within the scope of its tasks and powers, shall exercise state management of the planning, construction, and operation of works for the exploitation and use of water and ensure the safety of hydropower dams and reservoirs under its management in accordance with the regulations on the exploitation and use of water resources; provide information and data for the development of water source scenarios; and perform other responsibilities as provided by this Law and other relevant laws.
+5. The Ministry of Construction, within the scope of its tasks and powers, shall exercise state management of the planning, construction, and operation of urban water supply and drainage works, concentrated rural residential areas, and functional zones under its management in accordance with the regulations on the exploitation and use of water resources; provide information and data for the development of water source scenarios; and perform other responsibilities as provided by this Law and other relevant laws.
+6. The Ministry of Foreign Affairs, within the scope of its tasks and powers, shall coordinate with the Ministry of Natural Resources and Environment, relevant Ministries, ministerial-level agencies, and localities to participate in the signing and implementation of international treaties and agreements related to water resources; and shall participate in implementing international cooperation with other countries and foreign organizations in the field of water resources.
+7. The Ministry of National Defense, within the scope of its tasks and powers, shall organize the development and organization of forces and means to participate in responding to and remedying incidents of pollution and degradation of water sources, incidents of dam and reservoir unsafety, and responding to incidents, disasters, and search and rescue operations related to water in accordance with the law on civil defense, the law on the state of emergency, and relevant laws; and shall coordinate with the Ministry of Natural Resources and Environment to organize, manage, and operate the cross-border water source monitoring system.
+8. The Ministry of Public Security, within the scope of its tasks and powers, is responsible for developing and organizing the implementation of plans to protect particularly important domestic water supply works; preventing, detecting, and combating violations of the law on water resources; coordinating and organizing forces and means to respond to incidents and disasters related to water; and ensuring political security, social order, and safety in areas and regions where incidents and disasters related to water occur, in accordance with the law.
+9. Relevant Ministries and ministerial-level agencies, within the scope of their tasks and powers, are responsible for coordinating with the Ministry of Natural Resources and Environment to exercise state management of water resources to ensure water source security and to perform other tasks as provided by this Law.
+
+**Article 80. State management responsibility for water resources of People's Committees at all levels**
+1. Provincial-level People's Committees, within the scope of their tasks and powers, have the following responsibilities:
+a) To issue, according to their authority, and to organize the implementation of legal normative documents on water resources;
+b) To organize the implementation of the National Water Resource Strategy, the master plan for basic water resource investigation, and water resource planning; to formulate and organize the implementation of plans for the exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water within the provincial planning;
+c) To identify degraded, depleted, and polluted water sources; to organize the implementation of groundwater protection plans;
+d) To organize response to and remediation of water source pollution incidents; to monitor, detect, and participate in resolving transboundary water source pollution incidents according to their authority;
+dd) To provide information and data for the development of water source scenarios; to issue and adjust the list of intra-provincial surface water sources;
+e) To disseminate, educate, and communicate on water resources to raise awareness about water resource protection and the thrifty and efficient exploitation and use of water;
+g) To manage the water source protection corridor; to organize the supervision of water resources as decentralized; to report to the Ministry of Natural Resources and Environment on the situation of management, exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water in their locality;
+h) To inspect, examine, and handle violations of the law on water resources in their locality;
+i) To organize the development and guide the implementation of online public services for water resources according to their authority;
+k) To coordinate with the Vietnam Fatherland Front Committee at the same level and its member organizations to disseminate, educate, and communicate on water resources;
+l) To perform other responsibilities as provided by this Law.
+2. District-level People's Committees, within the scope of their tasks and powers, have the following responsibilities:
+a) To implement measures to protect water resources in accordance with the law; to coordinate with agencies and organizations managing stations and works for monitoring, measuring, and supervising water resources, and works for exploring, exploiting water, and discharging wastewater into water sources to protect these works;
+b) To organize response to and remediation of water source pollution incidents; to monitor, detect, and participate in resolving water source pollution incidents according to their authority; to organize the implementation of measures for the prevention, control, and remediation of harm caused by water;
+c) To disseminate and educate on water resources to raise awareness about water resource protection and the thrifty and efficient exploitation and use of water; to inspect, examine, and handle violations of the law on water resources in their locality;
+d) To periodically compile and report to the Provincial-level People's Committee on the situation of management, protection, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water;
+dd) To receive, manage, and protect the boundary markers of the water source protection corridor as assigned; to organize the registration of water resource exploitation and use activities according to their authority;
+e) To perform state management tasks on water resources as decentralized or authorized by the Provincial-level People's Committee;
+g) To perform other responsibilities as provided by this Law.
+3. Communal-level People's Committees, within the scope of their tasks and powers, have the following responsibilities:
+a) To implement measures to protect water resources in accordance with the law; to coordinate with agencies and organizations managing stations and works for monitoring, measuring, and supervising water resources, and works for exploring, exploiting water, and discharging wastewater into water sources to protect these works;
+b) To disseminate and educate on water resources to raise awareness about water resource protection and the thrifty and efficient exploitation and use of water; to examine and handle violations of the law on water resources in their locality;
+c) To receive, manage, and protect the boundary markers of the water source protection corridor as assigned; to supervise activities within the water source protection corridor and the sanitary protection zones for domestic water intake areas as stipulated;
+d) To periodically compile and report to the District-level People's Committee on the exploitation of groundwater by households for domestic use;
+dd) To perform state management tasks on water resources as decentralized or authorized by a superior People's Committee;
+e) To perform other responsibilities as provided by this Law.
+
+**Article 81. Coordination and supervision of activities for the protection, regulation, distribution, restoration, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water on river basins**
+1. Coordination and supervision shall be carried out for the following activities on a river basin:
+a) Coordination of measures to protect water resources, respond to and remediate water source pollution incidents, restore degraded, depleted, and polluted water sources, and prevent, control, and remediate harm caused by water on the river basin;
+b) Regulation and distribution of water resources, maintenance of minimum flow on rivers and groundwater abstraction thresholds; regulation and distribution of water resources in cases of drought and water shortage on the river basin;
+c) Construction and operation of dams, reservoirs, and other water regulation works on rivers; water transfer projects and large-scale, important water exploitation works on the river basin;
+d) Discharge of wastewater that poses a risk of causing serious pollution and degradation of water source quality; remediation of water source pollution incidents and restoration of degraded, depleted, and polluted water sources on the river basin;
+dd) Activities of land use, mineral exploitation, and forest protection and development on the river basin;
+e) Activities to restore landscapes and develop areas along rivers and lakes;
+g) Development and implementation of integrated planning for inter-provincial river basins, interconnected reservoir operating procedures on the river basin, projects involving water transfer or the construction of lakes and dams on rivers; and decision support systems for the regulation, distribution, and control of water sources on inter-provincial river basins.
+2. The Ministry of Natural Resources and Environment shall exercise unified direction of the coordination of activities of river basin organizations, Provincial-level People's Committees, and relevant agencies and organizations in the regulation and distribution of water resources, and the supervision of activities of exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water on river basins.
+3. Provincial-level People's Committees shall direct the regulation and distribution of water resources and the coordination and supervision of activities of exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water on intra-provincial river basins.
+4. A river basin organization shall carry out coordination and supervision and has the following tasks:
+a) To monitor and supervise activities related to the protection, regulation, distribution, development, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water;
+b) To provide opinions during the process of developing water resource planning and national sectoral plans, provincial plans, and technical and specialized plans containing content on water resource exploitation and use; and interconnected reservoir operating procedures;
+c) To monitor and supervise the implementation of water resource planning and interconnected reservoir operating procedures; to recommend adjustments when necessary;
+d) To recommend solutions for resolving disputes and disagreements between Vietnam and other nations in a transboundary river basin; to monitor and supervise activities related to the water resources of upstream nations;
+dd) To propose solutions for resolving issues in the protection, exploitation, use, and development of water sources, wastewater discharge, and water source pollution;
+e) To provide opinions during the process of developing and approving programs, schemes, and projects that have a significant impact on water resources and during the process of developing and issuing incentive and investment support policies related to water resources;
+g) To support localities in deciding on the regulation and distribution of water resources;
+h) To participate in resolving conflicts in the exploitation, use, and protection of water resources on the river basin;
+i) To organize or participate in researching and proposing directions, mechanisms, policies, strategies, national sectoral plans, and key national-level works related to water resources and other tasks on the river basin as stipulated by the Government.
+5. The Government shall provide detailed regulations on the coordination and supervision of activities of exploitation, use, and protection of water resources, and the prevention, control, and remediation of harm caused by water; and shall regulate the organization and operation of river basin organizations.
+
+**Chapter IX**
+**INSPECTION AND EXAMINATION REGARDING WATER RESOURCES**
+
+**Article 82. Specialized inspection of water resources**
+1. The Inspectorate of the Ministry of Natural Resources and Environment and the Inspectorate of the Department of Natural Resources and Environment shall carry out specialized inspection of water resources.
+2. The organization and operation of specialized inspection of water resources shall be carried out in accordance with the law on inspection.
+
+**Article 83. Examination of compliance with the law on water resources**
+1. The purpose of examining compliance with the law on water resources is to contribute to enhancing the effectiveness and efficiency of state management and the sense of legal compliance of organizations and individuals in the protection, exploitation, and use of water resources, and the prevention, control, and remediation of harm caused by water; to identify shortcomings and limitations in order to research and recommend amendments and supplements to legal normative documents on water resources; and to prevent, detect, and handle violations of the law on water resources.
+2. The work of examining compliance with the law on water resources shall be carried out according to a plan, the direction of a competent authority, or when signs of violation are detected; it shall not overlap in scope or time with inspection or examination activities in the same field for a single entity; it shall be objective, public, transparent, and in accordance with proper authority, order, and procedures; and it shall not obstruct the normal activities of the entity being examined.
+3. The duration of an examination shall be specified in the examination decision but shall not exceed 10 days from the date the examination decision is announced; in cases where the scope of the examination is large and the content is complex, it may be extended once, but the extension period shall not exceed 10 days.
+4. The responsibility for organizing and directing the implementation of the examination of compliance with the law on water resources is regulated as follows:
+a) The Ministry of Natural Resources and Environment and relevant Ministries, within the scope of their tasks and powers, are responsible for organizing the examination of compliance with the law on water resources;
+b) People's Committees at all levels, within the scope of their tasks and powers, are responsible for organizing the examination of compliance with the law on water resources.
+5. The Minister of Natural Resources and Environment shall provide detailed regulations for this Article.
+
+**Chapter X**
+**IMPLEMENTATION PROVISIONS**
+
+**Article 84. Amendments and supplements to some laws related to water resources**
+1. To amend and supplement item 3 of Appendix II - List of technical and specialized plans of the Law on Planning No. 21/2017/QH14, which has been amended and supplemented by some articles according to Law No. 15/2023/QH15 and Law No. 16/2023/QH15, as follows:
+
+| 3 | Integrated planning for inter-provincial river basins | Law on Water Resources No. 28/2023/QH15 |
+
+2. To amend and supplement some articles of the Law on Irrigation No. 08/2017/QH14, which has been amended and supplemented by some articles according to Law No. 35/2018/QH14, Law No. 59/2020/QH14, Law No. 72/2020/QH14, and Law No. 16/2023/QH15, as follows:
+a) To amend and supplement point d, clause 1, Article 27 as follows:
+“d) When drought, water shortage, saltwater intrusion, floods, or waterlogging occur, the operation of reservoirs and interconnected reservoirs shall be carried out in accordance with the law on water resources.”;
+b) To amend and supplement point c, clause 1, Article 44 as follows:
+“c) Drilling, excavation, geological surveys; exploration and exploitation of minerals and construction materials;”;
+c) To amend and supplement point c, clause 2, Article 56 as follows:
+“c) To direct the regulation and distribution of water and to organize the implementation of water use plans within the irrigation work system to serve domestic activities, agricultural production, and other economic sectors; to coordinate with the Ministry of Natural Resources and Environment and the Ministry of Industry and Trade to regulate water from hydropower reservoirs to serve irrigation in cases of drought, water shortage, or saltwater intrusion;”.
+3. To amend and supplement some articles of the Law on Investment No. 61/2020/QH14, which has been amended and supplemented by some articles according to Law No. 72/2020/QH14, Law No. 03/2022/QH15, Law No. 05/2022/QH15, Law No. 08/2022/QH15, Law No. 09/2022/QH15, and Law No. 20/2023/QH15, as follows:
+a) To amend and supplement point g, clause 1, Article 16 as follows:
+“g) Collection, treatment, recycling, or reuse of waste; development, storage of water, and restoration of water sources;”;
+b) To amend and supplement some items in Appendix IV - List of conditional investment and business sectors and trades as follows:
+
+| 213 | Business of water resource exploitation services |
+| :-- | :------------------------------------------------ |
+| 214 | Business of decision support services for the regulation and distribution of water resources; decision support services for the operation of reservoirs and interconnected reservoirs |
+
+4. To amend and supplement point c, clause 1, Article 4 of the Law on Public-Private Partnership Investment No. 64/2020/QH14, which has been amended and supplemented by some articles according to Law No. 03/2022/QH15, as follows:
+“c) Irrigation; clean water supply; water drainage and wastewater treatment; waste treatment; development, storage of water, and restoration of water sources;”.
+5. To repeal Article 5 of the Law Amending and Supplementing a Number of Articles of 37 Laws Related to Planning No. 35/2018/QH14.
+
+**Article 85. Entry into force**
+1. This Law shall enter into force on July 1, 2024, except for the cases specified in clauses 3 and 4 of this Article.
+2. The Law on Water Resources No. 17/2012/QH13, which has been amended and supplemented by some articles according to Law No. 08/2017/QH14, Law No. 35/2018/QH14, and Law No. 72/2020/QH14 (hereinafter referred to as Law No. 17/2012/QH13), shall expire on the date this Law enters into force, except for the cases specified in clauses 1, 3, and 5 of Article 86 of this Law.
+3. The calculation of the water resource exploitation right granting fee for domestic supply as provided in point b, clause 1 of Article 69 of this Law shall be implemented from July 1, 2025.
+4. The declaration of groundwater exploitation by households as provided in clause 4 of Article 52 of this Law shall be implemented from July 1, 2026.
+
+**Article 86. Transitional provisions**
+1. Organizations and individuals that have been issued a license to practice groundwater drilling or a license for water resources under Law No. 17/2012/QH13 may continue to operate until the expiry date stated in the license and may have their licenses renewed, adjusted, or reissued in accordance with the provisions of this Law.
+2. Organizations and individuals falling under the case specified in point b, clause 1 of Article 69 of this Law that were issued a water resource license for domestic supply before the effective date of this Law must pay the water resource exploitation right granting fee for domestic use in accordance with the provisions of this Law and must complete the declaration for calculating the water resource exploitation right granting fee no later than December 31, 2025.
+3. Organizations and individuals falling under the case specified in point b, clause 1 of Article 69 of this Law that were issued a water resource license for agricultural supply before the effective date of this Law and were not subject to paying the water resource exploitation right granting fee under Law No. 17/2012/QH13 are not required to pay the water resource exploitation right granting fee for the amount of water supplied for agriculture until the expiry date stated in the water resource license.
+4. Organizations and individuals falling under the case specified in point b, clause 1 of Article 69 of this Law who are issued or have their surface water exploitation license renewed for agricultural supply under this Law must pay the water resource exploitation right granting fee in accordance with this Law at the same time as the collection of fees for the use of irrigation products and services, when the State does not implement the policy of subsidizing the fees for the use of public-utility irrigation products and services in accordance with the law on irrigation and the law on prices.
+5. In cases where an organization or individual submitted an application file for the issuance, renewal, adjustment, or reissuance of a license to practice groundwater drilling or a license for water resources before the effective date of this Law but has not yet been licensed, the provisions of Law No. 17/2012/QH13 shall apply, unless the organization or individual requests that the license be issued in accordance with the provisions of this Law.
+6. In cases where an irrigation work was constructed and has been in operation since before January 1, 2013, but has not been registered or licensed for the exploitation and use of water resources before the effective date of this Law, the procedures for registration and licensing of water resource exploitation must be completed in accordance with this Law no later than June 30, 2027.
+7. For provincial plans that were approved before the effective date of this Law, the content of the plan for the exploitation, use, and protection of water resources and the remediation of harm caused by water within the provincial plan shall continue to be implemented until the expiry of the provincial planning period or until this content in the provincial plan is adjusted.
+8. Organizations and individuals falling under the cases specified in point e and point g of clause 5 of Article 52 of this Law who have lakes, ponds, canals, ditches, or channels to create spaces for water collection and storage, water conveyance, and landscaping, and who use the water surface of rivers, streams, canals, ditches, channels, and reservoirs for aquaculture, business, and services before the effective date of this Law, must complete the procedures for registering the use of water resources in accordance with this Law no later than June 30, 2026.
+
+This Law was passed by the 15th National Assembly of the Socialist Republic of Vietnam at its 6th session on November 27, 2023.
+
+**CHAIRMAN OF THE NATIONAL ASSEMBLY**
+
+**Vương Đình Huệ**
+

@@ -1,0 +1,23 @@
+# Core Machine Learning & Data
+torch>=2.0.0
+numpy
+pandas
+scipy
+scikit-learn
+
+# NLP & Embeddings
+sentence-transformers
+spacy
+einops
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# File Formats
+pyarrow
+openpyxl
+
+# excel writer
+xlsxwriter

@@ -1,0 +1,3233 @@
+
+
+--- PAGE 1 ---
+
+ 
+ 
+WATER CODE OF THE REPUBLIC OF ARMENIA 
+ 
+(Adopted by the National Assembly of the Republic of Armenia on June 4th, 2002) 
+ 
+ 
+CHAPTER 1. GENERAL PROVISIONS 
+  
+Article 1.  
+General Concepts Used in the Code 
+ 
+Concepts used in this Code have the following meaning: 
+ 
+National Water Reserve: 
+The quality and quantity of water that required to satisfy present and future basic human needs, as well as to 
+protect aquatic ecosystems and to secure sustainable development and use of that water resource.  
+ 
+Useable Water Resources: 
+The portion of water resources that may be allocated for consumptive use without reducing the National Water 
+Reserve. 
+ 
+Water Resources: 
+All surface and subterranean (subsurface) waters, including any stream, river, spring, wetland, lake, pond, snow 
+pack, glacier, aquifer, and any other body of water, including seasonal water resources. 
+ 
+Water System: 
+Hydrotechnical structures (here in after called HTS) related to the use of water resources causing the alteration 
+of water flow or used to convey water resources, including (but not limited to): dams, dikes, embankments, 
+canals, channels, wells, pipelines, pumping plants, purification plants, water outlets, spillways, aqueducts and 
+water storage facilities, any machinery, appliances, apparatus that constructed, erected or used for impounding, 
+storage, conveyance, distribution, drainage, control or extraction of water, power generation, water treatment, 
+water use, or rainfall collection. For purposes of this Code, a water system may include an integrated system or 
+separate parts of such a system.  
+ 
+Water Relationships:  
+The relationships that arise in the sphere of disposition, possession, use and protection of water resources and 
+water systems or their pats, including water supply, wastewater systems and HTS’s. 
+ 
+Person: 
+Any physical and/or legal person. 
+ 
+Public Notice: 
+Informing of stakeholders about impact of proposed activity, which shall be published in a printing source 
+having at least 1000 printings. The notice shall include the introduction of a decision on the proposed activity or 
+the issue and a brief description of their possible effect; the location, where information on proposed activity or 
+decision can be obtained; written comments on proposed activity or decision; the location, where the notices can 
+be submitted and realistic terms of their submission, as well as the dates and places of public hearings of notices. 
+ 
+1
+
+
+--- PAGE 2 ---
+
+ 
+Public Interest: 
+Such type of activity in water relationships, the main purpose of which is to be useful to the public. 
+ 
+National Water Council:  
+An inter-sectoral advisory body under the Government of the Republic of Armenia.which serves as an 
+ 
+Dispute Resolution Commission: 
+A commission acting in the structure of the National Water Council, which resolves disputes related to water use 
+permits. 
+ 
+Water Resources Management and Protection Body:  
+A body authorized by the Government of the Republic of Armenia, which is responsible for the management and 
+protection of water resources. 
+ 
+Water Systems Management Body: 
+A body authorized by the Government of the Republic of Armenia, which is responsible for organization of 
+water supply and wastewater services, water systems, and provision of their safety and protection. 
+ 
+Regulatory Board of Water Users’ Associations and Federations of Water Users' Associations: 
+A body under the Government of the Republic of Armenia. 
+ 
+Regulatory Commission: 
+An independent commission that determines tariff policy in water relations and issues water systems use permits. 
+ 
+National Water Policy: 
+A concept of perspective development of strategic use and protection of water resources and water systems.  
+ 
+National Water Program: 
+The main document of perspective development of management and conservation of water resources and water 
+systems by which the objectives of this Code shall be implemented. 
+ 
+Water Basin Management Plan: 
+A comprehensive document on water management, which shall describe the management and conservation 
+activities to be implemented within a water basin in order to achieve the objectives of this Code. 
+ 
+State Water Cadastre: 
+A permanent operating system, which keeps comprehensive record of quantitative and qualitative indices on 
+water resources, water intake, watersheds, composition and quantities of materials and biological resources, 
+which are extracted from water basin beds and coasts, as well as record of water users, water use permits and 
+water systems use permits.  
+ 
+Monitoring of Water Resources: 
+A regulated system of observations of  hydrological, hydrogeological, hydrophysical and hydrochemical indices, 
+which ensures collection and analyses thereof  (and is a subject to dissemination). 
+ 
+Water Use: 
+Removing water from or otherwise reducing water in a water resource; storing water; impeding or diverting the 
+flow of a water resource; polluting a water resource; discharging wastewater into a water resource; disposing or 
+storing hazardous substance in a manner that may detrimentally impact a water resource; and, altering the beds, 
+banks, course or characteristics of a water resource. 
+ 
+ 
+2
+
+
+--- PAGE 3 ---
+
+Water Use Permit: 
+A document, which includes the rights and responsibilities of a person related to the extraction of water from and 
+discharge of water into a water resource. 
+ 
+Free Water Use: 
+Water use, which does not require a water use permit. 
+ 
+Non-Competitive Water Supplier: 
+A person, who is the owner of commercial supply of drinking or irrigation water or wastewater treatment 
+services to the public and who has no competitors. 
+ 
+Non-Competitive Water Supply System: 
+A system of HTS’s the primary purpose of which is to store water, supply the public with drinking water, 
+wastewater treatment and irrigation services  that represents the only available supplier of such services. 
+ 
+Water System Use Permit: 
+A document issued according to the procedure established in this Code,  which stipulates the undertaking of non-
+competitive activities by using a particular HTS’s,  as well as rights and responsibilities of the person that 
+provides services; establishes tariffs that the supplier may charge consumers; and regulates the quality of 
+services provided by supplier. 
+ 
+Water Supplier: 
+A person, who withdraws, stores water and/or supplies it to water users. 
+ 
+State Management: 
+Delegation of water system use rights from Water Systems Management Body to legal persons having 100 
+percent state ownership in shares (stocks).  
+ 
+Private Management: 
+Delegation of water system use rights from Water Systems Management Body to individual entrepreneurial and 
+(or) legal persons not having 100 percent state ownership in shares (stocks). 
+ 
+Management of Irrigation Water Supply: 
+Requirements presented to water suppliers in the spheres of irrigation water demand, planning, allocation and 
+supply.  
+ 
+Concession Agreement: 
+A written contract on delegation of rights to use a water system or its part. 
+ 
+Water Lands: 
+Lands separated for use and protection of water systems. 
+ 
+Manager of Water Systems: 
+A person, who was given the right to use water systems and the duty to maintain them in an established order. 
+ 
+Weight Coefficient:  
+Percentage or absolute value, by which the winner of the tender shall be selected. 
+ 
+Transboundary Water Resources: 
+Surface and (or) ground water resources crossing the state borders, indicating state borders or located thereon, 
+the bottom and shore sections of which located in either side of the demarcation (board sharing) line and belong 
+to the Republic of Armenia. 
+ 
+3
+
+
+--- PAGE 4 ---
+
+ 
+Water Standards: 
+Qualitative and quantitative criteria and requirements for water resource (including the National Water Reserve) 
+necessary for protection of water resources quantity and improvement of water resources quality.  
+ 
+Regulated Tariff:  
+Price or a system of prices for the abstracted, supplied, treated and (or) allocated water unit determined by the 
+Regulatory Commission. 
+ 
+Calculated Tariff:  
+Tariff calculated by expenses actually made for the abstracted, supplied, treated, and (or) allocated water unit 
+and by reasonable profit. 
+ 
+Safety Indexes of HTS’s: 
+Risk values of an emergency condition of HTS’s and their operating conditions. 
+ 
+Pollution: 
+The direct or indirect alteration by human of the physical, chemical or biological characteristics of a water 
+resource, in a result of which it becomes:  
+1) less fit for beneficial purpose for which it may reasonably be expected to be used; or,  
+2) harmful or potentially harmful to the welfare, health or safety of human beings; any aquatic or non-aquatic 
+organisms; water resources quality; or characteristics. Pollution includes any accumulation in a water resource of 
+articles foreign to the ecosystem in question  (littering). 
+ 
+Depletion of Water Resources: 
+Shortening of water volume or flow, and (or) change of quality, which results in disbalance of ecological state of 
+a water resource. 
+  
+Water Protection: 
+Measures preventing and eliminating water pollution, littering and depletion. 
+ 
+Wastewaters: 
+Polluted waters discharged into a water resource. 
+ 
+Allowed Marginal Concentration (AMC): 
+Such magnitude of harmful substance, the presence of which does not cause any harm to the human health, 
+neither result in unfavorable consequences.  
+ 
+Allowed Marginal Outflow (AMO): 
+Such a regulated magnitude of harmful substances, which is established for point and (or) non-point pollution 
+sources, taking into account characteristics of technological norms for discharges and background pollution of 
+water resources.  
+ 
+Harmful Impact of Waters: 
+Floods, erosion, mudflows, logging, destruction of dams and embankments of shores, raised horizons of of 
+underground waters, swamping and salination of soils (lands), formation of new ravines, deepening of the beds 
+of old ones, activation of landslides, scarcity of water and draught. 
+ 
+Cumulative Impact: 
+The cumulative impact on environment, which occurs in a result of the change of the water resources state and is 
+observed together with the effects of other actions.  
+ 
+ 
+4
+
+
+--- PAGE 5 ---
+
+Transboundary Influence:  
+Detrimental results on environment, which occurs in a result of the change of transboundary water resources’ 
+condition, when the source of the change is of human nature, and are located in one of the countries neighboring 
+to the transboundary water resources, and its influence also expands over the environment of other neighboring 
+countries. 
+ 
+Specially Protected Watersheds and Wetlands:  
+Watershed and wetlands, or parts thereof, which considered as being important to the preservation of water 
+standards standpoint and as such requiring corresponding management, including: watersheds and wetlands, or 
+parts thereof, which have international significance from water standards protection standpoint.  
+Aquatic Ecosystem:  
+Integrity of biotic and abiotic subsystems of a water system and (or) its watershed.  
+ 
+Protection Zones of Aquatic Ecosystems: 
+1) 
+Sanitary Protection Zone - a protection zone of water resources used for satisfaction of needs of 
+population for drinking, healthcare, municipal needs, household services, medical, health resort and recreational 
+purposes. 
+2) 
+Flow Formation Zone - an area, where the river is formed. 
+3) 
+Ground Water Protection Zone - areas, which are vulnerable for ground waters. 
+4) 
+Water Protection Zone - a territory established for preventing pollution, littering, depletion of water 
+resources, as well as for provision of a favorable water regime, which is not subject to privatization and 
+confiscation.  
+5) 
+Ecotone - interconnected transition zone of water and land ecosystems, which includes –coastal and 
+water adjacent territoriess. 
+6) 
+Zone of Ecological Emergencies and Ecological Disasters in Water Basin – a territory of ecological 
+emergencies and ecological disasters in water basin. 
+7) 
+Non-alienated Zone - a separated territory having certain regime for operation, restoration and 
+maintenance of water supply, water discharge system and HTS’s, which is not a subject to privatization and 
+confiscation. 
+ 
+Ecological Release:  
+Minimum flow of water through which ecological balance and self-recovery capability of a water resource is 
+assured. 
+ 
+Normative Requirements for Water Resource Use: 
+Establishment of rules for water resources use, HTS’s use, as well as establishment of quantities of biological 
+resources and materials to be extracted from water basins, their beds and shores. 
+ 
+Standardization of Maintenance of Water Resources:  
+Establishment of marginal allowed human-made loads; establishment of maximum allowable concentrations of 
+wastewaters and composition of substances included in them discharged into water resources; establishment of 
+ecologically safe quantities of water use and wastewater discharge; establishment of rules for water resources 
+protection; establishment of quantities of maximum water intake from water resources and minimum 
+environmental flow rates based on time sections. 
+ 
+Article 2. 
+The Water Legislation of the Republic of Armenia 
+ 
+Water relations in the Republic of Armenia are regulated by this Code, laws of the Republic of Armenia and 
+other legal acts.  
+The issues of management and protection of Lake Sevan are regulated by the law.  
+ 
+5
+
+
+--- PAGE 6 ---
+
+If international treaties ratified by the Republic of Armenia establish norms other than those that are provided by 
+this Code, the norms of the international treaties shall apply. 
+ 
+Article 3. Authorities of the Government of the Republic of Armenia 
+ 
+The Government of the Republic of Armenia (hereinafter the Government) through its corresponding state 
+governmental bodies shall uphold the purposes of this Code, ensure that water is conserved, protected from 
+harm, and utilized for the benefit and security of all persons.   
+ 
+Article 4. State Ownership of Water Resources and Water Systems  
+ 
+Water resources existing in the territory of the Republic of Armenia are the state property and are disposed, 
+possessed and used in a procedure established by legislation. 
+Water systems of state significance defined by the National Water Program are the state property and shall not 
+be subject to privatization.  
+Inalienable zones of main and inter-community water supply and wastewater disposal systems are the state 
+property and shall not be subject to privatization.  
+ 
+Article 5. Basic Principles of Management, Use and Protection of Water Resources and Water Systems 
+ 
+The basic principles of management, use and protection of water resources and water systems in the Republic of 
+Armenia are: 
+ 
+1) 
+satisfaction of the basic vital needs of the present and future generations; 
+2) 
+maintenance and increase of volumes of the national water reserve; 
+3) 
+protection of aquatic and related ecosystems and their biological diversity as well as recognition of  
+integrated and interconnected relations of land, air, water and biological diversity; 
+4) 
+water use shall be regulated through water use permits; 
+5) 
+non-competitive water supply systems management and tariffs shall be regulated through water system 
+use permits; 
+6) 
+encouragement of fair principles of useable water resources accessibility; 
+7) 
+encouragement of efficient use of water resources for public interest; 
+8) 
+acceptance of conjunctive and integrated management of ground and surface water resources; 
+9) 
+planning and satisfaction of increasing public and economic demand for useable water resources;  
+10) 
+taking into consideration the economic value of water in the procedures of use, allocation and protection 
+of water resources. At the same time water is a heritage that shall be protected, conserved and used as 
+such regarding the future generations’ interest; 
+11) 
+there is no alternative to water; it has environmental and economic value not only in case when it is used 
+but also when it is not used. The economic value of water is mainly composed of the sum of drinking, 
+environmental, energetic potential and agricultural values of water;  
+12) 
+water opportunity costs consist of the utmost benefit, which could be achieved, if water has been used by 
+any other alternative project and purpose; 
+13) 
+in order to make available the use of the minimum sufficient quantity and necessary quality of water for 
+a consumer the regulated tariff is established based on the abated price of water scarcity; 
+14) 
+in case if the determined size of regulated tariff is less than the value of calculated tariff, deficit of 
+money entrance to the state budget from water use is envisaged in forms of subsidies or as tax privileges 
+defined by the legislation of the Republic of Armenia. Alongside with increasing ability of water users 
+to pay,  the additional payments shall decrease and the size of regulated tariff shall be drawn to the value 
+of calculated tariff;  
+ 
+6
+
+
+--- PAGE 7 ---
+
+15) 
+allocation and use of water resources on payable basis by applying guaranteed fees for water use. 
+Allocation of useable water resources free of charge is applied only in cases envisaged by the present 
+Code, in accordance with procedure defined by the Government of the Republic of Armenia; 
+16)  
+recognition of importance of public participation and awareness in the processes of management and 
+protection of water resources; 
+17) 
+increasing the efficiency of water supply and wastewater systems; 
+18) 
+encouragement of safety and use efficiency of HTS’s; 
+19) 
+provision of food and national security in water relationship; 
+20)  
+water resources, water supply and wastewater systems are considered as objects of vital security and 
+shall be protected in the order established by law and other legal acts; 
+21)  
+building capacities to manage,  confront and avoid the disastrous consequences of floods and droughts; 
+22)  
+water resources pollution mitigation and prevention; 
+23)  
+compensation of the costs of polluted waters treatment by a polluter; 
+24) 
+prohibition of satisfaction of water users' needs at the expense of the ecological water releases.  
+ 
+Article 6. Purpose of this Code  
+ 
+The main purpose of this Code is the conservation of the national water reserve, the satisfaction of water needs 
+of citizens and economy through effective management of useable water resources, securing ecological 
+sustainability of the environment, as well as the provision of a legal basis to achieve the objectives of this Code. 
+ 
+Article 7.  
+Objectives of this Code  
+ 
+The objectives of this Code are: 
+1. establishment of appropriate water resources management mechanisms; 
+2. conservation and protection of water resources, including mitigation of pollution, maintenance and 
+supervision of  water standards and water level of the national water reserve; 
+3. prevention of waters harmful impact;  
+4. ensuring water resources assessment; 
+5. ensuring water supply to population and economy in necessary quantity and quality by regulated tariffs;  
+6. safe and smooth work of water supply and wastewater systems provision of normal conditions for their 
+use and maintenance and supervision; 
+7. provision of conditions for HTSs safe  and smooth use and maintenance and supervision; 
+8. organization of management, protection and development of water systems. 
+ 
+ 
+CHAPTER 2. WATER RESOURCES MANAGEMENT BODIES 
+ 
+Article 8. National Water Council 
+ 
+The National Water Council is the highest advisory body in the area of water resources management that through 
+intersectoral participation discusses and makes recommendations on the National Water Policy, National Water 
+Program and other related to the area legal acts.  
+ 
+Chairman of the National Water Council is the Prime Minister. By their positions, the members of the National 
+Water Council are: head of Territorial Administration Authorized Body, head of Water Resources Management 
+and Protection Body, head of Water Systems Management Body and head of Regulatory Commission. By the 
+Decision of the Prime Minister of the Republic of Armenia, representatives from state governance bodies 
+authorized for environment protection, agriculture, urban development, state property management, public 
+health, finance and economy, as well as specialists of the field are involved in the composition of the Council. 
+ 
+7
+
+
+--- PAGE 8 ---
+
+Representatives from other state authorized governance bodies may also be involved in the composition of the 
+National Water Council.  
+ 
+National Water Council shall act based on the order approved by the Prime Minister of the Republic of Armenia.  
+ 
+The sessions of the National Water Council shall be convened by necessity. 
+ 
+The National Water Council shall: 
+ 
+1)  
+Organize discussions on the issues arisen in the area of water resources disposal, possession, and use; 
+2)  
+Issue recommendations to the Government on the National Water Policy, National Water Program and 
+draft amendments proposed to them, draft laws and other legal acts related to water relationship, annual 
+information on the implementation of the National Water Program,  inconsistencies in actions of state 
+governance bodies in the area of use and protection of water resources of the Republic of Armenia. 
+ 
+The Dispute Resolution Commission shall be established in the composition of the National Water Council. 
+ 
+Article 9. Dispute Resolution Commission 
+ 
+The Dispute Resolution Commission may resolve disputes arisen in the water relationship, which relate to water 
+use permits. The Commission may use mediation to resolve disputes, and with the consent of all parties, serve as 
+a binding arbitrator. Dispute Resolution Commission decisions shall not be mandatory and in case of non-
+compliance with them the matter shall be resolved in the judicial order.  
+ 
+The members of the Dispute Resolution Commission shall be appointed by the decision of the Prime Minister of 
+the Republic of Armenia. 
+ 
+The Dispute Resolution Commission shall act in accordance with the regulation approved by the Prime Minister 
+of the Republic of Armenia.  
+ 
+Article 10. Water Resources Management and Protection Body 
+ 
+The Water Resources Management and Protection Body shall: 
+ 
+1) 
+Coordinate preparation of the draft National Water Policy and National Water Program of the Republic 
+of Armenia;  
+2) 
+Implement water resources management and protection within the framework of the National Water 
+Policy and National Water Program; 
+3) 
+Develop the principles and norms for ecological-economic substantiation of assessment of the impact on 
+water resources as a result of economic activity; 
+4) 
+Classify water resources by use function and status; 
+5) 
+Participate in development of water standards and oversee implementation thereof;  
+6) 
+Establish marginal allowed concentrations and minimum ecological flows according to the National 
+Water Program, and approve allowed marginal qualitative and quantitative criteria for wastewater 
+discharge; 
+7) 
+Approve allowed quantities of surface and ground water extraction; 
+8) 
+Provide for development of water basin management plans and implementation thereof; 
+9) 
+In accordance with its own adopted regulations, receive water use permit applications through the 
+authorized bodies;  
+10) 
+Issue water use permits;  
+11)  
+Participate in the development of normatives for losses in water use, wastewater disposal and water 
+systems; 
+ 
+8
+
+
+--- PAGE 9 ---
+
+12) 
+Facilitate water resources monitoring and incorporate water resources monitoring results in the planning 
+and management process; 
+13) 
+Provide for implementation of a joint scientific and technical state policy in the field of water resources 
+management and protection, organize the process of implementation of basic and applied scientific 
+investigations in the field and incorporation of their results; 
+14) 
+Coordinate development and implementation of projects related to water resources management and 
+protection; 
+15) 
+Identify threats to water catchments depletion and develop measures for prevention of harmful impact on 
+water ecosystems; 
+16) 
+Provide for publicity and public notice of the documents it has developed, according to the procedures 
+established by the Government; 
+17) 
+Establish allowed quantity of water extraction needed for getting a privileged ground water use right for 
+the cases established by this Code; 
+18) 
+Ensure the development of maps of the protection zones of aquatic ecosystems; 
+19)  
+According to the requirements of the National Water Program oversee the norms established in the area 
+of water resources use and management, including fulfillment of established quotas and limitations: 
+ 
+To promote more effective, purposeful and decentralized management of water resources, Water Basin 
+Management Authorities shall be established in the composition of the Water Resources Management and 
+Protection Body according to the procedures, established by the legislation of the Republic of Armenia.  
+ 
+Article 11. Water Basin Management Authorities 
+ 
+Water basin management authorities shall implement water basin management plans. 
+ 
+Water Basin Management Authorities shall: 
+ 
+1. Develop water management plans based on the National Water Program and by coordinating sector and 
+public interest into the development of those plans, 
+2. Serve as the link between the Water Resources Management and Protection Body and the community 
+served by the basin,  
+3. Record water use permits issued by the Water Resources Management and Protection Body, 
+4. Ensure water resources protection, 
+5. Ensure that water use does not exceed limits allowed by water use permits and submit a report on that to 
+the Water Resources Management and Protection Body,  
+6. Establish extraction quantities and regimes upon the approval of the Water Resources Management and 
+Protection Body as well as implement and monitor measurement of water extraction, 
+7. Participate in development of plans for perspective water allocation among users: development of  water 
+supply marginal quantities and water supply regime, 
+8. Develop drafts of perspective projects for the basin water resources management, use and protection. 
+ 
+Head of the Water Resources Management and Protection Body shall appoint agents with relevant experience as 
+authorized representatives of the Water Basin Management Authority. Citizen’s representatives, representatives 
+of water user associations and other organizations may be involved in Water Basin Management Authorities 
+with the right of advisory vote.  
+ 
+Article 12. Water Systems Management Body 
+ 
+The Water Systems Management Body shall: 
+ 
+1) 
+Be responsible for the management and safe use of state owned HTS’s; 
+2) 
+Participate in preparation of the Draft National Water Program; 
+ 
+9
+
+
+--- PAGE 10 ---
+
+3) 
+Provide for implementation of the National Water Program; 
+4) 
+Participate in annual and perspective activities of assessment of usable water resources demand; 
+5) 
+Provide for implementation of usable water resources re-distribution; 
+6) 
+Provide for development and implementation of water systems investment policy, as well as organize 
+expertise of investment programs; 
+7) 
+Implement authorities of management of state enterprises for implementation of investment programs in 
+the field, if such is stipulated by the Government of the Republic of Armenia; 
+8) 
+Provide for initial expert assessment and make recommendations regarding design documents of 
+construction and reconstruction works of structures affecting water systems HTS’s; 
+9) 
+Regulate and control safe use of HTS’s according to the procedures established by the Government of 
+the Republic of Armenia; 
+10) 
+Oversee organization of works in non-competitive water supply systems according to the terms of any 
+water systems use permit; 
+11) 
+If it is stipulated by the Government of the Republic of Armenia, provide functions related to state share 
+management in organizations implementing business activity, including the conclusion of effective 
+management contracts for state owned water systems as well as supervision of requirements established 
+by water systems use permits; 
+12)  
+Participate in the development of normatives for losses in water supply and wastewater disposal, as well 
+as other water systems; 
+13) 
+Submit to the Regulatory commission a proposal on the regulated tariffs; 
+14) 
+Submit to the Regulatory Commission proposals on water systems use permits and their terms and 
+requirements. 
+ 
+Article 13. Board to Regulate Water Users Associations and Federations of Water Users Associations 
+  
+The procedure of establishment and activity of the Board to regulate water users associations and federations of 
+water users associations shall be established by law. 
+ 
+Article 14. Regulatory Commission 
+ 
+The Regulatory Commission shall define tariff policy in water relations and shall issue water systems use 
+permits to non-competitive water suppliers. 
+ 
+The Regulatory Commission is an independent body fulfilling functions of a state management body. The 
+procedure for its establishment and activity shall be established by law. 
+ 
+The Regulatory Commission shall develop and run the tariff policy, as well as issue water system use permits to 
+non-competitive water suppliers in a procedure established by law according to the provisions of this Code.  
+ 
+ 
+CHAPTER 3. STRATEGIC WATER USE, PROTECTION AND INFORMATION 
+SYSTEMS 
+ 
+Article 15. National Water Policy 
+ 
+The National Water Policy shall: 
+ 
+1) 
+Establish perspective objectives and problems for strategic development of water resources use and 
+protection, based on which water use priority principles are established; 
+ 
+10
+
+
+--- PAGE 11 ---
+
+2) 
+For implementation of objectives and principles of this Code, contain provisions on the policy 
+implemented in water relationship, including development of water basin strategies and plans in the field 
+for coming 10-15 years; 
+3) 
+Make a preliminary assessment of the quantity and quality of water available for allocation, outline the 
+current and future demands of population and economy for resolving the issues of supplying an adequate 
+quantity and quality of water. 
+ 
+Provisions of the National water policy are  established by law, with submission of the Government.  
+ 
+Article 16. National Water Program  
+  
+The National Assembly shall approve the Water Policy at the submission of the Government by means of a 
+respective law. 
+ 
+The National water Policy shall include: 
+ 
+1) 
+Quantities of national water reserve and water resources as well as the measures directed to preserving 
+and enhancing national water reserves; 
+2) 
+Main problems of maintenance and development of the sector; 
+3) 
+Identification criteria for water systems of state significance and the list of these systems; 
+4) 
+Description of measures for modernization of water resources management; 
+5) 
+Description, scopes and schedule of implementation of the planned measures; 
+6) 
+Established  maximum and minimum water use permit fee (water use fee), including establishment of 
+water resource extraction, discharge and environmental fees rates; 
+7) 
+Estimated financial requirements necessary for the implementation of the National Water Program and 
+proposed sources for funding; 
+8) 
+Information on adoption and implementation of legal and normative acts to ensure implementation of 
+this Code in water relationship, as well as proposals on their improvement; 
+9) 
+Priorities of the planned measures implementation; 
+10) 
+Other conditions needed for implementation of the National Water Program; 
+ 
+The National Water Program shall describe for each water basin management area approved by the Government: 
+ 
+1. Boundaries, quantity, quality of water available, and classification of water resources; 
+2. Classification of water systems; 
+3. Volumes of the National Water Reserve and measures to enhance its preservation; 
+4. Current water use by various sectors and associated complex impacts to water resources allocation; 
+5. Water demand based on priorities; 
+6. Criteria for effectiveness of current water conservation and management activities, volumes of defined 
+environmental flows and maximum allowable volumes of irreversible water withdrawal to ensure 
+maintaining of safe environmental state of water resources and ability for self-restorability;  
+7. Strategy for storage, allocation and use of water resources; 
+8. Measures to improve water resources monitoring and pollution prevention, including the application of 
+modern technologies; 
+9. 
+Water standards; 
+10. Description of actions to be taken by various State government bodies for implementation of the 
+program and their coordination; 
+11. Expenditures and income related to the implementation of the program; 
+12. Mechanisms to ensure public awareness; 
+13. List of specially protected basin areas or parts thereof, for surface and/or ground waters of which or for 
+fauna and/or flora directly depending on them application of special protection system is needed; 
+14. Emergency and ecological disaster zones in water resources; 
+ 
+11
+
+
+--- PAGE 12 ---
+
+15. Description of the threats to the health of critical watersheds and wetlands and counter measures to 
+prevent any negative impacts to water ecosystems.  
+ 
+The Government  shall submit annual information on the implementation as well as proposed revisions to the 
+National Water Program to the National Assembly of the Republic of Armenia by May 15 of each following 
+year. 
+ 
+Article 17. Water Basin Management Plans  
+ 
+Based on the National Water Program, the Water Resources Management and Protection Body shall develop 
+Water Basin Management Plans that shall be approved by the Government. 
+ 
+Water Basin Management Planning shall balance the interconnected relationship of all water users, including 
+communities, power generation, industry, agriculture and environment. 
+Article 18. National Water Reserve 
+ 
+A National Water Reserve shall be established by the National Water Program for all water resources within the 
+Republic of Armenia. 
+ 
+Water resources may not be extracted, allocated as well as provided for use in a way that envisages decrease of 
+national water reserve.  
+ 
+Article 19. Water Resources Monitoring and Information Systems   
+ 
+The state authorized body for water resources monitoring shall be responsible for water resources monitoring 
+according to the procedures established by the law. 
+ 
+The order of providing information through Information systems of the State Water Cadastre shall be established 
+by the Government. 
+ 
+For inclusion in the Water Cadastre the monitoring shall provide data on: 
+ 
+1) 
+Quantitative indices of water resources, including data on snow cover; 
+2) 
+Qualitative indices of water resources; 
+3) 
+Water resources use efficiency; 
+4) 
+Results of anthropogenic impact on water resources, including pollution; 
+5) 
+Wastewaters and composition and quantities of substances in them; 
+6) 
+Rehabilitation of water resources; 
+7) 
+Forecasts on floods, mudflows, droughts; 
+8) 
+Protection zones of aquatic ecosystems and their status; 
+9) 
+Atmospheric precipitation and atmospheric temperature regime; 
+10) 
+Water use permits and water systems use permits; 
+11) 
+Implementation of the National Water Program. 
+ 
+Data of the State Water Cadastre shall be considered official.  
+ 
+Information of the State Water Cadastre shall be freely accessible to the public in order to ensure proper 
+management and conservation of water resources. 
+ 
+The State Water Cadastre shall record water resource balance by separate water basins and nationally. 
+ 
+ 
+12
+
+
+--- PAGE 13 ---
+
+The procedures for geological survey of ground waters, assessment of ground water resources, and the 
+submission of data thereof to the State Water Cadastre shall be established by law. 
+ 
+Each year, a comprehensive report on water resources monitoring shall be submitted by the state authorized 
+monitoring body to the Water Resources Management and Protection Body and shall be integrated in the annual 
+presentation on the implementation of the National Water Program.  
+ 
+Recording of supplied waters is carried out by means of water meters, and  in case of absence of such water 
+meters, an alternative water recording procedure established by the Government shall be employed.  
+ 
+Water meters shall be attested in procedures established by the legislation.  In open beds, water metering 
+observation points shall also be attested.  
+ 
+Damages and deficiencies at water meters or water metering observation points shall be rectified in procedures 
+set forth in the water supply contract. Prior to the rectification of damages and deficiencies at water meter or 
+water metering observation point, the recording of water shall be carried out in recording procedures prescribed 
+by the Government, which is based on the concept of the maximum quantity of water used by consumer and 
+minimum cost recovery by supplier.  
+ 
+Article 20. Public Participation  
+ 
+The following items are subject to public notice by the state authorized bodies: 
+ 
+1. Draft National Water Policy General Concepts 
+2. Draft National Water Program 
+3. Draft Water Basin Management Plans 
+4. Pending Water Use Permits 
+5. Pending Water System Use Permits  
+6. Draft Water Standards 
+7. Draft Water Tariff Strategy 
+ 
+Should any person be aware of or become aware of a situation where water resource quality or water use poses a 
+potential threat to human health or security; or cause water resources pollution, that person shall notify the Water 
+Resources Management and Protection Body of the occurrence and location. The water resources polluter has a 
+duty to notify the Water Resources Management and Protection Body on the pollution. The Water Resources 
+Management and Protection Body shall immediately disclose this information to the public in a manner insuring 
+that all persons at risk have an adequate opportunity to learn about the level of risk and the potential 
+consequences. 
+ 
+In order to get information in water sector any person is entitled to apply to the appropriate body and within 30 
+days to obtain that information, except for cases established by the legislation. The procedure of information 
+provision shall be established by the Government. 
+ 
+ 
+CHAPTER 4. WATER USE PERMITS 
+ 
+Article 21. Water Use Permit  
+ 
+Any person shall secure a “water use permit” issued for any type of water use, except of cases determined by this 
+Code.  
+ 
+ 
+13
+
+
+--- PAGE 14 ---
+
+Article 22. Free Water Use  
+ 
+The following shall be considered as free water use: 
+ 
+1) 
+Such a water use, which has no purpose of profit gaining; 
+2) 
+Recreation, swimming and water sports (including non-motorized water sports); 
+3) 
+Non-entrepreneurial line fishing and sport hunting; 
+4) 
+Use of precipitation on privately held lands;  
+5) 
+Taking water for fire prevention purposes; and, 
+6) 
+Water flows to maintain ecological balances for sanitary flows.  
+ 
+If any free water use harms or potentially harms the water standards, the Water Resources Management and 
+Protection Body shall regulate the activity by implementing water use permit procedures according to this Code, 
+and provide for other mitigation requirements as necessary to safeguard the water resources. 
+ 
+The Water Resources Management and Protection Body in a procedure established by the Government may 
+make a determination to exempt a water use or class of water users from the permitting requirements if:  
+ 
+1) such water use is negligible;  
+2) so long as such activity does not rise to a level that harms or potentially harms the water standards. 
+ 
+Article 23. Shore and Bank Access 
+ 
+Any person with recreation purposes has the right to use banks and shores of natural surface water resources, 
+unless the Government or its authorized body determines that such use may be detrimental to human health or 
+safety or contrary to the public interest. 
+ 
+Article 24. Designation of Fire Prevention and Suppression Water Resources 
+ 
+It is allowed to extract water in the established by the legislation order in necessary quantities from any water 
+resource and water supply system for the purpose of fire prevention and/or suppression. 
+ 
+The order of water use for the purpose of fire prevention and/or suppression shall be established by the 
+Government. 
+ 
+Article 25. Ground Water Use 
+ 
+The landowner has first priority right to acquire a ground water use permit in the lands of their personal property. 
+ 
+A water use permit for ground water in land area of another's property may be given only in the case of the 
+landowner's written agreement, which is attached to the water use permit. If Water Resources Management and 
+Protection Body determine that the extraction of groundwater is necessary in land areas of any person's property 
+and the landowner refuses to provide authorization, the land may be condemned from the landowner, providing 
+compensation of its initial price or by the application of the mandatory servitude according to procedures 
+established by law.  
+ 
+The Water Resources Management and Protection Body shall establish the sustainable maximum extraction rates 
+for groundwater water resources with reference to the national water reserve. 
+ 
+ 
+ 
+ 
+ 
+14
+
+
+--- PAGE 15 ---
+
+ 
+Article 26. Desalinization of Saline Irrigated Lands 
+ 
+Early spring and late autumn waters shall be provided for free of charge to water users for the sprinkling of 
+saline lands, in accordance with the water use permits issued in accordance with procedures established by this 
+Code. 
+ 
+Article 27. Validation of Water Use Permits 
+ 
+To be valid, a water use permit must be signed and approved by the permit holder and the Head of the Water 
+Resources Management and Protection Body, sealed by the stamp of the Water Resources Management and 
+Protection Body and, duly recorded in the State Water Cadastre. 
+ 
+Each signatory to the permit shall be legally bound to perform associated duties.  
+ 
+All water use permits shall be in writing in a standard form established by the Water Resources Management and 
+Protection Body. 
+ 
+Article 28. General Pre-Conditions Applicable to Water Use Permits 
+ 
+Each water use permit shall conform to: 
+ 
+1) 
+The requirements of this Code; 
+2) 
+The “National Water Policy”; 
+3) 
+The “National Water Program”; 
+4) 
+Relevant “Water Basin Management Plans“; 
+5) 
+International contracts of the Republic of Armenia; 
+6) 
+The National Water Reserve protection requirements; 
+7) 
+Water standards; and, 
+8) 
+Any other legal act passed in accordance with this Code. 
+ 
+Article 29. Water Use Permit Application Contents 
+ 
+A water use permit shall be issued based on the applicants’ request. The request may be refused, if the water use 
+requested thereby does not comply with: 
+ 
+1. This Code, the “National Water Policy”, “National Water Program”, relevant “Water Basin Management 
+Plans” and relevant other legal acts;  
+2. Protection requirements of the national water reserve, water standards.  
+ 
+If the applicant may require an easement or another’s property use (water receiver, structure, etc) in order to 
+enjoy the water use permit, the applicant shall state such in the application.  In such cases, the Water Resources 
+Management and Protection Body may require the applicant to provide a description of the possible easement 
+and the related property, the name(s) of the potentially effected property owner(s), and the location(s) of the 
+property in question. 
+ 
+If the applicants currently owns, intends to construct a HTS to utilize their potential water use permit, the 
+applicant shall state such in the application and submit relevant information to the Water Resources Management 
+and Protection Body.  
+ 
+Each permit application shall include a statement of any historical water use by the applicant, including 
+reference to water use with or without a water use permit. 
+ 
+15
+
+
+--- PAGE 16 ---
+
+ 
+Article 30. Water Use Permit Application Process 
+ 
+All persons wishing to secure a water use permit shall submit an application to the Water Resources 
+Management and Protection Body or Water Basin Management Authority.  
+ 
+Within thirty (30) days of receiving a water use permit application, the Water Resources Management and 
+Protection Body shall make an initial recommendation of acceptance or rejection and provide the initial findings 
+to the permit applicant either directly or through the delegated authority.  
+ 
+The initial assessment by the Water Resources Management and Protection Body shall include: an identification 
+of any special use conditions required by this Code, statement of any additional information required, and 
+determination of need for Environmental Impact Assessment.  
+Within thirty (30) days of concluding the initial assessment, the Water Resources Management and Protection 
+Body shall provide adequate public notice of the pending water use permit application. 
+ 
+If required by law, the applicants for a water use permit shall submit an environmental impact assessment. If 
+necessary, time allowed for application review shall be adjusted to comply with environmental impact 
+assessment review requirements. 
+ 
+If it is established by this Code, the Water Resources Management and Protection Body shall submit water use 
+permit applications to the National Water Council for review. In this case, the application process may be 
+extended for up to sixty (60) additional days. 
+ 
+Within thirty (30) days of completing all preliminary reviews mentioned above, the Water Resources 
+Management and Protection Body shall complete a final review of the permit application. 
+ 
+The final review shall include a consideration of all relevant issues, including public comment, and a 
+determination and attachment of any water use conditions required to protect water resource quantity and 
+quality. 
+ 
+As soon as final review is completed, the Water Resources Management and Protection shall return copies of the 
+permit application, final decision, and, as necessary, the completed and signed water use permit with decision, 
+comments/opinions, conditions and instructions to the permit applicant, either directly or through the delegated 
+local authority.  
+ 
+Should the terms and conditions not be satisfactory to the applicant, a right shall be provided for the applicant to 
+file a complaint against Water Resources Management and Protection Body’s decision according to procedures 
+established by law. 
+ 
+The applicant shall return the signed water use permit to the Water Resources Management and Protection Body 
+within thirty (30) days of receiving it. 
+ 
+Upon submission to the Water Resources Management and Protection Body of the final signed water use permit 
+by the applicant, the Water Resources Management and Protection Body shall within ten (10) days record the 
+water use permit and any attached conditions according to the recording requirements of this Code. 
+ 
+Article 31. Criteria for Review of Water Use Permit Application 
+ 
+A water use permit shall not be allocated if that water use may harm the national water reserve or may cause the 
+violation of any other water standard. 
+ 
+ 
+16
+
+
+--- PAGE 17 ---
+
+When determining whether to issue a water use permit, the Water Resources Management and Protection Body 
+shall use criteria including the: 
+ 
+1)  
+Requirements of this Code The “National Water Policy”, “National Water Program”, relevant “Water 
+Basin Management Plans” and other legal acts;  
+2) 
+Direct and cumulative impacts of the proposed water use to the national water reserve, water quality and 
+quantity;  
+3) 
+Correspondence of the proposed water use with water allocation priorities and significance; 
+4) 
+Potential impact of pending water use permit on the water use rights of existing water use permit 
+holders; 
+5) 
+Social, economic and environmental impacts; 
+6) 
+Opinions resulting from public notification process; 
+7) 
+Compliance with the international agreements of the Republic of Armenia. 
+  
+When considering applications for water use permits, the Water Resources Management and Protection Body 
+shall consider the following criteria to establish priority and equitable allocation of limited water resources to 
+competing stakeholders:  
+ 
+1) 
+The maintenance and enhancement of human welfare and ecological health shall be given the first 
+priority (as indicated by the national water reserve) thus providing first priority of drinking water supply 
+and sanitation; 
+ 
+2) 
+Persons with a historic, non-extractive interest in the use of water resources within a natural stream-bed 
+shall be given second priority; 
+ 
+3) 
+Applications for water use providing maximum benefits for the public interest shall be given third 
+priority; and,  
+ 
+4) 
+Persons offering specific evidence of their taking active measures related to the efficient use of water 
+and protection of water quality shall be given higher priority. 
+ 
+Article 32. Content of Water Use Permits 
+ 
+Each Water Use Permit shall clearly identify: 
+ 
+1) 
+Name (name, family name) and official address of a water use permit applicant; 
+2) 
+Name of Water Resources Management and Protection Body head (Director); 
+3) 
+Date of water use permit issue; 
+4) 
+Period of water use permit validity; 
+5) 
+The specific locations of  water extraction and water use; 
+6) 
+Description of the types of water use allowed (i.e. irrigation, industrial, etc.); 
+7) 
+Quantity of water used; 
+8) 
+Time periods when water use may occur; 
+9) 
+Control mechanisms to support compliance with water use permit requirements,; 
+10) 
+Water standards to be followed and/or reference to publications listing these standards;  
+11) 
+Any special measures to be taken to promote efficient water use, protect and improve water quality, and 
+conserve wetlands, significant coastal habitats and associated biodiversity; 
+12) 
+Adequate means of recording, monitoring, reporting and verifying water use; 
+13) 
+Adequate security in case of harm to water resources; 
+14) 
+Associated water use permit fees and payment schedules determined by this code. 
+ 
+ 
+17
+
+
+--- PAGE 18 ---
+
+The Water Resources Management and Protection Body may attach reasonable conditions which are not in 
+conflict with this Code to the permit to insure that the proposed water use upholds the objectives of this Code 
+and remains within socially and ecologically sustainable limits. Any conditions attaching to the water use permit 
+shall be considered an inseparable part of the water use permit and duly recorded according to the provisions of 
+this Code. 
+A water use permit shall not automatically confer the right to alter, modify, or otherwise disturb the bed, banks 
+or shore of a water resource, unless it is clearly stated within the terms of the water use permit. The right to alter, 
+modify or otherwise use the bed, banks or shore of a water resource shall compliance with the requirements of 
+law. 
+All easements shall attach to the land for the duration of water use permit and be its inseparable part. 
+In case of water use permit renewal, sale or otherwise transfer, the requirement for easement shall remain 
+unchanged. 
+ 
+Article 33. Water Use Permit Period of Validity 
+ 
+Prior to the final approval of the “National Water Program,” a water use permit may be valid for no more than 
+three (3) years. 
+ 
+In locations where a “Water Basin Management Plan” exists, a water use permit may be valid for a maximum of 
+twenty-five (25) years. 
+ 
+In locations where a “Water Basin Management Plan” does not exist, a water use permit may be valid for a 
+maximum of five (5) years. 
+ 
+If investment costs may warrant, and in case of positive conclusion of the National Water Council, the Water 
+Resources Management and Protection Body based on the water basin management plans may allocate a water 
+use permit for a longer duration not exceeding forty (40) years.  
+ 
+A water use permit holder minimum 6 months prior to expiration of the permit term may renew water use permit 
+by making a request to the Water Resources Management and Protection Body. If the terms and conditions of 
+the permit have been upheld and the permit renewal does not contravene laws, other legal acts and water basin 
+management plans, Water Resources Management and Protection Body shall renew the water use permit within 
+the same terms and conditions. 
+ 
+Article 34. Suspension, Amendment and Revocation of Water Use Permits 
+ 
+Water use permits that are issued by violating the requirements of this Code shall be considered null and void by 
+procedures established by the legislation. 
+ 
+Failure to perform associated duties will be considered a breach of the terms of water use permit with all 
+remedies available at law applying.  
+ 
+Modification of original water use permit terms shall require water use permit holder to submit new application 
+to receive new water use permit according to the procedure established by this code. . Should the water use 
+permit holder no longer require or desire the water use permit, the permit holder shall inform the Water 
+Resources Management and Protection Body of this in writing clearly revoking their interests in the permit.  
+ 
+Where necessary to safeguard the public’s interest, maintain water standards and a clean and healthy 
+environment, a water use permit may be suspended by the Water Resources Management and Protection Body 
+according to procedures established by the Government. Unless the purpose for the suspension is related to a 
+ 
+18
+
+
+--- PAGE 19 ---
+
+catastrophe such as an environmental emergency such as drought or a pollution event, the water use permit 
+holder may be reimbursed for associated damages, including lost profits. 
+ 
+Should the terms of the water use permit be violated, prior to water use permit suspension, the Water Resources 
+Management and Protection Body shall determine such reasonable time as the water use permit holder makes a 
+clear showing that future activity shall conform with permit conditions. 
+ 
+Article 35. Transfer and Contracting of Water Use Rights Acquired  
+ 
+Each water use permit holder may sell or otherwise transfer a portion of their permitted water right or part of it 
+to a third party according to the procedures established by the Government , unless disallowed specifically by the 
+water use permit conditions. 
+ 
+For any transfer of water use rights from a permit holder to a third party to be legal: 
+ 
+1. The transfer shall be concluded by means of a written contract signed by all parties; 
+2. The agreement shall be recorded according to the guidance of this Code. 
+ 
+Each transferring contract is valid if the contract: 
+ 
+1. States the responsibility of each signatory to uphold the water use permit terms and conditions; 
+2. Assigns liability should the water use permit conditions be violated; and, 
+3. States that contracting parties may expect specific performance of contractual obligations and have a 
+right to take legal action against a breeching party. 
+ 
+Water Use Permits shall be considered as inheritable or succeeded property. 
+ 
+Article 36. Abandonment of Water Use Permit 
+ 
+If a water use permit holder fails to make use of their water use permit allocated water use rights for three (3) 
+consecutive years and no legal reason stops them from making use of their water rights, the water use permit and 
+associated water use rights shall be considered abandoned and the water use permit null and void. 
+ 
+In cases stipulated by this Code where a person is required to secure a water system use permit and such person 
+within 1 year fails to secure the required water system use permit, the associated water use permit shall be null 
+and void. 
+ 
+Article 37. Purposeful Use of Water 
+ 
+All water application and extraction shall be used only for the purposes stated in the water use permit and not 
+exceed the quantity reasonably required for efficient use as determined by the Water Resources Management and 
+Protection Body 
+ 
+All waters systems shall be used in a manner that ensure efficient water use. 
+ 
+ 
+19
+
+
+--- PAGE 20 ---
+
+CHAPTER 5. WATER SYSTEM USE PERMIT 
+ 
+Article 38. Duty to Hold a Water System Use Permit 
+ 
+Each non-competitive water supplier shall hold a valid water system use permit. Each water system use permit 
+shall describe the water system to be used for non-competitive water supply and shall be an inseparable part of 
+that water system.  
+ 
+Each water system use permit shall determine and define:  
+1) the right to use a non-competitive water supply system;  
+2) tariffs for associated services; and,  
+3) requirements to the quality of services to be provided.  
+ 
+Prior to commencing the construction of any water systemand the expansion of an existing water system, the 
+owner of the water system shall submit an application and secure a water system use permit according to the 
+procedure established by this code. 
+ 
+Article 39. Validity of Water System Use Permits 
+ 
+To be valid, a water system use permit must be signed by the water system use permit applicant and signed and 
+approved by the Regulatory Commission; and duly recorded according to the terms of this code. 
+ 
+Water system use permit shall be in writing in a format established by the Regulatory Commission.  
+ 
+Water system use permits that are issued by violating the requirement of this Code are considered null and void 
+according to the procedures established by the legislation. Where requirements of the water system use permit 
+are violated, the Regulatory Commission shall have the authority to undertake  adequate activities according to 
+procedures established by law. 
+ 
+A water system use permit shall not automatically confer the right to possess and use the bed, banks or shore of a 
+water resource related to that water system, as well as to alter, modify, or otherwise disturb the bed, banks or 
+shore of a water resource, except of cases, when such activities are stipulated by the water system use permit. In 
+such cases the water system use permit holder shall comply with the requirements of the legislation. 
+ 
+Article 40. Pre-Conditions  of Water System Use Permit 
+ 
+All water systems use permits shall conform to: 
+ 
+1) The requirements of this Code, the “National Water Policy”;the “National Water Program”; 
+2) All relevant “Water Basin Management Plans”;  
+3) International agreements or treaties of the Republic of Armenia; 
+4) Regulatory standards (including water standards); 
+5) The requirements of any other legal act passed in accordance with this Code. 
+ 
+Article 41. Water System Use Permit Application 
+ 
+Water system use permit shall be issued based on the applicants’ request. The request may be refused, if system 
+use and management requested thereby shall: 
+ 
+1. be in conflict with this Code, water use plans and strategy, as well as other legal acts related thereto. 
+2. have a negative impact on water resources quality or quantity. 
+ 
+ 
+20
+
+
+--- PAGE 21 ---
+
+If the applicant may require an easement over another’s property to enjoy the use of the water system use permit, 
+the applicant shall state such in the application.  
+ 
+The Regulatory Commission shall require the water system use permit applicant to describe the easement 
+required, the name(s) of the potentially effected property owner(s), and the location(s) of the property in 
+question. 
+ 
+The water system use permit applicant shall provide evidence that the potentially impacted property owners have 
+been notified of the water system use permit application and agree to provide the water system use permit 
+applicant with the required easement.  
+ 
+Each water system use permit application shall include a statement of any historical water system use permits, as 
+well as water system use or management by the applicant. 
+ 
+Article 42. Water Use Permit as Prerequisite 
+ 
+As a prerequisite to a water system use permit, any person applying for a water system use permit shall first hold 
+a water use permit that commensurate with the requirements of the proposed non-competitive water supply 
+system’s use and management; and, each water system use permit application shall include all necessary 
+documents in accordance with this Code. 
+ 
+Article 43. Water System Use Permit Application Process 
+ 
+All persons wishing to secure a water system use permit shall submit an application to the Regulatory 
+Commission in a procedure established by this code.  
+ 
+The Commission, within sixty (60) days from the date of the application submission the Commission shall 
+discuss and take action on that application. 
+ 
+The procedures and terms for reviewing a water systems use permit applications and their issuing a water system 
+use permit shall be established by the Regulatory Commission according to the requirements of this Code. 
+ 
+Within ten (10) days of receiving the water system use permit application, the Regulatory Commission shall 
+provide adequate public notice and information on the pending water system use permit application.  
+ 
+For particular water system use permits, the Regulatory Commission shall consult with the Water Systems 
+Management Body. 
+ 
+The Commission shall provide the relevant state governance agencies with notice of the pending water system 
+use permit application within five (5) days. Within thirty (30) days of receiving a notice, the state governance 
+agencies shall provide for review and opinions on the proposed water system use permit.. 
+ 
+If required by law, the applicants for a water system use permit shall submit an environmental impact 
+assessment. If necessary, time allowed for application review shall be adjusted to comply with environmental 
+impact assessment review requirements. 
+ 
+Within sixty (60) days of completing public review and, as necessary, the completion of an EIA, the Regulatory 
+Commission shall finally review the final water system use permit application, determine and attach any final 
+special use conditions required to protect water quantity and quality, secure the recommendations and signature 
+of the relevant state authorized body. For good cause, the Regulatory Commission may extend the period for 
+decision making not to exceed one (1) month.  
+ 
+21
+
+
+--- PAGE 22 ---
+
+ 
+Within ten (10) days after the Regulatory Commission makes the decision regarding issuance of the water 
+system use permit, a copy of the decision shall be sent to the applicant of the water system use permit, and 
+another copy to the State Water Cadastre for recording. 
+ 
+Article 44. Water System Use Permit Conditions  
+ 
+During the water use permit application review process, the Regulatory Commission may attach reasonable 
+conditions which are not in conflict with this Code to the water system use permit to insure that the proposed 
+activity upholds the provisions of this Code, remains within socially and ecologically sustainable limits. Any 
+conditions attaching to the water system use permit shall be considered as inseparable part of the water system 
+use permit and duly recorded. 
+ 
+Each water system use permit shall clearly identify: 
+1. 
+Name (name, family name) and address of water system  permit applicant; 
+2. 
+Period of water system use permit validity; 
+3. 
+Description of locations where activity may occur; 
+4. 
+Purpose and description of the non-competitive water supply system and associated activities; 
+5. 
+Identification of water use permit associated with the water system use permit; 
+6. 
+Requirements and standards necessary for the safe use of the non-competitive water supply system, 
+including infrastructure maintenance and professional expertise;  
+7. 
+Property requirements and use rights associated with the use of the non-competitive water supply 
+system; 
+8. 
+Measures to be taken during the use of the non-competitive water supply system and regulated tariffs to 
+promote efficient water use and protect water quality; 
+9. 
+Procedure of recording and reporting, and control types of use of the non-competitive water supply 
+system within water system use permit limitations; 
+10. 
+Requirements for rehabilitation of the site once the water system use permit period expires; 
+11. 
+Assurances of financial capacity in cases of harm to water resources and water systems, including any 
+securities that must be posted;  
+and, 
+12. 
+Established by this code water system use permit related fees and payment schedules. 
+ 
+A water system use permit shall not confer a right to the use, access or enjoyment of a third party’s property if 
+such is necessary to utilize water use permit or water system use permit rights, except of cases envisioned by 
+legislation. Each water system use permit holder shall be responsible to negotiate with any potentially impacted 
+property owner for any required easements of use. The latter may allow a water system use permit holder to use 
+their property free of charge or on payable basis, as well as negotiate any reasonable terms, deny the use of the 
+property, except of cases when the legislation establishes the requirement for a compulsory easement.  
+ 
+Once established, all easements shall attach to the land and be considered as its inseparable part for the duration 
+of the water system use permit. In cases of renewal, sale or otherwise transfer of the water system use permit the 
+requirement for easement shall remain unchanged. 
+ 
+Article 45. Water System Use Permit Duration and Renewal 
+ 
+A water system use permit shall not exceed twenty-five (25) years. In case where initial investment costs may 
+warrant, the Regulatory Commission may determine that the water system use permit may be for longer duration 
+not exceeding forty (40) years.  
+ 
+The water system use permit holder has a right to apply to the Regulatory Commission six (6) months prior to 
+the water system use permit’s expiration to renew a water system use permit. If the terms and conditions of the 
+ 
+22
+
+
+--- PAGE 23 ---
+
+water system use permit have been upheld and the renewal does not contravene existing legislation and 
+programs, the Regulatory Commission shall renew the water system use permit. 
+ 
+Article 46. Suspension, Amendment and Revocation of Water System Use Permit 
+ 
+Each water system use permit shall be considered a contract signed between the water system use permit holder 
+and the Regulatory Commission with each party legally bound to perform associated duties.  
+ 
+If any of signatories fail to perform associated duties, it shall be considered a breach of contract with all 
+available remedies applying.  
+ 
+Modification of original water system use permit terms shall require the water system use permit holder to 
+submit  an application. 
+ 
+Should the water system use permit holder no longer require or desire the water system use permit, the water 
+system use permit holder shall inform the Regulatory Commission of this in writing and provide a signed copy 
+of the water system use permit, which serves as a basis to revoke the water system use permit.  
+ 
+Decision to revoke or otherwise to halt the use and operation of a permitted water system shall not absolve the 
+water system use permit holder from any liability related to the requirements of water system use permit or any 
+law or regulation. 
+ 
+Article 47. Transfer and Contracting of Water System Use Permit 
+Water system use permits and/or associated rights and responsibilities may be sold or otherwise transferred in 
+part or whole to a third party only if so stipulated by the terms of the water system use permit. 
+ 
+Transfer of water system use permit shall be completed by using a written contract, which shall be duly recorded 
+according to procedure established by this Code. 
+ 
+ 
+CHAPTER 6. USE AND MANAGEMENT OF STATE-OWNED WATER 
+SYSTEMS  
+ 
+Article 48. 
+Specific Features of Transfer of Use Rights for State-Owned Water Systems  
+ 
+The state-owned water systems can be under state and/or private management. 
+ 
+The transfer of management rights must in all instances be conducted in a manner that provides for adequate 
+public notice and conditions for competition. Prior to transferring management rights over state owned water 
+systems, the Water Systems Management Body responsible shall make certain that all necessary water use 
+permits and water system use permits are in order.  
+ 
+Water system use right of the water use permit and water system use permit holder occurs when a written water 
+system use contract is concluded and recorded by the state authorized body for property recording. 
+ 
+The water system use right may be transferred to other entities, in form and procedures established by this code. 
+ 
+The compensation for the use of water system shall be specified in water system use right transfer contract. 
+ 
+In case of being determined by the Government, during transfer of a water system use right, preference is given 
+to the entities with more extensive professional experience and knowledge. 
+ 
+ 
+23
+
+
+--- PAGE 24 ---
+
+The transfer of rights for the use of a water system shall not exceed the term specified in the water system use 
+permit. 
+ 
+Article 49. Types of Water System Use Rights Transfer 
+ 
+The right of use of a water system can be transferred in the following forms: 
+ 
+1) 
+Trust Management Contract; 
+2) 
+Concession Agreement; 
+3) 
+Creation of a commercial organization; 
+4) 
+Lease. 
+ 
+The procedures for transfer types shall be established by the legislation. 
+ 
+Article 50. Water System Use Right Transfer through a Trust Management Contract 
+ 
+A water system can be provided for trust management in whole or in part. 
+ 
+A water system shall be provided for trust management through a tender. 
+ 
+Throughout the term of the trust management, the water system, including the property acquired by the trust 
+manager of the water system in order to meet the requirements of the tender, shall remain under state ownership. 
+ 
+The public announcement about the tender for trust management of a water system shall include time periods of 
+such management, necessary investments, the starting rate of compensation to the trust manager, the 
+requirements to use the water system and the social guarantees for the employees of the given water system. 
+ 
+The bidders shall be required to present a trust management program in writing, including the following: 
+ 
+1) 
+Proposed investments to be made; 
+ 
+2) 
+The rate of compensation to the trust manager; 
+  
+3) 
+The size of the collateral guaranteeing the implementation of the trust management requirements; 
+ 
+4) 
+A program of water protection activities; 
+ 
+5) 
+Proposals relating to other terms of the tender, established by the legislation. 
+ 
+Article 51. Water System Trust Management Program 
+ 
+The trust management program is the project submitted by the bidder in order to be eligible for participation in 
+the tender for the functions of a water system manager, which shall contain the following: 
+ 
+1) 
+Justification of the economic expediency of trust management; 
+  
+2) 
+The description of the objectives of trust management and the avenues to accomplish such objectives; 
+ 
+3) 
+Information on the technical and professional capabilities of a person; 
+ 
+ 
+24
+
+
+--- PAGE 25 ---
+
+4) 
+The proposed activities for the efficient use and development of the water system, the time periods for 
+their implementation, the proposed methods of implementation, the required financial resources and 
+their sources, 
+ 
+5) 
+Other information and provisions, which will be considered as necessary by an applicant.  
+ 
+Article 52. Criteria for the Evaluation of the Results of Water System Trust Management Tender  
+ 
+For the purpose of evaluation of the results of the trust management tender of a water system, the Government 
+shall establish the principles of evaluation of the programs submitted for the tender, by means of setting the 
+weight coefficient for each program parameter, as well as for the evaluation of the collateral guaranteeing the 
+implementation of the trust management requirements. 
+ 
+The technical and professional capacity of the trust management program, as well as the indicators pointing to 
+the availability of financial resources, as well as the collateral guaranteeing the implementation of the trust 
+management requirements shall be subject to a binding evaluation.  
+ 
+The weight coefficient established for the evaluation of the collateral guaranteeing the implementation of the 
+trust management requirements shall not exceed 0.25. 
+ 
+The trust management tender of a water system may have a pre-qualification phase, according to the procedures 
+established by the Government. 
+ 
+Article 53. Transfer of Water System Use Right Through Concession Agreement 
+ 
+A water system can be provided for management through concession agreement in whole or in part. 
+ 
+A concession agreement shall be concluded between the entity accepting the management of a water system 
+through a concession and the Water Systems Management Body. 
+ 
+In case of issuing a concession agreement, the Water Systems Management Body may: 
+ 
+1) 
+Issue a resolution on providing a concession agreement through a tender, for a certain water system; 
+  
+2) 
+Grant the concession agreement to the first-come bidder, or, if several bidders apply for concession at 
+the same time, select the bid that offers the best terms. 
+ 
+Article 54. Transfer of the State-Owned Water Systems Use Right Through Establishment of a 
+Commercial Organization 
+ 
+The investment contributed by other persons shall not exceed the 49% of the commercial organization’s charter 
+capital. The contract signed by the Republic of Armenia and the other founder(s) of the commercial 
+organization, may include a provision on the transfer of right of control (or management) over the state-owned 
+shares (stock) to another founder (participant) of the commercial organization selected by the State. 
+ 
+The size of the charter capital of the created organization, the ratio between the state-owned stock (shares) and 
+not state-owned stock (shares) shall be established by the Government, depending on the following: 
+ 
+1) 
+The value of the water system, computed in procedures established by the Government; 
+  
+2) 
+The prospects of development of the water system and the volume of the required capital investments. 
+ 
+ 
+25
+
+
+--- PAGE 26 ---
+
+A right to use water system can be transferred to the commercial organization through investing property of a 
+given water system by adopting a respective law. 
+ 
+Article 55. Transfer of Water System Use Right Through Lease 
+ 
+A water system shall be provided for lease by the Water Systems Management Body, in procedures established 
+by the Governmental decision. 
+ 
+A water system shall be provided for lease through an auction if the lesser is not required to meet any conditions. 
+The only subject for auction discussions is the size of the rent. 
+ 
+A water system shall be provided for lease through a tender if the lesser is required to meet certain conditions 
+associated with the production, technical and environmental issues of a water system. 
+ 
+The lesser/ lessee of the water system and the Water Systems Management Body shall sign a Lease Agreement 
+of the water system.  
+ 
+If a water system is provided for lease through a tender or an auction, the estimated size of the rent shall be the 
+starting point. The Water Systems Management Body shall establish the estimated size of the rent of the water 
+system, in procedure established by the Government. The estimated size of the rent specified in the Lease 
+Agreement must provide an opportunity for the conduct of profitable economic operation in the given sector. 
+ 
+The lesser/ lessee of the water system shall not have the right to provide the leased property for sub-lease, or 
+transfer his/her rights and responsibilities established by the Lease Agreement to another entity, or provide the 
+leased property for non-refundable use, or lay the right of lease as a collateral or a deposit in the charter capitals 
+of economic associations and companies. 
+ 
+Article 56. Extension of the Water System Use Right Contract 
+ 
+A contract for the right of use of a water system shall be considered extended for another effective period, but 
+not exceed the term of the water system use permit, if the parties do not make any announcements about the 
+termination of the terms and conditions established pursuant to this Code and the water system use contract 6 
+(six) months prior to the expiration of the terms of such contract. 
+ 
+Article 57. Grounds for Termination of the Water System Use Right Contract 
+ 
+A water system use right shall be terminated if:  
+ 
+1) 
+The contract is terminated in procedures established by the water system use contract; 
+  
+2) 
+The effective period of the water system use contract expires and it is not extended; 
+ 
+3) 
+The water system manager as a legal entity dissolves; 
+ 
+4) 
+The water system manager as a physical entity passes away; 
+ 
+5) 
+The use of the water system is prohibited by the legislation; 
+ 
+6) 
+Failure to comply with the terms of any applicable water use permit or water system use permit. 
+ 
+ 
+26
+
+
+--- PAGE 27 ---
+
+The right of use of a water system under item (5) herein may be terminated only following the reimbursement of 
+losses and not-gained benefits of the water system manager according to procedures established by the 
+Government. 
+ 
+Article 58. Terms and Conditions for the Transfer of Water System Management right 
+ 
+The transfer of water system use right shall take place: 
+ 
+1) 
+In the event of replacement of the Water Systems Management Body, the terms and conditions of the 
+water systems use contract shall remain unchanged, and the transfer of the water system use right shall 
+take place at the State Water Cadastre, by introducing corresponding changes in the registration; 
+  
+2) 
+In the event that the transfer of water system use right, carried out in conformance with the provisions of 
+this Code, affects the rights of a third party, or the properties of the water system may change due to 
+such transfer, new terms and conditions for the use of such water system may be established without 
+deviation from any applicable water use permit or water system use permit. 
+ 
+Article 59. The Rights of a Water System Manager 
+ 
+The manager of a water system shall have the right to: 
+ 
+1) 
+Use the water system in compliance with the requirements of this Code and the water use permit; 
+  
+2) 
+Claim from water suppliers and/or water users the charge for the water provided by him/her at the 
+established regulated rates; 
+ 
+3) 
+Access the territory of a water intake, or a land plot designated for water processing or water 
+transportation operations; 
+ 
+4) 
+Reject the water system management rights and the authorities arising from such right, by notifying the 
+Water Systems Management Body at least 6 (six) months in advance; 
+ 
+5) 
+Propose amendments and supplements to the water system management contract; 
+ 
+6) 
+Propose to extend the term of the contract in instances and in procedures provided by this Code; 
+ 
+7) 
+To bring suit against the persons who caused damages to a water system for compensation of damages; 
+ 
+8) 
+Carry out any activity evolving by this Code, if not otherwise provided by the water system use contract; 
+ 
+9) 
+Exercise other rights that are not prohibited by the legislation. 
+ 
+Article 60. The Responsibilities of a Water System Manager 
+ 
+The manager of a water system shall be responsible to: 
+ 
+1) 
+Provide the water suppliers and/or the water users with water of the quality, quantity and regime 
+required by the contract; 
+  
+2) 
+Ensure the recording of the received and allocated water; 
+3) 
+Perform the payments provided by this Code and established by the legislation; 
+4) 
+Carry out the contract requirements towards the safe use and maintenance of a water system;  
+ 
+27
+
+
+--- PAGE 28 ---
+
+5) 
+Act in conformance with the established environmental criteria and general ecological provisions; 
+6) 
+Perform other duties specified in the water system use contract. 
+ 
+Article 61. Specifics of Irrigation Water Supply Management 
+ 
+The management of irrigation water supply shall be carried out by the Water Systems Management Body or the 
+water user association (or federation of water user associations) in procedures established by law. 
+ 
+If the management of irrigation water supply is carried out by the Water Systems Management Body, the right of 
+use  of irrigation water supply systems may be transferred through a tender, in forms provided by this Code, for 
+the period of 5 (five) years. 
+ 
+Article 62. The Right of Water Land Use  
+ 
+The holders of the right to use water systems can give the river beds and water lands for use to other entities to 
+carry out economic activities, for sanitary and water protection zones, by following terms and conditions of 
+water use permit and/or water system use permit and procedures established by this Code. The holders of the 
+right to use water systems can execute a contract with other entities for the use of river beds and water lands, the 
+term of such contract not to exceed the time period specified in the contract on the transfer of management right 
+of the water systems, water supply and sanitation systems and hydraulic structures. The transfer of right to use 
+the water systems to another entity shall not serve a ground for the termination or modification of the contract on 
+the use of riverbeds and water fund lands. 
+ 
+Use of water lands in a procedure established by the legislation provided by the contract on the transfer of rights 
+to use water systems may be restricted or prohibited. 
+  
+ 
+CHAPTER 7. REGULATION OF THE USE OF TRANSBOUNDARY WATER 
+RESOURCES  
+ 
+Article 63. Conditions of Use and Protection of Transboundary Water Resources 
+ 
+The norms defined by the present Code are applied over the transboundary water resources originating within the 
+territory of the Republic of Armenia before crossing the state frontier of the Republic of Armenia.  
+ 
+The conditions of use and protection of transboundary water resources on the frontier of the Republic of 
+Armenia shall be established by inter-state agreements and (or) treaties between the Republic of Armenia and 
+neighboring countries.  
+ 
+Solution of operational problems for joint use and protection of transboundary water resources shall be 
+implemented by permanent inter-state committees. 
+ 
+The composition of the Commission of the Republic of Armenia shall be approved by the Prime Minister of the 
+Republic of Armenia.  
+ 
+Article 64. Authorities and Obligations of the Commission of the Republic of Armenia of Transboundary 
+Water Resources  
+ 
+The Commission of the Republic of Armenia of Transboundary Water Resources, in cooperation with the 
+corresponding Commissions of neighboring countries, has the following authorities and obligations in 
+ 
+28
+
+
+--- PAGE 29 ---
+
+implementing the solution of operational problems regarding use and protection of transboundary water 
+resources:  
+ 
+1) 
+ Draws up and submits to the Government drafts of inter-state agreements; 
+2) 
+Draws up and submits to the Government proposals on establishing joint permanent inter-state 
+commissions for operation of transboundary water systems; 
+3) 
+Informs the authorized bodies of the Republic of Armenia in the established order on the transboundary 
+impacts; 
+4) 
+Presents the decisions of the Permanent Inter-State Committee to the Water Systems Management Body;  
+5) 
+In the established order, submits to the authorized bodies of the Republic of Armenia the issues brought 
+up at the Permanent Inter-State Committee, which are not regulated by inter-state agreements and (or) 
+treaties, and require appropriate solutions; 
+6) 
+In the established order, presents to the authorized bodies of the Republic of Armenia the disputes 
+occurred in the Permanent Inter-State Committee.  
+ 
+Article 65. Ensuring Publicity of Information Regarding Transboundary Water Resources 
+ 
+The Republic of Armenia guarantees the publicity of information regarding qualitative and quantitative indices 
+of water in transboundary water resources, using conditions thereof, and the results of negotiations on them 
+between the neighboring parties, measures towards prevention, limitation and reduction of transboundary 
+impacts.  
+ 
+The order of providing information shall be established by the Government. 
+ 
+ 
+CHAPTER 8. WATER QUALITY STANDARDS 
+ 
+Article 66. Water Quality Standards  
+ 
+The water resources management and protection body jointly with the corresponding interested state 
+management bodies shall develop water quality standards drafts.  
+ 
+The water resource quality standards shall be  included in the National Water Program and they have to conform 
+with the established classification system. 
+ 
+Water quality standards may vary according to the specifics of various locales. According to the rules 
+established by legislation water quality standards can be established in each water basin management area. 
+Standards based on water use also can be established, including: agricultural, industrial and household standards. 
+The water standards must depict the terms of degradation, depletion, and contamination prevention of water 
+resources, as well as the terms of establishment of minimum environmental flows. 
+ 
+The Water Resources Management and Protection Body  shall ensure the conformity of water qualitative criteria 
+to the established standards through  oversight conducted at least twice a year.  
+ 
+Water standards shall provide guidance for tolerable levels of all likely pollutants and include indices with an 
+objective toward annually reduction of the laters. 
+ 
+In consultation with the National Water Council, the Water Resources Management and Protection Body shall 
+conduct a thorough bi-annual inspection (review) of standards, including social and environmental impacts, and 
+propose amendments to them and present this information to the Government as part of the “National Water 
+Program”. 
+ 
+ 
+29
+
+
+--- PAGE 30 ---
+
+The order of water standards recording shall be established by law. 
+ 
+Article 67. Compliance with Standards 
+ 
+In case of violation of the established water standards the water use is considered illegal and  a liability, 
+established by legislation, shall apply. 
+ 
+If the water use permit establishes norms that allow for a deviation from standards and may lead to cumulative 
+impact, than these permits considered as invalid according to order established by the legislation. 
+ 
+In cases where water use permit  establishes higher standards that is impossible to achieve with the existing 
+conditions, than the person holding water use permit shall submit to the Water Resources Management and 
+Protection Body a progressive improvement  plan of its activities for the next 5 years that shall be considered as 
+inseparable part of the water use permit. 
+ 
+Article 68. Allowed Marginal Criteria 
+ 
+Allowed marginal criteria shall be established based on:  
+ 
+1) 
+Allowed marginal level of human-made loads, the long-term impact of which will not result in change of 
+natural properties and composition of water ecosystems out of limits of natural seasonal and multi-year 
+variations,  
+2) 
+Volume of polluters, which reaches the water intake basin in the form of organized and unorganized 
+outflows.  
+ 
+Allowed marginal outflow criteria of polluters in wastewaters shall be determined for each water resource based 
+on conditions of inadmissible excision accumulations of allowed marginal concentration of polluters within 
+water intake basin and inadmissible accumulation of their residual quantities in bed sediments and water organic 
+substances.  
+ 
+Article 69. Standards of Limiting Impact on Water Resources 
+ 
+Standards of limiting impact on water resources shall be developed by water resources management and 
+protection bodies, taking into account present ecological, social and economic condition, as well as terms and 
+stages established by state target (goal-oriented) programs on rehabilitation, use and protection of water 
+resources.  
+ 
+Article 70. Drinking Water Standards  
+ 
+Water supplied for drinking, healthcare purposes, needs of municipal and household services must meet the 
+requirements of drinking water quality standards.  
+ 
+Persons carrying out the supply of drinking water must provide the conformity of drinking water quality to the of 
+drinking water standards. The state authorized body of health protection, according to the order defined by 
+legislation, carries out supervision on conformity of drinking water standards being supplied to public.  
+The systems of drinking water supply are ranked as the most important vital-needs water systems. 
+ 
+The water resource meeting the requirements of drinking water standards can be used as water source for 
+drinking, health, municipal and household public needs, should it be possible to provide sanitary zones and 
+special maintenance territories there, in accordance with the order established by the Government. 
+ 
+ 
+30
+
+
+--- PAGE 31 ---
+
+Drinking water treatment and processing before water supply shall be implemented only in accordance with the 
+developed and adopted methods established according to the  Governmental procedure.  
+ 
+ 
+CHAPTER 9. WATER USERS UNIONS 
+ 
+Article 71. Water Users Unions 
+ 
+Water users can be amalgamated for establishment of water users' companies, unions of water user companies’  
+or other organizations and amalgamations according to the procedure established by law. 
+ 
+Article 72. Water Users' Companies and Unions of Water Users' Companies in Irrigation Sector 
+ 
+The water users' companies and unions of water users' companies are non-profit personsorganizations having 
+status of a legal person that operates in the public interest to carry out the operation and maintenance of 
+irrigation system. The water users' companies supply water to the water users in the territory of their services and 
+the unions of water users' companies to the water user’s companies in the territory of their services. Unions of 
+water users' companies are voluntary unions of water users' companies that aimed to use the same water source. 
+The order of activity of water users' companies and unions of water users’ companies shall be established by the 
+law. 
+ 
+Article 73. Water Supply and Water Discharge Contracts 
+ 
+The order of entering into and standard forms of water supply and discharge contracts shall be defined by the 
+Government. 
+ 
+ 
+CHAPTER 10. 
+RECORDING 
+OF 
+LEGAL 
+DOCUMENTS 
+IN 
+WATER 
+RELATIONSHIP 
+ 
+Article 74. Legal Documents Subject to Recording in Water Relationship 
+ 
+The following shall be subject to recording requirements in water relationship: 
+ 
+1. Water Use Permit; 
+ 
+2. Water Use Rights’ Transfer Contracts and Amendments thereof; 
+ 
+3. Servitudes; 
+ 
+4. Water System Use Permits; and 
+ 
+5. Water System Management Rights’ Transfer Contracts and Amendments thereof. 
+ 
+The documents stated in items 1 and 2 of this Article shall be subject to state registration at the State Water 
+Cadastre, and the documents stated in items 3 - 5 of this Article shall be subject to state registration at the state 
+authorized body of real estate registration. A set of the original documents serving as a ground for registration 
+shall be kept with the personsbody responsible for registration. The copies of mentioned documents shall be 
+given out in procedures established by the legislation. 
+ 
+ 
+31
+
+
+--- PAGE 32 ---
+
+Public notification of the documents mentioned in this Article shall be carried out in procedures established by 
+the legislation. 
+ 
+The registration of the documents mentioned in this Article shall be carried out in procedures established by the 
+legislation. 
+ 
+Article 75. Recording of HTSHTS 
+ 
+HTSHTS shall be recorded in the State Water Cadastre.  
+ 
+The quality and quantity data and information relevant to the HTS and operation conditions thereof shall be 
+entered into the Water Systems Management Body. 
+ 
+ 
+CHAPTER 11. ECONOMIC INCENTIVES AND THE SYSTEM OF PAYMENT 
+IN WATER RELATIONS 
+ 
+Article 76. Economic Regulation Principles for the Use, Restoration and Protection of Water Resources, 
+Water Supply and (or) Wastewater WasterwaterSystems 
+ 
+The basic principle of economic regulation of the use, restoration and protection of water resources, water supply 
+and (or) wasterwaterwastewater systems is the chargeable water use.  
+ 
+Water charges shall promote efficient operation, restoration and maintenance of water resources. The charges 
+must be set up at the adequate levels to provide the following: 
+ 
+1) 
+Charges for the operation of water resources; 
+ 
+2) 
+Financing for the restoration and maintenance of water resources; 
+ 
+3) 
+Covering the cost for the operation and maintenance of water supply and (or) wasterwaterwastewater 
+systems; 
+ 
+4) 
+Covering the cost for effective water management (including administration, public awareness, 
+monitoring, planning, and enforcement activities);  
+ 
+5) 
+Establishment of systems of economic incentives to promote efficient operation, restoration and 
+maintenance of water supply and wastewater systemswasterwater. 
+ 
+The economic issues of efficient operation, restoration and maintenance of water supply and (or) 
+wasterwaterwastewater systems shall be established by the law. 
+ 
+Procedures providing tax, loan and other privileges for efficient operation, restoration and maintenance of water 
+supply and (or) wasterwaterwastewater systems shall be established by the legislation. 
+ 
+Article 77. Water Use Permit Fees 
+ 
+The baselines for water use permit fee shall be: 
+ 
+1) 
+Volume, quality and regime of water withdrawn from the water resource;  
+2) 
+Volume of manufactured production, rendered services, completed works that were performed without 
+water intake from the water resource; 
+ 
+32
+
+
+--- PAGE 33 ---
+
+3) 
+Used surface of the water resource; 
+4) 
+Purposeful or non-purposeful use of the water resource based on the qualitative and quantitative water 
+characteristics; 
+5) 
+Volume and quality of wastewater discharges into the water; 
+ 
+To increase water use efficiency and improve water quality, as well as to raise the interest of water users, the 
+water use permit fees retained from individual water use permit holders can be different given such factors as: 
+ 
+1. The quality of water withdrawn from and the discharged into the water resource in comparison with the 
+quality of the water resource into which water is discharged, as well as the profit of the person holding 
+water use permit;; 
+ 
+2. The costs of monitoring; 
+ 
+3. The quantity of water withdrawn; and, 
+ 
+4. Possible impacts on the quality and quantity of the water and risks and restoration costs associated with 
+it.  
+ 
+Should water use be in the public interest and be it in conformity with the requirements of this Code, the Water 
+Resources Management and Protection Body may propose to lower permit fees as necessary or otherwise offer 
+financial assistance to promote economic development and investments. 
+ 
+The environmental fees prescribed in this Code shall be based on:  
+ 
+1) 
+The composition, quantity, quality and characteristics of discharged wastewaters; 
+2) 
+The type and level of impact of wastewaters on water resources; 
+3) 
+The ecological condition of the water resource  accepting such wastewaters; 
+4) 
+The required level of monitoring of water use. 
+ 
+Article 78. Fees Associated with Water Use Permits and Water System Use Permits 
+ 
+A state duty shall be paid for acquiring a water use permit and water system use permit in the order and the 
+amounts established by the law. 
+ 
+Article 79. Establishment of Tariffs for Non-Competitive Water Use 
+  
+The principles of formation of regulated tariffs are the following: 
+ 
+1) 
+Establishment of service cost (including: justified operational and maintenance costs necessary for 
+conducting the activity), ensuring of depreciation costs of the fixed assets; 
+2) 
+Ensuring opportunities for acquisition of reasonable profit; 
+3) 
+Inclusion of loan service costs; 
+4) 
+Establishment of minimum criteria for requested services; 
+5) 
+Insuring quality of services through tariffs regulation and consumers ability to pay; 
+6) 
+Differentiation of tariffs depending on consumption volumes, seasons of the year, hours of the day, and 
+types of the services; 
+7) 
+Inclusion of justified and necessary insurance expenses; 
+8) 
+Conformity with the requirements of the National Water Program; 
+9) 
+Inclusion of justified technological losses; 
+10) 
+Inclusion of other justified and necessary expenses provided by the legislation; 
+11) 
+Development of efficient water use and compliance with water standards incentives; and, 
+ 
+33
+
+
+--- PAGE 34 ---
+
+12) 
+Development of incentives for providing high quality services. 
+ 
+The tariffs may vary: 
+ 
+1. Based on water basin distribution depending on the method of water supply; 
+2. Based on different water use groups (sub-groups), 
+3. Based on the qualitative parameters depending on classification of water resources. 
+ 
+Water fees can be paid: 
+ 
+1. By corresponding persons using the water system or a part thereof; 
+2. Directly by water users. 
+ 
+The tariffs may have an incentive nature, depending on the efficiency of water use. 
+ 
+The structure of tariffs and the main concepts of their establishment shall be defined by the National Water 
+Program. 
+ 
+Procedures for the establishment and revision of the regulated tariffs shall be established by the law, where the 
+forms and list of documents (application package) required for submission by water suppliers in conjunction 
+with the above mentioned, shall be established by the Regulatory Commission. 
+ 
+Prior to the establishment of tariffs, the Regulatory Commission shall: 
+ 
+1) 
+Publish a notice in a newspaper with a number of no less than 1000 printings, describing the principles 
+of formation of the proposed tariff; 
+  
+2) 
+Propose to refer to the comments and recommendations in writing regarding the proposed tariff within 
+30 (thirty) days of the publication of such notice. 
+ 
+The established tariffs shall become effective within at least 60 (sixty) days of the issuance of the corresponding 
+decision. The effective period of the tariffs shall be no less than one year. 
+ 
+The Regulatory Commission may establish a long-term tariff for the operation of the water supplier and (or) the 
+wastewater disposal utilities. 
+ 
+The established regulated tariff shall represent a specific numeric value, as well as a calculation formula 
+dependent on certain measurements. 
+ 
+The tariff established by the Regulatory Commission shall be the maximum tariff. The water supplier and (or) 
+the wastewater disposal utilities may vend the water at tariffs less than the established ones, provided that water 
+users within the same group receive water at the same rates. 
+ 
+In the case of using a tariff, which is less than the one established by the Regulatory Commission, in order to 
+protect the interests of water supplier and (or) the wastewater disposal utilities, the water supplier and (or) the 
+wastewater disposal utilities shall be required to maintain the low tariff until the establishment of a new one by 
+the Regulatory Commission. 
+ 
+Article 80. Specifics of Tax Obligations and Privileges for Water Payments in Water Relationship 
+ 
+Specifics of tax obligations and privileges for water payments in water relationship shall be established by law. 
+ 
+ 
+34
+
+
+--- PAGE 35 ---
+
+Article 81. Financial Assistance in Water Relations 
+ 
+Financial assistance may be provided in water relations in the forms of subsidies or tax privileges established by 
+the legislation, depending on the specific form of financial assistance stated by the National Water Program. 
+ 
+By the Government’s draft of the annual State Budget, the National Assembly shall approve the amount of 
+subsidies allocated to the water suppliers and (or) the water users from the State Budget, or tax privileges 
+established by the legislation. 
+ 
+The subsidies from the State Budget or tax privileges established by the legislation shall be established in a way 
+as to benefit the reimbursement of costs associated for the protection and technical maintenance of the water 
+wasterwatersystems. 
+ 
+The subsidies specified in this Code can be provided to the water suppliers and (or) water users in form of direct 
+payments. 
+ 
+In providing financial assistance, the following circumstances shall be taken into account: 
+ 
+1) 
+Purpose of providing financial assistance;  
+2) 
+Insuring equal conditions and exclusion of any discrimination; 
+3) 
+Ensuring transparency; 
+4) 
+Financial status of the personperson receiving financial assistance; 
+5) 
+Necessity of water wasterwatersystems protection. 
+ 
+The person that violets the requirements of this Code shall not be eligible for the financial assistance provided by 
+this Code. 
+ 
+Procedures for the provision of financial assistance shall be established by the Government and it shall include 
+the following: 
+ 
+1) 
+Groups of persons eligible for financial assistance; 
+2) 
+Procedures for submission of applications (requests) for financial assistance; 
+3) 
+Conditions and rules for the use of financial assistance. 
+ 
+ 
+CHAPTER 12. SAFETY OF HTS 
+ 
+Article 82. General Requirements for Safety of sHTSs  
+ 
+The Government shall be responsible for the use, protection, capital investment and safety of state-owned water 
+reservoirs. The Government shall ensure the collection of all means for their implementation, the completion of 
+all relevant works in order to ensure the continuous and safe work of the reservoirs during the whole term of 
+water use permit. 
+ 
+The bases for provision of safety of HTSs are: 
+ 
+ 
+ 
+1) 
+Provision of allowable level of risk of accidents,  
+ 
+2) 
+Declaration about safety,  
+ 
+3) 
+The order of permit for carrying out activities,  
+ 
+4) 
+Provision of continuity of operation,  
+ 
+5) 
+Measures providing safety, including:  
+ 
+35
+
+
+--- PAGE 36 ---
+
+ 
+a) Confirmation of safety standards, 
+b) Equipment of HTSs with tools allowing permanent control of their technical condition,  
+c) Implementation of service of HTSs with specialists of appropriate qualification,  
+6) 
+Complex measures being beforehand implemented in HTSs allowing reducing to minimum the 
+opportunity of emergency occurrence,  
+7) 
+Liability of persons for actions, which have reduced safety of HTSs in comparison with the allowable 
+level.  
+ 
+Article 83. Obligations Of HTS Owner And Operator 
+ 
+HTS owner and operator shall be obliged to: 
+ 
+1) 
+Provide the norms and rules of safety of HTS during its construction, operation, repair, reconstruction, 
+conservation, decommissioning and liquidation,  
+2) 
+Provide monitoring of indexes of HTS condition, and make assessment of HTS safety based on the 
+obtained data. Find the reasons of changes in the index of HTS safety, taking into account the operation 
+of the HTS in the hydrological system, impact of natural and man-caused harmful substance on HTSs, 
+launching of different water systems at the river mouth and around the HTS, 
+3) 
+Provide development of corrected norms of HTS safety,  
+4) 
+Develop the system of HTS condition control, 
+5) 
+Systematically analyze the reasons of reduction of HTS safety.  
+ 
+Article 84. Measures for Provision of Safety of HTS  
+ 
+ To keep the HTS safe and in a technically good condision, repair as well as to avoid breakdowns the owner of 
+the HTS sall provide for: 
+ 
+1) 
+Systematic inspection of the HTSs; 
+2) 
+Organization of HTS operation in compliance with the established rules; 
+3) 
+Implementation of requirements of professional qualification for employees of the operating 
+organization; 
+4) 
+Keeping the HTSs emergency information system always ready; 
+5) 
+Cooperation with the State Authorized Body of Emergency of the Republic of Armenia in the matters of 
+possible emergency in HTSs;  
+6) 
+Immediate notifying to State Water Systems Management Body in case of danger of breakdown in the 
+HTS; 
+7) 
+Necessary conditions for organization of works of HTS safety control body; 
+8) 
+Financing of measures of HTS operation; 
+9)  
+Financing of measures of elimination and suspension of consequences of HTS breakdown. 
+ 
+In case of dam break the owner or his authorized person shall immediately notify the Prime Minister. The 
+population and organizations of the areas of the possible flood shall be noticed about it through special 
+information system.  
+ 
+The owner and operating organization of the HTS carry the responsibility of safety of the HTS.  
+ 
+Article 85. Declaration of Safety of HTS  
+ 
+The owner of the HTS, or at her/his request the operating organization thereof, makes a declaration of safety of 
+HTS during its projecting, construction, operation, after its decommissioning, reconstruction or capital repair as 
+well as in case of temporary suspension. The declaration of safety of HTS is the main official document 
+containing information about HTS compliance with safety norms.  
+ 
+36
+
+
+--- PAGE 37 ---
+
+ 
+The content and order of development of the declaration of safety of HTS, according to the importance and 
+peculiarities of HTSs shall be established by order of the Government. 
+ 
+The owner of HTS, or at her/his request the operating organization thereof presents the declaration of safety of 
+HTS to the approval of the Water System Management body. The declaration of safety of HTS is the basis for its 
+registration at the State Water Cadastre.  
+ 
+Article 86. Observation of HTS  
+ 
+The Water Systems Management Body, in consultation with the stakeholder state management bodies, shall 
+establish the Technical Commission with the aim of observation of HTSs.  
+ 
+The following shall be implemented during the observation of HTSs:  
+ 
+1) 
+Control over HTSs operating organizations as well as over activities of contractor organizations during 
+operation, reconstruction, capital reconstruction, restoration or conservation of HTSs, within the 
+framework of provision of protection of safety rules and norms, 
+2) 
+Assessment of technical conditions of HTSs. 
+ 
+The technical commission shall also investigate programs on the provision of water systems safety, their 
+efficient use and maintenance, as well as carry out analysis of other related measures and provide with the 
+professional conclusions. 
+ 
+ 
+Article 87. Procedure for Maintaining Information System on Forecast of Floods in the Result of 
+Destruction of HTSs 
+ 
+The system on forecast of floods in the result of destruction of HTSs provides people with prompt information 
+on possible extension of the wave occurred in the result of dam destructions as well as on borders and damage 
+level of possible floods.  
+ 
+Article 88. Measures Towards Prevention of Disasters as the Result of Destruction of HTS  
+ 
+For prevention of disasters as a result of destruction of HTSs:  
+ 
+1) 
+It is forbidden to lease and operate the water systems without carrying out measures envisaged by the 
+project towards irrigation, towards prevention of land inundation, floods, swamping, salination, and 
+erosion of the land. 
+2)  
+It is forbidden to fill water storages before implementation of preparatory measures in the water storage 
+pot envisaged by the plan,  
+3) 
+It is forbidden to lease and operate HTS without:  
+a) Preparedness of water floods extraction constructions according to approved plans, and 
+b) Equipping dams and important HTSs with control-measuring device and observation station network 
+envisaged by the plan.  
+ 
+Article 89. Procedure for Measures Implementation to Prevent disasters as a Result of HTS Breakdown 
+and Compensation of Damages  
+ 
+The harm to the property, life and health of physical and legal persons caused by breakdown of HTS shall be 
+compensated at the discrete of the owner of HTS, or the operating organization if so envisaged by contract.  
+ 
+ 
+37
+
+
+--- PAGE 38 ---
+
+The order of measures towards implementation of elimination of the consequences of the HTSs breakdown and 
+compensation of harms is established by the Government.  
+ 
+Article 90. The Guarantor of Safety of Special State HTS 
+ 
+The guarantor of measures for safety of special state HTSs is the Republic of Armenia.  
+ 
+CHAPTER 13. PREVENTION AND ERADICATION OF WATERS HARMFUL 
+IMPACT 
+ 
+Article 91. Emergencies as Result of Harmful Impacts of Water and Procedure for Preventive Measures  
+ 
+As a primary measure, to bring the harm caused by disasters to minimum in time, an information system on 
+straggle against disasters has been established by the decision of the Government of the Republic of Armenia, 
+aimed at preparation of forecasts on possibilities of occurrence of disasters in the water field.  
+The flood, mudflows, landslips and draught information system activities include current information and 
+forecast on:  
+1) 
+Occurred or possible floods, mudflows, land slides, 
+2) 
+Occurred or possible draughts,  
+3) 
+Condition and sustainability of natural water resources,  
+4)  
+Condition and sustainability of important water-economic structures, among them reservoir dams, 
+embankments,  
+5) 
+Danger for public health.  
+To protect people from floods, mudflows and landslides, the areas of floods, mud flows and landslides shall be 
+mentioned in the water object state register.  
+The actions of persons, which shall be forbidden or limited within special areas, shall be stated in water basin 
+management plans to prevent or bring to minimum the harms caused by the above disasters. Construction works 
+to be carried out in those areas shall be established by the Government.  
+The programs of protection of inhabited areas, areas of economical value and the asset of population from the 
+risk of floods, mud flows and landslides shall be established by water national program, which shall include: 
+1)  
+Complex measures towards protection from floods, mudflows and landslides, 
+2) 
+Responsibility of state bodies in case of floods, mudflows and landslides, and the list of necessary 
+measures,  
+3) 
+Complex measures, mechanisms of their implementation, organization of evacuation of population, if 
+necessary, and provision of accommodation and food.  
+ 
+Article 92. Water Scarcity and Drought  
+ 
+During water scarcity by the proposal of the Water Resources Management and Protection Body of the 
+Government announces about water scarcity and draught. Such a decision may be adopted as for the whole 
+territory of the Republic of Armenia as for a part of it.  
+The decision on water scarcity and draught shall include: 
+1) 
+Limitation of activities connected with water resources,  
+2) 
+Reasonable or limited use of water resources in the area of water scarcity and draught, 
+ 
+38
+
+
+--- PAGE 39 ---
+
+3) 
+Requirements to the water system management body for providing water users with water from new or 
+alternative water sources for water supply.  
+ 
+The Government shall establish commissions and procedures for their activity, aimed at development of 
+measures towards calculation and eradication of harms caused by disasters generated from harmful impact of 
+waters.  
+ 
+ 
+CHAPTER 
+14. 
+WATER 
+SYSTEMS 
+USE 
+AND 
+MAINTENANCE 
+IN 
+EMERGENCY SITUATIONS  
+ 
+Article 93. Water Systems Use and Protection in Emergency Situations 
+ 
+Water resource use and protection emergency regime shall be announced:  
+ 
+1) 
+In case of a war announcement by the National Assembly and/or a military situation announcement by 
+the President of the Republic of Armenia, 
+3) 
+In case ecological emergency or a part of it announcement by the Government.  
+ 
+The order of announcing water resources use and protection emergency regime shall be established by the 
+Government.  
+ 
+Article 94. Water Systems Use and Protection during War and Military Situations  
+ 
+In case of war and military situation in the Republic of Armenia emergency regime shall be announced in all 
+water systems of the Republic of Armenia.  
+ 
+The manager of the water system, in case of war and military situation in the Republic of Armenia, since the 
+moment of announcement of water system use and protection emergency regime, acts according to the 
+instructions established for that situation by the Government.  
+ 
+The State authority of emergency situations of the Republic of Armenia provides completion and preparedness 
+of portable stations for ground water mining from safe depths, which will be ready to supply the population with 
+water of required quality and quantity in case of possible chemical, biological and other possible contamination 
+due to military actions. 
+ 
+Article 95. Reservation of Drinking Water Sources  
+ 
+To supply drinking water to public in emergency situations, source reservation is done on the bases of ground 
+waters protection from pollution and littering. The order of reservation shall be established by the Government.  
+ 
+Article 96. Water Systems Use and Protection in Ecological Emergencies 
+ 
+Ecological Emergency on water systems or a part of it shall be announced if there are such changes which may 
+cause damage to people’s health and (or) environment sustainability.  
+ 
+The manager of the water system implements activities according to the instructions established by the 
+Government:  
+ 
+1) 
+To localize the emergency area,  
+2) 
+To clear waters,  
+ 
+39
+
+
+--- PAGE 40 ---
+
+3) 
+To reduce to the minimum and eliminate the consequences of the emergency situation.  
+ 
+The order of elimination of consequences of disasters caused by harmful impact of waters shall be established by 
+the legislation.  
+ 
+Article 97. Compensation of Damages of Water System Manager in the Result of Water Object Use and 
+Protection in Emergency Regime  
+ 
+The order of compensation of damages of the water system manager in the result of water resources use and 
+protection in emergency regime shall be established by the legislation.  
+ 
+CHAPTER 15. 
+PROTECTION AND STATE SUPERVISION OF WATER 
+RESOURCES  
+ 
+Article 98. Protection of Interconnected Ecosystems and Landscapes 
+ 
+The interconnected ecosystems and landscapes shall be subject to protection for the purposes of improvement of 
+water quantity and quality, as well as for preservation of relationship between soil, air, biological diversity and 
+the waters. 
+ 
+The land owners or users of territories adjacent to the water resources shall be required to take all necessary 
+steps to prevent any hazard threatening the ecosystem related to the water resources. 
+ 
+Article 99. Primary Requirements Towards the Protection of Water Resources  
+ 
+The water resources in the Republic of Armenia shall be protected. 
+ 
+The primary requirements towards the protection of water resources are as follows: 
+ 
+1) 
+The use of water resources is permitted only in conditions of their protection and restoration; 
+  
+2) 
+The water resources are a constituent part of the ecosystem and the natural landscape, and their 
+protection shall be stipulated by the maintenance of balance within the given ecosystem; 
+ 
+3) 
+The water resources shall be subject to protection when used, as well as when not used; 
+ 
+4) 
+If not used, the protection of water resources must maintain the balance and welfare in the given 
+ecosystem completely when it comes to the water issue; 
+ 
+5) 
+If used, the protection of water resources must maintain the balance in the given ecosystem; 
+ 
+6) 
+Water resources shall be subject to protection from pollution, littering, infection and depletion; 
+ 
+7) 
+Wastewater discharge shall be permitted only in conformance with the requirements of this Code, if a 
+corresponding water use permit for such discharge is available; 
+ 
+8) 
+No disturbance to water protection zones shall be allowed, unless otherwise provided by this Code; 
+ 
+9) 
+Specific types of activities (including irrigation of land with wastewater, operation of industrial or 
+commercial enterprises producing, using or storing solvents or chemicals, installation of refuse heaps for 
+ 
+40
+
+
+--- PAGE 41 ---
+
+raw materials, substances, waste and other products and stuff accumulated during the economic 
+operation process) may be restricted or prohibited in ground water protection zones; 
+ 
+10) 
+Exploration wells, pressure wells suspended but still fit for use shall be subject to conservation or 
+destruction; 
+ 
+11) 
+Emission, outflow or burial of radioactive and toxic waste in water resources is prohibited. Explosion 
+operations in water objects by using nuclear or other technologies associated with the discharge of 
+radioactive and toxic substances, is prohibited.  
+ 
+In instances of violation of the requirements of this Article, the operation of the water object shall be restricted, 
+suspended or prohibited in procedures set forth in the legislation. 
+ 
+Article 100. Establishment of Norms for Water Resources Protection 
+ 
+Establishment of norms for the protection of water resources shall be carried out in accordance with the 
+procedures enacted by the Government.  
+ 
+Article 101. Irrigation of Agricultural Lands with Wastewater 
+ 
+Irrigation of agricultural lands with wastewater shall be permitted only by procedures enacted by the 
+Government. 
+ 
+Article 102. Specially Protected Water Resources 
+ 
+The status and list of specially protected water resources shall be established by the Government. 
+ 
+The status and protection regime for the specially protected water resources of international significance are 
+ratified by international agreements of the Republic of Armenia. 
+ 
+Article 103. Requirements for Construction and Other Facilities Affecting the Water Ecosystem 
+ 
+The assessment of design papers and documents for construction and rehabilitation operations of facilities 
+affecting the water systems for water resources, reveals the compliance of such papers and documents with the 
+established requirements of the initial data, technical conditions, design objectives, calculations and civil works.  
+ 
+The design papers and documents for the construction and rehabilitation of HTSs can be forwarded for 
+assessment only with justifications of the hydraulic modelling research or the absence of necessity for such 
+research. 
+ 
+The assessment of design papers and documents for construction and rehabilitation operations of facilities 
+affecting the water systems and water resources shall be carried out by persons holding adequate water system 
+use permits. 
+ 
+During the design, construction, rehabilitation, commissioning and operation of construction facilities and other 
+buildings, the environmental impact of such facilities both on the immediate surroundings of their installation 
+site and on the entire catchment basin of the water resource must be taken into account.  
+ 
+In the event of employment of new technologies affecting the water resource, the environmental impact of such 
+technologies both on the immediate location of their installation and on the entire catchment basin of the water 
+resource, must be taken into account. 
+ 
+ 
+41
+
+
+--- PAGE 42 ---
+
+The commissioning of landfills without filtering devices in residential areas is prohibited. 
+ 
+The commissioning and operation of water systems shall be prohibited, if they are not equipped with the 
+following: 
+ 
+1) 
+Devices preventing water pollution or littering or adverse impact on waters; 
+2) 
+Metering devices for water intake and wastewater discharge; 
+3) 
+Necessary fish protection devices; 
+4) 
+Structures protecting water resources and catchment surfaces from pollution; 
+5) 
+Sanitary protection zones designed for agricultural cattle raising activities; 
+ 
+Commission and operation of lands irrigated with wastewater is prohibited without a system for observation of 
+ground water regimes. 
+ 
+Article 104. Use of Water Resources for the Receiving Wastewaters and Drainage Waters 
+ 
+A water resource or its portions cannot be used for the discharge of wastewater and drainage water if: 
+ 
+1) 
+The water resource contains natural medicinal resources;  
+2) 
+The water resource is a part of a specially protected watershed; 
+3) 
+The water resource is located in the neighborhood of resorts and areas used for tourist entertainment, 
+athletic events and recreation purposes; 
+4) 
+The water resource is a spawning and hibernation area for valuable species of fish; 
+5) 
+The water resource is a habitat for valuable species of fauna and flora. 
+ 
+Construction of absorbent pits and wells for the discharge of wastewater and drainage water is prohibited. 
+ 
+Wastewater and drainage water shall be directed into wastewater collection systems in procedures prescribed in 
+the Wasterwaterwastewater contract. 
+ 
+Article 105. Protection of Natural Preserves and Water Resources Considered National Monuments 
+ 
+The water resources that are considered natural monuments can be considered natural preserves or transferred 
+under natural preserves without time limitations. 
+ 
+The Water Resources Management and Protection Body shall provide information on the protection of water 
+resources that are considered natural monuments. 
+ 
+The status of the water resources considered natural monuments, as well as the specific requirements towards 
+their use and protection shall be established by the Government. 
+ 
+Article 106. Participation of Non-Governmental Organizations and Citizens in the Protection of Water 
+Resources and Water Systems 
+ 
+Non-Governmental Organizations and citizens are entitled to participate in the discussions relevant to the water 
+resources and water systems and provide comments by procedures established by the legislation. 
+ 
+In the conduct of activities aimed at the protection of water resources and water systems the state authorized 
+management bodies has a right to take into consideration the recommendations of public organizations and 
+citizens.  
+ 
+ 
+42
+
+
+--- PAGE 43 ---
+
+Article 107. Supervision of Water Resource Protection 
+ 
+The person (persons) supervising the protection of water resources and water systems shall be responsible for the 
+following: 
+ 
+1) 
+Oversight of the use of water resources in the Republic of Armenia and protection of water resources; 
+  
+2) 
+Submission of an annual report to the National Water Council on the process of implementation of the 
+National Water Program; 
+ 
+The state supervision in the area of protection of water resources shall be carried out by the authorized bodies in 
+compliance with the law. 
+ 
+Article 108. Watersheds 
+ 
+The following shall be prohibited to carry out in watersheds: 
+ 
+1. Pollution of ice blankets, ice fields and snow-pack and adjacent areas with production, household or other 
+waste, as well as pollution with oil products, toxic chemicals and other hazardous substances; 
+  
+2. Installation of refuse heaps, waste burial sites, cemeteries and other facilities that may have indirect negative 
+impact on water resources; 
+ 
+3. Wood manufacturing in water protection zones, except for cases of sanitary felling and wood use for forestry 
+activities and protection of water resources; 
+ 
+The papers and documents developed by the Water Resources Management and Protection Body on watersheds 
+shall be introduced to the public for comments and recommendations. 
+ 
+CHAPTER 16. RESOLUTION OF DISPUTES EVOLVED IN WATER 
+RELATIONS AND LIABILITY FOR VIOLATION OF WATER LEGISLATION 
+ 
+Article 109. Dispute Resolution Bodies In Water Relations 
+ 
+Disputes in water relations and those related to water resources use and protection shall be resolved by the 
+bodies authorized by the Government to regulate water relations according to a procedure established by the 
+legislation, this Code and other legal acts. 
+ 
+Article 110. Resolution Of Disputes Evolving In Water Relations 
+ 
+Decisions of authorized bodies related to the enforcement of this Code may be appealed by a person (persons) 
+concerned in a procedure established by the , this Code and other legal acts. 
+ 
+Disputes evolved in water relations, except for the cases, when the Republic of Armenia shall act as a party, may 
+be resolved by a Dispute Resolution Commission. In case of no consent is attained by the parties the disputes 
+shall be resolved in a legal form. 
+ 
+Article 111. Resolution of Disputes in Water Relations Within Water User Associations and Water User 
+Association Unions  
+ 
+Disputes evolved within operation of Water User Associations and Water User Association Unions shall be 
+resolved by a Board to regulate Water User Association and Water User Association Union. 
+ 
+43
+
+
+--- PAGE 44 ---
+
+ 
+In case of no consent is attained by the parties the disputes shall be resolved in a legal form. 
+ 
+Article 112. Resolution of Disputes Evolved Over Transboundary Water Resources Use and Protection 
+ 
+Disputes evolved over transboundary water resources use and protection shall be resolved pursuant to the norms 
+established by international agreements. 
+ 
+Article 113. Invalidity Of Transactions Inconsistent With This Code 
+ 
+Transactions concluded by violating state property right, water-supply and wastewater discharge systems 
+property, authorities of state and local self-governance bodies in water relations, as well as, fees principles in 
+water relations established by this Code shall be invalid. 
+ 
+Transactions concluded by violating requirements of this Code and related to obtaining use right of water 
+resources, water supply and wastewater discharge systems, its transfer, deliver for use or transfer in other 
+manner; use and protection of water resources, water-supply and wastewater discharge systems, use of 
+transboundary water resources, generating harmful impact on waters, damaging safety of HTSs, as well as, other 
+transactions concluded by violating requirements of this Code shall be considered invalid. 
+ 
+Violating requirements of this Code shall cause a liability in a procedure established by the legislation. 
+ 
+Article 114. Criminal And Administrative Liability For Violation Of Requirements Of This Code 
+ 
+People liable for concluding transactions stated in Article 113 of this Code, as well as those stated below shall 
+bear criminal or administrative responsibility in a procedure established by legislation: 
+ 
+1) unauthorized occupancy of water systems or unauthorized or non-purposeful use of water; 
+2) failing to follow the terms of a valid water use permit and/or conducting a water use without first 
+securing a necessary water use permit; ; 
+3) polluting waters above quotas established by the legislation of the Republic of Armenia; 
+4) putting into operation municipal and other systems to prevent waterless pollution or their harmful 
+impact; 
+5) use of water systems without water systems use permit established by this law or by violating its 
+conditions and failure to comply with state metering of waters; 
+6) by violating safety norms of HTSs or decrease of their specification figures which caused an emergency; 
+7) for violation of water-protective regime within watershed, which caused water pollution, erosion and 
+other harmful phenomena; 
+8) for unauthorized operations influencing the state of waters; 
+9) for causing harm to the water systems and violating their operational rules; 
+10) for violation of rules (conditions) of water resources use for recreational and sporting purposes.  
+ 
+The legislation may establish liabilities for violation of the other requirements of this Code. 
+ 
+Article 115. Return of Water Resources and Water Systems Used in an Unauthorized Manner 
+ 
+Water resources and water systems used in an unauthorized manner are returned to the proper party without any 
+refund of costs incurred within illegal use. 
+ 
+ 
+ 
+ 
+ 
+44
+
+
+--- PAGE 45 ---
+
+Article 116. Compensation of Losses Due to Violation of This Code  
+  
+Persons violating requirements of this Code are obliged to compensate the losses caused due to the violation in 
+the established by law procedure. 
+ 
+Officials in charge of causing losses to water users shall bear liability in a procedure established by the 
+legislation. 
+ 
+Article 117. Notice of Violation of Requirements Under This Code and Application of Appropriate 
+Remedies  
+ 
+Should any authorized body acting in the area of water relations according to this Code or other concerned state 
+body is aware on any person violating the requirements of this Code, the head of respective body shall provide 
+given person with a violation notice.  
+ 
+The violation notice may call for the immediate halt of specific harm causing activity pending resolution of the 
+matter according to the procedures described in this Code by stating the penalties in case of failure to halt the 
+actions. 
+ 
+Failure to follow the instructions of a violation notice shall result in the charging of a daily fine for each day 
+between the date of notice and compliance; and may result in increased penalties. 
+ 
+The body providing the violation notice in case of notified person’s failure to comply with the stated therein 
+requirements shall be in charge of bringing given person to account. 
+ 
+If a person that pollutes water resources within reasonable time-period fails to comply with the direction given in 
+the violation notice by the Water Resources Management and Protection Body within a reasonable period of 
+time, then the Water Resources Management and Protection Body may be entitled to ensure the remedies stated 
+in the violated notice which are necessary to mitigate damage caused to water resources, including protection of 
+the national water reserve and water quality standards. In this case Water Resources Management and Protection 
+Body, according to the procedures established by the legislation shall submit a claim to the court to reimburse 
+costs from:  
+ 
+1. Any person who is or was responsible for, or who directly or indirectly contributed to the pollution;  
+ 
+2. The owner of the land at the time when the pollution or the potential for pollution occurred;  
+ 
+3. The person in control of the land or any person who has a right to use the land at the time when the 
+activity or the process is or was performed or undertaken; or the situation came about; and/or, 
+ 
+4. Any person who negligently failed to prevent the activity or the process being performed or undertaken; 
+or the situation from occurring 
+ 
+Article 118. Reliable Security 
+ 
+In order to ensure the requirements under this Code, related legal acts and standards, terms and conditions of 
+water use permit or water systems use permits, the bodies authorized by this Code to issue any water use permits 
+or water systems use permits may require guarantee of adequate reliability as a condition for issue of a water use 
+permit or water systems use permitting. A reliable security may be a letter of recommendation from any bank 
+granting a loan, bank guarantee, insurance or other appropriate form of security. 
+ 
+ 
+45
+
+
+--- PAGE 46 ---
+
+CHAPTER 17. 
+CLOSING AND TRANSITIONAL PROVISIONS 
+ 
+Article 119. Closing Provisions 
+ 
+The water Code of the Republic of Armenia shall become effective after 3 months of official publishing. 
+ 
+The Water Code of the Republic of Armenia of 23 March, 1992, shall become null and void from the moment of 
+enactment of this Code. 
+ 
+Article 120. Specifics of Operation of Potable Water Supply and Wasterwater Systems 
+ 
+Prior to the adoption of the Law of the Republic of Armenia on Potable Water, the following shall be carried out 
+in the sector of potable water supply and wasterwater: 
+ 
+• 
+The use of the water resources, meeting the quality standards of potable water, for drinking, household 
+and residential, and health needs shall be considered top priority; 
+ 
+• 
+The potable, household and residential water supply systems shall be classified as highly important life-
+supporting objects; 
+ 
+• 
+The supervision of the quality parameters of drinking water shall be carried out in procedures 
+established by the legislation of the Republic of Armenia. 
+ 
+Article 121. Transitional Provisions 
+ 
+1. 
+Other legal acts containing legal norms in the area of water relations shall be adjusted to this Code 
+before 1 July, 2004. 
+Prior to their adjustment to this Code, all laws and other legal acts containing legal norms in the area of water 
+relations shall be applied to the extent that they are not in conflict with this Code. 
+ 
+All normative acts of the President of the Republic of Armenia, the Government of the Republic of Armenia, the 
+Ministries and other government bodies, which regulate relationships that should be regulated only by law, 
+pursuant to the Code, shall remain in effect until the enactment of the corresponding laws. 
+ 
+This Code shall apply to such legal relationships containing legal norms in water relations, which evolved after 
+the enactment of this Code, unless otherwise provided by this Code. 
+ 
+This Code shall apply to the contractual and legal relationships containing legal norms in water relations, which 
+evolved prior to the enactment of this Code, to the extent of such rights and responsibilities that will arise after 
+the enactment of this Code. 
+ 
+The norms of this Code relevant to the basis and consequences of nullification of transactions shall apply to such 
+transactions where the claims of nullification shall be reviewed in court after the enactment of this Code, 
+regardless of the date of execution of the corresponding transactions. 
+ 
+2. Expiration and Renewal of Existing Water Use Permits 
+ 
+All water use permits, contracts or other legal documents conveying water use rights issued prior to the date of 
+enactment of this Code shall be harmonized with the requirements of this Code. 
+ 
+ 
+46
+
+
+--- PAGE 47 ---
+
+By October 1st 2003, persons holding valid water use permits, water system use permits, contracts or other legal 
+documents conveying water use rights may apply to the Water Resources Management and Protection Body and 
+request a new water use permit be issued according to the terms of this legislation and based upon the rights 
+conferred in the existing documents.  
+ 
+Any existing permit shall be submitted to the Water Resources Management and Protection Body at the time of 
+renewal. 
+ 
+3. Expiration and Renewal of Existing Water System Use Permits 
+ 
+Within two years (2) of enactment of this Law, persons holding valid non-competitive water supply system use 
+rights shall obtain a new water system use permit issued according to the terms of this Code. 
+ 
+In case of not getting a water system use permit for existing water system within the time period specified, the 
+permits, contracts or other legal documents for non-competitive water supply shall be null and void. 
+ 
+4. Following the adoption of this Code, the Government shall present the following documents to the 
+National Assembly: 
+• 
+The draft Law of the Republic of Armenia “On Water User Associations and Federations” (within 1 
+month); 
+• 
+The draft Law of the Republic of Armenia “On the Concepts of the National Water Policy” (within 6 
+months); 
+• 
+The draft Law on the establishment and operation of the Regulatory Commission (within 6 months); 
+• 
+The draft Law of the Republic of Armenia “On the National Water Program” (within 1 year); 
+• 
+The draft Law of the Republic of Armenia “On the Potable Water” (within 2 years); 
+• 
+The draft Law of the Republic of Armenia “On Hydro Energy” (within 2 years); 
+• 
+The draft Law of the Republic of Armenia “On the Irrigation Water and Land Improvement” (within 2 
+years); 
+ 
+5. Following the adoption of this Code, the Government shall be responsible for the following: 
+ 
+1) Approval of the Procedures for water allocation for fire prevention needs (within 6 months); 
+ 
+2) Approval of the Procedures for water standard establishment (within 1 year); 
+ 
+3) Approval of the Procedures for impact control on water resources at watersheds and wetlands 
+(within 1 year); 
+ 
+4) Approval of the List of water systems of state significance, upon the proposal of the Water Systems 
+Management Body and the State Property Management Body (within 1 year); 
+ 
+5) Approval of the Procedures for drafting of the economic water balance, document registration with 
+the State Water Cadastre and provision of information (within 6 months); 
+ 
+6) Approval of the model forms of the Water Use Permits, upon presentation by the Water Resources 
+Management and Protection Body (within 1 year); 
+ 
+7) Approval of the hydraulic structure safety indicators, upon presentation by the Water Systems 
+Management Body (within 2 years); 
+ 
+8) Approval of the hydraulic structure classification, upon presentation by the Water Systems 
+Management Body (within 6 months); 
+ 
+47
+
+
+--- PAGE 48 ---
+
+ 
+9) Establishment of the Procedures for HTSs operation and safety provision (within 1 year); 
+ 
+10) Development of the contents of the HTSs safety Declaration, as well as the Procedures its 
+development and assessment (within 1 year); 
+ 
+11) Establishment of the Procedures for construction of water systems, as well as the Procedures for the 
+testing of reconstruction/rehabilitation projects of hydraulic structures and water systems (within 1 
+year); 
+ 
+12) Establishment of the zones for water ecosystem protection, sanitary maintenance, flow formation, 
+ground water protection, water protection, ecotones and non-vendible areas (within 2 years); 
+ 
+13) Following the establishment of the water ecosystem protection zones, the Government of the 
+Republic of Armenia shall be responsible for the following: 
+ 
+- 
+Establishment of the Procedures for allocation of lands for use and land use at water 
+ecosystem protection zones (within 3 months); 
+- 
+Establishment of the Procedures for construction, drilling, bottomland deepening and 
+explosion, installation of pipelines and other communication networks, wiring, as well as 
+extraction of biological resources and materials at water ecosystem protection zones (within 
+6 months); 
+- 
+Establishment of the Procedures for forest use at water ecosystem protection zones, upon the 
+proposal of the Water Resources Management and Protection Body and the authorized State 
+Body for Environmental Issues (within 9 months); 
+ 
+14) Establishment of the Procedures for determination of the permissible marginal levels of non-
+refundable water intake for each water object at the areas of ecological outlet and surface flows 
+(within 1 year); 
+  
+15) Establishment of the Procedures for withdrawal of water systems of special significance, partially or 
+entirely, permanently or temporarily, from the area of economic operation and their preservation 
+(within 1 year); 
+ 
+16) Establishment of the Procedures for the use and preservation of water resources of international 
+significance under special protection (within 3 years); 
+ 
+17) Establishment of the Procedures for the use of absorbing wells for wastewater and drainage water 
+collection, depleted mines, shafts and open quarries, and outlet (within 1 year); 
+ 
+18) Establishment of the Procedures for the monitoring of water resources and registration of reports 
+(within 1 year); 
+ 
+19) Establishment of the marginal allowed concentrations of polluting substances contained in the water 
+resources as well as procedures and schedule of their enforcement (within 2 year); 
+ 
+20) Establishment of ecological restrictions of impact on water resources (within 1 year); 
+ 
+21) Establishment of the Procedures for the irrigation of agricultural lands with wastewater (within 6 
+months); 
+ 
+ 
+48
+
+
+--- PAGE 49 ---
+
+22) Establishment of the State Supervision Body (Bodies) and its (their) functions in the area of 
+protection of water resources and water systems (within 6 months); 
+ 
+23) Establishment of the status, the register, and the specifics of use and protection of water resources 
+that are considered natural monuments (within 1 year); 
+ 
+24) Establishment of the procedures for assessment of the hydro-turbines manufactured in the Republic 
+of Armenia (within 9 months); 
+ 
+25) Establishment of the Procedures for the oversight and inspection of hydraulic structures (within 1 
+year); 
+ 
+26) Establishment of the Procedures for the use of water resources with natural healing faculties (within 
+9 months); 
+ 
+27) Establishment of the Procedures for the use of water systems for tourist entertainment, athletic 
+events and recreation purposes (within 9 months); 
+ 
+28) Establishment of the Procedures for the implementation of activities targeted at the elimination of 
+the consequences of accidents at hydraulic structures, and reimbursement of losses (within 2 years); 
+ 
+29) Establishment of the Procedures for the use of water resources for irrigation purposes, pasture 
+irrigation, land ablution and desalination, as well as for other agricultural needs (within 6 months);  
+ 
+30) Establishment of the Procedures for the use of drainage waters (within 9 months); 
+ 
+31) Establishment of the Procedures for the employment of recycling water-supply systems for 
+industrial needs (within 1 year); 
+ 
+32) Establishment of the Procedures for the use of water resources for fish farm needs (within 1 year); 
+ 
+33) Establishment of the Procedures for the use of water resources for hunting needs (within 1 year); 
+ 
+34) Establishment of the Procedures setting the norms for the use and protection of water resources 
+(within 2 years); 
+ 
+35) Establishment of the Procedures for the assessment of design papers and documents for construction 
+and rehabilitation operations of facilities affecting the water resources or water systems (within 3 
+months); 
+ 
+36) Establishment of the Procedures for the state supervision over the radioactive and toxic pollution of 
+the water resources (within 1 year); 
+ 
+37) Establishment of the water basin management areas and approval of their management plans (within 
+9 months); 
+ 
+38) Approval of the alternative Procedures for water recording (within 6 months); 
+ 
+39) Establishment of the Procedures for allocation of financial assistance to water suppliers and water 
+users (within 3 months); 
+ 
+40) Approval of the List of Safety Standard Violations at hydraulic structures (within 5 months); 
+ 
+49
+
+
+--- PAGE 50 ---
+
+ 
+41) Approval of the Water Systems Use Permitting Procedure(s) in the water sector (within 6 months); 
+ 
+42) Approval of the Procedures for determination of quantities and regimes of water intake from water 
+resources for water users (within 1 year); 
+ 
+43) Approval of the list of the members and the operation procedures for the Coordination Board of 
+water user associations and federations, within 3 months of the enactment of the law regulating the 
+operation of water user associations and federations; 
+ 
+44) Establishment of the Procedures for the conclusion of water supply and wasterwater contracts 
+(within 6 months); 
+ 
+45) Establishment of the Procedures for the implementation of works affecting the status of water at 
+water ecosystem protection zones (within 2 years); 
+ 
+46) Approval of the list of the members of the Commission of the Republic of Armenia for 
+Transboundary water resources (within 1 month); 
+ 
+47) Approval of the Procedures for submission of information on transboundary resources (within 9 
+months); 
+ 
+48) Approval of the Procedures for the use of ground waters at privately owned land plots (within 9 
+months); 
+ 
+49) Approval of the Procedures for free water use (within 9 months); 
+ 
+50) Approval of the Procedures for the establishment of emergency regimes for the use and protection of 
+water objects; the instructions and minimum rations of drinking water for residential needs; as well 
+as the Procedures for the reimbursement of losses of the manager of a water object (within 3 years); 
+ 
+51) Approval of the procedure for elimination of accidents or failures within internal water supply 
+systems for apartments (within 6 months); 
+ 
+52) Approval of the procedures for notification and publicity of the documents developed by Water 
+Resources Management and Protection Body to the public (within 6 months); 
+ 
+53) Approval of the procedure for transfer or contracting of water use permit to other persons (within 1 
+year); 
+ 
+54) Approval of package of guidelines for water basin management planning (within 6 months). 
+ 
+6. After the enactment of this Code, the Government or its authorized body (bodies) shall: 
+ 
+1) 
+Approve a standard form of water use permit (within 6 months); 
+ 
+2) 
+Approve a standard contract on the transfer of water use permit to a third party (within 3 
+months); 
+ 
+3) 
+Determine water basins and wetlands which play a critical part in the protection of the quality 
+and quantity of water (within 1 year) 
+ 
+ 
+50
+
+
+--- PAGE 51 ---
+
+ 
+51
+4) 
+Develop a methodology for the assessment of the impact of economic operation on water 
+resources (within 1 year). 
+ 
+5) Establish procedures for wastewater systems operation and wastewaters treatment (within 1 year); 
+ 
+6) 
+Establish the specifics of operation for each HTS unit of special national significance (within 2 
+years); 
+ 
+7) 
+Establish the procedure for the submission to the Government a program on the existing 
+situation of reservoirs, their rehabilitation, and as required a financial sources for their rehabilitation; 
+ 
+ 
+8) Establishes water standards (within 2 years). 
+ 
+7.  After the enactment of this Code, the Prime Minister of the Republic of Armenia shall: 
+1) 
+Approve the list of the members and regulations for the National Water Council (within 3 
+months); 
+ 
+2) 
+Approve the list of the water basin management bodies, procedures of their work and the 
+schedule of transition to basin management (within 3 months); 
+ 
+3) 
+Approve the list of the members of the Dispute Resolution Commission and regulations (within 
+3 months), 
+ 
+4) 
+Approve the composition of the Commission of the Republic of Armenia of Transboundary 
+Water Resources (within 3 months). 
+ 
+ 
+The President of the Republic of Armenia  
+ 
+R. Kocharyan 
+ 
+ 
+June 17, 2002 
+Translation and Revised by Lilit Harutyunyan 
+ 
+and  Lilit Martirosyan 
+ 
+ 

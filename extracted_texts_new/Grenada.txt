@@ -1,0 +1,1537 @@
+
+
+--- PAGE 1 ---
+
+LAWS OF GRENADA
+REVISED EDITION
+NATIONAL WATER AND SEWERAGE
+AUTHORITY ACT
+CHAPTER 208
+Act No.
+25 of 1990
+Amended by
+Act No. 41 of 1991
+Act No. 52 of 1991
+Act No. 30 of 1992
+Act No. 15 of 1995
+Act No. 35 of 1996
+Act No. 23 of 2008
+Printed and published with the authority of the
+Government of Grenada
+1 [Issue 1/2011]
+
+
+--- PAGE 2 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+CHAPTER 208
+NATIONAL WATER AND SEWERAGE AUTHORITY ACT
+ARRANGEMENT OF SECTIONS
+PARTI
+Preliminary
+SECTION
+1. Short title.
+2. Interpretation.
+PART II
+i Dy Sy
+8A.
+10.
+National Policy and Establishment of the National Water and Sewerage Authority
+National policy for water and sewerage.
+Establishment of the National Water and Sewerage Authority.
+Transfer of assets and liabilities of Central Water Commission to the Authority.
+Duties and powers of the Authority.
+The Authority to provide a satisfactory supply of water.
+PART II
+The Board and Staff of the Authority
+Composition of Board of Directors.
+Exemption from liability.
+Board shall appoint staff.
+Secondment of public officers and preservation of pensions.
+PART IV
+Power of Entry on and Acquisition of Land, etc.
+Control of water.
+Right to use water vested in the Authority.
+Right to use water may not be otherwise acquired.
+Land acquisition.
+Power to enter upon property.
+Power to enter land.
+Power to construct works on land.
+Compensation for land after construction of works.
+Liability of Authority for damage to public works.
+Power to assess and impose charge upon person who benefits from construction of works.
+Protected areas.
+Offence of obstruction.
+Sewerage and sewage disposal.
+4) [Issue 1/2011]
+
+
+--- PAGE 3 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+PART V
+Financial Provisions
+SECTION
+24. Funds of the Authority and exemption from duties and taxes.
+25. Estimates to be prepared and submitted.
+26. Financial year of the Authority.
+26A. Board obligated to implement business plan.
+26B. Accounts.
+26C. Audit by Director of Audit and report to the House of Representatives.
+PART VI
+Rates, Charges and Fees
+27. Water supply and sewerage areas.
+27A. Levying and collection ofrates, charges and fees.
+28. Rates, charges and fees.
+29. Separate or combined rates, etc., chargeable.
+30. General provisions regarding rates, charges and fees.
+31. Fire service.
+32. Unauthorised use of Authority’s works forbidden.
+33. Recovery of debts and cutting off supplies.
+34. Standpipes and public taps.
+35. Provisions as to the liability for rates and charges of owners and occupiers of premises.
+PART VII
+Catchment Areas
+36. Defining limits of catchment areas and reservation of same.
+37. No building to be erected on catchment area.
+38. Catchment areas to be retained as forest reserves.
+39. Catchment areas to be reserved for augmenting water supply.
+40. Power of Authority to carry out works, etc., which concern a public body.
+PART VIII
+Miscellaneous
+41. Acquisition of property by agreement, and power to enter for survey, etc., purposes.
+42. Compulsory acquisition of way-leave.
+43. Power of entry of persons specially authorised by the Authority.
+44. Sinking of wells and boreholes, and provisions for issue of licences and permits.
+45. Permits and licences to be personal to grantee unless endorsed.
+46. Penalty for offences against section 44.
+47. Power of Authority to cause wells and boreholes to be made safe.
+48. Power of Authority in cases of contravention of section 44.
+49. Exception as to shallow-dug wells, etc.
+50. Minister may give directions.
+[Issue 1/2011] 4
+
+
+--- PAGE 4 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+SECTION
+51. Financial assistance for families earning low income.
+52. Regulations.
+53. Penalty if water or sewerage connection made without permission.
+54. Offences in protected area.
+55. Offences at public standpipe.
+56. General penalty.
+57. Act binds the Government.
+SCHEDULE
+Procedure of the Board and Related Matters
+CHAPTER 208
+NATIONAL WATER AND SEWERAGE AUTHORITY ACT
+An Act to establish the National Water and Sewerage Authority as a corporate body;
+to make provision for the functions, powers and administration of the Authority,
+for the transfer to the Authority of the assets and liabilities of the Central Water
+Commission, and to provide for connected matters.
+[Act No. 25 of 1990 amended by Act No. 41 of 1991, Act No. 52 of 1991, Act No. 30 of 1992,
+Act No. 15 of 1995, Act No. 35 of 1996, Act No.23 of2008.]
+[14th January, 1991.]
+PARTI
+Preliminary
+Short title
+1. This Act may be cited as the National Water and Sewerage Authority Act.
+Interpretation
+2. In this Act—
+“appointed day” means the 14th January, 1991;
+“Authority” means the National Water and Sewerage Authority established by
+section 4;
+“body of water” means ground water and water contained or flowing in a spring,
+steam, river, natural lake or swamp, or in or beneath a watercourse or in a zone below
+the water table where the interstices are filled with ground water, and includes water
+5 [Issue 1/2011]
+
+
+--- PAGE 5 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+diverted or abstracted from any of the foregoing, or stored therein, by means of
+works, but does not include the water in a spring which is situated wholly within the
+boundaries of land owned by any one landowner and which does not naturally dis-
+charge into a water-course extending beyond the boundaries of such land or abutting
+on the boundaries of such land;
+“business plan”, for a financial year, means—
+(a) _ the business plan approved under section 26; and
+(6) all amendments to the business plan approved under that section,
+for the financial year;
+“catchment area” means any surface of land or any device which collects rainfall
+or through which water flows for the purposes of waterworks;
+“chairperson” means the chairperson of the Board of the Authority appointed
+under section 8 and includes any deputy chairperson and any person acting on behalf
+of the chairperson;
+“financial year” means the financial year referred to in section 26;
+“Manager” means the Manager of the Authority appointed by the Board under
+section 9(1) and includes any other person for the time being lawfully discharging the
+functions of the Manager under this Act;
+“meter” means an appliance used to measure, ascertain or regulate the quantity of
+water taken or used from waterworks and includes an appliance used for estimating
+the flow of water in or from any part of waterworks;
+“Minister” means the Minister for the time being responsible for water supply and
+sewerage;
+“owner” means the holder of a tenement direct from the Crown whether under
+lease, licence or otherwise, or the immediate landlord of a tenement, or the agent of
+any such holder, or landlord, who is absent or under disability, or if there be no such
+agent the occupier of the tenement;
+“sewage” means matter conveyed in a sewer;
+“sewer” includes any drain pipe, conduit or channel for the conveyance of sewage;
+“sewerage” means drainage by means of a sewer or series of sewers;
+“shallow-dug well” means a well the maximum depth of which does not exceed
+five feet;
+“standpipe” means any fountain, standpipe, valve, tap or appliance, used or
+intended to be used for or in connection with the supply of water to the public from
+waterworks, installed by and belonging to or vested in the Authority;
+“water-course” means lake, pond, spring, river, stream, reservoir, aqueduct or pipe
+from, through, to, along or by which water is conducted and supplied to or from
+waterworks;
+[Issue 1/2011] 6
+
+
+--- PAGE 6 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+“waterworks” means reservoirs, wells, dams, tanks, cisterns, tunnels, filter beds,
+conduits, aqueducts, pipes, fountains, showers, valves, pumps, engines, culverts and
+all machinery, lands, buildings and things used for supplying water;
+“way-leave” means a right of the Authority to the use of land for the laying of
+tunnels, conduits, aqueducts, channels, drains, outfalls for sewers, sewers, water
+mains, pipes or other works, structures and appliances and accessories thereto,
+together with the right of access to such land and the right of opening up such land
+from time to time for the inspection, renewal, repair, replacement or removal of any
+such works, and the right of restoring any such land, without in any such case affect-
+ing the ownership of such land.
+PART II
+National Policy and Establishment of the National
+Water and Sewerage Authority
+National policy for water and sewerage
+3. The Government shall promote a national policy for water and sewerage in Gre-
+nada, and shall so discharge its functions in respect of the following matters as to secure
+the effective execution of that policy by the bodies responsible therefor, namely—
+(a) the provision of water supplies and the conservation, augmentation, distri-
+bution and proper use of water resources including the preservation and
+protection of catchment areas;
+(b) sewerage and the treatment and disposal of sewage and other effluents.
+Establishment of the National Water and Sewerage Authority
+4. (1) For the purpose of exercising the functions and powers conferred on it by vir-
+tue of this Act, there is hereby established a body corporate
+to be known as the National
+Water and Sewerage Authority.
+(2) The Authority shall have perpetual succession and a Common Seal with power to
+make contracts and to sue and be sued in its corporate name, to acquire, hold and dispose
+of all kinds of property, and to draw, accept, make, endorse and negotiate bills of
+exchange, promissory notes, bills of lading and other negotiable instruments.
+Transfer of assets and liabilities of Central Water Commission to the Authority
+5. (1) All the waterworks vested in the Central Water Commission established by
+section 4 of the Water Supply Act, No. 23 of 1969, are transferred to and vested in the
+Authority, and all assets, powers, duties, liabilities and obligations of the Central Water
+Commission are also transferred to the Authority.
+(2) Debts and liabilities transferred by subsection (1) shall be debts and liabilities of
+the Authority and shall, in the manner provided by this Act, be defrayed out of the water
+rates, rents and funds out of which they would have been defrayed if such waterworks
+had remained vested in the Central Water Commission.
+af [Issue 1/2011]
+
+
+--- PAGE 7 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(3) Agreements to which the Central Water Commission was a party immediately
+before the appointed day shall have effect as if—
+(a) the Authority had been a party thereto;
+(b) for references to the Central Water Commission there were substituted, in
+respect of anything falling to be done on or after the appointed day, a refer-
+ence to the Authority;
+(c) for references to any member or officer of the Central Water Commission
+there were substituted, in respect of anything falling to be done on or after
+the appointed day, a reference in each case to such person as the Authority
+may appoint or, in default of such appointment, to the member or officer of
+the Authority who corresponds as nearly as may be to the member or offi-
+cer of the Central Water Commission;
+(d) for references to any fund or revenues of the Central Water Commission
+there were substituted, in respect of anything falling to be done on or after
+the appointed day, a reference to the corresponding fund or revenues of the
+Authority.
+Duties and powers of the Authority
+6. (1) The Authority shall have full power and authority over all the surface and
+underground waters of Grenada, and shall collate and publish information from which
+assessments can be made of the actual and prospective demand for water and of actual
+and prospective water resources. :
+(2) The Authority shall take such action as may be necessary or expedient for the
+purpose of—
+(a) conserving, augmenting, distributing or redistributing water resources in
+Grenada;
+(b) maintaining and improving sewerage systems in Grenada.
+(3) Without prejudice to the generality of subsection (2), the Authority shall—
+(a) investigate the water resources of Grenada and advise and make recom-
+mendations to the Minister in connection with improvements, preservation,
+conservation, utilisation and the apportionment of those resources, and as
+to the provision of additional water supplies;
+(b) carry out surveys of consumption and demand for water supplies and of the
+water resources of Grenada;
+(c) prepare estimates of the future water supply and sewage disposal require-
+ments of any district or area;
+(@) formulate proposals for meeting the existing and future water supply or
+sewage disposal requirements of any district or area;
+(e) carry out surveys of the demand for sewerage facilities;
+(3) investigate and make recommendations to the Minister relating to the
+improvement, preservation, operation and utilisation of sewerage facilities,
+and the provision of additional sewerage facilities;
+[Issue 1/2011] 8
+
+
+--- PAGE 8 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(g) furnish to the Minister such information relating to water resources or
+water supplies or sewerage facilities as is available;
+(A) with the prior written approval of the Minister, from time to time, fix, levy
+and collect fees, rates and charges for water supplied and the use of the
+sewerage system, and for all other services performed and facilities pro-
+vided by the Authority; and may
+(0) with the concurrence of and subject to such limitations as may be imposed
+by the Ministry of Finance, borrow money or obtain credit in Grenada or in
+any other country;
+(/) create, make, draw, accept, endorse, execute, issue, discount, buy, sell,
+negotiate and deal in bills, notes, warrants, coupons, stock, debentures and
+other negotiable or transferable instruments.
+The Authority to provide a satisfactory supply of water
+7. (1) The Authority shall, unless prevented by drought, reduced rainfall or any
+extraordinary event or unavoidable incident or act of God, provide to the public a satis-
+factory supply of potable water for domestic purposes and a potable or otherwise satisfac-
+tory supply of water for agricultural, industrial and commercial purposes and for such
+other purposes as may be prescribed by the Minister.
+(2) For the purposes of subsection (1), the Authority may examine surface or under-
+ground water in any public or private place in Grenada to determine whether water pollu-
+tion exists and, if so, the causes thereof.
+(3) In subsection (1), the expression “supply of potable water for domestic purposes”
+does not include the supply of potable water—
+(a) for animals (other than kept for domestic purposes) or for washing motor
+vehicles by the operation of a hose;
+(b) for any profession, trade or business, or for use in fountains or swimming
+pools.
+(4) In subsection (1), the duty to supply water for agricultural purposes does not
+include any duty to supply water for the purpose of watering a household garden.
+(5) In subsection (1), the expression “industrial or commercial purposes” means water
+for use in connection with any professional, trade, business, industrial, or commercial
+enterprise.
+PART Ill
+The Board and Staff of the Authority
+Composition of Board of Directors
+8. (1) There shall be a Board of Directors (hereinafter called “the Board”) which
+shall be responsible for the due performance of the duties imposed and exercise of the
+powers conferred on the Authority by this Act and for carrying out the policy and general
+administration of the Authority.
+9 [Issue 1/2011]
+
+
+--- PAGE 9 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(2) The Board shall consist of the following members—
+(a) achairperson, and a deputy chairperson, appointed by the Minister;
+(6) four persons of whom one shall be nominated by each of the following
+Ministers—
+(i) the Minister of Agriculture,
+(ii) the Minister of Health,
+(iii) the Minister of Works,
+(iv) the Minister of Finance;
+(c) one person nominated by the Private Sector Organisation of Grenada and
+appointed by the Minister; and
+(d) two persons appointed by the Minister to represent the general public.
+(3) A member of the Board shall be entitled to receive such allowances, if any, as
+may be recommended by the Board and approved by the Minister, and to be paid such
+travelling and other expenses as he or she may necessarily and reasonably incur in the
+performance of his or her duties as such member.
+(4) The Common Seal of the Authority shall be affixed by the chairperson, or in his
+or her absence the deputy chairperson, and by the Manager, and a document so sealed
+shall be authenticated by the signatures of the chairperson or deputy chairperson and the
+Manager and shall, if it purports to have been so authenticated, be officially and judicially
+noticed.
+(5) The Schedule shall have effect with respect to the procedure of the Board and
+related matters.
+Exemption from liability
+8A. No action, suit prosecution or other legal proceedings shall be brought or insti-
+tuted against a director personally in respect of an act done in good faith in the perform-
+ance or intended performance of his or her duties under this Act.
+Board shall appoint staff
+9. (1) The Board, with the approval of the Minister signified in writing, shall
+appoint—
+(a) a Manager of the Authority;
+(b) adeputy Manager.
+(2) The Board shall appoint such number of staff as it deems necessary or desirable
+for the efficient carrying out of the duties, and for the proper conduct and operation, of
+the Authority.
+(3) The Board may, subject to any conditions it may specify, discipline, suspend,
+dismiss, remove and revoke the appointment of staff.
+[Issue 1/2011] 10
+
+
+--- PAGE 10 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(4) The Board may, subject to any conditions it may specify, delegate to the Manager
+the authority to employ, suspend or dismiss staff.
+(5) Staff shall be entitled to receive such remuneration earned by reason of employ-
+ment with the Authority, and such allowances, if any, as the Board shall determine.
+(6) The Board may engage the services of any professionally or otherwise suitably
+qualified person as it deems necessary or expedient to employ for the purpose of assisting
+the Board in the performance of any duty or the exercise of any power of the Authority
+under this Act.
+Secondment of public officers and preservation of pensions
+10. (1) The Board may request the Public Service Commission to authorise the sec-
+ondment of public officers to the Authority.
+(2) A secondment in pursuance of subsection (1) shall be treated as a secondment to
+which Part III of the Schedule to the Pensions Act, Chapter 233, applies and service with
+the Authority shall be deemed to be pensionable office within the meaning of that Act.
+(3) The Authority shall, in respect of a public officer seconded under subsection (1),
+contribute to the Consolidated Fund such amount by way of pensionable emoluments and
+personal allowances for the purposes of the Pensions Act, Chapter 233, as the Minister
+may at any time determine.
+PART IV
+Power of Entry on and Acquisition of Land, etc.
+Control of water
+11. The control of every body of water shall be exercised by the Authority in a manner
+designed to achieve the purposes of this Act.
+Right to use water vested in the Authority
+12. The right to the use of every body of water is vested in the Authority and no person
+shall divert, abstract, obstruct or use water from a body of water otherwise than under or
+_ by virtue of the provisions of this Act.
+Right to use water may not be otherwise acquired
+13. Subject to section 12, no conveyance, lease or other instrument executed after the
+appointed day shall be effectual to convey, assure, demise, transfer or vest in any person
+other than the Authority any property or right or interest or privilege in respect of any
+body of water.
+Land acquisition
+14. (1) The Authority may, if the Board is satisfied that it is in the public interest to
+do so, purchase by private treaty land or other property for any purpose connected with
+the discharge of its duties; in particular, land or other property may be purchased for the
+protection, conservation, treatment, improvement, installation or use of water and sewer-
+age facilities.
+11 [Issue 1/2011]
+
+
+--- PAGE 11 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(2) At the request of the Board the Minister may promote legislation for the compul-
+sory acquisition by the Authority of private property reasonably required for the purposes
+of waterworks and sewerage works, and any acquisition of property under this provision
+shall be deemed to be an acquisition for public purposes.
+(3) In subsection (1), the expression “land” includes easements and other rights over
+land.
+(4) The right to acquire private property under subsection (2) shall include a right on
+the part of the Authority to acquire, subject to the provisions of section 42, any necessary
+way-leave.
+(5) For the purposes of the acquisition of a way-leave under this section, legislation
+providing for the compulsory acquisition of private property shall have effect and shall be
+construed as if reference contained therein to land includes, where the context so
+requires, reference to any necessary way-leave under this Act.
+(6) Where the Authority acquires a way-leave over land neither the owner nor the
+occupier nor any other person shall construct anything whatsoever whether temporary or
+permanent over or across works built or maintained by the Authority in the lawful exer-
+cise of its rights over the land without the written consent of the Authority.
+Power to enter upon property
+15. A person duly authorised by the Board may enter upon property to take measures
+for the purposes of protecting, conserving or regulating water, or preserving water from
+pollution or preventing the diversion, wastage, pollution, or illicit use, of water.
+Power to enter land
+16. (1) A person duly authorised by the Board may, at any reasonable time—
+(a) enter land for the purpose of performing any duty under this Act whether in
+relation to that land or not;
+(b) — enter land to inspect or survey it and inspect any articles thereon for the
+purpose of determining whether, and if so in what manner, any duty of the
+Authority is to be performed in relation to the land, or whether any statu-
+tory provision relating to such duty is being or has been complied with.
+(2) A person duly authorised under subsection (1) may be accompanied by such
+number of other persons, and may take with him or her such equipment, as is necessary.
+(3) No person authorised to enter land for the purposes specified in subsection (1)
+shall enter without first giving to the owner or occupier or the responsible person manag-
+ing or in charge of the land reasonable notice, whether written or verbal, of his or her
+intended visit and the purpose thereof:
+Provided that such person may enter without giving notice if he or she—
+(a) has reasonable cause to believe that some provision of this Act or subsidi-
+ary legislation made thereunder has been or is being or is about to be con-
+travened;
+[Issue 1/2011] 12
+
+
+--- PAGE 12 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(b) is unable to give notice within a reasonable time having regard to all the
+circumstances; or
+(c) _ has reasonable grounds for not giving notice,
+and provided further that persons entering, whether notice has been given or not, shall
+cause as little damage as possible and then only where the causing of damage is unavoid-
+able for the purpose of exercising the power under subsection (1).
+(4) Compensation shall be paid by the Authority to the owner of land or property to
+which actual injury is caused by measures taken under the powers conferred by this sec-
+tion or section 15 other than measures for the prevention of wastage, the stopping or
+removal of an unauthorised diversion, abstraction or obstruction, the prevention of pollu-
+tion of water or preventing an illicit connection or damage to the sewerage system. If the
+parties are not able to agree the amount of compensation, the amount shall be determined
+by arbitration in accordance with the Arbitration Act, Chapter 19.
+(5) A person who prevents, hinders or obstructs a duly authorised person from enter-
+ing land or upon any property or from lawfully carrying out his or her powers under this
+section or section 15 shall be guilty of an offence and liable, on summary conviction, to a
+fine of two thousand dollars or, in default of payment, to imprisonment for a term not
+exceeding six months.
+Power to construct works on land
+17. The Authority, after reasonable notice has been given to the landholder con-
+cerned, if it appears to the Board to be necessary to protect water resources or sewerage,
+may construct and maintain upon the land such works as it considers necessary or desir-
+able for—
+(a) the protection of the source or course of any body of water;
+(b) the disposal or control of flood water;
+(c) _ the conservation and storage of water;
+(d) the distribution, apportionment or measurement of water; or
+(e) the collection, treatment and disposal of sewerage.
+Compensation for land after construction of works
+18. The Authority shall pay compensation to the owner of land on which works are
+constructed under section 17. In assessing the amount of such compensation the Board
+shall take into consideration any benefit or betterment which has accrued to the land by
+the construction of the works and any adverse effect on such land caused by those works.
+Liability of Authority for damage to public works
+19. The Authority shall be liable for and shall make good all damage to any public
+works which may be occasioned by reason of the works of the Authority being defective
+in construction, or out of repair or of insufficient capacity and, if the public works are not
+made good after notice to do so has been served on the Authority by the Minister for the
+time being responsible for public works, he or she shall cause such damage to be made
+good and the cost of so doing shall be deducted from any rates or other monies owing or
+payable to the Authority by the Government.
+13 [Issue 1/2011]
+
+
+--- PAGE 13 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+Power to assess and impose charge upon person who benefits from construction of
+works
+20. (1) Where works are constructed under section 17 any person who, in the opin-
+ion of the Board, has benefited by the construction of such works shall, if so decided by
+resolution of the Board, pay to the Authority a charge for such benefit and the amount of
+the charge shall be assessed by the Board.
+(2) If a person aggrieved by a decision or assessment made under the provisions of this
+section lodges with the Board an objection, the matter shall be determined by arbitration.
+Protected areas
+21. Where the Minister, after consultation with or on the advice of the Authority, is
+satisfied that special measures are necessary for the protection of the public water
+resources in or derived from specified areas, he or she may by notice in the Gazette spec-
+ify and declare such area or any part thereof to be a protected area and may, by the same
+notice, require, regulate or prohibit the doing by any person in such specified area, or part
+thereof, of any act to the extent which he or she considers necessary for the protection of
+such area or for the protection of the water supplies obtained therefrom, and any person
+who knowingly contravenes the provisions of any such notice commits an offence against
+this section and is liable, on summary conviction, to a fine of five thousand dollars and to
+imprisonment for twelve months.
+Offence of obstruction
+22. A person who hinders or obstructs an employee or agent of the Authority in the
+performance of his or her functions under this Act is guilty of an offence and liable, on
+summary conviction, to a fine of one thousand dollars and to imprisonment for three
+months.
+Sewerage and sewage disposal
+23. (1) The Authority is empowered, in accordance with the provisions of this Act
+and the regulations, to provide such public sewers as may be necessary and to make such
+provision, by means of sewage disposal works, marine treatment or otherwise, as may be
+necessary for effectively dealing with sewage.
+(2) In discharging its functions under this section the Authority shall comply with the
+Public Health Act, Chapter 263, and the Public Health Regulations.
+(3) In particular, and without prejudice to the generality of subsection (1), the
+Authority may—
+(a) prepare schemes for sewerage and sewage disposal services and construct,
+maintain and operate such schemes;
+(6) design, construct, acquire, operate and maintain works for receiving, treat-
+ing and disposing of sewage;
+(c) control and regulate the disposal of sewage by means of treatment plants
+that are not part of any sewerage system of the Authority; and
+[Issue 1/2011] 14
+
+
+--- PAGE 14 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(d) disseminate information and advice with respect to the installation, mainte-
+nance and management of such sewage treatment plants as are mentioned
+in paragraph (c).
+(4) On the appointed day the sewerage authority constituted under the St. George’s
+Sewerage Act, Chapter No. 269 of 1958, is dissolved.
+(5) The Authority may adopt or take over the operation of any such sewage treatment
+plants as are mentioned in subsection (3)(c) on such terms as may be agreed between the
+Board and the owner thereof.
+(6) The Authority shall as soon as reasonably practicable make regulations governing
+the making of connections to public sewers, prohibiting or controlling the discharge of
+certain effluents to public sewers and prohibiting unauthorised connections to such sewers.
+PART V
+Financial Provisions
+Funds of the Authority and exemption from duties and taxes
+24. (1) The funds of the Authority shall include—
+(a) such sums of money as may be granted to the Authority by Parliament or
+any agency;
+(6) all amounts which, on the appointed day are at the disposal of or belong to
+the Central Water Commission established by section 4 of the Water Sup-
+ply Act, No. 23 of 1969;
+(c) sums accruing to the Authority by virtue of the performance of its duties
+under section 6(3)(/);
+(ad) any monies borrowed under the authority of section 6(3)(i);
+(e) such monies as the Ministry of Finance may, from time to time, approve as
+funds of the Authority.
+(2) All monies of the Authority, including monies raised on loan or grants received
+for the purposes of this Act, shall be paid into an account in the name of the Authority in
+accordance with directions of the Board.
+(3) All monies received by the Accountant-General for the Authority shall be paid
+into a fund to be called the National Water and Sewerage Authority Fund and shall be at
+the disposal of the Authority on demand.
+(4) Notwithstanding the provisions of any other written law, the Authority is
+exempted from payment of import duty, stamp duty, income tax, real property tax, and
+any levy, and any other duty or tax whatsoever.
+Estimates to be prepared and submitted
+25. The Board shall, within three months after the 30th of June in each year, cause to
+be prepared and submitted to the Minister a written estimate for the ensuing year contain-
+ing details—
+(a) _ of the anticipated revenue of the Authority from all sources which shall be
+separately specified therein;
+15 [Issue 1/2011]
+
+
+--- PAGE 15 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(6) of the anticipated expenditure of the Authority which shall be specified in
+respect of each of the separate activities of the Authority.
+Financial year of the Authority
+26. (1) The financial year of the Authority is the twelve month period beginning on
+the 1st day of January and ending on the 31st day of December.
+(2) The Board shall, not later than four months before the commencement of each
+financial year and in such form as the Minister requires, prepare in respect of the finan-
+cial year, and submit to the Minister, a proposal for a business plan for the financial year
+that must contain—
+(a) a statement of the Authority’s objectives and priorities in carrying out its
+responsibilities for the financial year and the following two financial years;
+(5) —acomprehensive business plan that—
+(i) shows how resources, including but not limited to financial resources,
+will be allocated to meeting the objectives and priorities of the
+Authority for the financial year, and
+(ii) includes pro forma financial statements as required by the Minister;
+(c) a comparison of the pro forma financial statements with the actual financial
+statements for the previous financial year;
+(d) a statement as to how the Authority proposes to measure its performance in
+carrying out its responsibilities in the financial year; and
+(e) any other information required by the Minister by written notice to the
+Board.
+(3) The Minister shall, on request of the Board, extend the time for submitting a pro-
+posal for a business plan.
+(4) The Minister shall, as soon as practicable, consider the proposal for a business
+plan and may—
+(a) approve the proposal as submitted;
+(b) with the approval of the Board, amend the proposal and approve it as
+amended; or
+(c) refer the proposal back to the Board with directions that the Board take any
+further action with respect to it that the Minister considers appropriate.
+(5) Where the Minister refers the proposal for a business plan back to the Board
+under subsection (4), he or she shall provide the Board with his or her reasons for not
+approving it.
+(6) A proposal for a business plan that is referred back to the Board under subsec-
+tion (4)(c) shall be resubmitted to the Minister as directed by the Minister and, when it is
+resubmitted, subsections (4) and (5) apply.
+(7) When a proposal in relation to a financial year is approved by the Minister, it
+becomes the business plan for that financial year.
+[Issue 1/2011] 16
+
+
+--- PAGE 16 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(8) The Board—
+(a) may, of its own motion, submit to the Minister a proposal to amend an
+approved business plan; and
+(6) shall, on request of the Minister and within the time required by the Minister,
+submit to the Minister a proposal to amend an approved business plan.
+(9) Subsections (4), (5), (6) and (7) apply to a proposal submitted to the Minister
+under subsection (8).
+Board obligated to implement business plan
+26A. The Board—
+(a) _ shall in each financial year implement the business plan for that financial
+year; and
+(b) establish a mechanism for monitoring the implementation of the business
+plan.
+Accounts
+26B. (1) The Board shall—
+(a) _ keep proper books of account of its income and other receipts and expendi-
+tures; and
+(d) ensure that—
+(i) all money received is promptly and properly brought to account,
+(ii) all payments out of its money are correctly made and properly
+authorised, and
+(iii) adequate control is maintained over its property and over the incur-
+ring of liabilities by the Authority.
+(2) The books of account kept under subsection (1) shall—
+(a) be sufficient to record and explain the Authority’s transactions;
+(b) enable the Authority’s financial position to be determined with reasonable
+accuracy at any time; and
+(c) _ be sufficient to enable financial statements to be prepared and audited in
+accordance with this section.
+(3) Within three months after the end of each financial year, the Authority shall cause
+to be prepared—
+(a) the following financial statements together with proper and adequate
+explanatory notes—
+(i) a statement of the assets and liabilities of the Authority at the end of
+the financial year,
+(ii) a statement of the revenue and expenditure of the Authority during
+the financial year,
+17 [Issue 1/2011]
+
+
+--- PAGE 17 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(iii) such other financial statements for the financial year as may be
+specified in writing by the Minister; and
+(b) an annual report of the Authority on the implementation of the business
+plan and such other matters as the Board considers advisable or the Minister
+directs.
+(4) Without delay, after the completion of the financial statements and the annual
+report, the Board shall furnish a copy of each to the Director of Audit.
+Audit by Director of Audit and report to the House of Representatives
+26C. (1) Not later than three months after receipt of the financial statements and
+annual report from the Board, the Director of Audit shall audit the financial statements in
+accordance with the Audit Act, Chapter 22A.
+(2) Without delay, after the completion of his or her audit of the Authority, the Direc-
+tor of Audit shall submit a copy of his or her report together with the financial statements
+and annual report to the Minister and the Board.
+(3) The Minister shall, not later than seven days after the House of Representatives
+first meets after he or she has received the report together with the financial statements
+and annual report of the Authority, lay it before the House of Representatives.
+(4) If the Minister of Finance fails to lay the report together with the financial state-
+ments and the annual report of the Authority before the House of Representatives in
+accordance with subsection (3), the Director of Audit shall transmit the report, the finan-
+cial statements and the annual report to the Speaker who shall, as soon as practicable,
+present them to the House of Representatives.
+(5) As soon as reasonably practicable after the report together with the financial
+statements and the annual report of the Authority have been laid before the House of
+Representatives, the Board shall cause the report, the financial statements and the annual
+report of the Authority to be published in the Gazette.
+PART VI
+Rates, Charges and Fees
+Water supply and sewerage areas
+27. (1) For the purposes of the performance of its duties under section 6(3)(A), the
+Authority shall recommend to the Minister the establishment of water supply and sewer-
+age areas by reference to defined limits or some other specific description.
+(2) The Minister shall, by Order, establish water supply and sewerage areas based on
+recommendations made to him or her under subsection (1) and every such Order shall
+contain reference to the defined limits or other specific description of each area that it
+concerns.
+[Issue 1/2011] 18
+
+
+--- PAGE 18 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(4) In determining rates, charges or fees the Board may take into consideration, whether
+generally or in respect of a particular period, any or all of the following matters—
+(a)
+(6)
+©
+@
+)
+(g)
+whether the Authority’s revenue derived from all its sources is sufficient to
+cover the Authority’s expenses;
+the interest payments to be made by the Authority;
+the repayments of principal to be made by the Authority on any loan
+secured under this Act;
+the amounts that the Board thinks ought to be set aside for the Authority’s
+purposes, including amounts for capital expenditure, depreciation and
+reserve funds;
+the purposes for which water supplied by the Authority is to be used;
+in the case of water supply, sums required to meet such proportion as the
+Board thinks fit of the annual costs of protecting, maintaining, improving
+or rehabilitating catchment areas from which water used by the Authority is
+obtained;
+the extent to which water supply and sewerage is used by the public and, in
+the case of any particular consumer, the extent to which that particular con-
+sumer makes use of the water supply or sewerage system.
+Separate or combined rates, etc., chargeable
+29. Separate or combined rates, charges or fees may be fixed for the various services
+provided by the Authority.
+General provisions regarding rates, charges and fees
+30. Without prejudice to any of the provisions of section 27, 28 or 29, rates, charges
+or fees in respect of water supply or sewerage services may be fixed—
+(a)
+(6)
+©)
+@
+(e)
+7)
+Fire service
+which impose a general rate in respect of all the land, houses and buildings
+situated within a particular area, so long as any part of that area is provided
+with water supply or sewerage services;
+which impose, in addition to a general rate, rates or charges in respect of all
+land, houses or buildings provided with sewerage or, if sewerage is not
+provided, wherever there exists a septic tank or similar disposal method;
+which impose a minimum annual rate or charge in respect of any land or
+class of land within a catchment area or sewerage area;
+in relation to water supplied as measured by meter;
+for the taking of water from any fire hydrant;
+for the issuing or renewal of any permit or licence by the Authority.
+31. There shall be no charge for water used by an official fire service in Grenada in
+cases of fire or any other emergency.
+[Issue 1/2011]
+20
+
+
+--- PAGE 19 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+by the Authority to, and does, pay the same, he or she shall be entitled to recover, as if it
+were additional rent, the sum paid by him or her if it was payable by the occupier in
+respect of the premises.
+(4) Unpaid rates and charges shall be a lien against the premises in respect of which
+the debt is incurred.
+PART VII
+Catchment Areas
+Defining limits of catchment areas and reservation of same
+36. (1) Catchment areas limited, marked out, or defined as such for waterworks exist-
+ing and vested in the Government on the appointed day remain vested in the Government.
+(2) Catchment areas for waterworks other than waterworks referred to in subsec-
+tion (1) may be determined in accordance with regulations made under this section by the
+Authority:
+Provided that a map showing clearly the dimensions and limits of such catchment
+areas shall be drawn and kept for public reference at the office of the Authority, and noti-
+fication of the completion of such map shall be published in the Gazette.
+No building to be erected on catchment area
+37. No building or any other construction used or intended to be used temporarily or
+permanently as a dwelling or for any other purpose shall be erected on any catchment
+area unless erected by or on behalf of the Authority for its own purposes.
+Catchment areas to be retained as forest reserves
+38. Catchment areas for the protection, conservation and maintenance of which the
+Chief Forestry Officer is responsible under any other written law shall be retained as for-
+est reserves.
+Catchment areas to be reserved for augmenting water supply
+39. If the Minister, upon the recommendation of the Board, decides that a catchment
+area is required for the purposes of preserving, extending or augmenting the water sup-
+ply, the Authority shall cause the dimensions and limits thereof to be mapped and publi-
+cised as provided in section 36(2); thereafter land not then already leased or sold by the
+Crown shall not be granted, devised or otherwise disposed of within such limits for any
+purpose whatsoever, save and except only to the Authority for its own purposes.
+Power of Authority to carry out works, etc., which concern a public body
+40. (1) The Authority, its agents and employees, after the giving of reasonable notice
+in writing to a public body, shall have the right and the power to construct or place any part
+of its works, projects, undertakings, or property, or to operate maintain and extend the same
+across, in, over, under, through or along any street or any land which may now or hereafter
+be the property of the public body without obtaining any franchise or permit therefor:
+Provided that the Authority shall obtain the consent of the Chief Technical Officer
+(Works) with respect to construction affecting any street:
+[Issue 1/2011] 29,
+
+
+--- PAGE 20 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+Compulsory acquisition of way-leave
+42. (1) Subject to and in accordance with the provisions of this section the Minister,
+if so requested by the Authority and if he or she deems it necessary or desirable, may
+acquire a way-leave over land to enable the Authority to perform a duty or exercise a
+power under this Act.
+(2) Whenever the Authority intend that a way-leave over land be acquired, the Board
+shall cause to be prepared—
+(a) a detailed description (in this section referred to as “the description”) of the
+proposed way-leave, including the period for which it is sought (if it is
+sought for a fixed period), its location, and the purposes intended to be
+secured by it; and
+(b) asurvey plan (in this section referred to as “the plan”) indicating the loca-
+tion of the intended way-leave.
+(3) The chairperson shall give notice of intention to acquire the way-leave—
+(a) _ by publication, in not less than three issues of a newspaper regularly pub-
+lished and circulating in Grenada, of a notice setting forth the description,
+naming a place where the plan may be inspected, and specifying the time
+(which shall not be less than fourteen days from the date of the last of the
+publications) and manner in which objections may be made; and
+(b) by causing a like notice to be exhibited conspicuously in a convenient place
+or places in or near the location of the proposed way-leave not later than
+the date of the last of the publications.
+(4) Within the time specified in the notice mentioned in subsection (3) any person
+claiming that the granting of the way-leave will cause him or her loss, damage or injury
+and wishing to object may give notice in writing to the Minister of his or her objection to
+the way-leave and the grounds thereof, whereupon the Minister shall consider the
+description and the plan and the notice of objection and either uphold or overrule the
+objection. When the Minister overrules an objection, he or she may nevertheless direct
+that the description and plan shall be modified in such manner as he or she may think fit.
+The decision of the Minister shall be final and shall not be called into question in any
+court.
+(5) When the plan and description have been approved by the Minister, the Authority
+may proceed to acquire the way-leave by publication in the Gazette of a notice that the
+way-leave, as so approved, has been acquired by the Authority on the date of publication.
+Power of entry of persons specially authorised by the Authority
+43. It shall be lawful for any person specially authorised by the Authority to enter
+upon land and premises on which the source of any water supply is located and also upon
+land or premises through or under which a pipe or the line of a pipe passes or is intended
+to pass. Such person shall not, if he or she has acted within the terms of his or her
+authorisation, be subject or liable to any action, suit or proceeding, fine, penalty or pun-
+ishment, for or in respect of such entry or his or her continuing presence upon such land
+or premises.
+[Issue 1/2011] 24
+
+
+--- PAGE 21 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+where the licence is for the abstraction of water, for the reason that a suit-
+able water supply from the Authority is already available or will be avail-
+able within a reasonable period.
+(5) There may be attached to a permit or licence any conditions or restrictions that
+are appropriate to prevent danger to health or danger of contamination of a source of
+water (including the well or borehole in question) or any prejudice to the reasonable con-
+servation, control or exploitation of underground sources of water; and, without prejudice
+to the generality of the foregoing all or any of the following conditions or restrictions
+may be attached to a licence to abstract underground water from a well or borehole
+namely—
+(@)
+(6)
+©
+@
+that the pumping of water out of the well or borehole shall be carried out at
+such times and at such rate as the Authority may, from time to time, fix;
+that the water from the well or borehole shall not be sold to any person or
+be used or permitted to be used by any person except the holder of the
+licence and members of his or her household or establishment;
+that the water shall not be used or permitted to be used for drinking
+(whether alone or as an ingredient in any food or drink) unless the permis-
+sion in writing of the Chief Medical Officer has been obtained, and that the
+water shall cease to be used or permitted to be used if the Chief Medical
+Officer certifies that the water is no longer fit for human consumption:
+Provided that nothing in this paragraph shall be deemed to prohibit use of
+the water for drinking as aforesaid if the water is first purified in accor-
+dance with the directions of the Chief Medical Officer and to his or her sat-
+isfaction;
+that samples of the water obtained shall be submitted to the Authority at
+any time the Authority may require.
+(6) The following shall be implied conditions of a permit or licence granted under
+this section, namely—
+(@
+(6)
+©
+that the Authority or any person authorised by the Authority shall have the
+right of access to, and the right to inspect, the well or borehole, or the
+pumping apparatus used in connection therewith, and the right to call for
+and obtain such data (including geological data) in connection with the
+well or borehole as it is reasonably practical to obtain;
+that the Authority shall have the right to cancel the permit or licence, or to
+vary or add to the conditions or restrictions thereon if its continuance in
+force without such variation or addition would be open to any of the objec-
+tions mentioned in subsection (4);
+that the permit or licence may be cancelled by the Authority in the event of
+a conviction under section 46 for the contravention of a restriction or con-
+dition expressed or implied in the permit or licence.
+(7) Every permit issued under this section shall be valid, unless previously cancelled,
+for such period as may be specified therein or for such further period as the Authority
+may allow in special circumstances.
+[Issue 1/2011]
+26
+
+
+--- PAGE 22 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+Exception as to shallow-dug wells, etc.
+49. Notwithstanding the preceding provisions of this Act—
+(a) a permit is not required to sink a shallow-dug well;
+(b) a permit is not required to deepen or convert a shallow-dug well unless
+after the well has been deepened or converted it will cease to be a shallow-
+dug well;
+(c) a licence is not required to abstract water from a shallow-dug well unless such
+well is used or intended to be used to provide water for drinking purposes;
+(da) a permit or licence is not required in relation to any well or borehole used
+or intended to be used for the disposal of sewage water or other waste when
+the depth of such well or borehole is not more than five feet:
+Provided that the Minister may, by Order, declare an area to be one within which
+permits and licences must be obtained even if the depth of any well or borehole as afore-
+said does not exceed five feet.
+Minister may give directions
+50. The Minister may, after consultation with the Board, give to the Board general
+guidelines or guidelines of a specific nature relating to the policy of the Government with
+regard to water supply and sewage disposal; and the Board shall be obliged to follow
+such guidelines in the performance of the duties and exercise of the powers of the
+Authority.
+Financial assistance for families earning low income
+51. (1) Subject to regulations under section 52 the Authority may not connect any
+person to the water supply or sewerage system free of charge.
+(2) The Minister may establish a fund, out of monies voted for the purpose by Par-
+liament, to assist families earning a low income to finance domestic water and sewerage
+installations; and the Minister may make regulations governing the operation of that fund.
+Regulations
+52. (1) The Authority may, with the approval in writing of the Minister, and subject
+as directed by the Minister, make regulations generally for the purposes of this Act and in
+particular for—
+(a) regulating and controlling the type, specification, location, construction,
+repair, removal or alteration of any water main, service pipe, valve, hydrant,
+standpipe, and any other work in or upon premises that form part of or are
+connected with waterworks;
+(6) regulating and controlling the manner in which the service pipes of users of
+water are to be connected to water mains;
+(c) regulating and controlling the location, construction, repair, removal or
+alteration of any sewer, drain-pipe, manhole, gully trap, and any other work
+in or upon premises that form part of or are connected with sewage works;
+[Issue 1/2011] 28
+
+
+--- PAGE 23 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(v) empowering the Authority, after reasonable notice given in writing, to dis-
+connect a water supply to any property in respect of which there remain
+unpaid, any water or sewerage rates; and
+(w) — any other matter or thing, whether similar to any of the foregoing or not,
+for the purpose of the better carrying out of the purposes and provisions of
+this Act.
+(2) Regulations under subsection (1) may be made applicable either generally or with
+respect to any specified water supply or sewerage area established under section 27(2) or
+to any defined part thereof, and for the purposes of this subsection “area” includes any
+area the limits or description of which have been varied pursuant to section 27(3).
+(3) If within three months after being directed by the Minister to make regulations the
+Authority fails to do so in relation to all or any of the matters specified in the direction
+the Minister may revoke the direction and may himself or herself make the regulations;
+and whilst those regulations are in force, the Authority may not make regulations con-
+cerning matters included in the regulations made by the Minister.
+(4) Regulations made by the Minister under subsection (3) shall have effect as if they
+had been made by the Authority.
+(5) Regulations made under this section shall bind the Government.
+(6) The Minister acting upon the advice of the Authority may, by Order, exempt any
+person from the regulations or any of them made under this section or any provision
+thereof.
+(7) Regulations made under this section may include provisions for—
+(a) _ the alteration, repair or replacement of any installation or fitting which con-
+travenes the regulations;
+(b) the disconnection of the water supply to any property in respect of which
+any contravention of the regulations has occurred.
+(8) Regulations made under this section may fix separate charges for separate ser-
+vices or facilities, or combined charges for more than one service or facility; and nothing
+in any enactment or in any agreement or arrangement shall operate, in relation to the
+Authority, so as to require the fixing of separate charges for separate services or facilities.
+(9) Regulations under this section may be given retrospective effect.
+Penalty if water or sewerage connection made without permission
+53. If it is found that a connection has been made between premises and the water
+supply or sewerage system without the permission of the Authority the owner and occu-
+pier of such premises shall in the absence of lawful excuse be guilty of an offence and
+jointly or severally liable, on summary conviction, to a fine of one thousand dollars.
+[Issue 1/2011] 30
+
+
+--- PAGE 24 ---
+
+CAP. 208
+National Water and Sewerage Authority Act
+(4) The Chairperson, or in his or her absence the Deputy Chairperson or the person
+elected by the directors present to act as Chairperson, shall preside at all meetings of the
+Board.
+(5) The quorum of the Board shall be five directors one of whom shall be the Chair-
+person or Deputy Chairperson.
+(6) The decisions of the Board shall be by a majority vote.
+Committees
+2. The Board may establish committees consisting of members of the Board and
+other persons to examine and report to it on any matter arising out of or connected with
+its duties under this Act.
+Tenure of directors
+3. A director shall hold office for two years and shall be eligible for re-appointment.
+Resignation of director
+4. (1) A director, other than the Chairperson, may at any time resign his or her
+office by written notice addressed to the Minister and transmitted through the Chairper-
+son and from the date of the receipt by the Minister of the notice the director ceases to be
+a director.
+(2) The Chairperson may at any time resign his or her office by one month’s written
+notice addressed to the Minister, and such resignation shall take effect on the expiration
+of one month from the date of the notice.
+Removal of director
+5. The Minister may at any time revoke the appointment of a director if that director—
+(a) _ is of unsound mind and is incapable of carrying out his or her duties;
+(b) is convicted of an offence involving dishonesty;
+(c) _ is guilty of misconduct in relation to his or her duties;
+(d) _ is absent from three consecutive meetings of the Board without permission
+of the Board; or
+(e) fails to carry out his or her duties under this Act.
+Declaration
+6. (1) A director who is in any way, whether directly or indirectly interested,
+whether pecuniary or otherwise, in a contract or proposed contract with the Authority or
+any other matter in which the Authority is concerned, shall declare the nature of his or
+her interest at the first meeting of the Board at which he or she is present.
+(2) A director shall not take part in any deliberation or decision of the Board with
+respect to any contract or proposed contract with the Authority or any other matter with
+which the Authority is concerned in which he or she is directly or indirectly interested,
+whether pecuniary or otherwise.
+[Issue 1/2011] 32
+
+
+--- PAGE 25 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+FIRST SCHEDULE
+Building Sewer Work
+SECOND SCHEDULE
+Construction Specifications
+NATIONAL WATER AND SEWERAGE AUTHORITY
+SEWERAGE REGULATIONS
+[SRO 40 of 1993.]
+[10th September, 1993.]
+Citation
+1. These Regulations may be cited as the National Water and Sewerage Authority
+Sewerage Regulations.
+Definitions
+2. In these Regulations—
+“biochemical oxygen demand” or “B.O.D.” means the quantity of oxygen utilised
+in the biochemical oxidation of organic matter under standard laboratory procedure in
+five days at twenty degrees Celsius, expressed in milligrams per litre;
+“building sewer” means any culvert, pipe and accessory extending from a building
+for carrying off sewage or industrial waste to a public sewer;
+“defined district” means an area served by a public sewer;
+“garbage” means solid waste from domestic or commercial preparation, cooking
+and dispensing of food, and from the handling, storage and sale of any produce;
+“industrial waste” means the liquid waste from industrial manufacturing proc-
+esses, trade or business;
+“natural outlet” means any outlet into a water course, pond, ditch, lake or other
+body of surface or ground of water;
+“public sewer” means any sanitary sewer under the control of or maintained by the
+Authority for carrying off sewage or industrial waste from a building sewer;
+“sanitary fixture” means any receptacle that receives water or other liquid or
+water-borne waste and discharges it into a drainage system to which the fixture is
+directly or indirectly connected;
+“sanitary sewer” means any artificial conduit used for the conveyance of sewage
+into which storm, surface and ground waters are not intentionally allowed to flow;
+[Issue 1/2011] 42
+
+
+--- PAGE 26 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+Premises required to be connected
+5. (1) The owner or occupier of any premises within a defined district shall connect all
+sources of waste water within the premises, excluding rain or surface water to a public sewer
+and the owner or occupier of the premises is liable to meet the costs of the connection.
+(2) The Authority may by notice in writing requite the owner or occupier of any
+premises referred to in subregulation (1) to connect the premises to the public sewer
+within a reasonable time not being less than ninety (90) days and not more than one hun-
+dred and eighty (180) days as is specified in the notice.
+(3) Where the notice referred to in subregulation (2) is not complied with, the Authority
+may carry out the necessary work and recover the expenses incurred from the person on
+whom the notice was served.
+(4) In proceedings for the recovery of expenses mentioned in subregulation (3) the
+court may consider—
+(a) whether any requirement contained in a notice referred to in this Regula-
+tion was reasonable; and
+(b) whether the expenses ought to be borne wholly or in part by some person
+other than the defendant to the proceedings, and the court may make such
+Order concerning the expenses or their apportionment as seems to the court
+to be just.
+(5) A court may not order expenses referred to in subregulation (4) or to any part of
+the expenses to be borne by any person other than the defendant to the proceedings unless
+the court is satisfied that the other person had due notice of the proceedings and an oppor-
+tunity to be heard.
+Ships to dispose of sewage into public sewer
+6. (1) Ships within the territorial waters of Grenada shall dispose of their sewage to
+the public sewer.
+(2) The Authority shall make provision at all harbours, ports and other havens within
+a defined district for the reception, storage and discharge to the public sewer of sewage
+from ships.
+Prohibition of discharge to natural outlets, etc.
+7. No person shall, in any defined district—
+(a) discharge sewage or industrial waste to any natural outlet, the ocean, or the
+land; or
+(6) construct new or rehabilitate old septic tanks, cesspools, privies or other
+facilities intended or used for the disposal of sewage or industrial waste.
+[Issue 1/2011] 44
+
+
+--- PAGE 27 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+(vii) cadmium,
+(viii) formaldehydes,
+(ix) lead,
+(x) mercury,
+(xi) phenols and their derivatives,
+(xii) sulphonamides,
+(xiii) zine compounds,
+(xiv) strong oxidising agents such as chromates, dichromates, permanga-
+nates and peroxide,
+(xv) chemical compounds producing toxic, inflammable or explosive
+gases, either upon acidification, alkalisation, oxidation, or reduction,
+(xvi) _ strong reducing agents such as nitrites, sulphides, sulphites and thi-
+osulphates;
+(d) highly coloured matters and those creating excessively offensive odours;
+and
+(e) waste of whatever kind that cannot be satisfactorily purified by the normal
+processes of sewage treatment.
+(5) No person shall discharge grease or any other noxious substance into any public
+sewer.
+(6) Where a sink at a hotel, restaurant, boarding house, laundry or other place where
+grease or other noxious substance is used is connected to the public sewer, the hotel, res-
+taurant, boarding house, laundry or place shall be provided with a grease trap of a design
+approved by the Authority.
+(7) Industrial waste from garages, motor vehicle service station, or places where
+mechanical vehicles or other machines are washed shall, before being discharged over a
+trapped gully basin, be drained through a properly constructed grease trap of a design
+approved by the Authority.
+(8) A grease trap shall be cleaned as often as may be necessary to maintain it in a
+sanitary condition.
+Food grinders
+10. Waste matter from commercial and domestic food-grinders and similar appli-
+ances may only be discharged into a public sewer with the permission of the Authority
+and under such conditions as the Authority determines.
+Swimming pools
+11. Waste water from swimming pools may only be discharged into the public sewer
+under such conditions and at such rate of flow as the Authority authorises in each particu-
+lar case.
+[Issue 1/2011] 46
+
+
+--- PAGE 28 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+with the requirements, and until the sewer becomes a public sewer, the Authority shall
+also repay him or her so much of any expenses reasonably incurred by him or her in
+repairing or maintaining the sanitary sewer that are attributable to the requirement.
+(4) Where any question arises as to the amount of any payment to be made to any
+person under subregulation (3) the question may, on his or her application, be determined
+by a court of summary jurisdiction, or if he or she so requires, be referred to arbitration.
+Private facilities
+15. Every owner or occupier of premises on which any sanitary sewer, water closet,
+urinal, slop sink or other sanitary installation has been installed or is being installed, and
+every person who is or has been concerned in the installation of any sanitary sewer, water
+closet, urinal, slop sink or other sanitary installation on any premises shall ensure that the
+sanitary sewer, water closet, urinal, slop sink or other installation has been or is being
+installed and is maintained in accordance with regulations.
+No work to be done without consent of Authority
+16. No person shall, without the consent of the Authority, install, alter or remove any
+building sewer, water closet, urinal, slop sink, bidet, lavatory, bath, cistern or any other
+sanitary fixture necessary for the conveyance of sewage, house slops, or waste water
+from any premises to a public sewer.
+Authority to keep maps
+17. (1) The Authority shall keep at its office, for inspection by any person at all rea-
+sonable hours, a map showing and distinguishing public sewers.
+(2) The Authority may not charge a fee for inspection of the map referred to in
+subregulation (1).
+Form of application
+18. (1) Any person, hereinafter referred to as “the applicant” who, being the owner
+or occupier of premises, wishes to execute at the premises any building sewer work, or to
+extend or alter old or new work, excluding the repair of leaks, connected with a public
+sewer shall apply to the Authority for permission to execute the work.
+(2) An application made pursuant to subregulation (1)—
+(a) must be in accordance with Form 1 or 2, as the case may be, in the First
+Schedule;
+(b) must be accompanied by plans in quadruplicate showing the connections,
+locations and fixtures from the junction of the public sewer to the termina-
+tion above the roof of the building; and
+(c) must be accompanied by any incidental information the Authority requires.
+[Issue 1/2011] 48
+
+
+--- PAGE 29 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+Plans to be property of the Authority
+22. Where the Authority approves plans under regulation 19 the Manager shall—
+(a) _ send one copy of the plans to the applicant;
+(b) send one to the Ministry of Health; and
+(c) __ retain the other copies for the purposes of the Authority.
+Approved plans to be adhered to
+23. (1) Plans approved by the Authority shall be strictly adhered to in the execution
+of the work.
+(2) No deviation from the approved plans may be made, except with the consent in
+writing of the Authority and any deviation sanctioned by him or her shall be clearly
+marked on the plan and initialled by the Authority.
+Levels to be referred to a fixed datum
+24. Where necessary, levels inscribed on plans mentioned in these Regulations shall
+be referred to the datum plane adopted by the Authority, and the Authority shall furnish
+on request the elevations of relevant available benchmarks.
+The level and position of the point of junction
+25. (1) The approximate level and position of the point of junction of proposed
+work with a public sewer shall be furnished by the Authority on application in writing
+being made to the Manager.
+(2) The exact level mentioned in subregulation (1) shall be determined by opening
+the ground if necessary and exposing the pipe; and building sewers shall be so designed
+as to connect properly with the point of junction.
+Notice prior to commencement of work
+26. (1) Where building sewer plans are approved by the Authority and returned to
+an applicant, the applicant shall, by notice in writing notify the Authority of the date on
+which the applicant intends to begin work.
+(2) After pipes and other appurtenances have been laid, but before pipe-trenches have
+been filled in or before the pipes and other appurtenances have been covered or concealed
+in any manner, the applicant or his or her accredited agent shall give notice in writing to
+the Authority that the work is ready for inspection.
+(3) The Authority shall within two working days of the receipt of the notice referred
+to in subregulation (2) arrange to have the work inspected and tested and if the work is
+approved, a certificate shall promptly be issued to the applicant who shall then cover the
+work.
+(4) Where before the expiration of the two working days mentioned in subregula-
+tion (3) any work has been covered before it has been inspected and approved, the appli-
+cant shall, at his or her own cost, upon the request of the Authority, immediately uncover
+the work.
+[Issue 1/2011] 50
+
+
+--- PAGE 30 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+Junction pipes installed by the Authority
+33. (1) A side junction for building sewers for each premises shall be inserted as
+required in all sewer mains in streets and lanes, and in every case a pipe shall be laid by
+or at the expense of the Authority from the sewer to a point on the boundary of the prem-
+ises at which point the junction of the building sewer shall be met with the pipe.
+(2) The position and level of each point of junction shall be fixed by the Manager.
+Junction pipe provided by the Authority
+34. (1) The Authority shall provide, free of cost, one junction and pipe from a main
+sewer for any one premises.
+(2) Where it is necessary to provide more than one junction and pipe mentioned in
+subregulation (1) the cost of the additional junction and pipe shall be borne by the applicant.
+(3) The applicant shall pay the cost of providing any additional junction and pipe
+before—
+(a) the plan relating to any work to be done in connection with the provision of
+the junction and pipe is returned to the applicant; and
+(b) any work in connection with the junction and pipe is carried out.
+(4) The position of every additional pipe mentioned in subregulation (1) as shown on
+the plan shall be indicated on the ground by the applicant.
+Penal clause
+35. Any person who contravenes any of these Regulations is guilty of an offence and
+is liable on summary conviction to a fine of one thousand dollars ($1,000) or imprison-
+ment for twelve months, or both; and in the case of a continuing offence to a further fine
+of one hundred dollars ($100) for each day or part thereof during which the offence con-
+tinues after a conviction is first obtained.
+FIRST SCHEDULE
+Building Sewer Work
+FORM 1
+NATIONAL WATER AND SEWERAGE
+AUTHORITY ACT
+NATIONAL WATER AND SEWERAGE AUTHORITY
+SEWERAGE REGULATIONS
+Application for Premises to be Connected to Public Sewer
+[Regulation 18(2).]
+1. Situation of premises
+Name and Number on Street
+2. Name and address of owner
+[Issue 1/2011] 52
+
+
+--- PAGE 31 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+FIRST SCHEDULE—continued
+FORM 2
+NATIONAL WATER AND SEWERAGE
+AUTHORITY ACT
+NATIONAL WATER AND SEWERAGE AUTHORITY
+SEWERAGE REGULATIONS
+Application for Extension, Alteration or Repair of Building Sewer
+[Regulation 18(2).]
+1. Situation of premises
+Name and Number on Street
+2. Name and address of owner
+3. Name of tenant and nature of...
+tenancy aoe
+4. Nature and extent of proposed ...
+extensions, alterations or
+repairs to closet, drain or
+sanitary appliances or fittings...
+5. Description ofwater closet and
+flush tank to be used
+6. Name of Sanitary Constructor
+by whom the work is to be
+executed
+General Remarks:
+Signature of Applicant
+Address
+Date
+The Manager
+National Water and Sewerage Authority
+Carenage
+ST. GEORGE’S
+Note.—Plans in quadruplicate showing the location of existing sewers, etc., and indicating the
+proposed alterations, or extensions, must accompany this application and no work must be
+commenced until such plans have been approved.
+[Issue 1/2011] 54
+
+
+--- PAGE 32 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+Joints of iron pipes
+7. (1) The joints of soil, waste and ventilating pipes, except where screw joints are used
+shall be formed with good quality jointing materials so that the joints are gas and water tight.
+Special jointing compounds, other than that specified by the pipe Manufacturer may, by per-
+mission of the Authority be used.
+(2) Flanged rubber compression ring or other mechanical joints when approved by the
+Authority may be used in special circumstances.
+Screwed Joints
+8. (1) In the case of screwed wrought iron or steel joints, red lead or other approved
+jointing compound approved by the Authority must be used in making the joint.
+(2) No paint or putty or running thread shall be used in making screwed joints.
+Copper pipes
+9. Joints on copper pipes may be of the soldered sleeve type or of such mechanical or
+compression type as the Authority may approve.
+Connection of iron and lead
+10. (1) All connections of lead pipes with iron pipes must be made with brass sleeve or
+ferrule of pipes the same size as the lead pipe.
+(2) The lead pipe shall be attached to the ferrule by a wiped solder joint.
+Location of inspection chambers
+11. Inspection chambers shall be provided in the following positions—
+(a) at every point in a building sewer where two or more sewer lines converge, but
+in certain cases, with the permission in writing of the Authority ground connec-
+tions may be made by means of “Y” branches;
+(b) at every point in a building sewer where any angle, bend, change in gradient or
+alteration in size occurs;
+(c) at every point in sewer line where there occurs a change in the type of pipe such
+as from metal to non-metal or from non-metal to metal pipes; and
+(d) at such points in the building sewer so that no part of the sewer line is more than
+fifteen metres from the centre of an inspection chamber unless a greater distance
+is approved in writing by the Authority.
+Design of Inspection chambers
+12. (1) Every inspection chamber or manhole—
+(a) must be not less than 900 millimetres long and 750 millimetres wide internally;
+and
+(b) must be fitted with a strong cast iron manhole frame and movable cover of ade-
+quate size, design and construction approved by the Authority and the cover
+must be fixed not lower than the surface of the adjoining ground or floor.
+(2) The frame must be securely bedded in cement mortar made of one part cement and
+three parts sand with an adequate fillet around the exterior so that the frame cannot move.
+(3) The minimum size of clear opening for covers on inspection chambers is 450 milli-
+metres.
+[Issue 1/2011] 56
+
+
+--- PAGE 33 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+Gully basins, etc., inside buildings
+18. (1) Where it is impracticable for any gully basin or inspection chamber to be
+located outside a building or where, on account of subsequent building extensions or altera-
+tions, a gully basin or inspection chamber falls within any building, covered way, or area, the
+gully basin must be fitted with a specially sealed cover.
+(2) The cover must be both water-tight and air-tight and must be bolted or so secured to
+the frame of the basin or chamber that it may be readily removed and replaced when necessary
+for inspection or cleaning.
+(3) Notwithstanding subregulations (1) and (2) cast iron access with bolted water-tight
+covers of a design approved by the Authority may be securely fitted in the chamber frame
+instead of a sealed cover.
+(4) Every sealed gully basin must be adequately ventilated by means of a pipe not less
+than 50 millimetres in internal diameter.
+Pipes in soft ground
+19. Where sewer pipes are run through soft or yielding ground they shall be laid with
+the use of such materials and methods and with such conditions as the Authority directs.
+Sewer not to be run under buildings
+20. No person shall lay a sewer under any building, unless the Authority certifies in
+writing that in its opinion it is impracticable or inexpedient to do otherwise.
+Sewer under buildings
+21. Where it is necessary to lay any sewer under a building the sewer shall be laid with
+the use of such materials and methods and with such conditions as the Authority directs.
+Building shall not be constructed over sewers
+22. No person shall construct a building over an existing building sewer except with the
+written permission of the Authority.
+No rain water pipe to be used for sewage
+23. A pipe used for carrying off rain water from the roof of any building shall not be
+used—
+(a) for carrying off sewage or industrial waste;
+(6) as ventilating pipe or antisiphon pipe for any sewer, soil pipe or trap.
+Rain water to be excluded from gullies and inlets
+24. (1) Gullies or other inlets connected with building sewers—
+(a) must be raised above ground level; and
+(b) must be surrounded with a concrete kerb not less than 150 millimetres high or
+otherwise protected against the ingress of rain or surface water.
+(2) Condensation and waste cooling water from air conditioning plants shall be dis-
+charged over trapped gully basins.
+(3) No rain or surface water shall be allowed to enter any sanitary sewer.
+[Issue 1/2011] 58
+
+
+--- PAGE 34 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+(2) Ventilating pipes shall be run separately or combined together to a point at least 600
+millimetres above the eaves of the building.
+Air-gap in fixtures
+30. An adequate air-gap of not less than 25 millimetres shall be provided through free
+atmosphere between the lowest opening from any pipe or delivery cock supplying water to
+any tank, plumbing fixture, or other device and the flood level rim or overflow of the receptacle.
+Pattern to be approved
+31. (1) All water closets, bidets, and fittings connected therewith must be of patterns,
+and conform with standards, approved by the Authority.
+(2) Each water closet—
+(a) must be capable of being kept clean with a flush of water of not more than
+9 litres for each time the closet is used; and
+(6) shall be provided with a trap or siphon, placed near to the pan and capable of
+maintaining a sufficient and effective water seal.
+Flush tank
+32. Every water closet shall be provided—
+(a) with a siphonic waste-preventing flush tank of satisfactory pattern; or
+(6) with a flush-tank of such other type as the Authority may approve.
+Maximum capacity
+33. No person shall use a tank giving a greater flush than 9 litres per closet.
+Stop cock
+34, The water service pipe to every flush tank shall be provided with a stop cock.
+Overflow pipe
+35. Every flush-tank shall be provided with an overflow pipe, which must be discharge
+into open air and not into soil pipe, and the overflow pipe shall be arranged in such a manner
+as to act as a warning pipe.
+Flushing valves
+36. Where automatic flushing valves or flushometres are used, the valves must be of a
+waste-preventing type and must be supplied by a pipe of adequate size from a tank giving a
+volume of water under sufficient head to allow the flushing valves to operate satisfactorily and
+discharge at each separate operation a volume of water of not more than 9 litres per closet.
+Water Closet in upper floors
+37. (1) Water closets installed on upper floors shall be connected to soil pipes of cast-
+iron, steel, PVC or such other materials as the Authority approves.
+(2) The soil pipes mentioned in subregulation (1)—
+(a) must be not less than 100 millimetres in diameter;
+(6) must be jointed with approved jointing material or compound;
+(c) must be, wherever practicable outside the building or in a pipe duct within the
+building.
+[Issue 1/2011] 60
+
+
+--- PAGE 35 ---
+
+CAP. 208
+National Water and Sewerage Authority Act — Subsidiary Legislation
+(2) A tank shall be so installed as to be separate and distinct from any tank for drinking
+water.
+(3) Every flush tank must be capable of being filled in not more than twenty-five min-
+utes or such less period as might be necessary for the satisfactory cleansing of the fixture; and
+the supply pipe to every such tank, shall be fitted with two effective stop cocks in easily
+accessible positions, one stop cock being of the screw down type for regulating the supply to
+the tank and the other for shutting off the supply.
+[Issue 1/2011] 62

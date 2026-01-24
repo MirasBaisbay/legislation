@@ -1,0 +1,2727 @@
+
+
+--- PAGE 1 ---
+
+Current to January 22, 2025
+Last amended on April 1, 2014
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Published by the Minister of Justice at the following address:
+http://laws-lois.justice.gc.ca
+Publié par le ministre de la Justice à l’adresse suivante :
+http://lois-laws.justice.gc.ca
+CANADA
+CONSOLIDATION
+Canada Water Act
+CODIFICATION
+Loi sur les ressources en eau du
+Canada
+R.S.C., 1985, c. C-11
+L.R.C. (1985), ch. C-11
+
+
+--- PAGE 2 ---
+
+Current to January 22, 2025
+Last amended on April 1, 2014
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+OFFICIAL STATUS
+OF CONSOLIDATIONS
+CARACTÈRE OFFICIEL
+DES CODIFICATIONS
+Subsections 31(1) and (2) of the Legislation Revision and
+Consolidation Act, in force on June 1, 2009, provide as
+follows:
+Les paragraphes 31(1) et (2) de la Loi sur la révision et la
+codification des textes législatifs, en vigueur le 1er juin
+2009, prévoient ce qui suit :
+Published consolidation is evidence
+Codifications comme élément de preuve
+31 (1) Every copy of a consolidated statute or consolidated
+regulation published by the Minister under this Act in either
+print or electronic form is evidence of that statute or regula-
+tion and of its contents and every copy purporting to be pub-
+lished by the Minister is deemed to be so published, unless
+the contrary is shown.
+31 (1) Tout exemplaire d'une loi codifiée ou d'un règlement
+codifié, publié par le ministre en vertu de la présente loi sur
+support papier ou sur support électronique, fait foi de cette
+loi ou de ce règlement et de son contenu. Tout exemplaire
+donné comme publié par le ministre est réputé avoir été ainsi
+publié, sauf preuve contraire.
+Inconsistencies in Acts
+Incompatibilité — lois
+(2) In the event of an inconsistency between a consolidated
+statute published by the Minister under this Act and the origi-
+nal statute or a subsequent amendment as certified by the
+Clerk of the Parliaments under the Publication of Statutes
+Act, the original statute or amendment prevails to the extent
+of the inconsistency.
+(2) Les dispositions de la loi d'origine avec ses modifications
+subséquentes par le greffier des Parlements en vertu de la Loi
+sur la publication des lois l'emportent sur les dispositions in-
+compatibles de la loi codifiée publiée par le ministre en vertu
+de la présente loi.
+LAYOUT
+The notes that appeared in the left or right margins are
+now in boldface text directly above the provisions to
+which they relate. They form no part of the enactment,
+but are inserted for convenience of reference only.
+MISE EN PAGE
+Les notes apparaissant auparavant dans les marges de
+droite ou de gauche se retrouvent maintenant en carac-
+tères gras juste au-dessus de la disposition à laquelle
+elles se rattachent. Elles ne font pas partie du texte, n’y
+figurant qu’à titre de repère ou d’information.
+NOTE
+NOTE
+This consolidation is current to January 22, 2025. The last
+amendments came into force on April 1, 2014. Any
+amendments that were not in force as of January 22,
+2025 are set out at the end of this document under the
+heading “Amendments Not in Force”.
+Cette codification est à jour au 22 janvier 2025. Les
+dernières 
+modifications 
+sont 
+entrées 
+en 
+vigueur
+le 1 avril 2014. Toutes modifications qui n'étaient pas en
+vigueur au 22 janvier 2025 sont énoncées à la fin de ce
+document sous le titre « Modifications non en vigueur ».
+
+
+--- PAGE 3 ---
+
+Current to January 22, 2025
+Last amended on April 1, 2014
+iii
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+TABLE OF PROVISIONS
+TABLE ANALYTIQUE
+An Act to provide for the management of the water
+resources of Canada, including research and the
+planning and implementation of programs relating
+to the conservation, development and utilization of
+water resources
+Loi pourvoyant à la gestion des ressources en eau du
+Canada, y compris la recherche, la planification et la
+mise en œuvre de programmes ayant trait à leur
+conservation, à leur mise en valeur et à leur
+utilisation
+Short Title
+Titre abrégé
+1
+Short title
+1
+Titre abrégé
+Interpretation
+Définitions
+2
+Definitions
+2
+Définitions
+Her Majesty
+Sa Majesté
+3
+Binding on Her Majesty
+3
+Obligation de Sa Majesté
+PART I
+Comprehensive Water Resource
+Management
+PARTIE I
+Gestion intégrale des ressources en
+eau
+Federal-Provincial Arrangements
+Arrangements fédéro-provinciaux
+4
+Establishment of intergovernmental committees, etc.
+4
+Constitution de comités intergouvernementaux ou
+d’autres organismes
+Comprehensive Water Resource
+Management Programs
+Programmes de gestion intégrale des
+ressources en eau
+5
+Federal-provincial water resource management
+programs
+5
+Programmes fédéro-provinciaux de gestion des
+ressources en eau
+6
+Federal water resource management programs
+6
+Programmes fédéraux de gestion des ressources en eau
+7
+Research, data collection and inventory establishment
+7
+Recherches, données et inventaires
+8
+Matters to be specified in agreements
+8
+Questions à préciser dans les accords
+PART II
+Water Quality Management
+PARTIE II
+Gestion qualitative des eaux
+Pollution of Waters
+Pollution des eaux
+9
+Prohibition
+9
+Interdiction
+10
+Application of section 9
+10
+Application de l’art. 9
+Federal-Provincial Water Quality
+Management
+Accords fédéro-provinciaux pour la gestion
+qualitative des eaux
+11
+Federal-provincial agreements
+11
+Accord fédéro-provincial
+12
+Matters to be specified in agreements
+12
+Questions à préciser dans les accords
+
+
+--- PAGE 4 ---
+
+Canada Water
+Ressources en eau du Canada
+TABLE OF PROVISIONS
+TABLE ANALYTIQUE
+Current to January 22, 2025
+Last amended on April 1, 2014
+iv
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Federal Water Quality Management
+Gestion qualitative des eaux par le
+gouvernement fédéral
+13
+Federal programs respecting inter-jurisdictional waters
+13
+Programmes fédéraux — Eaux relevant de plusieurs
+juridictions
+14
+Agent of Her Majesty
+14
+Qualité de mandataire de Sa Majesté
+Water Quality Management Agencies
+Organismes de gestion qualitative des eaux
+15
+Objects of agencies
+15
+Mission des organismes
+16
+Remuneration of members
+16
+Rémunération des membres
+17
+Operating account
+17
+Compte de fonctionnement
+Regulations
+Règlements
+18
+General
+18
+Règlements d’ordre général
+PART III
+[Repealed, R.S., 1985, c. 16 (4th
+Supp.), s. 141]
+PARTIE III
+[Abrogée, L.R. (1985), ch. 16 (4e
+suppl.), art. 141]
+PART IV
+General
+PARTIE IV
+Dispositions générales
+Inspectors and Analysts
+Inspecteurs et analystes
+25
+Designation
+25
+Désignation
+26
+Powers of inspectors
+26
+Pouvoirs des inspecteurs
+27
+Obstruction of inspector
+27
+Entrave
+Advisory Committees
+Comités consultatifs
+28
+Establishment and constitution of advisory committees
+28
+Constitution
+Public Information Program
+Programme d’information du public
+29
+Distribution of information
+29
+Diffusion de renseignements
+Offences and Punishment
+Infractions et peines
+30
+Punishment
+30
+Peine
+31
+Punishment
+31
+Peine
+32
+Order to refrain or to cease activity
+32
+Injonction
+33
+Offence of employee or agent
+33
+Perpétration par un agent ou mandataire
+34
+Limitation period
+34
+Prescription
+35
+Venue
+35
+Ressort
+36
+Action to enjoin not prejudiced by prosecution
+36
+Injonction prise par le procureur général
+Evidence
+Preuve
+37
+Certificate of analyst
+37
+Certificat de l’analyste
+Report to Parliament
+Rapport au Parlement
+38
+Annual report
+38
+Rapport annuel
+
+
+--- PAGE 5 ---
+
+Canada Water
+Ressources en eau du Canada
+TABLE OF PROVISIONS
+TABLE ANALYTIQUE
+Current to January 22, 2025
+Last amended on April 1, 2014
+v
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Financial
+Disposition financière
+39
+Loans, grants and contributions
+39
+Prêts, subventions et contributions
+
+
+--- PAGE 6 ---
+
+Current to January 22, 2025
+Last amended on April 1, 2014
+1
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+R.S.C., 1985, c. C-11
+L.R.C., 1985, ch. C-11
+An Act to provide for the management of
+the water resources of Canada, including
+research 
+and 
+the 
+planning 
+and
+implementation of programs relating to the
+conservation, development and utilization of
+water resources
+Loi pourvoyant à la gestion des ressources
+en eau du Canada, y compris la recherche, la
+planification et la mise en œuvre de
+programmes ayant trait à leur conservation,
+à leur mise en valeur et à leur utilisation
+Preamble
+Préambule
+WHEREAS the demands on the water resources of
+Canada are increasing rapidly and more knowledge
+is needed of the nature, extent and distribution of
+those resources, of the present and future demands
+thereon and of the means by which those demands
+may be met;
+AND WHEREAS pollution of the water resources of
+Canada is a significant and rapidly increasing threat
+to the health, well-being and prosperity of the people
+of Canada and to the quality of the Canadian environ-
+ment at large and as a result it has become a matter
+of urgent national concern that measures be taken to
+provide for water quality management in those areas
+of Canada most critically affected;
+AND WHEREAS Parliament desires that, in addition,
+comprehensive programs be undertaken by the Gov-
+ernment of Canada and by the Government of
+Canada in cooperation with provincial governments,
+in accordance with the responsibilities of the federal
+government and each of the provincial governments
+in relation to water resources, for research and plan-
+ning with respect to those resources and for their
+conservation, development and utilization to ensure
+their optimum use for the benefit of all Canadians;
+Considérant :
+que les besoins de ressources en eau du Canada aug-
+mentent rapidement et que s’impose une connais-
+sance plus approfondie de la nature, de l’étendue et
+de la répartition de ces ressources, des besoins pré-
+sents et futurs de ressources en eau et des moyens
+de les satisfaire;
+que la pollution des ressources en eau du Canada
+constitue, pour la santé, le bien-être et la prospérité
+de la population du Canada et pour la qualité du mi-
+lieu canadien en général, une menace sérieuse qui
+s’accroît rapidement et qu’en conséquence il est de-
+venu urgent, dans l’intérêt national, de prendre des
+mesures en vue de pourvoir à une gestion de la qua-
+lité des eaux dans les régions les plus sérieusement
+atteintes du Canada;
+que le Parlement souhaite, en outre, que des pro-
+grammes d’ensemble soient entrepris par le gouver-
+nement fédéral agissant seul ou en collaboration
+avec les gouvernements provinciaux, en conformité
+avec les attributions respectives du gouvernement fé-
+déral et de chacun des gouvernements provinciaux
+relativement aux ressources en eau, en vue de la re-
+cherche et de la planification relatives à ces res-
+sources et en vue de leur conservation, de leur mise
+en valeur et de leur utilisation afin d’en assurer l’em-
+ploi optimal au profit de tous les Canadiens,
+NOW, THEREFORE, Her Majesty, by and with the ad-
+vice and consent of the Senate and House of Com-
+mons of Canada, enacts as follows:
+Sa Majesté, sur l’avis et avec le consentement du Sé-
+nat et de la Chambre des communes du Canada,
+édicte :
+
+
+--- PAGE 7 ---
+
+Canada Water
+Ressources en eau du Canada
+Short Title
+Titre abrégé
+Sections 1-2
+Articles 1-2
+Current to January 22, 2025
+Last amended on April 1, 2014
+2
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Short Title
+Titre abrégé
+Short title
+Titre abrégé
+1 This Act may be cited as the Canada Water Act.
+R.S., c. 5(1st Supp.), s. 1.
+1 Loi sur les ressources en eau du Canada.
+S.R., ch. 5(1er suppl.), art. 1.
+Interpretation
+Définitions
+Definitions
+Définitions
+2 (1) In this Act,
+agency means a water quality management agency the
+incorporation of which is procured or that is named pur-
+suant to section 11 or 13; (organisme)
+analyst means an analyst designated pursuant to sub-
+section 25(1); (analyste)
+boundary waters means the waters from main shore to
+main shore of the lakes and rivers and connecting water-
+ways, or the portions thereof, along which the interna-
+tional boundary between the United States and Canada
+passes, including all bays, arms, and inlets thereof, but
+not including tributary waters which in their natural
+channels would flow into such lakes, rivers, and water-
+ways, or waters flowing from such lakes, rivers, and wa-
+terways, or the waters of rivers flowing across the bound-
+ary; (eaux limitrophes)
+federal agency means a water quality management
+agency that is named pursuant to section 13; (orga-
+nisme fédéral)
+federal waters means — other than in Yukon and the
+Northwest Territories — waters under the exclusive leg-
+islative jurisdiction of Parliament and
+(a) in Yukon, waters in a federal conservation area as
+defined in section 2 of the Yukon Act, and
+(b) in the Northwest Territories, waters other than
+those in respect of which the Legislature of the North-
+west Territories may make laws under paragraph
+18(1)(n) of the Northwest Territories Act; (eaux fé-
+dérales)
+inspector means an inspector designated pursuant to
+subsection 25(1); (inspecteur)
+inter-jurisdictional waters means any waters, whether
+international, boundary or otherwise, that, whether
+wholly situated in a province or not, significantly affect
+the quantity or quality of waters outside the province;
+(eaux relevant de plusieurs juridictions)
+2 (1) Les définitions qui suivent s’appliquent à la pré-
+sente loi.
+analyste Personne désignée à ce titre conformément au
+paragraphe 25(1). (analyst)
+déchet
+a) Toute substance qui, si elle était ajoutée à l’eau, al-
+térerait ou contribuerait à altérer la qualité de celle-ci
+au point d’en rendre l’utilisation nocive pour l’homme
+ou pour les animaux, poissons ou plantes utiles à ce
+dernier;
+b) toute eau qui contient une substance en une quan-
+tité ou concentration telle — ou qui, à partir de son
+état naturel, a été traitée ou transformée par la chaleur
+ou d’autres moyens d’une façon telle — que, si elle
+était ajoutée à une autre eau, elle altérerait ou contri-
+buerait à altérer la qualité de celle-ci dans la mesure
+décrite à l’alinéa a). (waste)
+eaux fédérales Eaux qui relèvent exclusivement de la
+compétence législative du Parlement. Ne sont cependant
+visées :
+a) en ce qui touche le Yukon, que les eaux situées
+dans les limites d’une aire de conservation fédérale au
+sens de l’article 2 de la Loi sur le Yukon;
+b) en ce qui touche les Territoires du Nord-Ouest, que
+les eaux autres que celles à l’égard desquelles la Légis-
+lature des Territoires du Nord-Ouest a compétence
+pour légiférer en vertu de l’alinéa 18(1)n) de la Loi sur
+les Territoires du Nord-Ouest. (federal waters)
+eaux internationales Eaux des fleuves et rivières qui
+traversent la frontière entre les États-Unis et le Canada.
+(international waters)
+eaux limitrophes Eaux de terre ferme à terre ferme des
+lacs, fleuves et rivières et des voies d’eau qui les relient —
+ou les parties de ces eaux — que longe la frontière inter-
+nationale entre les États-Unis et le Canada, y compris les
+baies, les bras et les anses qu’elles forment. Sont
+
+
+--- PAGE 8 ---
+
+Canada Water
+Ressources en eau du Canada
+Interpretation
+Définitions
+Section 2
+Article 2
+Current to January 22, 2025
+Last amended on April 1, 2014
+3
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+international waters means waters of rivers that flow
+across the international boundary between the United
+States and Canada; (eaux internationales)
+Minister means the Minister of the Environment; (mi-
+nistre)
+prescribed means prescribed by regulation; (Version
+anglaise seulement)
+waste means
+(a) any substance that, if added to any water, would
+degrade or alter or form part of a process of degrada-
+tion or alteration of the quality of that water to an ex-
+tent that is detrimental to their use by man or by any
+animal, fish or plant that is useful to man, and
+(b) any water that contains a substance in such a
+quantity or concentration, or that has been so treated,
+processed or changed, by heat or other means, from a
+natural state that it would, if added to any other water,
+degrade or alter or form part of a process of degrada-
+tion or alteration of the quality of that water to the ex-
+tent described in paragraph (a); (déchet)
+water quality management means any aspect of water
+resource management that relates to restoring, maintain-
+ing or improving the quality of water; (gestion qualita-
+tive des eaux)
+water resource management means the conservation,
+development and utilization of water resources and in-
+cludes, with respect thereto, research, data collection and
+the maintaining of inventories, planning and the imple-
+mentation of plans, and the control and regulation of wa-
+ter quantity and quality. (gestion des ressources en
+eau)
+toutefois exclues de la présente définition les eaux des af-
+fluents qui, dans leur cours naturel, se verseraient dans
+ces lacs, fleuves, rivières et voies d’eau, les eaux coulant
+de ces lacs, fleuves, rivières et voies d’eau, ainsi que les
+eaux des fleuves et rivières traversant la frontière.
+(boundary waters)
+eaux relevant de plusieurs juridictions Eaux — inter-
+nationales, limitrophes ou autres — situées entièrement
+dans une province ou non, qui affectent sensiblement la
+quantité ou la qualité des eaux se trouvant à l’extérieur
+de la province. (inter-jurisdictional waters)
+gestion des ressources en eau Conservation, mise en
+valeur et utilisation des ressources en eau, y compris, en
+ce qui les concerne, la recherche, la collecte de données et
+la mise à jour d’inventaires, la planification et la mise en
+œuvre de plans et le contrôle et la réglementation de la
+quantité et de la qualité des eaux. (water resource man-
+agement)
+gestion qualitative des eaux Tout aspect de la gestion
+des ressources en eau qui concerne la restauration, la
+conservation ou l’amélioration de la qualité des eaux.
+(water quality management)
+inspecteur Personne désignée à ce titre conformément
+au paragraphe 25(1). (inspector)
+ministre Le ministre de l’Environnement. (Minister)
+organisme Organisme de gestion de la qualité des eaux
+constitué en personne morale ou nommé conformément
+à l’article 11 ou 13. (agency)
+organisme fédéral Organisme de gestion qualitative des
+eaux nommé conformément à l’article 13. (federal agen-
+cy)
+Prescribed substances and certain water deemed
+waste
+Assimilation à déchets
+(2) Without limiting the generality of the definition
+waste in this Act,
+(a) any substance or any substance that is part of a
+class of substances prescribed pursuant to subpara-
+graph 18(1)(a)(i),
+(b) any water that contains any substance or any sub-
+stance that is part of a class of substances in a quantity
+or concentration that is equal to or in excess of a
+quantity or concentration prescribed in respect of that
+substance or class of substances pursuant to subpara-
+graph 18(1)(a)(ii), and
+(2) Sans que soit limitée la portée générale de la défini-
+tion de déchet, sont assimilées à des déchets, pour l’ap-
+plication de la présente loi :
+a) toute substance désignée par règlement aux termes
+du sous-alinéa 18(1)a)(i), ou toute substance faisant
+partie d’une catégorie de telles substances;
+b) toute eau qui contient une substance ou toute sub-
+stance faisant partie d’une catégorie de substances en
+une quantité ou concentration qui est égale ou supé-
+rieure à une quantité ou concentration réglementaire
+prévue pour cette substance ou catégorie de sub-
+stances aux termes du sous-alinéa 18(1)a)(ii);
+
+
+--- PAGE 9 ---
+
+Canada Water
+Ressources en eau du Canada
+Interpretation
+Définitions
+Sections 2-4
+Articles 2-4
+Current to January 22, 2025
+Last amended on April 1, 2014
+4
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(c) any water that has been subjected to a treatment,
+process or change prescribed pursuant to subpara-
+graph 18(1)(a)(iii),
+shall, for the purposes of this Act, be deemed to be waste.
+R.S., 1985, c. C-11, s. 2; 2002, c. 7, s. 115; 2014, c. 2, s. 6.
+c) toute eau qui a été soumise à un traitement ou à
+une transformation désignés par règlement aux
+termes du sous-alinéa 18(1)a)(iii).
+L.R. (1985), ch. C-11, art. 2; 2002, ch. 7, art. 115; 2014, ch. 2, art. 6.
+Her Majesty
+Sa Majesté
+Binding on Her Majesty
+Obligation de Sa Majesté
+3 This Act is binding on Her Majesty in right of Canada
+or a province.
+R.S., c. 5(1st Supp.), s. 2.
+3 La présente loi lie Sa Majesté du chef du Canada ou
+d’une province.
+S.R., ch. 5(1er suppl.), art. 2.
+PART I
+PARTIE I
+Comprehensive Water Resource
+Management
+Gestion intégrale des
+ressources en eau
+Federal-Provincial Arrangements
+Arrangements fédéro-provinciaux
+Establishment of intergovernmental committees, etc.
+Constitution de comités intergouvernementaux ou
+d’autres organismes
+4 For the purpose of facilitating the formulation of poli-
+cies and programs with respect to the water resources of
+Canada and to ensure the optimum use of those re-
+sources for the benefit of all Canadians, having regard to
+the distinctive geography of Canada and the character of
+water as a natural resource, the Minister may, with the
+approval of the Governor in Council, enter into an ar-
+rangement with one or more provincial governments to
+establish, on a national, provincial, regional, lake or riv-
+er-basin basis, intergovernmental committees or other
+bodies
+(a) to maintain continuing consultation on water re-
+source matters and to advise on priorities for research,
+planning, conservation, development and utilization
+relating thereto;
+(b) to advise on the formulation of water policies and
+programs; and
+(c) to facilitate the coordination and implementation
+of water policies and programs.
+R.S., c. 5(1st Supp.), s. 3.
+4 En vue de faciliter l’élaboration d’une politique et de
+programmes en ce qui concerne les ressources en eau du
+Canada et d’assurer leur utilisation optimale au profit de
+tous les Canadiens, compte tenu de la géographie parti-
+culière du Canada et de la nature même de l’eau en tant
+que ressource naturelle, le ministre peut, avec l’approba-
+tion du gouverneur en conseil, conclure un arrangement
+avec un ou plusieurs gouvernements provinciaux en vue
+d’établir, à l’échelle nationale, provinciale, régionale ou
+hydrographique, des comités intergouvernementaux ou
+autres organismes ayant pour objet :
+a) de poursuivre des consultations constantes sur les
+questions ayant trait aux ressources en eau et de don-
+ner des avis sur les priorités afférentes à la recherche,
+à la planification, à la conservation, à la mise en valeur
+et à l’utilisation en la matière;
+b) de donner des avis sur l’élaboration de la politique
+et des programmes afférents à l’eau;
+c) de faciliter la coordination et la mise en œuvre
+d’une politique et de programmes afférents à l’eau.
+S.R., ch. 5(1er suppl.), art. 3.
+
+
+--- PAGE 10 ---
+
+Canada Water
+Ressources en eau du Canada
+PART I Comprehensive Water Resource Management
+PARTIE I Gestion intégrale des ressources en eau
+Comprehensive Water Resource Management Programs
+Programmes de gestion intégrale des ressources en eau
+Sections 5-6
+Articles 5-6
+Current to January 22, 2025
+Last amended on April 1, 2014
+5
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Comprehensive Water Resource
+Management Programs
+Programmes de gestion intégrale des
+ressources en eau
+Federal-provincial water resource management
+programs
+Programmes fédéro-provinciaux de gestion des
+ressources en eau
+5 Subject to this Act, the Minister may, with the ap-
+proval of the Governor in Council, with respect to any
+waters where there is a significant national interest in the
+water resource management thereof, enter into agree-
+ments with one or more provincial governments having
+an interest in the water resource management of those
+waters, providing for programs to
+(a) establish and maintain an inventory of those wa-
+ters,
+(b) collect, process and provide data on the quality,
+quantity, distribution and use of those waters,
+(c) conduct research in connection with any aspect of
+those waters or provide for the conduct of any such re-
+search by or in cooperation with any government, in-
+stitution or person,
+(d) formulate comprehensive water resource manage-
+ment plans, including detailed estimates of the cost of
+implementation of those plans and of revenues and
+other benefits likely to be realized from the implemen-
+tation thereof, based on an examination of the full
+range of reasonable alternatives and taking into ac-
+count views expressed at public hearings and other-
+wise by persons likely to be affected by implementa-
+tion of the plans,
+(e) design projects for the efficient conservation, de-
+velopment and utilization of those waters, and
+(f) implement any plans or projects referred to in
+paragraphs (d) and (e),
+and establishing or naming joint commissions, boards or
+other bodies empowered to direct, supervise and coordi-
+nate those programs.
+R.S., c. 5(1st Supp.), s. 4.
+5 Sous réserve des autres dispositions de la présente loi,
+le ministre peut, avec l’approbation du gouverneur en
+conseil, relativement à n’importe quelles eaux, lorsque la
+gestion des ressources en eau y afférentes est une ques-
+tion d’intérêt national importante, conclure avec un ou
+plusieurs gouvernements provinciaux ayant un intérêt
+dans la gestion des ressources en eau y afférentes, des ac-
+cords relatifs à des programmes visant :
+a) l’établissement et la mise à jour d’un inventaire de
+ces eaux;
+b) la collecte, le traitement et la fourniture de données
+sur la qualité, la quantité, la répartition et l’utilisation
+de ces eaux;
+c) des recherches reliées à tout aspect concernant ces
+eaux et faites par le ministre ou confiées à un gouver-
+nement, une institution ou une personne ou effectuées
+en collaboration avec eux;
+d) la formulation de plans de gestion intégrale des
+ressources en eau, comportant notamment les prévi-
+sions détaillées du coût de mise en œuvre de ces plans
+et celles des recettes et autres profits qui seront vrai-
+semblablement générés par cette mise en œuvre, fon-
+dés sur un examen de toute la gamme des possibilités
+raisonnables et tenant compte des avis exprimés, no-
+tamment lors d’audiences publiques, par des per-
+sonnes susceptibles d’être touchées par la mise en
+œuvre de ces plans;
+e) la préparation de projets pour la conservation, la
+mise en valeur et l’utilisation efficaces de ces eaux;
+f) la mise en œuvre des plans ou projets visés aux ali-
+néas d) et e).
+Ces accords peuvent en outre pourvoir à la constitution
+et à la nomination de commissions, offices ou autres or-
+ganismes mixtes chargés de diriger, contrôler et coordon-
+ner ces programmes.
+S.R., ch. 5(1er suppl.), art. 4.
+Federal water resource management programs
+Programmes fédéraux de gestion des ressources en
+eau
+6 (1) Subject to subsection (2), the Minister shall, with
+the approval of the Governor in Council, undertake di-
+rectly,
+6 (1) Sous réserve du paragraphe (2), le ministre, avec
+l’approbation du gouverneur en conseil, entreprend di-
+rectement :
+
+
+--- PAGE 11 ---
+
+Canada Water
+Ressources en eau du Canada
+PART I Comprehensive Water Resource Management
+PARTIE I Gestion intégrale des ressources en eau
+Comprehensive Water Resource Management Programs
+Programmes de gestion intégrale des ressources en eau
+Sections 6-8
+Articles 6-8
+Current to January 22, 2025
+Last amended on April 1, 2014
+6
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(a) with respect to any federal waters, any program
+described in any of paragraphs 5(a) to (e) and the im-
+plementation of any program described in paragraph
+5(d) or (e);
+(b) with respect to any inter-jurisdictional waters
+where there is a significant national interest in the wa-
+ter resource management thereof, any program de-
+scribed in paragraph 5(d) or (e); and
+(c) with respect to any international or boundary wa-
+ters where there is a significant national interest in the
+water resource management thereof, any program de-
+scribed in paragraph 5(d) or (e) and the implementa-
+tion of any such program.
+a) à l’égard d’eaux fédérales, tout programme visé aux
+alinéas 5a) à e) et la mise en œuvre de tout programme
+visé à l’alinéa 5d) ou e);
+b) à l’égard d’eaux relevant de plusieurs juridictions,
+lorsque la gestion des ressources en eau y afférentes
+est une importante question d’intérêt national, tout
+programme visé à l’alinéa 5d) ou e);
+c) à l’égard d’eaux internationales ou limitrophes,
+lorsque la gestion des ressources en eau y afférentes
+est une importante question d’intérêt national, tout
+programme visé à l’alinéa 5d) ou e) et la mise en
+œuvre de tout programme de ce genre.
+Condition to approval of federal programs
+Condition préalable à l’approbation des programmes
+fédéraux
+(2) The Governor in Council shall not approve the un-
+dertaking by the Minister of any program pursuant to
+paragraph (1)(b) or (c) unless the Governor in Council is
+satisfied that all reasonable efforts have been made by
+the Minister to reach an agreement under section 5 with
+the one or more provincial governments having an inter-
+est in the water resource management of the waters in
+question and that those efforts have failed.
+(2) Le gouverneur en conseil ne peut approuver le lance-
+ment par le ministre d’un programme en application de
+l’alinéa (1)b) ou c) sans être convaincu que celui-ci a fait
+tous les efforts voulus pour en arriver à un accord en ver-
+tu de l’article 5 avec le gouvernement provincial ou les
+gouvernements provinciaux ayant un intérêt dans la ges-
+tion des ressources en eau afférente aux eaux concernées
+et que ces efforts ont échoué.
+Minister to consider priorities
+Examen des priorités par le ministre
+(3) In undertaking any programs pursuant to subsection
+(1), the Minister shall take into account any priorities for
+development recommended pursuant to paragraph 4(a).
+R.S., c. 5(1st Supp.), s. 5.
+(3) Le ministre qui entreprend des programmes en ap-
+plication du paragraphe (1) doit tenir compte des priori-
+tés de développement recommandées au titre de l’alinéa
+4a).
+S.R., ch. 5(1er suppl.), art. 5.
+Research, data collection and inventory establishment
+Recherches, données et inventaires
+7 The Minister may conduct research, collect data and
+establish inventories respecting any aspect of water re-
+source management or the management of any specific
+water resources or provide for the conduct of any such
+research, data collection or inventory establishment by or
+in cooperation with any government, institution or per-
+son.
+R.S., c. 5(1st Supp.), s. 6.
+7 Le ministre peut faire des recherches, recueillir des
+données et dresser des inventaires relativement à tout as-
+pect de la gestion des ressources en eau ou de la gestion
+de certaines ressources en eau ou confier ces travaux à un
+gouvernement, une institution ou une personne ou les ef-
+fectuer en collaboration avec eux.
+S.R., ch. 5(1er suppl.), art. 6.
+Matters to be specified in agreements
+Questions à préciser dans les accords
+8 (1) Where, pursuant to section 5, the Minister enters
+into an agreement with one or more provincial govern-
+ments, the agreement shall, where applicable, in respect
+of each program that is the subject of the agreement,
+specify
+(a) the respective parts of the program to be under-
+taken by the Minister and the provincial government
+8 (1) L’accord conclu par le ministre avec un ou plu-
+sieurs gouvernements provinciaux en application de l’ar-
+ticle 5 doit, le cas échéant, relativement à chacun des pro-
+grammes qui en fait l’objet, préciser :
+a) les parties du programme que devront entre-
+prendre respectivement le ministre et le gouverne-
+ment provincial ou les gouvernements provinciaux,
+ainsi que les dates et modalités d’exécution de ces par-
+ties;
+
+
+--- PAGE 12 ---
+
+Canada Water
+Ressources en eau du Canada
+PART I Comprehensive Water Resource Management
+PARTIE I Gestion intégrale des ressources en eau
+Comprehensive Water Resource Management Programs
+Programmes de gestion intégrale des ressources en eau
+Section 8
+Article 8
+Current to January 22, 2025
+Last amended on April 1, 2014
+7
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+or governments and the times at which and the man-
+ner in which those parts of the program are to be car-
+ried out;
+(b) the proportions of the cost of the respective parts
+of the program that are to be paid by the Minister and
+the provincial government or governments and the
+times at which amounts representing those propor-
+tions are to be paid;
+(c) the labour, land and materials that are to be sup-
+plied in relation to the respective parts of the program
+by the Minister and the provincial government or gov-
+ernments;
+(d) the proportions in which any compensation
+awarded or agreed to be paid to any body or person
+suffering loss as a result of the program is to be paid
+by the Minister and the provincial government or gov-
+ernments;
+(e) the amount of any loan or grant, constituting part
+or all of the cost of the program to be paid by the Min-
+ister, that is to be made or paid by the Minister to the
+provincial government or governments, and the man-
+ner in which the terms and conditions of the loan or
+grant are to be determined;
+(f) the authority or authorities, whether an agent or
+agents of Her Majesty in right of Canada or a province
+or otherwise as may be agreed to be appropriate, that
+will be responsible for the undertaking, operation or
+maintenance of projects that form part of the pro-
+gram;
+(g) the respective proportions of the revenues from
+the program that are to be paid to the Minister and the
+provincial government or governments; and
+(h) the terms and conditions relating to the undertak-
+ing, operation and maintenance of the program.
+b) les fractions du coût des parties du programme qui
+devront être versées respectivement par le ministre et
+le gouvernement provincial ou les gouvernements pro-
+vinciaux et les dates de versement des montants cor-
+respondant à ces fractions;
+c) la main-d’œuvre, le matériel et les biens-fonds que
+devront fournir respectivement, pour les parties du
+programme, le ministre et le gouvernement provincial
+ou les gouvernements provinciaux;
+d) les proportions dans lesquelles le dédommagement
+accordé à un organisme ou à une personne lésée par
+suite du programme, ou dont le paiement a été conve-
+nu, devra être payé par le ministre et le gouvernement
+provincial ou les gouvernements provinciaux;
+e) le montant d’un prêt ou d’une subvention, consti-
+tuant tout ou partie du coût du programme à payer
+par le ministre, que devra accorder ou verser celui-ci
+au gouvernement provincial ou aux gouvernements
+provinciaux, ainsi que la façon de déterminer les mo-
+dalités du prêt ou de la subvention;
+f) les autorités, qu’il s’agisse de mandataires de Sa
+Majesté du chef du Canada ou d’une province ou
+d’autres agréés comme telles d’un commun accord,
+qui seront chargées de mener à bonne fin les travaux
+qui font partie du programme;
+g) les proportions dans lesquelles les revenus prove-
+nant du programme devront être versés au ministre et
+au gouvernement provincial ou aux gouvernements
+provinciaux respectivement;
+h) les modalités ayant trait à la réalisation et au fonc-
+tionnement du programme.
+Provisions to be included in agreements
+Dispositions à inclure dans les accords
+(2) An agreement entered into pursuant to section 5
+shall, where applicable, in respect of the joint commis-
+sion, board or other body thereby established or named,
+provide for
+(a) the constitution thereof, the members thereof that
+are to be appointed by the Minister and the provincial
+government or governments that are parties to the
+agreement and the terms and conditions of the ap-
+pointments;
+(b) the staff thereof that is to be supplied by the Min-
+ister and the provincial government or governments;
+(2) L’accord conclu au titre de l’article 5 doit, au besoin,
+relativement à la commission, à l’office ou à l’autre orga-
+nisme mixte qu’il établit ou nomme, prévoir :
+a) sa constitution, les membres qui devront être nom-
+més par le ministre et le gouvernement provincial ou
+les gouvernements provinciaux qui sont parties à l’ac-
+cord et les modalités de ces nominations;
+b) son personnel qui devra être fourni par le ministre
+et le gouvernement provincial ou les gouvernements
+provinciaux;
+
+
+--- PAGE 13 ---
+
+Canada Water
+Ressources en eau du Canada
+PART I Comprehensive Water Resource Management
+PARTIE I Gestion intégrale des ressources en eau
+Comprehensive Water Resource Management Programs
+Programmes de gestion intégrale des ressources en eau
+Sections 8-10
+Articles 8-10
+Current to January 22, 2025
+Last amended on April 1, 2014
+8
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(c) the duties of the body and the powers that it may
+exercise in directing, supervising and coordinating the
+program;
+(d) the keeping of accounts and records by the body;
+(e) the annual submission by the body to the Minister
+and the provincial government or governments of op-
+erating and capital budgets in connection with the
+programs directed, supervised and coordinated by the
+body for the next following fiscal year for approval by
+the Governor in Council and such persons on behalf of
+the provincial government or governments as are des-
+ignated in the agreement; and
+(f) the submission by the body to the Minister and the
+provincial government or governments, within three
+months after the termination of each fiscal year, of an
+annual report containing such information as is speci-
+fied in the agreement.
+R.S., c. 5(1st Supp.), s. 7.
+c) ses fonctions ainsi que les pouvoirs qu’il pourra
+exercer pour la direction, la supervision et la coordina-
+tion du programme;
+d) la tenue de comptes et de registres dont il aura la
+charge;
+e) la présentation annuelle par l’organisme, au mi-
+nistre et au gouvernement provincial ou aux gouver-
+nements provinciaux, d’un budget de fonctionnement
+et d’un budget d’immobilisations relativement aux
+programmes dirigés, supervisés et coordonnés par lui
+pour l’exercice suivant, en vue de son approbation par
+le gouverneur en conseil et, pour le compte du gouver-
+nement provincial ou des gouvernements provinciaux,
+par les personnes qui sont désignées dans l’accord;
+f) la présentation par l’organisme, au ministre et au
+gouvernement provincial ou aux gouvernements pro-
+vinciaux, dans les trois mois suivant la fin de chaque
+exercice, d’un rapport annuel contenant les renseigne-
+ments que spécifie l’accord.
+S.R., ch. 5(1er suppl.), art. 7.
+PART II
+PARTIE II
+Water Quality Management
+Gestion qualitative des eaux
+Pollution of Waters
+Pollution des eaux
+Prohibition
+Interdiction
+9 Except in quantities and under conditions prescribed
+with respect to waste disposal in the water quality man-
+agement area in question, including the payment of any
+effluent discharge fee prescribed therefor, no person
+shall deposit or permit the deposit of waste of any type in
+any waters composing a water quality management area
+designated pursuant to section 11 or 13, or in any place
+under any conditions where the waste or any other waste
+that results from the deposit of the waste may enter any
+such waters.
+R.S., c. 5(1st Supp.), s. 8.
+9 Sauf dans les quantités et aux conditions réglemen-
+taires concernant la disposition des déchets dans la zone
+de gestion qualitative des eaux en question, notamment
+quant au paiement de toute redevance de pollution pré-
+vue par règlement à cette fin, il est interdit de déposer
+des déchets de toute nature — ou d’en permettre le dépôt
+— dans des eaux comprenant une zone de gestion quali-
+tative des eaux désignée aux termes de l’article 11 ou 13,
+ni en tout endroit dans des conditions qui permettent à
+ces déchets ou à ceux résultant de leur dépôt d’atteindre
+de telles eaux.
+S.R., ch. 5(1er suppl.), art. 8.
+Application of section 9
+Application de l’art. 9
+10 Section 9 is not applicable in respect of a water quali-
+ty management area designated pursuant to section 11 or
+13 until a proclamation has been issued declaring it to be
+applicable in respect of that area.
+R.S., c. 5(1st Supp.), s. 39.
+10 L’article 9 ne s’applique à l’égard d’une zone de ges-
+tion qualitative des eaux désignée aux termes de l’article
+11 ou 13 qu’à compter de la prise d’une proclamation le
+déclarant applicable à cette zone.
+S.R., ch. 5(1er suppl.), art. 39.
+
+
+--- PAGE 14 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Federal-Provincial Water Quality Management
+Accords fédéro-provinciaux pour la gestion qualitative des eaux
+Sections 11-12
+Articles 11-12
+Current to January 22, 2025
+Last amended on April 1, 2014
+9
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Federal-Provincial Water Quality
+Management
+Accords fédéro-provinciaux pour la
+gestion qualitative des eaux
+Federal-provincial agreements
+Accord fédéro-provincial
+11 (1) The Minister may, with the approval of the Gov-
+ernor in Council, enter into agreements with one or more
+provincial governments that have an interest in the water
+quality management of
+(a) any federal waters; or
+(b) any waters, other than federal waters, the water
+quality management of which has become a matter of
+urgent national concern.
+11 (1) Le ministre peut, avec l’approbation du gouver-
+neur en conseil, conclure des accords avec un ou plu-
+sieurs gouvernements provinciaux ayant un intérêt dans
+la gestion qualitative des eaux à l’égard des eaux sui-
+vantes :
+a) les eaux fédérales;
+b) les autres eaux dont la gestion qualitative est deve-
+nue une question urgente et d’intérêt national.
+Object of agreements
+Objet
+(2) An agreement referred to in subsection (1) shall
+(a) designate the waters to which the agreement re-
+lates as a water quality management area;
+(b) provide for water quality management programs
+in respect of those waters; and
+(c) authorize the Minister, jointly with such one or
+more provincial governments, to procure the incorpo-
+ration of a corporation without share capital, or to
+name an existing corporation that is an agent of Her
+Majesty in right of Canada or a province or that per-
+forms any function or duty on behalf of the Govern-
+ment of Canada or the government of a province, as a
+water quality management agency to plan, initiate and
+carry out, in conjunction with the Minister and the
+provincial government or governments referred to in
+subsection (1), programs described in section 15 in re-
+spect of the waters described in that subsection.
+R.S., c. 5(1st Supp.), s. 9.
+(2) L’accord a pour objet, à l’égard des eaux visées :
+a) de désigner celles-ci comme zone de gestion quali-
+tative des eaux;
+b) de prévoir des programmes de gestion qualitative
+des eaux;
+c) d’autoriser le ministre, agissant de concert avec le
+gouvernement provincial ou les gouvernements pro-
+vinciaux, soit à obtenir la constitution d’une personne
+morale sans capital social, soit à nommer, à titre d’or-
+ganisme de gestion qualitative des eaux, une personne
+morale existante — qui est mandataire de Sa Majesté
+du chef du Canada ou d’une province ou qui agit à cer-
+tains égards pour le compte du gouvernement fédéral
+ou d’un gouvernement provincial — pour planifier, en-
+treprendre et réaliser à l’égard des eaux décrites au pa-
+ragraphe (1), concurremment avec le ministre et le
+gouvernement provincial ou les gouvernements pro-
+vinciaux, certains des programmes décrits à l’article
+15.
+S.R., ch. 5(1er suppl.), art. 9.
+Matters to be specified in agreements
+Questions à préciser dans les accords
+12 (1) Where, pursuant to section 11, the Minister en-
+ters into an agreement with one or more provincial gov-
+ernments, the agreement shall, where applicable, in re-
+spect of each water quality management program that is
+the subject of the agreement, specify
+(a) the responsibilities of the Minister and the provin-
+cial government or governments and the times at
+which and the manner in which those responsibilities
+are to be undertaken;
+(b) the proportions of the capital cost of the respective
+parts of the program that are to be paid by the
+12 (1) L’accord conclu par le ministre avec un ou plu-
+sieurs gouvernements provinciaux en application de l’ar-
+ticle 11 doit, le cas échéant, relativement à chaque pro-
+gramme de gestion qualitative des eaux qui en fait l’objet,
+préciser :
+a) les attributions du ministre et du gouvernement
+provincial ou des gouvernements provinciaux ainsi
+que les dates et modalités d’exercice de ces attribu-
+tions;
+b) les proportions des contributions au coût en capital
+des parties du programme qui devront être versées
+
+
+--- PAGE 15 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Federal-Provincial Water Quality Management
+Accords fédéro-provinciaux pour la gestion qualitative des eaux
+Section 12
+Article 12
+Current to January 22, 2025
+Last amended on April 1, 2014
+10
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Minister and the provincial government or govern-
+ments and the times at which amounts representing
+those proportions are to be paid;
+(c) the loans or contributions to be made or paid by
+the Minister and the provincial government or govern-
+ments in respect of the cost of incorporation and oper-
+ating expenses of the agency that is to undertake the
+program, the loans to be made by the Minister and
+that government or those governments in respect of
+capital costs incurred by that agency and the times at
+which those loans or contributions are to be made or
+paid;
+(d) the labour, land and materials that are to be sup-
+plied by the Minister and the provincial government
+or governments to the agency referred to in paragraph
+(c);
+(e) the proportions in which any compensation
+awarded or agreed to be paid to any body or person
+suffering loss as a result of the program is to be paid
+by the Minister and the provincial government or gov-
+ernments; and
+(f) the terms and conditions relating to the undertak-
+ing, operation and maintenance of the program by the
+agency referred to in paragraph (c).
+respectivement par le ministre et le gouvernement
+provincial ou les gouvernements provinciaux et les
+dates de versements des montants correspondant à
+ces proportions;
+c) les prêts ou contributions — concernant le coût de
+constitution en personne morale et les dépenses de
+fonctionnement de l’organisme chargé de la mise sur
+pied du programme, ainsi que les prêts relatifs aux
+coûts en capital engagés par lui — qui devront être
+faits ou versés par le ministre et le gouvernement pro-
+vincial ou les gouvernements provinciaux ainsi que les
+dates auxquelles ces prêts ou contributions devront
+être faits ou versés;
+d) la main-d’œuvre, le matériel et les biens-fonds qui
+devront être fournis par le ministre et le gouverne-
+ment provincial ou les gouvernements provinciaux à
+l’organisme visé à l’alinéa c);
+e) les proportions dans lesquelles le dédommagement
+accordé à un organisme ou à une personne ayant subi
+une perte par suite du programme, ou dont le paie-
+ment a été convenu, devra être payé par le ministre et
+le gouvernement provincial ou les gouvernements pro-
+vinciaux;
+f) les modalités ayant trait à la réalisation et au fonc-
+tionnement du programme par l’organisme visé à l’ali-
+néa c).
+Termination of agreement
+Résiliation de l’accord
+(2) An agreement entered into pursuant to section 11
+shall provide that it may be terminated, on six months
+written notice by any party to the agreement to all other
+parties thereto or on such lesser notice as may be agreed
+on by all the parties, and that on the expiration of the
+time fixed by the notice for the termination of the agree-
+ment any agency incorporated thereunder shall be
+wound up.
+(2) L’accord doit porter qu’il peut y être mis fin sur pré-
+avis de six mois donné par écrit par toute partie à l’ac-
+cord à toutes les autres parties, ou selon tel délai moindre
+dont toutes ces parties peuvent convenir, et qu’à l’expira-
+tion du délai fixé par l’avis, tout organisme constitué en
+personne morale sous son régime devra être liquidé.
+Provisions to be included in agreements
+Dispositions à inclure dans les accords
+(3) An agreement entered into pursuant to section 11
+shall, in respect of the agency the incorporation of which
+is thereby authorized to be procured, if any, provide for
+(a) the proposed corporate name of the agency;
+(b) the place within the water quality management
+area designated in the agreement where the head of-
+fice of the agency is to be situated;
+(c) the members of the agency that are to be appoint-
+ed by the Minister and the provincial government or
+governments that are parties to the agreement and the
+terms and conditions of the appointments;
+(3) L’accord conclu au titre de l’article 11 doit, à l’égard
+de l’organisme dont les termes permettent d’obtenir la
+constitution en personne morale, le cas échéant, prévoir :
+a) la dénomination projetée;
+b) le lieu, à l’intérieur de la zone de gestion qualitative
+des eaux désignée dans l’accord, où sera fixé le siège;
+c) les membres qui doivent être nommés par le mi-
+nistre, le gouvernement provincial ou les gouverne-
+ments provinciaux qui sont parties à l’accord et les
+modalités de ces nominations;
+
+
+--- PAGE 16 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Federal-Provincial Water Quality Management
+Accords fédéro-provinciaux pour la gestion qualitative des eaux
+Sections 12-13
+Articles 12-13
+Current to January 22, 2025
+Last amended on April 1, 2014
+11
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(d) the proposed by-laws of the agency; and
+(e) the matters set out in paragraphs 8(2)(b) and (d)
+to (f).
+R.S., c. 5(1st Supp.), s. 10.
+d) les projets de règlements administratifs;
+e) les questions indiquées aux alinéas 8(2)b) et d) à f).
+S.R., ch. 5(1er suppl.), art. 10.
+Federal Water Quality Management
+Gestion qualitative des eaux par le
+gouvernement fédéral
+Federal programs respecting inter-jurisdictional
+waters
+Programmes fédéraux — Eaux relevant de plusieurs
+juridictions
+13 (1) Where the water quality management of any in-
+ter-jurisdictional waters has become a matter of urgent
+national concern, the Governor in Council, subject to
+subsection (2), may, on the recommendation of the Min-
+ister, designate those waters as a water quality manage-
+ment area and authorize the Minister to name an existing
+corporation that is an agent of Her Majesty in right of
+Canada, or that performs any function or duty on behalf
+of the Government of Canada, as a water quality manage-
+ment agency to plan, initiate and carry out programs de-
+scribed in section 15 in respect of those waters.
+13 (1) Dans les cas où la gestion qualitative d’eaux rele-
+vant de plusieurs juridictions est devenue une question
+urgente et d’intérêt national, le gouverneur en conseil
+peut, sous réserve du paragraphe (2), sur la recomman-
+dation du ministre, désigner des eaux comme zone de
+gestion qualitative des eaux et autoriser ce dernier à
+nommer, à titre d’organisme de gestion qualitative des
+eaux, une personne morale existante — qui est manda-
+taire de Sa Majesté du chef du Canada ou qui agit à cer-
+tains égards pour le compte du gouvernement fédéral —
+pour planifier, entreprendre et réaliser, à l’égard de ces
+eaux, certains des programmes décrits à l’article 15.
+Conditions for programs
+Conditions préalables
+(2) The Governor in Council may exercise the powers re-
+ferred to in subsection (1) where either
+(a) the Governor in Council is satisfied that all reason-
+able efforts have been made by the Minister to reach
+an agreement under section 11 with the one or more
+provincial governments having an interest in the water
+quality management of the inter-jurisdictional waters
+in question and that those efforts have failed, or
+(b) although an agreement was reached under section
+11 in respect of those inter-jurisdictional waters and
+an agency was incorporated or named under the
+agreement, the Minister and the appropriate minister
+of each provincial government that was a party to the
+agreement disagreed with the recommendations of the
+agency with respect to water quality standards for
+those waters and were unable to agree on a joint rec-
+ommendation with respect thereto and, as a result of
+the failure to agree, the agreement under section 11
+was terminated.
+(2) Le gouverneur en conseil peut exercer les pouvoirs
+visés au paragraphe (1) lorsqu’il se trouve en présence de
+l’une ou l’autre des situations suivantes :
+a) il est convaincu que le ministre a fait tous les ef-
+forts voulus pour en arriver à un accord aux termes de
+l’article 11 avec le gouvernement provincial ou les gou-
+vernements provinciaux ayant un intérêt dans la ges-
+tion qualitative de ces eaux et que ces efforts ont
+échoué;
+b) malgré la conclusion d’un accord aux termes de
+l’article 11 et la constitution en personne morale ou la
+nomination d’un organisme en découlant, le ministre
+et le ministre compétent de chaque gouvernement
+provincial qui était partie à l’accord ne se sont pas en-
+tendus sur les recommandations de l’organisme relati-
+vement aux normes de qualité des eaux pour ces eaux
+et n’ont pas pu convenir d’une recommandation
+conjointe à leur égard, ce qui a eu pour effet de mettre
+fin à l’accord.
+Programs respecting federal waters
+Programmes fédéraux — Eaux fédérales
+(3) The Governor in Council may, on the recommenda-
+tion of the Minister, designate any federal waters as a wa-
+ter quality management area and authorize the Minister
+to name an existing corporation that is an agent of Her
+Majesty in right of Canada, or that performs any function
+or duty on behalf of the Government of Canada, as a
+(3) Le gouverneur en conseil peut, sur la recommanda-
+tion du ministre, désigner des eaux fédérales à titre de
+zone de gestion qualitative des eaux et autoriser ce der-
+nier à nommer, à titre d’organisme de gestion qualitative
+des eaux, une personne morale existante — qui est man-
+dataire de Sa Majesté du chef du Canada ou qui agit à
+
+
+--- PAGE 17 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Federal Water Quality Management
+Gestion qualitative des eaux par le gouvernement fédéral
+Sections 13-15
+Articles 13-15
+Current to January 22, 2025
+Last amended on April 1, 2014
+12
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+water quality management agency to plan, initiate and
+carry out programs described in section 15 in respect of
+those waters.
+certains égards pour le compte du gouvernement fédéral
+— pour planifier, entreprendre et réaliser, à l’égard de ces
+eaux, certains des programmes décrits à l’article 15.
+Directions
+Instructions
+(4) The Minister may give directions to any federal agen-
+cy with respect to the implementation of any water quali-
+ty management program.
+R.S., c. 5(1st Supp.), s. 11; 1984, c. 31, s. 14.
+(4) Le ministre peut donner des instructions aux orga-
+nismes fédéraux en ce qui concerne la mise en œuvre des
+programmes de gestion qualitative des eaux.
+S.R., ch. 5(1er suppl.), art. 11; 1984, ch. 31, art. 14.
+Agent of Her Majesty
+Qualité de mandataire de Sa Majesté
+14 (1) A federal agency is for all purposes an agent of
+Her Majesty and it may exercise its powers only as an
+agent of Her Majesty.
+14 (1) Un organisme fédéral est, à toutes fins, manda-
+taire de Sa Majesté et il ne peut exercer ses pouvoirs qu’à
+ce titre.
+Contracts
+Contrats
+(2) A federal agency may, on behalf of Her Majesty, enter
+into contracts in the name of Her Majesty or in its own
+name.
+(2) Un organisme fédéral peut, pour le compte de Sa Ma-
+jesté, conclure des contrats sous le nom de celle-ci ou le
+sien.
+Property
+Biens
+(3) Any property acquired by a federal agency is the
+property of Her Majesty and title thereto may be vested
+in the name of Her Majesty or in its own name.
+(3) Les biens acquis par un organisme fédéral appar-
+tiennent à Sa Majesté; les titres de propriété afférents
+peuvent être au nom de celle-ci ou au sien.
+Proceedings
+Action en justice
+(4) Actions, suits or other legal proceedings in respect of
+any right or obligation acquired or incurred by a federal
+agency on behalf of Her Majesty, whether in its name or
+in the name of Her Majesty, may be brought or taken by
+or against that agency in the name of the agency in any
+court that would have jurisdiction if it were not an agent
+of Her Majesty.
+R.S., c. 5(1st Supp.), s. 12.
+(4) À l’égard des droits et obligations qu’il assume pour
+le compte de Sa Majesté sous le nom de celle-ci ou le
+sien, un organisme fédéral peut ester en justice sous son
+propre nom devant les tribunaux qui seraient compétents
+s’il n’était pas mandataire de Sa Majesté.
+S.R., ch. 5(1er suppl.), art. 12.
+Water Quality Management Agencies
+Organismes de gestion qualitative des
+eaux
+Objects of agencies
+Mission des organismes
+15 (1) The objects of each water quality management
+agency shall be to plan, initiate and carry out programs
+to restore, preserve and enhance the water quality level
+in the water quality management area for which the
+agency is incorporated or named.
+15 (1) Les organismes de gestion qualitative des eaux
+ont pour mission de planifier, d’entreprendre et de réali-
+ser des programmes en vue de restaurer, de conserver et
+d’améliorer la qualité des eaux dans la zone de gestion
+qualitative des eaux pour laquelle ils sont constitués ou
+nommés.
+Powers of agencies
+Pouvoirs des organismes
+(2) In carrying out the objects of a water quality manage-
+ment agency, subject to any agreement under section 11
+relating to the water quality management area for which
+it is incorporated or named or subject to any direction of
+the Minister to a federal agency, the agency may, after
+(2) Dans l’exécution de leur mission, sous réserve des
+termes d’un accord conclu sous le régime de l’article 11
+relativement à la zone de gestion qualitative des eaux
+pour laquelle ils sont constitués ou nommés ou sous ré-
+serve de toute instruction du ministre donnée à un
+
+
+--- PAGE 18 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Water Quality Management Agencies
+Organismes de gestion qualitative des eaux
+Section 15
+Article 15
+Current to January 22, 2025
+Last amended on April 1, 2014
+13
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+taking into account views expressed to it, at public hear-
+ings and otherwise, by persons likely to have an interest
+therein, in respect of the waters composing the water
+quality management area,
+(a) ascertain the nature and quantity of waste present
+therein and the water quality level;
+(b) undertake studies that enable forecasts to be made
+of the amounts and kinds of waste that are likely to be
+added to those waters in the future; and
+(c) develop and recommend to the Minister and, in
+the case of an agency other than a federal agency, to
+the appropriate minister of each provincial govern-
+ment that is a party to the agreement relating to the
+water quality management area, a water quality man-
+agement plan including
+(i) recommendations with respect to water quality
+standards for those waters or any part thereof and
+the times at which those standards should be at-
+tained,
+(ii) recommendations, based on the water quality
+standards recommended pursuant to subparagraph
+(i), with respect to the quantities and types of
+waste, if any, that may be deposited in those waters
+and the conditions under which any such waste
+may be deposited,
+(iii) recommendations with respect to the treat-
+ment that may be required for any waste that is or
+may be deposited in those waters and the type of
+treatment facilities necessary to achieve the water
+quality standards recommended pursuant to sub-
+paragraph (i),
+(iv) recommendations with respect to appropriate
+effluent discharge fees to be paid by persons for the
+deposit of waste in those waters and the time or
+times at which and the manner in which those fees
+should be paid,
+(v) recommendations with respect to appropriate
+waste treatment and waste sample analysis charges
+to be levied by the agency for the treatment of
+waste at any waste treatment facility that is operat-
+ed and maintained by it or for the analysis of any
+waste sample by it,
+(vi) detailed estimates of the cost of implementa-
+tion of the plan and of revenues and other benefits
+likely to be realized from the implementation there-
+of, and
+organisme fédéral, les organismes peuvent, en tenant
+compte des avis exprimés, notamment lors d’audiences
+publiques, par des personnes susceptibles d’y avoir un in-
+térêt et relativement aux eaux de la zone en cause :
+a) établir la nature et la quantité des déchets qui s’y
+trouvent et la qualité des eaux;
+b) entreprendre des études permettant de prévoir les
+quantités et la nature des déchets qui seront vraisem-
+blablement ajoutés à ces eaux;
+c) mettre au point et recommander au ministre et,
+dans le cas d’un organisme autre qu’un organisme fé-
+déral, au ministre compétent de chaque gouvernement
+provincial qui est partie à l’accord concernant la zone
+de gestion qualitative des eaux, un plan de gestion
+qualitative des eaux comprenant :
+(i) des recommandations portant sur les normes de
+qualité applicables à tout ou partie de ces eaux et
+les dates auxquelles ces normes devraient être at-
+teintes,
+(ii) des recommandations fondées sur les normes
+de qualité des eaux recommandées au titre du sous-
+alinéa (i) et relatives aux quantités et à la nature
+des déchets, le cas échéant, qui peuvent être dépo-
+sés dans ces eaux et à quelles conditions,
+(iii) des recommandations portant sur le traite-
+ment que peuvent nécessiter les déchets qui sont ou
+peuvent être déposés dans ces eaux ainsi que le
+genre de stations de traitement nécessaires pour
+parvenir aux normes de qualité des eaux recom-
+mandées au titre du sous-alinéa (i),
+(iv) des recommandations portant sur les rede-
+vances de pollution appropriées que les usagers
+doivent payer pour le dépôt de déchets dans ces
+eaux ainsi que les dates et modalités de leur paie-
+ment,
+(v) des recommandations portant sur les droits ap-
+propriés relatifs au traitement des déchets et à
+l’analyse des échantillons de déchets à percevoir
+par l’organisme pour le traitement des déchets à
+toute station de traitement dont il assure le fonc-
+tionnement et l’entretien ou pour l’analyse d’échan-
+tillons de déchets qu’il effectue,
+(vi) les prévisions détaillées du coût de mise en
+œuvre du plan et celles des recettes et autres avan-
+tages susceptibles de découler de sa mise en œuvre,
+(vii) des prévisions quant au délai dans lequel l’or-
+ganisme deviendrait financièrement autonome.
+
+
+--- PAGE 19 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Water Quality Management Agencies
+Organismes de gestion qualitative des eaux
+Section 15
+Article 15
+Current to January 22, 2025
+Last amended on April 1, 2014
+14
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(vii) estimates of the time within which the agency
+would become financially self-sustaining.
+Publication of plan
+Publication du plan
+(3) Where an agency recommends a water quality man-
+agement plan to the Minister, the agency shall forthwith
+cause the plan to be published in the Canada Gazette
+and shall publish a concise summary of the plan in a
+newspaper of general circulation in the area affected by
+the plan at least once a week for a period of four weeks
+and no such plan shall be approved until the expiration
+of seven clear days after the last of those publications of
+the summary.
+(3) L’organisme qui recommande au ministre un plan de
+gestion qualitative des eaux le fait publier sans délai dans
+la Gazette du Canada et en fait publier un bref résumé
+dans un journal à grande diffusion dans la zone visée par
+le plan au moins une fois par semaine durant quatre se-
+maines; le plan ne peut être approuvé avant l’expiration
+d’un délai de sept jours francs à compter de la date de la
+dernière publication exigée.
+Implementation of plan
+Mise en œuvre
+(4) Where a water quality management plan recom-
+mended by an agency in respect of the waters composing
+the water quality management area for which it is incor-
+porated or named has been approved by the Minister
+and, in the case of an agency other than a federal agency,
+by the appropriate minister of each provincial govern-
+ment that is a party to the agreement relating to those
+waters, the agency may, in order to implement the water
+quality management plan,
+(a) design, construct, operate and maintain waste
+treatment facilities and undertake the treatment of
+waste delivered to those facilities;
+(b) undertake the collection of any charges prescribed
+for waste treatment at any waste treatment facility
+that is operated and maintained by the agency and for
+waste sample analysis carried out by it;
+(c) undertake the collection of effluent discharge fees
+prescribed to be payable by any person for the deposit
+of waste in those waters;
+(d) monitor, on a regular basis, water quality levels;
+(e) provide facilities for the analysis of samples of
+waste and collect and provide data respecting the
+quantity and quality of waste and the effects thereof
+on those waters;
+(f) regularly inspect any waste treatment facilities
+within the water quality management area for which
+the agency is incorporated or named, whether they are
+publicly or privately owned;
+(g) publish or otherwise distribute such information
+as may be required under this Act; and
+(h) do such other things as are necessary to achieve
+effective water quality management of those waters.
+(4) En cas d’approbation par le ministre d’un plan de
+gestion qualitative des eaux recommandé par un orga-
+nisme en ce qui concerne les eaux dont fait partie la zone
+de gestion qualitative des eaux pour laquelle il est ainsi
+constitué ou nommé et, dans le cas d’un organisme autre
+qu’un organisme fédéral, par le ministre compétent de
+chaque gouvernement provincial qui est partie à l’accord
+ayant trait à ces eaux, l’organisme peut, pour la mise en
+œuvre du plan :
+a) concevoir, construire, faire fonctionner et entrete-
+nir des stations de traitement et se charger du traite-
+ment des déchets livrés à ces stations;
+b) procéder à la perception des redevances réglemen-
+taires pour le traitement des déchets dans une station
+de traitement dont il assure le fonctionnement et l’en-
+tretien et pour l’analyse d’échantillons de déchets qu’il
+effectue;
+c) procéder à la perception des redevances de pollu-
+tion réglementaires que les usagers doivent payer pour
+le dépôt de déchets dans ces eaux;
+d) contrôler à intervalles réguliers la qualité des eaux;
+e) pourvoir à des installations pour l’analyse des
+échantillons de déchets et recueillir et fournir des don-
+nées relatives à la quantité et à la qualité des déchets
+et aux effets de ceux-ci sur les eaux;
+f) inspecter régulièrement les stations de traitement
+situées dans la zone de gestion qualitative des eaux
+pour laquelle l’organisme est constitué ou nommé,
+qu’il s’agisse de stations du secteur public ou du sec-
+teur privé;
+g) diffuser, notamment par publication, les renseigne-
+ments que peut exiger la présente loi;
+
+
+--- PAGE 20 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Water Quality Management Agencies
+Organismes de gestion qualitative des eaux
+Sections 15-17
+Articles 15-17
+Current to January 22, 2025
+Last amended on April 1, 2014
+15
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+h) prendre toute autre mesure nécessaire à une bonne
+gestion qualitative de ces eaux.
+Restriction on powers to borrow, etc.
+Pouvoir d’emprunt
+(5) An agency does not, except with respect to loans au-
+thorized to be made to the agency by the Minister or a
+provincial government as described in paragraph
+12(1)(c), have power to borrow moneys, to issue securi-
+ties or to guarantee the payment of any debt or obligation
+of any person.
+R.S., c. 5(1st Supp.), s. 13.
+(5) L’organisme n’a pas le pouvoir de contracter des em-
+prunts, d’émettre des titres ou de garantir le paiement
+d’une dette ou obligation, sauf en ce qui concerne les
+prêts que le ministre ou un gouvernement provincial est
+autorisé à lui consentir, comme le prévoit l’alinéa 12(1)c).
+S.R., ch. 5(1er suppl.), art. 13.
+Remuneration of members
+Rémunération des membres
+16 (1) The members of an agency who are appointed by
+the Minister or by the Governor in Council and who are
+not employees in the federal public administration shall
+be paid by the agency such remuneration as is authorized
+by the Governor in Council.
+16 (1) Les membres d’un organisme qui sont nommés
+par le ministre ou le gouverneur en conseil et qui n’ap-
+partiennent pas à l’administration publique fédérale re-
+çoivent de l’organisme la rémunération autorisée par le
+gouverneur en conseil.
+Staff and professional or technical assistance
+Personnel et experts
+(2) The Minister may provide any agency with such offi-
+cers and employees as may be necessary for the proper
+functioning of the agency, and may provide it with such
+professional or technical assistance for temporary peri-
+ods or for specific work as the agency may request.
+(2) Le ministre peut fournir aux organismes le personnel
+nécessaire à l’exécution de leurs travaux ainsi que, pen-
+dant des périodes temporaires ou pour des travaux déter-
+minés, les experts qu’ils peuvent demander.
+Employment and remuneration of staff and
+consultants
+Engagement et rémunération
+(3) Subject to the agreement under which the incorpora-
+tion of an agency was authorized to be procured or to any
+direction of the Minister under subsection 13(4) in re-
+spect of a federal agency, the agency may employ such of-
+ficers and employees and such consultants and advisers
+as it considers necessary to enable it to carry out its ob-
+jects and may fix the terms and conditions of their em-
+ployment and their remuneration, which shall be paid by
+the agency.
+R.S., 1985, c. C-11, s. 16; 2003, c. 22, s. 224(E).
+(3) Sous réserve de l’accord aux termes duquel la consti-
+tution d’un organisme a été autorisée ou de toute instruc-
+tion du ministre donnée en application du paragraphe
+13(4) relativement à un organisme fédéral, l’organisme
+peut employer le personnel et les experts qu’il considère
+nécessaires à l’exécution de sa mission et fixer leurs
+conditions d’emploi et la rémunération qu’il leur versera.
+L.R. (1985), ch. C-11, art. 16; 2003, ch. 22, art. 224(A).
+Operating account
+Compte de fonctionnement
+17 (1) Each agency shall maintain, in a bank, an ac-
+count under the name of the agency.
+17 (1) Chaque organisme doit avoir sous son nom un
+compte dans une banque.
+Credits
+Crédits
+(2) There shall be deposited to the account referred to in
+subsection (1)
+(a) all amounts collected by the agency as or on ac-
+count of charges levied for treatment of waste, for the
+analysis of samples of waste or for the deposit of waste
+in the waters composing the water quality manage-
+ment area for which the agency is incorporated or
+named;
+(2) Sont portés au crédit du compte :
+a) les montants perçus par l’organisme à titre de rede-
+vances prélevées pour le traitement des déchets, pour
+l’analyse des échantillons de déchets ou pour le dépôt
+de déchets dans les eaux dont fait partie la zone de
+gestion qualitative des eaux pour laquelle l’organisme
+est constitué ou nommé, ou à valoir sur ces rede-
+vances;
+
+
+--- PAGE 21 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Water Quality Management Agencies
+Organismes de gestion qualitative des eaux
+Sections 17-18
+Articles 17-18
+Current to January 22, 2025
+Last amended on April 1, 2014
+16
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(b) contributions paid or loans made to the agency by
+the Government of Canada or the government of a
+province in respect of the cost of incorporation of the
+agency, in respect of its operating expenses or in re-
+spect of capital costs incurred by it; and
+(c) interest received by the agency on securities pur-
+chased, acquired and held by it pursuant to subsection
+(4).
+b) les contributions versées ou les prêts consentis à
+l’organisme par le gouvernement fédéral ou un gou-
+vernement provincial relativement aux frais de consti-
+tution en personne morale de l’organisme, à ses frais
+de fonctionnement ou aux coûts en capital qu’il a ex-
+posés;
+c) l’intérêt perçu par l’organisme sur les valeurs ache-
+tées, acquises et détenues par lui sous le régime du pa-
+ragraphe (4).
+Debits
+Débits
+(3) All expenditures incurred by the agency in its opera-
+tions and all repayments of loans made to the agency and
+payments of interest thereon shall be paid out of the ac-
+count referred to in subsection (1).
+(3) Sont portés au débit du compte les dépenses faites
+par l’organisme au cours de son fonctionnement ainsi
+que les remboursements des prêts consentis à l’orga-
+nisme et tout paiement d’intérêt y relatif.
+Investment of surplus funds
+Investissement de l’excédent
+(4) An agency may from time to time, out of any surplus
+funds standing to its credit in an account maintained
+pursuant to subsection (1), purchase, acquire and hold
+(a) in the case of a federal agency, any securities of or
+guaranteed by the Government of Canada; and
+(b) in the case of any other agency, any securities of or
+guaranteed by the Government of Canada, or of or
+guaranteed by the government of any province that is
+a party to the agreement pursuant to which the agency
+was authorized to be incorporated or was named.
+(4) Un organisme peut, au besoin, sur l’excédent figurant
+à son crédit dans un compte ouvert en application du pa-
+ragraphe (1), acheter, acquérir et détenir :
+a) dans le cas d’un organisme fédéral, des valeurs du
+gouvernement fédéral ou garanties par celui-ci;
+b) dans le cas d’un autre organisme, des valeurs du
+gouvernement fédéral ou garanties par celui-ci ou en-
+core des valeurs d’un gouvernement provincial ou ga-
+ranties par un tel gouvernement qui est partie à l’ac-
+cord en vertu duquel l’organisme a été nommé ou sa
+constitution en personne morale autorisée.
+Sale of investments
+Disposition des placements
+(5) An agency may sell any securities purchased, ac-
+quired and held pursuant to subsection (4) and the pro-
+ceeds of sale shall be deposited to the credit of the agency
+in the account maintained in respect of the agency under
+subsection (1).
+R.S., c. 5(1st Supp.), s. 15.
+(5) Un organisme peut vendre les valeurs achetées, ac-
+quises ou détenues en application du paragraphe (4) et le
+produit de la vente est porté au crédit du compte ouvert
+pour l’organisme au titre du paragraphe (1).
+S.R., ch. 5(1er suppl.), art. 15.
+Regulations
+Règlements
+General
+Règlements d’ordre général
+18 (1) The Governor in Council may make regulations
+(a) prescribing
+(i) substances and classes of substances,
+(ii) quantities or concentrations of substances and
+classes of substances in water, and
+(iii) treatments, processes and changes of water
+for the purpose of subsection 2(2);
+18 (1) Le gouverneur en conseil peut, par règlement :
+a) désigner, pour l’application du paragraphe 2(2) :
+(i) les substances et les catégories de substances,
+(ii) les quantités ou les concentrations dans l’eau
+des substances et des catégories de substances,
+(iii) les traitements et les transformations de l’eau;
+
+
+--- PAGE 22 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Regulations
+Règlements
+Section 18
+Article 18
+Current to January 22, 2025
+Last amended on April 1, 2014
+17
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+(b) prescribing the procedure to be followed by each
+agency in determining its recommendations with re-
+spect to charges that may be levied by it for treatment
+of waste at any waste treatment facility that is operat-
+ed and maintained by the agency;
+(c) prescribing the procedure to be followed by each
+agency in determining its recommendations with re-
+spect to water quality standards for waters composing
+the water quality management area for which it is in-
+corporated or named;
+(d) prescribing the criteria, which shall be related to
+estimates of the cost of appropriate treatment of waste
+expected to be deposited, to be used by each agency in
+determining its recommendations with respect to ef-
+fluent discharge fees to be paid by persons for the de-
+posit of waste in waters composing the water quality
+management area for which it is incorporated or
+named and the time or times at which and the manner
+in which those fees should be paid;
+(e) requiring persons who deposit waste in any waters
+composing a water quality management area to main-
+tain books and records necessary for the proper en-
+forcement of this Act and the regulations;
+(f) requiring persons who have deposited waste in
+contravention of section 9 to report the deposit to the
+agency incorporated or named for the water quality
+management area in which the deposit is made and
+providing for the manner in which and the time within
+which the report is to be made;
+(g) requiring persons who deposit waste in any waters
+composing a water quality management area to sub-
+mit test portions of that waste to the agency incorpo-
+rated or named in respect of the area;
+(h) respecting the method of analysis by each agency
+of test portions of waste submitted to it;
+(i) respecting the powers and duties of inspectors and
+analysts, the taking of samples and the making of
+analyses for the purposes of this Act; and
+(j) generally, for carrying out the purposes and provi-
+sions of this Act.
+b) déterminer les procédés que doit suivre chaque or-
+ganisme pour l’élaboration de ses recommandations
+relatives aux droits susceptibles d’être prélevés pour le
+traitement des déchets dans les stations de traitement
+qu’il fait fonctionner et qu’il entretient;
+c) déterminer les procédés que doit suivre chaque or-
+ganisme pour l’élaboration de ses recommandations
+relatives aux normes de qualité des eaux dont fait par-
+tie la zone de gestion qualitative des eaux pour la-
+quelle il est constitué ou nommé;
+d) établir les critères — obligatoirement en rapport
+avec les estimations du coût du traitement approprié
+des déchets dont on envisage le dépôt — que doit ap-
+pliquer chaque organisme pour l’élaboration de ses re-
+commandations relatives aux redevances de pollution
+que sont tenues de payer les personnes pour le dépôt
+de déchets dans les eaux dont fait partie la zone de
+gestion qualitative des eaux pour laquelle il est consti-
+tué ou nommé, ainsi que les dates et modalités de leur
+paiement;
+e) imposer aux personnes qui déposent des déchets
+dans des eaux dont fait partie une zone de gestion
+qualitative des eaux la tenue des livres et registres né-
+cessaires à l’application de la présente loi et de ses rè-
+glements;
+f) exiger des personnes qui ont déposé des déchets en
+contravention avec l’article 9 qu’elles en fassent rap-
+port à l’organisme constitué ou nommé pour la zone
+en cause et prévoir le mode d’établissement et la date
+du rapport;
+g) imposer aux personnes qui déposent des déchets
+dans des eaux dont fait partie une zone de gestion
+qualitative des eaux qu’elles donnent des échantillons
+des déchets à l’organisme constitué ou nommé pour la
+zone;
+h) prévoir la marche à suivre par chaque organisme
+pour l’analyse des échantillons de déchets qui lui sont
+donnés;
+i) déterminer, pour l’application de la présente loi, les
+pouvoirs et fonctions des inspecteurs et analystes et
+régir le prélèvement des échantillons et le déroule-
+ment des travaux d’analyse;
+j) prendre toute autre mesure d’application de la pré-
+sente loi.
+
+
+--- PAGE 23 ---
+
+Canada Water
+Ressources en eau du Canada
+PART II Water Quality Management
+PARTIE II Gestion qualitative des eaux
+Regulations
+Règlements
+Section 18
+Article 18
+Current to January 22, 2025
+Last amended on April 1, 2014
+18
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+For water quality management areas
+Règlements — Zones de gestion qualitative des eaux
+(2) Subject to subsection (3), the Governor in Council
+may make regulations prescribing, with respect to each
+water quality management area,
+(a) the quantities, if any, of waste of any type that, for
+the purpose of section 9, may be deposited in the wa-
+ters composing that area and the conditions under
+which any such waste may be deposited;
+(b) the charges to be paid by any person to the agency
+incorporated or named in respect thereof
+(i) for treatment of waste by the agency at a waste
+treatment facility that is operated and maintained
+by it, and
+(ii) for analysis of waste samples by the agency,
+and the persons by whom those charges are payable
+and the time or times at which and the manner in
+which those charges shall be paid;
+(c) water quality standards for the waters composing
+that area; and
+(d) the effluent discharge fees, if any, to be paid by
+any person to the agency incorporated or named in re-
+spect thereof for the deposit of waste in the waters
+composing that area and the persons by whom those
+fees are payable and the time or times at which and
+the manner in which those fees shall be paid.
+(2) Sous réserve du paragraphe (3), le gouverneur en
+conseil peut par règlement, à l’égard de chaque zone de
+gestion qualitative des eaux, fixer :
+a) les quantités de déchets de tous genres qui, pour
+l’application de l’article 9, peuvent, le cas échéant, être
+déposés dans les eaux de cette zone et les conditions
+dans lesquelles de tels dépôts peuvent s’effectuer;
+b) les redevances à payer — ainsi que les responsables
+du paiement et les dates et modalités de celui-ci — à
+l’organisme constitué ou nommé pour la zone :
+(i) pour le traitement des déchets dans une station
+de traitement que l’organisme fait fonctionner et
+qu’il entretient,
+(ii) pour l’analyse des échantillons de déchets faite
+par l’organisme;
+c) les normes de qualité des eaux dont fait partie cette
+zone;
+d) le cas échéant, les redevances de pollution à payer
+à l’organisme constitué ou nommé pour la zone, pour
+le dépôt de déchets dans les eaux dont fait partie cette
+zone, les responsables du paiement, ainsi que les dates
+et modalités de celui-ci.
+Governor in Council to act only on recommendation
+Recommandations préalables
+(3) No regulation that is made by the Governor in Coun-
+cil under subsection (2) with respect to a water quality
+management area for which an agency is incorporated or
+named under an agreement entered into pursuant to sec-
+tion 11 is of any force or effect unless
+(a) the regulation is made on the recommendation of
+the agency; or
+(b) where the Minister and the appropriate minister
+of each provincial government that is a party to the
+agreement disagree with the recommendations of the
+agency and jointly make a different recommendation,
+the regulation is made on that joint recommendation.
+R.S., c. 5(1st Supp.), s. 16.
+(3) Les règlements pris en application du paragraphe (2)
+relativement à une zone de gestion qualitative des eaux
+pour laquelle un organisme a été constitué ou nommé en
+vertu d’un accord conclu en application de l’article 11
+sont inopérants sauf s’ils ont été pris :
+a) soit sur la recommandation de l’organisme;
+b) soit sur une recommandation conjointe du mi-
+nistre et du ministre compétent de chaque gouverne-
+ment provincial qui est partie à l’accord, lorsque ceux-
+ci ne s’entendent pas sur les recommandations de
+l’organisme et en présentent conjointement une autre.
+S.R., ch. 5(1er suppl.), art. 16.
+PART III
+PARTIE III
+[Repealed, R.S., 1985, c. 16 (4th
+Supp.), s. 141]
+[Abrogée, L.R. (1985), ch. 16 (4e
+suppl.), art. 141]
+
+
+--- PAGE 24 ---
+
+Canada Water
+Ressources en eau du Canada
+PART IV General
+PARTIE IV Dispositions générales
+Sections 25-26
+Articles 25-26
+Current to January 22, 2025
+Last amended on April 1, 2014
+19
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+PART IV
+PARTIE IV
+General
+Dispositions générales
+Inspectors and Analysts
+Inspecteurs et analystes
+Designation
+Désignation
+25 (1) The Minister may designate any qualified person
+as an inspector or analyst for the purposes of this Act but
+where a qualified officer of any other department or
+agency of the Government of Canada carries out similar
+duties for the purposes of another Act the Minister shall
+designate that officer whenever possible.
+25 (1) Le ministre peut désigner toute personne quali-
+fiée à titre d’inspecteur ou d’analyste pour l’application
+de la présente loi; toutefois, chaque fois que la chose est
+possible, il doit désigner un fonctionnaire compétent
+d’un autre ministère ou organisme fédéral exerçant des
+fonctions analogues pour l’application d’une autre loi.
+Certificate to be produced
+Production du certificat
+(2) The Minister shall furnish every inspector with a cer-
+tificate of his designation as an inspector and on entering
+any area, place, premises, vehicle or vessel referred to in
+subsection 26(1) an inspector shall, if so required, pro-
+duce the certificate to the person in charge thereof.
+R.S., c. 5(1st Supp.), ss. 23, 24.
+(2) Le ministre remet à chaque inspecteur un certificat
+attestant sa qualité, que celui-ci présente, sur demande,
+au responsable du lieu ou véhicule visé au paragraphe
+26(1).
+S.R., ch. 5(1er suppl.), art. 23 et 24.
+Powers of inspectors
+Pouvoirs des inspecteurs
+26 (1) An inspector may, at any reasonable time,
+(a) enter any area, place, premises, vessel or vehicle,
+other than a private dwelling-place or any part of any
+such area, place, premises, vessel or vehicle that is de-
+signed to be used and is being used as a permanent or
+temporary private dwelling-place, in which the inspec-
+tor believes on reasonable grounds that
+(i) there is any waste that may be or has been
+added to any waters that have been designated as a
+water quality management area pursuant to section
+11 or 13, or
+(ii) there is being or has been carried out any man-
+ufacturing or other process that may result in or
+has resulted in waste described in subparagraph (i);
+(iii) and (iv) [Repealed, R.S., 1985, c. 16 (4th
+Supp.), s. 142]
+(b) examine any waste found therein in bulk or open
+any container found therein that the inspector believes
+on reasonable grounds contains any waste and take
+samples thereof; and
+(c) require any person in that area, place, premises,
+vehicle or vessel to produce for inspection or for the
+26 (1) L’inspecteur peut, à toute heure convenable :
+a) procéder à la visite de toute zone ou tout autre lieu
+ou véhicule, sauf un local d’habitation ou la partie
+d’une zone, d’un lieu ou d’un véhicule conçue et utili-
+sée à ce titre de façon temporaire ou permanente, s’il a
+des motifs raisonnables de croire, selon le cas :
+(i) que s’y trouvent des déchets qui ont été ajoutés,
+ou sont susceptibles de l’être, à des eaux désignées
+à titre de zone de gestion qualitative des eaux en
+application de l’article 11 ou 13,
+(ii) que l’on y effectue, ou y a effectué, des opéra-
+tions, notamment de fabrication, qui ont produit
+des déchets visés au sous-alinéa (i), ou sont suscep-
+tibles de le faire;
+(iii) et (iv) [Abrogés, L.R. (1985), ch. 16 (4e suppl.),
+art. 142]
+b) examiner tout déchet en vrac ou ouvrir tout conte-
+nant s’il a des motifs raisonnables de croire qu’il
+contient des déchets, et en prélever des échantillons;
+c) exiger la communication, pour examen, ou repro-
+duction totale ou partielle, de tout livre ou autre docu-
+ment ou pièce concernant toute question pertinente à
+l’application de la présente loi ou de ses règlements.
+
+
+--- PAGE 25 ---
+
+Canada Water
+Ressources en eau du Canada
+PART IV General
+PARTIE IV Dispositions générales
+Inspectors and Analysts
+Inspecteurs et analystes
+Section 26
+Article 26
+Current to January 22, 2025
+Last amended on April 1, 2014
+20
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+purpose of obtaining copies thereof or extracts there-
+from any books or other documents or papers con-
+cerning any matter relevant to the administration of
+this Act or the regulations.
+Search
+Perquisition
+(2) An inspector with a warrant issued under subsection
+(3) may at any reasonable time enter any area, place,
+premises, vessel or vehicle in which the inspector be-
+lieves on reasonable grounds there is any cleaning agent
+or water conditioner that has been manufactured in
+Canada or imported into Canada in contravention of sec-
+tion 20 and search the area, place, premises, vessel or ve-
+hicle for evidence of the contravention.
+(2) L’inspecteur muni du mandat visé au paragraphe (3)
+peut, à toute heure convenable, perquisitionner dans
+toute zone ou tout autre lieu ou véhicule s’il a des motifs
+raisonnables de croire qu’il s’y trouve un agent de net-
+toyage ou un conditionneur d’eau qui a été fabriqué au
+Canada ou importé au Canada en contravention avec l’ar-
+ticle 20, en vue d’obtenir des éléments de preuve.
+Authority to issue warrant
+Délivrance du mandat
+(3) Where on ex parte application a justice of the peace
+is satisfied by information on oath that there are reason-
+able grounds to believe that there is in any area, place,
+premises, vessel or vehicle referred to in subsection (2)
+(a) anything on or in respect of which any contraven-
+tion of section 20 has been or is suspected to have
+been committed, or
+(b) anything that there are reasonable grounds to be-
+lieve will afford evidence with respect to the commis-
+sion of any contravention of section 20,
+the justice of the peace may issue a warrant under his
+hand authorizing the inspector named therein to enter
+and search that area, place, premises, vessel or vehicle
+subject to such conditions as may be specified in the war-
+rant.
+(3) Sur demande ex parte, le juge de paix peut signer un
+mandat autorisant, sous réserve des conditions éventuel-
+lement fixées, l’inspecteur qui y est nommé à perquisi-
+tionner dans toute zone ou dans tout autre lieu ou véhi-
+cule visés au paragraphe (2) s’il est convaincu, sur la foi
+d’une dénonciation sous serment, qu’il y a des motifs rai-
+sonnables de croire à la présence :
+a) soit d’un objet qui a ou aurait servi ou donné lieu à
+une infraction à l’article 20;
+b) soit d’un objet dont il y a des motifs raisonnables
+de croire qu’il servira à prouver la perpétration d’une
+telle infraction.
+Use of force
+Usage de la force
+(4) In executing a warrant issued under subsection (3),
+the inspector named therein shall not use force unless
+the inspector is accompanied by a peace officer and the
+use of force has been specifically authorized in the war-
+rant.
+(4) L’inspecteur ne peut recourir à la force dans l’exécu-
+tion du mandat que si celui-ci en autorise expressément
+l’usage et que si lui-même est accompagné d’un agent de
+la paix.
+Where warrant not necessary
+Perquisition sans mandat
+(5) An inspector may exercise any of the powers referred
+to in subsection (2) without a warrant issued under sub-
+section (3) if the conditions for obtaining the warrant ex-
+ist but by reason of exigent circumstances it would not be
+practical to obtain the warrant.
+(5) L’inspecteur peut exercer sans mandat les pouvoirs
+visés au paragraphe (2) lorsque l’urgence de la situation
+rend difficilement réalisable l’obtention du mandat, sous
+réserve que les conditions de délivrance de celui-ci soient
+réunies.
+Exigent circumstances
+Situation d’urgence
+(6) For the purposes of subsection (5), exigent circum-
+stances include circumstances in which the delay neces-
+sary to obtain a warrant under subsection (3) would re-
+sult in danger to human life or safety or the loss or
+destruction of evidence.
+(6) Pour l’application du paragraphe (5), il y a notam-
+ment urgence dans les cas où le délai d’obtention du
+mandat risquerait soit de mettre en danger des per-
+sonnes, soit d’entraîner la perte ou la destruction d’élé-
+ments de preuve.
+
+
+--- PAGE 26 ---
+
+Canada Water
+Ressources en eau du Canada
+PART IV General
+PARTIE IV Dispositions générales
+Inspectors and Analysts
+Inspecteurs et analystes
+Sections 26-29
+Articles 26-29
+Current to January 22, 2025
+Last amended on April 1, 2014
+21
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Assistance to inspectors
+Assistance à l’inspecteur
+(7) The owner or person in charge of any area, place,
+premises, vehicle or vessel referred to in this section and
+every person found therein shall give an inspector all rea-
+sonable assistance to enable the inspector to carry out his
+duties and functions under this Act and the regulations
+and shall furnish the inspector with such information
+with respect to the administration of this Act and the reg-
+ulations as the inspector may reasonably require.
+R.S., 1985, c. C-11, s. 26; R.S., 1985, c. 31 (1st Supp.), s. 29, c. 16 (4th Supp.), s. 142.
+(7) Le propriétaire ou le responsable de la zone ou de
+l’autre lieu ou véhicule visité, ainsi que quiconque s’y
+trouve, sont tenus de prêter à l’inspecteur toute l’assis-
+tance possible dans l’exercice de ses fonctions et de lui
+donner les renseignements qu’il peut valablement exiger
+quant à l’application de la présente loi et de ses règle-
+ments.
+L.R. (1985), ch. C-11, art. 26; L.R. (1985), ch. 31 (1er suppl.), art. 29, ch. 16 (4e suppl.),
+art. 142.
+Obstruction of inspector
+Entrave
+27 (1) No person shall obstruct or hinder an inspector
+in the carrying out of his duties or functions under this
+Act or the regulations.
+27 (1) Il est interdit d’entraver l’action de l’inspecteur
+dans l’exercice des fonctions que lui confèrent la présente
+loi ou ses règlements.
+False statements
+Fausses déclarations
+(2) No person shall knowingly make a false or mislead-
+ing statement, either orally or in writing, to an inspector
+or other person engaged in carrying out his duties or
+functions under this Act or the regulations.
+R.S., c. 5(1st Supp.), s. 25.
+(2) Il est interdit de faire en connaissance de cause, ora-
+lement ou par écrit, une déclaration fausse ou trompeuse
+à l’inspecteur ou à une autre personne dans l’exercice des
+fonctions que lui confèrent la présente loi ou ses règle-
+ments.
+S.R., ch. 5(1er suppl.), art. 25.
+Advisory Committees
+Comités consultatifs
+Establishment and constitution of advisory
+committees
+Constitution
+28 (1) The Minister may establish and appoint the
+members of such advisory committees as the Minister
+considers desirable for the purpose of advising and as-
+sisting him in carrying out the purposes and provisions
+of this Act.
+28 (1) Le ministre peut constituer les comités consulta-
+tifs qu’il estime souhaitables pour le conseiller et l’aider
+dans l’application de la présente loi et en nommer les
+membres.
+Expenses and allowances
+Indemnités et rémunération
+(2) Each member of an advisory committee is entitled to
+be paid reasonable travel and other expenses while ab-
+sent from his ordinary place of residence in the course of
+his duties as a member and may, with the approval of the
+Minister, be paid such amount as is fixed by the Gover-
+nor in Council for each day the member attends any
+meeting of the committee or for each day during which
+he performs, with the approval of the committee, any du-
+ties on behalf of the committee in addition to his ordi-
+nary duties.
+R.S., c. 5(1st Supp.), s. 26.
+(2) Les membres d’un comité consultatif ont droit aux
+frais de déplacement et autres entraînés par l’accomplis-
+sement, hors du lieu de leur résidence habituelle, de leurs
+fonctions; ils reçoivent en outre, avec l’approbation du
+ministre, la rémunération que fixe le gouverneur en
+conseil pour chaque jour où ils assistent à une réunion du
+comité ou accomplissent, pour le compte de celui-ci et
+avec son approbation, une mission extraordinaire.
+S.R., ch. 5(1er suppl.), art. 26.
+Public Information Program
+Programme d’information du public
+Distribution of information
+Diffusion de renseignements
+29 The Minister may, either directly or in cooperation
+with any government, institution or person, publish or
+otherwise distribute or arrange for the publication or
+29 Le ministre peut, soit directement, soit en collabora-
+tion avec un gouvernement, une institution ou une per-
+sonne, diffuser, notamment en les publiant, les
+
+
+--- PAGE 27 ---
+
+Canada Water
+Ressources en eau du Canada
+PART IV General
+PARTIE IV Dispositions générales
+Public Information Program
+Programme d’information du public
+Sections 29-33
+Articles 29-33
+Current to January 22, 2025
+Last amended on April 1, 2014
+22
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+distribution of such information as the Minister deems
+necessary to inform the public respecting any aspect of
+the conservation, development or utilization of the water
+resources of Canada.
+R.S., c. 5(1st Supp.), s. 27.
+renseignements qu’il estime nécessaires pour informer le
+public sur tout aspect de la conservation, de la mise en
+valeur ou de l’utilisation des ressources en eau du
+Canada, ou prendre des dispositions pour la diffusion de
+tels renseignements.
+S.R., ch. 5(1er suppl.), art. 27.
+Offences and Punishment
+Infractions et peines
+Punishment
+Peine
+30 (1) Every person who contravenes section 9 is guilty
+of an offence and liable on summary conviction to a fine
+not exceeding five thousand dollars for each offence.
+30 (1) Quiconque contrevient à l’article 9 commet une
+infraction et encourt, sur déclaration de culpabilité par
+procédure sommaire, une amende maximale de cinq
+mille dollars pour chaque infraction.
+Continuing offences
+Infractions continues
+(2) Where an offence under subsection (1) is committed
+on, or continued for, more than one day, it shall be
+deemed to be a separate offence for each day on which
+the offence is committed or continued.
+R.S., 1985, c. C-11, s. 30; R.S., 1985, c. 16 (4th Supp.), s. 143.
+(2) Il est compté une infraction distincte pour chacun
+des jours au cours desquels se commet ou se continue
+toute infraction prévue au paragraphe (1).
+L.R. (1985), ch. C-11, art. 30; L.R. (1985), ch. 16 (4e suppl.), art. 143.
+Punishment
+Peine
+31 Every person who contravenes section 27 or any reg-
+ulation made under paragraph 18(1)(e), (f) or (g) is guilty
+of an offence punishable on summary conviction.
+R.S., 1985, c. C-11, s. 31; R.S., 1985, c. 16 (4th Supp.), s. 144.
+31 Quiconque contrevient à l’article 27 ou à tout règle-
+ment d’application des alinéas 18(1)e), f) ou g) commet
+une infraction punissable sur déclaration de culpabilité
+par procédure sommaire.
+L.R. (1985), ch. C-11, art. 31; L.R. (1985), ch. 16 (4e suppl.), art. 144.
+Order to refrain or to cease activity
+Injonction
+32 Where a person is convicted of an offence under this
+Act, the court may, in addition to any punishment it may
+impose, order that person to refrain from any further
+contravention of the provision of this Act or the regula-
+tions for the contravention of which that person has been
+convicted or to cease to carry on any activity specified in
+the order the carrying on of which, in the opinion of the
+court, will or is likely to result in any further contraven-
+tion thereof.
+R.S., c. 5(1st Supp.), s. 30.
+32 En cas de déclaration de culpabilité pour infraction à
+la présente loi, le tribunal peut, en sus de toute peine
+qu’il peut lui imposer, enjoindre au contrevenant de ne
+pas récidiver ou de cesser l’activité spécifiée dans l’or-
+donnance et dont la poursuite, à son avis, risque d’entraî-
+ner une nouvelle infraction.
+S.R., ch. 5(1er suppl.), art. 30.
+Offence of employee or agent
+Perpétration par un agent ou mandataire
+33 In a prosecution for an offence under this Act, it is
+sufficient proof of the offence to establish that it was
+committed by an employee or agent of the accused,
+whether or not the employee or agent is identified or has
+been prosecuted for the offence, unless the accused es-
+tablishes that the offence was committed without the
+knowledge or consent of, and that all due diligence to
+prevent its commission was exercised by, the accused.
+R.S., c. 5(1st Supp.), s. 31.
+33 Dans les poursuites pour infraction à la présente loi,
+il suffit, pour prouver l’infraction, d’établir qu’elle a été
+commise par un agent ou un mandataire de l’accusé, que
+cet agent ou mandataire ait été ou non identifié ou pour-
+suivi. L’accusé peut se disculper en prouvant que la per-
+pétration a eu lieu à son insu ou sans son consentement
+et qu’il avait pris les mesures nécessaires pour l’empê-
+cher.
+S.R., ch. 5(1er suppl.), art. 31.
+
+
+--- PAGE 28 ---
+
+Canada Water
+Ressources en eau du Canada
+PART IV General
+PARTIE IV Dispositions générales
+Offences and Punishment
+Infractions et peines
+Sections 34-37
+Articles 34-37
+Current to January 22, 2025
+Last amended on April 1, 2014
+23
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+Limitation period
+Prescription
+34 Proceedings in respect of an offence under this Act
+may be instituted at any time within, but not later than,
+two years after the time when the subject-matter of the
+proceedings arose.
+R.S., c. 5(1st Supp.), s. 32.
+34 Les poursuites visant une infraction à la présente loi
+se prescrivent par deux ans à compter de sa perpétration.
+S.R., ch. 5(1er suppl.), art. 32.
+Venue
+Ressort
+35 Any complaint or information in respect of an of-
+fence under this Act may be heard, tried or determined
+by a court if the accused is resident or carrying on busi-
+ness within the territorial jurisdiction of that court al-
+though the matter of the complaint or information did
+not arise in that territorial jurisdiction.
+R.S., c. 5(1st Supp.), s. 33.
+35 Une plainte ou dénonciation relative à une infraction
+à la présente loi peut être entendue ou jugée par un tribu-
+nal du lieu où l’accusé réside ou fait affaires, même si le
+fait générateur de la plainte ou de la dénonciation ne s’est
+pas produit dans ce ressort.
+S.R., ch. 5(1er suppl.), art. 33.
+Action to enjoin not prejudiced by prosecution
+Injonction prise par le procureur général
+36 (1) Notwithstanding that a prosecution has been in-
+stituted in respect of an offence under subsection 30(1),
+the Attorney General of Canada may commence and
+maintain proceedings to enjoin any contravention of sec-
+tion 9.
+36 (1) Indépendamment d’une poursuite visant toute
+infraction prévue au paragraphe 30(1), le procureur géné-
+ral du Canada peut engager des procédures en vue de
+faire cesser toute contravention à l’article 9.
+Civil remedy not affected
+Recours civils
+(2) No civil remedy for any act or omission is suspended
+or affected by reason that the act or omission is an of-
+fence under this Act.
+R.S., c. 5(1st Supp.), s. 34.
+(2) Le fait qu’un acte ou une omission constitue une in-
+fraction à la présente loi n’exclut pas les recours civils à
+son égard.
+S.R., ch. 5(1er suppl.), art. 34.
+Evidence
+Preuve
+Certificate of analyst
+Certificat de l’analyste
+37 (1) Subject to subsections (2) and (3), a certificate
+purporting to be signed by an analyst and stating that the
+analyst has analyzed or examined a sample submitted to
+the analyst by an inspector and stating the result of the
+analysis or examination is admissible in evidence in any
+prosecution for a contravention of this Act and, in the ab-
+sence of evidence to the contrary, is proof of the state-
+ments contained in the certificate without proof of the
+signature or official character of the person appearing to
+have signed the certificate.
+37 (1) Sous réserve des paragraphes (2) et (3), le certifi-
+cat censé signé par l’analyste, où il est déclaré que celui-ci
+a étudié tel échantillon que lui a remis l’inspecteur et où
+sont donnés ses résultats, est admissible en preuve dans
+les poursuites engagées pour infraction à la présente loi
+et, sauf preuve contraire, fait foi de son contenu sans
+qu’il soit nécessaire de prouver l’authenticité de la signa-
+ture qui y est apposée ou la qualité officielle du signa-
+taire.
+Attendance of analyst
+Présence de l’analyste
+(2) The party against whom a certificate of an analyst is
+produced pursuant to subsection (1) may, with leave of
+the court, require the attendance of the analyst for the
+purposes of cross-examination.
+(2) La partie contre laquelle est produit le certificat peut,
+avec l’autorisation du tribunal, exiger la présence de
+l’analyste pour contre-interrogatoire.
+Notice of intended production of certificate
+Préavis
+(3) No certificate shall be admitted in evidence pursuant
+to subsection (1) unless the party intending to produce it
+has given reasonable notice of that intention, together
+(3) Le certificat n’est recevable en preuve que si la partie
+qui entend le produire donne de son intention à la partie
+
+
+--- PAGE 29 ---
+
+Canada Water
+Ressources en eau du Canada
+PART IV General
+PARTIE IV Dispositions générales
+Evidence
+Preuve
+Sections 37-39
+Articles 37-39
+Current to January 22, 2025
+Last amended on April 1, 2014
+24
+À jour au 22 janvier 2025
+Dernière modification le 1 avril 2014
+with a copy of the certificate, to the party against whom it
+is intended to be produced.
+R.S., c. 5(1st Supp.), s. 35.
+qu’elle vise un préavis suffisant, accompagné d’une copie
+du certificat.
+S.R., ch. 5(1er suppl.), art. 35.
+Report to Parliament
+Rapport au Parlement
+Annual report
+Rapport annuel
+38 The Minister shall, as soon as possible after the end
+of each fiscal year, prepare a report on the operations un-
+der this Act for that year, and the Minister shall cause the
+report to be laid before Parliament forthwith on the com-
+pletion thereof or, if Parliament is not then sitting, on
+any of the first fifteen days next thereafter that either
+House of Parliament is sitting.
+R.S., c. 5(1st Supp.), s. 36.
+38 Au début de chaque exercice, le ministre établit dans
+les meilleurs délais un rapport sur les opérations effec-
+tuées en application de la présente loi au cours du précé-
+dent exercice. Il le fait immédiatement déposer devant le
+Parlement ou, si celui-ci ne siège pas, dans les quinze
+premiers jours de séance ultérieurs de l’une ou l’autre
+chambre.
+S.R., ch. 5(1er suppl.), art. 36.
+Financial
+Disposition financière
+Loans, grants and contributions
+Prêts, subventions et contributions
+39 The Minister may, with the approval of the Governor
+in Council,
+(a) make loans or pay contributions to any agency in
+respect of the cost of incorporating the agency or in re-
+spect of its operating expenses or make loans to any
+agency in respect of capital costs incurred by it; and
+(b) in accordance with an agreement entered into un-
+der section 5, make loans or pay grants to the govern-
+ment of any province to meet any part of such portion
+of the cost of programs undertaken pursuant to the
+agreement as is to be paid by the Minister.
+R.S., c. 5(1st Supp.), s. 38.
+39 Le ministre peut, avec l’approbation du gouverneur
+en conseil :
+a) consentir des prêts ou verser des contributions à
+tout organisme relativement aux frais de constitution
+en personne morale de ce dernier ou relativement à
+ses frais de fonctionnement ou consentir des prêts à
+tout organisme relativement aux coûts en capital ex-
+posés par lui;
+b) conformément à un accord conclu sous le régime
+de l’article 5, consentir des prêts ou verser des subven-
+tions au gouvernement d’une province pour faire face
+à toute fraction de la partie du coût des programmes
+entrepris aux termes de cet accord à être versée par le
+ministre.
+S.R., ch. 5(1er suppl.), art. 38.

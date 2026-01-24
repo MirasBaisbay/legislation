@@ -1,0 +1,400 @@
+01002800912030008
+
+GOVERNMENT GAZETTE
+OF THE HELLENIC REPUBLIC
+
+PART ONE
+
+ISSUE NO. 280
+9 December 2003
+
+LAW NO. 3199
+
+Protection and management of waters - Harmonization with Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000.
+
+THE PRESIDENT
+OF THE HELLENIC REPUBLIC
+
+Hereby promulgates the following law passed by the Parliament:
+
+CHAPTER A
+BASIC CONCEPTS OF PROTECTION AND MANAGEMENT OF WATERS
+SCOPE OF APPLICATION
+
+Article 1
+
+By the provisions of this law and the regulatory acts to be issued pursuant to it, national law is harmonized with the provisions of Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 (Official Journal of the European Communities L327/22.12.2000).
+
+Article 2
+Scope of application - Definitions
+
+This law applies to the protection and management of surface and groundwaters.
+
+For the purposes of this law and the regulatory acts issued pursuant to it, the following definitions shall apply:
+
+a) "Surface waters": means inland waters, except groundwater; transitional waters and coastal waters. The chemical status of territorial waters is also included under surface waters.
+b) "Groundwater": means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil.
+c) "Inland waters": means all standing or flowing surface waters and all groundwater on the landward side of the baseline from which the breadth of territorial waters is measured.
+d) "River": means a body of inland water flowing for the most part on the surface of the land but which may flow underground for part of its course.
+e) "Lake": means a body of standing inland surface water.
+f) "Transitional waters": means bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows.
+g) "Coastal waters": means surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured, extending where appropriate up to the outer limit of transitional waters.
+h) "Artificial water body": means a body of surface water created by human activity.
+i) "Heavily modified water body": means a body of surface water which as a result of physical alterations by human activity is substantially changed in character. By presidential decree, provided for in par. 1 of Article 15, the competent body for the characterization of these bodies, the methodology for their characterization, and any related matter shall be determined.
+j) "Body of surface water": means a discrete and significant element of surface water such as a lake, a reservoir, a stream, river or canal, part of a stream, river or canal, a transitional water or a stretch of coastal water.
+k) "Aquifer": means a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater.
+l) "Body of groundwater": means a distinct volume of groundwater within an aquifer or aquifers.
+m) "River basin": means the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly, lakes into the sea at a single river mouth, estuary or delta.
+n) "Sub-basin": means the area of land from which all surface run-off flows through a series of streams, rivers and, possibly, lakes to a particular point in a water course (normally a lake or a river confluence).
+o) "River basin district": means the area of land and sea, made up of one or more neighbouring river basins together with their associated groundwaters and coastal waters, which is identified as the main unit for management and protection of river basins as defined in Article 5.
+p) "Surface water status": is the general expression of the status of a body of surface water, determined by the poorer of its ecological and its chemical status.
+q) "Good surface water status": means the status achieved by a surface water body when both its ecological status and its chemical status are at least "good".
+r) "Groundwater status": is the general expression of the status of a body of groundwater, determined by the poorer of its quantitative status and its chemical status.
+s) "Good groundwater status": is the status achieved by a groundwater body when both its quantitative status and its chemical status are at least "good".
+t) "Ecological status": is an expression of the quality of the structure and functioning of aquatic ecosystems associated with surface waters, classified in accordance with the provisions of the presidential decree provided for in par. 1 of Article 15.
+u) "Good ecological status": is the status of a body of surface water so classified in accordance with the provisions of the presidential decree provided for in par. 1 of Article 15.
+v) "Good ecological potential": is the status of a heavily modified or an artificial water body so classified in accordance with the provisions of the presidential decree provided for in par. 1 of Article 15.
+w) "Good surface water chemical status": means the chemical status required to meet the environmental objectives for surface waters, which are defined in accordance with the provisions of the presidential decree provided for in par. 1 of Article 15.
+x) "Good groundwater chemical status": means the chemical status of a body of groundwater, which meets all the conditions set out in the presidential decree provided for in par. 1 of Article 15.
+y) "Hazardous substances": means substances or groups of substances that are toxic, persistent and liable to bio-accumulate, and other substances or groups of substances which give rise to an equivalent level of concern.
+z) "Priority substances": means substances determined in accordance with Article 9 par. 2. Among these substances, "priority hazardous substances" are distinguished, meaning substances identified in accordance with the provisions of the same article for which measures must be taken, as defined in Article 9.
+aa) "Pollution": means the direct or indirect introduction, as a result of human activity, of substances or heat into the air, water or land which may be harmful to human health or the quality of aquatic ecosystems or terrestrial ecosystems directly depending on aquatic ecosystems, which result in damage to material property, or which impair or interfere with amenities and other legitimate uses of the environment.
+bb) "Environmental quality standard": means the concentration of a particular pollutant or group of pollutants in water, sediment or biota which should not be exceeded in order to protect human health and the environment.
+cc) "Water services": means all services which provide, for households, public institutions or any economic activity:
+a. abstraction, impoundment, storage, treatment and distribution of surface or groundwater,
+b. waste-water collection and treatment facilities which subsequently discharge into surface waters.
+dd) "Emission limit values": means the mass, expressed in terms of certain specific parameters, the concentration and/or the level of an emission, which may not be exceeded during one or more periods of time. Emission limit values may also be laid down for certain groups, families or categories of substances, specified in the presidential decree provided for in par. 1 of Article 15.
+The emission limit values for substances shall normally apply at the point where the emissions leave the installation, dilution being disregarded when determining them. With regard to indirect releases into water, the effect of a waste-water treatment plant may be taken into account when determining the emission limit values of the installation concerned, provided that an equivalent level of protection of the environment as a whole is guaranteed and provided that this does not lead to higher levels of pollution in the environment.
+ee) "Emission controls": are controls requiring a specific emission limitation, for instance an emission limit value, or otherwise specifying limits or conditions on the effects, nature or other characteristics of an emission or operating conditions which affect emissions.
+ff) "Quantitative status": is an expression of the degree to which a body of groundwater is affected by direct and indirect abstractions.
+
+CHAPTER B
+BODIES AND ORGANS
+
+Article 3
+National Water Committee
+
+A National Water Committee is hereby established, which formulates the policy for the protection and management of waters, monitors and controls its implementation and approves, following a proposal by the Minister of Environment, Physical Planning and Public Works and the opinion of the National Water Council, the national programmes for the protection and management of the country's water resources.
+The National Water Committee consists of:
+a) the Minister of Environment, Physical Planning and Public Works, as President,
+b) the Minister of Economy and Finance,
+c) the Minister of Interior, Public Administration and Decentralization,
+d) the Minister of Development,
+e) the Minister of Health and Welfare,
+f) the Minister of Agriculture.
+Other Ministers may participate in the Committee, upon invitation of the President, when matters of their competence are discussed. The Minister of Foreign Affairs also participates in the Committee when matters concerning transboundary waters are discussed.
+The members of the Committee are substituted by the General Secretaries of the respective Ministries.
+The National Water Committee may establish Advisory - Scientific Committees to support its work.
+
+A National Water Council is hereby established, chaired by the Minister of Environment, Physical Planning and Public Works, in which the following participate with one representative each:
+
+each political party represented in the Parliament,
+
+the Union of Prefectural Authorities of Greece (E.N.A.E.),
+
+the Central Union of Municipalities and Communities of Greece (K.E.D.K.E.),
+
+the Union of Municipal Water and Sewerage Companies,
+
+water and sewerage companies not represented by the Union of Municipal Water and Sewerage Companies,
+
+the Panhellenic Confederation of Unions of Agricultural Cooperatives (PASEGES),
+
+the Hellenic Federation of Enterprises (SEV),
+
+the Public Power Corporation (DEH),
+
+the General Confederation of Greek Workers (GSEE),
+
+the Technical Chamber of Greece (TEE),
+
+the Geotechnical Chamber of Greece,
+
+the Institute of Geology and Mineral Exploration (IGME),
+
+the Hellenic Centre for Marine Research (HCMR),
+
+the Greek Biotope/Wetland Centre (EKBY),
+
+the National Center for Scientific Research "Demokritos" (NCSR Demokritos),
+
+two environmental non-governmental organizations,
+
+the National Centre for the Environment and Sustainable Development (EKPAA),
+
+the Consumers' Institute (INKA),
+
+the National Agricultural and Rural Research Foundation (ETHIAGE),
+
+the President of the National Committee to Combat Desertification.
+
+The National Water Committee submits to the Parliament and the National Water Council an annual report on the state of the country's water environment, the implementation of legislation on water protection and management, and its compatibility with the Community acquis.
+
+The National Water Council is convened by its President at least once a year.
+
+The National Water Council is constituted by a decision of the Minister of Environment, Physical Planning and Public Works and is convened by its President at least once a year. By the same decision, the method of its operation, the service providing secretarial support, the method of designating the representative of the water and sewerage companies not represented by the Union of Municipal Water and Sewerage Companies, and any other matter necessary for its operation shall be determined.
+
+Article 4
+Central Water Agency
+
+A Central Water Agency is hereby established within the Ministry of Environment, Physical Planning and Public Works, which exercises the following competencies:
+a) It draws up national programmes for the protection and management of the country's water resources and monitors and coordinates their implementation. The national programmes are distinguished into long-term programmes with a duration of over six years and medium-term programmes with a duration of two to six years. Before their approval, they are submitted for consultation to the National Water Council.
+b) It draws up the annual report provided for in par. 3 of the preceding article.
+c) It coordinates the services and state bodies and participates in the competent community organs on any issue concerning the protection and management of waters.
+d) It proposes general rules for the costing and pricing of waters and monitors their observance in accordance with the long-term and medium-term programmes for the protection and management of the country's water resources.
+e) It proposes legislative and administrative measures for the protection and management of waters.
+f) It monitors at a national level the quality and quantity of waters in cooperation with the Water Directorates of the Regions and provides for the development and operation of a national network for monitoring the quality and quantity of waters.
+g) It manages a database of hydrological and meteorological data at a national level and ensures its continuous updating. State services, public law legal persons, local government organizations of the 1st or 2nd degree, as well as any body participating in the national network for monitoring water quality and quantity, are obliged to provide data free of charge to the database of the preceding subparagraph. The same obligation applies to any legal or natural person in whose favor a license for water use or for the execution of a water resource development project has been issued, in accordance with the specific terms defined in the license.
+h) It monitors the operation of the Water Directorates of the Regions and provides guidance for the exercise of their competencies.
+i) For each river basin, the Central Water Agency is obliged by 22.12.2004:
+- to compile a full and analytical report of its characteristics.
+- to review the impact of human activities on the status of surface and groundwaters.
+- to carry out an economic analysis of each water use in that basin.
+j) It establishes the National Register of protected areas by 22.12.2004. By the presidential decree provided for in par. 1 of Article 15, the content of the Register is specified in detail.
+k) It ensures, by 2015 at the latest, the protection, enhancement and restoration of all bodies of surface water, as well as artificial and heavily modified water bodies, with the aim of achieving good surface water status and good ecological potential and good chemical status for the surface waters of artificial and heavily modified water bodies, unless for these, the above is disproportionately expensive or due to force majeure or natural causes or an accident, such a thing is not feasible.
+
+The Central Water Agency constitutes a unified administrative sector of the Ministry of Environment, Physical Planning and Public Works, headed by a special secretary on secondment with Grade B of the special posts category, and is organized into Directorates and Departments by a joint decision of the Ministers of Environment, Physical Planning and Public Works, Interior, Public Administration and Decentralization, and Economy and Finance. By the same decision, existing organizational units of the Ministry of Environment, Physical Planning and Public Works that exercise related competencies may be abolished or transferred to the Central Water Agency, the competencies of the Agency are specified in detail, the competencies are allocated to the Directorates and Departments, and the necessary posts for permanent and indefinite-term personnel are established by branch, category, and grade. For the remaining matters, the provisions of Article 28 of Law 1558/1985 (Official Gazette 137 A') apply.
+
+An Advisory Water Committee is established within the Central Water Agency, which consists of the Head of the Central Water Agency as president, one representative of the Ministry of Development, one representative of the Ministry of Agriculture, one representative of the Ministry of Economy and Finance, and one representative of the Ministry of Interior, Public Administration and Decentralization. The Advisory Water Committee is constituted by a decision of the Minister of Environment, Physical Planning and Public Works and provides opinions to the Central Water Agency on the exercise of the competencies referred to in cases a, b, and d of paragraph 1.
+
+By a joint decision of the Ministers of Environment, Physical Planning and Public Works, Agriculture, Development, Economy and Finance, Health and Welfare, a national network for monitoring the quality and quantity of waters is established, with the determination of the measurement locations (stations) and the bodies obliged to operate them. By the same decision, the obligations of the bodies participating in the national monitoring network and every issue related to its development and operation are determined.
+
+Article 5
+Water Directorate of the Region
+
+The protection and management of each river basin belong to the Region within whose administrative boundaries it extends.
+
+By a decision of the National Water Committee, published in the Government Gazette, the river basins are defined and the Regions that are competent for their management and protection are designated.
+
+If a river basin extends into the administrative boundaries of more than one Region, the aforementioned competencies are exercised jointly. By a decision of the National Water Committee, published in the Government Gazette, it is permitted to allocate the competencies among the Regions or to designate one Region as exclusively competent and to determine the manner and the more specific procedure for exercising the competencies of this paragraph.
+
+In each Region, a Water Directorate is established through which the competencies of the Region for the protection and management of waters are exercised. By a joint decision of the Ministers of Environment, Physical Planning and Public Works, Interior, Public Administration and Decentralization, and Economy and Finance:
+a) the necessary personnel posts are established by category and branch for the staffing of the Directorate,
+b) the structure of the Directorate into departments is defined, the competencies are allocated to them, and every issue related to its organization and staffing is regulated.
+
+The Water Directorate has the following competencies:
+a) It takes the necessary measures for:
+- the prevention of the degradation of surface and groundwaters,
+- the enhancement and restoration of water systems,
+- the progressive reduction of pollution from priority substances and the cessation or phasing out of emissions, discharges, and losses of priority hazardous substances,
+- the promotion of sustainable water use based on long-term protection of available water resources,
+- ensuring the balance between groundwater abstraction and recharge,
+- the mitigation of the effects of floods and droughts, and
+- the application of all objectives and standards provided for protected areas.
+b) It specifies and implements long-term and medium-term programmes for the protection and management of river basins.
+c) It draws up Management Plans and Programmes of Measures, as provided for in Articles 7 and 8.
+d) It implements the Management Plans and the Programmes of Measures and compiles an annual implementation report thereof. The annual report is transmitted to the Central Water Agency.
+e) It establishes a register of protected areas which is reviewed and updated at regular intervals, and which it transmits to the Central Water Agency in order to compile a National Register of protected areas.
+f) It provides for the substantial participation of the public, in the processes of protection and management of waters, and especially in the process of drafting, updating, and reviewing the Management Plans, as described in Article 7.
+Specifically, the Water Directorate makes available to the public, including users, for the submission of comments:
+- the timetable and work programme for the production of the plan, including a statement of the measures that will be taken, at least three years before the beginning of the period to which the plan refers,
+- an interim overview of the significant water management issues identified in the river basin, at least two years before the beginning of the period to which the Management Plan refers.
+g) It collects and processes data on the quantity and quality of waters and sends them to the hydrological and meteorological database. It monitors and controls the quality parameters and the quantitative status of the waters, the ecological status of the surface waters, as well as the status of the protected areas, as specified in the presidential decree provided for in par. 1 of Article 15.
+h) It coordinates all bodies on issues related to the use and protection of waters.
+i) It takes all necessary measures to carry out:
+- analysis of the characteristics of each river basin district,
+- a review of the impact of human activities on the status of surface and groundwaters, and
+- an economic analysis of water use.
+j) It provides for the control of point and diffuse source emissions of pollutants into surface, ground, and coastal waters.
+k) It applies measures for the control of pollution at source through the definition of emission limit values and environmental quality standards.
+l) It applies a Programme of Measures for Protection against pollution, as well as for the de-pollution of waters.
+m) It designs and imposes all necessary preventive measures to address emergencies.
+n) It imposes measures for the protection of groundwaters and the tackling of increasing trends resulting from human activities in the concentrations of substances in groundwaters.
+o) It issues the licenses provided for in Article 11 and controls their application.
+p) It imposes on existing or new projects and activities, which are likely to degrade the waters, the restrictions and measures that are appropriate for their protection, as defined in Article 8.
+
+By a decision of the General Secretary of the Region, restrictions or other measures are imposed on the use of waters and the execution of their development projects in order to achieve the objectives of the Management Plan provided for in Article 7 and the Programmes of Measures and Monitoring provided for in Article 8.
+
+Article 6
+Regional Water Council
+
+A Regional Water Council is established in each Region, which constitutes an organ of social dialogue and consultation on matters of water protection and management.
+The Regional Water Council is composed of:
+a) the General Secretary of the Region, as President,
+b) the Head of the Water Directorate of the Region,
+c) one representative of each Prefectural Authority that falls within the administrative boundaries of the Region,
+d) one representative of each Local Union of Municipalities and Communities (T.E.D.K.) of the Prefectures of the Region,
+e) one representative of all Municipal Water and Sewerage Companies of the Region,
+f) one representative each from the Technical, Geotechnical, Commercial, and Industrial Chambers,
+g) one representative of each Union of Agricultural Cooperatives of the Region,
+h) one representative of the environmental non-governmental organizations,
+i) one representative from each General Land Improvement Organization (G.O.E.B.),
+j) one representative from each management body of a protected area under the provisions of Article 21 of Law 1650/1986 and Article 13 of Law 3044/2002.
+
+The Regional Water Council provides an opinion before the approval of the Management Plan and expresses its view to the General Secretary of the Region on any matter of water protection and management submitted to it by him.
+
+The Regional Water Council, before providing its opinion on the Management Plan, makes it public so that the public may be informed of its content and participate in the public consultation on it, within a deadline set by the Regional Water Council.
+
+The constitution of the Regional Water Council is made by a decision of the General Secretary of the Region and is convened by its President at least once a year.
+
+By a joint decision of the Ministers of Environment, Physical Planning and Public Works and Interior, Public Administration and Decentralization, the mode of operation and the secretarial support of the Regional Water Councils, the method of publicizing the Management Plan and the participation of the public in the consultation, as well as any other matter for the implementation of this article, shall be determined.
+
+CHAPTER C
+PROTECTION AND MANAGEMENT OF WATERS
+
+Article 7
+Management Plan
+
+Each Region prepares a Management Plan for the river basins under its competence, which is valid for six years. For the river basins for which two or more Regions are jointly competent, Special Management Plans are drawn up jointly, unless otherwise specified by the decision provided for in par. 3 of Article 5. The Management Plan contains all the elements, information, and assessments necessary for the protection and management of waters. The specific content of the Management Plans is determined by the presidential decree provided for in par. 1 of Article 15.
+
+The Management Plan is drawn up by the Water Directorate of the Region and is approved by a decision of the General Secretary of the Region after an opinion from the Regional Water Council and the concurring opinion of the Central Water Agency. During the first implementation of this law, upon the request of the General Secretary of the Region, the Management Plan may be drawn up by the Central Water Agency of the Ministry of Environment, Physical Planning and Public Works.
+
+In drawing up the Management Plans, account is taken of the guidelines and proposals of the Regional Frameworks for Physical Planning and Sustainable Development provided for in Article 8 of Law 2742/1999, the content of the general and special development programmes, as well as the needs arising for the protection and management of protected areas.
+
+The first Management Plan shall be drawn up and approved by 22.12.2009.
+
+Article 8
+Programmes of Measures and Monitoring of water status
+
+The Regions draw up:
+a) a Programme of Measures and
+b) a Programme for Monitoring the status of waters.
+The Management Plan of the Region obligatorily includes the above programmes as its parts.
+
+The Programme of Measures defines in general terms the measures required for:
+a) the protection and management of the waters of the river basins that fall under the competence of each Region,
+b) the maintenance, protection, and improvement of the quality of the water environment,
+c) tackling the pollution of aquatic ecosystems, regardless of their source, and
+d) ensuring the sustainable use of waters.
+
+The Programme of Measures contains, depending on the needs and specificities of the basins, basic and supplementary measures, the detailed content of which is determined by the presidential decree provided for in par. 1 of Article 15.
+
+The Programme of Measures is drawn up and approved in the same way as the Management Plan. The first Programme of Measures shall be drawn up and approved by 22.12.2009 and all measures shall be ready for implementation by 1.1.2012.
+
+The Monitoring Programme includes, in particular, measures that ensure the continuous monitoring of the quality parameters and the quantitative status of the waters, as well as the ecological status of the surface waters.
+
+The Monitoring Programmes are approved in the same way as the Management Plans, their detailed content is determined by the presidential decree provided for in paragraph 1 of Article 15, and they are put into effect by 31.12.2006 at the latest.
+
+Article 9
+Programme of Special Measures against pollution
+
+Any project or activity that may cause pollution by discharging liquid waste into the environment must be harmonized with the approved Management Plans, in order to achieve the protection and the objective of good ecological status of the waters.
+
+Each Region draws up a Programme of Special Measures against the pollution of waters by individual pollutants or groups of pollutants that pose a significant risk to or via the aquatic environment, including waters intended for the abstraction of drinking water. For these pollutants, which are determined by a decision of the competent bodies of the European Union, the measures aim at the progressive reduction or recycling and, for the priority hazardous substances determined by a similar decision, at the cessation or gradual elimination of discharges, emissions, and losses.
+
+Each Region draws up a Programme of Special Measures against pollution for the prevention and control of groundwater pollution. These measures aim at achieving the objective of good chemical status of the groundwaters.
+
+The Programmes of Special Measures against pollution are drawn up and approved in the same way as the Management Plans. The more specific content of the Programmes of Special Measures against pollution is determined by the presidential decree provided for in paragraph 1 of Article 15.
+
+CHAPTER D
+USE OF WATERS
+
+Article 10
+General rules for the use of waters
+
+Water uses are distinguished into water supply, irrigation, industrial use, energy use, and recreational use. The use for water supply has priority, in terms of quantity and quality, over any other use.
+
+For each use, the following rules apply, which are taken into account in the Management Plans:
+a) Each use must aim at the sustainable and balanced satisfaction of development needs and ensure the long-term protection of waters, the adequacy of their reserves, and the maintenance of their quality, especially the reduction and prevention of their pollution.
+b) The satisfaction of water demand is based on the limits and potential of water reserves, taking into account the needs for the conservation of ecosystems, as well as the balance required between abstraction and recharge of groundwaters. The needs of water uses are met as far as possible at the level of the river basin district. In the management of waters, water saving must be ensured through the use of technical methods, economic incentives, and tools.
+
+Article 11
+Licenses for water use and for the execution of its development works
+
+Any legal or natural person may use water or execute works for the development of water resources to satisfy their actual needs. They may also execute works for the development of water resources for needs beyond their own or independently of them, provided they serve the common good.
+For the supply of water, the use of water, and the execution of works for the development of water resources, as well as for any project or activity that aims at protection against pollution due to the discharge of liquid waste into the environment, by a natural or legal person of the private and public sector, a license is required. For the issuance of a license for water use or for the execution of a water resource development project, the availability of the water quantities to be developed, as well as the expediency of its issuance in accordance with the relevant Management Plan and the measures defined by the Programme of Measures, must be documented.
+
+The licenses of the preceding paragraph are issued by the General Secretary of the respective Region. By a joint decision of the Ministers of Environment, Physical Planning and Public Works, Agriculture, Development, Interior, Public Administration and Decentralization, and Economy and Finance, the categories of licenses, the more specific procedure for their issuance, their content, their duration of validity, and any related matter shall be determined.
+
+By a decision of the General Secretary of the Region, the observance of additional or more specific prerequisites and the conduct of additional checks may be provided for, in order to issue a license for a specific water use or for the execution of a specific category of work, as well as the possibility of imposing restrictive measures on the uses and the operation of works, in conjunction with special circumstances.
+
+Article 12
+Cost recovery for water services
+
+By a decision of the National Water Committee, published in the Government Gazette, the procedures, the method, and the levels of cost recovery for water services in the various uses are determined, taking into account:
+a) the analysis of the characteristics of the river basins,
+b) the review of the impact of human activities on the status of surface and groundwaters,
+c) the economic analysis, which is carried out in accordance with what is specified in the presidential decree provided for in par. 1 of Article 15,
+d) the "polluter pays" principle,
+e) the social, environmental, and economic effects of the recovery, as well as the geographical and climatological conditions of the respective area.
+
+CHAPTER E
+SANCTIONS
+
+Article 13
+Administrative sanctions
+
+A fine from 200 euros to 600,000 euros is imposed as an administrative sanction on natural or legal persons who pollute or otherwise degrade the waters or violate the provisions of this law or the regulatory acts issued pursuant to it, as well as on violators of the terms and restrictions defined in the licenses provided for in Article 11, depending on the seriousness, frequency, and recurrence of the violation, irrespective of criminal or civil liability or the administrative sanctions provided for by other provisions.
+
+The fine is imposed by a decision of the General Secretary of the Region, following an on-site inspection, a report establishing the violation, and a recommendation from the Water Directorate of the Region.
+The Environmental Quality Control Units, provided for in Article 26 of Law 1650/1986, are also competent for the control and establishment of the violation. In this case, the fine is imposed by a decision of the Minister of Environment, Physical Planning, and Public Works.
+
+In case of exceptionally serious pollution or degradation of waters, and especially in the case where the type or quantity of pollutants or the extent or significance of the degradation of waters poses a risk of death or serious bodily harm or widespread ecological disturbance or destruction, the amount of the fine may increase up to 1,500,000 euros.
+
+If an enterprise or activity causes pollution or other degradation of waters, its operation may be temporarily prohibited until appropriate measures are taken to definitively stop the pollution or degradation of the waters. The permanent cessation of its operation may also be imposed if the enterprise or activity fails to comply with the indicated measures or if taking effective measures is not feasible. The cessation is imposed by a decision of the General Secretary of the Region following a recommendation, on-site inspection, and relevant report establishing the violation by the Water Directorate. The act imposing the prohibition of operation may also provide for a fine from 500 euros to 50,000 euros for each day of violation of the prohibition.
+
+By a joint decision of the Ministers of Environment, Physical Planning and Public Works and Interior, Public Administration and Decentralization, competencies concerning the control and imposition of sanctions under the provisions of this article may be transferred to local government organizations of the 1st and 2nd degree, or the procedure for control and imposition of the sanction and any related matter may be determined.
+
+Article 14
+Criminal sanctions
+
+Anyone who causes pollution or otherwise degrades the waters, by an act or omission that contravenes the provisions of this law or the decrees or decisions issued pursuant to it, as well as anyone who carries out an activity or enterprise without the required license or approval, in accordance with the provisions of this law or the decrees or decisions issued pursuant to it, or exceeds the limits of the license or approval granted to him and degrades the waters, is subject to the criminal sanctions provided for in Article 28 of Law 1650/1986.
+
+CHAPTER F
+AUTHORIZING, REPEALING, TRANSITIONAL AND FINAL PROVISIONS
+
+Article 15
+Authorizing provisions
+
+By the presidential decree issued upon the proposal of the Ministers of Environment, Physical Planning and Public Works, Development, Agriculture, Economy and Finance, Merchant Marine, Health and Welfare, and Interior, Public Administration and Decentralization, in addition to the matters provided to be regulated in the preceding provisions of this law, the following are determined:
+a) The more specific procedure and the method of monitoring the status of surface and groundwaters, as well as of the protected aquatic ecosystems.
+b) The method and procedure for controlling point and diffuse sources of pollution.
+c) The regulations of the annexes of Directive 2000/60/EC of the European Parliament and of the Council are incorporated into domestic law, and
+d) Any other matter related to the protection and management of waters and the incorporation of the provisions of the aforementioned Directive into domestic law is regulated.
+
+By a decision of the Ministers of Environment, Physical Planning and Public Works, Interior, Public Administration and Decentralization, and the competent minister in each case, the bodies that are obliged, according to Article 4, par. 1, case g, to provide data to the National Bank of Hydrological and Meteorological Information may be specified, the method of providing the information and any other detail regarding the operation and continuous updating of the database are determined.
+
+Article 16
+Repealing and transitional provisions
+
+Any provision that contravenes the provisions of this law or relates to matters specifically regulated by it is repealed upon its entry into force. Until the regulatory acts provided to be issued pursuant to this law come into force, the provisions in force until now that regulate the same subject matter shall remain in force.
+
+The competence for issuing the licenses of paragraph 2 of Article 11 is exercised by the respective Regions from 1.1.2005. Until the aforementioned date, the bodies designated by the provisions in force until now are competent for issuing the licenses of paragraph 2 of Article 11.
+
+The licenses for use and for water development projects, issued until 1.1.2005, are issued in accordance with the provisions in force until now and are not permitted to have a duration of more than three years. These licenses may be renewed one or more times for an equal period of time, in accordance with the provisions of this law and the provisions of the decisions provided for in paragraphs 2 and 3 of Article 11.
+
+By a joint decision of the Ministers of Environment, Physical Planning and Public Works, Development, Agriculture, and Interior, Public Administration and Decentralization, the procedures, the terms, the conditions, and the exclusive deadline within which those who have a right to use water in accordance with the pre-existing provisions are obliged, if they have not received a license in accordance with the provisions of Law 1739/1987, to submit an application for the granting of a license, shall be determined.
+
+Article 17
+Entry into force
+
+The validity of this law begins upon its publication in the Government Gazette, unless otherwise specified in its individual provisions.
+
+We order the publication of this law in the Government Gazette and its execution as a Law of the State.
+
+Athens, 5 December 2003
+
+THE PRESIDENT OF THE REPUBLIC
+KONSTANTINOS STEFANOPOULOS
+
+THE MINISTERS
+
+ECONOMY AND FINANCE
+N. CHRISTODOULAKIS
+
+DEVELOPMENT
+AP. - ATH. TSOCHATZOPOULOS
+
+HEALTH AND WELFARE
+K. STEFANIS
+
+INTERIOR, PUBLIC ADMINISTRATION AND DECENTRALIZATION
+K. SKANDALIDIS
+
+ENVIRONMENT, PHYSICAL PLANNING AND PUBLIC WORKS
+V. PAPANDREOU
+
+AGRICULTURE
+G. DRYS
+
+MERCHANT MARINE
+G. PASCHALIDIS
+
+Considered and affixed with the Great Seal of the State.
+
+Athens, 9 December 2003
+
+THE MINISTER OF JUSTICE
+F. PETSALNIKOS
+
+FROM THE NATIONAL PRINTING OFFICE

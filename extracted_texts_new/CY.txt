@@ -1,0 +1,1374 @@
+The Protection and Management of Waters Law of 2003 - 13(I)/2004
+
+PANCYPRIAN BAR ASSOCIATION
+
+CYLAW
+
+The Protection and Management of Waters Law of 2003 (13(I)/2004)
+
+History of Amendments
+13(Ι)/2004 67(I)/2009 113(I)/2010 122(I)/2012 159(I)/2015 47(I)/2018
+
+Preamble
+
+For the purposes of harmonisation with the acts of the European Community entitled -
+(a) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJL 327 of 22.12.2000, p. 1)
+
+(b) Decision No 2455/2001/EC of the European Parliament and of the Council of 20 November 2001 establishing the list of priority substances in the field of water policy and amending Directive 2000/60/EC (OJL 331 of 15.12.2001, p. 1).
+
+"Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, and 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council",
+
+For the purposes of harmonisation with Article 32 of the act of the European Community entitled -
+"Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC and 2008/1/EC, and Regulation (EC) No 1013/2006", and
+
+for the purposes of more correct harmonisation with Article 10 paragraph 2 point (c) and Article 16 paragraph 8 of the act of the European Community entitled -
+"Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy", as last amended by Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009,
+
+For the purposes of harmonisation with Article 2 and Annex II of the act of the European Union entitled -
+"Directive 2013/39/EU of the European Parliament and of the Council of 12 August 2013 amending Directives 2000/60/EC and 2008/105/EC as regards priority substances in the field of water policy",
+
+To authorise the competent authority to establish prohibitive and/or mandatory measures within the protection zones of surface and groundwater systems, as well as of water abstraction works, the water of which is intended or will be intended for human consumption, with the aim of preventing the deterioration of its quality and thus reducing the level of purification treatment required for the production of drinking water,
+
+The House of Representatives enacts as follows:
+
+PART I - INTRODUCTORY PROVISIONS
+
+Short title
+
+This Law shall be cited as the Protection and Management of Waters Law of 2003.
+13(1)/2004
+
+Interpretation
+2.(1) In this Law, unless the context otherwise requires -
+"measurement uncertainty" means the parameter, which does not take negative values, and characterises the dispersion of the quantitative values attributed to a measured quantity, based on the information used;
+"direct discharge to groundwater" means the discharge of pollutants into groundwater without percolation through the soil or subsoil;
+"competent authority" means the Minister of Agriculture, Natural Resources and Environment;
+"available groundwater resource" means the long-term average annual rate of overall recharge of a body of groundwater less the long-term average annual rate of flow required to achieve the ecological quality objectives for associated surface waters as specified in Article 9, to avoid any significant diminution in the ecological status of such waters and to avoid any significant damage to associated terrestrial ecosystems;
+"emission controls" means controls requiring a specific emission limitation, such as an emission limit value, or controls otherwise specifying limits or conditions on the effects, nature or other characteristics of an emission or operating conditions which affect emissions, and the use of the term "emission control" in this Law, in relation to the provisions of any other Law, shall not be considered as a new interpretation of the said provisions;
+"hazardous substances" means substances or groups of substances that are toxic, persistent and liable to bio-accumulate, and other substances or groups of substances which give rise to an equivalent level of concern;
+"Commission" means the Commission of the European Communities;
+"surface water" means -
+(a) inland waters, except groundwater; and
+(b) transitional waters and coastal waters, except with respect to their chemical status, in which case they also include the waters within the territorial sea of the Republic as this is determined on the basis of the Territorial Sea Law of 1964.
+"abstraction works" means the drilling or construction of a well or other works by which the abstraction of water from any water source is made possible and includes the widening, deepening or in any other way extending or modifying any natural spring;
+"inland water" means all standing or flowing surface water and all groundwater on the landward side of the baseline from which the breadth of the territorial sea is measured;
+"heavily modified water body" means a body of surface water which as a result of physical alterations by human activity is substantially changed in character, as designated by the competent authority in accordance with the provisions of Article 7 and Annex II;
+"good surface water status" means the status achieved by a surface water body when its ecological and chemical status are at least "good";
+"good groundwater status" means the status achieved by a groundwater body when its quantitative and chemical status are at least "good";
+"good ecological status" means the status of a body of surface water so classified in accordance with Annex V;
+"good quantitative status" means the status as defined in table 2.1.2 of Annex V;
+"good surface water chemical status" means the chemical status required to meet the environmental objectives for surface waters established in Article 9, that is, the chemical status achieved by a body of surface water in which concentrations of pollutants do not exceed the environmental quality standards established in Annex IX and under other relevant Community legislation setting environmental quality standards at Community level or are established on the basis of any other provision of this or any other Law and concern the concentrations of priority substances in surface waters, sediments and biota;
+"good groundwater chemical status" means the chemical status of a body of groundwater which meets all the conditions set out in table 2.3.2 of Annex V;
+"good ecological potential" means the status of a heavily modified or an artificial water body, so classified in accordance with the relevant provisions of Annex V;
+"Regulation (EC) No 1107/2009" means Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC, as last amended by Regulation (EU) No 652/2014;
+"Regulation (EU) No 528/2012" means Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, as last amended by Regulation (EU) No 334/2014;
+"surface water status" means the general expression of the status of a body of surface water, determined by the poorer of its ecological status and its chemical status;
+"groundwater status" means the general expression of the status of a body of groundwater, determined by the poorer of its quantitative status and its chemical status;
+"Community" means the European Community;
+"river basin" means the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly, lakes into the sea at a single river mouth, estuary or delta;
+"lake" means a body of standing inland surface water;
+"transitional waters" are bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows;
+"water intended for human consumption" has the meaning attributed to the term "water for human consumption" by the Quality of Water for Human Consumption (Monitoring and Control) Law of 2001;
+"Directive" means Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy;
+"Directive 2008/105/EC" means Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC and 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council, as last amended by Directive 2013/39/EU;
+"ecological status" is an expression of the quality of the structure and functioning of aquatic ecosystems associated with surface waters, classified in accordance with Annex V;
+"emission limit values" means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during one or more periods of time;
+"limit of detection" means the output signal or concentration value above which it can be affirmed, with a stated level of confidence, that a sample is different from a blank sample containing no determinand of interest;
+"limit of quantification" means a stated multiple of the limit of detection at a concentration of the determinand that can reasonably be determined with an acceptable level of accuracy and precision. The limit of quantification can be calculated using an appropriate standard or sample, and may be obtained from the lowest calibration point on the calibration curve, excluding the blank;
+"priority substances" means substances identified in accordance with Article 26 and listed in Annex X; amongst these substances there are "priority hazardous substances" which are substances identified in accordance with Article 16 paragraphs 3 and 6 of Directive 2000/60/EC;
+"coastal water" means surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured, extending, where appropriate, up to the outer limit of transitional waters;
+"environmental objectives" means the objectives set out in Articles 9 to 17;
+"river basin district" means the area of land and sea, made up of one or more neighbouring river basins together with their associated groundwaters and coastal waters, which is identified under Article 5(1) as the main unit for management of river basins;
+"water source" means any surface and underground waters, including water from natural springs;
+"environmental quality standard" means the concentration of a particular pollutant or group of pollutants in water, sediment or biota which should not be exceeded in order to protect human health and the environment;
+"quantitative status" is an expression of the degree to which a body of groundwater is affected by direct and indirect abstractions;
+"river" means a body of inland water flowing for the most part on the surface of the land but which may flow underground for part of its course;
+"pollution" means the direct or indirect introduction, as a result of human activity, of substances or heat into the air, water or land which may be harmful to human health or the quality of aquatic ecosystems or terrestrial ecosystems directly depending on aquatic ecosystems, which result in damage to material property, or which impair or interfere with amenities and other legitimate uses of the environment;
+"pollutant" means any substance liable to cause pollution, in particular those listed in Annex VIII;
+"combined approach" means the control of discharges and emissions into surface waters according to the approach set out in Article 25;
+"body of surface water" means a discrete and significant element of surface water such as a lake, a reservoir, a stream, river or canal, part of a stream, river or canal, transitional water or a stretch of coastal water;
+"body of groundwater" means a distinct volume of groundwater within an aquifer or aquifers;
+"taxon" means a particular aquatic taxonomic group at the rank of 'sub-phylum', 'class' or their equivalent;
+"artificial water body" means a body of surface water created by human activity;
+"aquifer" means a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater;
+"matrix" means an element of the aquatic environment, i.e. water, sediment or biota as appropriate;
+"water services" means all services which provide, for households, public institutions or any economic activity -
+(a) abstraction, impoundment, storage, treatment and distribution of surface water or groundwater,
+(b) waste-water collection and treatment facilities which subsequently discharge into surface water.
+"groundwater" means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
+"sub-basin" means the area of land from which all surface run-off flows through a series of streams, rivers and, possibly, lakes to a particular point in a water course (normally a lake or a river confluence);
+"natural spring" means the natural emergence of groundwater to the surface of the ground and the abstraction of this water for human consumption purposes, and includes the widening, deepening or otherwise extending or modifying it;
+"water use", for the purposes of Article 3 and of the economic analysis carried out in accordance with Article 6 and paragraph (b) of Annex III, means water services together with any other activity identified under Article 6 and Annex II having a significant impact on the status of water.
+
+(2) Any emission limit values established on the basis of this Law may also be set for certain groups, families or categories of substances, in particular for those identified on the basis of Article 26.
+
+(3) The emission limit values for substances shall normally apply at the point where the emissions leave the installation, without any account being taken of any dilution thereof. With regard to indirect discharges into water, the effect of a waste-water treatment plant may be taken into account when determining the emission limit values of the installation concerned, provided that an equivalent level of protection of the environment as a whole is guaranteed and that this does not lead to higher levels of pollution in the environment.
+13(I)/2004 159(I)/2015 47(I)/2018
+
+Purpose of the Law
+3. The purpose of this Law is the protection of inland surface waters, transitional waters, coastal waters and groundwater, by establishing appropriate provisions which -
+(a) prevent further deterioration and protect and enhance the status of aquatic ecosystems and, with regard to their water needs, terrestrial ecosystems and wetlands directly depending on the aquatic ecosystems;
+(b) promote sustainable water use based on a long-term protection of available water resources;
+(c) aim at enhanced protection and improvement of the aquatic environment through the implementation of various measures, including specific measures for the progressive reduction of discharges, emissions and losses of priority substances and the cessation or phasing out of discharges, emissions and losses of priority hazardous substances;
+(d) ensure the progressive reduction of pollution of groundwater and prevent its further pollution;
+(e) contribute to mitigating the effects of floods and droughts and thereby contribute to -
+(i) the provision of a sufficient supply of good quality surface water and groundwater as needed for sustainable, balanced and equitable water use,
+(ii) a significant reduction in pollution of groundwater,
+(iii) the protection of territorial and marine waters, and
+(iv) achieving the objectives of relevant international agreements, including those which aim to prevent and eliminate pollution of the marine environment, through the specific measures of the European Community established on the basis of Article 16 paragraph 3 of Directive 2000/60/EC, which will contribute to the cessation or phasing out of discharges, emissions and losses of priority hazardous substances, with the ultimate aim of achieving concentrations in the marine environment near background values for naturally occurring substances and close to zero for man-made synthetic substances.
+13(1)/2004
+
+Responsibilities of the competent authority
+4.(1) The competent authority is responsible for the faithful and effective implementation of the provisions of this Law and is the competent authority for the purposes of both paragraph 2 and paragraph 6 of Article 3 of the Directive.
+(2) Without prejudice to the provisions of subsections (3), (4) and (5) of Article 22, the competent authority shall take appropriate action to encourage the active involvement of all interested parties and the public in the implementation of the provisions of this Law.
+(3) The requirements of this Law for the achievement of the environmental objectives referred to in Articles 9, 10 and 11, and in particular the programme of measures, shall be coordinated by the competent authority for the entire river basin district.
+(4) No later than six months from the entry into force of this Law, the competent authority shall forward to the Commission a report containing the information set out in Annex I. If any change occurs in this information after it has been sent, the competent authority shall inform the Commission accordingly, no later than three months after the said change.
+13(1)/2004
+
+PART II - WATER SYSTEMS AND ENVIRONMENTAL OBJECTIVES
+
+River basin districts
+5.(1) For the purposes of the Directive and this Law, the entire territory of the Republic is designated as one river basin district in which all individual river basins and the water systems referred to in subsection (2) are included.
+(2) No later than six months from the entry into force of this Law, the competent authority shall identify all the river basins in the territory of the Republic and shall include in them all groundwater and coastal waters.
+13(I)/2004
+
+Analysis of the characteristics of water systems
+6.(1) The competent authority shall ensure that, starting no later than one year from the entry into force of this Law, the following are completed -
+(a) in accordance with the technical specifications set out in Annex II, -
+(i) an analysis of the characteristics of all surface water systems and all groundwater systems in the Republic; and
+(ii) a review of the impact of human activity on the status of surface waters and groundwater; and
+(b) in accordance with the technical specifications set out in Annex III, an economic analysis of water use in the Republic.
+(2) The analyses and reviews referred to in subsection (1) shall be reviewed and, where necessary, updated no later than ten years after the entry into force of this Law and every six years thereafter.
+13(1)/2004
+
+Designation of a water body as artificial or heavily modified
+7.(1) Having identified all bodies of surface water, the competent authority shall designate, on the basis of the provisions of subsection (3), which of them are to be characterised, for the purposes of this Law, as artificial or heavily modified.
+(2) The need for a body of surface water to be designated as artificial or heavily modified, as well as the justification for such designation, shall be stated in the river basin management plan drawn up on the basis of Article 22.
+(3) A body of surface water may be designated as artificial or heavily modified when -
+(a) the changes to the hydromorphological characteristics of that body which would be necessary for achieving good ecological status would have significant adverse effects on -
+(i) the wider environment;
+(ii) navigation, including port facilities;
+(iii) recreation;
+(iv) water supply, hydropower generation, irrigation or any other activity for which water is stored;
+(v) water regulation;
+(vi) flood protection;
+(vii) land drainage; or
+(viii) other equally important sustainable human development activities.
+(b) the beneficial objectives served by the artificial or modified characteristics of the water body cannot, for reasons of technical feasibility or disproportionate cost, reasonably be achieved by other means, which are a significantly better environmental option.
+13(1)/2004
+
+Register of protected areas
+8.(1) The competent authority shall ensure the establishment of a Register in which all areas designated under any Law as requiring special protection, either for the protection of surface or ground waters or for the conservation of habitats and species directly dependent on water, are recorded.
+(2) The Register referred to in subsection (1) shall include all the information and data specified in Annex IV and shall be completed no later than one year after the entry into force of this Law.
+(3) The competent authority shall ensure that the register is always kept correctly updated.
+13(1)/2004
+
+Environmental objectives for surface waters
+9.(1) Subject to the provisions of Articles 15, 16 and 17, the competent authority shall ensure that all necessary measures are implemented to prevent the deterioration of the status of all bodies of surface water.
+(2) Subject to the provisions of subsection (3), the competent authority shall ensure the protection, enhancement and restoration of all bodies of surface water with the aim of achieving good surface water status, in accordance with the provisions of Annex V, no later than twelve years from the entry into force of this Law.
+(3) The competent authority shall ensure the protection and enhancement of all artificial and heavily modified water bodies, in accordance with the provisions of Annex V, with the aim of achieving good ecological potential and good chemical status of surface waters no later than twelve years from the entry into force of this Law.
+(4) The competent authority shall implement the specific measures established by the Commission against pollution of water by individual pollutants or groups of pollutants presenting a significant risk to or via the aquatic environment, including risks to waters used for the abstraction of drinking water. For these pollutants, the measures shall aim at progressive reduction and, for priority hazardous substances, at the cessation or phasing out of discharges, emissions and losses.
+(5) The above provisions of this Article shall not affect the provisions of any international convention to which the Republic is a party, including those aimed at the prevention or elimination of pollution of the marine environment through Community action under Article 16, paragraph 3 of the Directive, for the cessation or phasing out of discharges, emissions and losses of priority hazardous substances, with the ultimate aim of achieving concentrations in the marine environment which, for naturally occurring substances, are near background levels, and for man-made synthetic substances, are close to zero.
+13(I)/2004
+
+Environmental objectives for groundwater
+10.(1) The competent authority shall take all necessary measures to prevent and limit the input of pollutants into groundwater and to prevent the deterioration of the status of all bodies of groundwater.
+(2) The competent authority shall take the appropriate measures to protect, enhance and restore all bodies of groundwater and ensure a balance between abstraction and recharge of groundwater, with the aim of achieving good groundwater status no later than twelve years from the entry into force of this Law, in accordance with the provisions of Annex V.
+(3) The competent authority shall implement the necessary measures to reverse any significant and sustained upward trend in the concentration of any pollutant resulting from the impact of human activity in order progressively to reduce pollution of groundwater. To this end, the competent authority shall adopt the specific measures and criteria established by the Community on the basis of Article 17 of the Directive. However, if these are not established within two years from the entry into force of this Law, then the criteria to be used for the purpose of assessing the good chemical status of groundwater and the criteria for the identification of significant and sustained upward trends and for the definition of starting points for trend reversal shall be determined by the competent authority.
+(4) If for significant reasons it is not possible for the competent authority to establish the criteria referred to in subsection (3), then for the purposes of the same subsection, trend reversal shall take as its starting point 75%, at the most, of the level of the quality standards provided for in existing legislation of the European Community which applies to groundwater.
+13(I)/2004
+
+Environmental objectives for protected areas
+11. The competent authority shall ensure compliance with all standards and objectives established by this Law no later than twelve years after its entry into force, unless otherwise provided for in any law or regulation harmonised with relevant legislation of the European Community, on the basis of which the respective protected areas have been established.
+13(1)/2004
+
+Application of the more stringent objective
+12. Where two or more of the objectives set out in Articles 9, 10 and 11 apply to a specific water body, the competent authority shall ensure that the most stringent objective is applied to that body.
+13(1)/2004
+
+Extension of deadlines
+13. The deadlines provided for in Articles 9, 10 and 11 may be extended for the purposes of phased achievement of the objectives for bodies of water, provided that this does not result in further deterioration of the status of the affected body of water and provided that the following conditions are met, namely-
+(a) the competent authority, after investigation, establishes that all the required improvements in the status of the water body cannot reasonably be achieved within the above deadlines, for at least one of the following reasons, namely-
+(i) the extent of the required improvements, for technical reasons, can only be achieved in phases exceeding the timescale;
+(ii) completing the improvements within the timescale would be disproportionately expensive; or
+(iii) natural conditions do not allow for the timely improvement of the status of the water body.
+(b) the extension of the deadline and the corresponding justification are set out and explained specifically in the river basin management plan prepared on the basis of Article 22;
+(c) extensions shall be limited to a maximum of two further updates of the river basin management plan, except in cases where such natural conditions prevail that the objectives cannot be achieved within the extended period;
+(d) the river basin management plan shall set out -
+(i) a summary of the measures required under Articles 19, 20 and 21 which are considered necessary to bring the bodies of water progressively to the required status within the extended deadline;
+(ii) the reasons for any significant delay in making these measures operational; and
+(iii) the expected timetable for their application.
+13(I)/2004
+
+Less stringent objectives
+14. Notwithstanding the provisions of Articles 9, 10 and 11, the competent authority may, for specific bodies of water, aim to achieve environmental objectives less stringent than those imposed by the said Articles, in cases where these bodies are either affected by human activities, as identified by the review conducted on the basis of Article 6(1)(a)(ii), or their natural condition is such that the achievement of these objectives would be infeasible or disproportionately expensive, and provided that all the following conditions are met, namely -
+(a) the environmental and socioeconomic needs served by the above human activities cannot be achieved by other means, which are a significantly better environmental option which does not entail disproportionate costs;
+(b) appropriate care is taken to ensure that -
+(i) for surface water, the highest ecological potential and the best possible chemical status are achieved, given impacts that could not reasonably have been avoided due to the nature of the human activity or pollution;
+(ii) for groundwater, the least possible changes to good status occur, given impacts that could not reasonably have been avoided due to the nature of the human activity or pollution;
+(c) no further deterioration in the status of the affected body of water occurs; and
+(d) the establishment of less stringent environmental objectives, and the corresponding justification, are specifically set out in the river basin management plan referred to in Article 22, and those objectives are reviewed every six years.
+13(1)/2004
+
+Temporary deterioration due to unforeseen circumstances
+15.(1) Any temporary deterioration in the status of any body of water resulting from -
+(a) circumstances of natural cause or force majeure which are exceptional or could not reasonably have been foreseen, including extreme floods or prolonged droughts; or
+(b) accidents which could not reasonably have been foreseen,
+shall not constitute a breach of the requirements of this Law, provided that the conditions and terms of the following subsections of this Article are met.
+(2) In any of the circumstances referred to in subsection (1), the competent authority shall ensure that all practicable steps are taken to prevent further deterioration in the status of the affected water body and not to compromise the achievement of the objectives of this Law in other bodies of water not affected.
+(3) The measures referred to in subsection (2) shall be included in the programme of measures provided for in Article 19 and shall be of such a nature and extent as not to compromise the restoration of the quality of the water body after the end of the circumstances or accidents on account of which they were taken.
+(4) The conditions under which the unforeseen or exceptional circumstances of subsection (1) may be declared by the competent authority shall be defined in the river basin management plan, which shall include for this purpose the appropriate indicators.
+(5) The competent authority shall ensure that an annual review is carried out of the effects of any circumstances referred to in subsection (1) and, without prejudice to the provisions of Article 13, all practicable steps are taken for the reasonably earliest possible restoration of the water body to the status it had before the said effects.
+(6) Any consequences for any water body due to the circumstances referred to in subsection (1), as well as the measures taken or to be taken for their prevention or restoration, shall be recorded in a summary which shall be included in the next update of the river basin management plan.
+13(1)/2004
+
+Permissible derogations
+16. This Law shall not be deemed to be breached in any case where -
+(a) failure to achieve good groundwater status, good ecological status or, where relevant, good ecological potential or to prevent deterioration in the status of any body of surface or ground water is the result of new modifications to the physical characteristics of a surface water body or alterations to the level of bodies of groundwater; or
+(b) failure to prevent deterioration from high status to good status of any body of surface water is the result of new sustainable human development activities, and provided that the following conditions are met, namely -
+(i) all practicable steps are taken to mitigate the adverse impacts on the status of the body of water;
+(ii) the reasons for those modifications or alterations are specifically set out in the river basin management plan prepared in accordance with Article 22 and the objectives are reviewed every six years;
+(iii) the reasons for those modifications or alterations are of overriding public interest, and/or the benefits to the environment and to society of achieving the objectives set out in Articles 9, 10, 11 and 12 are outweighed by the benefits of the new modifications or alterations to human health, to the maintenance of human safety or to sustainable development; and
+(iv) the beneficial objectives served by those modifications or alterations of the water body cannot be achieved by other means, which are a significantly better environmental option, either for technical reasons or due to excessive cost.
+13(1)/2004
+
+Ensuring the objectives of the Law
+17.(1) When applying Articles 7, 13, 14, 15 and 16, the competent authority shall ensure that the application does not permanently exclude or compromise the achievement of the objectives of this Law in other bodies of water and is consistent with the implementation of other environmental legislation and the Community environmental acquis.
+(2) The competent authority shall take the appropriate measures to ensure that the application of Articles 9, 10, 11, 12, 13, 14, 15 and 16 guarantees at least the same level of protection for water systems as provided for by the existing environmental legislation and the relevant environmental acquis.
+13(1)/2004
+
+Measures in case of non-achievement of objectives
+18.(1) If, on the basis of the data collected during the monitoring carried out on the basis of Article 24 or on the basis of other data, it is established that the objectives set out in Articles 9 to 17 are unlikely to be achieved with regard to any water body, then the competent authority shall ensure that -
+(a) the causes of the likely failure are investigated;
+(b) the permits and any authorisations granted on the basis of the Control of Water Pollution Law or any other law, regulation or order are examined and, where deemed appropriate, reviewed;
+(c) the monitoring programmes established on the basis of Article 24 are reviewed and adjusted, where deemed appropriate; and
+(d) any additional measures necessary to achieve the said objectives are established, including, where deemed appropriate, the establishment of more stringent environmental standards in accordance with the procedures provided for in Annex V.
+(2) If the causes of the likely failure referred to in subsection (1) are due to circumstances of natural cause or force majeure and are exceptional or could not reasonably have been foreseen, including cases of extreme floods or prolonged drought, the competent authority may, without prejudice to the provisions of Article 15, decide that the implementation of the additional measures referred to in subsection (1) is not feasible.
+13(1)/2004
+
+PART III - PROGRAMME OF MEASURES AND MANAGEMENT PLAN
+
+Establishment of a programme of measures
+19.(1) The Council of Ministers, after taking into account the results of the analyses and reviews referred to in Article 6(1), shall ensure the establishment of a programme of measures which will lead to the achievement of the objectives set out in Articles 9 to 17.
+(2) The programme of measures established on the basis of subsection (1) may refer to measures which are implemented or must be implemented on the basis of the provisions of any other law or administrative act and may concern either the whole of the river basin district or part of that district and shall include -
+(a) the measures specified in Article 20, hereinafter referred to as "basic measures",
+(b) where necessary, the measures specified in Article 21, hereinafter referred to as "supplementary measures", and
+(c) the measures established by the European Community on the basis of Article 17 paragraph 1 of the Directive.
+(3) The programme of measures referred to above shall be established no later than six years from the date of entry into force of this Law and all measures referred to therein shall be made operational no later than nine years after that date.
+(4) The programme of measures shall be reviewed and, if necessary, updated no later than twelve years from the date of entry into force of this Law and every six years thereafter. Any new or revised measure established on the basis of an updated programme must be ready for implementation no later than three years after its establishment.
+13(1)/2004
+
+Basic measures
+20.(1) The basic measures included in the programme of measures established on the basis of Article 19 shall constitute minimum requirements and shall consist of the following, namely -
+(a) in measures required to implement the Community acquis concerning the protection of water, including measures required on the basis of the legislation referred to in Article 25 and in Part A of Annex VI.
+(b) in measures deemed appropriate for the purposes of Article 27.
+(c) in measures to promote efficient and sustainable water use in order not to compromise the achievement of the objectives set out in Articles 9 to 17.
+(d) in measures aimed at complying with the requirements of Article 23, including measures to safeguard water quality in order to reduce the level of purification treatment required in the production of drinking water.
+(e) in controls over the abstraction of fresh surface water and groundwater, and impoundment of fresh surface water, including a register or registers of water abstractions and a requirement for prior authorisation for abstraction and impoundment; these controls shall be reviewed periodically and, where necessary, updated:
+Provided that the competent authority may exempt from the above controls abstractions or impoundments which do not have a significant impact on water status;
+(f) in controls of groundwater systems, including a requirement for prior authorisation for artificial recharge or augmentation of such systems; the water used for these purposes may be derived from any surface water or groundwater, provided that the use of any source does not compromise the achievement of the environmental objectives established for that source or for the recharged or augmented body of groundwater; these controls shall be reviewed periodically and, where deemed necessary, updated;
+(g) for point source discharges liable to cause pollution, in regulatory measures taken on the basis of the Control of Water Pollution Law or any other law or administrative act, by which controls are imposed on the discharge of the relevant pollutants, including a prohibition on the introduction of pollutants into water or a requirement for prior authorisation which is accompanied by binding conditions or is based on general binding rules; these controls shall be reviewed periodically and, where deemed necessary, updated;
+(h) for diffuse sources liable to cause pollution, in measures to prevent or control the input of pollutants, including a prohibition on the introduction of pollutants into water or a requirement for authorisation which is accompanied by binding conditions or is based on general binding rules in accordance with the Control of Water Pollution Law or any other law or regulatory administrative act; these controls shall be reviewed periodically and, where deemed necessary, updated;
+(i) for cases where significant adverse impacts on the status of water are observed following the relevant analyses and reviews provided for in Article 6 and Annex II, in measures to ensure that the hydromorphological conditions of the water bodies are consistent with the achievement of the required ecological status or good ecological potential for water bodies designated as artificial or heavily modified; the controls required for this purpose shall be carried out on the basis of the Control of Water Pollution Law or any other law or regulatory administrative act and shall include a requirement for authorisation which is accompanied by binding conditions or is based on general binding rules; these controls shall be reviewed periodically and, where deemed necessary, updated;
+(j) in measures aimed at eliminating pollution of surface water by priority substances and at progressively reducing pollution from other substances, if this would impede the achievement of the objectives set out in Article 9.
+(k) in measures to prevent significant leakages of pollutants from technical installations and to prevent or reduce the impacts of accidental pollution incidents, such as in cases of floods, including measures for the introduction of detection or early warning systems for such incidents, as well as measures to reduce the risks to aquatic ecosystems which could not reasonably have been foreseen.
+(2) The programme of measures referred to in subsection (1) shall also include measures prohibiting the direct discharge of pollutants into groundwater, except for the following cases, namely -
+(a) the reinjection into the same aquifer of water used for geothermal purposes;
+(b) the injection of water containing substances resulting exclusively from the exploration for and extraction of hydrocarbons or from mining activities, provided that such injection does not contain substances other than those resulting from these activities;
+(c) the injection of water for technical reasons into geological formations from which hydrocarbons or other substances have been extracted or into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection does not contain substances other than those resulting from these activities;
+(d) the reinjection of groundwater abstracted from mines and quarries or associated with the construction or maintenance of civil engineering works;
+(e) the injection of natural gas or liquefied petroleum gas (LPG) for storage purposes into geological formations which, for natural reasons, are permanently unsuitable for other purposes;
+(f) the injection of natural gas or liquefied petroleum gas (LPG) for storage purposes into other geological formations where there is an overriding need for security of gas supply, and where the injection is such as to prevent any present or future danger of deterioration in the quality of any receiving groundwater;
+(g) the carrying out of construction and civil engineering works and similar activities on or in the ground which come into contact with groundwater, provided that the provisions of any law or regulatory administrative act concerning these works or activities are complied with;
+(h) discharges of small quantities of substances for scientific purposes for characterisation, protection or remediation of water bodies, provided that they are strictly limited to the quantity required;
+(i) the injection of carbon dioxide streams for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection is made in accordance with the provisions of the Law on the Storage of Carbon Dioxide in Geological Formations or is exempted from the scope of that law in accordance with subsection (2) of that Article.
+(3) The exceptions specified in subsection (2) shall apply provided that the discharges do not compromise the achievement of the environmental objectives established for the water body into which these discharges are made.
+(4) The implementation of the measures established on the basis of this Article shall not lead to an increase in the pollution of marine waters and, subject to the provisions of any other law, shall not directly or indirectly lead to an increase in the pollution of surface waters:
+Provided that the above requirements shall not apply where compliance with them would result in an increase in the pollution of the environment as a whole.
+13(I)/2004 122(I)/2012
+
+Supplementary measures
+21. The supplementary measures included in the programme of measures referred to in Article 19 are measures in addition to the basic measures which are implemented with a view to achieving the objectives of Articles 9 to 17. These measures include those referred to in Part B of Annex VI as well as other measures that provide additional protection or improvement of waters, including those provided for by the international agreements referred to in Article 3(e).
+13(1)/2004
+
+River basin management plan
+22.(1) The Council of Ministers shall ensure that, no later than six years after the entry into force of this Law, a river basin management plan (hereinafter referred to as the "plan") is drawn up, which shall cover the entire territory of the Republic and shall include all the information set out in detail in Annex VII as well as any other information required to be included therein by any other provisions of this Law.
+(2) The plan shall be prepared in accordance with the procedure provided for in subsections (3) to (7) and shall be published no later than six years after the entry into force of this Law.
+(3) For the purpose of preparing the plan, the competent authority shall ensure that the following are previously published and made available to the public, including persons who use water, for them to make observations:
+(a) A timetable and work programme, at least three years before the period to which the plan refers, including a statement of the measures to be taken for the relevant consultations;
+(b) an interim overview of the significant water management issues identified in the river basin district, at least two years before the beginning of the period to which the plan refers;
+(c) copies of the draft plan, at least one year before the beginning of the period to which the plan refers.
+(4) Any interested person may, after submitting a relevant request, secure access to background documents and information used for the development of the above draft plan.
+(5) In order to allow for consultation and active participation of interested parties in the preparation of the plan, a period of at least six months shall be provided for the submission of written observations on the documents referred to in subsections (3) and (4).
+(6) The Council of Ministers shall ensure that the plan is reviewed and updated no later than twelve years after the entry into force of this Law and every six years thereafter. In such a case, subsections (3), (4) and (5) shall apply equally:
+Provided that the above updates shall include -
+(a) a review of the implementation of the measures referred to in Articles 19, 20 and 21, and
+(b) a summary of any additional measures.
+(7) Without prejudice to the other provisions of this Law, the plan may, for the purpose of dealing with particular aspects of water management, be supplemented by the production of more detailed programmes and management plans for each sub-basin, sector, issue or type of water.
+13(1)/2004
+
+Updated river basin management plan
+22A.-(1) The competent authority shall include in the updated river basin management plan, prepared pursuant to the provisions of Article 22, the following information:
+(a) A table setting out the limits of quantification of the analytical methods applied, as well as information on the performance of these methods in relation to the minimum performance criteria laid down in Regulation 5 of the Protection and Management of Waters (Technical Specifications for Chemical Analysis and Monitoring of Water Status) Regulations of 2011.
+(b) for the substances to which the provisions of subsection (4) of Article 26A apply,
+(i) the purposes and reasons for using environmental quality standards in accordance with the provisions of subsection (4) of Article 26A;
+(ii) where appropriate, the alternative environmental quality standards which may be established in accordance with the provisions of subsection (4) of Article 26A, the data demonstrating that these environmental quality standards offer at least the same level of protection as the environmental quality standards laid down in Part A of Annex XA, including the data and methodology used to establish the environmental quality standards, and the categories of surface water to which they apply; and
+(iii) the limits of quantification of the analytical methods for the matrices specified in Part A of Annex XA, including information on the performance of these methods in relation to the minimum performance criteria laid down in Regulation 5 of the Protection and Management of Waters (Technical Specifications for Chemical Analysis and Monitoring of Water Status) Regulations of 2011, for the purpose of comparing the information referred to in paragraph (a);
+(c) a justification of the monitoring frequency applied, in accordance with the provisions of subsection (7) of Article 26A, if the monitoring periodicity exceeds one year.
+(2) The competent authority shall take all necessary measures to ensure that the updated river basin management plan prepared pursuant to the provisions of subsection (6) of Article 22, which contains all the results and the impact of the measures taken to prevent pollution of surface waters, and the interim report describing the progress made in the implementation of the planned programme of measures pursuant to the provisions of subsection (2) of Article 28, are made available through a central portal, to which the public has electronic access in accordance with the provisions of Article 12 of the Access of the Public to Information which is Relevant to the Environment Law.
+159(I)/2015
+
+Specific provisions for certain substances in the river basin management plan
+22B.-(1) Without prejudice to the provisions of point 1.4.3 of Annex V concerning the presentation of the overall chemical status, the objectives and obligations laid down in Article 9 and in paragraph (i) of subsection (1) of Article 20 and the control proposals submitted by the Commission for the progressive reduction of discharges, emissions and losses of the relevant substances in accordance with Article 16, paragraph 6 of the Directive, in the river basin management plan prepared in accordance with the provisions of Article 22, the competent authority may include supplementary maps, which present information on the chemical status of one or more of the following substances separately from the information concerning the other substances included in Part A of Annex XA:
+(a) Substances numbered 5, 21, 28, 30, 35, 37, 43 and 44, which are included as ubiquitous Persistent Bioaccumulative Toxic substances;
+(b) substances numbered 34 to 45, which were identified by Directive 2013/39/EU;
+(c) substances numbered 2, 5, 15, 20, 22, 23 and 28, for which revised, more stringent environmental quality standards are set.
+(2) (a) The competent authority may also present, in the river basin management plan, the extent of the deviation from the environmental quality standard value for the substances referred to in subsection (1).
+(b) If supplementary maps are included in the river basin management plan, in accordance with the provisions of subsection (1), their comparability must be ensured both at river basin district level and at European Union level.
+159(I)/2015
+
+Identification of water bodies used for drinking water
+23.(1) The competent authority shall ensure the establishment of a list identifying all water bodies in the Republic which -
+(a) are used for the abstraction of water intended for human consumption and provide on average more than 10 m3 of water per day or serve more than fifty persons; and
+(b) are intended for future use for the abstraction of water for human consumption;
+(2) All water bodies referred to in subsection (1) and which provide on average more than 100 m3 per day shall be monitored in accordance with Article 24 and the requirements of Annex V.
+(3) For each water body identified in the list referred to in subsection (1), in addition to compliance with the objectives of Articles 9 to 17 for surface water bodies, including the quality standards established by any other Law, the competent authority shall ensure that under the water treatment regime applied, and in accordance with the relevant environmental legislation of the European Community, the resulting water meets the requirements of the Quality of Water for Human Consumption (Monitoring and Control) Law of 2001.
+(4)(a) The competent authority shall ensure that the necessary protection is provided for the water bodies identified pursuant to the provisions of subsection (1) in order to avoid deterioration of their quality and thus to reduce the level of purification treatment required in the production of drinking water.
+(b) For this protection, the competent authority, after a written proposal from the Director of the Water Development Department, and after taking into account, where it deems it appropriate, the positions of other competent authorities and stakeholders, shall issue orders published in the Official Gazette of the Republic, which establish protection zones for surface and groundwater systems as well as for water abstraction works, the water of which is intended for human consumption.
+(c) With the above orders, the competent authority may, within the protection zones, -
+(i) Prohibit specific activities or operations,
+(ii) establish prohibitive and/or mandatory measures, and
+(iii) establish any other protection measures it deems necessary.
+13(I)/2004 47(I)/2018
+
+Monitoring of water status
+24.(1) The competent authority shall ensure the establishment of such programmes for the monitoring of water status, so that through these programmes a coherent and comprehensive overview of water status throughout the territory of the Republic is presented.
+(2) The programmes referred to in subsection (1) shall cover -
+(a) For surface waters -
+(i) the volume and level or rate of flow, to the extent relevant for their ecological and chemical status and their ecological potential; and
+(ii) their ecological and chemical status and their ecological potential;
+(b) for groundwater, the monitoring of their chemical and quantitative status.
+(3) For protected areas, the above programmes shall be supplemented with the specifications contained in the legislation harmonised with the Community acquis on the basis of which the protected areas of the Republic have been established.
+(4) The above programmes shall be put into operation no later than three years from the date of entry into force of this Law, unless otherwise provided for in any other relevant law, and the monitoring of water status shall be carried out in accordance with the requirements of Annex V.
+13(I)/2004
+
+Discharges into surface waters
+25.(1) All discharges into surface waters of the pollutants referred to in Annex VIII, as well as any other discharges that may be made on the basis of any legislation referred to in Annex IX or any other relevant legislation of the European Community, shall be controlled in accordance with the combined approach set out in the following provisions of this Article.
+(2) Unless otherwise provided for in the relevant legislation, no later than nine years from the entry into force of this Law, the following shall be established and implemented -
+(a) Controls of all discharges into surface waters in accordance with the best available techniques;
+(b) relevant discharge limit values; and
+(c) in the cases of diffuse impacts, controls, including, as appropriate, best environmental practices.
+(3) The establishment and implementation of what is referred to in subsection (2) shall be carried out as specified by -
+(a) The legislation referred to in Annex IX.
+(b) the Directives of the European Community issued in implementation of Article 16 of the Directive; and
+(c) any other relevant legislation issued by the European Community.
+(4) If any quality objective or quality standard established in implementation of this Law, or of any other law or regulation, or of the legislation of the European Community, requires stricter conditions than those which would result from the application of subsections (2) and (3), then stricter controls on discharges shall be applied accordingly.
+13(I)/2004
+
+Priority substances
+26.(1) Notwithstanding the other provisions of this Law and any provisions of any other Law or regulation, for surface waters into which any of the priority substances included in Annex X are discharged, the environmental quality standards and the controls on discharges at their sources shall apply, as these are determined by the European Community on the basis of paragraph 8 of Article 16 of the Directive and by the Control of Water Pollution Law of 2002.
+(2) If the environmental quality standards and the controls determined by the European Community on the basis of paragraph 8 of Article 16 of the Directive are not determined by the European Community within three years from the entry into force of this Law, then they shall be determined by the competent authority on the basis, inter alia, of the consideration of all technical reduction options. The determination shall be made by an order of the competent authority published in the official gazette of the Republic.
+(2A) The competent authority, by an order published in the Official Gazette of the Republic, shall establish environmental quality standards for the priority substances provided for in Annex X, provided that -
+(a) five (5) years have elapsed since the date of inclusion of the relevant priority substance in the list referred to in paragraphs 2 and 3 of Article 16 of the Directive; and
+(b) there is no agreement at European Union level as to the environmental quality standard applicable to the relevant priority substance.
+(3) The competent authority, by an order published in the Official Gazette of the Republic, shall establish environmental quality standards for priority substances.
+13(I)/2004 113(I)/2010 122(I)/2012
+
+Applicable environmental quality standards in surface water bodies
+26A.-(1) Without prejudice to the provisions of subsection (2), the competent authority shall apply to surface water bodies the environmental quality standards established in Part A of Annex XA, which it applies in accordance with the provisions of Part B of that Annex.
+(2) (a) Without prejudice to the obligations arising from the application of the provisions of this Law, as it was in force on 13 January 2009, and in particular the obligation to achieve good chemical status of surface waters with regard to the substances and the environmental quality standards included therein on that date, the competent authority shall apply the environmental quality standards provided for in Part A of Annex XA with regard to:
+(i) The substances numbered 2, 5, 15, 20, 22, 23, 28 of Part A of Annex XA, for which revised environmental quality standards have been set, from 22 December 2015, with the aim of achieving, by 22 December 2021, good chemical status of surface waters with respect to these substances, through programmes of measures within the framework of the river basin management plan of 2015, which is drawn up in accordance with the provisions of subsection (6) of Article 22; and
+(ii) the substances numbered 34 to 45 of Part A of Annex XA, which were identified by Directive 2013/39/EU, from 22 December 2018 with the aim of achieving good chemical status in surface waters with respect to these substances by 22 December 2027 and preventing the deterioration of the chemical status of surface waters with respect to these substances.
+(b) In the case of substances for which technical guidelines have not been approved on the basis of Article 3, paragraph 8a of Directive 2008/105/EC by 22 December 2014, the deadlines of 22 December 2015 and 22 December 2021 referred to in subparagraph (i) of paragraph (a) shall be extended to 22 December 2018 and 22 December 2027, respectively.
+(c) The provisions of Articles 13 to 17 shall apply mutatis mutandis with regard to the substances provided for in subparagraphs (i) and (ii) of paragraph (a).
+(d) For the purposes of implementing the provisions of subparagraph (ii) of paragraph (a), the competent authority shall draw up and submit to the Commission, by 22 December 2018, an additional monitoring programme and a preliminary programme of measures to cover these substances. No later than 22 December 2021, a final programme of measures shall be established in accordance with the provisions of Articles 19 to 21, which shall be applied and fully implemented as soon as possible after that date and no later than 22 December 2024.
+(3)(a) For the substances numbered 5, 15, 16, 17, 21, 28, 34, 35, 37, 43 and 44 of Part A of Annex XA, the competent authority shall apply the environmental quality standards for biota established in Part A thereof.
+(b) For substances other than those referred to in paragraph (a), the competent authority shall apply the environmental quality standards for water established in Part A of Annex XA.
+(4)(a) Subject to the provisions of paragraph (c), the competent authority may choose, with respect to one or more categories of surface waters, to apply environmental quality standards for a matrix other than that specified in subsection (3) or, where appropriate, a biota taxon other than those specified in Part A of Annex XA.
+(b) Where the competent authority chooses to apply the provisions of paragraph (a), it shall apply the relevant environmental quality standard established in Part A of Annex XA or, where no environmental quality standard has been provided for the specific matrix or biota taxon, it shall establish an environmental quality standard which provides at least the same level of protection as the environmental quality standard established in Part A of Annex XA.
+(c) The competent authority may choose to apply the provisions of paragraph (a) only if the analytical method used for the selected matrix or biota taxon meets the minimum performance criteria laid down in Regulation 5 of the Protection and Management of Waters (Technical Specifications for Chemical Analysis and Monitoring of Water Status) Regulations of 2011.
+(d) In cases where these criteria are not met for any matrix, the competent authority shall ensure that monitoring is carried out using the best available techniques not entailing excessive costs and that the analytical method performs at least as well as the method available for the matrix specified in subsection (3) for the relevant substance.
+(5) Where a potential risk is identified due to excessive exposure either to the aquatic environment itself or through it as a result of measurement or estimation of environmental concentrations or emissions and where an environmental quality standard is applied with respect to sediment or biota, the competent authority shall ensure that monitoring of surface waters is also carried out and that the maximum allowable concentration of the environmental quality standard set out in Part A of Annex XA is applied, provided that such an environmental quality standard has been established.
+(6) Where, in accordance with the provisions of Regulation 6 of the Protection and Management of Waters (Technical Specifications for Chemical Analysis and Monitoring of Water Status) Regulations of 2011, the calculated average value of the measurement results obtained using the best available technique not entailing excessive costs is below the limit of quantification, and the limit of quantification, as defined in the Protection and Management of Waters (Technical Specifications for Chemical Analysis and Monitoring of Water Status) Regulations of 2011, even of that technique exceeds the environmental quality standards, the result for the substance measured shall not be taken into account for the assessment of the overall chemical status of the particular water body.
+(7) For substances included in Part A of Annex XA, for which an environmental quality standard is applied with respect to sediment and/or biota, the competent authority shall monitor the respective substance in the relevant matrix at least once a year, unless technical knowledge and expert opinions justify another periodicity.
+(8)(a) The competent authority, on the basis of the monitoring of the status of waters carried out in accordance with the provisions of Article 24, shall carry out an analysis of the long-term trends of the concentrations of the priority substances included in Part A of Annex XA, which tend to accumulate in sediment and/or biota, giving particular emphasis to substances numbered 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28, 30, 34, 35, 36, 37, 43 and 44 listed in Part A of that Annex. Subject to the provisions of Article 9, the competent authority shall take measures to ensure that these concentrations do not increase significantly in sediment and/or relevant biota.
+(b) The competent authority shall determine the frequency of monitoring in sediment and/or biota so as to provide sufficient data for a reliable long-term trend analysis. In accordance with the guidelines, monitoring should be carried out every three years, unless technical knowledge and expert opinion justify another periodicity.
+159(I)/2015
+
+Adoption of supplementary measures
+26B.-(1) Where the results of the Commission's report referred to in Article 7a, paragraph 2 of Directive 2008/105/EC show that supplementary measures are necessary to facilitate the implementation of the provisions of this Law with regard to a specific substance approved under the provisions of Regulation (EC) No 1107/2009 or Regulation (EU) No 528/2012, the provisions of Article 44 of Regulation (EC) No 1107/2009 or the provisions of Article 48 of Regulation (EU) No 528/2012, respectively, shall apply with regard to that substance or the products containing that substance.
+(2) When applying the provisions of Regulation (EC) No 1107/2009 or Regulation (EU) No 528/2012, any risk assessments and socioeconomic or cost-benefit analyses required under the provisions of those regulations shall be taken into account, including the availability of alternatives.
+159(I)/2015
+
+Specific provisions for substances that behave as ubiquitous
+26C.-(1) The competent authority, for the substances numbered 5, 21, 28, 30, 35, 37, 43 and 44 of Part A of Annex XA, may carry out less intensive monitoring than that required for priority substances, in accordance with the provisions of subsection (7) of Article 26A and of Annex V, provided that the monitoring is representative and that there is a reliable statistical reference basis regarding the presence of these substances in the aquatic environment.
+(2) In accordance with the guidelines referred to in paragraph (b) of subsection (8) of Article 26A, the monitoring of the substances provided for in subsection (1) shall be carried out every three years, unless technical knowledge and expert opinion justify another periodicity.
+159(I)/2015
+
+Watch list
+26D.-(1)(a) The competent authority shall monitor each substance included in the watch list, which is drawn up by the Commission pursuant to the provisions of Article 8b of Directive 2008/105/EC, at selected representative monitoring stations, as provided for in subsection (2), for a period of at least twelve (12) months.
+(b) The monitoring period of the watch list provided for by the provisions of Article 8b, paragraph 1, subparagraph 2 of Directive 2013/39/EU begins on 14 September 2015 or within six (6) months from the establishment of the list, whichever date is later.
+(c) The competent authority shall begin monitoring each substance included in the updated lists provided for by the provisions of Article 8b, paragraph 2 of Directive 2013/39/EU within six (6) months of its inclusion in the lists.
+(2) The competent authority shall select at least one monitoring station and in addition:
+(a) One monitoring station, if the population of the Member State exceeds one million (1,000,000) inhabitants,
+(b) a number of monitoring stations equal to the quotient of the geographical area of the Member State in square kilometres divided by the number 60,000, rounded to the nearest whole number, and
+(c) a number of monitoring stations equal to the quotient of the population of the Member State divided by the number 5,000,000, rounded to the nearest whole number.
+(3) The competent authority, when selecting the representative monitoring stations, the frequency and the timing of monitoring of each substance, shall take into account the use patterns and the likelihood of occurrence of the substance. Monitoring shall be carried out at least once a year.
+(4) Where the competent authority provides sufficient, comparable, representative and recent monitoring data for a particular substance from existing monitoring programmes or studies, it may decide not to undertake additional monitoring for that substance under the watch list mechanism, provided that the monitoring of the substance has been carried out using a method that meets the requirements of the technical guidelines developed by the Commission under Article 8b, paragraph 5 of Directive 2008/105/EC.
+(5)(a) The competent authority shall submit a report to the Commission on the results of the monitoring carried out pursuant to the provisions of subsections (1) to (4).
+(b) The monitoring results for the watch list provided for by the provisions of Article 8b, paragraph 1, subparagraph 2 of Directive 2013/39/EU shall be submitted in a report within fifteen (15) months of 14 September 2015 or within twenty-one (21) months of the establishment of the watch list, whichever date is later, and subsequently every twelve (12) months for the period during which the substance is retained on the list.
+(c) The competent authority, for each substance included in the subsequent lists, shall submit a report to the Commission on the monitoring results within twenty-one (21) months of the inclusion of the substance in the watch list and subsequently every twelve (12) months for the period during which the substance remains on the list.
+(d) The report shall include information on the representativeness of the monitoring stations and the monitoring strategy.
+159(I)/2015
+
+PART V - GENERAL PROVISIONS
+
+Recovery of costs for water services
+27.(1) Notwithstanding the provisions of any other law, the competent authority shall determine the pricing policy for water services in the Republic and for this purpose shall take account of the principle of recovery of the costs of water services, including environmental and resource costs, having regard to the economic analysis conducted in accordance with Annex III and in particular in accordance with the principle that the polluter pays.
+(2) For the purposes of applying subsection (1), the competent authority shall ensure that by 2010 -
+(a) water-pricing policies provide adequate incentives for users to use water resources efficiently and thereby contribute to the environmental objectives of this Law;
+(b) it is ensured that in the recovery of the costs of water services, which will be based on the economic analysis to be carried out in accordance with Annex III and taking into account the 'polluter pays' principle, the various uses of water, which should be broken down at least into industry, households and agriculture, will contribute appropriately.
+(3) In implementing the above, the competent authority may have regard to the social, environmental and economic effects of the recovery as well as the geographic and climatic conditions of the region or regions affected.
+(4) The competent authority may decide not to apply the provisions of paragraph (b) of subsection (2) and consequently not to apply the relevant provisions of subsection (6)(a), if it considers that there are special circumstances which justify this for a specific water use activity and provided that the decision does not compromise the purposes of this Law and the achievement of its objectives.
+(5) The provisions of this Article shall not prevent the funding of particular preventive or remedial measures in order to achieve the objectives of this Law.
+(6) The river basin management plan prepared on the basis of Article 22 shall state -
+(a) the planned actions for the implementation of subsections (1), (2) and (3); and
+(b) in the event that a decision is taken on the basis of subsection (4), the reasons on which the decision is based.
+13(1)/2004
+
+Information to the European Community
+28.(1) The competent authority shall transmit to the Commission and to any interested Member State of the European Community, within three months of its publication, a copy of the river basin management plan and of all subsequent updated versions.
+(2) Within three years of the publication of the plan, or its update, the competent authority shall transmit to the Commission an interim report describing the progress made in the implementation of the planned programme of measures.
+(3) The competent authority shall transmit to the Commission, within three months of their completion, summary reports on -
+(a) the analyses required under Article 6; and
+(b) the monitoring programmes established under Article 24,
+which concern the first river basin management plan referred to in Article 22.
+13(1)/2004
+
+Guidance documents
+29. In implementing the provisions of this Law, the competent authority may consult any guidance documents containing recommendations concerning the implementation of the Directive, which are issued with the approval of the European Community and addressed to the Member States.
+13(I)/2004
+
+Provision of information to the competent authority
+30.(1) Subject to the provisions of the Law on the Free Access of the Public to Information Relating to Environmental Matters of 2000, the competent authority may require any public official to provide it with any information or data which he holds by reason of his competence and which are considered useful or necessary for the purposes of implementing any provisions of this Law.
+(2) In this Article, the term "public official" includes employees of Municipalities and Community Councils, as well as of organisations, councils, committees or other bodies established and operating on the basis of any law.
+13(1)/2004
+
+Delegation of powers
+30A.-(1) The competent authority may, by a notification published in the Official Gazette of the Republic, delegate, subject to the terms and conditions it determines, any of its powers or competences related to the control of the implementation of this Law or of the regulations or orders issued thereunder -
+(a) to any department or service of a Ministry of the Republic, or
+(b) to any person who holds the appropriate qualifications, or
+(c) to any public utility organisation established by law for purposes of public interest.
+(2) The competent authority may, whenever it deems it appropriate under the circumstances, revoke or amend its decision to delegate any of its powers or competences, which was taken on the basis of subsection (1) of this Article.
+(3) In the event that the competent authority delegates any powers, in accordance with paragraph (1), such delegation shall not prevent the competent authority from exercising the delegated powers itself at any time.
+67(1)/2009
+
+Amendments to Annexes
+31. The amendments deemed necessary for the adaptation of the Annexes of this Law -
+(a) to scientific and technical progress; or
+(b) to Directives or other legislation of the European Community published after the entry into force of this Law; or
+(c) to obligations of the Republic arising from international conventions,
+may be enacted by an order of the Minister published in the official gazette of the Republic.
+13(1)/2004
+
+Issuance of Regulations
+32.(1) The Council of Ministers may issue regulations for the better implementation of the provisions of this Law and in particular for the regulation of any of the following matters, namely -
+(a) the imposition of obligations or the delegation of powers to any public authority or to any legal or natural person with regard to the implementation of specific provisions of this Law and in particular the provisions of Articles 19, 20, 21, 23(4) and 24.
+(b) the application of technical specifications and standardised methods for the analysis and monitoring of the status of waters, as established by the Commission on the basis of the procedure of Article 21 of the Directive.
+(c) the determination of the details in relation to the identification and implementation of any measures which the competent authority must implement in accordance with the provisions of the Law;
+(d) the determination of additional criteria on the basis of which the water services pricing policy is determined in accordance with Article 27.
+(e) the determination of details regarding the publications or the information to interested parties and the public on matters for which information must be provided in accordance with the Law and the actions to encourage their participation in the implementation of this Law;
+(f) the determination of details regarding the design of the protection zones referred to in the provisions of Article 23(4).
+(2) The regulations issued on the basis of subsection (1) may provide for the commission of offences in cases of contravention of their provisions, and, depending on the seriousness of the offence, the imposition of a penalty of imprisonment up to three years, or a fine of up to twenty thousand pounds, or both these penalties.
+(3) The regulations issued on the basis of subsection (1) may authorise the competent authority to issue orders published in the Official Gazette of the Republic, by which the Annexes of the said regulations are amended, for the purposes of adaptation to scientific and technical progress.
+13(I)/2004 67(I)/2009 47(I)/2018
+
+Effect on other laws
+33. Unless otherwise provided, the provisions of this Law shall prevail over the provisions of any other law to the extent that they concern or regulate matters of water management or protection.
+13(I)/2004
+
+Entry into force of this Law
+34. The entry into force of this Law shall be deemed to have commenced on 22 December 2003.
+13(I)/2004
+
+The translation of the main body of the law is complete. What follows is the translation of the Annexes (ΠΑΡΑΡΤΗΜΑΤΑ), which provide detailed technical and procedural information.
+
+ANNEXES
+
+ANNEX I
+(Article 4)
+INFORMATION REQUIRED FOR THE COMPETENT AUTHORITY
+
+The following information for the competent authority shall be included in a report to the European Commission:
+i) Name and address of the competent authority: Official name and address.
+ii) Geographical coverage of the river basin district: The names of the main rivers in the river basin district, together with a precise description of the boundaries of the river basin district. This information should, as far as possible, be available for introduction into the Geographic Information System (GIS) and/or the Geographic Information System of the Commission (GISCO).
+iii) Legal status of the competent authority: Description of the legal status of the competent authority.
+iv) Responsibilities: A description of the legal and administrative responsibilities of the competent authority and of its role in the river basin district.
+
+ANNEX II
+(Articles 1, 6, 20)
+1. SURFACE WATERS
+1.1. Characterisation of surface water body types
+
+The competent authority shall identify the location and boundaries of bodies of surface water and shall carry out an initial characterisation of all such bodies in accordance with the following methodology. For this initial characterisation, the competent authority may group several bodies of surface water.
+i) Bodies of surface water within the river basin district shall be categorised as either rivers, lakes, transitional waters or coastal waters, or as artificial surface water bodies or heavily modified water bodies.
+ii) For each surface water category, the relevant surface water bodies within the river basin district shall be differentiated into types. These types are those defined using either "System A" or "System B", which are described in section 1.2.
+iii) If System A is used, surface water bodies within the river basin district shall first be differentiated into the relevant ecoregions according to the geographical areas described in section 1.2 and shown on the relevant map in Annex XI. Subsequently, the water bodies within each ecoregion shall be differentiated into surface water body types based on the descriptors in the tables for System A.
+iv) If System B is used, the competent authority must achieve at least the same degree of differentiation as would be achieved with System A. Accordingly, the surface water bodies within the river basin district shall be differentiated into types using the values of the obligatory descriptors and of such optional descriptors or combinations of descriptors as are required to ensure that the biological reference conditions are reliably derived.
+v) For artificial and heavily modified surface water bodies, the differentiation shall be carried out in accordance with the descriptors for whichever of the surface water categories most closely resembles the heavily modified or artificial water body concerned.
+vi) The competent authority shall submit a map or maps (in a GIS format) of the geographical location of the types corresponding to the degree of differentiation required under System A.
+
+1.2. Ecoregions and types of surface water bodies
+
+1.2.1 Rivers
+
+System A
+
+Fixed typology	Descriptors
+Ecoregion	Ecoregions of map A of Annex XI
+Type	Altitude typology
+	high > 800 m
+	mid-altitude 200-800 m
+	lowland <200 m
+	Size typology based on catchment area
+	small 10-100 km²
+	medium > 100-1000 km²
+	large > 1000-10 000 km²
+	very large > 10 000 km²
+	Geology
+	calcareous
+	siliceous
+	organic
+
+System B
+
+Alternative characterisation	Physical and chemical factors which determine the characteristics of the river or part of the river and, consequently, the biological population structure and composition.
+Obligatory factors	Altitude
+	Latitude
+	Longitude
+	Geology
+	Size
+Optional factors	Distance from the source of the river
+	Energy of flow (function of flow and slope)
+	Mean water width
+	Mean water depth
+	Mean water slope
+	Form and shape of the main river bed
+	River discharge (flow) category
+	Valley shape
+	Transport of solids
+	Acid neutralising capacity
+	Mean substratum composition
+	Chloride
+	Air temperature range
+	Mean air temperature
+	Precipitation
+
+1.2.2 Lakes
+
+System A
+
+Fixed typology	Descriptors
+Ecoregion	Ecoregions of map A of Annex XI
+Type	Altitude typology
+	high > 800 m
+	mid-altitude 200-800 m
+	lowland <200 m
+	Depth typology based on mean depth
+	<3m
+	3-15 m
+	>15m
+	Size typology based on surface area
+	0.5-1 km²
+	1-10 km²
+	10-100 km²
+	>100km²
+	Geology
+	calcareous
+	siliceous
+	organic
+
+System B
+
+Alternative characterisation	Physical and chemical factors which determine the characteristics of the lake and, consequently, the biological population structure and composition.
+Obligatory factors	Altitude
+	Latitude
+	Longitude
+	Depth
+	Geology
+	Size
+Optional factors	Mean water depth
+	Lake shape
+	Residence time
+	Mean air temperature
+	Air temperature range
+	Mixing characteristics (e.g. monomictic, dimictic, polymictic)
+	Acid neutralising capacity
+	Background nutrient status
+	Mean substratum composition
+	Water level fluctuation
+
+1.2.3. Transitional waters
+
+System A
+
+Fixed typology	Descriptors
+Ecoregion	The following regions of map B of Annex XI:
+	Baltic Sea
+	Barents Sea
+	Norwegian Sea
+	North Sea
+	North Atlantic Ocean
+	Mediterranean Sea
+Type	Based on mean annual salinity
+	<0.5‰ fresh water
+	0.5-<5‰ oligohaline
+	5-<18‰ mesohaline
+	18-<30‰ polyhaline
+	30-<40‰ euhaline
+	Based on mean tidal range
+	< 2 m microtidal
+	2-4 m mesotidal
+	> 4 m macrotidal
+
+System B
+
+Alternative characterisation	Physical and chemical factors which determine the characteristics of transitional waters and, consequently, the biological population structure and composition.
+Obligatory factors	Latitude
+	Longitude
+	Tidal range
+	Salinity
+Optional factors	Depth
+	Current velocity
+	Wave exposure
+	Residence time
+	Mean water temperature
+	Mixing characteristics
+	Turbidity
+	Mean substratum composition
+	Shape
+	Water temperature range
+
+1.2.4. Coastal waters
+
+System A
+
+Fixed typology	Descriptors
+Ecoregion	The following regions of map B of Annex XI:
+	Baltic Sea
+	Barents Sea
+	Norwegian Sea
+	North Sea
+	North Atlantic Ocean
+	Mediterranean Sea
+Type	Based on mean annual salinity
+	<0.5‰ fresh water
+	0.5-<5‰ oligohaline
+	5-<18‰ mesohaline
+	18-<30‰ polyhaline
+	30-<40‰ euhaline
+	Based on mean depth
+	shallow waters < 30 m
+	waters of intermediate depth (30-200 m)
+	deep waters >200 m
+
+System B
+
+Alternative characterisation	Physical and chemical factors which determine the characteristics of coastal waters and, consequently, the structure and composition of the biological population.
+Obligatory factors	Latitude
+	Longitude
+	Tidal range
+	Salinity
+Optional factors	Current velocity
+	Wave exposure
+	Mean water temperature
+	Mixing characteristics
+	Turbidity
+	Retention time (in enclosed bays)
+	Mean substratum composition
+	Water temperature range
+
+1.3. Establishment of type-specific reference conditions for the different types of surface water bodies
+i) For each type of surface water body characterised in accordance with section 1.1, type-specific hydromorphological and physicochemical conditions shall be established representing the values of the hydromorphological and physicochemical quality elements specified in section 1.1 of Annex V for that surface water body type at high ecological status as defined in the relevant table in section 1.2 of Annex V. Type-specific biological reference conditions shall be established representing the values of the biological quality elements specified in section 1.1 of Annex V for that surface water body at high ecological status as defined in the relevant table of section 1.2 of Annex V.
+ii) In applying the procedures of this section to heavily modified or artificial surface water bodies, references to high ecological status shall be construed as references to maximum ecological potential as defined in table 1.2.5 of Annex V. The values for maximum ecological potential for a water body shall be reviewed every six years.
+iii) The type-specific conditions for the purposes of points i) and ii) and the type-specific biological conditions may be either spatially based or based on modelling, or may be derived using a combination of these methods. Where it is not possible to use these methods, the competent authority may use expert judgement to establish these conditions. In defining high ecological status with respect to the concentrations of specific synthetic pollutants, the detection limits are those that can be achieved with the techniques available at the time of establishing the type-specific conditions.
+iv) For spatially based type-specific biological reference conditions, the competent authority shall establish a reference network for each surface water body type. The network shall contain a sufficient number of sites of high status to provide a sufficient level of confidence in the values for the reference conditions, given the variability in the values of the quality elements corresponding to high ecological status for that surface water body type and the modelling techniques that will be applied in accordance with point v).
+v) Type-specific biological reference conditions based on modelling may be derived using either predictive models or hindcasting methods. The methods shall use historical, palaeological and other available data and shall provide a sufficient level of confidence in the values of the reference conditions to ensure that the conditions so derived are consistent and valid for each surface water body type.
+vi) Where it is not possible to establish reliable reference conditions for a quality element in a surface water body type due to high natural variability and not just due to seasonal variations of that element, that element may be excluded from the assessment of ecological status for that surface water body type. In such circumstances, the competent authority shall state the reasons for this exclusion in the river basin management plan.
+
+1.4. Identification of pressures
+The competent authority shall collect and maintain information on the type and magnitude of the significant anthropogenic pressures to which the surface water bodies in each river basin district are liable to be subject, in particular:
+calculates and identifies significant point source pollution, in particular by substances listed in Annex VIII, from urban, industrial, agricultural and other installations and activities, based, inter alia, on information collected under the legislation enacted for the purposes of harmonisation with Articles -
+i) 15 and 17 of Directive 91/271/EEC,
+ii) 9 and 15 of Directive 96/61/EC(1)
+and, for the purposes of the initial river basin management plan:
+iii) with Article 11 of Directive 76/464/EEC and
+iv) the Council Directives 75/440/EEC, 76/160/EEC, 78/659/EEC and 79/923/EEC,
+calculates and identifies significant diffuse source pollution, in particular by substances listed in Annex VIII, from urban, industrial, agricultural and other installations and activities, based, inter alia, on information collected under the legislation enacted for the purposes of harmonisation with -
+i) Articles 3, 5 and 6 of Directive 91/676/EEC,
+ii) Articles 7 and 17 of Directive 91/414/EEC,
+iii) Directive 98/8/EC,
+and, for the purposes of the first river basin management plan:
+iv) with Directives 75/440/EEC, 76/160/EEC, 76/464/EEC, 78/659/EEC and 79/923/EEC.
+calculates and identifies significant water abstraction for urban, industrial, agricultural and other uses, including seasonal variations and total annual demand, and the loss of water in distribution systems;
+calculates and identifies the impact of significant water flow regulation, including water transfer and diversion, on the general flow characteristics and water balances;
+calculates and identifies other significant anthropogenic impacts on the status of surface waters; and
+calculates the land use patterns, including the identification of the main urban, industrial and agricultural areas and, where appropriate, fisheries and forests.
+
+1.5. Assessment of impact
+The competent authority shall assess the susceptibility of the status of surface water bodies to the aforementioned pressures.
+
+2. GROUNDWATER
+2.1. Initial characterisation
+The competent authority shall carry out an initial characterisation of all groundwater bodies in order to assess their uses and the risks that they will not meet the objectives for each groundwater body in accordance with Articles 9-17. For this initial characterisation, the competent authority may group several groundwater bodies. During this analysis, existing hydrological, geological, pedological, land use, discharge, abstraction and other data may be used to identify:
+
+the location and boundaries of the groundwater body or bodies,
+the pressures to which the groundwater body or bodies are liable to be subject, including inter alia:
+
+diffuse sources of pollution,
+
+point sources of pollution,
+
+abstraction,
+
+artificial recharge,
+
+the general character of the overlying strata in the catchment from which the groundwater body receives its recharge,
+
+groundwater bodies for which there are directly dependent surface water ecosystems or terrestrial ecosystems.
+
+2.2. Further characterisation
+Following this initial characterisation, the competent authority shall carry out a further characterisation of those groundwater bodies or groups of bodies which have been identified as being at risk in order to establish a more precise assessment of the significance of the risk and to identify any measures to be required under Articles 18-21. This characterisation shall therefore include relevant information on the impact of human activities and, where relevant, information on:
+
+the geological characteristics of the groundwater body, including the extent and type of geological units,
+
+the hydrogeological characteristics of the groundwater body, including hydraulic conductivity, porosity and confinement,
+
+the characteristics of the superficial deposits and soils in the catchment from which the groundwater body receives its recharge, including their thickness, porosity, hydraulic conductivity and absorptive properties of the deposits and soils,
+
+the stratification characteristics of the water within the groundwater body,
+
+an inventory of associated surface systems, including terrestrial ecosystems and bodies of surface water, with which the groundwater body is dynamically linked,
+
+estimates of the directions and rates of exchange of water between the groundwater body and associated surface systems, and
+
+sufficient data to calculate the long-term annual average rate of overall recharge,
+
+the characterisation of the chemical composition of the groundwater, including the specification of the contributions from human activity. When establishing natural background levels for these bodies of groundwater, the competent authority may use typologies for groundwater characterisation.
+
+2.3. Review of the impact of human activity on groundwater
+For those groundwater bodies that are identified in the initial characterisation carried out in accordance with section 2.1 as being at risk of failing to meet the objectives set for each body under Articles 9-17, the following information shall, where relevant, be collected and maintained for each groundwater body:
+a) the location of abstraction points in the groundwater body, except for:
+
+abstraction points providing less than 10 m3 per day on average, or
+
+points for the abstraction of water intended for human consumption providing less than 10 m3 per day on average or serving fewer than 50 persons;
+b) the mean annual rates of abstraction from such points;
+c) the chemical composition of water abstracted from the groundwater body;
+d) the location of points in the groundwater body where water is directly discharged;
+e) the rates of discharge at such points;
+f) the chemical composition of the water discharged into the groundwater body; and
+g) land use in the catchment or catchments from which the groundwater body receives its recharge, including pollutant inputs and man-made alterations to the recharge characteristics such as rainwater run-off diversion and percolation due to land sealing, artificial recharge, damming or drainage.
+
+2.4. Review of the impact of changes in groundwater level
+The competent authority shall also identify those groundwater bodies for which lower objectives are specified under Articles 9-17, inter alia as a result of the impact of the status of the body on:
+i) surface water and associated terrestrial ecosystems;
+ii) water regulation, flood protection and land drainage;
+iii) human development.
+
+2.5. Review of the impact of pollution on groundwater quality
+The competent authority shall also identify those groundwater bodies for which less stringent objectives are specified under Article 14 where, as a result of the impact of human activity as set out in Article 6(1), the groundwater body is so polluted that achieving good groundwater chemical status is infeasible or disproportionately expensive.
+
+ANNEX III
+(Articles 2, 6, 27)
+ECONOMIC ANALYSIS
+The economic analysis shall contain sufficient information in sufficient detail (taking account of the costs associated with collecting the relevant data) in order to:
+a) make the calculations required to take account, in accordance with Article 27, of the principle of recovery of the costs of water services, taking account of long-term forecasts of supply and demand for water in the river basin district and, where necessary:
+
+of estimates of the volume, prices and costs associated with water services, and
+
+of estimates of relevant investment, including forecasts of such investment;
+b) make a judgement about the most cost-effective combination of measures in relation to water uses to be included in the programme of measures under Articles 19-21, based on estimates of the potential costs of such measures.
+
+ANNEX IV
+(Article 8)
+REGISTER OF PROTECTED AREAS
+
+The register of protected areas required under Article 8 shall include the following types of protected areas:
+i) Areas designated for the abstraction of water intended for human consumption under Article 23.
+ii) Areas designated for the protection of economically significant aquatic species.
+iii) Water bodies designated as recreational waters, including areas designated as bathing waters, under the legislation enacted for the purposes of harmonisation with Directive 76/160/EEC.
+iv) Nutrient-sensitive areas, including areas designated as vulnerable zones under the legislation enacted for the purposes of harmonisation with Directive 91/676/EEC and areas designated as sensitive areas under the legislation enacted for the purposes of harmonisation with Directive 91/271/EEC.
+v) Areas designated for the protection of habitats or species where the maintenance or improvement of the status of water is an important factor in their protection, including relevant Natura 2000 sites designated under the legislation enacted for the purposes of harmonisation with Directives 92/43/EEC and 79/409/EEC.
+
+The summary of the register required as part of the river basin management plan shall include maps showing the location of each protected area and a description of the legislation under which they have been designated.
+
+ANNEX V
+(Articles 2, 9, 10, 18, 24)
+1. STATUS OF SURFACE WATERS
+1.1. Quality elements for the classification of ecological status
+1.1.1. Rivers
+1.1.2. Lakes
+1.1.3. Transitional waters
+1.1.4. Coastal waters
+1.1.5. Artificial and heavily modified surface water bodies
+
+1.2. Normative definitions for the classification of ecological status
+1.2.1. Definitions for high, good and moderate ecological status in rivers
+1.2.2. Definitions for high, good and moderate ecological status in lakes
+1.2.3. Definitions for high, good and moderate ecological status in transitional waters
+1.2.4. Definitions for high, good and moderate ecological status in coastal waters
+1.2.5. Definitions for maximum, good and moderate ecological potential of heavily modified or artificial water bodies
+1.2.6. Procedure to be followed by the competent authority for the establishment of chemical quality standards
+
+1.3. Monitoring of the ecological and chemical status of surface waters
+1.3.1. Design of surveillance monitoring
+1.3.2. Design of operational monitoring
+1.3.3. Design of investigative monitoring
+1.3.4. Frequency of monitoring
+1.3.5. Additional requirements for the monitoring of protected areas
+1.3.6. Standards for the monitoring of quality elements
+
+1.4. Classification and presentation of ecological status
+1.4.1. Comparability of the results of biological monitoring
+1.4.2. Presentation of monitoring results and classification of ecological status and ecological potential
+i) For the categories of surface waters, the classification of the ecological status of the water body shall be expressed by the poorer of the values for the results of the biological and physicochemical monitoring of the relevant quality elements, which is classified in accordance with the first column of the table below. The competent authority shall provide a map for each river basin district, with the classification of the ecological status of each water body using a colour code in accordance with the second column of the table below to indicate the classification of the ecological status of the water body.
+
+Classification of ecological status	Colour code
+High	Blue
+Good	Green
+Moderate	Yellow
+Poor	Orange
+Bad	Red
+
+ii) For heavily modified and artificial water bodies, the classification of the ecological potential of the water body shall be expressed by the poorer of the values for the results of the biological and physicochemical monitoring of the relevant quality elements, which is classified in accordance with the first column of the table below. The competent authority shall provide a map for the river basin district, with the classification of the ecological potential of each water body, using a colour code, with regard to artificial water bodies, in accordance with the second column of the table below, and with regard to heavily modified water bodies, in accordance with the third column of the table below:
+
+Classification of ecological potential	Colour code
+	Artificial water bodies
+Good and above	Green and light grey stripes of the same width
+Moderate	Yellow and light grey stripes of the same width
+Poor	Orange and light grey stripes of the same width
+Bad	Red and light grey stripes of the same width
+
+iii) The competent authority shall also indicate, with a black dot on the map, those water bodies in which the failure to achieve good status or good ecological potential is due to the failure to meet one or more environmental quality standards which have been established for that water body in relation to specific synthetic and non-synthetic pollutants (in accordance with the compliance regime established by the competent authority).
+
+1.4.3. Presentation of monitoring results and classification of chemical status
+Where a water body achieves compliance with all the environmental quality standards established in Annex IX, in Article 16 of Directive 2000/60/EC and in any other relevant legislation of the European Community establishing environmental quality standards, it shall be recorded as achieving good chemical status. Otherwise, the body shall be recorded as failing to achieve good chemical status.
+
+The competent authority shall provide a map for each river basin district, showing the chemical status of each water body, using a colour code in accordance with the second column of the table below to indicate the classification of the chemical status of the water body.
+
+Classification of chemical status	Colour code
+Good	Blue
+Status lower than good	Red
+
+2. GROUNDWATER
+
+2.1. Quantitative status of groundwater
+
+2.1.1. Parameter for the classification of quantitative status
+Groundwater level regime
+
+2.1.2. Definition of quantitative status
+
+Element	Good status
+Groundwater level	The level of groundwater in the groundwater body ensures that the available groundwater resource is not exceeded by the long-term annual average rate of abstraction. <br><br> Accordingly, the level of the groundwater is not subject to anthropogenic alterations such as would result in: <br> - failure to achieve the environmental objectives set out in Articles 9-17 for associated surface waters, <br> - any significant diminution in the status of such waters, <br> - any significant damage to terrestrial ecosystems which depend directly on the groundwater body, <br> and temporary, or continuous but spatially limited, alterations to the direction of flow due to changes in level may occur, but such reversals do not lead to saline or other intrusions and do not constitute a permanent and clearly identified trend, resulting from anthropogenic causes, in the alteration of the direction of flow capable of leading to such intrusions.
+
+2.2. Monitoring of the quantitative status of groundwater
+2.2.1. Groundwater level monitoring network
+The groundwater monitoring network shall be established in accordance with the requirements of Articles 7 and 8. The monitoring network shall be designed so as to provide a reliable assessment of the quantitative status of all groundwater bodies or groups of bodies, including an assessment of the available groundwater resource. The competent authority shall provide one or more maps in the river basin management plan showing the groundwater monitoring network.
+
+2.2.2. Density of monitoring points
+The network shall include sufficient representative monitoring points to estimate the groundwater level in each groundwater body or group of bodies, taking account of short- and long-term variations in recharge, and in particular:
+
+for groundwater bodies identified as being at risk of failing to achieve the environmental objectives of Articles 9-17, a sufficient density of monitoring points shall be ensured to assess the impact of abstractions and discharges on the groundwater level.
+
+2.2.3. Frequency of monitoring
+The frequency of observations shall be sufficient to allow for the assessment of the quantitative status of each groundwater body or group of bodies, taking into account short- and long-term variations in recharge, and in particular:
+
+for groundwater bodies identified as being at risk of failing to achieve the environmental objectives of Articles 9-17, a sufficient frequency of measurements shall be ensured to assess the impact of abstractions and discharges on the groundwater level.
+
+2.2.4. Interpretation and presentation of the quantitative status of groundwater
+The results obtained from the monitoring network for a groundwater body or group of bodies shall be used to assess the quantitative status of that body or bodies. Subject to section 2.5, the competent authority shall prepare a map based on this assessment of the quantitative status of groundwater, using the following colour codes:
+Good: green
+Poor: red
+
+2.3. Interpretation and presentation of the chemical status of groundwater
+
+2.3.1. Parameters for the determination of the chemical status of groundwater
+
+Conductivity
+
+Concentrations of pollutants
+
+2.3.2. Definition of good groundwater chemical status
+
+Element	Good status
+General	The chemical composition of the groundwater body is such that the concentrations of pollutants: <br> - as specified below, do not exhibit the effects of saline or other intrusions, <br> - do not exceed the quality standards applicable under other relevant Community legislation in accordance with Article 17 of Directive 2000/60/EC, <br> - are not such as would result in failure to achieve the environmental objectives of Articles 9-17 for associated surface waters, nor in any significant diminution of the ecological or chemical quality of such bodies, nor in any significant damage to terrestrial ecosystems which depend directly on the groundwater body.
+Conductivity	Changes in conductivity do not indicate saline or other intrusion into the groundwater body.
+
+2.4. Monitoring of the chemical status of groundwater
+
+2.4.1. Groundwater monitoring network
+The groundwater monitoring network shall be established in accordance with the requirements of Articles 23 and 24 of the Law. The monitoring network shall be designed so as to provide a coherent and comprehensive overview of the chemical status of groundwater within each river basin and to detect the presence of long-term anthropogenically induced upward trends in pollutants.
+
+On the basis of the characterisation and impact assessment carried out in accordance with Article 6 and Annex II, the competent authority shall, for each period of a river basin management plan, establish a surveillance monitoring programme. The results of this programme shall be used to establish an operational monitoring programme to be applied for the remaining period of the plan.
+
+The plan shall provide estimates of the level of confidence and precision of the results provided by the monitoring programmes.
+
+2.4.2. Surveillance monitoring
+Objective
+Surveillance monitoring shall be carried out in order to:
+
+supplement and validate the impact assessment procedure,
+
+provide information for use in the assessment of long-term trends due to changes in natural conditions and to human activity.
+
+Selection of monitoring points
+Sufficient monitoring points shall be selected for:
+
+bodies which are identified as being at risk following the characterisation carried out in accordance with Annex II,
+
+bodies which cross a Member State boundary.
+
+Selection of parameters
+The following series of core parameters shall be monitored in all selected groundwater bodies:
+
+oxygen content,
+
+pH value,
+
+conductivity,
+
+nitrate,
+
+ammonium.
+Those bodies which are identified, in accordance with Annex II, as being at significant risk of failing to achieve good status shall also be monitored for those parameters which are indicative of the impacts of those pressures.
+
+2.4.3. Operational monitoring
+Objective
+Operational monitoring shall be undertaken in the periods between surveillance monitoring programmes in order to:
+
+establish the chemical status of all groundwater bodies or groups of bodies determined to be at risk,
+
+establish the presence of long-term anthropogenically induced upward trends in the concentration of pollutants.
+
+Selection of monitoring points
+Operational monitoring shall be carried out for all those groundwater bodies or groups of bodies which, on the basis of both the impact assessment carried out in accordance with Annex II and surveillance monitoring, are identified as being at risk of failing to meet the objectives of Articles 9-17. The selection of monitoring points shall also reflect an assessment of how representative the monitoring data from the particular point are in terms of the quality of the relevant one or more groundwater bodies.
+
+Frequency of monitoring
+Operational monitoring shall be carried out in the periods between surveillance monitoring programmes at a frequency sufficient to detect the impacts of the relevant pressures and, in any event, at least once a year.
+
+2.4.4. Trend identification
+The competent authority shall use data from both surveillance and operational monitoring to identify long-term anthropogenically induced upward trends in pollutant concentrations and the reversal of these trends. The base year or period from which such trends are calculated shall be identified. The calculation of trends shall be carried out for a body or, where appropriate, a group of groundwater bodies. The reversal of a trend shall be demonstrated statistically and the level of confidence in the identification shall be stated.
+
+2.4.5. Interpretation and presentation of the chemical status of groundwater
+In assessing status, the results of individual monitoring points within a groundwater body shall be aggregated for the body as a whole. Subject to the relevant directives, for a groundwater body to be in good status, with respect to the chemical parameters for which Community-wide environmental quality standards are set:
+
+the mean value of the results of monitoring at each point in the body or group of groundwater bodies is calculated; and
+
+in accordance with Article 17 of Directive 2000/60/EC, these mean values are used to demonstrate compliance with good groundwater chemical status.
+
+Subject to section 2.5, the competent authority shall produce a map of the chemical status of groundwater, using the following colour codes:
+Good: green
+Poor: red
+
+The competent authority shall also indicate on the map with a black dot those groundwater bodies which are subject to a significant and sustained upward trend in the concentrations of any pollutant resulting from the impact of human activity. The reversal of a trend shall be indicated on the map with a blue dot.
+
+These maps shall be included in the river basin management plan.
+
+2.5. Presentation of groundwater status
+The competent authority shall provide in the river basin management plan a map showing, for each groundwater body or group of bodies, both the quantitative and the chemical status of that body or group of bodies, using colour codes in accordance with the requirements of sections 2.2.4 and 2.4.5. The competent authority has the option of not producing separate maps for sections 2.2.4 and 2.4.5, but in that case, it shall also indicate, in accordance with the requirements of section 2.4.5, on the map required by this section, those bodies that are subject to a significant and sustained upward trend in the concentration of any pollutant or any reversal of that trend.
+
+ANNEX VI
+(Articles 2(K1)(a), 21)
+TABLES OF MEASURES TO BE INCLUDED IN THE PROGRAMMES OF MEASURES
+
+PART A
+Measures required under the following directives of the European Community:
+i) the Bathing Water Directive (76/160/EEC),
+ii) the Birds Directive (79/409/EEC)(1),
+iii) the Drinking Water Directive (80/778/EEC), as amended by Directive 98/83/EC,
+iv) the Major Accidents (Seveso) Directive (96/82/EC)(2),
+v) the Environmental Impact Assessment Directive (85/337/EEC)(3),
+vi) the Sewage Sludge Directive (86/278/EEC)(4),
+vii) the Urban Waste Water Treatment Directive (91/271/EEC),
+viii) the Plant Protection Products Directive (91/414/EEC),
+ix) the Nitrates Directive (91/676/EEC),
+x) the Habitats Directive (92/43/EEC)(5),
+xi) the Integrated Pollution Prevention and Control Directive (96/61/EC).
+
+PART B
+The following is a non-exhaustive list of supplementary measures that may be established for each river basin district as part of the programme of measures required under Article 21.
+i) Legislative acts,
+ii) Administrative measures,
+iii) Economic or fiscal instruments,
+iv) Negotiated environmental agreements,
+v) Emission controls,
+vi) Codes of good practice,
+vii) Recreation and restoration of wetland areas,
+viii) Abstraction controls,
+ix) Demand management measures, inter alia, promotion of agricultural production that is adapted to the conditions, such as low water requiring crops in areas affected by drought,
+x) Efficiency and reuse measures, inter alia, promotion of water-efficient technologies in industry and water-saving irrigation techniques,
+xi) Construction projects,
+xii) Desalination plants,
+xiii) Rehabilitation projects,
+xiv) Artificial recharge of aquifers,
+xv) Educational projects,
+xvi) Research, development and demonstration projects,
+xvii) Other relevant measures.
+
+ANNEX VII
+(Article 22(1))
+RIVER BASIN MANAGEMENT PLANS
+
+A. The river basin management plans shall cover the following elements:
+
+A general description of the characteristics of the river basin district as required under Article 6 and Annex II. This description shall include:
+1.1. For surface waters:
+
+maps of the location and boundaries of water bodies,
+
+maps of the ecoregions and surface water body types within each river basin district,
+
+identification of reference conditions for the surface water body types.
+1.2. For groundwaters:
+
+maps of the location and boundaries of groundwater bodies.
+
+A summary of significant pressures and impact of human activity on the status of surface water and groundwater, including
+
+an estimation of point source pollution,
+
+an estimation of diffuse source pollution, including a summary of land use,
+
+an estimation of pressures on the quantitative status of water, including abstractions,
+
+an analysis of other impacts of human activity on the status of water.
+
+Identification and mapping of protected areas as required by Article 8 and Annex IV.
+
+A map of the monitoring networks established for the purposes of Article 24 and Annex V and a presentation in map form of the results of the monitoring programmes carried out under those provisions for the status of:
+4.1. Surface water (ecological and chemical).
+4.2. Groundwater (chemical and quantitative).
+4.3. Protected areas.
+
+A list of the environmental objectives established under Articles 9-17 for surface waters, groundwaters and protected areas, including in particular the circumstances in which Articles 13-16 were applied, and the related information required under that Article.
+
+A summary of the economic analysis of water use as required by Article 6 and Annex III.
+
+A summary of the programme or programmes of measures adopted under Articles 19, 20 and 21, including the ways in which the objectives established under Articles 9-17 are to be achieved.
+7.1. A summary of the measures required to implement any other legislation for the protection of water.
+7.2. A report on the practical steps and measures taken to apply the principle of recovery of the costs of water use in accordance with Article 27.
+7.3. A summary of the measures taken to meet the requirements of Article 23.
+7.4. A summary of the controls on abstraction and impoundment of water, including reference to the registers and the details of cases where exemptions have been granted under Article 20(1)(e).
+7.5. A summary of the controls undertaken for point source discharges and other activities with an impact on the status of water in accordance with Article 20(1)(g) and (h).
+7.6. An identification of the cases where direct discharges have been authorised under Article 20(2).
+7.7. A summary of the measures taken in accordance with Article 26 for priority substances.
+7.8. A summary of the measures taken to prevent or reduce the impact of accidental pollution incidents.
+7.9. A summary of the measures taken under Article 18(i) for water bodies which are unlikely to achieve the objectives of Articles 9-17.
+7.10. Details of the supplementary measures identified as necessary to meet the environmental objectives set.
+7.11. Details of the measures taken to avoid increases in pollution of marine waters in accordance with Article 20(4).
+
+A register of any more detailed programmes and management plans for the river basin district dealing with particular sub-basins, sectors, issues or water types, together with a summary of their contents.
+
+A summary of the public information and consultation measures taken, their results and the changes to the plans made as a consequence.
+
+A list of the information referred to in Annex I.
+
+The contact points and procedures for obtaining the background documentation and information referred to in subsections (1), (2), (3) and (4) of Article 19, in particular details of the control measures adopted in accordance with Article 20(1)(g) and (i), as well as the actual monitoring data gathered in accordance with Article 24 and Annex V.
+
+B. The first update of the river basin management plan and all subsequent updates must also include:
+
+A summary of any changes or updates since the publication of the previous version of the river basin management plan, including a summary of the reviews made in accordance with Articles 13, 14, 15 and 16.
+
+An assessment of the progress made towards the achievement of the environmental objectives, including the presentation of the monitoring results for the period of the previous plan in map form, and an explanation for any environmental objectives which have not been reached.
+
+A summary of, and an explanation for, any measures foreseen in the earlier version of the river basin management plan which have not been undertaken.
+
+A summary of any additional interim measures adopted under Article 18 since the publication of the previous version of the river basin management plan.
+
+ANNEX VIII
+(Articles 2, 25)
+INDICATIVE LIST OF THE MAIN POLLUTANTS
+
+Organohalogen compounds and substances which may form such compounds in the aquatic environment.
+
+Organophosphorus compounds.
+
+Organotin compounds.
+
+Substances and preparations, or the breakdown products of such, which have been proved to possess carcinogenic or mutagenic properties or properties which may affect steroidogenic, thyroid, reproduction or other endocrine-related functions in or via the aquatic environment.
+
+Persistent hydrocarbons and persistent and bioaccumulable organic toxic substances.
+
+Cyanides.
+
+Metals and their compounds.
+
+Arsenic and its compounds.
+
+Biocides and plant protection products.
+
+Materials in suspension.
+
+Substances which contribute to eutrophication (in particular, nitrates and phosphates).
+
+Substances which have an unfavourable influence on the oxygen balance (and can be measured using parameters such as BOD, COD, etc.).
+
+ANNEX IX
+(Article 25)
+EMISSION LIMIT VALUES AND ENVIRONMENTAL QUALITY STANDARDS
+
+The "limit values" and the "quality objectives" which are established in the legislation below are considered, respectively, emission limit values and environmental quality standards for the purposes of this Law.
+
+The Control of Water Pollution Laws of 2002 to (No. 2) of 2009 and the Regulations and Orders issued thereunder;
+
+The Control of Water Pollution (Discharge of Mercury from the Chlor-Alkali Electrolysis Industry) Regulations of 2002.
+
+The Control of Water Pollution (Discharge of Mercury from Sectors other than the Chlor-Alkali Electrolysis Industry) Regulations of 2002.
+
+The Control of Water Pollution (Discharge of Cadmium) Regulations of 2002.
+
+The Control of Water Pollution (Discharge of Hexachlorocyclohexane) Regulations of 2002.
+
+The Control of Water Pollution (Discharge of Dangerous Substances) Regulations of 2002 and 2007.
+
+The Control of Water Pollution (Nitrate Pollution from Agricultural Sources) Regulations of 2002.
+
+The Control of Water Pollution (Discharge of Urban Waste Water) Regulations of 2003.
+
+ANNEX X
+
+LIST OF PRIORITY SUBSTANCES IN THE FIELD OF WATER POLICY
+
+	CAS Number (1)	EC Number (2)	Name of priority substance (3)	Identification as a priority hazardous substance
+(1)	15972-60-8	240-110-8	Alachlor	
+(2)	120-12-7	204-371-1	Anthracene	(X)
+(3)	1912-24-9	217-617-8	Atrazine	
+(4)	71-43-2	200-753-7	Benzene	
+(5)	Not applicable	Not applicable	Brominated diphenylethers (4)	X(5)
+	32534-81-9	Not applicable	Pentabromodiphenylether (congeners 28, 47, 99, 100, 153 and 154)	
+(6)	7440-43-9	231-152-8	Cadmium and its compounds	X
+(7)	85535-84-8	287-476-5	Chloroalkanes, C10-13(4)	X
+(8)	470-90-6	207-432-0	Chlorfenvinphos	
+(9)	2921-88-2	220-864-4	Chlorpyrifos (Chlorpyrifos-ethyl)	
+(10)	107-06-2	203-458-1	1,2-Dichloroethane	
+(11)	75-09-2	200-838-9	Dichloromethane	
+(12)	117-81-7	204-211-0	Di(2-ethylhexyl)phthalate (DEHP)	
+(13)	330-54-1	206-354-4	Diuron	
+(14)	115-29-7	204-079-4	Endosulfan	X
+(15)	206-44-0	205-912-4	Fluoranthene (6)	
+(16)	118-74-1	204-273-9	Hexachlorobenzene	X
+(17)	87-68-3	201-765-5	Hexachlorobutadiene	X
+(18)	608-73-1	210-158-9	Hexachlorocyclohexane	X
+(19)	34123-59-6	251-835-4	Isoproturon	
+(20)	7439-92-1	231-100-4	Lead and its compounds	
+(21)	7439-97-6	231-106-7	Mercury and its compounds	X
+(22)	91-20-3	202-049-5	Naphthalene	
+(23)	7440-02-0	231-111-14	Nickel and its compounds	
+(24)	25154-52-3, 104-40-5	246-672-0, 203-199-4	Nonylphenol (4-nonylphenol)	X
+(25)	1806-26-4, 140-66-9	217-302-5, Not applicable	Octylphenol (4-(1,1',3,3'-tetramethylbutyl)-phenol)	X
+(26)	608-93-5	210-172-5	Pentachlorobenzene	X
+(27)	87-86-5	201-947-6	Pentachlorophenol	
+(28)	Not applicable	Not applicable	Polyaromatic hydrocarbons	X
+	50-32-8	200-028-5	(Benzo(a)pyrene)	X
+	205-99-2	205-911-9	(Benzo(b)fluoranthene)	X
+	191-24-2	205-883-8	(Benzo(g,h,i)perylene)	X
+	207-08-9	205-916-6	(Benzo(k)fluoranthene)	X
+	193-39-5	205-893-2	(Indeno(1,2,3-cd)pyrene)	X
+(29)	122-34-9	204-535-2	Simazine	
+(30)	Not applicable	Not applicable	Tributyltin compounds	X
+	36643-28-4	Not applicable	(Tributyltin cation)	X
+(31)	12002-48-1	234-413-4	Trichlorobenzenes	
+(32)	67-66-3	200-663-8	Trichloromethane (chloroform)	
+(33)	1582-09-8	216-428-8	Trifluralin	
+
+(1) CAS: Chemical Abstracts Service.
+(2) EC number: European Inventory of Existing Commercial Chemical Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).
+(3) Where groups of substances have been selected, typical individual representative substances are given in brackets (and without a number). For these groups of substances, the indicative parameter must be determined via the analytical method.
+(4) These groups of substances normally include a large number of individual compounds. At present, it is not possible to give appropriate indicative parameters.
+(5) Only pentabromodiphenylether (CAS number 32534-81-9).
+(6) Fluoranthene is listed as an indicator of other, more dangerous polyaromatic hydrocarbons.
+
+ANNEX XA
+(articles 224, 228, 26A and 26C)
+Environmental Quality Standards for Priority Substances and Certain Other Pollutants
+PART A: ENVIRONMENTAL QUALITY STANDARDS
+EQS: Environmental Quality Standard
+AA: annual average. MAC: maximum allowable concentration.
+Unit: [μg/l] for columns (4) to (7)
+[μg/kg wet weight] for column (8)
+
+No.	Name of substance	CAS Number (1)	AA-EQS (2) Inland surface waters (3)	AA-EQS (2) Other surface waters	MAC-EQS (4) Inland surface waters (3)	MAC-EQS (4) Other surface waters	EQS (12) Biota
+(1)	Alachlor	15972-60-8	0.3	0.3	0.7	0.7	
+(2)	Anthracene	120-12-7	0.1	0.1	0.1	0.1	
+(3)	Atrazine	1912-24-9	0.6	0.6	2.0	2.0	
+(4)	Benzene	71-43-2	10	8	50	50	
+(5)	Brominated diphenylethers (5)	32534-81-9			0.14	0.014	0.0085
+(6)	Cadmium and its compounds (depending on water hardness categories) (6)	7440-43-9	≤ 0.08 (Class 1), 0.08 (Class 2), 0.09 (Class 3), 0.15 (Class 4), 0.25 (Class 5)	0.2	≤ 0.45 (Class 1), 0.45 (Class 2), 0.6 (Class 3), 0.9 (Class 4), 1.5 (Class 5)	≤ 0.45 (Class 1), 0.45 (Class 2), 0.6 (Class 3), 0.9 (Class 4), 1.5 (Class 5)	
+(6a)	Carbon tetrachloride	56-23-5	12	12	not applicable	not applicable	
+(7)	Chloroalkanes C10-13 (8)	85535-84-8	0.4	0.4	1.4	1.4	
+(8)	Chlorfenvinphos	470-90-6	0.1	0.1	0.3	0.3	
+(9)	Chlorpyrifos (Chlorpyrifos-ethyl)	2921-88-2	0.03	0.03	0.1	0.1	
+(9a)	Cyclodiene pesticides: Aldrin (7), Dieldrin (7), Endrin (7), Isodrin (7)	309-00-2, 60-57-1, 72-20-8, 465-73-6	Σ=0.01	Σ=0.005	not applicable	not applicable	
+(9b)	Total DDT (7, 9)		0.025	0.025	not applicable	not applicable	not applicable
+(10)	1,2-Dichloroethane	107-06-02	10	10	not applicable	not applicable	
+(11)	Dichloromethane	75-09-2	20	20	not applicable	not applicable	
+(12)	Di(2-ethylhexyl) phthalate (DEHP)	117-81-7	1.3	1.3	not applicable	not applicable	
+(13)	Diuron	330-54-1	0.2	0.2	1.8	1.8	
+(14)	Endosulfan	115-29-7	0.005	0.0005	0.01	0.004	
+(15)	Fluoranthene	206-44-0	0.0063	0.0063	0.12	0.12	30
+(16)	Hexachlorobenzene	118-74-1			0.05	0.05	10
+(17)	Hexachlorobutadiene	87-68-3			0.6	0.6	55
+(18)	Hexachlorocyclohexane	608-73-1	0.02	0.002	0.04	0.02	
+(19)	Isoproturon	34123-59-6	0.3	0.3	1.0	1.0	
+(20)	Lead and its compounds	7439-92-1	1.2 (13)	1.3	14	14	
+(21)	Mercury and its compounds	7439-976			0.07	0.07	20
+(22)	Naphthalene	91-20-3	2	2	130	130	
+(23)	Nickel and its compounds	7440-02-0	4 (13)	8.6	34	34	
+(24)	Nonylphenols (4-nonylphenol)	84852-15-3	0.3	0.3	2.0	2.0	
+(25)	Octylphenol ((4-(1,1',3,3'-tetramethylbutyl) -phenol))	140-66-9	0.1	0.1	not applicable	not applicable	
+(26)	Pentachlorobenzene	608-93-5	0.007	0.0007	not applicable	not applicable	
+(27)	Pentachlorophenol	87-86-5	0.4	0.4	1	1	
+(28)	Polycyclic aromatic hydrocarbons (PAH) (11)	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+	Benzo(a)pyrene	50-32-8	1.7×10⁻⁴	1.7×10⁻⁴	0.27	0.027	5
+	Benzo(b)fluoranthene	205-99-2	see footnote 11	see footnote 11	0.017	0.017	see footnote 11
+	Benzo(k)fluoranthene	207-08-9	see footnote 11	see footnote 11	0.017	0.017	see footnote 11
+	Benzo(g,h,i)perylene	191-24-2	see footnote 11	see footnote 11	8.2×10⁻³	8.2×10⁻⁴	see footnote 11
+	Indeno(1,2,3-cd)pyrene	193-39-5	see footnote 11	see footnote 11	not applicable	not applicable	see footnote 11
+(29)	Simazine	122-34-9	1	1	4	4	
+(29a)	Tetrachloroethylene (7)	127-18-4	10	10	not applicable	not applicable	
+(29b)	Trichloroethylene (7)	127-18-4	10	10	not applicable	not applicable	
+(30)	Tributyltin compounds (tributyltin cation)	36643-28-4	0.0002	0.0002	0.0015	0.0015	
+(31)	Trichlorobenzenes	12002-48-1	0.4	0.4	not applicable	not applicable	
+(32)	Trichloromethane	67-66-3	2.5	2.5	not applicable	not applicable	
+(33)	Trifluralin	1582-09-8	0.03	0.03	not applicable	not applicable	
+(34)	Dicofol	115-32-2	1.3×10⁻³	3.2×10⁻⁵	not applicable	not applicable	33
+(35)	Perfluorooctane sulfonic acid and its derivatives (PFOS)	1763-23-1	6.5×10⁻⁴	1.3×10⁻⁴	36	7.2	9.1
+(36)	Quinoxyfen	124495-18-7	0.15	0.015	2.7	0.54	
+(37)	Dioxins and dioxin-like compounds	See footnote 9 in Annex X		not applicable	not applicable	Sum of PCDD+PCDF+PCB-DL: 0.0065 μg·kg⁻¹ TEQ (14)	
+(38)	Aclonifen	74070-46-5	0.12	0.012	0.12	0.012	
+(39)	Bifenox	42576-02-3	0.012	0.0012	0.04	0.004	
+(40)	Cybutryne	28159-98-0	0.0025	0.0025	0.016	0.016	
+(41)	Cypermethrin	52315-07-8	8×10⁻⁵	8×10⁻⁶	6×10⁻⁴	6×10⁻⁵	
+(42)	Dichlorvos	62-73-7	6×10⁻⁴	6×10⁻⁵	7×10⁻⁴	7×10⁻⁵	
+(43)	Hexabromocyclododecane (HBCDD)	See footnote 11 in Annex X	0.0016	0.0008	0.5	0.05	167
+(44)	Heptachlor and heptachlor epoxide	76-44-8 / 1024-57-3	2×10⁻⁷	1×10⁻⁸	3×10⁻⁴	3×10⁻⁵	6.7×10⁻³
+(45)	Terbutryn	886-50-0	0.065	0.0065	0.34	0.034	
+
+CAS: Chemical Abstracts Service.
+
+This parameter is the environmental quality standard expressed as an annual average value (AA-EQS). Unless otherwise specified, it applies to the total concentration of all isomers.
+
+Inland surface waters cover rivers and lakes and related artificial or heavily modified water bodies.
+
+This parameter is the environmental quality standard expressed as a maximum allowable concentration (MAC-EQS). Where 'not applicable' is indicated for the MAC-EQS, the AA-EQS values are considered to protect against short-term pollution peaks in continuous discharges as they are significantly lower than the values derived from acute toxicity.
+
+For the group of priority substances of brominated diphenylethers (No 5), the EQS refers to the sum of the concentrations of congeners No 28, 47, 99, 100, 153 and 154.
+
+For cadmium and its compounds (No 6) the EQS values vary depending on the water hardness, which is classified into 5 categories (Class 1: < 40 mg CaCO₃/l, Class 2: 40 to <50 mg CaCO₃/l, Class 3: 50 to <100 mg CaCO₃/l, Class 4: 100 to <200 mg CaCO₃/l, Class 5: ≥ 200 mg CaCO₃/l).
+
+This substance is not a priority substance but one of the other pollutants for which the EQS are identical to those laid down in the legislation in force before 13 January 2009.
+
+No indicative parameter is provided for this group of substances. The indicative parameter(s) must be defined through the analytical method.
+
+Total DDT comprises the sum of the isomers 1,1,1-trichloro-2,2 bis(p-chlorophenyl) ethane (CAS number 50-29-3; EU number 200-024-3); 1,1,1-trichloro-2-(o-chlorophenyl)-2-(p-chlorophenyl) ethane (CAS number 789-02-6; EU number 212-332-5); 1,1-dichloro-2,2 bis(p-chlorophenyl) ethylene (CAS number 72-55-9; EU number 200-784-6); and 1,1-dichloro-2,2 bis(p-chlorophenyl) ethane (CAS number 72-54-8; EU number 200-783-0).
+
+There is insufficient data to set a MAC-EQS for these substances.
+
+For the group of priority substances of polycyclic aromatic hydrocarbons (PAH) (No 28), the biota EQS and the corresponding AA-EQS in water refer to the concentration of benzo(a)pyrene, on whose toxicity they are based. Benzo(a)pyrene can be considered as a marker for the other PAHs, and therefore only benzo(a)pyrene needs to be monitored for comparison with the biota EQS or the corresponding AA-EQS in water.
+
+The biota EQS refers to fish, unless otherwise specified. An alternative biota taxon, or another matrix, may be monitored instead of fish, provided that the EQS applied offers an equivalent level of protection. For substances No 15 (Fluoranthene) and 28 (PAHs), the biota EQS refers to crustaceans and molluscs. For the purpose of assessing chemical status, monitoring of fluoranthene and PAHs in fish is not appropriate. For substance No 37 (Dioxins and dioxin-like compounds), the biota EQS refers to fish, crustaceans and molluscs, in line with section 5.3 of the Annex to Commission Regulation (EU) No 1259/2011 amending Regulation (EC) No 1881/2006 as regards maximum levels for dioxins, dioxin-like PCBs and non-dioxin-like PCBs in foodstuffs.
+
+These EQS refer to bioavailable concentrations of the substances.
+
+PCDD: polychlorinated dibenzo-p-dioxins; PCDF: polychlorinated dibenzofurans; PCB-DL: dioxin-like polychlorinated biphenyls; TEQ: toxic equivalents according to the World Health Organisation 2005 toxic equivalency factors.
+
+PART B: APPLICATION OF THE ENVIRONMENTAL QUALITY STANDARDS ESTABLISHED IN PART A
+1.1 Columns 4 and 5 of the table: For any given surface water body, applying the AA-EQS means that, for any representative monitoring point within the water body, the arithmetic mean of the concentrations measured at different times during the year does not exceed the standard.
+1.2 The calculation of the arithmetic mean, the analytical method applied and, where no suitable analytical method meeting the minimum performance criteria exists, the method of applying the environmental quality standard shall be in accordance with the implementing acts establishing technical specifications for chemical monitoring and the quality of analytical results in accordance with the provisions of this Law and the Directive.
+2.1 Columns 6 and 7 of the table: For any given surface water body, applying the MAC-EQS means that the measured concentration at any representative monitoring point within the water body does not exceed the standard.
+2.2 However, in accordance with section 1.3.4 of Annex V, the competent authority may apply statistical methods, such as a percentile calculation, to ensure an acceptable level of confidence and precision for determining compliance with the MAC-EQS. In that case, such statistical methods shall comply with the detailed rules laid down pursuant to Article 9, paragraph 2 of Directive 2008/105/EC.
+3.1 The environmental quality standards for water established in this Annex are expressed as total concentrations in the whole water sample.
+3.2 By way of derogation from the provisions of section 3.1, in the case of cadmium, lead, mercury and nickel (hereinafter 'metals') the water environmental quality standard refers to the dissolved concentration, i.e. the dissolved phase of a water sample obtained by filtration through a 0,45 μm filter or any equivalent pre-treatment, or, where explicitly stated, to the bioavailable concentration.
+3.3 The competent authority may, when assessing the monitoring results against the relevant environmental quality standards, take into account:
+(a) the natural background concentrations for metals and their compounds, where such concentrations prevent compliance with the relevant environmental quality standard.
+(b) the hardness, pH, dissolved organic carbon or other water quality parameters that affect the bioavailability of metals, where bioavailable concentrations are determined using appropriate bioavailability models.
+
+ANNEX XI
+(Annex II)
+MAP A
+System A: Ecoregions for rivers and lakes
+
+Iberic-Macaronesian region
+
+Pyrenees
+
+Italy, Corsica and Malta
+
+Alps
+
+Dinaric western Balkan
+
+Hellenic western Balkan
+
+Eastern Balkan
+
+Western uplands
+
+Central uplands
+
+Carpathians
+
+Hungarian lowlands
+
+Pontic province
+
+Western plains
+
+Central plains
+
+Baltic province
+
+Eastern plains
+
+Ireland and Northern Ireland
+
+Great Britain
+
+Iceland
+
+Scandinavian uplands
+
+Tundra
+
+Fenno-Scandian shield
+
+Taiga
+
+Caucasus
+
+Caspian depression
+
+Cyprus
+
+MAP B
+System A: Ecoregions for transitional and coastal waters
+
+Atlantic Ocean
+
+Norwegian Sea
+
+Barents Sea
+
+North Sea
+
+Baltic Sea
+
+Mediterranean Sea
+
+Note
+6 of Law 159(I)/2015 Repeal of Order
+With the entry into force of this Law [N.B.: i.e., of Law 159(I)/2015], the Protection and Management of Waters (environmental quality standards in the field of water policy) Order of 2010 is repealed [N.B.: Official Gazette, Annex Three (I): 10.12.2010].
+
+Cylaw.org: From KINOP/CyLii and ConvertPLC for the Pancyprian Bar Association

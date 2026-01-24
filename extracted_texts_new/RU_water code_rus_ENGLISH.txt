@@ -1,0 +1,926 @@
+****
+[No text was provided for translation.]
+
+****
+Water Code of the Russian Federation of June 3, 2006, N 74-FZ (WC RF) (with amendments and additions)
+Adopted by the State Duma on April 12, 2006
+Approved by the Federation Council on May 26, 2006
+
+**Chapter 1. General Provisions**
+
+**Article 1. Basic concepts used in this Code**
+
+For the purposes of this Code, the following basic concepts are used:
+1) **water area** - a water space within natural, artificial, or conventional boundaries;
+2) **water management** - types of economic and other activities for the study, use, and protection of water bodies, as well as for the prevention of the negative impact of water and the elimination of its consequences;
+3) **water resources** - surface and underground waters that are located in water bodies and are used or may be used;
+4) **water body** - a natural or artificial reservoir, watercourse, or other object where the permanent or temporary accumulation of water has characteristic forms and signs of a water regime;
+5) **water regime** - the change over time in the levels, flow, and volume of water in a water body;
+6) **water fund** - the aggregate of water bodies within the territory of the Russian Federation;
+7) Repealed as of January 1, 2013;
+8) **water user** - a natural person or a legal entity granted the right to use a water body;
+9) **water consumption** - the consumption of water from water supply systems;
+10) Repealed as of January 1, 2013;
+11) **water management system** - a complex of water bodies and hydraulic structures intended for the rational use and protection of water resources;
+12) **water management section** - a part of a river basin with characteristics that allow for the establishment of limits for the abstraction (withdrawal) of water resources from a water body and other parameters for the use of the water body (water use);
+12.1) **bottom soil** - soil from the bottom of water bodies, extracted during dredging, hydraulic engineering works, construction, reconstruction, and operation of hydraulic and other structures, artificial islands, and installations located on water bodies, creation and maintenance of inland waterways of the Russian Federation, prevention of the negative impact of water and elimination of its consequences, and in other cases established by federal laws;
+13) **drainage water** - water diverted by drainage structures for discharge into water bodies;
+14) **use of water bodies (water use)** - the use of water bodies in various ways to meet the needs of the Russian Federation, constituent entities of the Russian Federation, municipal formations, natural persons, and legal entities;
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+15) **depletion of water** - a permanent reduction in the reserves and deterioration in the quality of surface and underground waters;
+16) **negative impact of water** - flooding, waterlogging, or erosion of the banks of water bodies;
+17) **protection of water bodies** - a system of measures aimed at the preservation and restoration of water bodies;
+18) **river basin** - a territory from which surface water runoff flows through connected reservoirs and watercourses into a sea or lake;
+19) **wastewater** - rainwater, meltwater, infiltration water, wash water, drainage water, wastewater from a centralized water disposal system, and other waters, the diversion (discharge) of which into water bodies is carried out after their use or the runoff of which occurs from a catchment area.
+
+**Article 2. Water Legislation**
+
+1. Water legislation consists of this Code, other federal laws, and laws of the constituent entities of the Russian Federation adopted in accordance therewith.
+2. Norms regulating relations concerning the use and protection of water bodies (water relations) and contained in other federal laws and laws of the constituent entities of the Russian Federation must comply with this Code.
+3. Water relations may also be regulated by decrees of the President of the Russian Federation, which must not contradict this Code or other federal laws.
+4. The Government of the Russian Federation shall issue normative legal acts regulating water relations within the limits of the powers defined by this Code, other federal laws, and decrees of the President of the Russian Federation.
+5. Federal executive bodies authorized by the Government of the Russian Federation shall issue normative legal acts regulating water relations in the cases and within the limits provided for by this Code, other federal laws, as well as decrees of the President of the Russian Federation and resolutions of the Government of the Russian Federation.
+6. On the basis of and in pursuance of this Code, other federal laws, other normative legal acts of the Russian Federation, and laws of the constituent entities of the Russian Federation, the executive bodies of the constituent entities of the Russian Federation may, within their powers, issue normative legal acts regulating water relations.
+7. On the basis of and in pursuance of this Code, other federal laws, other normative legal acts of the Russian Federation, and laws and other normative legal acts of the constituent entities of the Russian Federation, local self-government bodies may, within their powers, issue normative legal acts regulating water relations.
+
+**Article 3. Basic Principles of Water Legislation**
+
+Water legislation and the normative legal acts issued in accordance with it are based on the following principles:
+1) the significance of water bodies as the basis of human life and activity.
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+Regulation of water relations is carried out based on the concept of a water body as a crucial component of the environment, a habitat for objects of the animal and plant world, including aquatic biological resources, as a natural resource used by humans for personal and domestic needs and for conducting economic and other activities, and simultaneously as an object of the right of ownership and other rights;
+2) the priority of protecting water bodies over their use. The use of water bodies must not have a negative impact on the environment;
+3) the preservation of specially protected water bodies, the restriction or prohibition of the use of which is established by federal laws;
+4) the designated use of water bodies. Water bodies may be used for one or several purposes;
+5) the priority of using water bodies for drinking and domestic water supply purposes over other purposes of their use. Granting them for use for other purposes is permitted only if sufficient water resources are available;
+6) the participation of citizens and public associations in resolving issues concerning rights to water bodies, as well as their duties for the protection of water bodies. Citizens and public associations have the right to participate in the preparation of decisions, the implementation of which may have an impact on water bodies during their use and protection. State authorities, local self-government bodies, and subjects of economic and other activities are obliged to ensure the possibility of such participation in the manner and in the forms established by the legislation of the Russian Federation;
+7) equal access for natural persons and legal entities to acquiring the right to use water bodies, except in cases provided for by water legislation;
+8) equal access for natural persons and legal entities to acquiring ownership of water bodies that, in accordance with this Code, may be owned by natural persons or legal entities;
+9) the regulation of water relations within the boundaries of river basin districts (a basin-based approach);
+10) the regulation of water relations depending on the characteristics of the regime of water bodies, their physical-geographical, morphometric, and other features;
+11) the regulation of water relations based on the interconnection of water bodies and hydraulic structures that form a water management system;
+12) the transparency of water use. Decisions on granting water bodies for use and water use agreements must be accessible to any person, with the exception of information classified by the legislation of the Russian Federation as restricted access;
+13) the integrated use of water bodies. The use of water bodies may be carried out by one or several water users;
+14) the paid use of water bodies. The use of water bodies is carried out for a fee, except in cases established by the legislation of the Russian Federation;
+15) economic incentives for the protection of water bodies. When determining the fee for the use of water bodies, the expenses of water users for measures to protect water bodies are taken into account;
+16) the use of water bodies in places of traditional residence of the indigenous
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+small-numbered peoples of the North, Siberia, and the Far East of the Russian Federation for the purpose of traditional nature management.
+
+**Article 4. Relations Regulated by Water Legislation**
+
+1. Water legislation regulates water relations.
+2. Property relations related to the turnover of water bodies are determined by civil legislation to the extent that they are not regulated by this Code.
+
+**Article 5. Surface Water Bodies and Underground Water Bodies**
+
+1. Water bodies, depending on the characteristics of their regime, physical-geographical, morphometric, and other features, are subdivided into:
+1) surface water bodies;
+2) underground water bodies.
+2. Surface water bodies include:
+1) seas or their individual parts (straits, gulfs, including bays, estuaries, and others);
+2) watercourses (rivers, streams, canals);
+3) reservoirs (lakes, ponds, flooded quarries, water reservoirs);
+4) bogs (lowland, transitional, upland);
+5) natural outlets of underground water (springs, geysers);
+6) glaciers, snowfields.
+3. Surface water bodies consist of surface waters and the lands covered by them within the shoreline.
+4. The shoreline (boundary of a water body) is determined for:
+1) a sea - by the constant water level, and in the case of periodic changes in the water level, by the line of maximum low tide;
+2) a river, stream, canal, lake, flooded quarry - by the long-term average water level during the period when they are not covered by ice;
+3) a pond, water reservoir - by the normal retaining water level;
+4) a bog - by the boundary of the peat deposit at zero depth.
+4.1. The procedure for determining the location of the shoreline (boundary of a water body), the cases and frequency of its determination shall be established by the Government of the Russian Federation. The requirements for the description of the location of the shoreline (boundary of a water body) shall be established by the federal executive body authorized by the Government of the Russian Federation.
+5. Underground water bodies include:
+1) basins of underground waters;
+2) aquifers.
+5.1. The classification of aquifers (first, second, and other aquifers) shall be approved by the federal executive body authorized by the Government of the Russian Federation.
+6. The boundaries of underground water bodies shall be determined in accordance with the legislation on subsoil resources.
+
+**Article 6. Water Bodies for Public Use**
+
+1. Surface water bodies that are in state or municipal
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+ownership are water bodies for public use, that is, publicly accessible water bodies, unless otherwise provided by this Code.
+2. Every citizen has the right to have access to water bodies for public use and to use them free of charge for personal and domestic needs, unless otherwise provided by this Code or other federal laws.
+3. The use of water bodies for public use shall be carried out in accordance with the rules for the protection of human life on water bodies, approved in the manner determined by the authorized federal executive body, and also based on the rules for the use of water bodies for personal and domestic needs established by local self-government bodies.
+4. On water bodies for public use, the abstraction (withdrawal) of water resources for drinking and domestic water supply purposes, bathing, the use of small vessels, personal watercraft, and other technical means intended for recreation on water bodies, and watering of livestock may be prohibited, and other prohibitions may be established in cases provided for by the legislation of the Russian Federation and the legislation of the constituent entities of the Russian Federation.
+5. Information about restrictions on water use on water bodies for public use shall be provided to citizens by local self-government bodies through the mass media and by means of special information signs installed along the banks of water bodies. Other methods of providing such information may also be used.
+6. A strip of land along the shoreline (boundary of a water body) of a water body for public use (coastal strip) is intended for public use. The width of the coastal strip of water bodies for public use is twenty meters, with the exception of the coastal strip of canals, as well as rivers and streams whose length from source to mouth is not more than ten kilometers. The width of the coastal strip of canals, as well as rivers and streams whose length from source to mouth is not more than ten kilometers, is five meters.
+7. The coastal strip of bogs, glaciers, snowfields, natural outlets of underground water (springs, geysers), and other water bodies provided for by federal laws is not determined.
+8. Every citizen has the right to use (without the use of mechanical transport vehicles) the coastal strip of water bodies for public use for movement and presence near them, including for amateur fishing and mooring of watercraft.
+
+**Article 7. Participants in Water Relations**
+
+1. The participants in water relations are the Russian Federation, the constituent entities of the Russian Federation, municipal formations, natural persons, and legal entities.
+2. On behalf of the Russian Federation, the constituent entities of the Russian Federation, and municipal formations, the respective state authorities of the Russian Federation, state authorities of the constituent entities of the Russian Federation, and local self-government bodies act in water relations within their powers as established by normative legal acts.
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); Commentaries on the articles at the website https://vodnkod.ru/ • • 8 (800) 301-79-07 (Regions of the RF).
+
+**Article 7.1. Water Management Measures**
+
+1. Measures for the study, use, and protection of water bodies that are in state or municipal ownership, as well as for the prevention of the negative impact of water and the elimination of its consequences (hereinafter referred to as water management measures), shall be carried out by state authorities and local self-government bodies within their powers in accordance with Articles 24-27 of this Code, or by persons who, in accordance with this Code, use water bodies and/or upon whom this Code imposes the obligation to carry out such measures.
+2. Water management measures may be carried out by state (municipal) institutions subordinate to state authorities and local self-government bodies, within the powers of the said bodies as defined by Articles 24-27 of this Code.
+3. If the implementation of water management measures is not assigned in the established manner to the state (municipal) institutions specified in part 2 of this article, or to the persons specified in part 1 of this article who use water bodies and/or upon whom this Code imposes the obligation to carry out such measures, state authorities and local self-government bodies shall procure works and services for the implementation of water management measures in accordance with the legislation of the Russian Federation on the contract system in the procurement of goods, works, and services for state and municipal needs and this Code.
+
+**Chapter 2. Ownership and Other Rights to Water Bodies**
+
+**Article 8. Right of Ownership of Water Bodies**
+
+1. Water bodies are owned by the Russian Federation (federal ownership), except in cases established by part 2 of this article.
+2. A pond or a flooded quarry located within the boundaries of a land plot owned by a constituent entity of the Russian Federation, a municipal formation, a natural person, or a legal entity, is respectively owned by the constituent entity of the Russian Federation, the municipal formation, the natural person, or the legal entity, unless otherwise established by federal laws.
+3. The right of ownership of the Russian Federation, a constituent entity of the Russian Federation, a municipal formation, a natural person, or a legal entity to a pond or a flooded quarry terminates simultaneously with the termination of the right of ownership to the corresponding land plot within whose boundaries such water bodies are located.
+4. A pond or a flooded quarry, specified in part 3 of this article, may be alienated in accordance with civil legislation and land legislation. Alienation of such water bodies without the alienation of the land plots within whose boundaries they are located is not permitted. These land plots are not subject to division if such division requires the division of the pond or the flooded quarry.
+5. The natural change of a riverbed does not entail the termination of the right of ownership of the Russian Federation to that water body.
+6. Forms of ownership of underground water bodies are determined by the legislation on subsoil resources.
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+
+**Article 9. Right to Use Water Bodies**
+
+1. Natural persons and legal entities shall acquire the right to use surface water bodies on the grounds and in the manner established by Chapter 3 of this Code.
+2. The natural change of a riverbed does not entail a change or termination of the right to use that water body, unless otherwise follows from the substance of the legal relationship and this Code.
+3. Natural persons and legal entities shall acquire the right to use underground water bodies on the grounds and in the manner established by the legislation on subsoil resources.
+
+**Article 10. Termination of the Right to Use Water Bodies**
+
+1. The right to use surface water bodies shall be terminated on the grounds and in the manner established by civil legislation and this Code, as well as on the grounds established by the legislation of the Russian Federation on concession agreements and the legislation of the Russian Federation on public-private partnership and municipal-private partnership.
+2. The right to use underground water bodies shall be terminated on the grounds and in the manner established by the legislation on subsoil resources.
+3. The grounds for the compulsory termination of the right to use a water body by a court decision are:
+1) the use of the water body for a purpose other than that designated;
+2) the use of the water body in violation of the legislation of the Russian Federation;
+3) the non-use of the water body within the time limits established by the water use agreement or the decision to grant the water body for use.
+4. The compulsory termination of the right to use water bodies in cases where it becomes necessary to use them for state or municipal needs shall be carried out by executive bodies of state power or local self-government bodies within their competence in accordance with federal laws.
+5. A demand for the termination of the right to use a water body on the grounds provided for in part 3 of this article must be preceded by a warning issued by an executive body of state power or a local self-government body. The form of the warning shall be established by the federal executive body authorized by the Government of the Russian Federation.
+6. Upon termination of the right to use a water body, the water user is obliged to:
+1) cease using the water body within the established time limit;
+2) ensure the conservation or liquidation of hydraulic and other structures located on water bodies, and carry out environmental protection measures related to the termination of the use of the water body.
+
+**Chapter 3. Grounds and Procedure for Acquiring the Right to Use Surface Water Bodies or Parts Thereof**
+
+**Article 11. Grounds for Acquiring the Right to Use Surface Water Bodies or Parts Thereof**
+
+Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+1. The right to use surface water bodies or parts thereof is acquired by natural persons and legal entities on the grounds provided for by this Code and other federal laws.
+2. On the basis of water use agreements, the right to use surface water bodies that are in federal ownership, the ownership of constituent entities of the Russian Federation, or the ownership of municipal formations, is acquired for the purposes of:
+1) the abstraction (withdrawal) of water resources from water bodies in accordance with part 3 of Article 38 of this Code;
+2) the use of the water area of water bodies, unless otherwise provided by parts 3 and 4 of this article;
+3) the production of electrical energy without the abstraction (withdrawal) of water resources from water bodies.
+3. On the basis of decisions to grant water bodies for use, unless otherwise provided by parts 2 and 4 of this article, the right to use surface water bodies that are in federal ownership, the ownership of constituent entities of the Russian Federation, or the ownership of municipal formations, is acquired for the purposes of:
+1) ensuring the country's defense and state security;
+2) discharging wastewater;
+3) constructing and reconstructing hydraulic structures;
+4) creating stationary and floating (mobile) drilling rigs (platforms), offshore floating (mobile) platforms, offshore stationary platforms, and artificial islands;
+5) constructing and reconstructing bridges, underwater crossings, pipelines, and other linear objects, if such construction and reconstruction are associated with a change in the bottom and banks of surface water bodies;
+6) prospecting for and extracting mineral resources;
+7) conducting dredging, blasting, drilling, and other works related to a change in the bottom and banks of surface water bodies, except in cases provided for by part 2 of Article 47 of this Code;
+8) removing sunken property;
+9) timber rafting (log driving);
+10) abstracting (withdrawing) water resources from water bodies for land hydro-reclamation;
+11) abstracting (withdrawing) water resources from water bodies and discharging wastewater for aquaculture (fish farming);
+12) carrying out pond aquaculture (fish farming) in ponds formed by water-retaining structures on watercourses and with a water area of no more than 200 hectares, as well as on water bodies used in the process of functioning of reclamation systems.
+4. Water use is carried out on the grounds provided for by other federal laws, without granting water bodies, in the following cases:
+1) the use of water bodies for maritime, inland water, and air transport purposes, except in cases provided for by part 3 of Article 47 of this Code;
+2) the use of water bodies for fishery and aquaculture (fish farming) purposes, except for the case provided for by paragraphs 11 and 12 of part 3 of this article;
+2.1) conducting archaeological fieldwork;
+2.2) the use of bogs for the purpose of prospecting for and extracting mineral resources (except for
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+bogs located within the boundaries of wetlands);
+3) in other cases provided for by this Code and other federal laws.
+
+**Article 12. Water Use Agreement**
+
+1. Under a water use agreement, one party - an executive body of state power or a local self-government body - undertakes to grant the other party - the water user - a water body or part thereof for use for a fee.
+2. The provisions on lease provided for by the Civil Code of the Russian Federation shall apply to a water use agreement, unless otherwise established by this Code and does not contradict the substance of the water use agreement.
+3. A water use agreement is deemed concluded from the moment of its state registration in the State Water Register.
+
+**Article 13. Content of a Water Use Agreement**
+
+1. A water use agreement must contain:
+1) information about the water body, including a description of the location of the shoreline (boundary of the water body) and the part thereof within which water use is intended to be carried out;
+2) the purpose, types, and conditions of use of the water body or its part (including the volume of permissible abstraction (withdrawal) of water resources) in the cases provided for by part 2 of Article 11 of this Code;
+3) the term of the water use agreement;
+4) the amount of the fee for the use of the water body or its part, and the terms and deadlines for payment of this fee;
+5) the procedure for terminating the use of the water body or its part;
+6) the liability of the parties to the water use agreement for violating its terms.
+2. A water use agreement, along with the conditions specified in part 1 of this article, may contain other conditions by agreement of the parties to this agreement.
+3. Materials in graphical form (including diagrams of the placement of hydraulic and other structures located on the water body, as well as zones with special conditions for their use) and an explanatory note thereto shall be attached to the water use agreement.
+
+**Article 14. Term of a Water Use Agreement**
+
+1. The maximum term for granting water bodies for use on the basis of a water use agreement may not exceed twenty years.
+2. A water use agreement concluded for a term exceeding the term established by part 1 of this article is considered concluded for a term equal to the maximum term of a water use agreement.
+
+**Article 15. Preferential Right of a Water User to Conclude a Water Use Agreement for a New Term**
+
+1. A water user who has duly fulfilled their obligations under a water use agreement has, upon the expiration of the term of the water use agreement, a preferential right over other persons to conclude a water use agreement for
+• Free legal consultation by phone: • 8(499) 938-53-84 (Moscow and Moscow Oblast); • • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+a new term, except in the case where the water use agreement was concluded based on the results of an auction. The water user is obliged to notify the executive body of state power or the local self-government body in writing of the desire to conclude a water use agreement for a new term no later than three months before the expiration of the term of this agreement.
+2. When concluding a water use agreement for a new term, the terms of the agreement may be changed by agreement of the parties to this agreement.
+3. If the water user has received a refusal from the executive body of state power or the local self-government body to conclude a water use agreement for a new term, but within one year from the date of expiration of the term of the water use agreement such an agreement was concluded with another person, the water user, at their choice, has the right to demand in court the transfer to themself of the rights and obligations under the concluded water use agreement and compensation for losses caused by the refusal to renew the water use agreement with them, or only compensation for such losses.
+
+**Article 16. Cases and Procedure for Concluding a Water Use Agreement Based on Auction Results or Without an Auction**
+
+1. A water use agreement is concluded based on the results of an auction, except in cases provided for by part 2 of this article.
+2. A water use agreement is concluded without an auction in the case of acquiring the right to use for the purposes provided for by paragraph 1 or 3 of part 2 of Article 11 of this Code, as well as in cases established by Articles 15, 47, 49, and 50 of this Code.
+3. The procedure for the preparation and conclusion of a water use agreement, the form of a model water use agreement, and the procedure for organizing and conducting an auction for the right to conclude a water use agreement shall be approved by the Government of the Russian Federation.
+4. A notice of the auction shall be posted on the official website of the Russian Federation on the information and telecommunication network "Internet" for posting information about tenders, as determined by the Government of the Russian Federation (hereinafter - the official website on the "Internet" network). Until the Government of the Russian Federation determines the official website on the "Internet" network, the notice of the auction shall be posted on the official website of the auction organizer on the information and telecommunication network "Internet" and published by them in a periodical print publication determined respectively by the Government of the Russian Federation, the supreme executive body of state power of a constituent entity of the Russian Federation, or the head of a municipal formation. Information about the auction must be available for review by all interested persons free of charge.
+5. The conclusion of a water use agreement based on the results of an auction, or if the auction is declared void, is not permitted earlier than ten days from the date of posting information about the auction results on the official website on the "Internet" network.
+6. When concluding a water use agreement based on the results of an auction, it is not permitted to change the terms of the auction on the basis of an agreement between the parties to this agreement or unilaterally.
+7. The conclusion of a water use agreement, including based on the results of an auction, is permitted with natural persons and legal entities if there is no information about them in the register of unscrupulous water users and participants in an auction for the right to conclude a
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+water use agreement.
+
+**Article 17. Amendment and Termination of a Water Use Agreement**
+
+The amendment and termination of a water use agreement shall be carried out in accordance with civil legislation.
+
+**Article 18. Liability of the Parties to a Water Use Agreement**
+
+1. The parties to a water use agreement shall be liable for the non-performance or improper performance of their obligations under the water use agreement in accordance with civil legislation.
+2. The untimely payment by a water user of the fee for the use of a water body shall entail the payment of penalties in the amount of one one-hundred-fiftieth of the refinancing rate of the Central Bank of the Russian Federation effective on the day of payment of the penalties, but not more than two-tenths of a percent for each day of delay. The penalty shall be charged for each calendar day of delay in the performance of the obligation by the water user to pay the fee for the use of the water body, starting from the day following the day for payment specified in the water use agreement.
+3. For the abstraction (withdrawal) of water resources in a volume exceeding the volume of abstraction (withdrawal) of water resources established by the water use agreement, the water user is obliged to pay a fine for such an excess in the amount of five times the fee for the use of the water body.
+
+**Article 19. Transfer of Rights and Obligations Under a Water Use Agreement to Another Person**
+
+1. A water user, with the consent of the executive body of state power or the local self-government body, has the right to transfer their rights and obligations under a water use agreement to another person, except in cases where the water use agreement was concluded based on the results of an auction, or in cases of transferring rights and obligations under a water use agreement with respect to the abstraction (withdrawal) of water resources from surface water bodies for drinking and domestic water supply purposes. The transfer of rights and obligations under a water use agreement to another person shall be carried out in accordance with civil legislation.
+2. An application from a water user for consent to the transfer of rights and obligations under a water use agreement to another person must be considered by the executive body of state power or the local self-government body no later than thirty days from the date of receipt of such an application.
+3. A refusal by the executive body of state power or the local self-government body to give consent to the transfer of rights and obligations under a water use agreement to another person may be appealed in court.
+4. The rights and obligations under a water use agreement are considered transferred after registration in the State Water Register.
+
+**Article 20. Fee for the Use of a Water Body**
+
+1. A water use agreement shall provide for a fee for the use of the water body or its part.
+2. The fee for the use of water bodies is established on the basis of the following principles:
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+1) stimulating the economical use of water resources, as well as the protection of water bodies;
+2) differentiating the rates of fees for the use of water bodies depending on the river basin;
+3) ensuring the uniform receipt of fees for the use of water bodies throughout the calendar year.
+3. The rates of fees for the use of water bodies that are in federal ownership, the ownership of constituent entities of the Russian Federation, or the ownership of municipal formations, and the procedure for calculating and collecting such fees shall be established respectively by the Government of the Russian Federation, the state authorities of the constituent entities of the Russian Federation, and the local self-government bodies.
+
+**Article 21. Granting of a Water Body for Use Based on a Decision to Grant a Water Body for Use**
+
+1. The granting of a water body that is in federal ownership for use to ensure the country's defense and state security shall be carried out on the basis of a decision of the Government of the Russian Federation.
+2. In cases other than those provided for by part 1 of this article, the granting of water bodies for use shall be carried out on the basis of decisions of executive bodies of state power or local self-government bodies.
+
+**Article 22. Content of a Decision to Grant a Water Body for Use**
+
+1. A decision to grant a water body for use must contain:
+1) information about the water user;
+2) the purpose, types, and conditions of use of the water body or its part (including the volume of permissible abstraction (withdrawal) of water resources) in the cases provided for by part 3 of Article 11 of this Code;
+3) information about the water body, including a description of the location of the shoreline (boundary of the water body) and the part thereof within which water use is intended to be carried out;
+4) the term of water use.
+2. Materials in graphical form (including diagrams of the placement of hydraulic and other structures located on the water body, as well as zones with special conditions for their use) and an explanatory note thereto shall be attached to the decision to grant a water body for use.
+3. A decision to grant a water body for use for the purpose of discharging wastewater, including drainage water, must additionally contain:
+1) an indication of the place of discharge of wastewater, including drainage water;
+2) the volume of permissible discharges of wastewater, including drainage water;
+3) requirements for the quality of water in water bodies at the places of discharge of wastewater, including drainage water.
+4. In the cases provided for by paragraphs 2-12 of part 3 of Article 11 of this Code, the maximum term of water use on the basis of a decision to grant a water body for use may not exceed twenty years.
+5. A decision to grant a water body for use in the cases provided for
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+by paragraphs 2-12 of part 3 of Article 11 of this Code for a term that exceeds the maximum term of water use specified in part 4 of this article is considered to have been adopted for a term equal to the maximum term of water use.
+
+**Article 23. Procedure for Adopting a Decision to Grant a Water Body for Use**
+
+1. A natural person or a legal entity interested in obtaining a water body or part thereof that is in federal ownership, the ownership of a constituent entity of the Russian Federation, or the ownership of a municipal formation, for use in the cases provided for by part 3 of Article 11 of this Code, shall apply to the executive body of state power or the local self-government body directly or through a multifunctional center for the provision of state and municipal services (hereinafter referred to as a multifunctional center) with an application to grant such a water body or such part thereof for use, with a justification of the purpose, type, and term of water use.
+2. Within thirty days from the date of receipt of an application to grant a water body or part thereof that is in federal ownership, the ownership of a constituent entity of the Russian Federation, or the ownership of a municipal formation, for use, the executive body of state power or the local self-government body shall make a decision to grant such a water body or such part thereof for use or shall refuse to grant such a water body or such part thereof for use, unless another time limit is provided for by federal law.
+2.1. The granting of a water body or part thereof that is in federal ownership, the ownership of a constituent entity of the Russian Federation, or the ownership of a municipal formation for use by natural or legal persons is possible if there is no information about them in the register of unscrupulous water users and participants in an auction for the right to conclude a water use agreement.
+3. In case of refusal to grant a water body or part thereof that is in federal ownership, the ownership of a constituent entity of the Russian Federation, or the ownership of a municipal formation, for use, the executive body of state power or the local self-government body shall send the applicant a motivated refusal. If the corresponding application was submitted through a multifunctional center, the said refusal shall be sent through the multifunctional center.
+4. A refusal to grant a water body or part thereof for use in accordance with part 1 of this article may be appealed in court.
+5. A decision to grant a water body or part thereof for use in accordance with part 1 of this article shall enter into force from the moment of registration of this decision in the State Water Register.
+6. The procedure for the preparation and adoption of a decision to grant a water body for use shall be approved by the Government of the Russian Federation.
+
+**Chapter 4. Management in the Field of Use and Protection of Water Bodies**
+
+**Article 24. Powers of the State Authorities of the Russian Federation in the Field of Water Relations**
+
+The powers of the state authorities of the Russian Federation in the field of water
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+relations include:
+1) ownership, use, and disposal of water bodies that are in federal ownership;
+2) development, approval, and implementation of schemes for the integrated use and protection of water bodies and making amendments to these schemes;
+3) exercise of federal state ecological control (supervision) with respect to water bodies, their water protection zones, and coastal protective strips, which, in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection," are subject to federal state ecological control (supervision);
+4) organization and implementation of state monitoring of water bodies;
+5) establishment of the procedure for maintaining the State Water Register and its maintenance;
+6) approval of the procedure for the preparation and adoption of a decision to grant a water body for use, and the procedure for the preparation and conclusion of a water use agreement;
+7) determination of the procedure for the creation and operation of river basin councils;
+8) hydrographic and water management zoning of the territory of the Russian Federation;
+9) establishment of rates of fees for the use of water bodies that are in federal ownership, and the procedure for calculating and collecting such fees;
+10) establishment of the procedure for approving standards for permissible impact on water bodies and target indicators for water quality in water bodies;
+10.1) establishment of rules for the protection of surface water bodies and rules for the protection of underground water bodies;
+11) territorial redistribution of surface water runoff, replenishment of water resources of underground water bodies;
+12) approval of rules for the use of reservoirs;
+13) establishment of regimes for the passage of floods, special releases, filling, and drawdown (release of water) of reservoirs;
+14) Repealed as of July 1, 2021 - Federal Law of June 11, 2021, N 170-FZ
+15) determination of the procedure for reserving sources of drinking and domestic water supply;
+16) establishment of the procedure for using water bodies for the takeoff and landing of aircraft;
+17) implementation of measures to prevent the negative impact of water and eliminate its consequences with respect to water bodies that are in federal ownership and are located on the territories of two or more constituent entities of the Russian Federation, as well as with respect to water bodies along which the State Border of the Russian Federation passes;
+18) approval of the methodology for calculating the damage caused to water bodies;
+19) Repealed as of July 1, 2021 - Federal Law of June 11, 2021, N 170-FZ
+20) Repealed as of July 1, 2021 - Federal Law of June 11, 2021, N 170-FZ
+21) Repealed;
+22) other powers established by this Code.
+
+**Article 25. Powers of the State Authorities of the Constituent Entities of the Russian Federation**
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+**in the Field of Water Relations**
+
+The powers of the state authorities of the constituent entities of the Russian Federation in the field of water relations include:
+1) ownership, use, and disposal of water bodies that are owned by the constituent entities of the Russian Federation;
+2) establishment of rates of fees for the use of water bodies that are owned by the constituent entities of the Russian Federation, and the procedure for calculating and collecting such fees;
+3) participation in the activities of river basin councils;
+4) development, approval, and implementation of programs of the constituent entities of the Russian Federation for the use and protection of water bodies or parts thereof located on the territories of the constituent entities of the Russian Federation;
+5) reservation of sources of drinking and domestic water supply;
+6) exercise of regional state ecological control (supervision) with respect to water bodies, their water protection zones, and coastal protective strips, which, in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection," are subject to regional state ecological control (supervision);
+7) approval of rules for the use of water bodies for navigation by small vessels;
+8) approval of rules for the protection of human life on water bodies;
+9) participation in the organization and implementation of state monitoring of water bodies;
+10) implementation of measures to prevent the negative impact of water and eliminate its consequences with respect to water bodies that are owned by the constituent entities of the Russian Federation;
+11) implementation of measures for the protection of water bodies that are owned by the constituent entities of the Russian Federation;
+12) Repealed as of July 1, 2021 - Federal Law of June 11, 2021, N 170-FZ
+13) Repealed.
+
+**Article 26. Transfer of the Exercise of Certain Powers of the Russian Federation in the Field of Water Relations to the State Authorities of the Constituent Entities of the Russian Federation**
+
+1. The Russian Federation shall transfer to the state authorities of the constituent entities of the Russian Federation the following powers:
+1) granting of water bodies or parts thereof that are in federal ownership and located on the territories of the constituent entities of the Russian Federation for use on the basis of water use agreements and decisions to grant water bodies for use, except in cases specified in part 1 of Article 21 of this Code;
+2) implementation of measures for the protection of water bodies or parts thereof that are in federal ownership and located on the territories of the constituent entities of the Russian Federation;
+3) implementation of measures to prevent the negative impact of water and eliminate its consequences with respect to water bodies that are in federal ownership and are entirely located on the territories of the constituent entities of the Russian Federation, as well as with respect to internal maritime waters.
+2. The effect of part 1 of this article does not extend to reservoirs that are entirely located on the territories of the respective constituent entities of the Russian Federation and the use of
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+whose water resources is carried out to ensure the drinking and domestic water supply of two or more constituent entities of the Russian Federation. A list of such reservoirs shall be established by the Government of the Russian Federation.
+3. Funds for the exercise of the powers transferred in accordance with part 1 of this article shall be provided in the form of subventions from the federal budget.
+4. The total volume of subventions from the federal budget provided to the budgets of the constituent entities of the Russian Federation for the exercise of the powers transferred in accordance with part 1 of this article shall be determined according to a methodology approved by the Government of the Russian Federation, based on the quota for the abstraction (withdrawal) of water resources from water bodies allocated to a specific constituent entity of the Russian Federation, the number of residents living in territories subject to the negative impact of water, and the length of the shoreline (boundary of the water body) within the boundaries of a settlement.
+5. The procedure for the expenditure and accounting of the funds specified in part 3 of this article for the provision of subventions shall be established by the Government of the Russian Federation.
+6. The funds for the exercise of the powers specified in part 1 of this article are earmarked and cannot be used for other purposes.
+7. In the event of misuse of the funds specified in part 3 of this article, the federal executive body exercising functions of control and supervision in the financial and budgetary sphere has the right to recover the said funds in the manner established by the legislation of the Russian Federation.
+8. The federal executive body exercising functions of developing state policy and normative legal regulation in the sphere of use and protection of water bodies:
+1) has the right to adopt normative legal acts on issues of the transferred powers, including administrative regulations for the provision of state services, as well as to issue methodological guidelines and instructional materials binding on the executive bodies of the constituent entities of the Russian Federation for the exercise of the transferred powers;
+2) exercises control over the normative legal regulation carried out by the state authorities of the constituent entities of the Russian Federation on issues of the transferred powers, with the right to issue binding orders to repeal the relevant normative legal acts of the constituent entities of the Russian Federation or to amend them;
+3) establishes the content and forms for reporting on the exercise of the transferred powers, and has the right to establish target forecast indicators for the exercise of the transferred powers;
+4) approves, in accordance with the rules established by the Government of the Russian Federation, the procedure for exercising control over the effectiveness and quality of the exercise by the state authorities of the constituent entities of the Russian Federation of the transferred powers;
+5) submits proposals to the Government of the Russian Federation, prepared in accordance with paragraph 2 of part 9 of this article, on the withdrawal of the transferred powers from the state authorities of the constituent entities of the Russian Federation.
+8.1. The head of the federal executive body specified in part 8 of this article enjoys the rights established by paragraphs eleven and twelve of clause 7 of Article 26.3 of the Federal Law of October 6, 1999, N 184-FZ "On the General Principles
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+of Organization of Legislative (Representative) and Executive Bodies of State Power of the Constituent Entities of the Russian Federation."
+9. The federal executive body exercising federal state ecological control (supervision):
+1) exercises control over the effectiveness and quality of the exercise by the state authorities of the constituent entities of the Russian Federation of the transferred powers, with the right to issue binding orders to eliminate identified violations, as well as recommendations to bring to disciplinary liability, including dismissal from office, officials responsible for the non-performance or improper performance of the transferred powers;
+2) in the case of non-performance or improper performance by the state authorities of a constituent entity of the Russian Federation of the transferred powers, as well as in other cases established by federal laws, prepares and submits to the federal executive body specified in part 8 of this article proposals on the withdrawal of the transferred powers from the state authorities of the constituent entities of the Russian Federation.
+10. The highest officials of the constituent entities of the Russian Federation (heads of the supreme executive bodies of state power of the constituent entities of the Russian Federation):
+1) appoint to and dismiss from office the heads of the executive bodies of the constituent entities of the Russian Federation exercising the transferred powers;
+2) approve the structure of the authorized executive bodies of the constituent entities of the Russian Federation;
+3) organize activities for the exercise of the transferred powers in accordance with federal laws and the normative legal acts provided for by part 8 of this article;
+3.1) have the right, prior to the approval of the regulations specified in part 8 of this article, to approve administrative regulations for the provision of state services and the performance of state functions in the sphere of the transferred powers, which may not contradict the normative legal acts of the Russian Federation, including they may not contain additional requirements and restrictions not provided for by such acts regarding the implementation of the rights and freedoms of citizens, and the rights and legitimate interests of organizations, and shall be developed taking into account the requirements for regulations for the provision of state services and the performance of state functions by federal executive bodies;
+4) ensure the timely submission to the authorized federal executive body of a quarterly report on the expenditure of the provided subventions, on the achievement of target forecast indicators if they are established, as well as on the normative legal acts adopted by the state authorities of the constituent entities of the Russian Federation on issues of the transferred powers.
+11. Control over the expenditure of funds for the exercise of the transferred powers shall be carried out by the authorized federal executive body and the Accounts Chamber of the Russian Federation.
+12. The powers of the federal executive bodies in the field of water relations, provided for by this Code, may be transferred for exercise to the executive bodies of the constituent entities of the Russian Federation by resolutions of the Government of the Russian Federation in the manner established by the Federal Law of October 6, 1999,
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+N 184-FZ "On the General Principles of Organization of Legislative (Representative) and Executive Bodies of State Power of the Constituent Entities of the Russian Federation."
+13. The state authorities of the constituent entities of the Russian Federation have the right to vest, by laws of the constituent entities of the Russian Federation, the local self-government bodies of municipal districts, municipal okrugs, and urban okrugs with the powers of the Russian Federation provided for by part 1 of this article.
+
+**Article 27. Powers of Local Self-Government Bodies in the Field of Water Relations**
+
+1. The powers of local self-government bodies with respect to water bodies owned by municipal formations include:
+1) ownership, use, and disposal of such water bodies;
+2) implementation of measures to prevent the negative impact of water and eliminate its consequences;
+3) implementation of measures for the protection of such water bodies;
+4) establishment of rates of fees for the use of such water bodies, and the procedure for calculating and collecting this fee.
+2. The powers of local self-government bodies of an urban settlement in the field of water relations, in addition to the powers of the owner of water bodies provided for by part 1 of this article, include ensuring free access of citizens to water bodies for public use and their coastal strips located on the territory of the urban settlement, and informing the population about restrictions on water use on water bodies for public use located on the territory of the urban settlement.
+3. The powers in the field of water relations established by part 2 of this article shall be exercised by the local self-government bodies of a rural settlement if the relevant local issues are assigned to the rural settlement by a law of the constituent entity of the Russian Federation, and in the absence of such assignment, shall be exercised by the local self-government bodies of the municipal district.
+4. The powers of local self-government bodies of a municipal district in the field of water relations, in addition to the powers of the owner of water bodies provided for by part 1 of this article, include establishing rules for the use of water bodies for public use located on the territory of the municipal district for personal and domestic needs, including ensuring free access of citizens to water bodies for public use and their coastal strips, and informing the population about restrictions on water use on water bodies for public use located in inter-settlement territories within the boundaries of the municipal district.
+5. The powers of local self-government bodies of an urban okrug in the field of water relations, in addition to the powers of the owner of water bodies provided for by part 1 of this article, include establishing rules for the use of water bodies for public use located on the territory of the urban okrug for personal and domestic needs, including ensuring free access of citizens to water bodies for public use and their coastal strips, and informing the population about restrictions on water use on water bodies for public use located on the territory of the urban okrug.
+
+**Article 28. River Basin Districts**
+
+1. River basin districts are the main unit of management in the field of use and
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+protection of water bodies and consist of river basins and the underground water bodies and seas associated with them.
+2. Twenty-one river basin districts are established in the Russian Federation:
+1) Baltic;
+2) Barents-White Sea;
+3) Dvina-Pechora;
+4) Dnieper;
+5) Don;
+6) Kuban;
+7) West Caspian;
+8) Upper Volga;
+9) Oka;
+10) Kama;
+11) Lower Volga;
+12) Ural;
+13) Upper Ob;
+14) Irtysh;
+15) Lower Ob;
+16) Angara-Baikal;
+17) Yenisei;
+18) Lena;
+19) Anadyr-Kolyma;
+20) Amur;
+21) Crimean.
+3. The boundaries of the river basin districts shall be approved in the manner established by the Government of the Russian Federation.
+
+**Article 29. River Basin Councils**
+
+1. For the purpose of ensuring the rational use and protection of water bodies, river basin councils are created, which develop recommendations in the field of use and protection of water bodies within the boundaries of a river basin district.
+2. The recommendations of the river basin councils are taken into account when developing schemes for the integrated use and protection of water bodies.
+3. The composition of the river basin councils includes representatives of the federal executive bodies authorized by the Government of the Russian Federation, state authorities of the constituent entities of the Russian Federation, local self-government bodies, as well as representatives of water users, public associations, and communities of the indigenous small-numbered peoples of the North, Siberia, and the Far East of the Russian Federation.
+4. The procedure for the creation and operation of river basin councils shall be established by the Government of the Russian Federation.
+
+**Article 30. State Monitoring of Water Bodies**
+
+1. State monitoring of water bodies is a system of observations, assessment, and forecasting of changes in the state of water bodies that are in federal ownership, the ownership of constituent entities of the Russian Federation, the ownership of municipal
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+formations, and the ownership of natural persons and legal entities.
+2. State monitoring of water bodies is part of the state ecological monitoring (state monitoring of the environment).
+3. State monitoring of water bodies is carried out for the purposes of:
+1) timely identification and forecasting of the negative impact of water, as well as the development of negative processes affecting the quality of water in water bodies and their state, and the development and implementation of measures to prevent the negative consequences of these processes;
+2) assessing the effectiveness of the implemented measures for the protection of water bodies;
+3) providing information support for management in the field of use and protection of water bodies, including for federal state ecological control (supervision) and regional state ecological control (supervision).
+4. State monitoring of water bodies includes:
+1) regular observations of the state of water bodies, quantitative and qualitative indicators of the state of water resources, as well as the regime of use of water protection zones, and zones of flooding and waterlogging;
+2) collection, processing, and storage of information obtained as a result of observations;
+3) entering the information obtained as a result of observations into the State Water Register;
+4) assessment and forecasting of changes in the state of water bodies, and quantitative and qualitative indicators of the state of water resources.
+5. State monitoring of water bodies consists of:
+1) monitoring of surface water bodies, taking into account the data from monitoring carried out during work in the field of hydrometeorology and related fields;
+2) monitoring of the state of the bottom and banks of water bodies, as well as the state of water protection zones;
+3) monitoring of underground waters, taking into account the data of the state monitoring of the state of the subsoil;
+4) observations of water management systems, including hydraulic structures, as well as the volume of water during water consumption and the discharge of water, including wastewater, into water bodies.
+6. State monitoring of water bodies is carried out within the boundaries of river basin districts, taking into account the characteristics of the regime of water bodies, their physical-geographical, morphometric, and other features.
+7. The organization and implementation of state monitoring of water bodies are carried out by the federal executive bodies authorized by the Government of the Russian Federation with the participation of the authorized executive bodies of the constituent entities of the Russian Federation.
+8. The procedure for carrying out state monitoring of water bodies shall be established by the Government of the Russian Federation.
+
+**Article 31. State Water Register**
+
+1. The State Water Register is a systematized collection of documented information about water bodies that are in federal ownership, the ownership of constituent entities of the Russian Federation, the ownership of municipal formations, the ownership of natural persons, and legal entities, about their use, about river basins, and about
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+river basin districts.
+2. The State Water Register carries out the state registration of water use agreements, decisions to grant water bodies for use, the transfer of rights and obligations under water use agreements, as well as the termination of a water use agreement.
+3. The State Water Register is created for the purposes of providing information support for the integrated use of water bodies, the designated use of water bodies, their protection, as well as for planning and developing measures to prevent the negative impact of water and eliminate its consequences.
+4. The State Water Register includes documented information:
+1) on river basin districts;
+2) on river basins;
+3) on water management sections;
+4) on water bodies located within the boundaries of river basins, including the characteristics of the regime of water bodies, their physical-geographical, morphometric, and other features;
+5) on water management systems;
+6) on the use of water bodies, including water consumption and the discharge of water, including wastewater, into water bodies;
+7) on hydraulic and other structures located on water bodies;
+8) on water protection zones and coastal protective strips, zones of flooding, waterlogging, and other zones with special conditions for their use;
+9) on decisions to grant water bodies for use;
+10) on water use agreements;
+10.1) on permits for the disposal of bottom soil in seas or their individual parts;
+10.2) on the location of the shoreline (boundary of the water body);
+11) on other documents on the basis of which the right of ownership of water bodies or the right to use water bodies arises.
+5. The collection and storage of documented information about underground water bodies shall be carried out in accordance with the legislation on subsoil resources.
+6. The documented information of the State Water Register pertains to state information resources. The documented information of the State Water Register is of an open nature, with the exception of information classified by the legislation of the Russian Federation as restricted access.
+7. Within five working days, the federal executive body authorized by the Government of the Russian Federation shall provide an interested person with information from the State Water Register or send them a motivated refusal in writing to provide such information. The refusal may be appealed by the interested person in court.
+8. A fee is charged for providing copies of the documents specified in part 4 of this article. The amount of this fee and the procedure for its collection shall be established by the Government of the Russian Federation.
+9. Information on the granting of water bodies for use shall be posted on the official website of the federal executive body authorized by the Government of the Russian Federation on the information and telecommunication network "Internet."
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+10. The maintenance of the State Water Register is carried out by the federal executive body authorized by the Government of the Russian Federation in the manner established by the Government of the Russian Federation.
+
+**Article 32. Hydrographic and Water Management Zoning of the Territory of the Russian Federation**
+
+1. For the development of schemes for the integrated use and protection of water bodies, hydrographic zoning of the territory of the Russian Federation is carried out.
+2. Hydrographic units are the river basin and the sub-basin of a river flowing into the main river of the river basin. The number of hydrographic units and their boundaries shall be approved by the federal executive body authorized by the Government of the Russian Federation.
+3. For the development of water balance sheets, water management zoning of the territory of the Russian Federation is carried out - the division of hydrographic units into water management sections. The number of water management sections and their boundaries shall be approved by the federal executive body authorized by the Government of the Russian Federation.
+4. The procedure for establishing the boundaries of hydrographic units and water management sections shall be approved by the Government of the Russian Federation.
+
+**Article 33. Schemes for the Integrated Use and Protection of Water Bodies**
+
+1. Schemes for the integrated use and protection of water bodies include systematized materials on the state of water bodies and their use and are the basis for the implementation of water management measures with respect to water bodies located within the boundaries of river basins.
+2. Schemes for the integrated use and protection of water bodies are developed for the purposes of:
+1) determining the permissible anthropogenic load on water bodies;
+2) determining future needs for water resources;
+3) ensuring the protection of water bodies;
+4) determining the main directions of activity to prevent the negative impact of water.
+3. Schemes for the integrated use and protection of water bodies establish:
+1) target indicators for water quality in water bodies for the period of validity of these schemes;
+2) a list of water management measures;
+3) water balance sheets, intended for assessing the quantity and degree of development of available-for-use water resources within the boundaries of river basins, and representing calculations of the needs of water users for water resources in comparison with the available-for-use water resources within the boundaries of river basins, sub-basins, and water management sections under various water availability conditions (taking into account the uneven distribution of surface and underground water runoff in different periods, the territorial redistribution of surface water runoff, and the replenishment of water resources of underground water bodies);
+4) limits for the abstraction (withdrawal) of water resources from a water body and limits for the discharge of wastewater corresponding to quality standards, within the boundaries of river basins, sub-basins, and water management sections under various water availability conditions;
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+5) quotas for the abstraction (withdrawal) of water resources from a water body and the discharge of wastewater corresponding to quality standards, within the boundaries of river basins, sub-basins, and water management sections under various water availability conditions for each constituent entity of the Russian Federation;
+6) the main target indicators for reducing the negative consequences of floods and other types of negative impact of water, and a list of measures aimed at achieving these indicators;
+7) the estimated volume of financial resources required for the implementation of schemes for the integrated use and protection of water bodies.
+4. Schemes for the integrated use and protection of water bodies are developed by the federal executive body authorized by the Government of the Russian Federation, are considered by river basin councils, and are approved for each river basin by the federal executive body authorized by the Government of the Russian Federation.
+5. Schemes for the integrated use and protection of water bodies are binding on state authorities and local self-government bodies.
+6. The procedure for the development, approval, and implementation of schemes for the integrated use and protection of water bodies, and for making amendments to these schemes, shall be established by the Government of the Russian Federation.
+
+**Article 34. Reservation of Sources of Drinking and Domestic Water Supply**
+
+1. For the purpose of providing citizens with drinking water in the event of an emergency, sources of drinking and domestic water supply are reserved on the basis of underground water bodies protected from pollution and contamination. For such sources, special protection zones are established, the regime of which corresponds to the regime of sanitary protection zones of underground sources of drinking and domestic water supply.
+2. The reservation of sources of drinking and domestic water supply shall be carried out in the manner determined by the Government of the Russian Federation.
+
+**Article 35. Development and Establishment of Standards for Permissible Impact on Water Bodies and Target Indicators for Water Quality in Water Bodies**
+
+1. Maintaining surface and underground waters in a state that complies with the requirements of legislation is ensured by establishing and observing standards for permissible impact on water bodies.
+2. Standards for permissible impact on water bodies are developed on the basis of maximum permissible concentrations of chemical substances, radioactive substances, microorganisms, and other indicators of water quality in water bodies.
+3. The approval of standards for permissible impact on water bodies shall be carried out in the manner determined by the Government of the Russian Federation.
+4. The amount of substances and microorganisms contained in the discharges of wastewater, including drainage water, into water bodies must not exceed the established standards for permissible impact on water bodies.
+5. Target indicators for water quality in water bodies are developed by the federal executive bodies authorized by the Government of the Russian Federation
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+for each river basin or part thereof, taking into account the natural features of the river basin, as well as the conditions for the designated use of water bodies located within the boundaries of the river basin.
+6. Target indicators for water quality in water bodies shall be approved in the manner established by the Government of the Russian Federation.
+
+**Article 36. Assessment of Compliance with Mandatory Requirements Established by this Code**
+
+The assessment of compliance with the mandatory requirements established by this Code and other normative legal acts of the Russian Federation adopted in accordance therewith, and by laws and other normative legal acts of the constituent entities of the Russian Federation in the field of use and protection of water bodies, is carried out within the framework of federal state ecological control (supervision) and regional state ecological control (supervision) in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection."
+
+**Article 36.1. Register of Unscrupulous Water Users and Participants in an Auction for the Right to Conclude a Water Use Agreement**
+
+1. The maintenance of the register of unscrupulous water users and participants in an auction for the right to conclude a water use agreement (hereinafter referred to as the register) is carried out by the federal executive body authorized by the Government of the Russian Federation.
+2. The register shall include information about water users whose rights to use water bodies have been compulsorily terminated on the grounds provided for by paragraphs 1 and 2 of part 3 of Article 10 of this Code, as well as about the winners of an auction for the right to conclude a water use agreement who have evaded concluding the water use agreement.
+3. The register shall include the following information:
+1) for a legal entity: name, location, taxpayer identification number; name, taxpayer identification number of the legal entity that is the founder of the legal entity; surnames, first names, patronymics (if any) of the founders, members of collegial executive bodies, persons performing the functions of a sole executive body of legal entities; for a natural person or an individual entrepreneur: surname, first name, patronymic, taxpayer identification number;
+2) information about water use agreements and decisions to grant a water body for use;
+3) the date and number of the court decision on the compulsory termination of the right to use a water body;
+4) the date of the auction for the right to conclude a water use agreement, if the winner of the auction has evaded concluding the water use agreement;
+5) the date of entry of the specified information into the register.
+4. The information specified in part 3 of this article shall be submitted by executive bodies of state power or local self-government bodies within their powers in accordance with Articles 24-27 of this Code, or by the auction organizer, to the federal executive body authorized to maintain the register:
+1) within three working days from the date of entry into legal force of the court decision on
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+the compulsory termination of the right to use a water body;
+2) in the case of non-submission by the auction winner of the signed water use agreement within three working days from the date of signing the protocol of the auction for the right to conclude a water use agreement.
+5. Within ten working days from the date of receipt of the information specified in part 3 of this article by the federal executive body authorized to maintain the register, this body shall include the information about the unscrupulous water users and participants in an auction for the right to conclude a water use agreement in the register or shall send a motivated refusal to include such information in the register.
+6. The information contained in the register shall be posted on the official website of the federal executive body authorized to maintain the register and must be available for review free of charge.
+7. The information specified in part 3 of this article shall be excluded from the register upon the expiration of two years from the date of its inclusion in the register, as well as by a court decision.
+8. The inclusion of information in the register may be appealed in court.
+9. The procedure for maintaining the register shall be established by the Government of the Russian Federation.
+
+**Chapter 5. Water Use**
+
+**Article 37. General Provisions on Water Use**
+
+Water use is carried out with or without the granting of water bodies for the purposes of drinking and domestic water supply, wastewater discharge, electrical energy production, water and air transport, timber rafting (log driving), and other purposes provided for by this Code.
+
+**Article 38. Types of Water Use**
+
+1. Based on the conditions for granting water bodies for use, water use is subdivided into:
+1) joint water use;
+2) separate water use.
+2. Separate water use may be carried out on water bodies or parts thereof owned by natural persons or legal entities, on water bodies or parts thereof that are in state or municipal ownership and have been granted to ensure the country's defense and state security, or for other state or municipal needs, the provision of which excludes the use of the water bodies or parts thereof by other natural persons or legal entities, as well as for carrying out aquaculture (fish farming).
+3. According to the method of using water bodies, water use is subdivided into:
+1) water use with the abstraction (withdrawal) of water resources from water bodies, provided that the water is returned to the water bodies;
+2) water use with the abstraction (withdrawal) of water resources from water bodies without the return of water to the water bodies;
+3) water use without the abstraction (withdrawal) of water resources from water bodies.
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+
+**Article 39. Rights and Obligations of Owners of Water Bodies and Water Users When Using Water Bodies**
+
+1. Owners of water bodies and water users, when using water bodies, have the right to:
+1) independently carry out the use of water bodies;
+2) carry out the construction of hydraulic and other structures on water bodies;
+3) enjoy other rights provided for by this Code and other federal laws.
+2. Owners of water bodies and water users, when using water bodies, are obliged to:
+1) not permit the violation of the rights of other owners of water bodies and water users, as well as the causing of harm to the environment and objects of cultural heritage (monuments of history and culture) of the peoples of the Russian Federation (hereinafter - objects of cultural heritage);
+2) maintain in good working order the treatment facilities operated by them and the hydraulic and other structures located on water bodies;
+3) inform the authorized executive bodies of state power and local self-government bodies about accidents and other emergency situations on water bodies;
+4) timely carry out measures to prevent and eliminate emergency situations on water bodies;
+5) keep, in the established manner, records of the volume of abstraction (withdrawal) of water resources from water bodies and the volume of discharge of wastewater, including drainage water, and their quality, conduct regular observations of water bodies and their water protection zones, and also provide the results of such records and such regular observations free of charge and within the established time limits to the federal executive body authorized by the Government of the Russian Federation;
+6) fulfill other obligations provided for by this Code and other federal laws.
+
+**Article 40. Protection of Competition in the Field of Water Use**
+
+1. Monopolistic activity and unfair competition in the field of water use are prohibited.
+2. Federal executive bodies, state authorities of the constituent entities of the Russian Federation, local self-government bodies, and other bodies or organizations performing the functions of the said bodies are prohibited from adopting acts and/or carrying out actions (inaction), as well as concluding agreements or carrying out concerted actions in the field of water use, which lead or may lead to the prevention, restriction, or elimination of competition.
+3. Repealed as of April 12, 2022 - Federal Law of April 1, 2022, N 82-FZ
+4. State control over economic concentration in the field of water use shall be carried out in accordance with the Federal Law of July 26, 2006, N 135-FZ "On Protection of Competition."
+
+**Article 41. Suspension or Restriction of Water Use**
+
+1. Water use may be suspended or restricted in the case of:
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+1) a threat of harm to human life or health;
+2) the occurrence of a radiation accident or other natural or man-made emergency situations;
+3) causing harm to the environment or objects of cultural heritage;
+3.1) the establishment of protection zones for hydropower facilities;
+4) in other cases provided for by federal laws.
+2. The suspension of water use in cases provided for by the Code of the Russian Federation on Administrative Offenses shall be carried out by a court. In other cases, the suspension of water use shall be carried out by executive bodies of state power or local self-government bodies within their competence in accordance with federal laws.
+3. The restriction of water use shall be established by normative legal acts of executive bodies of state power, normative legal acts of local self-government bodies, or by a court decision.
+
+**Article 42. Basic Requirements for the Use of Water Bodies**
+
+1. During the design, construction, reconstruction, and operation of hydraulic structures, measures must be provided for and timely implemented to ensure the preservation of objects of cultural heritage, measures for the protection of water bodies, as well as aquatic biological resources and other objects of the animal and plant world.
+2. When using water bodies that are part of water management systems, it is not permitted to change the water regime of these water bodies in a way that may lead to the violation of the rights of third parties.
+3. Works to change or improve a natural reservoir or watercourse shall be carried out on the condition of preserving its natural origin.
+
+**Article 43. Use of Water Bodies for Drinking and Domestic Water Supply Purposes**
+
+1. For drinking and domestic water supply purposes, protected from pollution and contamination surface water bodies and underground water bodies must be used, the suitability of which for these purposes is determined on the basis of sanitary and epidemiological conclusions.
+2. For water bodies used for drinking and domestic water supply purposes, sanitary protection zones are established in accordance with the legislation on the sanitary and epidemiological well-being of the population. In the sanitary protection zones of drinking water supply sources, the conduct of activities and the allocation of territory for housing construction, construction of industrial facilities, and agricultural facilities are prohibited or restricted in the cases and in the manner established by sanitary rules and norms in accordance with the legislation on the sanitary and epidemiological well-being of the population.
+3. The procedure for using underground water bodies for drinking and domestic water supply purposes is established by the legislation on subsoil resources.
+4. In territories where there are no surface water bodies but there are sufficient resources of underground waters suitable for drinking and domestic water supply purposes, in accordance with the legislation on subsoil resources, the use of underground waters for purposes not related to drinking and domestic water supply is permitted in exceptional
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+cases.
+
+**Article 44. Use of Water Bodies for the Discharge of Wastewater, Including Drainage Water**
+
+1. The use of water bodies for the purpose of discharging wastewater, including drainage water, shall be carried out in compliance with the requirements provided for by this Code and legislation in the field of environmental protection.
+2. It is prohibited to discharge wastewater, including drainage water, into water bodies:
+1) containing natural curative resources;
+2) classified as specially protected water bodies.
+3. It is prohibited to discharge wastewater, including drainage water, into water bodies located within the boundaries of:
+1) sanitary protection zones of drinking and domestic water supply sources;
+2) the first and second zones of sanitary (mountain-sanitary) protection districts of health-improving localities and resorts;
+3) the fishery protection zone of Lake Baikal, and fishery protection zones.
+4. The discharge of wastewater, including drainage water, may be restricted, suspended, or prohibited on the grounds and in the manner established by federal laws.
+
+**Article 45. Use of Reservoirs**
+
+1. The use of reservoirs shall be carried out in accordance with the rules for the use of reservoirs, which include rules for the use of water resources of reservoirs and rules for the technical operation and improvement of reservoirs.
+2. The rules for the use of water resources of reservoirs determine the regime of their use, including the regime of filling and drawdown of reservoirs. The rules for the technical operation and improvement of reservoirs determine the procedure for using their bottom and banks. The establishment of regimes for the passage of floods, special releases, filling, and drawdown of reservoirs shall be carried out by the federal executive body authorized by the Government of the Russian Federation in accordance with the provisions of this article.
+3. A list of reservoirs (including reservoirs with a capacity of more than ten million cubic meters) for which the development of rules for the use of reservoirs is carried out for each reservoir (several reservoirs, a cascade of reservoirs, or a water management system if their operating regimes exclude separate functioning) shall be established by the Government of the Russian Federation.
+4. Repealed.
+5. The use of reservoirs not specified in part 3 of this article shall be carried out in accordance with the model rules for the use of reservoirs, approved by the federal executive body authorized by the Government of the Russian Federation.
+6. The rules for the use of water resources of a reservoir must contain:
+1) characteristics of the hydraulic complex, the reservoir, or several reservoirs or a cascade of reservoirs, and their capabilities for regulating the water level in the reservoirs;
+2) the main parameters and characteristics of the reservoir, including the normal retaining water level, morphometric, hydraulic, hydrological, and thermal
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+characteristics;
+3) the composition and a brief description of the hydraulic structures of the main hydraulic complex (dams, spillways, water intake, water outlet, and other hydraulic structures), navigation locks, fish protection and fish passage facilities, as well as structures located in the water area of the reservoir and on the specially designated territory of the reservoir (water intake and water outlet structures, pumping stations, dikes, bank protection structures, objects of water transport, and other structures whose functioning affects the water regime of the reservoir);
+4) the main characteristics of the watercourse (regime of water inflow and runoff, information about the catchment area, boundaries of the reservoir regulating the water regime, coordinates of hydraulic structures, and magnitudes of water runoff losses);
+5) requirements for the safety of the water-retaining structures forming the reservoir, for the safety of residents and economic objects in the coastal zone of the reservoir and in the downstream section of the watercourse;
+6) the volume of water consumption;
+7) the procedure for regulating the operating regime of the reservoir, including for the prevention of accidents and other emergency situations in the Unified Energy System of Russia and during the elimination of their consequences;
+8) the procedure for notifying executive bodies, water users, and residents of changes in the water regime of the reservoir, including the operating regime of the reservoir in the event of accidents and other emergency situations;
+9) the procedure for carrying out work and providing information in the field of hydrometeorology;
+10) information on actions to be taken in the event of accidents and other emergency situations, and a list of corresponding measures.
+7. The rules for the use of water resources of reservoirs may include necessary materials in graphical form and the forms of necessary documents.
+8. The rules for the technical operation and improvement of a reservoir must contain:
+1) a brief description of the reservoir and hydraulic structures, and their main parameters;
+2) information on the zones of influence of the reservoir (zone of permanent flooding, zone of periodic or temporary flooding, zone of rising groundwater level, zone of possible change of the reservoir banks, zone of climatic influence of the reservoir, zone of influence of long-term, seasonal, weekly, and daily regulation of surface water runoff into the water body downstream of the hydraulic complexes);
+3) a list of measures to be carried out during the operation of the reservoir in the winter period and during the period of flood passage;
+4) a list of measures to be carried out during the operation of the reservoir in the event of accidents and other emergency situations (rain-induced flood, storm wind, complex ice conditions, passage of water in catastrophically large quantities, earthquake, and others);
+5) restrictions on the operation of the reservoir and a list of measures to maintain the proper sanitary and technical condition of the reservoir, a list of measures carried out in the water area of the reservoir, its water protection zone, and in the zone of the water body downstream of the dam in connection with the use of the reservoir for drinking and domestic
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+water supply, fishing and hunting, recreational purposes, for water transport, timber rafting (log driving), and other purposes, as well as a list of measures to prevent silting (including removal of sediment, overgrowth, measures to combat water bloom), to prevent the entry of pollutants and microorganisms into the reservoir, to improve the banks of the reservoir and the zone of the water body downstream of the dam in accordance with the requirements of their economic use and the requirements of environmental protection;
+6) the procedure for organizing repair and maintenance work;
+7) the procedure for carrying out observations of the state of the reservoir (changes in water runoff, water temperature, evaporation, filtration, chemical and biological composition of water, ice thickness, sediment movement, silting, changes in banks, and other phenomena);
+8) accounting for the use of the water resources of the reservoir;
+9) a list of methods for observing the technical condition of the reservoir and the structures that are part of it, and the procedure for carrying out such observations.
+9. The rules for the technical operation and improvement of reservoirs may include materials in graphical form.
+10. The development, coordination, and approval of rules for the use of reservoirs, including model rules for the use of reservoirs, shall be carried out in the manner established by the Government of the Russian Federation.
+
+**Article 46. Use of Water Bodies for the Production of Electrical Energy**
+
+1. The use of water bodies for the production of electrical energy shall be carried out taking into account the interests of other water users and in compliance with the requirements for the rational use and protection of water bodies.
+2. Water users operating hydropower facilities are obliged to ensure the regime of drawdown and filling of reservoirs, taking into account the priority of drinking and domestic water supply purposes.
+
+**Article 47. Use of Surface Water Bodies for Maritime, Inland Water, and Air Transport Purposes**
+
+1. The use of surface water bodies for maritime and inland water transport purposes shall be carried out in accordance with the legislation in the field of inland water transport of the Russian Federation, the legislation of the Russian Federation in the field of merchant shipping, and the legislation on seaports.
+2. The use of surface water bodies for the navigation and moorage of vessels, the operation of hydraulic structures, the conduct of dredging and other works on the territory of a seaport or in the water area of a river port, as well as works for the maintenance of inland waterways of the Russian Federation, shall be carried out without granting the water bodies for use.
+3. The use of the water area of surface water bodies necessary for the operation of ship repair and shipbuilding facilities and occupied by hydraulic structures shall be carried out on the basis of a water use agreement concluded without an auction.
+4. The use of surface water bodies for the takeoff and landing of aircraft shall be carried out in the manner established by the Government of the Russian Federation.
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+
+**Article 48. Use of Water Bodies for Timber Rafting (Log Driving)**
+
+1. Water users carrying out timber rafting (log driving) are obliged to regularly clean water bodies of sunken timber (logs).
+2. Timber rafting (log driving) without vessel traction on water bodies used for navigation and loose timber rafting (log driving) on water bodies are prohibited.
+
+**Article 49. Use of Water Bodies for Curative and Health-Improving Purposes**
+
+1. Water bodies containing natural curative resources shall be used for curative and health-improving purposes in the manner established by the legislation of the Russian Federation on natural curative resources, health-improving localities, and resorts.
+2. The use of the water area of water bodies for curative and health-improving purposes by sanatorium and resort organizations shall be carried out on the basis of a water use agreement concluded without an auction.
+
+**Article 50. Use of Water Bodies for Recreational Purposes**
+
+1. The use of water bodies for recreational purposes (rest, tourism, sports) shall be carried out taking into account the rules for the use of water bodies established by local self-government bodies in accordance with Article 6 of this Code.
+1.1. The use of the water area of water bodies necessary for the operation of beaches by the rights holders of land plots that are in state or municipal ownership and are located within the coastal strip of a public water body, as well as for recreational purposes by physical culture and sports organizations, tour operators, or travel agents carrying out their activities in accordance with federal laws, for organized recreation for children, veterans, elderly citizens, and disabled persons, shall be carried out on the basis of a water use agreement concluded without an auction.
+2. The design, construction, reconstruction, commissioning, and operation of buildings, structures, and facilities for recreational purposes, including for the development of beaches, shall be carried out in accordance with water legislation and legislation on urban planning activities.
+
+**Article 51. Use of Water Bodies for Hunting Purposes**
+
+The use of water bodies for hunting purposes shall be carried out in accordance with water legislation and legislation in the field of hunting and the conservation of hunting resources.
+
+**Article 51.1. Use of Water Bodies for Fishery and Aquaculture (Fish Farming) Purposes**
+
+The use of water bodies of fishery significance for fishery and aquaculture (fish farming) purposes shall be carried out in accordance with this Code, the legislation on fisheries and the conservation of aquatic biological resources, and the legislation of the Russian Federation regulating relations in the field of aquaculture (fish farming).
+
+**Article 51.2. Use of Water Bodies for the Operation of Bridges, Underwater and**
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+**Underground Crossings, Pipelines, Submarine Communication Lines, and Other Linear Objects**
+
+The use of water bodies for the operation of bridges, underwater and underground crossings, pipelines, submarine communication lines, and other linear objects shall be carried out in accordance with the legislation of the Russian Federation without granting the water bodies for use.
+
+**Article 52. Use of Water Bodies for the Geological Study of Subsoil, Exploration, and Production of Mineral Resources**
+
+1. The use of water bodies for the purpose of exploring for and extracting mineral resources shall be carried out in accordance with this Code and the legislation on subsoil resources.
+2. The use of bogs located within the boundaries of forest fund lands for the purpose of geological study of the subsoil, exploration, and extraction of mineral resources shall be carried out in accordance with forest legislation and the legislation on subsoil resources.
+
+**Article 52.1. Use of Water Bodies for Dredging, Hydraulic Engineering, Blasting, Drilling, and Other Works Related to Changing the Bottom and Banks of Water Bodies**
+
+The use of water bodies for conducting dredging, hydraulic engineering, blasting, drilling, and other works related to changing the bottom and banks of water bodies shall be carried out in accordance with this Code and other federal laws.
+
+**Article 52.1-1. Use of Water Bodies for Archaeological Fieldwork Purposes**
+
+The use of water bodies for the purpose of conducting archaeological fieldwork shall be carried out in accordance with this Code and the legislation of the Russian Federation on objects of cultural heritage.
+
+**Article 52.2. Use of Water Bodies for the Construction, Reconstruction, and Operation of Hydraulic Structures**
+
+The use of water bodies for the construction, reconstruction, and operation of hydraulic structures shall be carried out in accordance with this Code and other federal laws.
+
+**Article 52.3. Use of Bottom Soil**
+
+1. Bottom soil may be used in cases provided for by this Code and other federal laws.
+2. By a decision of the local self-government body of an urban or rural settlement, a municipal district, a municipal okrug, an urban okrug, or by a decision of the executive body of state power of a constituent entity of the Russian Federation that is a city of federal significance, bottom soil may be used to meet municipal needs or in the interests of a natural person or legal entity carrying out dredging and other works related to changing the bottom and banks of water bodies, provided that the bottom soil does not contain solid mineral resources not classified as commonly occurring mineral resources.
+3. The procedure for using the bottom soil specified in part 2 of this article
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+shall be determined by the federal executive body authorized by the Government of the Russian Federation, unless otherwise established by federal laws.
+
+**Article 53. Use of Water Bodies to Ensure Fire Safety**
+
+1. The abstraction (withdrawal) of water resources for fighting fires is permitted from any water bodies without any permission, free of charge, and in the quantity necessary to extinguish fires.
+2. The use of water bodies designated for ensuring fire safety for other purposes is prohibited.
+
+**Article 54. Use of Water Bodies in Places of Traditional Residence and Traditional Economic Activities of the Indigenous Small-Numbered Peoples of the North, Siberia, and the Far East of the Russian Federation**
+
+1. In places of traditional residence and traditional economic activities of the indigenous small-numbered peoples of the North, Siberia, and the Far East of the Russian Federation, the executive bodies of the constituent entity of the Russian Federation shall establish a procedure for using water bodies for the purpose of ensuring the protection of the ancestral habitat and traditional way of life of these peoples.
+2. Persons belonging to the indigenous small-numbered peoples of the North, Siberia, and the Far East of the Russian Federation, and their communities, in the places of their traditional residence and traditional economic activities, have the right to use water bodies for traditional nature management.
+
+**Chapter 6. Protection of Water Bodies**
+
+**Article 55. Basic Requirements for the Protection of Water Bodies**
+
+1. Owners of water bodies shall carry out measures for the protection of water bodies, the prevention of their pollution, contamination, and the depletion of water, as well as measures to eliminate the consequences of these phenomena. The protection of water bodies that are in federal ownership, the ownership of constituent entities of the Russian Federation, or the ownership of municipal formations shall be carried out by executive bodies of state power or local self-government bodies within their powers in accordance with Articles 24-27 of this Code.
+2. When using water bodies, natural persons and legal entities are obliged to carry out water management measures in accordance with this Code and other federal laws, as well as the rules for the protection of surface water bodies and the rules for the protection of underground water bodies, approved by the Government of the Russian Federation.
+
+**Article 56. Protection of Water Bodies from Pollution and Contamination**
+
+1. The discharge into water bodies and the disposal therein of industrial and consumer waste, including decommissioned vessels and other floating craft (their parts and mechanisms), are prohibited.
+2. The carrying out of work on a water body that results in the formation of solid suspended particles is permitted only in accordance with the requirements of the legislation
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+of the Russian Federation.
+3. Measures to prevent the pollution of water bodies as a result of accidents and other emergency situations and to eliminate their consequences shall be determined by the legislation of the Russian Federation.
+4. The content of radioactive substances, pesticides, agrochemicals, and other substances and compounds hazardous to human health in water bodies must not exceed, respectively, the maximum permissible levels of the natural radiation background characteristic of individual water bodies, and other standards established in accordance with the legislation of the Russian Federation.
+5. The disposal of nuclear materials and radioactive substances in water bodies is prohibited.
+6. The discharge into water bodies of wastewater in which the content of radioactive substances, pesticides, agrochemicals, and other substances and compounds hazardous to human health exceeds the standards for permissible impact on water bodies is prohibited.
+7. The carrying out of blasting operations on water bodies based on nuclear and other types of industrial technologies that release radioactive and/or toxic substances is prohibited.
+8. The disposal of bottom soil in seas or their individual parts is permitted in accordance with the international treaties of the Russian Federation and the legislation of the Russian Federation.
+
+**Article 57. Protection of Bogs from Pollution and Contamination**
+
+1. The pollution and contamination of bogs with industrial and consumer waste, their pollution with oil products and other pollutants, as well as pesticides, are prohibited.
+2. The drainage or other use of bogs or parts thereof must not lead to the deterioration of the state of the unused parts of these bogs, other water bodies, or to the depletion of water.
+3. The use of bogs for the geological study of the subsoil, exploration, and extraction of mineral resources is permitted to be carried out by methods and means that exclude the discharge of wastewater, including drainage water, in which the content of substances and microorganisms exceeds the standards for permissible impact on water bodies. Facilities intended for the transportation and storage of extracted mineral resources must be equipped with means to prevent the pollution of bogs and with control and measuring equipment to detect pollution.
+4. During the extraction of peat and other mineral resources, a bog or its part may lose its status as a water body as a result of the complete or partial extraction of peat, or its complete or partial replacement with materials of natural or man-made origin, including the deposits underlying the bog. After the use of the bog or its part is completed, their reclamation is carried out, primarily by means of flooding and artificial bogging.
+
+**Article 58. Protection of Glaciers and Snowfields from Pollution and Contamination**
+
+1. The discharge of wastewater onto glaciers and snowfields, the pollution and contamination of glaciers and snowfields with industrial and consumer waste, their pollution with oil products and other pollutants, as well as pesticides, are prohibited.
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+2. The abstraction (withdrawal) of ice from glaciers must not have a negative impact on the state of water bodies and must not lead to the depletion of water.
+
+**Article 59. Protection of Underground Water Bodies**
+
+1. Natural persons and legal entities whose activities have or may have a negative impact on the state of underground water bodies are obliged to take measures to prevent the pollution and contamination of underground water bodies and the depletion of water, as well as to comply with the established standards for permissible impact on underground water bodies.
+2. In the catchment areas of underground water bodies that are used or may be used for drinking and domestic water supply purposes, it is not permitted to locate industrial and consumer waste disposal sites, cemeteries, cattle burial grounds, and other objects that have a negative impact on the state of underground waters.
+3. The use of wastewater for the irrigation and fertilization of lands may be carried out in accordance with sanitary legislation.
+4. If aquifers are uncovered during the use of the subsoil, measures must be taken to protect underground water bodies.
+5. During the design, construction, reconstruction, commissioning, and operation of water intake facilities associated with the use of underground water bodies, measures must be provided to prevent the negative impact of such facilities on surface water bodies and other objects of the environment.
+
+**Article 60. Protection of Water Bodies during the Design, Construction, Reconstruction, Commissioning, and Operation of a Water Management System**
+
+1. During the design, construction, reconstruction, commissioning, and operation of hydraulic structures and the introduction of new technological processes, their influence on the state of water bodies must be taken into account, and the standards for permissible impact on water bodies and the technological standards established in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection" must be observed, except in cases established by federal laws.
+2. Repealed as of August 10, 2017 - Federal Law of July 29, 2017, N 261-FZ
+3. It is not permitted to commission facilities intended for the irrigation and fertilization of lands with wastewater without creating observation points for the water regime and quality of water in water bodies.
+4. The design of once-through technical water supply systems is not permitted.
+5. The commissioning of facilities intended for the transportation and storage of oil and/or its refined products without equipping such facilities with means to prevent the pollution of water bodies and with control and measuring equipment to detect the leakage of these substances is prohibited.
+6. During the operation of a water management system, it is prohibited to:
+1) discharge into water bodies wastewater that has not undergone sanitary treatment and neutralization (based on the inadmissibility of exceeding the standards for permissible impact on water bodies and the standards for maximum permissible concentrations of pollutants in water bodies or technological standards established in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection");
+2) abstract (withdraw) water resources from a water body in a volume that has a
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+negative impact on the water body;
+3) discharge into water bodies wastewater that contains infectious disease pathogens, as well as pollutants for which maximum permissible concentration standards have not been established.
+7. Violation of the requirements for the use and protection of water bodies shall entail the restriction, suspension, or prohibition of the operation of water management system facilities in the manner provided for by this Code and other federal laws.
+
+**Article 61. Protection of Water Bodies during Works**
+
+1. The carrying out of construction, dredging, blasting, drilling, and other works related to changing the bottom and banks of water bodies, in their water protection zones, and within the boundaries of specially valuable wetlands shall be carried out in accordance with the requirements of water legislation, legislation in the field of environmental protection, and legislation on urban planning activities.
+2. Water users who use water bodies for the abstraction (withdrawal) of water resources are obliged to take measures to prevent the entry of fish and other aquatic biological resources into water intake facilities, and to carry out measures to prevent the pollution of groundwater and the rise of its level.
+3. Irrigation, including with the use of wastewater whose quality meets the requirements of the standards for permissible impact on water bodies, drainage, and other reclamation works must be carried out simultaneously with the implementation of measures for environmental protection and for the protection of water bodies and their catchment areas.
+4. Natural persons and legal entities carrying out construction, dredging, blasting, drilling, and other works related to changing the bottom and banks of water bodies are obliged to carry out measures for the protection of water bodies and the prevention of their pollution and contamination.
+
+**Article 62. Protection of Water Bodies When Used for the Production of Electrical Energy**
+
+1. Water users who use water bodies to meet the technological needs of thermal power and nuclear power are obliged to observe the temperature regime of water bodies.
+2. The use of water bodies for the production of electrical energy by hydropower facilities shall be carried out taking into account the interests of other water users, compliance with the requirements for the use and protection of water bodies, the requirements for the conservation of aquatic biological resources and other objects of the animal and plant world, and the requirements for preventing the negative impact of water and eliminating its consequences.
+3. To ensure the safe and trouble-free functioning and safe operation of hydropower facilities, protection zones with special conditions for water use and the use of sections of the coastal strip (including sections adjacent to hydropower facilities) shall be established in the water areas of water bodies, on sections of the coastal strip (including sections adjacent to hydropower facilities), and on sections of the floodplain. The Government of the Russian Federation shall approve a regulation on the protection zones of hydropower facilities, which shall include the procedure for establishing protection zones for the said facilities, and the special conditions for water use and the use of sections of the coastal strip
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+(including sections adjacent to hydropower facilities) within their boundaries.
+4. The assessment of compliance with the special conditions for water use and the use of sections of the coastal strip (including sections adjacent to hydropower facilities) within the boundaries of the protection zones of hydropower facilities located on water bodies that, in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection," are subject to federal state ecological control (supervision), shall be carried out by the federal executive body authorized to exercise federal state ecological control (supervision). The assessment of compliance with the special conditions for water use and the use of sections of the coastal strip (including sections adjacent to hydropower facilities) within the boundaries of the protection zones of hydropower facilities located on water bodies that, in accordance with the Federal Law of January 10, 2002, N 7-FZ "On Environmental Protection," are subject to regional state ecological control (supervision), shall be carried out by the executive bodies of the constituent entities of the Russian Federation authorized to exercise regional state ecological control (supervision).
+
+**Article 63. Protection of Water Bodies during Forest Development**
+
+During forest development, measures provided for by this Code for the protection of water bodies shall be carried out.
+
+**Article 64. Zones and Districts of Sanitary Protection of Water Bodies Whose Water Resources are Natural Curative Resources**
+
+For the purpose of protecting water bodies whose water resources are natural curative resources, zones and districts of sanitary protection are established in accordance with the legislation of the Russian Federation on natural curative resources, health-improving localities, and resorts.
+
+**Article 65. Water Protection Zones and Coastal Protective Strips**
+
+1. Water protection zones are territories that adjoin the shoreline (boundaries of the water body) of seas, rivers, streams, canals, lakes, and reservoirs, and on which a special regime for carrying out economic and other activities is established for the purpose of preventing the pollution, contamination, and silting of the said water bodies and the depletion of their waters, as well as preserving the habitat of aquatic biological resources and other objects of the animal and plant world.
+2. Within the boundaries of water protection zones, coastal protective strips are established, on the territories of which additional restrictions on economic and other activities are introduced.
+3. Outside the territories of cities and other settlements, the width of the water protection zone of rivers, streams, canals, lakes, and reservoirs and the width of their coastal protective strip shall be established from the location of the corresponding shoreline (boundary of the water body), and the width of the water protection zone of seas and the width of their coastal protective strip from the line of maximum high tide. In the presence of centralized storm water drainage systems and embankments, the boundaries of the coastal protective strips of these water bodies coincide with the parapets of the embankments; the width of the water protection zone in such territories is established from the parapet of the embankment.
+4. The width of the water protection zone of rivers or streams is established from their source for rivers or streams with a length:
+• Free legal consultation by phone: • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); Commentaries on the articles at the website https://vodnkod.ru/ • • 8 (800) 301-79-07 (Regions of the RF).
+1) of up to ten kilometers - in the amount of fifty meters;
+2) from ten to fifty kilometers - in the amount of one hundred meters;
+3) of fifty kilometers and more - in the amount of two hundred meters.
+5. For a river or stream with a length of less than ten kilometers from source to mouth, the water protection zone coincides with the coastal protective strip. The radius of the water protection zone for the sources of a river or stream is established in the amount of fifty meters.
+6. The width of the water protection zone of a lake or reservoir, with the exception of a lake located within a bog, or a lake or reservoir with a water area of less than 0.5 square kilometers, is established in the amount of fifty meters. The width of the water protection zone of a reservoir located on a watercourse is established equal to the width of the water protection zone of that watercourse.
+7. The boundaries of the water protection zone of Lake Baikal are established in accordance with the Federal Law of May 1, 1999, N 94-FZ "On the Protection of Lake Baikal."
+8. The width of the water protection zone of the sea is five hundred meters.
+9. The water protection zones of main or inter-farm canals coincide in width with the right-of-way strips of such canals.
+10. Water protection zones of rivers, or parts thereof, placed in enclosed collectors are not established.
+11. The width of the coastal protective strip is established depending on the slope of the bank of the water body and is thirty meters for a reverse or zero slope, forty meters for a slope of up to three degrees, and fifty meters for a slope of three degrees or more.
+12. For through-flow and drainless lakes and corresponding watercourses located within the boundaries of bogs, the width of the coastal protective strip is established in the amount of fifty meters.
+13. The width of the coastal protective strip of a river, lake, or reservoir that is a habitat, spawning ground, feeding ground, or migration route for specially valuable aquatic biological resources (if one of these indicators is present) and/or is used for the extraction (catch) and conservation of such species of aquatic biological resources and their habitat, is established in the amount of two hundred meters, regardless of the slope of the bank.
+14. In the territories of settlements, in the presence of centralized storm water drainage systems and embankments, the boundaries of the coastal protective strips coincide with the parapets of the embankments. The width of the water protection zone in such territories is established from the parapet of the embankment. In the absence of an embankment, the width of the water protection zone and the coastal protective strip is measured from the location of the shoreline (boundary of the water body).
+15. Within the boundaries of water protection zones, it is prohibited to:
+1) use wastewater for the purpose of improving soil fertility;
+2) locate cemeteries, cattle burial grounds, industrial and consumer waste disposal sites, chemical, explosive, toxic, and poisonous substances, radioactive waste disposal sites, as well as contaminate the territory with pollutants for which maximum permissible concentrations in the waters of water bodies of fishery significance have not been established;
+3) carry out aerial measures to combat harmful organisms;
+4) move and park transport vehicles (except for special transport vehicles), except for their movement on roads and parking on roads and in specially equipped places with a hard surface;
+5) construct and reconstruct gas stations, warehouses for fuel and lubricants
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+(except in cases where gas stations and warehouses for fuel and lubricants are located on the territories of ports, infrastructure of inland waterways, including bases (facilities) for the moorage of small vessels, and facilities of the federal security service bodies), technical service stations used for the technical inspection and repair of transport vehicles, and carry out the washing of transport vehicles;
+6) store pesticides and agrochemicals (except for the storage of agrochemicals in specialized storage facilities on the territories of seaports outside the boundaries of coastal protective strips), and apply pesticides and agrochemicals;
+7) discharge wastewater, including drainage water;
+8) prospect for and extract commonly occurring mineral resources (except in cases where the prospecting for and extraction of commonly occurring mineral resources are carried out by subsoil users who are prospecting for and extracting other types of mineral resources, within the boundaries of the mining and/or geological allotments granted to them in accordance with the legislation of the Russian Federation on subsoil resources, on the basis of an approved technical project in accordance with Article 19.1 of the Law of the Russian Federation of February 21, 1992, N 2395-I "On Subsoil Resources").
+16. Within the boundaries of water protection zones, the design, construction, reconstruction, commissioning, and operation of economic and other objects are permitted, provided that such objects are equipped with facilities ensuring the protection of water bodies from pollution, contamination, silting, and the depletion of water in accordance with water legislation and legislation in the field of environmental protection. The choice of the type of facility ensuring the protection of a water body from pollution, contamination, silting, and the depletion of water shall be made taking into account the need to comply with the standards for permissible discharges of pollutants, other substances, and microorganisms established in accordance with the legislation in the field of environmental protection. For the purposes of this article, facilities ensuring the protection of water bodies from pollution, contamination, silting, and the depletion of water are understood to be:
+1) centralized water disposal (sewerage) systems, centralized storm water drainage systems;
+2) facilities and systems for the diversion (discharge) of wastewater into centralized water disposal systems (including rainwater, meltwater, infiltration water, wash water, and drainage water), if they are intended for the reception of such water;
+3) local treatment facilities for the treatment of wastewater (including rainwater, meltwater, infiltration water, wash water, and drainage water), ensuring their treatment based on the standards established in accordance with the requirements of legislation in the field of environmental protection and this Code;
+4) facilities for the collection of industrial and consumer waste, as well as facilities and systems for the diversion (discharge) of wastewater (including rainwater, meltwater, infiltration water, wash water, and drainage water) into receivers made of waterproof materials;
+5) facilities ensuring the protection of water bodies and adjacent territories from oil and oil product spills and other negative impacts on the environment.
+16.1. With respect to territories used by citizens for horticulture or gardening for their own needs, located within the boundaries of water protection zones and not equipped with facilities for wastewater treatment, until they are equipped with such facilities and/or connected
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+to the systems specified in paragraph 1 of part 16 of this article, the use of receivers made of waterproof materials that prevent the entry of pollutants, other substances, and microorganisms into the environment is permitted.
+16.2. On territories located within the boundaries of water protection zones and occupied by protective forests and specially protective forest areas, in addition to the restrictions established by part 15 of this article, the restrictions provided for by the legal regime of protective forests and the legal regime of specially protective forest areas established by forest legislation shall apply.
+16.3. The construction, reconstruction, and operation of specialized storage facilities for agrochemicals are permitted, provided that such storage facilities are equipped with facilities and systems that prevent the pollution of water bodies.
+17. Within the boundaries of coastal protective strips, in addition to the restrictions established by part 15 of this article, it is prohibited to:
+1) plow land;
+2) place dumps of erodible soils;
+3) graze agricultural animals and organize summer camps and baths for them.
+18. The establishment of the boundaries of water protection zones and the boundaries of coastal protective strips of water bodies, including their designation on the ground by means of special information signs, shall be carried out in the manner established by the Government of the Russian Federation.
+
+**Article 66. Specially Protected Water Bodies**
+
+1. Water bodies or parts thereof that have special environmental, scientific, cultural, aesthetic, recreational, and health-improving value may be recognized as specially protected water bodies.
+2. The status, regime of special protection, and boundaries of the territories within which the water bodies specified in part 1 of this article are located shall be established in accordance with the legislation on specially protected natural territories and the legislation of the Russian Federation on objects of cultural heritage.
+2.1. Water bodies and parts of water bodies located within the boundaries of the territories of objects of cultural heritage, within the boundaries of the protection zones of objects of cultural heritage, and within the boundaries of the protective zones of objects of cultural heritage shall be used within the said boundaries in accordance with this Code and the legislation of the Russian Federation on objects of cultural heritage.
+3. The special regime for the use of a water body or its part within whose boundaries an object of archaeological heritage is located provides for the possibility of carrying out works defined by this Code, provided that the preservation of the object of archaeological heritage included in the unified state register of objects of cultural heritage (monuments of history and culture) of the peoples of the Russian Federation, or of an identified object of archaeological heritage, is ensured, as well as ensuring citizens' access to the said objects and the conduct of archaeological fieldwork in the manner established by the Federal Law of June 25, 2002, N 73-FZ "On Objects of Cultural Heritage (Monuments of History and Culture) of the Peoples of the Russian Federation."
+4. For the purpose of ensuring the preservation of the territory of a museum-reserve, museum objects and museum collections included in the Museum Fund of the Russian Federation and in the possession or use of the museum-reserve, and objects of cultural heritage,
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+and ensuring the safety of citizens on the territory of the museum-reserve, on the section of the coastal strip adjacent to the territory of the museum-reserve of a water body located outside the boundaries of the territory of the museum-reserve, activity incompatible with the types of activity established for the museum-reserve by the legislation of the Russian Federation on objects of cultural heritage and the legislation of the Russian Federation on the Museum Fund of the Russian Federation and museums in the Russian Federation is not permitted.
+5. The specifics of the use of a water body located on the territory of a museum-reserve, a section of the coastal strip of such a water body, as well as a water body located outside the boundaries of the territory of a museum-reserve, to a section of the coastal strip of which the territory of the museum-reserve adjoins, are established in accordance with the Federal Law of May 26, 1996, N 54-FZ "On the Museum Fund of the Russian Federation and Museums in the Russian Federation."
+
+**Article 67. Zones of Ecological Disaster, Zones of Emergency Situations on Water Bodies**
+
+1. In accordance with the legislation in the field of environmental protection and the legislation in the field of protection of the population and territories from emergency situations, water bodies and river basins in which, as a result of man-made and natural phenomena, changes occur that pose a threat to human health or life, objects of the animal and plant world, and other objects of the environment may be declared zones of ecological disaster or zones of emergency situations.
+2. Repealed.
+3. Repealed.
+4. Repealed.
+5. Bottom soil may be used to prevent the negative impact of water during emergency situations and to eliminate the consequences of such situations in the manner established by the Government of the Russian Federation, in accordance with the legislation in the field of protection of the population and territories from emergency situations.
+
+**Article 67.1. Prevention of the Negative Impact of Water and Elimination of its Consequences**
+
+1. For the purpose of preventing the negative impact of water on certain territories and objects and eliminating its consequences, the following measures to prevent the negative impact of water and eliminate its consequences shall be carried out within the framework of the implementation of water management measures provided for by Article 7.1 of this Code:
+1) pre-flood and post-flood surveys of territories subject to the negative impact of water, and of water bodies;
+2) ice-breaking, ice-cutting, and other works to weaken the strength of ice and eliminate ice jams;
+3) restoration of the carrying capacity of riverbeds (dredging and straightening of riverbeds, cleaning of water bodies);
+4) grading of the banks of water bodies, their biogenic stabilization, reinforcement with sand-gravel and rock fill, and terracing of slopes.
+2. Zones of flooding and waterlogging shall be established and changed with respect to territories subject to the negative impact of water and not provided with structures and/or methods
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+of engineering protection specified in part 4 of this article, by the federal executive body authorized by the Government of the Russian Federation with the participation of the executive bodies of the constituent entities of the Russian Federation and local self-government bodies.
+3. Within the boundaries of zones of flooding and waterlogging, it is prohibited to:
+1) construct capital construction objects not provided with structures and/or methods of engineering protection of territories and objects from the negative impact of water;
+2) use wastewater for the purpose of improving soil fertility;
+3) locate cemeteries, cattle burial grounds, industrial and consumer waste disposal sites, chemical, explosive, toxic, and poisonous substances, and sites for the storage and disposal of radioactive waste;
+4) carry out aerial measures to combat harmful organisms.
+4. The engineering protection of territories and objects from the negative impact of water (construction of flood protection dams, bank protection structures, and other engineering protection structures intended to protect territories and objects from flooding, waterlogging, and the destruction of the banks of water bodies, and/or methods of engineering protection, including artificial elevation of the surface of territories, installation of pile foundations, and other methods of engineering protection) shall be carried out in accordance with the legislation of the Russian Federation on urban planning activities by state authorities and local self-government bodies authorized to issue construction permits in accordance with the legislation of the Russian Federation on urban planning activities, and by legal and natural persons who are the rights holders of the land plots with respect to which such protection is being carried out.
+5. For the purpose of constructing engineering protection structures for territories and objects from the negative impact of water, the withdrawal of land plots for state or municipal needs is permitted in the manner established by land legislation and civil legislation.
+
+**Chapter 7. Liability for Violation of Water Legislation**
+
+**Article 68. Administrative and Criminal Liability for Violation of Water Legislation**
+
+1. Persons guilty of violating water legislation shall bear administrative and criminal liability in accordance with the legislation of the Russian Federation.
+2. Bringing to liability for violation of water legislation does not release the guilty persons from the obligation to eliminate the violation committed and to compensate for the damage caused by them.
+
+**Article 69. Compensation for Damage Caused to Water Bodies as a Result of Violation of Water Legislation**
+
+1. Persons who have caused damage to water bodies shall compensate for it voluntarily or by a court order.
+2. The methodology for calculating the amount of damage caused to water bodies as a result of violation of water legislation shall be approved in the manner established by the Government of the Russian Federation, taking into account the specifics of compensating for damage caused to the environment
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+by the discharge of pollutants into water bodies through the centralized water disposal systems of settlements or urban okrugs, as established by the legislation of the Russian Federation in the sphere of water supply and water disposal.
+
+President of the Russian Federation V. Putin
+Moscow, Kremlin
+June 3, 2006
+N 74-FZ
+
+• Free legal consultation by phone: • • 8(499) 938-53-84 (Moscow and Moscow Oblast); • 8 (812) 467-95-33 (Saint Petersburg and Leningrad Oblast); • • 8 (800) 301-79-07 (Regions of the RF). Commentaries on the articles at the website https://vodnkod.ru/
+

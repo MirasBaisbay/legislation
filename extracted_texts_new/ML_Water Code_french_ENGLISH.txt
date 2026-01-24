@@ -1,0 +1,402 @@
+****
+[NO TEXT PROVIDED FOR TRANSLATION]
+
+****
+Fortieth Year OFFICIAL JOURNAL OF THE REPUBLIC OF MALI SPECIAL No. 8 May 2, 2002 WATER CODE LAW NO. 02-006 / OF JANUARY 31, 2002 SECRETARIAT GENERAL OF THE GOVERNMENT Published with the support of the UNDP and French Cooperation LAW NO. 02-006 / OF JAN. 31, 2002 ESTABLISHING THE WATER CODE The National Assembly deliberated and adopted in its session of December 13, 2001; The President of the Republic promulgates the law, the text of which is as follows:
+
+**TITLE 1**
+**GENERAL PROVISIONS**
+
+**CHAPTER 1: DEFINITIONS**
+
+**Article 1:** For the purposes of this law, the following definitions shall apply:
+
+**Water Administration:** The Ministry in charge of water.
+
+**Lease Contract (Affermage):** A public service delegation agreement for a fixed term whereby a contracting authority entrusts to a third party the mandate to manage the drinking water supply at its own expense and risk, remunerating itself from the fees collected from users, with the obligation to remit royalties to the public entity.
+
+**Drinking Water Supply:** The production (abstraction, drilling, wells, treatment, and storage), transport, and distribution of drinking water for public use.
+
+**Users' Association:** A group of people from a locality organized for the use of the public water service.
+
+**Self-producer:** Any natural or legal person producing water for their own use.
+
+**Self-production:** The production and distribution of water primarily for one's own use.
+
+**Authorization:** A unilateral act by which the administration permits a self-producer, for a duration and under conditions specified in said authorization, to establish and operate a water facility to satisfy their own needs and, where applicable, to supplementarily provide a portion of the public water service using available production surpluses.
+
+**Rural or Semi-urban Centers:** Localities with a population of less than 10,000 inhabitants.
+
+**Urban Centers:** Localities with a population of 10,000 or more inhabitants.
+
+**The Regulatory Commission:** An independent body created by ordinance to carry out the sectoral regulation of the public drinking water service in urban centers.
+
+**Public Service Concession or Concession:** A method of service management whereby a public authority (the grantor) entrusts to a private party, an individual or more often a company (the concessionaire), by means of an agreement, the responsibility of carrying out, at its own expense, the investments necessary for the creation of the service and operating it at its own risk, remunerating itself through fees collected from users.
+
+**Declaration of Self-production:** A procedure whereby a self-producer informs the administration of the implementation of self-production means.
+
+**Delegation of Public Service or Management Delegation:** An agreement by which the public authority permits an operator, known as the delegated manager, to establish or operate water facilities to meet the needs of the public for a fixed duration and under the conditions provided for in said contract. Management delegation can take various forms: lease contract (affermage), management contract (gérance), or performance-based management (régie intéressée).
+
+**Drinking Water:** Water intended for consumption by households, businesses, or administrations that, either through treatment or naturally, meets the standards defined by the laws and regulations in force on water quality.
+
+**Operator:** A natural or legal person, public or private, responsible for the implementation and/or management and maintenance of water facilities.
+
+**Management Contract (Gérance):** A management delegation contract whereby a contracting authority entrusts to a third party, in exchange for remuneration, the mandate to carry out the technical and commercial activities necessary for the proper functioning of the water facilities, but retains all technical and commercial risks inherent in these activities, including the responsibility for and financing of investments for network renewal and extension.
+
+**Water Facility:** All facilities and infrastructure intended to provide drinking water and/or collective sanitation services for domestic wastewater to meet the needs of the public in a given geographical area; including water abstraction, collection, and treatment facilities considered as water production, and transport, distribution, and connection facilities for drinking water.
+
+**Independent Water Production Facility:** Water facilities dedicated to independent production.
+
+**Self-production Facilities:** Drinking water supply facilities owned and operated by a self-producer primarily for their own use.
+
+**Contracting Authority:** The public authority entrusted with the ultimate responsibility towards the users of the public water service in a given geographical area.
+
+**Protection Perimeter:** A zone established around a water point and its facilities to preserve it from the risks of pollution from activities carried out nearby.
+
+**Permit Holder:** An operator holding an authorization.
+
+**Small Water Facilities:** Basic water supply systems and simple facilities intended to provide drinking water in rural areas (spring developments, wells, and boreholes).
+
+**Independent Production:** Water production provided by a producer that does not perform the function of distributing water for public use in the territory where it is located and whose sole function is to sell and deliver water to the local distribution network.
+
+**Public:** Any user or client, whether a natural or legal person under public or private law.
+
+**Water Quality:** The set of physical, chemical, biological, and organoleptic properties that make water suitable for its intended use.
+
+**Direct Management (Régie directe):** Operation of water facilities carried out directly by the contracting authority or through a subsidiary entity.
+
+**Autonomous Management Authority (Régie autonome):** Operation of water facilities entrusted to a legal entity separate from the contracting authority, endowed with financial autonomy, and which bears the operational risks.
+
+**Master Plan for Water Development and Management:** A document that determines the fundamental orientations for the development of water resources in a river basin for a period of at least 20 years.
+
+**Public Drinking Water Supply Service:** The public service for the supply of drinking water.
+
+**Villages:** Localities with a population of less than 2,000 inhabitants.
+
+**CHAPTER II: PRINCIPLES AND SCOPE OF APPLICATION**
+
+**Article 2:** This law establishes the rules for the use, conservation, protection, and management of water resources.
+Water is a public domain asset. Its use belongs to all, provided it is not contrary to the public interest. It is exercised within the framework of solidarity among users.
+
+**Article 3:** Water may only be subject to private appropriation under the conditions set by the provisions in force and in compliance with the customary rights recognized for rural populations, provided they are not contrary to the public interest.
+
+**Article 4:** The protection of water, its development, and the expansion of the usable resource, while respecting natural balances, constitute a duty for all: the State, local authorities, and citizens.
+
+**Article 5:** This code applies to all waters belonging to the water domain.
+
+**Article 6:** The water domain is composed of the public water domain of the State and the public water domain of the local authorities.
+
+**Article 7:** The definition and nomenclature of the waters belonging to the public water domain of the State and the public water domain of the local authorities are governed by the provisions of the State Lands and Property Code regulating the public domain of the State and the public domain of local authorities.
+
+**TITLE II**
+**MANAGEMENT AND PROTECTION OF THE WATER DOMAIN**
+
+**CHAPTER I: MANAGEMENT OF THE WATER DOMAIN**
+
+**Article 8:** The purpose of the provisions of this chapter is the global, sustainable, and equitable management of water resources.
+
+**Article 9:** Subject to the provisions of the State Lands and Property Code, the water domain is managed by the Ministry in charge of Water, and by the representatives of the State at the regional, circle, or municipal level in accordance with the provisions of the legislation in force on the protection of the environment and the living environment.
+
+**Article 10:** The State, for reasons of general interest or public utility, may transfer to or reclaim from a local authority a part of its natural or artificial public water domain.
+The transfer or reclamation shall be effected by a decree issued by the Council of Ministers, at the request of the said authority or at the request of the State.
+
+**Article 11:** A Master Plan for Water Development and Management shall be established by the administration in charge of water for a period of at least twenty years.
+
+**Article 12:** The Master Plan for Water Development shall set the general objectives for the use, development, and quantitative and qualitative protection of water resources and aquatic ecosystems.
+
+**Article 13:** The Master Plan for Water Development and Management may be revised every five years.
+Any authorization or concession provided for in this law may only be granted if it is compatible with the objectives set by this plan.
+The plan shall be approved by a decree issued by the Council of Ministers.
+
+**CHAPTER II: PROTECTION OF THE WATER DOMAIN**
+
+**Section 1: Qualitative Protection**
+
+**Article 14:** Any direct or indirect discharge, flow, release, or deposit into water of materials of any kind likely to harm public health or aquatic fauna and flora is prohibited.
+However, the Minister in charge of the Environment may, after a public inquiry and with the binding opinions of the Ministers in charge of Water and Health, authorize and regulate the discharges and flows referred to in the preceding paragraph in cases where they can be carried out under conditions guaranteeing the absence of nuisance.
+
+**Article 15:** Water quality standards may be set by the competent State authorities in certain areas of watercourses up to the saltwater intrusion limit.
+Activities may be regulated or prohibited based on these quality standards.
+
+**Article 16:** Any natural or legal person, public or private, carrying out an activity that is a source of pollution or that may present dangers to water resources and environmental hygiene must consider all appropriate measures to stop or prevent the observed or presumed danger.
+Every polluter must bear the costs of their polluting activities.
+
+**Article 17:** A joint order from the Ministers in charge of Water, the Environment, and Health shall determine the pollution prevention measures and the conditions under which the physical, chemical, biological, and radiological characteristics of water are monitored.
+
+**Section 2: Quantitative Protection**
+
+**Subsection 1: Surface Water Abstraction**
+
+**Article 18:** No diversion of water from the public domain, in any manner and for any purpose whatsoever, by temporarily or permanently removing it from its course, that is likely to impede the free flow or reduce the water resource, may be made without prior authorization from the administration in charge of water, after obtaining the opinion of the National Water Council.
+However, authorization is not required for surface water abstractions intended for domestic purposes that do not exceed a volume threshold set by a decree issued by the Council of Ministers, upon the proposal of the Minister in charge of Water.
+
+**Subsection 2: Groundwater Abstraction**
+
+**Article 19:** Groundwater may not be abstracted without authorization, except for domestic uses not exceeding a volume threshold set by a decree issued by the Council of Ministers and which do not pose a risk of polluting the resource.
+Abstractions of such significance that they are likely to present dangers to public health and safety, to very significantly harm the free flow of water, to reduce the water resource, to notably increase the risk of flooding, or to seriously harm the quality or diversity of the aquatic environment shall be subject to the concession regime.
+The conditions for obtaining authorizations and concessions shall be set by a decree issued by the Council of Ministers, upon the proposal of the Minister in charge of Water.
+
+**Article 20:** The administration in charge of water may issue special prescriptions aimed at ensuring the conservation of water resources to address a threat, and the consequences of accidents, drought, or a risk of shortage.
+Any activity not covered by Articles 18 and 19 above, but likely to affect the waters of the public domain, shall be classified by the administration in charge of water under either the authorization regime or the concession regime.
+
+**Article 21:** Any concession may, if the interest of the planned project justifies it, be declared of public utility by the granting authority, either ex officio or at the request of the concessionaire.
+
+**Article 22:** The procedure for authorization and concession shall be set by a decree issued by the Council of Ministers.
+
+**Article 23:** In the event of forfeiture of the authorization or concession, the administration in charge of water may require the restoration of the site to its original state and, if necessary, have this restoration carried out ex officio at the expense of the defaulting concessionaire or permit holder.
+
+**Section 3: Protection Perimeters**
+
+**Article 24:** Protection perimeters shall be established by a declaration of public utility in order to preserve water abstraction points intended for human consumption from the risks of pollution from activities carried out nearby.
+The declaration of public utility shall determine the prohibitions or regulations within the immediate, close, or distant protection perimeters.
+The protection perimeter may be modified if new circumstances demonstrate the necessity thereof.
+
+**Article 25:** In the event of deprivation of use resulting from Article 24, paragraph 2, the owners or occupants of land within the perimeters shall be compensated.
+
+**CHAPTER III: COMBATING THE HARMFUL EFFECTS OF WATER**
+
+**Section 1: Sanitation Measures for the Natural Environment**
+
+**Article 26:** The sanitation of urban areas against the harmful effects of water aims to ensure the rapid and complete evacuation of domestic and industrial wastewater, as well as rainwater likely to cause nuisance or flood inhabited areas, under conditions compatible with the requirements of public health and the environment.
+
+**Article 27:** The administration and local authorities shall undertake, with the participation of the concerned users, all works aimed at the construction of collective systems for the evacuation and treatment of wastewater and rainwater.
+
+**Article 28:** In urban areas equipped with a sewer network, connection to this network is mandatory for any dwelling or establishment connected to the running water network.
+
+**Article 29:** As soon as a public sanitation network is established, any individual sanitation system must be decommissioned or rendered incapable of causing nuisance.
+
+**Article 30:** The connection to the public sanitation network of wastewater other than domestic wastewater is subject to the prior authorization of the public sanitation service.
+
+**Article 31:** In cases where non-domestic wastewater is likely in its raw state to affect the proper functioning of the public sanitation network and purification facilities, its pre-treatment, before discharge, is mandatory.
+
+**Article 32:** It is forbidden to introduce into sanitation facilities any solid, liquid, or gaseous matter that could affect the health of operating personnel or cause degradation or operational hindrance to the evacuation and purification works.
+
+**Section 2: Flood Control**
+
+**Article 33:** The administration in charge of water shall undertake, with the participation, where applicable, of the concerned local authorities, all works aimed at the construction of flood protection structures when these works are of public utility.
+
+**Article 34:** The administration in charge of water reserves the right to modify or remove ex officio any embankment, deposit of bulky materials, fence, planting, construction, or any other work likely to obstruct the flow of water or to harmfully restrict the flood plain on the submersible parts of watercourses.
+If compensation is due, it shall be determined in accordance with the rules of expropriation for public utility.
+
+**Article 35:** The delineation of the submersible surfaces of the valleys of watercourses is left to the initiative of the administration in charge of water, which shall decide by an order of the Minister in charge of Water.
+
+**Article 36:** No hydraulic work for flood prevention, no planting, or obstruction may be carried out without the prior authorization of the administration in charge of water.
+
+**Article 37:** On flood protection dikes, it is forbidden to build, to allow any works or obstacles to remain, or to carry out any activity whatsoever that is likely to degrade these dikes and impede the flow of water.
+
+**Article 38:** The administration in charge of water is responsible for the development and implementation of the flood forecasting and warning plan and flood prevention plan.
+The conditions for the development and implementation of the plan shall be set by an order of the Minister in charge of Water.
+
+**Article 39:** Hydraulic works likely to constitute a threat to public safety shall be subject to periodic inspection by the administration in charge of water.
+
+**Article 40:** The technical conditions and requirements for the study, construction, operation, and inspection of hydraulic works for flood prevention shall be set by an order of the Minister in charge of Water.
+
+**Article 41:** The Minister in charge of Water shall ensure the proper functioning and protection of hydraulic works of sub-regional, national, or regional importance in order to prevent any threat to public safety.
+
+**Article 42:** The administration in charge of water shall ensure compliance with the technical standards for the execution, operation, and functioning of water resource mobilization works.
+
+**Article 43:** Any party involved in the construction of a major water retention work is required to request the favorable opinion of the administration in charge of water.
+
+**CHAPTER IV: DRINKING WATER SUPPLY**
+
+**Section 1: The Public Water Service**
+
+**Article 44:** The production, transport, and distribution of drinking water to meet the needs of the public constitute a public service.
+This public service is delegated to operators within the framework of a Public Service Management Delegation issued under the conditions provided for by this law.
+
+**Article 45:** The exercise of the public water service, as well as the development and/or management and maintenance of water facilities, are delegated to operators with public service obligations defined by the Management Delegation Agreement, to which technical specifications (cahier de charges) are annexed.
+The Management Delegation may cover different modes of management delegation, namely works concession, lease contract (affermage), or management contract (gérance), as well as any variant or combination of these three agreements.
+In villages, rural, and semi-urban centers, a Management Delegation may be granted to a users' association, provided that it is duly constituted in accordance with the regulations in force and has legal personality.
+In villages, rural, and semi-urban centers, the public water service may not be operated under direct management by the municipal contracting authorities. However, in the event of the default of the operator or the users' association and if it is impossible to find another operator, the municipal contracting authority may, with the agreement of the Minister in charge of Drinking Water, establish an autonomous management authority.
+The direct management of the public water service is prohibited in urban centers.
+
+**Article 46:** The actors in the public drinking water service are the State, the contracting authorities, the operators, and the regulatory commission:
+*   The State ensures the definition of the national policy for drinking water supply and the development of the public water service nationwide.
+*   The contracting authorities are either the State or the local authorities, depending on the level of interest of the activity concerned and in compliance with the decentralization laws.
+*   Operators, whether private operators or users' associations, ensure, within the framework of a management delegation from the contracting authority, the function of implementing and/or managing and maintaining the water facilities.
+*   The regulatory commission ensures the application of the tariff policy and carries out the regulation of the public water service in urban centers.
+The powers, organization, and functioning of the regulatory commission shall be the subject of specific legislation.
+
+**Article 47:** Within the framework of the public water service policy, the State's missions include, in particular:
+*   Ensuring the planning, control, and development of the public water service, as well as the coordination of the actions of the different actors in the sector.
+*   Monitoring, leading, and coordinating the investment and financing policy of the public water service.
+*   Setting, by regulatory means, the standards and technical specifications applicable to water facilities.
+*   Assisting municipalities so that they can exercise their powers as contracting authorities as quickly and effectively as possible.
+*   Coordinating and/or providing, from an administrative, technical, and financial standpoint, the technical assistance necessary for the management of rural drinking water supply systems and ensuring the development of rural water infrastructure.
+The public drinking water service policy is defined and determined by the government.
+
+**Article 48:** The ownership and public domain regime of water facilities is governed by this law, as well as by the state lands and property legislation in force.
+Independent water production facilities, as defined for the purposes of this law, are excluded from the public domain and are subject to the private property regime.
+
+**Section 2: The Contracting Authority for the Public Water Service**
+
+**Article 49:** The State shall perform the function of contracting authority for the public water service in urban centers. Within the framework of decentralization, it may delegate this function to local authorities.
+In rural and semi-urban centers, local authorities shall exercise the function of contracting authority for the public water service:
+*   Either by delegation from the State;
+*   Or directly when, within the framework of decentralization, the water facilities fall within their level of interest.
+Municipalities are free to associate in order to develop and ensure better management of the water facilities of integrated systems that extend beyond the geographical scope of a single municipality.
+
+**Article 50:** The contracting authority for the public water service assumes, with respect to the community, the ultimate responsibility for the management, maintenance, and development of the water facilities, as well as, in general, any activity necessary for their proper functioning.
+The responsibilities of the contracting authority for the public water service are:
+*   the organization of the public drinking water supply service;
+*   the preservation of the public domain placed under its control;
+*   the launching of calls for tenders for management delegations subject to competition;
+*   the negotiation and conclusion of management delegation agreements and their amendments;
+*   the approval of the investment plans of the delegated managers;
+*   the search for and implementation of financing to execute the investments that are the responsibility of the contracting authority.
+
+**Article 51:** The general terms of the management delegation, and in particular its object, duration, and territorial scope, are set out in the management delegation agreement, to which technical specifications (cahier des charges) are annexed.
+In addition, the agreement shall specify:
+*   the scope of the management delegation and the zones and/or conditions of exclusive operation;
+*   the conditions for making available the land necessary for the establishment and operation of the facilities;
+*   the rights and obligations of the delegated manager, including the public service obligation;
+*   the tariff conditions;
+*   the general conditions for the construction, operation, and maintenance of the water facilities;
+*   the specific provisions relating to the financing of the facilities and activities of the delegated manager;
+*   the procedures for applying penalties in case of violation of the terms of the management delegation agreement;
+*   the conditions for the transfer to the new delegated manager or the takeover of the facilities by the contracting authority at the end of the management delegation;
+*   the conditions for waiver or forfeiture of the management delegation and for force majeure;
+*   the dispute resolution procedure;
+*   the maintenance of physical and accounting inventories of the facilities and their updates.
+In the case of works concession or lease contract agreements, these must imperatively include specific provisions relating to the construction, renewal, and extension of water facilities, their financing, and the conditions for their takeover.
+
+**Section 3: Revenue of the Public Water Service and Tariff Principles**
+
+**Article 52:** The decentralized local authority acting as the contracting authority shall maintain a budget separate from its general budget, both for the public water services possibly managed by an autonomous management authority and for the expenses and revenues that concern it in the case of delegated management.
+It shall execute this budget from a specific account opened with a bank.
+All revenues collected for the public drinking water service must be fully allocated to the sector.
+
+**Article 53:** The tariff policy and the recovery of costs in the sector must, in particular, respect the following principles:
+*   Access to the public water service, whether at public standpipes or individual connections, must always be paid for.
+*   For each water system, the applicable tariffs must, in the long term, allow for cost recovery:
+    *   In urban centers, full recovery, if possible, of investment, renewal, and operating costs.
+    *   In rural and semi-urban centers, full recovery of operating and renewal costs and partial recovery, if possible, of investment costs.
+*   Each system must be managed autonomously from a financial point of view, and any direct or indirect subsidies received must be strictly accounted for.
+*   Tariffs must be revised periodically to take into account the evolution of investment and operating conditions, based on criteria defined by the sector's Regulatory Commission.
+*   When public drinking water services obtain their water resources from multi-purpose works, the price paid by these services for access to the resources may not be higher than the average price paid by other users.
+
+**Article 54:** Unless an express exemption is granted by the Regulatory Commission, supplies to consumers must be metered.
+The elements of the tariff structure must obligatorily include the following fees, which constitute the remuneration for the services rendered:
+*   A contribution to initial establishment costs, in particular connection fees.
+*   A fixed fee per billing period.
+*   Fees based on the volumes consumed.
+The tariffs for volumes of water consumed by domestic consumers must obligatorily include a social tariff block at a preferential rate, the volume of which in m3 may not exceed a threshold set by a directive from the Regulatory Commission.
+Consumption beyond this social block may be billed according to progressive block tariffs, compatible with the users' ability to pay, the consumption structure, and the financial viability of the operation.
+Supplies to the managers of public standpipes are bulk supplies, and their tariff must be that applicable to the social block of domestic consumption.
+The total of taxes and surcharges levied by decentralized local authorities on the invoices of the public water service may not exceed a percentage of the pre-tax amount of these invoices, to be set by a decree issued by the Council of Ministers.
+Supplies to public standpipes and to the first domestic social block are exempt from all local taxes and surcharges.
+Delegated managers, whether natural or legal persons under public or private law, are subject to the common law tax regime without discrimination resulting from their different legal nature.
+
+**Section 4: The Public Water Service Development Fund**
+
+**Article 55:** A special treasury allocation account called the Water Development Fund is hereby created.
+The Fund is essentially constituted by allocations from the State, subsidies from donors, donations, legacies, and loans, and secondarily from the proceeds of fines collected from polluters and abstractors, as well as all or part of the proceeds of royalties on water resources and from delegated managers.
+The Fund is managed by a Management Committee comprising representatives of the Ministries in charge of water, finance, and the supervision of local authorities.
+The management procedures for the fund shall be set by a decree issued by the Council of Ministers.
+
+**CHAPTER V: PROVISIONS SPECIFIC TO CERTAIN USES**
+
+**Section 1: Irrigation Water**
+
+**Article 56:** Owners and operators of agricultural land must carry out a rational and optimal development of water resources.
+
+**Article 57:** Every irrigator must ensure that the water used does not become a source for the spread of diseases, particularly through stagnation beyond the normal growing period.
+The use of wastewater for irrigation shall be determined by a joint order of the Ministers in charge of Water, Irrigation, the Environment, and Health.
+
+**Article 58:** An order of the Minister in charge of Irrigation shall set the general technical conditions related to the implementation of projects, and the operation and maintenance of facilities necessary for irrigation.
+However, the administration in charge of water shall be consulted for its binding opinion before the implementation of any irrigation development.
+
+**Article 59:** The management of hydraulic infrastructure for irrigation or drainage may be carried out by agricultural operators, either individually or in groups, possibly assisted by the technical services of the administration responsible for irrigation and possibly drainage.
+
+**Section 2: Industrial Water**
+
+**Article 60:** Industrial units are obliged to treat their effluents before discharging them into the natural environment.
+In order to combat waste, whenever the recycling of used water is technically and economically feasible, industries are required to do so.
+
+**Article 61:** Without prejudice to the application of the provisions of the Mining Code, anyone wishing to undertake mining works that are likely to affect the quality and flow patterns of water must request prior authorization from the administrations in charge of water and public health and submit to the obligations of an environmental impact assessment.
+The administration in charge of water shall be consulted for its binding opinion prior to any decision to establish or extend industrial units, insofar as they use water from the public water domain that they are likely to alter.
+
+**Section 3: Hydroelectric Use of Water**
+
+**Article 62:** Any structure to be built in the bed of a watercourse must include devices that maintain a minimum flow in the bed, permanently guaranteeing the life, circulation, and reproduction of the species that inhabit the waters.
+The structure must include devices to prevent fish from entering the intake and outlet channels.
+
+**Section 4: Fishing and Fish Farming**
+
+**Article 63:** The preservation of aquatic environments and the protection of fish stocks are of general interest.
+Any holder of a fishing or fish farming right is required to participate in the protection of fish stocks and aquatic environments.
+
+**Section 5: Navigation, Transport, Tourism, and Recreation**
+
+**Article 64:** Navigation, transport, tourism, and recreation on watercourses and lakes are governed by the legislative and regulatory texts in force.
+The administration in charge of water shall be consulted for its binding opinion before the establishment of any regular transport service on watercourses or lakes, and before the construction of any port facility or the marking and improvement of any channel.
+
+**Section 6: Easements**
+
+**Article 65:** Without prejudice to the application of the provisions of the State Lands and Property Code and special legislation, decrees issued by the Council of Ministers shall establish the nomenclature of the main easements specific to the water domain.
+
+**TITLE III**
+**ADVISORY BODIES IN WATER RESOURCE MANAGEMENT**
+
+**Article 66:** The national territory is divided into large natural hydrographic units called basins, sub-basins, or aquifer systems.
+
+**Article 67:** A National Water Council, Regional and Local Water Councils, and Basin or Sub-Basin Committees are hereby created, respectively under the Administration in charge of water and the authorities of the local authorities.
+
+**CHAPTER I: THE NATIONAL WATER COUNCIL**
+
+**Article 68:** The missions of the National Water Council are to issue an opinion on:
+*   draft master water plans and Master Plans for Water Development and Management, as well as on amendments thereto;
+*   water development and allocation projects of a national character, as well as on major regional developments;
+*   all matters relating to water.
+A decree issued by the Council of Ministers shall determine the composition, organization, and operating procedures of the National Water Council.
+
+**CHAPTER II: REGIONAL AND LOCAL WATER COUNCILS**
+
+**Article 69:** The mission of the Regional and Local Water Councils is to issue an opinion on all matters relating to water submitted by the Administration in charge of water.
+To this end, they may:
+*   formulate proposals relating to the management of water resources of the river basin, sub-basin, or aquifer systems;
+*   formulate proposed solutions to all conflicts over water use;
+*   propose the revision of the Master Plan for Water Development and Management, and ensure its monitoring and evaluation at the regional and local level.
+A decree issued by the Council of Ministers shall determine the composition, organization, and operating procedures of the Regional and Local Water Councils.
+
+**CHAPTER III: BASIN OR SUB-BASIN COMMITTEES**
+
+**Article 70:** The mission of the Basin or Sub-Basin Committees is to guarantee a concerted management of resources at the basin or sub-basin level.
+To this end, they may:
+*   formulate proposals relating to the management of the resources of the river basin, sub-basin, or aquifer systems;
+*   propose the revision of the master plan for the development and management of the waters of the river basins, sub-basins, or aquifer systems.
+The designation and delimitation of the river basins, sub-basins, or aquifer systems shall be determined by regulation.
+
+**TITLE IV**
+**PENAL PROVISIONS**
+
+**CHAPTER I: IDENTIFICATION OF OFFENSES**
+
+**Article 71:** Officials of the administration in charge of water, public health, and the environment, as well as duly mandated agents of the regional, circle, and municipal administrations competent in their respective territories, are authorized to report offenses against the water code.
+For any further action, they must refer the matter to the territorially competent judicial police officers for legal proceedings.
+
+**CHAPTER II: APPLICABLE PENALTIES**
+
+**Article 72:** Any infringement of the provisions of Articles 18(1) and 19(2) is punishable by imprisonment of one to six months and a fine of 50,000 to 500,000 FCFA, or by only one of these two penalties.
+
+**Article 73:** Any infringement of the provisions of Articles 14, 19(1), 30, 32, and 37 is punishable by imprisonment of one to three months and a fine of 10,000 to 100,000 FCFA, or by only one of these two penalties.
+
+**Article 74:** The amount of any monetary penalty is subject to modification according to the extent of the damage and/or pollution caused, based on indexation clauses to be determined by regulation.
+
+**Article 75:** The competent court may order, ex officio or at the request of the administration in charge of water, that all works erected in violation of the provisions of this law and its implementing regulations be demolished at the expense of the defendant and the property be restored to its original state.
+Furthermore, it may, ex officio or at the request of the administration in charge of water, order the cessation of all works that do not comply with the stipulations of the authorization or concession.
+
+**TITLE V**
+**TRANSITIONAL AND FINAL PROVISIONS**
+
+**Article 76:** This law does not affect previously exercised rights for which the holders provide proof of uninterrupted use for more than three consecutive years.
+
+**Article 77:** Any holder of an acquired right may claim its enjoyment, subject to a declaration made to the administration in charge of water within one year from the date of promulgation of this law.
+The holder must provide all information supporting their claim.
+Any claim submitted after the expiration of the allotted time will be considered a new application for authorization or concession.
+
+**Article 78:** Duly established rights shall be confirmed by the administration in charge of water after their registration in accordance with the procedures set by regulations.
+The administration in charge of water may restrict the exercise of any established right in the interest of the proper management of the country's water heritage.
+
+**Article 79:** This law repeals Law No. 90-017/AN-RM of February 27, 1990, establishing the water regime, and all prior contrary provisions.
+

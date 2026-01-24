@@ -1,0 +1,1024 @@
+Water Code of the Republic of Belarus of April 30, 2014 No. 149-Z
+(with amendments and additions as of July 17, 2023)
+
+Adopted by the House of Representatives on April 2, 2014
+Approved by the Council of the Republic on April 11, 2014
+
+Chapter 1. General Provisions (Articles 1 - 8)
+Chapter 2. State Administration in the Sphere of Water Protection and Use (Articles 9 - 16)
+Chapter 3. Rights and Obligations of Citizens and Public Associations in the Sphere of Water Protection and Use. Basin Councils (Articles 17 - 19)
+Chapter 4. Standardization in the Sphere of Water Protection and Use (Articles 20 - 24)
+Chapter 5. Design, Construction, Liquidation, and Commissioning of Surface Water Bodies and Objects Affecting Water Bodies (Articles 25 - 27)
+Chapter 6. Water Use (Articles 28 - 35)
+Chapter 7. Rights and Duties of Water Users (Articles 36 - 37)
+Chapter 8. Use of Water Bodies. Operation of Water Management Systems and Separately Located Hydraulic Structures and Devices (Articles 38 - 45)
+Chapter 9. Types of Wastewater. Requirements for Wastewater Discharge. Use of Water Bodies for the Discharge of Wastewater, Quarry (Mine, Pit), and Drainage Waters. Injection of Waters into the Subsoil (Articles 46 - 49)
+Chapter 10. Water Protection (Articles 50 - 51)
+Chapter 11. Water Protection Zones and Coastal Strips. Regime for Economic and Other Activities in Water Protection Zones and Coastal Strips (Articles 52 - 54)
+Chapter 12. Monitoring of Surface Waters and Monitoring of Groundwater. Local Monitoring. Accounting for Extracted Groundwater, Withdrawn Surface Water, and Wastewater Discharged into the Environment. State Water Cadastre. Control over the Use and Protection of Waters (Articles 55 - 59)
+Chapter 13. Unauthorized Water Use. Liability for Violation of Legislation on the Protection and Use of Waters. Unauthorized Performance of Works on Water Bodies (Articles 60 - 61)
+Chapter 14. Final Provisions (Articles 62 - 65)
+
+This Code regulates relations arising in the possession, use, and disposal of waters and water bodies, and is aimed at the protection and rational (sustainable) use of water resources, as well as the protection of the rights and legitimate interests of water users.
+
+CHAPTER 1
+GENERAL PROVISIONS
+
+Article 1. Main terms used in this Code and their definitions
+
+Improvement of surface water bodies - a set of works, including construction, special, installation, commissioning, and other activities carried out on surface water bodies and adjacent territories within the boundaries of water protection zones, for the purpose of bringing these bodies into a condition suitable for their intended use, creating favorable living conditions for the population, and forming a complete, aesthetically expressive living environment.
+1-1. Water resources - surface and groundwater that is used or may be used in economic and other activities.
+
+Water body - a concentration of water in artificial or natural depressions of the earth's surface or in the subsoil, having defined boundaries, volume, and signs of a hydrological regime or groundwater regime.
+
+Reservoir - a surface water body in a depression of the earth's surface, characterized by slow water movement (flowing) or its complete absence (non-flowing).
+
+Water intake structures - hydraulic structures and devices intended for the extraction (withdrawal) of water.
+
+Water protection zone - a territory adjacent to surface water bodies, on which a regime for carrying out economic and other activities is established to ensure the prevention of their pollution and obstruction.
+
+Water use - the use of water resources and (or) impact on water bodies during the course of economic and other activities.
+
+Water users - legal entities, citizens, including individual entrepreneurs, who use water resources and (or) exert an impact on water bodies during the course of economic and other activities.
+
+Watercourse - a surface water body characterized by the movement of water in the direction of a slope.
+
+Water management system - a set of water bodies and hydraulic structures and devices functionally interconnected.
+
+Water reservoir - an artificial reservoir with a water surface area of more than 100 hectares, created for the purpose of accumulating, storing water, and regulating flow.
+
+Restoration of a water body - the implementation of a set of measures aimed at achieving the water quality standards for surface water bodies and the hygienic safety standards for water bodies for economic, drinking, and cultural-domestic (recreational) use.
+
+Hydrological regime - changes in time and space of the state of a surface water body, including changes in depth, flow velocity, volume, and temperature of the water in the surface water body, including those caused by natural climatic conditions and the consequences of economic and other activities.
+
+Hydraulic structures and devices - engineering structures and devices intended for the extraction (withdrawal), transportation, and treatment of water, discharge of wastewater, regulation of water flows, needs of navigation, water protection, and prevention of harmful effects of water (water intake structures, canals, dams, weirs, locks, hydraulic units, pumping stations, water conduits, collectors, and other similar engineering structures and devices).
+
+Drainage waters - waters collected by hydraulic structures and devices for the purpose of lowering the water level, draining territories (lands), and discharged into the environment.
+
+Water pollution - the entry into waters (water bodies), the presence and (or) occurrence in them as a result of harmful effects on water bodies of substances, physical factors, microorganisms, properties, location, or quantity of which lead to negative changes in the physical, chemical, biological, and other indicators of the state of water bodies, including exceeding the standards in the field of water protection and use.
+
+Water obstruction - the entry of solid waste into surface water bodies.
+
+Artificial reservoir - a reservoir created by means of construction works and (or) as a result of the extraction of mineral resources.
+17-1. Use of water for household and drinking needs - use of water for drinking, household, and hygienic purposes, as well as for watering and washing road surfaces (street-washing works), territories of organizations, plantings, and other objects, and the operation of fountains.
+
+Canal - an artificial watercourse in an earthen excavation or embankment, intended for the transportation, discharge of water, regulation of water flows, as well as for navigation needs.
+
+Quarry (mine, pit) water - water pumped out during the extraction of mineral resources to prevent the flooding of a mine working (quarry, mine, and other similar structures).
+
+Control cross-section - a conditional transverse section of a surface water body where sampling and measurements are carried out in the field of environmental protection.
+
+Flooded quarry - an artificial reservoir created as a result of the extraction of mineral resources.
+
+Isolated water use - the preferential right of a single legal entity to water use, exercised on the basis of a state act for the right to isolated water use, or the right to use dug ponds located within the boundaries of land plots provided to legal entities, citizens, including individual entrepreneurs, in the established manner, and technological water bodies, confirmed by documents certifying rights to land plots.
+
+General water use - water use carried out without the use of hydraulic structures and devices.
+
+Objects affecting water bodies - objects located on surface water bodies, on the territory of their water protection zones and coastal strips.
+
+Water protection - a system of measures aimed at preventing or eliminating pollution, obstruction of waters, as well as at their conservation and restoration.
+
+Surface water body - a natural or artificial reservoir, watercourse, a permanent or temporary concentration of water, having defined boundaries and signs of a hydrological regime.
+
+Groundwater body - a concentration of water in the subsoil, having defined boundaries, volume, and signs of a groundwater regime and consisting of one or more aquifers.
+
+Water losses - the amount of water lost during its transportation, storage, redistribution, and cooling, as a result of which it does not reach the water user or is consumed in excess of the norm.
+
+Coastal strip - a part of a water protection zone directly adjacent to a surface water body, on which stricter requirements are established for the implementation of economic and other activities than on the rest of the territory of the water protection zone.
+
+Pond - an artificial reservoir with a water surface area of not more than 100 hectares, created for the purpose of accumulating and storing water.
+
+Dug pond - an artificial reservoir with a water surface area of up to 0.01 hectare and a depth of not more than 2 meters in a specially created depression in the earth's surface, intended for accumulating and storing water.
+
+Rational (sustainable) use of water resources - water use in which a set of measures is carried out ensuring the conservation of water resources, reduction of water losses, and prevention of water pollution and obstruction.
+
+Groundwater regime - changes in time and space of levels (heads), temperature, chemical, gaseous, and microbiological composition, and other characteristics of groundwater.
+
+River - a natural watercourse with a constant flow, having a clearly defined channel, with a length of 5 kilometers or more.
+
+River basin - a part of the earth's surface, including soil, as well as aquifers, from which water flows into a single river.
+
+Spring - a natural outlet of groundwater to the earth's surface.
+
+Stream - a natural watercourse with a length of up to 5 kilometers.
+37-1. Maintenance of surface water bodies in proper condition - a set of works and measures carried out on surface water bodies and their adjacent territories within the boundaries of coastal strips, aimed at maintaining a good or excellent ecological condition (status) of surface water bodies, as well as at preventing fish kills.
+
+Special water use - water use, including the extraction (withdrawal) of water from water bodies and (or) the discharge of wastewater into the environment, carried out with the use of hydraulic structures and devices.
+
+Wastewater - water discharged from residential, public, and industrial buildings and structures after being used in economic and other activities, as well as water formed during precipitation, snow melting, watering, and washing of road surfaces (street-washing works) on the territory of populated areas, industrial facilities, construction sites, and other objects and discharged into the environment, including through the sewerage system.
+
+Technological water bodies - artificial water bodies specially created for cooling, evaporation, averaging, settling of wastewater, lowering water levels (cooling ponds, evaporation ponds, averaging ponds, supply channels of pumping stations, and other similar objects), as well as for fire-fighting needs (fire ponds), breeding and raising fish (ponds and canals of fish-breeding organizations).
+
+Background cross-section - a conditional transverse section of a surface water body located upstream from the point of wastewater discharge, which takes into account the natural content of chemical substances in the water and the impact on the water quality of the water body from all upstream sources of pollutant discharge.
+
+Article 2. Legal regulation of relations in the field of water protection and use
+
+Relations associated with the protection and use of waters are regulated by the legislation on the protection and use of waters, international treaties of the Republic of Belarus, as well as other international legal acts containing obligations of the Republic of Belarus.
+The legislation on the protection and use of waters is based on the Constitution of the Republic of Belarus and consists of this Code and other legislative acts.
+If an international treaty of the Republic of Belarus establishes rules other than those provided for in this Code, the rules of the international treaty shall apply.
+
+Relations associated with the protection and use of waters, arising in the field of drinking water supply and the sanitary-epidemiological well-being of the population, not regulated by the legislation on the protection and use of waters, are regulated by the legislation in the field of drinking water supply and the sanitary-epidemiological well-being of the population.
+
+Relations associated with the protection and use of groundwater, not regulated by the legislation on the subsoil, are regulated by the legislation on the protection and use of waters.
+
+Relations associated with the protection and use of waters in specially protected natural territories are regulated by the legislation on the protection and use of waters, unless otherwise established by the legislation on specially protected natural territories.
+
+Relations associated with the protection and use of waters, arising during waste management, are regulated by the legislation on waste management, unless otherwise established by the legislation on the protection and use of waters.
+
+Relations associated with the protection and use of the animal world, arising from the use of surface waters, including for conducting fishing and hunting activities, fishing, and hunting, are regulated by the legislation on the protection and use of the animal world.
+
+Relations associated with fish farming, arising from the use of surface waters, are regulated by this Code and by acts of legislation on agriculture and the procurement of agricultural products.
+
+Relations associated with the use of surface waters for the needs of inland water transport are regulated by the legislation in the field of inland water transport, unless otherwise established by the legislation on the protection and use of waters.
+
+Relations associated with the protection and use of waters in territories that have undergone radioactive contamination as a result of the disaster at the Chernobyl Nuclear Power Plant are regulated by the legislation on the protection and use of waters, unless otherwise established by the legislation on the legal regime of territories that have undergone radioactive contamination as a result of the disaster at the Chernobyl Nuclear Power Plant.
+
+Relations associated with the protection and use of waters during the occurrence of natural and man-made emergency situations (hereinafter - emergency situations) and the elimination of their consequences, are regulated by the legislation in the field of protecting the population and territories from natural and man-made emergency situations.
+
+Relations in the field of water protection and use, arising during the implementation of land reclamation measures, not regulated by the legislation in the field of land reclamation, are regulated by the legislation on the protection and use of waters.
+
+Relations associated with water bodies as objects of concession, not regulated by the legislation on the protection and use of waters, are regulated by the legislation on investment activities, including the legislation on concessions.
+
+Relations associated with the construction, reconstruction, and capital repair of hydraulic structures and devices, and other objects affecting water bodies, are regulated by the legislation in the field of architectural, urban planning, and construction activities, unless otherwise established by the legislation on the protection and use of waters.
+
+Relations associated with the protection and use of waters, arising during the operation of municipal wastewater disposal systems, including the discharge of industrial wastewater into the environment through the sewerage system of populated areas, are regulated by the legislation in the field of municipal services, unless otherwise established by the legislation on the protection and use of waters.
+
+Relations associated with the erection of surface water bodies, the implementation of construction activities (construction) within the boundaries of surface water bodies, their improvement and liquidation, are regulated by the legislation in the field of architectural, urban planning, and construction activities, on the protection and use of lands, unless otherwise established by the legislation on the protection and use of waters.
+
+Article 3. Basic principles of water protection and use
+
+The protection and use of waters are carried out on the basis of the following principles:
+
+rational (sustainable) use of water resources;
+
+integrated use of water resources;
+
+priority of using groundwater for drinking needs over other uses;
+
+improvement of the ecological condition (status) of surface water bodies (their parts);
+
+prevention of water pollution and obstruction;
+
+basin management of water resources;
+
+standardization in the field of water protection and use;
+
+payment for water use, with the exception of cases provided for in paragraph 1 of Article 35 of this Code;
+
+compensation for harm caused to water bodies;
+
+delineation of the functions of state regulation, management, and control over the use and protection of waters and the functions of water use;
+
+participation of citizens and public associations in matters of decision-making in the field of water protection and use.
+
+Article 4. Objects of relations in the field of water protection and use
+
+The objects of relations in the field of water protection and use are:
+
+waters;
+
+water bodies (their parts);
+
+the right of water use.
+
+Article 5. Classification of surface water bodies
+
+Surface water bodies are divided into:
+1.1. watercourses;
+1.2. reservoirs;
+1.3. springs.
+
+Watercourses are divided into:
+2.1. rivers;
+2.2. streams;
+2.3. canals.
+
+Rivers are divided into:
+3.1. large, with a length of over 500 kilometers (Berezina, Goryn, Dnieper, Zapadnaya Dvina, Zapadny Bug, Neman, Pripyat, Sozh);
+3.2. medium, with a length from 200 to 500 kilometers (Besed, Viliya, Drut, Zapadnaya Berezina, Iput, Oster, Ptich, Svisloch, Ubort, Shchara, Yaselda);
+3.3. small, with a length from 5 to 200 kilometers.
+
+Reservoirs are divided into:
+4.1. lakes (natural reservoirs);
+4.2. water reservoirs;
+4.3. ponds;
+4.4. dug ponds;
+4.5. flooded quarries.
+
+Article 6. Ecological condition (status) of surface water bodies (their parts)
+
+The ecological condition (status) of surface water bodies (their parts) is determined on the basis of hydrobiological indicators with the use of hydrochemical and hydromorphological indicators.
+The ecological condition (status) of surface water bodies (their parts) is not determined for dug ponds and technological water bodies.
+
+Hydrobiological, hydrochemical, and hydromorphological indicators are determined during the monitoring of surface waters as part of the National Environmental Monitoring System in the Republic of Belarus.
+
+The ecological condition (status) of surface water bodies (their parts) is classified as excellent, good, satisfactory, poor, and very poor.
+
+The assignment of surface water bodies (their parts) to classes of ecological condition (status) is carried out by the Ministry of Natural Resources and Environmental Protection in the manner established by it.
+
+Information on the assigned class of ecological condition (status) to surface water bodies (their parts) is reflected in the state water cadastre and is posted on the official website of the Ministry of Natural Resources and Environmental Protection.
+
+Article 7. Subjects of relations in the field of water protection and use
+
+The subjects of relations in the field of water protection and use are:
+1.1. The President of the Republic of Belarus, the Council of Ministers of the Republic of Belarus, republican bodies of state administration, local Councils of Deputies, executive and administrative bodies, as well as other state bodies within their competence (hereinafter, unless otherwise provided, - state bodies);
+1.2. other legal entities of the Republic of Belarus, as well as citizens of the Republic of Belarus, including individual entrepreneurs.
+
+The rules established by this Code apply to relations involving foreign citizens, stateless persons, foreign and international legal entities (organizations that are not legal entities), unless otherwise determined by the Constitution of the Republic of Belarus and international treaties of the Republic of Belarus.
+
+Article 8. Right of ownership of water
+
+All waters located on the territory of the Republic of Belarus constitute the exclusive property of the state.
+
+The right of ownership to extracted (withdrawn) water belongs to the water user who carried out its extraction (withdrawal) on a legal basis, unless otherwise established by legislative acts.
+
+CHAPTER 2
+STATE ADMINISTRATION IN THE SPHERE OF WATER PROTECTION AND USE
+
+Article 9. Bodies of state administration in the sphere of water protection and use
+
+State administration in the sphere of water protection and use is carried out by the President of the Republic of Belarus, the Council of Ministers of the Republic of Belarus, the Ministry of Natural Resources and Environmental Protection, the Ministry of Health, the Ministry for Emergency Situations, local Councils of Deputies, executive and administrative bodies, as well as other state bodies within their competence.
+
+Article 10. Competence of the President of the Republic of Belarus in the sphere of water protection and use
+
+The President of the Republic of Belarus in the sphere of water protection and use:
+
+determines a unified state policy;
+
+exercises other powers in accordance with the Constitution of the Republic of Belarus, this Code, and other legislative acts.
+
+Article 11. Competence of the Council of Ministers of the Republic of Belarus in the sphere of water protection and use
+
+The Council of Ministers of the Republic of Belarus in the sphere of water protection and use:
+1.1. ensures the implementation of a unified state policy;
+1.2. approves state programs;
+1.3. establishes the procedure for:
+maintaining the state water cadastre and using its data;
+issuing permits for special water use, making amendments and (or) additions to them, extending their validity period, terminating their validity, and issuing duplicates;
+issuing integrated environmental permits, making amendments and (or) additions to them, extending their validity period, terminating their validity, and issuing duplicates;
+transferring surface water bodies for lease for fish farming;
+conducting monitoring of surface waters and monitoring of groundwater and using their data;
+issuing conclusions on the possibility of extracting the volumes of groundwater declared by the water user;
+1.4. determines the procedure for the activities of basin councils;
+1.5. establishes the form of the state act for the right of isolated water use;
+1.6. carries out intergovernmental cooperation.
+
+The Council of Ministers of the Republic of Belarus also exercises other powers in the sphere of water protection and use in accordance with the Constitution of the Republic of Belarus, this Code, other laws, and acts of the President of the Republic of Belarus.
+
+Article 12. Competence of the Ministry of Natural Resources and Environmental Protection in the sphere of water protection and use
+
+The Ministry of Natural Resources and Environmental Protection in the sphere of water protection and use:
+1.1. takes measures to implement the unified state policy;
+1.2. develops drafts of state programs;
+1.3. coordinates the activities of state bodies and organizations;
+1.4. organizes the monitoring of surface waters and groundwater;
+1.5. establishes water quality standards for surface water bodies;
+1.6. determines the requirements for establishing standards for permissible discharges of chemical and other substances in wastewater;
+1.7. organizes the development of draft river basin management plans and draft water management balances with the participation of interested state bodies (organizations), and also establishes the requirements for their development, compilation, and formalization;
+1.8. jointly with the Ministry of Health, maintains the state water cadastre;
+1.9. establishes the procedure for assigning a surface water body (its part) to classes of ecological condition (status) and carries out its assignment to the corresponding class of ecological condition (status);
+1.10. approves, in agreement with the Ministry of Agriculture and Food and the National Academy of Sciences of Belarus, a list of surface water bodies used for the reproduction, feeding, wintering, and migration of fish species of the salmon-like and sturgeon-like orders;
+1.11. approves the list of regulated pollutants in wastewater;
+1.12. approves the composition of basin councils;
+1.13. establishes requirements for the development of technological standards for water use, a list of types of economic activity and criteria, in relation to which technological standards for water use are developed;
+1.14. establishes requirements for maintaining records of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment;
+1.15. establishes requirements for the development of projects for water protection zones and coastal strips;
+1.16. establishes requirements for the maintenance of surface water bodies in proper condition and their improvement, approves a list of specialized organizations engaged in activities in the field of environmental protection that may be involved in the development of a set of measures aimed at maintaining surface water bodies in proper condition;
+1.17. exercises control over the use and protection of waters in accordance with the legislation on control (supervisory) activities, on the protection of the environment;
+1.18. presents claims to legal entities and (or) citizens, including individual entrepreneurs, who have caused harm to the environment, and brings lawsuits to court for compensation of harm caused to the environment, declares claims for compensation of harm caused to the environment in summary proceedings;
+1.19. receives free of charge, in accordance with the legislation, from state bodies (organizations), water users, information necessary for the performance of its tasks;
+1.20. ensures the fulfillment of obligations arising from international treaties of the Republic of Belarus.
+
+The Ministry of Natural Resources and Environmental Protection exercises other powers in the sphere of water protection and use in accordance with this Code and other legislative acts.
+
+**Article 13. Competence of local Councils of Deputies, executive and administrative bodies in the sphere of water protection and use**
+
+1.  Local Councils of Deputies in the sphere of water protection and use, within their powers, shall:
+    1.1. approve regional complexes of measures that ensure the implementation of state programs, providing for financing from local budgets (hereinafter - regional complexes of measures);
+    1.2. make decisions on granting surface water bodies for lease for fish farming and determine the rates of payments.
+2.  Local executive and administrative bodies in the sphere of water protection and use shall:
+    2.1. form and submit for approval to the local Councils of Deputies the regional complexes of measures and take steps for their implementation;
+    2.2. make decisions on the provision and withdrawal of surface water bodies (their parts) for isolated water use for household-drinking, hydropower, and defense needs, and issue state acts for the right of isolated water use;
+    2.3. approve river basin management plans and water management balances (in the absence of approved river basin management plans);
+    2.4. determine the places for using surface water bodies for recreation, sports, and tourism, as well as specific places (sites) for carrying out improvement works on surface water bodies on public lands and reserve lands, and ensure the maintenance of surface water bodies in proper condition and their improvement on public lands and reserve lands;
+    2.5. approve projects for water protection zones and coastal strips, establish the boundaries of water protection zones and coastal strips;
+    2.6. ensure the maintenance in proper condition of surface water bodies, water protection zones, and coastal strips, compliance with the regime of economic and other activities on public lands and reserve lands located within the boundaries of such territories, as well as the designation of these boundaries on the ground with informational signs;
+    2.7. determine the places for the withdrawal of surface water for street-washing works on public lands of populated areas;
+    2.8. conclude lease agreements for surface water bodies for fish farming;
+    2.9. ensure the liquidation of abandoned and unusable hydraulic structures and devices, including water intake structures, in case it is impossible to identify their owner.
+3.  Local Councils of Deputies, executive and administrative bodies shall exercise other powers in the sphere of water protection and use in accordance with this Code and other legislative acts.
+
+**Article 14. State and other programs, regional complexes of measures in the sphere of water protection and use**
+
+1.  State and other programs, regional complexes of measures in the sphere of water protection and use are developed for the purpose of rational (sustainable) use of water resources, conservation and restoration of water bodies, and achievement of a good and excellent ecological condition (status) of surface water bodies (their parts).
+2.  State programs in the sphere of water protection and use are developed by the Ministry of Natural Resources and Environmental Protection jointly with interested state bodies (organizations) and are approved by the Council of Ministers of the Republic of Belarus.
+3.  Regional complexes of measures in the sphere of water protection and use are divided into:
+    3.1. oblast (city of Minsk);
+    3.2. rayon.
+4.  Regional complexes of measures in the sphere of water protection and use are formed by local executive and administrative bodies in accordance with state programs in the sphere of water protection and use, in agreement with the territorial bodies of the Ministry of Natural Resources and Environmental Protection, and are approved by the local Councils of Deputies.
+
+**Article 15. River basin management plans**
+
+1.  River basin management plans are developed for the purpose of conservation and restoration of water bodies, as well as for the integrated use of water resources for the basins of the Dnieper, Zapadnaya Dvina, Zapadny Bug, Neman, and Pripyat rivers.
+2.  River basin management plans are developed taking into account the data of the state water cadastre, the state subsoil cadastre, monitoring of surface waters and groundwater, and recommendations of basin councils.
+3.  River basin management plans include:
+    3.1. an assessment of the quantitative and qualitative indicators of the state of waters within the river basin;
+    3.2. measures to determine the ecological condition (status) of surface water bodies (their parts) in the event that such a condition (status) has not been determined;
+    3.3. identification of the ecological problems of the river basin and ways to solve them;
+    3.4. a scheme for the placement of observation points of the state observation network for the condition of surface and groundwater;
+    3.5. the results of research on the prospective use of water resources;
+    3.6. water management balances;
+    3.7. measures aimed at improving the ecological condition (status) of surface water bodies (their parts), deadlines, and expected indicators of their implementation.
+4.  River basin management plans are developed for a period of 5 to 10 years.
+5.  The Ministry of Natural Resources and Environmental Protection organizes the development of draft river basin management plans with the participation of interested state bodies (organizations) and has the right to receive, free of charge, from state bodies (organizations) and water users the information necessary for their development.
+6.  River basin management plans are approved by a joint decision of the oblast, Minsk city executive committees, on whose territory the corresponding river basin is located.
+7.  The requirements for the development, composition, and formalization of draft river basin management plans are established by the Ministry of Natural Resources and Environmental Protection.
+
+**Article 16. Water management balances**
+
+1.  Water management balances are calculation materials that allow for the comparison of the demand for water with the quantity and quality of available water resources at a given time in a specific territory.
+2.  The purpose of compiling water management balances is to assess the sufficiency of water resources within a selected territory to meet the needs of water users, while preventing the depletion of water resources and the deterioration of water quality in water bodies.
+3.  Water management balances are developed:
+    3.1. as part of river basin management plans;
+    3.2. for individual administrative-territorial units (oblasts and the city of Minsk) in the absence of approved river basin management plans.
+4.  The Ministry of Natural Resources and Environmental Protection organizes the development of draft water management balances with the participation of interested state bodies (organizations).
+    Draft water management balances are approved by oblast, Minsk city executive committees.
+5.  The requirements for the development, composition, and formalization of water management balances are established by the Ministry of Natural Resources and Environmental Protection.
+
+**CHAPTER 3**
+**RIGHTS AND OBLIGATIONS OF CITIZENS AND PUBLIC ASSOCIATIONS IN THE SPHERE OF WATER PROTECTION AND USE. BASIN COUNCILS**
+
+**Article 17. Rights of citizens and public associations in the sphere of water protection and use**
+
+1.  Citizens and public associations in the sphere of water protection and use have the right to:
+    1.1. participate in the implementation of measures for the protection and rational (sustainable) use of water resources, and in the work of basin councils;
+    1.2. initiate the holding of a public ecological expert review in the established manner;
+    1.3. receive, in accordance with the legislation, ecological information in the sphere of water protection and use;
+    1.4. file lawsuits in court for compensation of ecological damage.
+2.  Legislation may define other rights of citizens and public associations in the sphere of water protection and use.
+
+**Article 18. Obligations of citizens and public associations in the sphere of water protection and use**
+
+1.  Citizens and public associations in the sphere of water protection and use are obliged to:
+    1.1. comply with the legislation on the protection and use of waters;
+    1.2. compensate, in the manner established by law, for the harm caused to the environment;
+    1.3. comply with the requirements (prescriptions) of state bodies and officials exercising control over the use and protection of waters.
+2.  Public associations engaged in activities in the sphere of water protection and use shall report to the territorial bodies of the Ministry of Natural Resources and Environmental Protection, local executive and administrative bodies about identified cases of irrational use of water resources, pollution, and obstruction of waters, and other violations of the legislation on the protection and use of waters.
+3.  Legislative acts may define other obligations of citizens and public associations in the sphere of water protection and use.
+
+**Article 19. Basin councils**
+
+1.  Basin councils are created for the purpose of developing recommendations for the protection and rational (sustainable) use of water resources for the basins of the Dnieper, Zapadnaya Dvina, Zapadny Bug, Neman, and Pripyat rivers.
+2.  Basin councils are interdepartmental and inter-territorial advisory bodies. The decisions of basin councils are of a recommendatory nature and are sent to the respective local executive and administrative bodies, and to the Ministry of Natural Resources and Environmental Protection.
+    The decisions of basin councils are taken into account when developing river basin management plans, as well as when developing programs and regional complexes of measures in the sphere of water protection and use within the boundaries of river basins.
+3.  The composition of basin councils includes representatives of state bodies, water users, as well as public associations and scientific organizations.
+4.  The procedure for the activities of basin councils is determined by the Council of Ministers of the Republic of Belarus.
+    The composition of basin councils is approved by the Ministry of Natural Resources and Environmental Protection.
+
+**CHAPTER 4**
+**STANDARDIZATION IN THE SPHERE OF WATER PROTECTION AND USE**
+
+**Article 20. Standards in the sphere of water protection and use**
+
+Standardization in the sphere of water protection and use consists of the development, approval, and implementation of:
+*   water quality standards for surface water bodies;
+*   hygienic safety standards for water in water bodies for household-drinking and cultural-domestic (recreational) use;
+*   standards for permissible discharges of chemical and other substances in wastewater;
+*   technological standards for water use.
+
+**Article 21. Water quality standards for surface water bodies**
+
+1.  Water quality standards for surface water bodies are established for the purpose of ensuring favorable conditions for the reproduction of aquatic biological resources and the safety of products derived from them.
+2.  Water quality standards for surface water bodies include:
+    2.1. indicators of water quality in surface water bodies;
+    2.2. maximum permissible concentrations of chemical and other substances in the water of surface water bodies.
+3.  Indicators of water quality in surface water bodies are established depending on the classification of these bodies:
+    3.1. to surface water bodies used for the reproduction, feeding, wintering, and migration of fish species of the salmon-like and sturgeon-like orders;
+    3.2. to surface water bodies not specified in subparagraph 3.1 of this paragraph.
+4.  The list of surface water bodies used for the reproduction, feeding, wintering, and migration of fish species of the salmon-like and sturgeon-like orders is approved by the Ministry of Natural Resources and Environmental Protection in agreement with the Ministry of Agriculture and Food and the National Academy of Sciences of Belarus.
+5.  Water quality standards for surface water bodies are established by the Ministry of Natural Resources and Environmental Protection.
+6.  Water quality standards for surface water bodies are not established for dug ponds and technological water bodies.
+
+**Article 22. Hygienic safety standards for water in water bodies for household-drinking and cultural-domestic (recreational) use**
+
+1.  Hygienic safety standards for water in water bodies for household-drinking and cultural-domestic (recreational) use are established for surface and groundwater for the purpose of protecting public health.
+2.  Hygienic safety standards for water in water bodies for household-drinking and cultural-domestic (recreational) use include:
+    2.1. maximum permissible concentrations of chemical substances in the water of water bodies;
+    2.2. approximate permissible levels of chemical substances in the water of water bodies;
+    2.3. organoleptic indicators;
+    2.4. microbiological indicators;
+    2.5. radiological safety indicators.
+3.  Hygienic safety standards for water in water bodies for household-drinking and cultural-domestic (recreational) use are approved by the Council of Ministers of the Republic of Belarus.
+4.  Hygienic safety standards for water in water bodies for household-drinking and cultural-domestic (recreational) use are not established for dug ponds and technological water bodies.
+
+**Article 23. Standards for permissible discharges of chemical and other substances in wastewater**
+
+1.  Standards for permissible discharges of chemical and other substances in wastewater are established for the purpose of preventing the pollution of surface water bodies.
+2.  Standards for permissible discharges of chemical and other substances in wastewater are established for each pollutant included in the list of regulated pollutants in wastewater, approved by the Ministry of Natural Resources and Environmental Protection.
+3.  Standards for permissible discharges of chemical and other substances in wastewater include:
+    3.1. the permissible concentration of pollutants in wastewater discharged into a surface water body (milligrams per cubic decimeter);
+    3.2. the maximum permissible mass of pollutants in wastewater discharged into a surface water body over a specific period of time (tons per year).
+4.  The establishment of standards for permissible discharges of chemical and other substances in wastewater is carried out taking into account the water quality standards of surface water bodies.
+    The requirements for establishing standards for permissible discharges of chemical and other substances in wastewater are determined by the Ministry of Natural Resources and Environmental Protection.
+5.  Standards for permissible discharges of chemical and other substances in wastewater are developed by water users and are established by the territorial bodies of the Ministry of Natural Resources and Environmental Protection in permits for special water use and integrated environmental permits.
+6.  In the event that the process of reconstruction, modernization, or capital repair of wastewater treatment facilities does not ensure the achievement of standards for permissible discharges of chemical and other substances in wastewater, as well as during the period of commissioning works at such facilities or their reaching design capacity, temporary standards for permissible discharges of chemical and other substances in wastewater may be established.
+    Temporary standards for permissible discharges of chemical and other substances in wastewater are developed by water users and are established by the territorial bodies of the Ministry of Natural Resources and Environmental Protection in permits for special water use and integrated environmental permits for a period of 1 to 3 years.
+
+**Article 24. Technological standards for water use**
+
+1.  Technological standards for water use consist of:
+    1.1. technological standards for water consumption, which represent a calculated and justified quantity of water, taking into account its quality, necessary for the production process, established per unit of manufactured product, used raw materials, or materials;
+    1.2. technological standards for wastewater disposal, which represent a calculated and justified quantity of wastewater of a specified quality, formed during the production process, established per unit of manufactured product, used raw materials, or materials.
+2.  Technological standards for water use are divided into sectoral and individual technological standards for water use.
+3.  Sectoral technological standards for water use represent consolidated norms for water consumption and wastewater disposal, which are developed for a specific branch of the economy for the purposes of planning and controlling water consumption, as well as the discharge of industrial wastewater. Sectoral technological standards for water use are approved by the respective republican bodies of state administration, other state organizations subordinate to the Government of the Republic of Belarus, in agreement with the Ministry of Natural Resources and Environmental Protection.
+4.  Individual technological standards for water use are developed in the absence of sectoral technological standards for water use or for the purpose of clarifying the volumes of water consumption and wastewater disposal for a specific production. Individual technological standards for water use are developed and approved by legal entities and individual entrepreneurs engaged in the production of products, use of raw materials, and materials in a production process associated with water consumption and wastewater disposal, with the exception of cases provided for by legislative acts.
+5.  Legal entities and individual entrepreneurs engaged in special water use shall submit the approved individual technological standards for water use as part of the documents for obtaining permits for special water use and integrated environmental permits in the cases provided for in paragraph 4 of this article.
+6.  The requirements for the development of technological standards for water use, the list of types of economic activity, and the criteria in relation to which technological standards for water use are developed, are established by the Ministry of Natural Resources and Environmental Protection.
+
+**CHAPTER 5**
+**DESIGN, CONSTRUCTION, LIQUIDATION, AND COMMISSIONING OF SURFACE WATER BODIES AND OBJECTS AFFECTING WATER BODIES**
+
+**Article 25. General requirements for the design, construction, and liquidation of surface water bodies and objects affecting water bodies**
+
+1.  The construction and liquidation of surface water bodies, with the exception of the case provided for in paragraph 2 of this article, as well as buildings, structures, and other objects affecting water bodies, are carried out on the basis of project documentation.
+2.  The construction and liquidation of dug ponds located within the boundaries of land plots provided to citizens in the established manner are carried out without project documentation.
+    Dug ponds are constructed within the boundaries of land plots provided to citizens in the established manner, at a distance of at least 3 meters from the shoreline to the boundaries of the adjacent plot, and in accordance with the requirements of the legislation in the field of architectural, urban planning, and construction activities.
+3.  When designing and constructing buildings, structures, and other objects affecting water bodies, measures must be provided to ensure:
+    3.1. rational (sustainable) use of water resources;
+    3.2. accounting for the quantity and control of the quality of extracted (withdrawn) waters and discharged wastewater;
+    3.3. protection of waters from pollution and obstruction, as well as the prevention of harmful effects on water bodies;
+    3.4. application of the best available technical methods;
+    3.5. prevention of emergency situations;
+    3.6. financial guarantees for the implementation of planned measures for the protection and rational (sustainable) use of water resources;
+    3.7. prevention of flooding, waterlogging, salinization of lands, and soil erosion.
+4.  During the construction of buildings, structures, and other objects affecting water bodies, the use of water resources is carried out in accordance with the project documentation.
+
+**Article 26. Conditions for the commissioning of buildings, structures, and other objects affecting water bodies**
+
+The commissioning of buildings, structures, and other objects affecting water bodies is carried out under the condition of:
+*   full implementation of the measures provided for in paragraph 3 of Article 25 of this Code;
+*   organization of instrumental accounting of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment, with the use of water flow (volume) meters for extracted groundwater, withdrawn surface water, and wastewater discharged into the environment (hereinafter - water flow (volume) measuring instruments);
+*   equipping wastewater discharge points with automated control systems for the discharge of pollutants in wastewater in cases provided for by technical normative legal acts, approved by the Ministry of Natural Resources and Environmental Protection, which are mandatory for compliance;
+*   the presence of water-regulating devices and instruments for measuring the flow (volume) of water at water intake structures;
+*   the presence of structures and devices that prevent harmful effects on surface water bodies;
+*   the presence of fish protection devices on structures for water withdrawal from surface water bodies;
+*   compliance with the conditions specified in the conclusions of state expert reviews, including the state ecological expert review, in cases where such expert reviews are provided for by law;
+*   equipping vessels with devices to prevent pollution of surface water bodies, classified as inland waterways, with wastewater, including oily wastewater.
+
+**Article 27. Requirements for performing work on surface water bodies**
+
+1.  The performance of works related to changing and (or) straightening the channel of a river or stream and (or) enclosing a section of a river or stream in a culvert, as well as deepening the bottom of a river, stream, or lake, with the exception of defense and military infrastructure objects, objects of the State Border infrastructure of the Republic of Belarus, objects related to the performance of urgent dredging and straightening works on inland waterways, and land reclamation objects for which water intakes and main canals are being restored to project parameters, is carried out on the basis of project documentation that has passed a state ecological expert review in the manner prescribed by the legislation on state ecological expert review, strategic ecological assessment, and environmental impact assessment.
+2.  The performance of works on surface water bodies that have a harmful effect on the state of fish resources, with the exception of works performed on the basis of project documentation subject to state expert reviews, is carried out in coordination with the territorial bodies of the Ministry of Natural Resources and Environmental Protection.
+3.  Works on surface water bodies related to the liquidation of emergency situations and (or) their consequences are performed without coordination with the territorial bodies of the Ministry of Natural Resources and Environmental Protection.
+4.  The performance of urgent channel works on surface water bodies classified as inland waterways is carried out in accordance with the legislation on inland water transport.
+5.  The performance of works on the maintenance of surface water bodies in proper condition and their improvement is carried out in accordance with the requirements of paragraph 1 of this article and Article 27.1 of this Code.
+
+**Article 27.1. Maintenance of surface water bodies in proper condition and their improvement**
+
+1.  The maintenance of surface water bodies in proper condition is carried out for the purpose of their sustainable functioning (the ability of surface water bodies to preserve their ecological condition (status) and favorable conditions for the reproduction of aquatic biological resources under the influence of natural and anthropogenic factors).
+2.  The maintenance of surface water bodies in proper condition is ensured by:
+    *   local executive and administrative bodies on public lands and reserve lands;
+    *   legal entities and citizens, including individual entrepreneurs, who use surface water bodies under the right of isolated and (or) special water use, lease, or who have surface water bodies located within the boundaries of land plots provided to them in the established manner.
+    The maintenance of surface water bodies in proper condition is carried out at the expense of local budgets, the own funds of the water users specified in the third paragraph of the first part of this paragraph, and other sources not prohibited by law.
+3.  The maintenance of surface water bodies in proper condition provides for the performance of works in accordance with ecological, sanitary-hygienic, and other requirements of normative legal acts, including technical normative legal acts mandatory for compliance, which include:
+    3.1. sanitary cleaning of surface water bodies;
+    3.2. cleaning and repair of improvement elements on surface water bodies;
+    3.3. other works on the maintenance of surface water bodies in proper condition.
+4.  If, according to the results of monitoring of surface waters, local monitoring conducted as part of the National Environmental Monitoring System in the Republic of Belarus, industrial observations in the field of environmental protection, and the rational use of natural resources, as well as the sampling and measurements in the field of environmental protection carried out within the framework of control (supervisory) activities, it is established that the condition of surface water bodies does not meet a good or excellent ecological condition (status), the local executive and administrative bodies and water users specified in the third paragraph of the first part of paragraph 2 of this article are obliged to take measures to develop a set of measures aimed at maintaining surface water bodies in proper condition, with its subsequent implementation.
+    The development of a set of measures aimed at maintaining surface water bodies in proper condition is carried out with the involvement of specialized organizations engaged in activities in the field of environmental protection, which conduct surveys of surface water bodies for the purpose of:
+    *   determining the species diversity of fish and their breeding, feeding, wintering, and migration sites;
+    *   identifying the causes of the deterioration of the ecological condition (status) of surface water bodies and fish kills;
+    *   developing recommendations for maintaining surface water bodies in proper condition and improving their ecological condition (status).
+    The list of specialized organizations specified in the second part of this paragraph, which may be involved in the development of a set of measures aimed at maintaining surface water bodies in proper condition, is approved by the Ministry of Natural Resources and Environmental Protection.
+    The implementation of a set of measures aimed at maintaining surface water bodies in proper condition is carried out after notifying the local executive and administrative bodies.
+5.  The improvement of surface water bodies is carried out on public lands, reserve lands, and (or) in places of use of surface water bodies for recreation, sports, and tourism, determined by local executive and administrative bodies, and on territories adjacent to them within the boundaries of water protection zones. In this case, the specific places (sites) for carrying out works on the improvement of surface water bodies on public lands and reserve lands are determined by the local executive and administrative bodies.
+6.  The performance of works on the improvement of surface water bodies is ensured by:
+    *   local executive and administrative bodies on public lands and reserve lands;
+    *   legal entities and citizens, including individual entrepreneurs, who use surface water bodies under the right of isolated and (or) special water use, lease, or who have surface water bodies located within the boundaries of land plots provided to them in the established manner.
+    The improvement of surface water bodies is carried out at the expense of local budgets, the own funds of the water users specified in the third paragraph of the first part of this paragraph, and other sources not prohibited by law.
+7.  The requirements for the maintenance of surface water bodies in proper condition and their improvement, including a list of works, the procedure for developing a set of measures aimed at maintaining surface water bodies in proper condition, and the deadline for its implementation, are established by the Ministry of Natural Resources and Environmental Protection.
+8.  The requirements of this article do not apply to inland waterways and objects related to ensuring the safety of navigation, the maintenance of which is carried out in accordance with the legislation on inland water transport, land reclamation objects, the maintenance of which is carried out in accordance with the legislation on land reclamation, as well as dug ponds built within the boundaries of land plots provided to legal entities, citizens, including individual entrepreneurs, in the established manner, and technological water bodies.
+
+**CHAPTER 6**
+**WATER USE**
+
+**Article 28. Types of water use**
+
+Water use is divided into the following types:
+*   general;
+*   special;
+*   isolated.
+
+**Article 29. General water use**
+
+1.  General water use is carried out by legal entities, citizens, including individual entrepreneurs, free of charge and without title-establishing documents.
+2.  For the purpose of protecting the life and health of the population, local executive and administrative bodies may establish prohibitions and restrictions on general water use on water bodies, including prohibitions on bathing, swimming on small vessels, and withdrawing water for household-drinking needs, unless otherwise established by the President of the Republic of Belarus.
+3.  The conditions of general water use on water bodies are brought to the attention of interested legal entities and citizens, including individual entrepreneurs, by local executive and administrative bodies through the publication of this information in the mass media and its placement on their official websites.
+4.  The right of general water use applies to dug ponds located on public lands and reserve lands.
+5.  The right of general water use does not apply to dug ponds located within the boundaries of land plots provided in the established manner to legal entities, citizens, including individual entrepreneurs, and to technological water bodies.
+
+**Article 30. Special water use**
+
+1.  Special water use includes:
+    1.1. withdrawal of surface waters with the use of water intake structures;
+    1.2. extraction of groundwater with the use of water intake structures, including self-flowing boreholes;
+    1.3. discharge of wastewater into the environment with the use of hydraulic structures and devices, including through the storm drainage system;
+    1.4. discharge of wastewater into the environment after treatment at biological treatment facilities under natural conditions (on filtration fields, underground filtration fields, in filtering trenches, sand-gravel filters), as well as through earth accumulators;
+    1.5. water use associated with the withdrawal of surface waters by mobile devices for street-washing works on objects located on public lands of populated areas, for the irrigation of agricultural lands;
+    1.6. water use associated with the regulation of water flows with the use of hydraulic units, dams, and other water-retaining structures;
+    1.7. water use associated with the extraction (withdrawal) of water for the liquidation of emergency situations and (or) their consequences;
+    1.8. water use associated with the elimination of flooding and waterlogging of lands;
+    1.9. water use associated with the extraction of groundwater concurrently with the extraction of other mineral resources;
+    1.10. water use associated with carrying out measures to protect aquifers.
+2.  Special water use is carried out on the basis of permits for special water use or integrated environmental permits issued by the territorial bodies of the Ministry of Natural Resources and Environmental Protection, with the exception of:
+    2.1. withdrawal of surface waters in a volume of 5 or less cubic meters per day with the use of water intake structures;
+    2.2. extraction of groundwater in a volume of 5 or less cubic meters per day with the use of water intake structures, including self-flowing boreholes;
+    2.3. discharge of wastewater into the environment by citizens (with the exception of individual entrepreneurs);
+    2.4. cases specified in subparagraphs 1.5-1.10 of paragraph 1 of this article.
+3.  The issuance of permits for special water use and integrated environmental permits for the extraction of groundwater with the use of water intake structures, including self-flowing boreholes, is carried out on the basis of conclusions on the possibility of extracting the volumes of groundwater declared by water users, issued by an authorized organization subordinate to the Ministry of Natural Resources and Environmental Protection.
+4.  Permits for special water use and integrated environmental permits establish standards for permissible discharges of chemical and other substances in wastewater and the conditions for carrying out special water use, including the volumes of:
+    4.1. extraction (withdrawal) of waters;
+    4.2. receiving water from other water users;
+    4.3. transferring water to other water users;
+    4.4. using water for specific purposes;
+    4.5. water losses;
+    4.6. discharge of wastewater into the environment, including through the sewerage system.
+5.  The procedure for issuing permits for special water use, making amendments and (or) additions to them, extending their validity period, terminating their validity, and issuing duplicates, the procedure for issuing integrated environmental permits, making amendments and (or) additions to them, extending their validity period, terminating their validity, and issuing duplicates, as well as the procedure for issuing conclusions on the possibility of extracting the volumes of groundwater declared by the water user, are established by the Council of Ministers of the Republic of Belarus.
+
+**Article 31. Isolated water use**
+
+1.  Isolated water use is divided into:
+    1.1. isolated water use of surface water bodies (their parts) for household-drinking, hydropower, and defense needs;
+    1.2. isolated water use of dug ponds located within the boundaries of land plots provided in the established manner to legal entities, citizens, including individual entrepreneurs, and technological water bodies.
+2.  Surface water bodies (their parts) for isolated water use for household-drinking, hydropower, and defense needs may be provided to legal entities.
+    Surface water bodies (their parts) located wholly or partially on the territory of populated areas, as well as in other cases provided for by legislative acts, are not provided for isolated water use for household-drinking, hydropower, and defense needs.
+3.  Isolated water use of surface water bodies (their parts) for household-drinking, hydropower, and defense needs is carried out on the basis of a state act for the right of isolated water use, which specifies the purpose, conditions, and terms of isolated water use.
+    The form of the state act for the right of isolated water use is established by the Council of Ministers of the Republic of Belarus.
+4.  Legal entities interested in the provision of a surface water body (its part) for isolated water use for household-drinking, hydropower, and defense needs (hereinafter - applicants) shall submit to the local executive and administrative body, authorized in accordance with paragraph 5 of this article to make a decision on the provision of a surface water body (its part) for such purposes, an application for the provision of a surface water body (its part) for isolated water use. The application shall indicate the location of the surface water body (its part), the purpose, and the terms of isolated water use. The following shall be attached to the application:
+    4.1. a copy of the location plan of the surface water body (its part);
+    4.2. hydrological data of the surface water body (its part);
+    4.3. a plan of measures to prevent water pollution and obstruction.
+5.  Decisions on the provision or refusal to provide surface water bodies (their parts) for isolated water use for household-drinking, hydropower, and defense needs are made by:
+    5.1. rayon executive committees - in cases of providing surface water bodies (their parts) located on the territory of the corresponding rayon;
+    5.2. oblast executive committees - in cases of providing surface water bodies (their parts) located on the territory of several rayons within the corresponding oblast.
+6.  The provision of a surface water body (its part) for isolated water use for household-drinking, hydropower, and defense needs may be refused in the case that:
+    6.1. the applicant has not submitted the documents required by paragraph 4 of this article, necessary for making a decision on the provision for isolated water use of a surface water body (its part) for household-drinking, hydropower, and defense needs, or the submitted documents contain inaccurate information;
+    6.2. the requested surface water body (its part) has already been provided to another person;
+    6.3. the requested surface water body (its part) is located on a specially protected natural territory or a territory subject to special protection, the regime of protection and use of which does not provide for its use for household-drinking, hydropower, and defense needs.
+7.  The local executive and administrative body, within 30 working days from the date of receipt of the documents provided for in paragraph 4 of this article, shall make a decision on the provision or refusal to provide a surface water body (its part) for isolated water use for household-drinking, hydropower, and defense needs.
+    Within 5 working days after making a decision on the provision of a surface water body (its part) for isolated water use for household-drinking, hydropower, and defense needs, the local executive and administrative body shall issue a state act for the right of isolated water use and send it to the applicant.
+    A copy of the state act for the right of isolated water use is sent by the local executive and administrative body to the Ministry of Natural Resources and Environmental Protection.
+    In the case of a decision to refuse the provision of a surface water body (its part) for isolated water use for household-drinking, hydropower, and defense needs, the local executive and administrative body shall, within 5 working days after making such a decision, send a copy of it to the applicant.
+8.  A decision to refuse the provision of a surface water body (its part) for isolated water use for household-drinking, hydropower, and defense needs may be appealed to higher state bodies and (or) to a court.
+9.  Obtaining a state act for the right of isolated water use does not exclude the need to obtain a permit for special water use or an integrated environmental permit in the cases provided for in paragraph 2 of Article 30 of this Code.
+10. Water users to whom surface water bodies (their parts) are provided for isolated water use for household-drinking, hydropower, and defense needs are obliged to install informational signs containing information on the regime of economic and other activities on such water bodies (their parts), to publish this information in the mass media, and to post it on the official websites of local executive and administrative bodies.
+11. Isolated water use of dug ponds located within the boundaries of land plots provided in the established manner to legal entities, citizens, including individual entrepreneurs, and technological water bodies is carried out on the basis of documents certifying the rights to the land plots.
+
+**Article 32. Lease of surface water bodies for fish farming**
+
+1.  Surface water bodies may be provided for lease for fish farming under lease agreements concluded by local executive and administrative bodies on the basis of decisions made by local Councils of Deputies.
+2.  Ponds and flooded quarries may be provided for lease for fish farming in the manner and on the conditions established by the Council of Ministers of the Republic of Belarus.
+3.  The provision for lease for fish farming of ponds and flooded quarries is not permitted if they:
+    3.1. are provided for isolated water use for household-drinking, hydropower, and defense needs;
+    3.2. are included in the republican comprehensive scheme for the placement of fishing grounds;
+    3.3. are located wholly or partially on the territory of populated areas;
+    3.4. are located on the territory of rare and typical biotopes, habitats of animals, and habitats of plants belonging to species included in the Red Book of the Republic of Belarus or protected in accordance with international treaties of the Republic of Belarus;
+    3.5. are not included in the republican comprehensive scheme for the placement of ponds and flooded quarries suitable for fish farming.
+4.  A lessee is not entitled to sublease the surface water bodies transferred to them under a lease agreement.
+5.  The conclusion of a lease agreement for a surface water body for fish farming does not exclude the need to obtain a permit for special water use or an integrated environmental permit in the event that the technology of fish farming provides for the discharge of wastewater into surface waters.
+6.  The return of the leased surface water body is carried out by the lessee after carrying out measures to restore its disturbed condition.
+
+**Article 33. Terms of water use**
+
+1.  Water bodies may be provided for use for a term of 1 year to 25 years, unless otherwise established by the President of the Republic of Belarus.
+2.  Water bodies for special water use are provided for a term of:
+    2.1. from 1 year to 3 years - to water users upon the establishment of temporary standards for permissible discharges of chemical and other substances in wastewater;
+    2.2. for 5 years - to other water users, with the exception of cases provided for in subparagraphs 2.1, 2.3, and 2.4 of this paragraph;
+    2.3. from 5 to 10 years - to water users who receive integrated environmental permits;
+    2.4. for 10 years - to water users who only carry out the extraction (withdrawal) of water.
+3.  The term of special water use is indicated in permits for special water use and integrated environmental permits.
+4.  Surface water bodies (their parts) for isolated water use for household-drinking, hydropower, and defense needs are provided for 25 years. The provision of surface water bodies (their parts) for isolated water use for household-drinking, hydropower, and defense needs for a shorter period may be carried out only with the consent of the water user to whom they are provided. The term of isolated water use of surface water bodies (their parts) for household-drinking, hydropower, and defense needs is indicated in the state act for the right of isolated water use.
+    The term of isolated water use of dug ponds located within the boundaries of land plots provided in the established manner to legal entities, citizens, including individual entrepreneurs, and technological water bodies is determined by the term of use of the land plots on which they are located.
+5.  Surface water bodies are provided for lease for fish farming for a term of 5 to 25 years. The lease term of surface water bodies for fish farming is established in the lease agreement.
+
+**Article 34. Restriction and termination of the right of water use**
+
+1.  For the purposes of public benefit and safety, protection of the environment and historical-cultural values, protection of the rights and legitimate interests of legal entities and citizens, including individual entrepreneurs, the right of water use may be restricted or terminated by the President of the Republic of Belarus, the Ministry of Natural Resources and Environmental Protection or its territorial bodies, and other state bodies in the cases and in the manner determined by this Code and other legislative acts.
+2.  The right of isolated water use of surface water bodies (their parts) for household-drinking and hydropower needs, the right of special water use, as well as the right of lease of surface water bodies for fish farming are restricted in the case of:
+    2.1. violation of the conditions of water use;
+    2.2. non-compliance with the conditions established by the permit for special water use or the integrated environmental permit, or the state act for the right of isolated water use;
+    2.3. non-compliance with the requirements established by this Code and other legislative acts on the protection and use of waters, including technical normative legal acts mandatory for compliance;
+    2.4. non-compliance with the conditions established by lease agreements for surface water bodies for fish farming.
+    In the cases specified in the first part of this paragraph, water users are issued requirements (prescriptions) to eliminate the identified violations.
+3.  The right of isolated water use of surface water bodies (their parts) for household-drinking and hydropower needs, the right of special water use, and the right of lease of surface water bodies for fish farming are subject to termination in the case of:
+    3.1. disappearance of the need for water use or refusal thereof;
+    3.2. expiration of the term of water use;
+    3.3. liquidation of the legal entity or termination of the activity of the individual entrepreneur to whom the right of water use was granted;
+    3.4. transfer of hydraulic structures and devices to other water users;
+    3.5. the emergence of the need to withdraw surface water bodies (their parts) held in isolated water use, or surface water bodies leased for fish farming, for state needs.
+    State needs are recognized as needs related to ensuring national security, environmental protection and historical-cultural heritage, the placement and servicing of transport, engineering, and defense infrastructure facilities, the implementation of international treaties of the Republic of Belarus, the state scheme of integrated territorial organization of the Republic of Belarus, schemes of integrated territorial organization of oblasts, urban planning projects, general plans of cities and other populated areas, urban planning projects of detailed planning approved in accordance with the legislation, as well as the need to place real estate objects, the construction of which is provided for by decisions of the President of the Republic of Belarus or by state programs approved by the President of the Republic of Belarus or the Council of Ministers of the Republic of Belarus.
+    Compensation for losses caused by the withdrawal of surface water bodies for state needs is made by the person in whose interests the withdrawal of these water bodies is made, in accordance with civil legislation;
+    3.6. non-fulfillment by water users of the requirements (prescriptions) to eliminate the identified violations.
+4.  The restriction or termination of the right of special water use is carried out by the decision of the territorial bodies of the Ministry of Natural Resources and Environmental Protection that issued the permit for special water use or the integrated environmental permit, by suspending or terminating the validity of the permit for special water use or the integrated environmental permit.
+5.  The restriction or termination of the right of isolated water use of surface water bodies (their parts) for household-drinking and hydropower needs and for defense needs is carried out by the decision of the local executive and administrative bodies that provided the surface water bodies (their parts) for isolated water use.
+6.  The restriction or termination of the right of water use of surface water bodies leased for fish farming is carried out by the decision of the local Councils of Deputies that provided the surface water bodies for lease, or by the decision of the local executive and administrative bodies with which the lease agreement was concluded.
+7.  The right of isolated water use of dug ponds located within the boundaries of land plots provided in the established manner to legal entities, citizens, including individual entrepreneurs, and technological water bodies is terminated simultaneously with the termination of the right of use of the land plots on which they are located.
+
+**Article 35. Payments related to water use**
+
+1.  Water use is subject to payment, with the exception of general water use, isolated water use of dug ponds located within the boundaries of land plots provided in the established manner to legal entities, citizens, including individual entrepreneurs, the use of water bodies for the liquidation of emergency situations and (or) their consequences, and the use of surface water bodies for navigation needs.
+    Legislative acts may provide for other cases of using water bodies on a non-reimbursable basis.
+2.  Payments related to water use are levied in the form of a tax or rent.
+    The establishment, introduction, amendment, and termination of taxes in the sphere of water protection and use, as well as the procedure and conditions for their collection, are determined by tax legislation.
+    The amount of rent for the use of surface water bodies for fish farming, the procedure, conditions, and terms for its payment are determined in the lease agreement.
+3.  The payment for water use does not release water users from the obligations to carry out measures for the protection and rational (sustainable) use of water resources and to compensate for harm caused to the environment.
+
+**CHAPTER 7**
+**RIGHTS AND OBLIGATIONS OF WATER USERS**
+
+**Article 36. Rights of water users**
+
+1.  Water users have the right to:
+    1.1. carry out water use in accordance with the requirements established by this Code and other legislative acts, including technical normative legal acts;
+    1.2. erect, in the manner established by law, hydraulic structures and devices;
+    1.3. transfer the extracted (withdrawn) water for use to other water users on the terms determined by permits for special water use, integrated environmental permits, and agreements;
+    1.4. receive, in accordance with the legislation, ecological information in the sphere of water protection and use.
+2.  Water users may exercise other rights in accordance with the legislation.
+
+**Article 37. Obligations of water users**
+
+1.  Water users are obliged to:
+    1.1. use water rationally, take measures to reduce water losses;
+    1.2. comply with the requirements for the protection and rational (sustainable) use of water resources provided for by this Code and other legislative acts, including technical normative legal acts mandatory for compliance;
+    1.3. not to infringe upon the rights of other water users, and not to cause harm to the environment;
+    1.4. comply with the conditions of water use established in accordance with this Code;
+    1.5. comply with the regime of economic and other activities established for water protection zones and coastal strips;
+    1.6. compensate, in the manner established by law, for the harm caused to the environment;
+    1.7. ensure the maintenance of surface water bodies in proper condition and their improvement in accordance with paragraph 1 of Article 27 and Article 27.1 of this Code.
+2.  Water users who are legal entities or individual entrepreneurs, in addition to fulfilling the obligations provided for in paragraph 1 of this article, are obliged to:
+    2.1. use water bodies for the purposes for which they were provided;
+    2.2. keep records of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment;
+    2.3. conduct local monitoring of the environment, the objects of which are surface, groundwater, and wastewater, and submit primary data of local monitoring to the authorized organization subordinate to the Ministry of Natural Resources and Environmental Protection, with the exception of cases provided for by legislative acts, as well as to carry out sampling and measurements in the field of environmental protection regarding the use and protection of waters;
+    2.4. implement the best available technical methods;
+    2.5. carry out measures to reduce water losses;
+    2.6. carry out the liquidation of hydraulic structures and devices that are no longer in use;
+    2.7. maintain in proper condition the facilities for wastewater treatment;
+    2.8. comply with the rules of technical operation of hydraulic structures and devices;
+    2.9. immediately inform the bodies and units for emergency situations, the territorial bodies of the Ministry of Natural Resources and Environmental Protection, the bodies of state sanitary supervision, local executive and administrative bodies about the occurrence of emergency situations that affect or are capable of affecting the condition of water bodies, and to carry out urgent work to eliminate their consequences.
+3.  Water users must fulfill other obligations for the protection and use of waters in accordance with legislative acts.
+
+**CHAPTER 8**
+**USE OF WATER BODIES. OPERATION OF WATER MANAGEMENT SYSTEMS AND SEPARATELY LOCATED HYDRAULIC STRUCTURES AND DEVICES**
+
+**Article 38. Purposes of using water bodies**
+
+Water bodies may be used for:
+*   household-drinking needs;
+*   recreation, sports, and tourism;
+*   therapeutic (resort, health-improving) needs;
+*   fire-fighting needs;
+*   needs of agriculture;
+*   needs of industry;
+*   energy (hydroelectric and thermal power) needs;
+*   needs of inland water transport and air transport;
+*   other needs.
+
+**Article 39. Use of water bodies for household-drinking needs. Use of groundwater**
+
+1.  For household-drinking needs, surface and groundwater bodies may be used, the quality of which meets the hygienic safety standards for water in water bodies for household-drinking use, established in accordance with the legislation in the field of drinking water supply and the sanitary-epidemiological well-being of the population.
+2.  The use of groundwater is permitted for:
+    *   satisfaction of drinking, household, and hygienic needs;
+    *   production of food products, medicinal and veterinary products, as well as raw materials and materials used in their production process;
+    *   feeding and watering of animals.
+    On territories where a centralized water supply system is not organized, but there are sufficient reserves of groundwater for economic and other activities, confirmed by geological exploration work, the use of groundwater for needs not specified in the first part of this paragraph is permitted.
+    With the technical possibility of using existing centralized drinking water supply systems, the use of groundwater for needs not specified in the first part of this paragraph is permitted, provided that the pre-project (pre-investment) documentation for the construction of groundwater intake facilities is coordinated with the local executive and administrative bodies in the manner established by the legislation in the field of drinking water supply.
+3.  In the case of non-compliance of water quality with the hygienic safety standards for water in water bodies for household-drinking use, its use may be restricted or terminated by the decision of the local executive and administrative body in accordance with the submission of the chief state sanitary doctor of the corresponding territory.
+4.  Groundwater that is not fresh or mineral may be used in the established manner for the extraction of chemical and other substances contained therein, the production of thermal energy, and other needs, in compliance with the requirements of the legislation on the protection and use of waters, including technical normative legal acts mandatory for compliance.
+
+**Article 40. Use of surface water bodies for recreation, sports and tourism, therapeutic (resort, health-improving) needs**
+
+1.  For recreation, sports and tourism, therapeutic (resort, health-improving) needs, surface water bodies may be used, the quality of which meets the hygienic safety standards for water in water bodies for cultural-domestic (recreational) use, established in accordance with the legislation in the field of sanitary-epidemiological well-being of the population.
+2.  Surface water bodies are used for recreation, sports, and tourism in the presence of a positive conclusion of the state sanitary-hygienic expert review in places determined by local executive and administrative bodies, and surface water bodies classified as inland waterways, in agreement with the Ministry of Transport and Communications.
+3.  The criteria for classifying surface water bodies as water bodies that can be used for therapeutic (resort, health-improving) needs are determined by the Ministry of Health.
+
+**Article 41. Use of water bodies for fire-fighting needs**
+
+The extraction (withdrawal) of water for fire-fighting needs is permitted from any water body without a permit, free of charge, and in the quantity necessary to extinguish a fire.
+
+**Article 42. Use of surface water bodies for the needs of agriculture and industry**
+
+1.  The use of surface water bodies for the needs of agriculture is carried out in the manner of both general and special water use.
+2.  Legal entities and individual entrepreneurs may use hydraulic structures and devices for the purpose of creating and maintaining an optimal water regime for agricultural plants on agricultural lands in the manner established by the legislation on land reclamation.
+3.  Legal entities and individual entrepreneurs using surface water bodies for the needs of agriculture are obliged to comply with the rules of operation (maintenance) of land reclamation systems and separately located hydraulic structures and devices.
+4.  The passage of agricultural animals and the passage of mechanical transport through hydraulic structures and devices, as well as the use of hydraulic structures and devices for watering agricultural animals, are permitted only in places established by local executive and administrative bodies.
+5.  The use of surface water bodies for the needs of industry must be carried out in compliance with technological standards for water use.
+6.  Legal entities and individual entrepreneurs are obliged to use water resources rationally by introducing systems of recycling and sequential water supply in order to reduce the amount of discharged wastewater and reduce the demand for water associated with its extraction (withdrawal), as well as to take measures to reduce water losses.
+
+**Article 43. Use of surface water bodies for energy (hydroelectric and thermal power) needs**
+
+1.  The use of surface water bodies for energy (hydroelectric and thermal power) needs is permitted in compliance with the temperature regime of surface water bodies, established by the water quality standards for surface water bodies, as well as in compliance with the requirements of the legislation on environmental protection, and on the protection and use of the animal world.
+2.  The operation of heat pumps for heat supply using surface water bodies is permitted on the basis of project documentation.
+
+**Article 44. Use of surface water bodies for the needs of inland water transport and air transport. Specifics of using surface water bodies for navigation on small vessels**
+
+1.  The use of surface water bodies classified as inland waterways for the needs of inland water transport is carried out in accordance with the legislation in the field of inland water transport, unless otherwise established by this article.
+2.  The use of surface water bodies for the takeoff, landing, taxiing, mooring, and servicing of aircraft is carried out in accordance with the legislation on air transport.
+3.  The use of surface water bodies for navigation on small vessels is carried out in the manner established by local executive and administrative bodies in coordination with the state institution "State Inspectorate for Small Vessels," and for water bodies classified as inland waterways, also in coordination with the body for navigation safety, authorized by the Council of Ministers of the Republic of Belarus, with the exception of cases established by the President of the Republic of Belarus.
+4.  The use of surface water bodies that are sources of drinking water supply for navigation on small vessels is carried out in accordance with the legislation in the field of drinking water supply.
+5.  The use of surface water bodies that are fishing grounds for navigation on small vessels is carried out in accordance with the legislation on the protection and use of the animal world.
+6.  The use of surface water bodies located on specially protected natural territories or territories subject to special protection for navigation on small vessels is carried out in accordance with the legislation on specially protected natural territories and other legislation on environmental protection and the rational use of natural resources.
+
+**Article 45. Operation of water management systems and separately located hydraulic structures and devices**
+
+1.  The operation of water management systems and separately located hydraulic structures and devices is carried out on the basis of project documentation and in accordance with the instructions for their operation.
+2.  Instructions for the operation of water management systems and separately located hydraulic structures and devices are developed on the basis of:
+    2.1. Rules for the operation (maintenance) of land reclamation systems and separately located hydraulic structures, approved by the Council of Ministers of the Republic of Belarus;
+    2.2. Rules for the technical operation of navigable hydraulic structures, approved by the Ministry of Transport and Communications;
+    2.3. Rules for the operation of hydraulic structures and devices for energy (hydroelectric and thermal power) needs, approved by the Ministry of Energy;
+    2.4. Rules for the operation of hydraulic structures and devices at hazardous production facilities, approved by the Ministry for Emergency Situations.
+3.  Instructions for the operation of water management systems and separately located hydraulic structures and devices are developed and approved by the owners of these systems, structures, and devices or by persons authorized by them.
+4.  The maintenance in proper condition of water management systems and separately located hydraulic structures and devices is carried out by the owners of these systems, structures, and devices or by persons authorized by them.
+5.  The owners of water management systems and separately located hydraulic structures and devices, whose structures and devices are not subject to further use, are obliged to liquidate them.
+    In the event that it is impossible to identify the owner of abandoned and unusable hydraulic structures and devices, including water intake structures, their liquidation is ensured by local executive and administrative bodies.
+
+**CHAPTER 9**
+**TYPES OF WASTEWATER. REQUIREMENTS FOR WASTEWATER DISCHARGE. USE OF WATER BODIES FOR THE DISCHARGE OF WASTEWATER, QUARRY (MINE, PIT), AND DRAINAGE WATERS. INJECTION OF WATERS INTO THE SUBSOIL**
+
+**Article 46. Types of wastewater**
+
+1.  Depending on their origin, wastewater is divided into:
+    1.1. household wastewater, which is generated in residential premises, as well as in the domestic premises of industrial facilities, administrative buildings, and other objects as a result of meeting the personal (household) needs of employees and is discharged into the environment, including through the sewerage system;
+    1.2. industrial wastewater, which is generated in technological processes as a result of production activities and is discharged by industrial facilities into the environment, including through the sewerage system;
+    1.3. surface wastewater, which is generated during precipitation, snow melting, and street-washing works on the territory of populated areas, industrial facilities, construction sites, and other objects and is discharged into the environment, including through the storm drainage system.
+2.  Wastewater does not include:
+    2.1. quarry (mine, pit) waters;
+    2.2. waters from the pumping of water intake structures intended for the extraction of groundwater;
+    2.3. drainage waters;
+    2.4. waters that are formed during precipitation and snow melting and are not discharged into the environment with the use of hydraulic structures and devices;
+    2.5. waters that are formed as a result of the dissolution or dilution by atmospheric precipitation of mineral processing waste at their storage sites;
+    2.6. waters diverted from the road surface into the environment.
+
+**Article 47. Requirements for the discharge of wastewater. Use of water bodies for the discharge of wastewater**
+
+1.  The use of water bodies for the discharge of all types of wastewater may be carried out only on the basis of permits for special water use or integrated environmental permits, with the exception of the case provided for in subparagraph 2.3 of paragraph 2 of Article 30 of this Code.
+2.  The discharge of wastewater into surface water bodies is permitted if the content of pollutants in it does not exceed the standards for permissible discharges of chemical and other substances in wastewater established by the permits for special water use or integrated environmental permits.
+3.  The discharge of industrial wastewater into the environment, including through the sewerage system of populated areas, must be carried out in compliance with the conditions for receiving such wastewater into the sewerage system, established by local executive and administrative bodies in the manner determined by the Council of Ministers of the Republic of Belarus. If it is impossible to ensure the permissible concentration of pollutants in industrial wastewater discharged into surface water bodies, the concentration of these substances must be reduced through the installation of local treatment facilities.
+4.  For newly constructed or reconstructed objects, the discharge of all types of wastewater is not permitted:
+    4.1. into lakes and non-flowing reservoirs, with the exception of technological water bodies;
+    4.2. into watercourses that flow into lakes and non-flowing reservoirs, at a distance of less than 1 kilometer from such reservoirs;
+    4.3. into surface water bodies located on specially protected natural territories, as well as being rare and typical biotopes or habitats of wild animals and habitats of wild plants belonging to species included in the Red Book of the Republic of Belarus, transferred under the protection of land users and (or) users of water bodies, unless otherwise established by legislative acts;
+    4.4. into reservoirs and watercourses (at a distance of less than 1 kilometer upstream from the watercourse) on which objects of recreation, sports, and tourism are located.
+5.  The discharge into the environment of wastewater that, in accordance with project documentation, can be used after treatment and disinfection is not permitted, with the exception of the case specified in paragraph 2 of Article 49 of this Code.
+6.  The discharge into surface water bodies of chemical and other substances in wastewater, for which water quality standards for surface water bodies have not been established, is not permitted.
+7.  The discharge of all types of wastewater using the terrain (ravines, quarries, gullies, and other similar excavations in the ground), as well as on excessively moist territories (swamps), is not permitted.
+8.  The discharge of surface wastewater from snow storage sites is carried out in accordance with the requirements of technical normative legal acts approved by the Ministry of Natural Resources and Environmental Protection.
+9.  *Excluded*.
+
+**Article 48. Procedure and conditions for the discharge of quarry (mine, pit), and drainage waters into surface water bodies**
+
+1.  The discharge of quarry (mine, pit), and drainage waters into surface water bodies is carried out in accordance with project documentation.
+2.  The discharge of quarry (mine, pit), and drainage waters using the terrain (ravines, quarries, gullies, and other similar excavations in the ground) is not permitted.
+3.  Drainage waters collected from territories where objects capable of causing water pollution are located must be treated before being discharged into the environment, including through the sewerage system.
+
+**Article 49. Injection (pumping) of waters into the subsoil**
+
+1.  The injection (pumping) into the subsoil of quarry (mine, pit), drainage, and mineralized industrial waters, including those formed as a result of the dissolution or dilution by atmospheric precipitation of mineral processing waste at their storage sites, is permitted for the purpose of maintaining reservoir pressure during the development of mineral deposits, and the artificial replenishment of groundwater reserves on the basis of project documentation for the use of the subsoil and in compliance with the requirements of the legislation on the subsoil and environmental protection.
+2.  In the case that there are no technologies for the treatment of chemical and other substances in wastewater, the discharge of such waters may be carried out by their injection (pumping) into the subsoil below the occurrence of fresh and mineral waters in accordance with project documentation for the use of the subsoil and in compliance with the requirements of the legislation on the subsoil and environmental protection.
+
+**CHAPTER 10**
+**WATER PROTECTION**
+
+**Article 50. General requirements for water protection**
+
+Water protection is ensured by:
+*   standardization in the field of water protection and use;
+*   establishment of water protection zones and coastal strips and the regime of economic and other activities therein;
+*   creation and functioning of a system for monitoring surface waters and groundwater, and local monitoring;
+*   compliance with the requirements for the discharge of wastewater and the conditions for the discharge of quarry (mine, pit), and drainage waters into surface water bodies;
+*   implementation of state and other programs, regional complexes of measures in the field of water protection and use, river basin management plans, and water management balances;
+*   prevention of water pollution and obstruction, and of the surface of the ice cover of surface water bodies;
+*   establishment of liability for legal entities and citizens, including individual entrepreneurs, for violation of the legislation on the protection and use of waters.
+
+**Article 51. Protection of groundwater**
+
+1.  Legal entities and citizens, including individual entrepreneurs, whose economic and other activities exert or may exert a harmful effect on the condition of groundwater, are obliged to take measures to prevent the pollution of groundwater.
+2.  In the case of uncovering underground aquifers with drinking-quality water, legal entities and individual entrepreneurs conducting mining and other works related to the prospecting, exploration, and exploitation of mineral deposits must take measures to protect groundwater from pollution.
+3.  Hydraulic structures and devices intended for the extraction of groundwater, which are no longer in use, are subject to liquidation. In the event that it is impossible to identify the owner of such structures and devices, their liquidation is ensured by local executive and administrative bodies.
+4.  The procedure for the conservation and liquidation of hydraulic structures and devices intended for the extraction of groundwater is established by the legislation on the subsoil.
+5.  Measures for the protection of groundwater, the creation and operation of a regime network of observation wells for the condition of groundwater are carried out at the expense of legal entities and individual entrepreneurs whose activities exert a harmful effect on the condition of groundwater.
+
+**CHAPTER 11**
+**WATER PROTECTION ZONES AND COASTAL STRIPS. REGIME OF ECONOMIC AND OTHER ACTIVITIES IN WATER PROTECTION ZONES AND COASTAL STRIPS**
+
+**Article 52. Water protection zones and coastal strips**
+
+1.  Water protection zones and coastal strips are established taking into account the existing natural conditions, including the terrain relief and type of land, depending on the classification of surface water bodies and the length of rivers.
+2.  Water protection zones and coastal strips are established from the shoreline, determined by its condition during the summer period. Islands in the water area of reservoirs and watercourses are included in the coastal strips.
+3.  For canals (with the exception of subparagraph 9.2 of paragraph 9 of this article), the width of water protection zones coincides with the coastal strips and are combined with the boundaries of the land allotment, and in their absence - along the canal berm at a distance of 10 meters from its edge.
+4.  For streams and springs, the width of water protection zones coincides with the coastal strips and is 50 meters.
+5.  Water protection zones and coastal strips for reservoirs located on watercourses coincide with the water protection zones and coastal strips for these watercourses.
+6.  In populated areas, the width of water protection zones and coastal strips is established based on the approved urban planning documentation, taking into account the existing buildings, engineering support systems, and landscaping. Where embankments and storm drainage systems are present, the width of the coastal strips coincides with the parapets of the embankments. The width of water protection zones in such territories is established from the parapets of the embankments.
+7.  The minimum width of a water protection zone is established for:
+    7.1. reservoirs, small rivers - 500 meters;
+    7.2. large, medium rivers - 600 meters.
+8.  The minimum width of a coastal strip is established for:
+    8.1. reservoirs, small rivers - 50 meters;
+    8.2. large, medium rivers - 100 meters.
+9.  Water protection zones and coastal strips are not established for:
+    9.1. rivers and streams (their parts) enclosed in a closed culvert;
+    9.2. canals of land reclamation systems;
+    9.3. temporary watercourses formed by the runoff of melt or rainwater;
+    9.4. technological water bodies;
+    9.5. dug ponds.
+10. The boundaries of water protection zones and coastal strips are established by local executive and administrative bodies as part of projects for water protection zones and coastal strips, and in their absence, separately.
+11. Projects for water protection zones and coastal strips are developed for surface water bodies, with the exception of streams, springs, and canals.
+12. For surface water bodies (their parts) located on the territory of populated areas, separate projects for water protection zones and coastal strips are developed.
+13. Projects for water protection zones and coastal strips are developed by specialized organizations engaged in activities in the field of environmental protection, in accordance with the requirements established by the Ministry of Natural Resources and Environmental Protection.
+14. When developing projects for water protection zones and coastal strips, buildings and structures erected on the territory of water protection zones and coastal strips before the development of these projects and which are potential sources of water pollution, are subject to inspection in order to determine the possibility of their further functioning and operating conditions in compliance with the requirements of the legislation, including technical normative legal acts mandatory for compliance.
+15. The customer for the development of projects for water protection zones and coastal strips are the local executive and administrative bodies.
+16. Projects for water protection zones and coastal strips, as well as amendments and (or) additions made to them, are coordinated with the structural subdivisions for land management of local executive committees, organizations of the Ministry of Forestry, and are submitted for state ecological expert review.
+17. Projects for water protection zones and coastal strips are approved for:
+    17.1. large and medium rivers - by oblast (Minsk city) executive committees;
+    17.2. small rivers and reservoirs - by city or rayon executive committees;
+    17.3. water bodies within the limits of cities and urban-type settlements - by city or rayon executive committees.
+18. In the absence of approved projects for water protection zones and coastal strips, the boundaries of water protection zones and coastal strips are established by decisions of local executive and administrative bodies in accordance with paragraphs 3-8 of this article.
+19. The boundaries of water protection zones and coastal strips are designated in land management schemes, urban planning projects, the state urban planning cadastre, land cadastre documentation, forestry projects, as well as in documents certifying rights, restrictions (encumbrances) on rights to land plots.
+20. The boundaries of water protection zones and coastal strips are marked on the ground with informational signs, the form and installation locations of which are determined by the technical normative legal act of the State Committee for Standardization. The installation of informational signs is ensured by city and rayon executive and administrative bodies.
+21. Information about the boundaries of water protection zones and coastal strips, the regime of economic and other activities in water protection zones and coastal strips is brought to the attention of interested legal entities and citizens, including individual entrepreneurs, by local executive and administrative bodies through the publication of this information in the mass media and its placement on their official websites.
+22. The maintenance in proper condition of water protection zones and coastal strips, and compliance with the regime of economic and other activities therein are ensured by:
+    22.1. legal entities and citizens, including individual entrepreneurs, whose land plots are located within the boundaries of water protection zones and coastal strips;
+    22.2. local executive and administrative bodies on public lands and reserve lands located within the boundaries of water protection zones and coastal strips.
+
+**Article 53. Regime of economic and other activities in water protection zones**
+
+1.  Within the boundaries of water protection zones, the following are not permitted, unless otherwise established by the President of the Republic of Belarus:
+    1.1. application (introduction) using aviation of chemical plant protection agents and mineral fertilizers;
+    1.2. construction, operation, reconstruction, capital repair of waste disposal sites, waste neutralization facilities, and waste storage facilities (with the exception of authorized temporary storage sites for waste that exclude the possibility of waste entering surface and groundwater);
+    1.3. construction, operation, reconstruction, capital repair of storage facilities and (or) disposal sites for chemical plant protection agents;
+    1.4. stockpiling of snow containing sand-salt mixtures and anti-icing reagents;
+    1.5. placement of fields for irrigation with wastewater, cemeteries, cattle burial grounds, filtration fields, silt and sludge beds (with the exception of beds included in wastewater treatment facilities with full biological treatment and water intake structures, provided that measures for water protection provided for by project documentation are carried out on such beds);
+    1.6. washing of transport and other technical equipment;
+    1.7. establishment of summer camps for agricultural animals (places of organized keeping of agricultural animals under a grazing system);
+    1.8. felling of forests, removal, and transplantation of objects of the plant world without forestry projects, project documentation approved in the manner established by law, without a felling permit, order, or permission from the local executive and administrative body, with the exception of cases provided for by the legislation on the use, protection, and reproduction of forests, on the protection and use of the plant world, on transport, and on the State Border of the Republic of Belarus.
+2.  Within the boundaries of water protection zones, the construction, operation, reconstruction, and capital repair of objects not specified in subparagraphs 1.2-1.5 of paragraph 1 of this article are permitted, provided that measures for water protection provided for by project documentation are carried out.
+3.  Existing populated areas, industrial, agricultural, and other objects on the territory of water protection zones must be improved, equipped with a centralized sewerage system or impermeable cesspools, and other devices ensuring the prevention of water pollution and obstruction, with organized access for the removal of the contents of these devices, and storm drainage systems.
+    Livestock farms and complexes located on the territory of water protection zones must be equipped with impermeable manure storage facilities and slurry collectors, and other devices and structures ensuring the prevention of water pollution and obstruction, with organized access for the removal of the contents of these devices and structures.
+4.  The carrying out of works on the improvement of water protection zones, the restoration of improvement elements, and the placement of small architectural forms in water protection zones is carried out in accordance with the legislation in the field of architectural, urban planning, and construction activities, and on the protection and use of lands.
+5.  Legislative acts may establish other prohibitions and restrictions on economic and other activities in water protection zones.
+
+**Article 54. Regime of economic and other activities in coastal strips**
+
+1.  Within the boundaries of coastal strips, the prohibitions and restrictions specified in Article 53 of this Code apply, and the following are also not permitted:
+    1.1. at a distance of up to 10 meters horizontally from the shoreline:
+    application of all types of fertilizers and chemical plant protection agents, with the exception of their application when carrying out works related to the regulation of the distribution and abundance of wild-growing plants of certain species in accordance with the legislation on the protection and use of the plant world, and on plant protection;
+    tilling and plowing of lands (soils), with the exception of tilling lands (soils) for turfing and planting protective forests, as well as when carrying out works specified in subparagraphs 3.1-3.4 of paragraph 3 of this article;
+    1.2. fencing of land plots at a distance of less than 5 meters horizontally from the shoreline, with the exception of land plots provided for the construction and maintenance of water intake structures, objects of inland water transport, energy, fish farming, and therapeutic-health facilities, the operation of which is directly related to the use of surface water bodies;
+    1.3. placement of boat moorings and bases (structures) for the mooring of small vessels outside the places designated for these purposes, determined by local executive and administrative bodies, with the exception of cases provided for in subparagraph 2.3 of paragraph 2 of this article;
+    1.4. placement of facilities for wastewater treatment (with the exception of facilities for the treatment of surface wastewater) and treatment of wastewater sludge;
+    1.5. provision of land plots for the construction and maintenance of capital structures (buildings, structures), including residential houses, collective gardening, and dacha construction;
+    1.6. extraction of common mineral resources;
+    1.7. construction, reconstruction, capital repair, and operation of facilities for the storage of oil and oil products (with the exception of oil product warehouses belonging to organizations of inland water transport), gas stations, and vehicle service stations;
+    1.8. construction of boiler houses using solid and liquid fuel (with the exception of cases of construction of objects specified in subparagraph 2.1 of paragraph 2 of this article, provided that such boiler houses are constructed at a distance of not less than 50 meters horizontally from the shoreline);
+    1.9. construction, reconstruction, capital repair, and operation of livestock farms, complexes, and objects, including manure storage facilities and slurry collectors, and grazing of agricultural animals;
+    1.10. construction of residential houses, buildings, and structures necessary for the servicing and operation of residential houses;
+    1.11. parking of mechanical transport vehicles up to 30 meters horizontally from the shoreline, unless otherwise established by the President of the Republic of Belarus;
+    1.12. removal and transplantation of objects of the plant world, with the exception of their removal and transplantation when carrying out works on the installation and maintenance in good condition of border signs, signs of coastal navigation aids, and the development of waterways, rights-of-way of automobile and railway roads, other transport and communication lines, as well as when carrying out works specified in paragraphs 2-4 of this article, and the removal of hazardous trees.
+    1.13. main felling, reconstruction felling, harvesting of secondary forest resources and moss, and collection of forest litter and fallen leaves.
+2.  Within the boundaries of coastal strips, the following are permitted:
+    2.1. construction of rest houses and bases, boarding houses, sanatoriums, sanatorium-preventoriums, hunter's and fisherman's houses, objects of agro-ecotourism, health and sports-health camps, physical culture-sports facilities, tourist complexes (specialized tourist accommodation facilities consisting of two or more buildings, in which a complex of services for accommodation, food, and recreation is provided) provided that facilities for wastewater treatment and treatment of wastewater sludge for these objects are located outside the boundaries of the coastal strips;
+    2.2. construction of buildings and structures of rescue stations of the republican state-public association "Belarusian Republican Society for Rescue on Waters," the state institution "State Inspectorate for Small Vessels," buildings and structures necessary for the placement of the diving and rescue service of the Ministry for Emergency Situations, fire depots, and piers for water intake by fire-fighting and rescue equipment;
+    2.3. construction of buildings and structures for the storage of small vessels and other watercraft, and objects related to the activities of inland water transport;
+    2.4. construction of bridge crossings and hydraulic structures and devices, including water intake and water-regulating structures, as well as hydroelectric structures, dykes, and other objects of engineering infrastructure;
+    2.5. construction of structures and objects necessary for the protection of the State Border of the Republic of Belarus within the border zone and border strip;
+    2.6. construction of structures and objects of the State Inspectorate for the Protection of Animal and Plant Life under the President of the Republic of Belarus, intended for the fulfillment of the tasks and functions assigned to it;
+    2.7. placement of observation points of the state network of observations of the state of surface and groundwater, and hydrometeorological observations.
+3.  Within the boundaries of coastal strips, the following activities are permitted:
+    3.1. works related to the strengthening of the banks of water bodies;
+    3.2. works on the construction, maintenance, and technical servicing of engineering networks and structures that ensure the functioning of existing buildings;
+    3.3. repair and operational works on the maintenance of hydraulic structures and devices, as well as hydroelectric structures, bridges, and other structures on inland waterways;
+    3.4. works on landscaping, restoration of landscaping elements, and placement of small architectural forms;
+    3.5. works on gardening, truck farming, and beekeeping on land plots in temporary use, lifelong inheritable possession, private ownership, or lease by citizens, on the lands of populated areas, gardening partnerships, and dacha cooperatives, provided that these works are carried out at a distance of not less than 10 meters horizontally from the shoreline.
+4.  Buildings and structures, including residential houses, buildings, and structures necessary for the servicing and operation of residential houses, erected on land plots provided in accordance with the legislation on the protection and use of lands, the right to which was registered before July 24, 2008, are permitted for operation in the presence of a centralized sewerage system, wastewater collection and treatment, or an impermeable cesspool with organized access for the removal of wastewater, as well as if the construction of such objects was carried out in compliance with the requirements of the legislation, including technical normative legal acts mandatory for compliance. The reconstruction of such objects is carried out in the manner established by the legislation in the field of architectural, urban planning, and construction activities, provided that an increase in production capacity and capacity, and an increase in the building area with the use of technologies, materials, and structural solutions that prevent water pollution and obstruction are not permitted.
+5.  For dug ponds, with the exception of dug ponds located within the boundaries of land plots provided to citizens in the established manner, at a distance of up to 10 meters horizontally from the shoreline, the application of all types of fertilizers and chemical plant protection agents, and the plowing of lands (soils) are not permitted, with the exception of the cultivation of lands (soils) for turfing.
+6.  Legislative acts may establish other prohibitions and restrictions on economic and other activities in coastal strips.
+
+**CHAPTER 12**
+**MONITORING OF SURFACE WATERS AND MONITORING OF GROUNDWATER. LOCAL MONITORING. ACCOUNTING FOR EXTRACTED GROUNDWATER, WITHDRAWN SURFACE WATER, AND WASTEWATER DISCHARGED INTO THE ENVIRONMENT. STATE WATER CADASTRE. CONTROL OVER THE USE AND PROTECTION OF WATERS**
+
+**Article 55. Monitoring of surface waters and monitoring of groundwater**
+
+1.  Monitoring of surface waters and monitoring of groundwater constitute a system of regular observations of the state of surface and groundwater, respectively, based on hydrological, hydromorphological, hydrochemical, hydrobiological, and other indicators, and the assessment and forecast of its changes.
+2.  Monitoring of surface waters and monitoring of groundwater are types of environmental monitoring and are conducted as part of the National Environmental Monitoring System in the Republic of Belarus in accordance with the legislation on environmental protection.
+3.  Observations for the purposes of monitoring surface waters and monitoring of groundwater are carried out at observation points of the state network of observations of the state of surface and groundwater.
+4.  The procedure for conducting monitoring of surface waters and monitoring of groundwater and the use of their data is established by the Council of Ministers of the Republic of Belarus.
+5.  The protection of observation points of the state network of observations of the state of groundwater is carried out by the land users within the boundaries of the land plots on which such observation points are located. In cases where the observation points of the state network of observations of the state of groundwater are located within the boundaries of land plots classified as public lands or reserve lands, the protection of such observation points is ensured by the local executive and administrative body.
+
+**Article 56. Local monitoring**
+
+1.  Local monitoring, the object of observation of which is wastewater and surface waters, and local monitoring, the object of observation of which is groundwater, are types of environmental monitoring and are conducted as part of the National Environmental Monitoring System in the Republic of Belarus.
+2.  The list of objects, parameters, and frequency of observations during the conduct of the types of local monitoring provided for in paragraph 1 of this article, as well as the list of legal entities and individual entrepreneurs conducting such types of local monitoring, are determined by the Ministry of Natural Resources and Environmental Protection.
+3.  Legal entities and individual entrepreneurs who discharge wastewater directly into surface water bodies or through the sewerage system of populated areas, with the exception of cases provided for by legislative acts, are obliged to conduct local monitoring, the object of observation of which is wastewater and surface waters:
+    3.1. at the points of wastewater discharge into the surface water body or the sewerage system;
+    3.2. at background cross-sections located upstream from the wastewater discharge points;
+    3.3. at control cross-sections located downstream from the wastewater discharge points.
+    The location of control and background cross-sections is determined in accordance with the technical normative legal acts approved and enacted by the Ministry of Natural Resources and Environmental Protection, which are mandatory for compliance.
+4.  Legal entities and individual entrepreneurs who operate objects that have a harmful effect on groundwater, with the exception of cases provided for by legislative acts, are obliged to conduct local monitoring, the object of observation of which is groundwater, at the locations of identified or potential sources of their pollution, at observation points, including observation wells and (or) pits.
+
+**Article 57. Accounting for extracted groundwater, withdrawn surface water, and wastewater discharged into the environment**
+
+1.  Legal entities and individual entrepreneurs engaged in economic and other activities are obliged to keep records of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment.
+2.  The accounting of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment is kept by legal entities and individual entrepreneurs with the use of water flow (volume) measuring instruments that have undergone metrological assessment in the manner established by the legislation on ensuring the uniformity of measurements, with the exception of the cases specified in paragraph 3 of this article.
+    The measurement of the volumes of wastewater discharged into the environment is carried out at each treatment facility at a location determined by the project documentation. In the event that it is impossible to install (operate) water flow (volume) measuring instruments at the treatment facilities, their installation on pipelines transporting wastewater for treatment is permitted, provided that the total volume of wastewater entering the treatment is accounted for.
+3.  The installation of water flow (volume) measuring instruments is not required, and the accounting of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment by non-instrumental (calculation) methods is permitted in the case of:
+    3.1. discharge of surface wastewater;
+    3.2. discharge of wastewater into the environment in a volume of 5 or less cubic meters per day. In this case, the volume of discharged wastewater is taken as equal to the volume of extracted (withdrawn) water according to the readings of the water flow (volume) measuring instruments installed at the water intake structures, with a coefficient of 0.7;
+    3.3. extraction (withdrawal) of water from water bodies and the discharge of wastewater into them during fish farming;
+    3.4. extraction (withdrawal) of water that is incidentally formed during the extraction of mineral resources;
+    3.5. when the accounting of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment is impossible with the use of water flow (volume) measuring instruments that have undergone metrological assessment in the manner established by the legislation on ensuring the uniformity of measurements.
+4.  The accounting of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment by non-instrumental (calculation) methods is based on the value of:
+    4.1. electricity consumption for water pumping, operating time, and pump productivity. Pump productivity is determined by the data of their manufacturers' technical documentation;
+    4.2. technological standards for water use;
+    4.3. irrigated area and irrigation norms established in accordance with technical normative legal acts mandatory for compliance or project documentation for irrigation systems.
+5.  The accounting for the discharge of surface wastewater into the environment by non-instrumental (calculation) methods is carried out in accordance with the technical normative legal act approved by the Ministry of Architecture and Construction.
+6.  The requirements for maintaining records of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment are established by the Ministry of Natural Resources and Environmental Protection.
+
+**Article 58. State water cadastre**
+
+1.  The state water cadastre is a systematized set of data on:
+    1.1. water bodies (their quantity, location, area or length, taking into account the classification of water bodies);
+    1.2. hydrobiological, hydrochemical, and hydromorphological indicators of surface water bodies, and their ecological condition (status);
+    1.3. water users who use water under the right of special, isolated water use of surface water bodies (their parts) for household-drinking and hydropower needs, and for defense needs, or the right of lease for fish farming (by types and purposes of water use);
+    1.4. the volumes of extracted (withdrawn) water and discharged wastewater;
+    1.5. hydrogeological and hydrochemical indicators of groundwater;
+    1.6. the accounting of extracted groundwater, withdrawn surface water, and wastewater discharged into the environment;
+    1.7. other information on the use and protection of waters.
+2.  The maintenance of the state water cadastre is carried out by the Ministry of Natural Resources and Environmental Protection jointly with the Ministry of Health.
+3.  The procedure for maintaining the state water cadastre and using its data is established by the Council of Ministers of the Republic of Belarus.
+
+**Article 59. Control over the use and protection of waters**
+
+Control over the use and protection of waters is exercised by the Ministry of Natural Resources and Environmental Protection and its territorial bodies, as determined by the Council of Ministers of the Republic of Belarus, in the manner established by the legislation on control (supervisory) activities and on the protection of the environment.
+
+**CHAPTER 13**
+**UNAUTHORIZED WATER USE. LIABILITY FOR VIOLATION OF LEGISLATION ON THE PROTECTION AND USE OF WATERS. UNAUTHORIZED PERFORMANCE OF WORKS ON WATER BODIES**
+
+**Article 60. Unauthorized water use. Unauthorized performance of works on water bodies**
+
+1.  Unauthorized water use is the use of water bodies (their parts) without the documents certifying the right of water use, as provided for by this Code.
+    Unauthorized water use, assignment of the right of water use, and other transactions that, in a direct or hidden form, violate the property right of the Republic of Belarus to water, are prohibited.
+2.  Upon detection of cases of unauthorized water use, such water use shall cease. The restoration of water bodies (their parts) to a condition suitable for their use is carried out at the expense of the person who committed the unauthorized water use.
+3.  Unauthorized performance of works on water bodies is the activity of a water user in the construction, reconstruction of artificial reservoirs and watercourses, hydraulic structures and devices intended for regulating water flows, or changing surface water bodies, which is carried out:
+    3.1. on an unlawfully occupied land plot or a land plot used not for its intended purpose;
+    3.2. without project documentation in cases where its development is provided for by this Code and other legislative acts.
+4.  Upon detection of cases of unauthorized performance of works on water bodies, such works must be immediately suspended until a decision is made by the local executive and administrative body in accordance with Article 223 of the Civil Code of the Republic of Belarus.
+
+**Article 61. Liability for violation of legislation on the protection and use of waters**
+
+Violation of the legislation on the protection and use of waters entails administrative, criminal, civil-legal, and other liability in accordance with legislative acts.
+
+**CHAPTER 14**
+**FINAL PROVISIONS**
+
+**Article 62. Recognition of certain laws and certain provisions of laws as having lost force**
+
+To recognize as having lost force:
+1.  The Water Code of the Republic of Belarus of July 15, 1998 (Vedomosti of the National Assembly of the Republic of Belarus, 1998, No. 33, Art. 473).
+2.  Article 21 of the Law of the Republic of Belarus of July 20, 2006 "On Amending and Supplementing Certain Laws of the Republic of Belarus on Technical Regulation, Standardization, and Conformity Assessment of the Requirements of Technical Normative Legal Acts in the Field of Technical Regulation and Standardization" (National Register of Legal Acts of the Republic of Belarus, 2006, No. 122, 2/1259).
+3.  Article 4 of the Law of the Republic of Belarus of June 13, 2007 "On Amending and Supplementing Certain Laws of the Republic of Belarus in the Field of Environmental Protection and Rational Use of Natural Resources" (National Register of Legal Acts of the Republic of Belarus, 2007, No. 147, 2/1335).
+4.  The Law of the Republic of Belarus of December 29, 2007 "On Amending and Supplementing the Water Code of the Republic of Belarus" (National Register of Legal Acts of the Republic of Belarus, 2008, No. 17, 2/1421).
+5.  The Law of the Republic of Belarus of July 8, 2008 "On Supplementing the Law of the Republic of Belarus 'On Amending and Supplementing the Water Code of the Republic of Belarus'" (National Register of Legal Acts of the Republic of Belarus, 2008, No. 172, 2/1471).
+6.  Article 1 of the Law of the Republic of Belarus of July 8, 2008 "On Amending Certain Laws of the Republic of Belarus on Liability for Violation of Legislation on Environmental Protection and Rational Use of Natural Resources" (National Register of Legal Acts of the Republic of Belarus, 2008, No. 172, 2/1470).
+7.  Article 3 of the Law of the Republic of Belarus of November 10, 2008 "On Amending and Supplementing Certain Laws of the Republic of Belarus on Environmental Protection and Rational Use of Natural Resources" (National Register of Legal Acts of the Republic of Belarus, 2008, No. 275, 2/1541).
+8.  Article 2 of the Law of the Republic of Belarus of July 2, 2009 "On Amending and Supplementing Certain Laws of the Republic of Belarus on Environmental Protection and Rational Use of Natural Resources" (National Register of Legal Acts of the Republic of Belarus, 2009, No. 161, 2/1584).
+9.  Article 10 of the Law of the Republic of Belarus of January 4, 2010 "On Amending and Supplementing Certain Laws of the Republic of Belarus on the Implementation of Administrative Procedures" (National Register of Legal Acts of the Republic of Belarus, 2010, No. 17, 2/1661).
+10. Article 3 of the Law of the Republic of Belarus of May 17, 2011 "On Amending and Supplementing Certain Laws of the Republic of Belarus on the Implementation of Administrative Procedures" (National Register of Legal Acts of the Republic of Belarus, 2011, No. 60, 2/1818).
+11. Article 2 of the Law of the Republic of Belarus of July 14, 2011 "On Amending and Supplementing Certain Laws of the Republic of Belarus" (National Register of Legal Acts of the Republic of Belarus, 2011, No. 82, 2/1845).
+
+**Article 63. Transitional provisions**
+
+1.  This Code applies to relations in the field of water protection and use that have arisen after its entry into force.
+    With regard to relations in the field of water protection and use that arose before the entry into force of this Code, it applies to those legal relations that will arise after its entry into force.
+2.  Until the legislation is brought into conformity with this Code, legislative acts shall apply in the part that does not contradict this Code.
+3.  Schemes for the integrated use and protection of waters, approved and developed before the entry into force of this Code, shall remain in effect until the corresponding river basin management plans are approved.
+4.  Lease agreements, the subject of which is the provision of surface water bodies for fish farming, as specified in Article 32 of this Code, concluded but not executed before the entry into force of this Code, shall remain in effect on the terms on which they were concluded, until the expiration of the terms specified in these lease agreements.
+5.  Permits for special water use, integrated environmental permits, and state acts for the right of isolated water use, issued to legal entities and individual entrepreneurs before the entry into force of this Code, shall remain in effect until the expiration of the terms established therein, with the exception of the case provided for in the second part of this paragraph.
+    For objects, the list of which is established by the President of the Republic of Belarus and for the operation of which an integrated environmental permit is required, previously issued permits for special water use shall cease to be effective from the date of receipt of the integrated environmental permit.
+6.  Citizens to whom state acts for the right of isolated water use were issued are obliged to surrender them to the issuing body within one year after the entry into force of this Code.
+7.  The effect of this Code in terms of regulating relations associated with dug ponds extends to non-flowing ponds with an area of up to 0.2 hectares (their parts) located on land plots provided to citizens in ownership, lifelong inheritable possession, or lease, and constructed before the entry into force of this Code.
+8.  Projects for water protection zones and coastal strips, approved before the entry into force of this Code, must be brought into conformity with the requirements of Article 52 of this Code by December 31, 2020.
+
+**Article 64. Bringing legislative acts into conformity with this Code**
+
+The Council of Ministers of the Republic of Belarus shall, within one year:
+*   bring the decisions of the Government of the Republic of Belarus into conformity with this Code;
+*   ensure that the republican bodies of state administration subordinate to the Government of the Republic of Belarus bring their normative legal acts into conformity with this Code;
+*   take other measures to implement the provisions of this Code.
+
+**Article 65. Entry into force of this Code**
+
+This Code shall enter into force in the following order:
+*   Articles 1-63 - one year after the official publication of this Code;
+*   other provisions - after the official publication of this Code.
+
+**President of the Republic of Belarus**
+**A. Lukashenko**

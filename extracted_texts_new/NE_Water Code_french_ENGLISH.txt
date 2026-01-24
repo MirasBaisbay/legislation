@@ -1,0 +1,467 @@
+****
+
+****
+REPUBLIC OF NIGER
+FRATERNITY - WORK - PROGRESS
+
+ORDINANCE NO. 2010-09 of April 1, 2010
+establishing the Water Code of Niger
+
+THE PRESIDENT OF THE SUPREME COUNCIL FOR THE RESTORATION OF DEMOCRACY, HEAD OF STATE
+
+HAVING REGARD TO the Proclamation of February 18, 2010;
+HAVING REGARD TO Ordinance No. 2010-001 of February 22, 2010, on the organization of public powers during the transition period and its subsequent amending texts;
+
+ON the report of the Minister of Water, Environment, and the Fight Against Desertification;
+
+The Council of Ministers having been heard;
+
+ORDERS:
+
+**TITLE I: GENERAL PROVISIONS**
+
+**Chapter 1: Purpose and Scope of Application**
+
+**Article 1:** This Ordinance establishes the Water Code of Niger. It determines the modalities for the management of water resources throughout the entire territory of the Republic of Niger. It also specifies the conditions relating to the organization of water supply for populations and livestock, on the one hand, and those relating to hydro-agricultural developments, on the other hand.
+
+**Article 2:** The following are subject to the provisions of this Ordinance: developments, works, installations, and activities carried out by any natural or legal person, public or private, that result in:
+*   modifications to water flows;
+*   water withdrawals, whether returned or not;
+*   discharges, emissions, or direct or indirect, permanent or periodic deposits, even if non-polluting, and more generally any act likely to cause or increase the degradation of water by modifying its physical characteristics, including thermal, chemical, microbiological, and bacteriological characteristics;
+*   temporary or permanent occupation of the public water domain or its exploitation for economic and social purposes;
+*   risks related to the presence or proximity of water that are likely to affect persons or property.
+
+Public services for the supply of drinking water to populations and livestock are also subject to the provisions of this Ordinance.
+
+Hydro-agricultural developments are also subject to the provisions of this Ordinance.
+
+The developments, works, installations, and activities referred to in the first paragraph of this Article, carried out within the framework of projects benefiting from specific financing, particularly in cooperation with one or more foreign States, an international organization, a non-governmental organization (NGO), or by private individuals, are also subject to the provisions of this Ordinance.
+
+**Chapter 2: Definitions**
+
+**Article 3:** For the purposes of this Ordinance, the following definitions shall apply:
+- **hydro-agricultural development:** any operation to develop land in connection with water resources, whatever the technique used;
+- **authorization:** a unilateral act by which the authority permits a developer, for a specified period and under conditions provided for in this act, to establish and operate installations, works, and other water-related activities to meet specific needs;
+- **Water Users' Association (WUA) (Association des Usagers de l'Eau - AUE):** a body composed of representatives of the different socio-professional groups using water resources (livestock breeders, industrialists, irrigators, fishermen, users of the public water supply service, etc.) present within a given area. WUAs may group together to form federations of water users' associations (FWUA).
+- **leasing contract (affermage):** a mode of managing a public service in which the delegating authority itself finances the establishment of the service but entrusts its management to a delegate. The latter is remunerated directly by the user and operates the service at its own risk;
+- **delegating authority:** a public authority, contracting or co-contracting party to a public service delegation agreement;
+- **hydrological basin:** an area where all surface runoff converges to a single point called the outlet;
+- **hydrogeological basin:** a surface and underground space contributing to the flows observable at a point called the outlet;
+- **public service concession:** a mode of managing a public service in which the delegate carries out, at its own expense, the investments necessary for the establishment of the service and ensures its management. The latter is remunerated directly by the user and operates the service at its own risk;
+- **water use concession:** a mode of water use authorization by which the State grants the right to exploit water for their own needs to private law legal persons whose activity is in the general interest, such as mining, the exploitation of natural mineral water sources, or rural concessions;
+- **hydrological cycle:** the state of permanent movement of water and the continuous exchanges between the different water reservoir compartments of the globe;
+- **Declaration:** an act by which any person informs the competent Administration of the installations, works, and other water-related activities they plan to carry out;
+- **Delegate:** a legal person under private or public law that is the beneficiary of a public service delegation agreement;
+- **delegation of public service:** a contract by which a public authority entrusts the management of a public service within its competence to a delegate whose remuneration is linked to or substantially ensured by the operating results of the service. The delegation of public service management primarily takes two (2) forms: the leasing contract (affermage) and the public service concession;
+- **right to water:** the fundamental right to a sufficient, physically accessible, and affordable supply of safe and acceptable quality water for each person's personal and domestic uses;
+- **surface waters:** permanent or non-permanent, floatable or non-floatable, navigable or non-navigable watercourses, lakes, ponds, and pools formed from rainwater or the overflowing of watercourses and groundwater;
+- **drinking water:** water in its natural or treated state whose organoleptic (taste, odor, color, etc.), aesthetic, physico-chemical, and microbiological characteristics comply with the water quality standards in force. It is water fit for human consumption;
+- **natural mineral water:** water of underground origin possessing a constant composition and, in its natural state, a set of characteristics likely to provide it with properties beneficial to health;
+- **groundwater:** water contained in the rocks of the soil and subsoil, constituting unconfined, semi-confined, and confined aquifers;
+- **transboundary waters:** surface and/or groundwater common to two or more States;
+- **wastewater:** water whose state has been degraded as a result of its use;
+- **pastoral area:** It consists of the pastoral zone (beyond the Northern Crop Line), pastoral enclaves and grazing areas, fields after crops have been harvested, fallow fields, tracks, paths, and passage corridors, and salt licks;
+- **Integrated Water Resources Management (IWRM):** a process which promotes the coordinated development and management of water, land, and related resources, in order to maximize the resultant economic and social welfare in an equitable manner without compromising the sustainability of vital ecosystems;
+- **rural water supply:** the field of drinking water supply encompassing the non-conceded area transferable to territorial authorities;
+- **agricultural water supply:** the branch of water supply encompassing all aspects related to bringing water to plants for agro-pastoral and fish farming production purposes;
+- **urban water supply:** the field of drinking water supply encompassing the conceded area that is not transferable to territorial authorities;
+- **protection perimeter:** a demarcated area around a water catchment area used for drinking water, in which various measures are taken and easements or prohibitions are prescribed in order to protect the installations and the captured water. There are three (3) types of perimeters: the immediate protection perimeter, the close protection perimeter, and the distant protection perimeter;
+- **water pollution:** the harmful alteration of water caused by the addition of substances likely to change its quality, aesthetic appearance, and its use for human purposes;
+- **fee for service rendered:** a sum requested from users to cover the charges of a specific public service or the costs of establishing and maintaining a public work, which finds its direct counterpart in the services provided by the service or in the use of the work. There is a correlation between the amount of the fee and the real cost of the service rendered;
+- **Water Management Unit (WMU) (Unité de Gestion des Eaux - UGE):** homogeneous hydrological and hydrogeological units that serve as the physical framework for the management and planning of water resources at the sub-regional, regional, or inter-regional level;
+- **Water Development and Management Plan:** a document enforceable against third parties that determines the fundamental orientations for the development of water resources at the scale of a Water Management Unit;
+- **public drinking water supply service:** the production, transport, and distribution of water, using public installations and water points, intended to meet the needs of populations and livestock;
+- **pastoral zone:** an area demarcated on the basis of the provisions set forth in Law No. 61-5 of May 26, 1961.
+
+**TITLE II: PRINCIPLES RELATING TO WATER MANAGEMENT**
+
+**Article 4:** This Ordinance recognizes the fundamental right of every citizen to access water. It enshrines the right of everyone to have water corresponding to the satisfaction of their personal and domestic needs. The fundamental right of access to water shall be exercised in compliance with the provisions of Title IX of this Ordinance.
+
+**Article 5:** In this domain, the State has the obligation to make available to everyone water in sufficient quantity and of acceptable quality and cost, at all times and wherever needed.
+
+**Article 6:** This Ordinance recognizes that water is an ecological, social, and economic good, the preservation of which is in the general interest and the use of which, in any form, requires everyone to contribute to the effort of the community and/or the State to ensure its conservation and protection.
+
+**Article 7:** The management of water resources aims:
+- to meet water needs in a just and equitable manner for:
+    *   human consumption;
+    *   agriculture and livestock farming;
+    *   aquaculture, fishing, and fish farming;
+    *   silviculture and forestry;
+    *   the environment (ecological and aquatic needs);
+    *   energy, industry, and mining;
+    *   navigation;
+    *   transport and communications;
+    *   tourism and leisure;
+    *   any other needs that the authority deems necessary.
+- to ensure:
+    *   the quantitative protection of existing water resources and the search for new resources;
+    *   the qualitative protection of water resources and their protection against all forms of pollution;
+    *   the preservation of aquatic ecosystems;
+    *   the fight against waste and overexploitation.
+
+**Article 8:** In meeting needs, no use has priority over others, but in the event of competition between several uses, special attention shall be given to essential human needs.
+
+**Article 9:** Water management shall strive to guarantee the sustainable, equitable, and coordinated use of water resources. It is guided by the following principles:
+- a comprehensive and integrated approach to water resources by Water Management Unit or aquifer system, known as Integrated Water Resources Management (IWRM), which includes:
+    *   the need to involve users, planners, and decision-makers at all levels in the management and development of water resources;
+    *   the recognition of the essential role of women in the development and preservation of water resources;
+    *   the recognition of the economic value of water;
+- the principle of equitable and reasonable use of water;
+- the no-harm principle, according to which the State shall ensure that activities carried out in one part of its territory do not cause damage to another part of its territory or to the territory of a neighboring State;
+- the precautionary principle, by virtue of which the State shall defer the implementation of measures in order to avoid any situation likely to have a transboundary impact or an impact on another part of its territory, even if scientific research has not demonstrated a causal link between that situation and a possible impact.
+
+**Article 10:** The ministry in charge of water resources, in conjunction with the other ministries concerned, shall ensure that the public, particularly the populations and users concerned by a water development project, measure, or water management plan, participates in the development and implementation of decisions and receives appropriate information from the competent authorities.
+
+**Article 11:** The competent authorities for water management shall take into consideration relevant customary practices, provided that they do not compromise the achievement of the objectives of this Ordinance and do not contradict its provisions.
+
+**Article 12:** Those who use water resources through their activities must contribute to the financing of water management, according to their use, by virtue of the "user-pays" principle, notwithstanding the right to water of every citizen as stated in Article 4 of this Ordinance.
+
+**Article 13:** When the activity of natural or legal persons is likely to cause or aggravate water pollution or the degradation of the aquatic environment, the proponents of said activity shall bear and/or contribute to the financing of the measures that the State and territorial authorities must take against this pollution, in order to offset the effects, and to ensure the conservation of the water resource, according to the "polluter-pays" principle.
+
+**Article 14:** The Republic of Niger shall cooperate with other States and shall endeavor to implement international treaties, conventions, and agreements relating to the knowledge, governance, preservation, protection, mobilization, and use of water resources of a transboundary nature.
+The competent Nigerien authorities shall notify other States, through basin organizations, of measures planned by Niger that are likely to have significant negative effects on other States.
+The competent Nigerien authorities shall make available technical data and available information, in particular the results of any social and environmental impact assessment of the planned measures on the quality or distribution of transboundary waters.
+
+**TITLE III: DETERMINATION OF THE PUBLIC DOMAIN**
+
+**Chapter 1: The Natural and Artificial Public Domain of the State**
+
+**Article 15:** The following form part of the natural public domain of the State:
+*   surface waters such as permanent or non-permanent, floatable or non-floatable, navigable or non-navigable watercourses, lakes, ponds, and any other source of a permanent or temporary nature up to the high-water mark before overflowing, as well as a 25-meter strip beyond this limit;
+*   groundwater tables;
+*   thermal mineral springs.
+
+**Article 16:** The following form part of the artificial public domain of the State:
+*   works carried out on behalf of the State to facilitate the retention, regulation, flow, and navigability of watercourses, the production of energy, irrigation and drainage, the distribution of drinking water, the watering of animals, and the evacuation of wastewater or runoff, within the limits of the land occupied by the immediate appurtenances necessary for their operation and maintenance;
+*   immediate protection perimeters demarcated in application of Article 51 of this Ordinance;
+*   ponds and water points developed for public use.
+
+**Chapter 2: The Natural and Artificial Public Domain of Territorial Authorities**
+
+**Article 17:** Developments and equipment transferred by the State or carried out directly by territorial authorities form part of the natural and artificial public domain of the territorial authorities, within the limits of the effective occupation of the land concerned.
+
+**Chapter 3: Right of Ownership and Use**
+
+**Article 18:** The following do not form part of the public domain:
+*   collected water intended for domestic use;
+*   swimming pools, ponds, reservoirs, and artificial watercourses constructed or developed by private persons on private land.
+
+**Article 19:** Every landowner has the right to use and dispose of rainwater that falls on their private land.
+Ponds and pools formed from rainwater, the overflowing of watercourses, and the emergence of groundwater that are on private land constitute private property.
+
+**Article 20:** Pastoralists may be granted a priority right of use over the natural resources located in their home territory, particularly access to water points.
+Pastoralists, whether individually or collectively, may not be deprived of the right of use mentioned in the first paragraph of this Article, except for reasons of public utility, after just and prior compensation.
+These provisions shall be specified by law.
+
+**TITLE IV: INSTITUTIONAL FRAMEWORK FOR WATER MANAGEMENT**
+
+**Article 21:** The institutional framework for water management is composed of:
+*   the State and territorial authorities;
+*   the National Water and Sanitation Commission (NWSC) provided for in Article 25 below and the Regional Water and Sanitation Commissions (RWSC);
+*   Water Management Commissions at the WMU level;
+*   local water management bodies.
+
+Other bodies may, as needed, be created by regulation.
+
+**Chapter 1: Missions and Responsibilities of National Institutions**
+
+**Article 22:** The State shall ensure, within the framework of balanced land use planning, the sustainable and equitable management of water with the effective participation of all stakeholders concerned.
+
+**Article 23:** The ministry in charge of water resources is responsible for the design, planning, implementation, and evaluation of water policy throughout the national territory, in conjunction with the other ministries concerned and the territorial authorities.
+
+**Article 24:** The State and territorial authorities may associate, in contractual form, for the achievement of objectives and projects of public utility. The modalities of association shall be specified by regulation.
+
+**Article 25:** A National Water and Sanitation Commission (NWSC) is created to serve as a consultative and collaborative body.
+The NWSC shall assist in defining the general objectives and orientations of the national water and sanitation policy.
+The NWSC shall give its opinion on matters submitted to it by the government or on its own initiative.
+The powers, composition, organization, and operating procedures of the NWSC shall be established by decree issued by the Council of Ministers.
+
+**Chapter 2: Missions and Responsibilities of Local Institutions**
+
+**Article 26:** Territorial authorities shall ensure, within the framework of their respective missions, the sustainable management of water with the effective participation of all stakeholders concerned.
+The areas of competence transferred by the State to the territorial authorities shall be determined by law.
+
+**Article 27:** Water Management Units (WMUs) are created to serve as the physical framework for the management and planning of water resources in the territory of the Republic of Niger. Their number and demarcation shall be established by regulation.
+
+**Article 28:** For each WMU, a Water Management Commission is created, bringing together representatives of the State and territorial authorities, and socio-professional groups concerned with water resources management.
+The powers, composition, organization, and operating procedures of the Water Management Commissions shall be established by regulation.
+Pending the effective establishment of Water Management Commissions based on the WMUs, the NWSC shall be represented at the regional level by Regional Water and Sanitation Commissions (RWSC), in accordance with the current administrative structures.
+
+**Article 29:** In each WMU, local water resources management and planning bodies shall be created. The number of local management bodies per WMU, as well as their organization, operation, composition, and powers, shall be established by regulation.
+
+**Article 30:** In application of the principle referred to in Article 9 above, the users of a given area shall be represented in water management institutions through water users' associations (WUAs) or their federations.
+
+**TITLE V: WATER MANAGEMENT PLANNING**
+
+**Article 31:** The planning tools necessary for the sustainable management of water resources are:
+*   the National Water Policy;
+*   the National Action Plan for Integrated Water Resources Management (NAPIWRM);
+*   Water Resources Development and Management Plans.
+
+**Article 32:** The National Water Policy shall be developed and implemented in accordance with a procedure described by regulation.
+
+**Article 33:** The National Action Plan for Integrated Water Resources Management (NAPIWRM) defines the appropriate national framework for water resources management for the implementation of the National Water Policy, as well as the modalities and timetable for its progressive establishment. It identifies the specific relevant actions to be undertaken for this purpose, as well as the resources to be mobilized for their implementation and monitoring.
+The NAPIWRM shall be inspired by internationally recognized water management principles, adapting them to national conditions.
+It shall be developed under the authority of the minister in charge of water resources and approved by decree issued by the Council of Ministers, after receiving the opinion of the National Water and Sanitation Commission. It shall be subject to periodic revisions.
+
+**Article 34:** The Water Development and Management Plan establishes, within the framework of a Water Management Unit (WMU), the orientations for sustainable water management.
+Administrative programs and decisions in the field of water must be compatible with the provisions of the Water Development and Management Plan.
+
+**Article 35:** A decree issued by the Council of Ministers shall determine the modalities for the application of Articles 33 and 34 above and, in particular, the provisions relating to the content, development, approval, implementation, and monitoring of the NAPIWRM and the Water Development and Management Plans.
+
+**TITLE VI: FINANCING OF WATER MANAGEMENT**
+
+**Chapter 1: General Provisions**
+
+**Article 36:** In application of the principles set forth in Articles 6, 9, 12, and 13 of this Ordinance, the modalities for cost allocation and financing related to the mobilization and conservation of water resources, including costs for the environment and for the prevention of natural hazards, shall be determined by regulation in accordance with the provisions described in Articles 37 to 41 below.
+
+**Article 37:** A National Water and Sanitation Fund is established to finance water management.
+The resources of the National Water and Sanitation Fund shall consist of:
+*   allocations from the general budget of the State and territorial authorities;
+*   the proceeds from the financial contributions provided for in Articles 38 and 39 of this Ordinance;
+*   the proceeds from taxes established for water resource management;
+*   the proceeds from fines imposed in application of this Ordinance;
+*   subsidies;
+*   donations and bequests;
+*   all other resources authorized by law.
+Water Funds may also be created at the Regional, Departmental, and Municipal levels.
+A decree issued by the Council of Ministers shall specify the organization and operating procedures of the National Water and Sanitation Fund as well as the regional, departmental, and municipal funds.
+
+**Chapter 2: Financial Contributions Scheme**
+
+**Article 38:** In application of the "user-pays" principle set forth in Article 12 of this Ordinance, natural or legal persons who use water through their activities may be subject to the payment of a financial contribution based on the volume of water withdrawn, consumed, or mobilized.
+
+**Article 39:** In application of the "polluter-pays" principle set forth in Article 13 of this Ordinance, natural or legal persons whose activity is likely to cause or aggravate the pollution or degradation of water resources may be subject to the payment of a financial contribution calculated on the basis of the volume of water withdrawn, consumed, mobilized, or discharged.
+Contributions resulting from the application of the "polluter-pays" principle shall be proportional to the extent of the pollution or degradation in question.
+The payment of this contribution shall not preclude the civil or criminal liability of the person liable when their activity is the cause of the damage caused in violation of the regulations. In such cases, the public authority that intervenes physically or financially to mitigate or prevent the aggravation of the damage is entitled to reimbursement by the polluters of the expenses incurred.
+
+**Article 40:** Tax incentives, financial aid, or rebates on taxes and financial contributions may be granted by the State to any water operator or user who develops or uses environmentally friendly technologies.
+
+**Article 41:** The specific modalities of the provisions of Articles 37 to 40 shall be the subject of a decree issued by the Council of Ministers, on the joint proposal of the Ministers in charge of Finance, Water, and Environment and the Ministers whose powers correspond to the activity for which a fee or financial contribution is envisaged.
+
+**TITLE VII: WATER REGIME**
+
+**Article 42:** The general rules for the preservation and allocation of water resources shall be determined by legislative and regulatory means. They shall establish:
+*   environmental quality standards and the measures necessary for the preservation and restoration of this quality;
+*   the rules for water allocation so as to reconcile the interests of the various categories of users;
+*   the conditions under which discharges, deposits, and emissions likely to alter the quality of water and the aquatic environment may be prohibited or regulated;
+*   the measures necessary to ensure the protection of wells and boreholes, and artificial water reservoirs;
+*   the conditions under which the sale and distribution of products or devices that are likely to harm the quality of water or the aquatic environment may be prohibited or regulated;
+*   the conditions under which technical inspections of installations, works, or activities listed in the nomenclature established in application of the provisions of Article 47 of this Ordinance are carried out.
+
+**Article 43:** Developments, works, installations, and activities are subject to the following regimes:
+*   the declaration regime;
+*   the authorization regime;
+*   the water use concession regime.
+
+**Article 44:** Water developments, and more generally, installations, works, and activities carried out by any natural or legal person, public or private, that result in the following, are subject to authorization, declaration, or water use concession:
+*   withdrawals of surface water or groundwater, whether returned or not;
+*   modifications to the level or mode of water flow;
+*   discharges, flows, emissions, or direct or indirect, permanent or periodic deposits, whether polluting or not.
+
+The installations, works, and activities referred to above are subject to authorization or declaration according to their nature, location, importance, or the seriousness of their effects on the water resource and aquatic systems.
+
+**Article 45:** Developments, installations, works, and activities likely to present dangers to public health and safety, reduce the water resource, substantially modify the level, mode of flow, or regime of waters, or harm the quality or diversity of aquatic ecosystems are subject to authorization or declaration.
+The authorization shall establish, as needed, the requirements imposed on the beneficiary in order to eliminate, reduce, or compensate for the dangers or negative impacts on water and aquatic ecosystems.
+
+**Article 46:** A decree issued by the Council of Ministers shall specify the nomenclature of the installations, works, and activities mentioned in Articles 44 and 45 above that are subject to authorization or declaration, as well as the related modalities and procedures.
+
+**Article 47:** Concessions for the use of water and the operation of hydraulic works and installations may be granted to private law legal persons when their installation is in the general interest.
+
+**Article 48:** A decree issued by the Council of Ministers shall specify the nomenclature of the activities mentioned in Article 47 above for which a concession for the use of water and the operation of hydraulic works and installations may be granted, as well as the related modalities and procedures.
+
+**TITLE VIII: SPECIAL PROTECTION MEASURES**
+
+**Chapter 1: Protection of Withdrawals**
+
+**Article 49:** In addition to the requirements set by the authorization and/or use concession under Title VII of this Ordinance, the authorization for the development or construction of works may provide for appropriate special protection measures. The modalities for authorization of development or construction shall be established by regulation.
+
+**Article 50:** In the case of withdrawals intended for human consumption, the special protection measures shall include the demarcation around the surface water or groundwater withdrawal point of an immediate protection perimeter, a close protection perimeter, and, as needed, a distant protection perimeter.
+
+**Article 51:** The land included in the immediate protection perimeter, which should preferably be fenced, shall be exclusively allocated to water withdrawal and shall be regularly maintained for this purpose. It shall be acquired in full ownership by the State or the relevant territorial authority, for public utility purposes, after just and prior compensation is paid to any rights holder.
+Within the close protection perimeters, deposits, installations, and activities likely to directly or indirectly harm the quality of the water or render it unfit for consumption or any other use are prohibited or regulated.
+The regulation or prohibition shall apply in particular to deposits of garbage, refuse, and waste, the collection and treatment of wastewater and rainwater, the spreading of manure, deposits of hydrocarbons and all substances presenting a risk of toxicity, including chemical products, pesticides, and fertilizers, the sinking of wells, and the extraction of mineral substances.
+If necessary, the competent authority shall demarcate, in addition to the immediate and close protection perimeters, a distant protection perimeter within which the deposits, installations, and activities mentioned in the preceding paragraph shall be regulated in order to prevent the pollution hazards they present for the withdrawn water.
+
+**Article 52:** In addition to the prohibitions and measures enacted in Article 51 above, the demarcation act may concern activities such as the watering, penning, and movement of animals and the construction of buildings.
+
+**Article 53:** To ensure special protection, the State may enter into a water management contract with the territorial authorities concerned and other public or private persons, as the case may be. The contract shall establish, in compliance with the provisions of the Water Development and Management Plan, a program of works and actions to be carried out to achieve the objectives it determines. It shall also define the respective contributions of the different partners to the financing of the program.
+
+**Article 54:** Decrees issued by the Council of Ministers shall determine the modalities for the application of the provisions of Articles 50 to 52 above and, in particular, the procedures for demarcating the close and distant protection areas and perimeters, as well as the competent authorities involved in each procedure.
+
+**Chapter 2: Protection of Natural and Aquatic Cultural Heritage**
+
+**Article 55:** In national parks and other areas enjoying special protection, as well as in wetlands and particularly those of international importance inscribed on the list provided for by duly ratified treaties and conventions, actions likely to harm the balance of ecosystems or affect their biological diversity shall be regulated and, where appropriate, prohibited.
+This includes in particular:
+*   uses of water resulting in a modification of their regime;
+*   the spreading for any purpose of chemical products and in particular agricultural pesticides;
+*   the discharge of effluents or toxic substances;
+*   the discharge or flow of wastewater;
+*   the deposit of refuse or domestic or industrial waste.
+
+The regulation or prohibition may, as needed, apply to actions carried out or planned outside the protected area or wetland.
+
+**Article 56:** Wetlands of international importance inscribed on the list provided for by duly ratified treaties and conventions shall be provided with a Management Plan.
+
+**Article 57:** Works constructed in the bed of watercourses must maintain a minimum flow guaranteeing the satisfaction of the needs of users and aquatic life downstream of the work.
+When they are located in watercourses used by migratory fish, they must also be equipped with passage facilities.
+
+**Article 58:** Sites, natural environments, and landscapes that present, from an aesthetic and cultural point of view, a particular interest related to the presence of water must be subject to special protection based in particular on the regulation and, where appropriate, the prohibition of activities and installations likely to harm them.
+
+**Chapter 3: Specific Protection Regimes**
+
+**Article 59:** Specific regulations shall determine the conditions for the exercise of certain activities likely to have a negative impact on the hydrological cycle or water quality, including in particular agricultural activities (large water consumers), and pastoral, fish farming, mining (extractive industries), and hydroelectric activities.
+Implementing regulatory texts shall be developed by mutual agreement by the Ministers concerned, who are in particular those in charge of water, public health, mines, housing, public works, land use planning, and national defense.
+
+**Article 60:** Regulations on land use planning and urban planning shall take into consideration the requirements of sustainable water resources management.
+
+**TITLE IX: WATER SUPPLY FOR POPULATIONS AND LIVESTOCK**
+
+**Article 61:** In order to guarantee the exercise of the right to water recognized for every citizen in accordance with Article 4 of this Ordinance, the State and the territorial authorities are responsible, within the framework of their respective general competences, for the organization and operation of the public drinking water supply service. These services may also be intended for the supply of water to livestock.
+
+**Article 62:** The water supply for populations and livestock is subdivided into two (2) domains: the domain of urban water supply and the domain of rural water supply.
+
+**Article 63:** The distribution of competences between the State and the territorial authorities shall be carried out in blocks and according to the principle of subsidiarity. The areas of competence transferred by the State to the territorial authorities shall be determined by law.
+
+**Article 64:** The transfer of competences shall be recorded by a devolution decree issued by the Council of Ministers on the basis of an inventory sanctioned by a report drawn up jointly between the representatives of the State and those of the executive bodies of the territorial authorities.
+
+**Article 65:** Territorial authorities may associate with each other for the exercise of competences of common interest, in compliance with the provisions of the laws and regulations in force. The modalities of association shall be specified by regulation.
+
+**Article 66:** The modalities for the organization and management of the public water supply service may differ depending on whether it concerns the domain of urban water supply or the domain of rural water supply. These provisions shall be defined by regulation.
+
+**Article 67:** The public water supply service shall be managed directly by the relevant territorial authority, or within the framework of a public service delegation contract or a management agreement concluded with the beneficiary populations.
+The conditions for direct management, for the awarding of public service delegation contracts and the related implementation tools, and for management agreements shall be defined by regulation.
+The modalities for organizing beneficiary populations for the management of a public water supply service shall be defined by regulation.
+
+**Article 68:** The modalities for organizing beneficiary populations for the representation of users and the defense and promotion of the common interest in relation to the public water supply service shall be defined by regulation.
+
+**Article 69:** Populations that benefit from access to a public water supply service, whose infrastructure and/or installations have been initiated by the State, the relevant territorial authority, or carried out as a result of an external initiative or with foreign public assistance, shall contribute to the financing of the costs incurred for the installation of said service.
+This initial participation of the populations benefiting from the infrastructure referred to in the paragraph above may concern both the carrying out of new works and the rehabilitation of existing public hydraulic works.
+The determination of the participation of the populations benefiting from the carrying out and/or rehabilitation of the works or installations and its collection procedures shall be established by regulation.
+The modalities referred to in this Article may differ depending on whether it concerns the domain of urban water supply or the domain of rural water supply.
+
+**Article 70:** All use of water is subject to the payment of a fee for service rendered, calculated on the basis of the volume of water mobilized, in order to cover the costs related to the operation of the service according to the "user-pays" principle.
+The cost recovery principles and the tariff principles for the determination and setting of the fee for service rendered due for the use of water shall be established by regulation.
+The modalities referred to in this Article may differ depending on whether it concerns the domain of urban water supply or the domain of rural water supply.
+
+**Article 71:** The provisions of Articles 69 and 70 above apply to any user of a public water service. The revenue collected from the water supply service must be entirely allocated to the water service.
+
+**Article 72:** Water delivered for consumption by the population must be potable.
+National standards for the quality of water (potability) intended for human consumption shall be established by regulation.
+The ministers in charge of water and public health shall determine the conditions for monitoring the quality of distributed water and ensure compliance with national standards for the quality of water intended for human consumption.
+
+**Article 73:** In areas without public water supply services, anyone who distributes water intended for human consumption must ensure that it is potable.
+
+**Article 74:** The State, territorial authorities, and, where applicable, the delegate are required to provide users with appropriate information concerning the quality and price of the distributed water.
+
+**Article 75:** In the pastoral zone, the modalities for the installation of water points shall be defined by regulation according to regional or local specificities, in accordance with the municipal development plan, if one exists.
+
+**Article 76:** In the pastoral zone, access for pastoralists and their herds to water resources may also be provided by private persons through the creation of water points.
+The modalities for carrying out the works are subject to the provisions set forth in Title VII of this Ordinance.
+The use concession shall establish the modalities for management and control. In all cases, this concession may not serve as a pretext for exclusive control of the pastoral area.
+
+**Article 77:** In the pastoral zone, in the case of management by delegation of public service, the priority right of use recognized for pastoralists shall be preserved.
+
+**Article 78:** In the pastoral zone, in the case of direct management of a public service, relevant customary practices shall be taken into account, provided that they contribute to the sustainability of the service and the durability of the works.
+
+**Article 79:** In the pastoral area, public village water points may be mixed and serve both for the water supply of populations and for the watering of animals.
+In this case, access routes to said water points must be opened for the watering of animals, particularly during the crop season.
+Access routes to surface waters shall also be developed for the watering of animals.
+
+**Article 80:** The modalities for opening passage corridors in crop zones for access to water for watering animals shall be specified by regulation. In all cases, local authorities shall be fully involved in the demarcation of said passage corridors.
+
+**TITLE X: HYDRO-AGRICULTURAL DEVELOPMENT**
+
+**Article 81:** Concerning agricultural water supply, water supply is managed by the individual developer or in association in the case of collective infrastructure.
+The modalities for organization, management, and financing concerning hydro-agricultural developments shall be specified by regulation.
+
+**TITLE XI: PUBLIC INTERVENTIONS RELATING TO WATER**
+
+**Article 82:** The State and territorial authorities are responsible, within the framework of their respective general competences, for coordination and control for the purpose of preventing situations of environmental and health risks related to water, or any other circumstances of force majeure.
+
+**Article 83:** In the event that circumstances do not allow for all water needs to be met, the State and territorial authorities shall proceed to regulate the use of available water. These modalities shall be established by regulation.
+
+**Article 84:** The provisions referred to in Article 83 above may concern waters not falling within the public domain.
+In the event that the State or territorial authorities, in application of the provisions of Article 83 above, make a water point not falling within the public domain available to the public, the conditions for this availability shall be established by regulation.
+
+**TITLE XII: EASEMENTS**
+
+**Article 85:** The owners or occupants of land affected by the provisions set forth in Articles 50, 51, and 52 of this Ordinance may be compensated in the event that they suffer, as a result, direct, material, and certain harm.
+
+**Article 86:** Lower-lying lands must receive rainwater or spring water that flows naturally, without human influence. This easement shall not give rise to any compensation.
+The passage of pipes, drains, and other visible or buried conduits shall give rise to the payment of just and prior compensation.
+
+**Article 87:** Wastewater from dwellings, factories, and other operations may be evacuated through sealed and buried conduits across intermediate lands, subject to just and prior compensation.
+
+**Article 88:** Any person wishing to supply a dwelling house with drinking water may obtain the passage of this water across intermediate lands, subject to just and prior compensation.
+
+**Article 89:** Any owner who wishes to use natural or artificial waters for irrigation, which they have the right to dispose of, may obtain the passage of these waters over intermediate lands, subject to just and prior compensation.
+
+**Article 90:** The owner of the intermediate land may request shared use of the established works by contributing equitably to the installation and maintenance costs. No compensation is due in this case, and any that may have been paid must be returned.
+
+**Article 91:** Any owner who wishes to use a river, a lake, or a pond for the irrigation of their properties may support the structures or water-lifting devices necessary for their water intake on the property of the opposite or intermediate riparian owner, subject to just and prior compensation.
+
+**Article 92:** Any riparian owner of a watercourse, a lake, or a pond must tolerate an easement of passage allowing for the satisfaction of household needs and the watering of livestock. In this case, the riparian owner is not entitled to any compensation.
+
+**Article 93:** In the event of a dispute over the application of the provisions of Articles 85 to 92 above, the dispute shall be brought before a civil court in accordance with the rules of common law.
+
+**TITLE XIII: PENAL PROVISIONS**
+
+**Article 94:** Offenses against this Ordinance shall be recorded in a report notified to the offender by judicial police officers and agents, sworn civil servants, and agents appointed for this purpose by the ministers in charge of water resources and environment, public health, urban planning, public works, agriculture, and livestock farming.
+
+**Article 95:** Actions and prosecutions shall be brought directly by the ministers referred to in Article 94 above before the competent courts and without prejudice to the prerogatives of the public prosecutor's office.
+
+**Article 96:** The agents and civil servants referred to in Article 94 may have access to private residences:
+- either in the presence of or at the request of the Public Prosecutor or the Investigating Judge;
+- or with a warrant expressly issued by the competent judicial authorities.
+
+In all cases, the provisions of Article 52 of the Code of Criminal Procedure must be respected.
+
+**Article 97:** Those who, without the authorizations provided for in Articles 44 to 46 of this Ordinance, have undertaken developments, activities, works, and the construction of works and installations shall be punished by imprisonment of two (2) years and a fine of one million (1,000,000) to two million (2,000,000) CFA Francs, or only one of these two penalties.
+
+**Article 98:** The following shall be punished by imprisonment of three (3) months to one (1) year and a fine of thirty thousand (30,000) to three hundred thousand (300,000) CFA Francs, or only one of these two penalties:
+- those who have deposited refuse, household waste, stones, gravel, or wood in the bed or on the banks of watercourses, lakes, ponds, or lagoons and canals of the public domain, or who have allowed infected and harmful waters to flow therein;
+- those who have buried refuse, household waste, or used liquids and, more generally, committed any act likely to directly or indirectly alter the quality of groundwater;
+- those who have sabotaged hydraulic works or installations;
+- those who unjustly oppose the creation of private or public water points.
+
+The above pecuniary penalties shall be tripled in the case of a legal person, without prejudice to the application of the polluter-pays principle.
+The operating license may be suspended or withdrawn, depending on the extent of the pollution.
+
+**Article 99:** The following shall be punished by imprisonment of five (5) years and a fine of one billion (1,000,000,000) CFA Francs, or only one of these two penalties:
+- those who, without prior authorization, have discharged wastewater from factories and industrial, health, or scientific establishments into watercourses, lakes, or ponds;
+- those who have deposited industrial waste in the bed or on the banks of watercourses, lakes, ponds, or lagoons and canals of the public domain, or who have allowed infected and harmful waters to flow therein;
+- those who have buried waste, bodies, objects, or liquids of industrial origin likely to directly or indirectly alter the quality of groundwater.
+
+The penalty may extend to the withdrawal of the operating license.
+
+**Article 100:** Those who, in violation of the provisions of Articles 55 to 58 of this Ordinance, have carried out prohibited activities in the protection perimeters around water catchment points shall be punished by imprisonment of two (2) to six (6) months and a fine of thirty thousand (30,000) to three hundred thousand (300,000) CFA Francs, or only one of these two penalties.
+It may also be ordered that these installations be destroyed and their perpetrators be evicted from the premises, without them being entitled to any compensation.
+
+**Article 101:** Repeat offenders of the offenses provided for in this Ordinance shall be punished by double the imprisonment and fines provided for in Articles 97 to 100.
+
+**TITLE XIV: TRANSITIONAL AND FINAL PROVISIONS**
+
+**Article 102:** A decree issued by the Council of Ministers, on the report of the minister in charge of water resources, shall determine:
+*   the modalities and time limits within which the owners of installations or works referred to in Articles 44, 45, and 46 of this Ordinance are required to declare said installations and works constructed or operated before the entry into force of this Ordinance;
+*   the modalities and time limits within which the protection areas of existing installations and works intended for human consumption shall be subject to demarcation as referred to in Articles 50 and 51 above;
+*   the administrative sanctions that may be taken against owners who have not made the declaration required in the first indent above, without prejudice to the criminal penalties provided for in Article 97 of this Ordinance.
+
+**Article 103:** Extensions or modifications of installations or works remain subject to the provisions of this Ordinance.
+
+**Article 104:** Regulatory texts shall specify, as needed, the modalities for the application of this Ordinance.
+
+**Article 105:** All prior provisions contrary to this Ordinance, in particular those amending and supplementing Ordinance No. 93-014 of March 2, 1993, on the Water Regime in Niger, as amended by Law No. 98-041 of December 7, 1998, are hereby repealed.
+
+**Article 106:** This Ordinance shall be published in the Official Gazette of the Republic of Niger and enforced as the law of the State.
+
+Done at Niamey, April 1, 2010
+
+Signed:
+The President of the Supreme Council for the Restoration of Democracy, Head of State
+Squadron Leader DJIBO SALOU
+
+For certified true copy:
+The Secretary-General of the Government
+Ms. SALIAH ADAMA GAZIBO
+

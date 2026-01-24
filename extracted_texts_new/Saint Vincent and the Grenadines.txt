@@ -1,0 +1,4196 @@
+
+
+--- PAGE 1 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+1 | P a g e  
+ 
+CHAPTER 403 
+CENTRAL WATER AND SEWERAGE AUTHORITY ACT 
+• Act • Subsidiary Legislation • 
+ACT 
+Act No. 17 of 1991 
+Amended by 
+Act No. 38 of 2007 
+ARRANGEMENT OF SECTIONS 
+PART I 
+Preliminary 
+1. 
+Short title and commencement. 
+2. 
+Interpretation. 
+PART II 
+The Central Water and Sewerage Authority 
+3. 
+Establishment of the Central Water and Sewerage Authority. 
+4. 
+Functions of the Authority. 
+5. 
+Exemption from liability. 
+PART III 
+Administration 
+6. 
+Establishment of Board. 
+7. 
+Appointment of Manager and other employees. 
+8. 
+Policy directions. 
+9. 
+Duties of the Manager. 
+10. 
+Transfer of officers and preservations of pensions. 
+PART IV 
+Water and Sewerage Works 
+11. 
+Water vested in Government. 
+12. 
+Control of water. 
+13. 
+Regulation of rights. 
+14. 
+Unauthorised usage of water prohibited. 
+15. 
+Acquisition of land. 
+16. 
+Power to enter premises. 
+17. 
+Power to construct works on premises. 
+
+
+--- PAGE 2 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+2 | P a g e  
+ 
+18. 
+Authority liable for compensation. 
+19. 
+Water rate or charge upon person benefiting. 
+20. 
+Water rate or charge in connection with community project. 
+21. 
+Protected areas. 
+22. 
+Offence. 
+PART V 
+Financial 
+23. 
+Funds. 
+23A. 
+Financial year. 
+23B. 
+Annual business plan. 
+23C. 
+Board obligated to implement business plan. 
+24. 
+Accounts. 
+25. 
+Estimates. 
+26. 
+Exemption from income tax. 
+PART VI 
+Rates and Charges 
+27. 
+Establishment of water supply and sewerage districts. 
+28. 
+Determining rates and charges. 
+29. 
+Public fire service. 
+30. 
+Public standpipes. 
+31. 
+Owner occupier liability. 
+PART VII 
+Miscellaneous 
+32. 
+Financial assistance. 
+33. 
+Regulations. 
+34. 
+Offence in respect of protected area. 
+35. 
+Penalty for offence where none provided. 
+36. 
+Repeal. 
+Schedule 
+ 
+CHAPTER 403 
+CENTRAL WATER AND SEWERAGE AUTHORITY ACT 
+An Act to make better provision for the conservation, control, apportionment and use of the water 
+resources of Saint Vincent and the Grenadines, and for purposes incidental thereto and connected 
+therewith. 
+Be it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House 
+of Assembly of Saint Vincent and the Grenadines and by the authority of the same, as follows. 
+[Act No. 17 of 1991 amended by Act No. 38 of 2007.] 
+[Date of commencement: 10th December, 1991.] 
+ 
+
+
+--- PAGE 3 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+3 | P a g e  
+ 
+PART I 
+Preliminary 
+1.   Short title and commencement 
+This Act may be cited as the Central Water and Sewerage Authority Act, 1991, and shall come into 
+operation on such date as the Governor-General may, by Proclamation, appoint. 
+2.   Interpretation 
+In this Act, unless the context otherwise requires— 
+“agricultural purposes”, when used in relation to the supply of water, does not include water used for 
+the purpose of watering household gardens; 
+“aquifer” means a geological structure or formation or an artificial land-fill permeated or capable of 
+being permeated permanently or intermittently with water; 
+“Authority” means the Central Water and Sewerage Authority established under section 3 of this Act; 
+“Board” means the Board of management constituted by section 6(1) of this Act; 
+“body of water” includes ground water and water contained or flowing in a spring, stream, river, 
+natural lake or swamp, or in or beneath a watercourse, or in a zone below the water table where the 
+interstices are filled with groundwater, water diverted or abstracted from any of the foregoing, or stored 
+therein, by means of works, but does not include the water in any spring which is situated wholly within 
+the boundaries of land owned by any one landowner and which does not naturally discharge into a 
+watercourse extending beyond the boundaries of such land or abutting on the boundaries of such land; 
+“bore” means any bore, hole, well excavation or other opening in the ground or any natural or 
+artificially constructed or improved underground cavity used for the purpose of intercepting, collecting, 
+obtaining or using groundwater or for the purpose of disposing of any water or waste below the surface of 
+the ground, or which extends to an aquifer; 
+“business plan”, for a financial year, means— 
+ 
+(a) 
+the business plan approved under section 23B; and 
+ 
+(b) 
+all amendments to the business plan approved under that section, 
+for the financial year; 
+[Definition of “business plan” inserted by Act No. 38 of 2007.] 
+“Chairman” means the Chairman of the Board; 
+“domestic purposes”, when used in relation to the supplying of water, does not include— 
+ 
+(a) 
+a supply of water for animals other than domestic animals or for washing motor vehicles that are 
+kept for hire; and 
+ 
+(b) 
+a supply of water for any profession, trade or business or for use in fountains; 
+“financial year” means the financial year referred to in section 23A; 
+[Definition of “financial year” inserted by Act No. 38 of 2007.] 
+“functions” includes powers and duties; 
+“groundwater” includes all water occurring or obtained from below the surface of the ground other 
+than water contained in works (not being a bore) for the distribution, reticulation, transportation, storage 
+or treatment of water or waste and water occurring in or obtained from any bore or aquifer; 
+
+
+--- PAGE 4 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+4 | P a g e  
+ 
+“industrial or commercial purposes”, when used in relation to the supply of water, means water used 
+in connection with any profession, trade, business or industrial or commercial enterprise; 
+“landholder” means the Government, any local authority, the registered owner of the land, or the 
+person in whom the land is vested by law, or any person— 
+ 
+(a) 
+lawfully holding or occupying land in accordance with the provisions of any law empowering 
+the allotment of land upon a promise of title, subject to the fulfilment by the allotee of 
+conditions; 
+ 
+(b) 
+who by any established right, custom or estate whatsoever is, or is entitled to be, the holder or 
+possessor of land; 
+“Manager” means the person appointed by the Board under section 7(1) of this Act; 
+“Minister” means the Minister responsible for water and sewerage services; 
+“pollute” means directly or indirectly to alter the physical, thermal, chemical, biological or radioactive 
+properties of any water so as to render such water less fit for any beneficial purpose for which it is, or may 
+reasonably be used, or to cause a condition which is hazardous or potentially hazardous to public health, 
+safety or welfare, or to animals, birds, fish or aquatic life or other organisms or to plants; 
+“sewage” means matter conveyed in any sewer; 
+“sewerage” means drainage by means of any sewer or system of sewer; 
+“waste” includes sewage and any other matter or thing whether wholly or partly in solid, liquid or 
+gaseous state, which if added to any water, may cause pollution; 
+“water”, for the purposes of this Act, means— 
+ 
+(a) 
+water flowing or situated upon the surface of any land; 
+ 
+(b) 
+water flowing or contained in— 
+ 
+(i) any river, stream, spring, creek or other natural course for water, 
+ 
+(ii) any lake, swamp or marsh, 
+whether or not it has been altered or artificially improved; 
+ 
+(c) 
+groundwater; 
+ 
+(d) 
+any water at any time contained by works acquired, constructed, improved or operated— 
+ 
+(i) by any person pursuant to Part IV, 
+ 
+(ii) pursuant to Part VI, 
+ 
+(iii) by or on behalf of the Authority pursuant to this Act; 
+“works” means any works which are related to or may affect the investigation, use, control, 
+management or administration of water or waste and includes any works excavations or bores— 
+ 
+(a) 
+whereby water or waste may be used, extracted, diverted, stored, conducted, regulated, 
+controlled, supplied, discharged, treated or measured; 
+ 
+(b) 
+whereby land may be drained or flooding or erosion of land or siltation of water prevented or 
+mitigated; 
+ 
+(c) 
+partly or wholly situated within or on the bed or banks of any watercourse or other source of 
+water; 
+ 
+(d) 
+whereby any other works may be constructed or protected. 
+
+
+--- PAGE 5 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+5 | P a g e  
+ 
+PART II 
+The Central Water and Sewerage Authority 
+3.   Establishment of the Central Water and Sewerage Authority 
+(1)  There is hereby established a body to be known as the Central Water and Sewerage Authority. 
+(2)  The Authority shall be a body corporate, with perpetual succession and a common seal and with 
+power to sue and to be sued in that name and which shall exercise such functions as are conferred and 
+imposed on it by this Act. 
+4.   Functions of the Authority 
+The functions of the Authority shall be to— 
+ 
+(a) 
+investigate the water resources of Saint Vincent and the Grenadines; and to advise and make 
+recommendations to the Minister relating to the improvement, preservation, conservation, 
+utilisation and apportionment of those resources, and as to the provision of additional water 
+supplies; 
+ 
+(b) 
+carry out surveys concerning the consumption of, and demand for water supplies and the water 
+resources and sewerage facilities of this Island; 
+ 
+(c) 
+prepare estimates of the future water supply or sewerage disposal requirements of any district or 
+area of this Island; 
+ 
+(d) 
+formulate proposals for meeting the existing and future water supply or sewage disposal 
+requirements of any district or area; 
+ 
+(e) 
+furnish to the Minister such information relating to water resources or water supplies or 
+sewerage facilities as is available; 
+ 
+(f) 
+construct, operate and maintain works in connection with the supply of water or the disposal of 
+sewage; 
+ 
+(g) 
+examine any surface or underground waters in this Island to determine whether pollution exists 
+and the causes thereof; 
+ 
+(h) 
+investigate, and advise and make recommendations to the Minister relating to the improvement, 
+preservation, operation and utilisation of the sewerage facilities and as to the provision of 
+additional sewerage facilities; 
+ 
+(i) 
+with the approval of the Minister fix from time to time, and levy and collect rates and charges 
+for water supplied, and for all other services performed and facilities provided, by the Authority; 
+ 
+(j) 
+with the concurrence of and subject to such limitations as may be imposed by the Treasury, if 
+necessary to borrow money or obtain credit either in Saint Vincent and the Grenadines or abroad 
+for the performance of its functions in carrying out the provisions of this Act; 
+ 
+(k) 
+create, make, draw, accept, endorse, execute, issue, discount, buy, sell, negotiate and deal in 
+bills, notes, warrants, coupons, stock, debentures and other negotiable or transferable 
+instruments. 
+5.   Exemption from liability 
+Notwithstanding the provisions of this Act, the Authority shall not be bound to supply or to continue to 
+supply water to any person and no action, suit, prosecution or other legal proceedings shall be brought 
+against it in this regard. 
+
+
+--- PAGE 6 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+6 | P a g e  
+ 
+PART III 
+Administration 
+6.   Establishment of Board 
+(1)  There shall be a Board of management which shall be responsible for the exercise of the functions 
+conferred and imposed on the Authority by this Act. 
+(2)  The provisions of the Schedule shall have affect as to the constitution of the Board and otherwise in 
+relation thereto. 
+(3)  The seal of the Authority shall be affixed by the chairman, or by any other member of the Board duly 
+authorised by the Board to do so, and by the Manager, and a document so sealed shall be authenticated by the 
+signatures of the chairman or such other member and the Manager and shall, if it purports to have been so 
+authenticated, be officially and judicially noticed. 
+7.   Appointment of Manager and other employees 
+(1)  The Board shall appoint and employ a Manager of the Authority and such other officers and 
+employees as may be necessary or desirable for the proper carrying out of the functions of the Act at such 
+remuneration and on such terms and conditions as the Board may determine: 
+Provided that— 
+ 
+(a) 
+no salary in excess of the prescribed rate shall be assigned to any post without the prior approval 
+of the Minister; and 
+ 
+(b) 
+no appointment shall be made to any post to which a salary in excess of the prescribed rate is 
+assigned without the prior approval of the Minister. 
+(2)  For the purposes of subsection (1), the “prescribed rate” means a rate of (twenty thousand) dollars 
+per annum or such higher rate as the Minister may, by order, prescribe. 
+(3)  Notwithstanding subsection (1) of this section the Board may subject to such conditions as shall be 
+specified by it in writing, delegate to the Manager the power to  
+ 
+appoint, remove, suspend, dismiss, and revoke the appointment of staff which it is the duty of the Board 
+to appoint under that subsection. 
+(4)  The Board may employ or engage the services of any professionally or otherwise suitably qualified 
+person as it considers necessary or expedient for the purpose of assisting the Board or the Authority in the 
+performance of any of its functions under this Act. 
+(5)  Every officer or employee shall, subject to this Act, perform the functions assigned to him by the 
+Manager. 
+8.   Policy directions 
+The Minister may, after consultation with the Chairman of the Board give to the Board directions of a 
+general or specific nature relating to the policy to be followed by the Board in the performance of the 
+functions of the Authority, and the Board shall give effect to such directions. 
+9.   Duties of the Manager 
+The Manager shall— 
+
+
+--- PAGE 7 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+7 | P a g e  
+ 
+ 
+(a) 
+act as secretary of the Board; 
+ 
+(b) 
+comply with such general or special instructions as may be given to him by the Board; 
+ 
+(c) 
+exercise general supervision over the conduct and operation of the activities of the Authority; 
+ 
+(d) 
+exercise control over the staff, subject to such conditions or restrictions as may be imposed in 
+that regard by the Board in writing; 
+ 
+(e) 
+furnish the Board with such reports, at such regular intervals as the Board shall determine, 
+relating to the financial position and to the carrying out of the functions of the Authority. 
+10.   Transfer of officers and preservations of pensions 
+(1)  The Public Service Commission may at the request of the Authority and subject to such conditions as 
+it may impose at any time permit and give effect to the transfer of an officer from the public service to the 
+Authority, and vice versa. 
+(2)  The transfer, in pursuance of subsection (1) of this section, of any officer shall for the purposes of the 
+Pension Act, 1948, be treated as a transfer to which Part III of that Act applies and his service with the 
+Authority shall be deemed to be a pensionable office. 
+(3)  The Authority shall, in respect of any officer transferred under subsection (1) of this section, 
+contribute to the Consolidated Fund such amount by way of pensionable emoluments and personal 
+allowances for the purposes of the Pensions Act, 1948, as the Minister responsible for finance with the 
+approval of Cabinet may at any time determine. 
+PART IV 
+Water and Sewerage Works 
+11.   Water vested in Government 
+Every body of water in Saint Vincent and the Grenadines is vested in the Government in trust for the 
+people of Saint Vincent and the Grenadines. 
+ 
+12.   Control of water 
+The control of such water for the public benefit shall be exercised in a manner not inconsistent with this 
+Act by the Authority and in particular the use of water for— 
+ 
+(a) 
+domestic and stock purposes; 
+ 
+(b) 
+irrigation, agriculture, industrial and commercial purposes; 
+ 
+(c) 
+hydro-electric and geo-thermal purposes; 
+ 
+(d) 
+navigation and fishing; 
+ 
+(e) 
+the preservation of flora and fauna and other beneficial purposes; 
+ 
+(f) 
+the prevention and mitigation of the effects of erosion, drainage, pollution and flooding. 
+13.   Regulation of rights 
+(1)  Notwithstanding any law to the contrary, no right to— 
+ 
+(a) 
+use any water; 
+
+
+--- PAGE 8 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+8 | P a g e  
+ 
+ 
+(b) 
+construct or operate any works in or adjacent to any water or bore; 
+ 
+(c) 
+cause, or permit waste to come into contact directly or indirectly with any water, 
+shall or be acquired otherwise than by virtue of this Act. 
+(2)  As from the commencement of this Act where the doing of any act is prohibited or regulated by or 
+under this Act, nothing in any other statute or in any lease, mortgage or other instrument creating an interest 
+in land, whether made or executed before or after the commencement of this Act, shall be construed— 
+ 
+(a) 
+as authorising any person to do that act; or 
+ 
+(b) 
+as authorising any person to do that act otherwise than in accordance with this Act. 
+14.   Unauthorised usage of water prohibited 
+(1)  No person shall use water in contravention of the provisions of this Act. 
+(2)  In any proceedings for an offence against subsection (1), proof of the existence on any land of any 
+pipe, channel, tank or other means whereby water is capable of being used in a manner contrary to the 
+provisions of this Act is prima facie evidence that water was so used at the time such means is proved to have 
+existed. 
+(3)  Subsection (1) shall not apply to the use of water for or in connection with the construction of a public 
+road. 
+15.   Acquisition of land 
+(1)  If the Board is satisfied that it is in the public interest to do so, the Authority may, subject to the 
+provisions of section 6 of the Constitution, and with the approval in writing of the Cabinet, purchase by 
+private treaty or acquire compulsorily any land or interest in land or other property in accordance with the 
+provisions of the Land Acquisition Act for any purpose connected with the discharge of its functions and in 
+particular land or other property may be purchased or acquired for the conservation, improvement, 
+installation or use of water and sewerage facilities. 
+(2)  The acquisition of property under subsection (1) of this section shall be deemed to be an acquisition 
+for a public purpose under any law for the time being in force relating to the compulsory acquisition of land. 
+(3)  The Authority may under this section purchase by private treaty or acquire compulsorily a right to 
+place pipes and sewers across land, whether above or below ground, and to repair and maintain such pipes 
+and sewers, without purchasing any other interest in the land. 
+(4)  A right purchased or acquired under subsection (3) shall include a right on the part of the Authority 
+and persons acting under its authority— 
+ 
+(a) 
+to the user of the land for the laying of tunnels, conduits, aqueducts, channels, drains, outfalls 
+for water mains, pipes or other structures and appliances, and accessories thereto; 
+ 
+(b) 
+of access to and of opening up such land from time to time for the inspection, renewal, repair, 
+replacement or removal of any such works and of restoring any such land, 
+without in any such case affecting the ownership of such land. 
+(5)  In relation to the purchase or acquisition of any right in land under this section the law in force 
+relating to the compulsory acquisition of land shall have effect and shall be so construed where the context so 
+requires, as if references made therein to land were a reference made to any right purchased or acquired 
+under this section. 
+(6)  In this section, “land” includes easements and other rights over land. 
+
+
+--- PAGE 9 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+9 | P a g e  
+ 
+16.   Power to enter premises 
+(1)  The Authority or any competent person duly authorised by it in writing may enter upon any premises 
+after giving reasonable notice to the owner or occupier or other responsible person— 
+ 
+(a) 
+to take such measures as may be thought fit for the purposes of the conservation, regulation, 
+preservation from pollution or prevention of diversion or waste of water; 
+ 
+(b) 
+to inspect pipes, fixtures or fittings; 
+ 
+(c) 
+in relation to any matter concerning sewage or sewerage facilities: 
+Provided that compensation shall be paid to the owner of any property to which actual injury is caused by 
+measures taken under the powers conferred by this subsection, other than measures for— 
+ 
+(a) 
+the prevention of waste; 
+ 
+(b) 
+the stopping or removal of any unauthorised diversions, abstraction or obstruction of water; or 
+ 
+(c) 
+the prevention of pollution, 
+and if any parties cannot agree as to the amount of compensation payable under this section, that amount 
+shall be determined by arbitration. 
+(2)  In exercise of the powers conferred by subsection (1) the Authority may give directions to the owner 
+or occupier of any premises so entered to take steps to remedy any default and on failure to do so within the 
+time specified by the Authority, the Authority may undertake the necessary action required and recover the 
+costs thereof from the owner or occupier of the property. 
+(3)  An authorised person may enter premises without giving notice if he— 
+ 
+(a) 
+has reasonable cause to believe that some provision of this Act or subsidiary legislation made 
+thereunder has been or is about to be contravened; 
+ 
+(b) 
+is unable to give notice within a reasonable time having regard to all the circumstances; or 
+ 
+(c) 
+has reasonable grounds for not giving notice, 
+and any person so entering shall cause as little damage as possible in the exercise of his powers under 
+subsection (1) of this section. 
+(4)  Any person who prevents, hinders or obstructs any authorised person from entering upon any 
+premises in accordance with this section or from lawfully carrying out his functions under subsection (1) 
+thereof, commits an offence and is liable on summary conviction to a fine not exceeding five thousand 
+dollars or in default of payment, to imprisonment for a term not exceeding two years, or to both such fine and 
+imprisonment. 
+17.   Power to construct works on premises 
+(1)  The Authority may, after reasonable notice to the landholder concerned, if it appears to the Authority to 
+be in the public interest to do so, construct and maintain upon any land such works as may be necessary or 
+desirable for any of the following purposes— 
+ 
+(a) 
+the protection of the source or course of any body of water; 
+ 
+(b) 
+the disposal or control of flood water; 
+ 
+(c) 
+the conservation and storage of water; 
+ 
+(d) 
+the distribution, apportionment or measurement of water; 
+ 
+(e) 
+the provision of sewerage facilities. 
+
+
+--- PAGE 10 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+10 | P a g e  
+ 
+(2)  The Authority shall pay compensation to the owner of the land on which such works are constructed, 
+but in assessing the amount of such compensation, the Authority shall take into consideration any benefit or 
+betterment which has accrued to such land by the construction of those works, or any adverse effects on such 
+land caused by such works as the case may be. 
+(3)  The cost of construction and maintenance of works under this section may with the written consent of 
+the Minister responsible for finance be charged on the Consolidated Fund. 
+(4)  “Reasonable notice” under subsection (1) means— 
+ 
+(a) 
+notice in writing to the owner or occupier of premises or road authority, as the case may be, of 
+its intention not later than seven days before the work commences; or 
+ 
+(b) 
+in the case of an emergency, notice soon as possible after the necessity for the action has arisen 
+or after the action has begun. 
+18.   Authority liable for compensation 
+The Authority shall be liable for and shall pay compensation for damage to any public works which may 
+be occasioned by reason of the works of the Authority— 
+ 
+(a) 
+breaking or being defective in construction; or 
+ 
+(b) 
+being out of repair or of insufficient capacity, 
+and, in the event of such public works not being repaired or replaced after notice to do so has been served on 
+the Authority by the Treasury, the Minister for the time being responsible for public works shall cause such 
+damage to be repaired or the works replaced and may cause the cost of so doing to be recovered in any court. 
+19.   Water rate or charge upon person benefiting 
+(1)  Where the cost of works constructed under section 17(1) of this Act has been paid out of the 
+Consolidation Fund any person who in the opinion of the Authority has benefited by the construction of such 
+works shall, if so decided by resolution of the Board, pay to the Authority a water rate or other charge for 
+such benefit, the amount of which shall be decided by the Board. 
+(2)  Any person who is grieved by a decision made under the provisions of this section may appeal to the 
+Minister whose decision shall be final. 
+20.   Water rate or charge in connection with community project 
+When the cost of works constructed under section 17(1) of this Act has been paid out of the Consolidated 
+Fund and such works are required or used for the purpose of a community project, a water rate or other 
+charge the amount of which shall be decided by the Board shall if so decided by resolution of the Board be 
+payable to the Authority by all persons who in the opinion of the Authority have benefited or may benefit as 
+a result of such works. 
+21.   Protected areas 
+(1)  Where the Minister, after consultation with, or on the advice of, the Authority, is satisfied that special 
+measures are necessary for the protection of the water resources in, or derived from any specified area, he 
+may by notice in the Gazette specify and declare such area or any part thereof, to be a protected area and 
+may, if he considers it necessary for the protection of such area or for the protection of the water supply 
+obtained therefrom by the same notice, require, regulate or prohibit the doing by any person in such specified 
+area, or part thereof, of any act. 
+
+
+--- PAGE 11 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+11 | P a g e  
+ 
+(2)  Any person who knowingly contravenes the provisions of any such notice commits an offence and is 
+liable on summary conviction to a fine not exceeding ten thousand dollars or to a term of imprisonment not 
+exceeding two years, or to both such fine and imprisonment. 
+ 
+22.   Offence 
+A person who hinders or obstructs an employee or agent of the Authority in the performance of his 
+functions under this Part commits an offence and is liable on summary conviction to a fine not exceeding two 
+thousand dollars or to a term of imprisonment not exceeding two years, or to both such fine and 
+imprisonment. 
+PART V 
+Financial 
+23.   Funds 
+The funds of the Authority shall include— 
+ 
+(a) 
+such sums of money as may be placed at the disposal of the Authority by Parliament; 
+ 
+(b) 
+all amounts which at the date of commencement of this Act, are at the disposal of or belong to 
+the Central Water and Sewerage Authority established by section 3 of the Central Water 
+Authority Act, 1978; 
+ 
+(c) 
+all sums accruing to the Authority by virtue of the exercise of its functions under section 4(i) of 
+this Act; 
+ 
+(d) 
+all monies, if any, borrowed under section 4(j) of this Act; 
+ 
+(e) 
+such monies as the Treasury may from time to time approve as funds of the Authority. 
+23A.   Financial year 
+The financial year of the Authority is the twelve month period beginning on the 1st day of January and 
+ending the 31st day of December. 
+[Section 23A inserted by Act No. 38 of 2007.] 
+23B.   Annual business plan 
+(1)  The Board shall, not later than four months before the commencement of each financial year and in 
+such form as the Minister requires, prepare in respect of the financial year, and submit to the Minister, a 
+proposal for a business plan for the financial year that must contain— 
+ 
+(a) 
+a statement of the Authority’s objectives and priorities in carrying out its responsibilities for the 
+financial year and the following two financial years; 
+ 
+(b) 
+a comprehensive financial plan that— 
+ 
+(i) shows how resources, including but limited to financial resources, will be allocated to 
+meeting the objectives and priorities of the Authority for the financial year, and 
+ 
+(ii) includes pro forma financial statements as required by the Minister; 
+ 
+(c) 
+a comparison of the pro forma financial statements with the actual financial statements for the 
+previous financial year; 
+
+
+--- PAGE 12 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+12 | P a g e  
+ 
+ 
+(d) 
+a statement as to how the Board proposes to measure its performance in carrying out its 
+responsibilities in the financial year; and 
+ 
+(e) 
+any other information required by the Minister by written notice to the Board. 
+(2)  The Minister may, on the request of the Board, extend the time for submitting a proposal for a 
+business plan. 
+(3)  The Minister shall, as soon as practicable, consider the proposal for a business plan and may, after 
+consulting with the Minister of Finance— 
+ 
+(a) 
+approve the proposal as submitted; 
+ 
+(b) 
+with the approval of the Board, amend the proposal and approve it as amended; or 
+ 
+(c) 
+refer the proposal back to the Board with directions that the Board take any further action with 
+respect to it that the Minister considers appropriate. 
+(4)  Where the Minister refers the proposal for a business plan back o the Board under subsection (3)(c), 
+he shall provide the Board with his reasons for not approving it. 
+(5)  A proposal for a business plan that is referred back to the Board under subsection (3)(c) must be 
+resubmitted to the Minister as directed by the Minister and, when it is resubmitted, subsections (3) and (4) 
+apply. 
+(6)  When a proposal in relation to a financial year is approved by the Minister, it becomes the business 
+plan for that financial year. 
+(7)  The Board— 
+ 
+(a) 
+may, of its own motion, submit to the Minister a proposal to amend an approved business plan; 
+and 
+ 
+(b) 
+shall, on the request of the Minister and within the time requires by the Minister, submit to the 
+Minister a proposal to amend an approved business plan. 
+(8)  Subsections (3), (4), (5) and (6) apply to a proposal submitted to the Minister under subsection (7). 
+[Section 23B inserted by Act No. 38 of 2007.] 
+23C.   Board obligated to implement business plan 
+The Board— 
+ 
+(a) 
+shall in each financial year implement the business plan for that financial year; and 
+ 
+(b) 
+shall establish a mechanism for monitoring the implantation of the financial plan. 
+[Section 23C inserted by Act No. 38 of 2007.] 
+24.   Accounts  
+(1)  The Board shall— 
+ 
+(a) 
+keep proper books of account of its income and other receipts and expenditures; and 
+ 
+(b) 
+ensure that— 
+ 
+(i) all money received is promptly and properly brought to account, 
+ 
+(ii) all payments out of its money are correctly made and properly authorised, and 
+ 
+(iii) adequate control is maintained over its property and over the incurring of liabilities by the 
+Authority. 
+
+
+--- PAGE 13 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+13 | P a g e  
+ 
+(2)  The books of account kept under subsection (1) shall— 
+ 
+(a) 
+be sufficient to record and explain the Authority’s transactions; 
+ 
+(b) 
+enable the Authority’s financial position to be determined with reasonable accuracy at any time; 
+and 
+ 
+(c) 
+be sufficient to enable financial statements to be prepared and audited in accordance with this 
+section. 
+(3)  Within three months after the end of each financial year, the Board shall cause to be prepared— 
+ 
+(a) 
+the following financial statements together with proper and adequate explanatory notes— 
+ 
+(i) a statement of the assets and liabilities of the Authority at the end of the financial year, 
+ 
+(ii) a statement of the revenue and expenditure of the Authority during the financial year, 
+ 
+(iii) such other financial statements for the financial year as may be specified in writing by the 
+Minister; and 
+ 
+(b) 
+an annual report of the Authority on the implementation of the business plan and such other 
+matters as the Board considers advisable or the Minister directs. 
+(4)  Without delay after the completion of the financial statements and the annual report, the Board shall 
+furnish a copy of each to the Director of Audit. 
+[Section 24 substituted by Act No. 38 of 2007.] 
+25.   Estimates 
+(1)  Not later than three months after receipt of the financial statements and annual report from the Board, 
+the Director of Audit shall audit the financial statements in accordance with the Audit Act. 
+(2)  Without delay after the completion of his audit of the Authority, the Director of Audit shall submit a 
+copy of his report together with the financial statements and annual report to the Minister, the Minister of 
+Finance and the Board. 
+(3)  The Minister of Finance shall, not later than seven days after the House of Assembly first meets after 
+he has received the report together with the financial statements and annual report of the Authority, lay it 
+before the House. 
+(4)  If the Minister fails to lay the report together with the financial statements and the annual report of the 
+Authority before the House of Assembly in accordance with subsection (3), the Director of Audit shall 
+transmit the report, the financial statements and the annual report to the Speaker who shall, as soon as 
+practicable, present them to the House of Assembly. 
+(5)  As soon as reasonably practicable after the report together with the financial statements and the 
+annual report of the Authority have been laid before the House of Assembly, the Board shall cause the report, 
+the financial statements and the annual report of the Authority to be published in the Gazette. 
+[Section 25 substituted by Act No. 38 of 2007.] 
+26.   Exemption from income tax 
+The Authority shall be exempt from liability for any income tax, duty, levy or other charge. 
+ 
+PART VI 
+
+
+--- PAGE 14 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+14 | P a g e  
+ 
+Rates and Charges 
+27.   Establishment of water supply and sewerage districts 
+(1)  For the purposes of the exercise of its functions under section 4(d) of this Act, the Authority shall 
+recommend to the Minister the establishment of water supply and sewerage districts in Saint Vincent and the 
+Grenadines by reference to defined limits or some specific description. 
+(2)  The Minister shall, by order, establish water supply and sewerage districts recommended to him under 
+subsection (1) of this section, and every such order shall contain reference to the defined limits or specific 
+description of the district concerned. 
+(3)  The Minister on the recommendation of the Authority, may from time to time, by order, vary the 
+limits or description of any district established under subsection (2) of this section, or abolish any district. 
+28.   Determining rates and charges 
+In determining the rates and charges to be levied for the services of the Authority, the Board may take into 
+consideration in respect of any relevant period, any or all of the following matters— 
+ 
+(a) 
+whether the Authority’s revenue derived during the relevant period from all its sources is 
+sufficient to cover the Authority’s expenses; 
+ 
+(b) 
+the interest payments to be made by the Authority; 
+ 
+(c) 
+the repayments of principal to be made on any loan secured under this Act; 
+ 
+(d) 
+the amounts that the Board thinks ought to be set aside for the Authority’s purposes, including 
+amounts for depreciation and reserve funds; 
+ 
+(e) 
+the uses to which water supplied by the Authority is to be applied. 
+29.   Public fire service 
+There shall be no charge for water used by the fire services in cases of fire. 
+30.   Public standpipes 
+So long as there is no charge for water used by the public from public standpipes this service shall be 
+considered an obligation of the Government payable from funds appropriated for the purpose. 
+31.   Owner occupier liability 
+(1)  Notwithstanding any agreement between the owner and the occupier of premises, the Authority may 
+recover any rates or charges payable in respect of such premises, from the owner and occupier jointly or 
+severally. 
+(2)  The Authority may by notice in writing (a copy of which shall be sent to the owner liable) require the 
+occupier to pay to the Authority out of any amount held in respect of rent— 
+ 
+(a) 
+such portion of the amount held as specified in the notice; 
+ 
+(b) 
+the total amount held; or 
+ 
+(c) 
+an amount specified in the notice periodically until the total sum for which the owner is liable is 
+paid. 
+(3)  The occupier so notified shall be deemed to have made such payments on the authority of the owner 
+and shall be indemnified in respect of such payments by virtue of this section. 
+
+
+--- PAGE 15 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+15 | P a g e  
+ 
+(4)  Unpaid rates and charges are a lien and charges against the premises in respect of which the debt is 
+incurred. 
+PART VII 
+Miscellaneous 
+32.   Financial assistance 
+The Minister may, with the approval of the Cabinet establish a fund out of monies voted for the purpose 
+by Parliament, to assist low income earning families to finance in-house water and sewerage installations, 
+and may make regulations governing the operation of that fund. 
+33.   Regulations 
+(1)  The Authority may with the approval of the Minister make regulations and the Minister may by order 
+in relation to such matters as he shall specify therein require the Authority to make Regulations generally for 
+the purposes of this Act and in particular in relation to the following matters— 
+ 
+(a) 
+regulating and controlling— 
+ 
+(i) the types, specifications, locations, construction, repair, removal or alteration of mains, 
+service pipes, valves, hydrants, stand pipes and all other work in or upon any premises 
+that form part of or are connected with water works, 
+ 
+(ii) the manner in which the service pipes of consumers are to be connected with the mains of 
+the water works supplying the water, 
+ 
+(iii) the location, construction, repair, removal or alteration of sewers, drain pipes, manholes, 
+gully traps and all other works in or upon any premises, that form part of or are connected 
+with sewerage works, 
+ 
+(iv) the content of sewage entering sewerage works, 
+ 
+(v) the use of water from any source of supply; 
+ 
+(b) 
+requiring the connection of building sewers to sewerage works and regulating and controlling the 
+manner in which building sewers are to be connected; 
+ 
+(c) 
+(i) prescribing standards of quality for potable and other water supplies, sewage and 
+industrial waste effluents, receiving streams and water courses, 
+ 
+(ii) operating standards for water works or sewerage works, 
+ 
+(iii) measures for ensuring the purity of water supply, 
+ 
+(iv) the manner of effecting the supply of water or sewerage services to premises and the 
+charges for connecting premises to the Authority’s mains, 
+ 
+(v) installing meters for the purpose of measuring the quantity of water supplied to any 
+property, to enter upon any property for the purpose of installing, reading, inspecting or 
+testing any such meter, 
+ 
+(vi) the amount of the security to be furnished by persons applying for the supply of water or 
+sewerage services, 
+ 
+(vii) the rates and charges payable in respect of water supply and sewerage services, 
+ 
+(viii) the special rates and charges payable in respect of water supplied for specified purposes, 
+including water supplied for agriculture, industrial or commercial purposes; 
+
+
+--- PAGE 16 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+16 | P a g e  
+ 
+ 
+(d) 
+the inspection of works, land and premises; 
+ 
+(e) 
+the execution and maintenance of any works for the purpose of sewerage or sewage disposal, or 
+for the purpose of draining land, or for soil conservation or for more effectively collecting, 
+conveying or preserving water or preserving the purity or quantity thereof; 
+ 
+(f) 
+the issue of permits authorising any diversion, abstraction, or obstruction of any water supply, or 
+the use of water, according to such terms and conditions as may be specified in such permit, 
+regard being had to the extent to which the authorisation of such permit may interfere with the 
+domestic requirements of other consumers or with the water, as the case may be; 
+ 
+(g) 
+forms to be used under this Act or the regulations made under this subsection; 
+ 
+(h) 
+regulating or restricting the supply of water or sewerage services to premises; 
+ 
+(i) 
+exempting certain classes of persons from the payment of rates and charges for the supply of 
+water or sewerage services; 
+ 
+(j) 
+granting discounts or rebates in consideration of prompt payment of any rates or charges levied 
+or imposed by or under the provisions of this Act; 
+ 
+(k) 
+requiring certain classes of industries or particular operations to enter into trade waste 
+agreements before their wastes are discharged, whether to water, land or into sewers of the 
+Authority; 
+ 
+(l) 
+imposing conditions on the storage of potentially polluting substances on land, which may affect 
+the water by seepage; 
+ 
+(m) 
+regulating the power to enter into land to give directions to landowners to repair defective 
+private sewage treatment works and septic tanks and to execute works in default of action by the 
+land owner and to recover the cost from the landowner; 
+ 
+(n) 
+the advertisement and declaration of new areas into which water supplies and sewage are to be 
+carried; 
+ 
+(o) 
+the construction, operation and maintenance of works; 
+ 
+(p) 
+the compulsory connection of lands to drains and sewers of the Authority; 
+ 
+(q) 
+the establishment of codes of workmanship specifying technical requirements for connections 
+and fittings; 
+ 
+(r) 
+in regard to requiring capital contributions from landowners benefiting from new works; 
+ 
+(s) 
+the vesting of all existing water supply and sewerage works in the Authority; 
+ 
+(t) 
+the construction, maintenance and operation of both water supply and sewerage service 
+throughout the country; 
+ 
+(u) 
+empowering the Authority, after reasonable demand made by it in writing, to disconnect the 
+supply of water to any property in respect of which there remains unpaid, any water or sewerage 
+rates; and 
+ 
+(v) 
+any other matter or thing, for the purpose of the better carrying out of the purposes and 
+provisions of this Act or of paragraphs (a) to inclusive of this subsection. 
+(2)  Regulations made under subsection (1) of this section may be made applicable either generally or 
+with respect to any water supply or sewerage district established under section 27(2) of this Act, or to any 
+part thereof, and for the purposes of this subsection, “district” includes any such district the limits or 
+description of which have been varied in accordance with section 27(3) of this Act. 
+(3)  If within three months after an order made by the Minister under subsection (1) of this section the 
+Authority has not made regulations satisfactory to the Minister in relation to all or any of the matters 
+
+
+--- PAGE 17 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+17 | P a g e  
+ 
+specified in the order the Minister may amend or revoke any regulation with which he is not satisfied, and 
+may make new regulations as he considers necessary. 
+(4)  Regulations made by the Minister under subsection (3) of this section shall have effect as if they had 
+been made by the Authority. 
+(5)  Regulations made under this section shall, subject to subsection (6), bind the Crown. 
+(6)  The Minister, acting upon the advice of the Authority, may by order exempt persons from any 
+regulations made under this section or any provision thereof. 
+(7)  Regulations made under this section may include provision for— 
+ 
+(a) 
+the alteration, repair or replacement of any installation or fitting which contravenes the 
+regulations; 
+ 
+(b) 
+the disconnection of the water supply to any property in respect of which any contravention of 
+these Regulations has occurred. 
+(8)  Regulations made under this section may fix separate charges for separate services or facilities, or 
+combine charges for more than one service or facility and nothing in any enactment or in any agreement or 
+arrangement shall so operate in relation to the Authority, as to oblige it to fix separate charges for separate 
+services or facilities. 
+(9)  There may be annexed to the contravention of any of the regulations made under this section such 
+penalty, not exceeding five thousand dollars or such terms of imprisonment not exceeding two years or both 
+such fine and such imprisonment as the Authority making the regulations may think fit; and in the case of a 
+continuing offence, a further fine not exceeding five hundred dollars for each day during which the offence 
+continues. 
+34.   Offence in respect of protected area 
+Any person who in an area protected under section 21— 
+ 
+(a) 
+swims or bathes; 
+ 
+(b) 
+places, deposits, discharges or allows any material of any kind that is likely to impair the quality 
+of the water to remain therein; 
+ 
+(c) 
+does any act or takes water so that the amount of water in the area is unduly diminished, 
+commits an offence and is liable on summary conviction to a fine not exceeding one thousand dollars or 
+imprisonment for a term not exceeding twelve months, or to both such fine and imprisonment, and to a 
+further fine of one hundred dollars for each day during which the offence continues. 
+35.   Penalty for offence where none provided 
+Any person who contravenes any provision of this Act, or of any regulations made thereunder for which 
+no penalty is specified shall be liable on summary conviction to a fine not exceeding one thousand dollars or 
+to imprisonment for a term not exceeding twelve months, or to both such fine and imprisonment. 
+36.   Repeal 
+The Central Water and Sewerage Authority Act, 1978, is hereby repealed. 
+ 
+Schedule 
+[Section 6(2).] 
+
+
+--- PAGE 18 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+18 | P a g e  
+ 
+1.   Constitution of Board 
+(1)  The Board shall consist of eight members as under— 
+ 
+(a) 
+the Director of Planning, Ministry of Finance who shall be an ex officio member; 
+ 
+(b) 
+the following members to be appointed by the Minister by instrument in writing— 
+ 
+(i) a chairman, 
+ 
+(ii) a deputy chairman, 
+ 
+(iii) a representative of the Ministry of Health, 
+ 
+(iv) a representative of the Ministry of Agriculture, 
+ 
+(v) a resident of Kingstown, 
+ 
+(vi) a resident of a district other than Kingstown, 
+ 
+(vii) a representative of the business community or hotel industry. 
+(2)  In the case of the inability of any member to act, the Minister may appoint a person to act temporarily 
+in the place of that member. 
+ 
+2.   Tenure of office 
+Subject to paragraphs 4, 5 and 6 a member shall hold office for a term of two years, but that member is 
+eligible for re-appointment. 
+3.   Filling of vacancy 
+A person who is appointed to fill a vacancy created by the death, resignation or removal from office of a 
+member shall hold office only for the unexpired term of that former member. 
+4.   Resignation 
+A member other than the Chairman or Deputy Chairman may at any time resign his office by instrument 
+in writing addressed to the Chairman who shall forthwith forward it to the Minister; and the member shall 
+cease to be a member of the Board upon the date of the receipt by the Minister of the instrument. 
+5.   Resignation of Chairman and Deputy Chairman 
+The chairman or Deputy Chairman may at any time resign his office by instrument in writing addressed to 
+the Minister and upon the date of the receipt by the Minister of the instrument, shall cease to be Chairman or 
+Deputy Chairman, as the case may be, and a member of the Board. 
+6.   Vacancy 
+A vacancy in the membership of the Board shall occur— 
+ 
+(a) 
+on the death or resignation of a member; 
+ 
+(b) 
+on the revocation by the Minister of the appointment of a member; or 
+ 
+(c) 
+on the absence of a member from three consecutive meetings of the Board without the 
+Minister’s approval. 
+7.   Gazetting appointments 
+The Chairman shall cause to be published in the Gazette the fact of the appointment, removal, resignation 
+or death of a member. 
+ 
+ 
+
+
+--- PAGE 19 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+19 | P a g e  
+ 
+8.   Procedure at meetings 
+(1)  Meetings of the Board shall be held at least once every month, and such other times as the chairman 
+considers necessary or expedient for the transaction of the business of the Authority. 
+(2)  The Chairman, or in the event of his absence from Saint Vincent and the Grenadines or his inability to 
+act as such, the deputy chairman, may at any time call a special meeting of the Board and shall call such a 
+meeting within seven days of the receipt by him of a request for that purpose addressed to him in writing and 
+signed by not less than two members. 
+(3)  Subject to subparagraph (4), the Chairman or in his absence the Deputy Chairman shall preside at all 
+meetings of the Board. 
+(4)  In the absence of both the Chairman and the Deputy Chairman, the members present and constituting 
+a quorum shall elect a Chairman from among their number to preside at the meeting. 
+(5)  Five members of the Board form a quorum. 
+(6)  The decisions of the Board shall be by a majority of votes cast by members present at the meeting, 
+and in any case in which the voting is equal the chairman or other person presiding at the meeting in addition 
+to having an original vote, shall have a casting vote. 
+(7)  Minutes of each meeting shall be kept by the Secretary to the Board or by such other officer as the 
+Board appoints for the purpose and shall be confirmed by the Board and signed by the chairman or deputy 
+chairman at the next meeting of the Board. 
+(8)  Certified copies of the confirmed minutes of each meeting shall be forwarded to the Minister. 
+(9)  Subject to the foregoing the Board shall have power to regulate its own proceedings. 
+9.   Appointment of committee 
+(1)  The Board may— 
+ 
+(a) 
+appoint such committees composed of Directors and other persons for the purpose of assisting 
+and advising the Board on the proper performance of the functions of the Authority; and 
+ 
+(b) 
+with the approval of the Minister, delegate to the Committees such functions as it considers 
+necessary. 
+(2)  A person co-opted, under subparagraph (1) is not entitled to vote at any meeting of the Board. 
+10.   Validity of proceedings 
+Any act done or proceeding taken by the Board under this Act or the regulations, may not be questioned 
+on the ground of— 
+ 
+(a) 
+the existence of any vacancy in the membership of, or of any defect in the constitution of the 
+Board; 
+ 
+(b) 
+the contravention by a member of paragraph 11; 
+ 
+(c) 
+any omission, defect or irregularity that does not affect the merit of the proceedings. 
+11.   Disclosure interest 
+(1)  A member who is in any way, whether directly or indirectly, interested in a contract or proposed 
+contract with the Authority, shall declare in writing to the Secretary for the information of the Board, the 
+nature and extent of his interest. 
+(2)  A member shall not participate in any proceedings or discussions nor vote in respect of any contract 
+in which he is interested. 
+ 
+
+
+--- PAGE 20 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+20 | P a g e  
+ 
+12.   Protection of other members 
+(1)  No action, suit, proceeding or proceedings shall be brought or instituted personally against any 
+member of the Board in respect of any act done bona fide in pursuance or execution of the provisions of this 
+Act. 
+(2)  Where any member of the Board is exempt from liability by reason only of the provisions of this 
+paragraph, the Authority shall be liable to the extent that it would be if the said member were a servant or 
+agent of the Authority. 
+13.   Reservation of members 
+A member of the Board shall be entitled to receive such allowances, if any, as may be recommended by 
+the Board and approved by the Minister, and such travelling and other expenses as he may necessarily and 
+reasonably incur in the performance of his duties as such member. 
+ 
+CHAPTER 403 
+CENTRAL WATER AND SEWERAGE AUTHORITY ACT 
+SUBSIDIARY LEGISLATION 
+ 
+List of Subsidiary Legislation 
+1. 
+Central Water and Sewerage Authority (Water Supply) Regulations 
+2. 
+Central Water and Sewerage Authority (Sewerage) Regulations 
+ 
+Central Water and Sewerage Authority (Water Supply) Regulations 
+Act No. 29 of 1991 
+Amended by 
+SRO 31 of 2007 
+ARRANGEMENT OF REGULATIONS 
+PART I 
+Preliminary 
+1. 
+Citation and commencement. 
+2. 
+Interpretation. 
+3. 
+Designation of areas. 
+4. 
+Supply of water not compulsory. 
+ 
+
+
+--- PAGE 21 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+21 | P a g e  
+ 
+PART II 
+Approval of Works 
+5. 
+Installation of water service pipe. 
+6. 
+Applications for water service pipes. 
+7. 
+Conditions for consent. 
+8. 
+Fees. 
+PART III 
+Agreements to Supply Water 
+9. 
+Application for water supply. 
+10. 
+Security deposit. 
+PART IV 
+Metering 
+11. 
+Installation of meters. 
+12. 
+Positioning of meters. 
+13. 
+Power to enter premises. 
+14. 
+Testing meters. 
+15. 
+Estimating water consumption. 
+16. 
+Reading meters. 
+PART V 
+Temporary Supplies 
+17. 
+Temporary supplies for construction purposes. 
+PART VI 
+Water Charges 
+18. 
+Metered supplies. 
+19. 
+Charges for unmetered supplies. 
+20. 
+Differing charges for water. 
+21. 
+Recovery of outstanding charges. 
+22. 
+Penalties payable on overdue accounts. 
+23. 
+Recovery of administrative charges. 
+24. 
+Remission of charges. 
+PART VII 
+Interruption to Supply 
+25. 
+Water restrictions. 
+26. 
+Power temporarily to interrupt supply. 
+27. 
+Power to disconnect or restrict supply. 
+28. 
+Outstanding amounts to be paid before reconnection. 
+29. 
+No rebates allowable for interruptions to supply. 
+30. 
+Temporary disconnections. 
+ 
+
+
+--- PAGE 22 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+22 | P a g e  
+ 
+PART VIII 
+Waste or Misuse of Water 
+31. 
+Duty to avoid waste and pollution. 
+32. 
+Prohibition of unauthorised use. 
+33. 
+Liability for damage. 
+34. 
+Maximum capacity of storage tanks. 
+35. 
+Building over mains sewers. 
+36. 
+Trees and shrubs. 
+37. 
+Tampering with works. 
+38. 
+Obstruction of authorised officers. 
+39. 
+Unlawful connections. 
+40. 
+Public health. 
+41. 
+Providing false information. 
+42. 
+Offences. 
+43. 
+Repeal. 
+First Schedule 
+Installation or Relocation of Water Connections 
+Second Schedule 
+Security Deposits for Payment of Charges 
+Third Schedule 
+Fourth Schedule 
+Fifth Schedule 
+Sixth Schedule 
+ 
+CENTRAL WATER AND SEWERAGE AUTHORITY (WATER SUPPLY) REGULATIONS 
+In exercise of the powers conferred by section 33 of the Central Water and Sewerage Authority Act, 
+1991 (No. 17 of 1991) the Central Water and Sewerage Authority with the approval of the Minister, 
+makes the following Regulations. 
+[Act No. 29 of 1991 amended by SRO 31 of 2007.] 
+[Date of commencement: 10th December, 1991.] 
+PART I 
+Preliminary 
+1.   Citation and commencement 
+These Regulations may be cited as the Central Water and Sewerage Authority (Water Supply) 
+Regulations, 1991, and shall come into operation on the 10th day of December, 1991. 
+2.   Interpretation 
+In these Regulations, unless the context otherwise requires— 
+“authorised officer” means any officer or servant of the Authority; 
+“construct” includes alter, improve and repair; 
+“environment” includes the physical, biological, economic, cultural, social and all other aspects of the 
+surroundings of man; 
+
+
+--- PAGE 23 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+23 | P a g e  
+ 
+“main” means a main pipe forming part of the water supply system vested in or constructed by the 
+Authority and includes any valves, valve chambers, meters, hydrants, access shafts, chambers and other 
+fittings as may be necessary for the proper functioning of such system; 
+“premises” includes land; 
+“prescribed” means prescribed by regulations; 
+“private water pipe”, in relation to premises, means any pipe on the premises provided by the owner 
+or occupier for the receipt of a supply of water under these regulations, but does not include a water 
+service pipe or main; 
+“water service pipe”, in relation to premises, means a connection provided by the Authority or at its 
+direction, at or near the boundary of the premises for the conveyance of a water supply between a main 
+and any private water pipe constructed on those premises. 
+3.   Designation of areas 
+The Authority may by declaration designate any area to be an area to which these Regulations apply and 
+may amend or revoke any such declaration. 
+4.   Supply of water not compulsory 
+Notwithstanding any provision of these Regulations or of any agreement to which the Authority is a party, 
+it is not compulsory for the Authority to supply or to continue to supply water to any person or public 
+authority and the Authority is not liable to any penalty or to damages for not supplying water to any person. 
+PART II 
+Approval of Works 
+5.   Installation of water service pipe 
+No person shall— 
+ 
+(a) 
+construct or cause to be constructed any water service pipe; 
+ 
+(b) 
+connect or cause any water service pipe to be connected to a main or any other work belonging 
+to the Authority, 
+without first obtaining consent from the Authority. 
+6.   Applications for water service pipes 
+(1)  A person seeking the Authority’s consent for the installation of a water service pipe shall apply on the 
+appropriate form prescribed by the Authority. 
+(2)  The Authority may consent to any application on such conditions as it sees fit, or may refuse its 
+consent. 
+ 
+7.   Conditions for consent 
+(1)  Unless the Authority determines otherwise, any works for which the Authority’s consent is required 
+shall only be performed in the presence of, and in accordance with any directions given by an authorised 
+officer. 
+
+
+--- PAGE 24 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+24 | P a g e  
+ 
+(2)  As a condition of granting its consent the Authority may require that the work specified be done by 
+the Authority at the cost of the applicant. 
+8.   Fees 
+(1)  Where pursuant to regulation 7(2) work is to be undertaken by the Authority, the Authority shall not 
+commence the work until the applicant has paid such minimum charge for executing the work as is 
+prescribed in the First Schedule. 
+(2)  Were no minimum charge for work done by the Authority is established by regulations, on 
+completion of the work and before water is supplied to him, the applicant shall pay to the Authority the actual 
+cost of the work as determined by the Manager. 
+(3)  If the actual cost of the work exceeds the minimum charge paid to the Authority under subregulation 
+(1), when the work is completed and before water is supplied to him the applicant shall pay to the Authority 
+the balance of the actual cost of the work, as determined by the Manager. 
+PART III 
+Agreements to Supply Water 
+9.   Application for water supply 
+(1)  Where a water service pipe has been provided for any premises under these Regulations, a person 
+seeking a supply of water must apply on the appropriate form prescribed by the Authority. 
+(2)  The Authority may agree to supply the applicant with water on such conditions as it sees fit or may 
+refuse to supply the applicant. 
+(3)  The Authority shall not supply the applicant with water until the applicant has paid to the Authority 
+the fee prescribed in the Sixth Schedule. 
+ 
+ 
+ 
+10.   Security deposit 
+(1)  Before an applicant is supplied with water, he shall pay to the Authority such deposit as is prescribed 
+in the Second Schedule as security for regular payment of water charges. 
+(2)  Any deposit paid to the Authority under this regulation shall be refunded in full when the supply 
+agreement is terminated or the water supply is disconnected or restricted under regulation 21 or 28, less such 
+amounts as the Authority may deduct to meet— 
+ 
+(a) 
+any outstanding charges for water supplied; 
+ 
+(b) 
+the type or class of premises supplied, as prescribed in the Second Schedule. 
+(3)  Where differing deposits are fixed in the Second Schedule and either— 
+ 
+(a) 
+water supplied is used for more than one purpose; 
+ 
+(b) 
+the premises supplied may be regarded as falling into more than one type or class, 
+the Manager in his sole discretion, shall determine which of the differing deposits shall be paid. 
+
+
+--- PAGE 25 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+25 | P a g e  
+ 
+PART IV 
+Metering 
+11.   Installation of meters 
+(1)  The Authority may install a meter for the purpose of measuring the amount of water supplied by it to 
+any person or class of persons or to any premises. 
+(2)  A meter shall not be installed unless it has first been tested by the Authority and found to be accurate. 
+(3)  A meter shall be rated accurate if upon testing it registers within five per cent above or below the 
+amount of water actually passed through it during the test. 
+(4)  The Authority shall keep a record of each meter installed which shall include each date on which it is 
+tested and the result of each test. 
+(5)  Any meter installed under this regulation remains the property of the Authority. 
+(6)  No rent shall be charged for a meter supplied under this regulation. 
+12.   Positioning of meters 
+(1)  The Manager shall after consultation with the owner of the premises to which water is to be supplied, 
+determine where a meter is to be positioned. 
+(2)  A person wishing to remove or alter the position of a meter shall give seven days notice in writing to 
+the Authority and pay to the Authority either— 
+ 
+(a) 
+such charge as is prescribed in the Third Schedule; or 
+ 
+(b) 
+the actual cost of removing or altering the meter, 
+as the Manager determines. 
+(3)  A meter shall not be removed or altered until it has been read by an authorised officer. 
+(4)  No person other than an authorised officer shall remove, disconnect, re-connect, alter the position of, 
+or in any way interfere with a meter. 
+(5)  Anyone contravening the provisions of this regulation commits an offence and is liable on summary 
+conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding three 
+months. 
+(6)  No charge shall be made for installing a meter in a water service pipe which is unmetered at the 
+commencement of these Regulations. 
+13.   Power to enter premises 
+(1)  An authorised officer may enter any premises for the purpose of installing, maintaining, repairing, 
+replacing, removing, testing or reading any meter and may take such action and do such things as may be 
+reasonably necessary for any of these purposes. 
+(2)  The conditions for the supply of water in respect of which a meter is installed are— 
+ 
+(a) 
+that the person supplied shall not cause or permit the meter to be tampered with, altered, 
+damaged or destroyed; 
+ 
+(b) 
+that the meter is properly protected and remains accessible to an authorised officer and free from 
+soil, plants or other vegetation or other obstruction. 
+
+
+--- PAGE 26 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+26 | P a g e  
+ 
+(3)  If a person fails to comply with the conditions at subregulation (2), an authorised officer may enter 
+the premises where the meter is situated and repair any damage or remove any obstruction or alter the 
+position of the meter and recover the cost involved from that person. 
+14.   Testing meters 
+(1)  Where a meter has been installed under regulation 11, the person supplied may request the Authority 
+in writing to test the meter and on receipt of the request and the fee prescribed in the Third Schedule, the 
+Authority shall test the meter. 
+(2)  If the meter registers above five per cent more water than was actually passed through the meter at the 
+test, the Authority shall return the fee and repair the meter. 
+(3)  If the meter registers not more than five per cent more water than was actually passed through the 
+meter at the test, then the meter shall be deemed to register correctly and the Authority may retain the fee: 
+Provided that the Manager may remit the fee where its payment would cause undue hardship. 
+15.   Estimating water consumption 
+If any meter becomes defective, registers incorrectly, is tampered with or damaged, or is removed from a 
+water service pipe for any reason, the Authority may estimate the correct registration in any of the following 
+ways— 
+ 
+(a) 
+by comparison with the quantity of water supplied under similar conditions during some other 
+period; or 
+ 
+(b) 
+by comparison with the quantity of water supplied after the meter has been restored to proper 
+order; or 
+ 
+(c) 
+by comparison with the registration of a substitute meter used temporarily in place of the 
+defective meter; or 
+ 
+(d) 
+by applying a correction factor if the meter is found to have a consistent error of registration. 
+16.   Reading meters 
+(1)  Each meter shall be read by an authorised officer at such time as the Manager directs. 
+(2)  The Authority shall notify any person supplied with water through a meter of each reading obtained 
+from the meter and of the immediately preceding reading. 
+(3)  A meter installed under regulation 11 shall be deemed to be accurate within the meaning of that 
+regulation until the contrary is proved. 
+PART V 
+Temporary Supplies 
+17.   Temporary supplies for construction purposes 
+(1)  A person seeking a supply of water on any premises for the purpose of constructing any building or 
+other works shall apply on the appropriate form prescribed by the Authority. 
+(2)  The person shall undertake in writing— 
+ 
+(a) 
+to pay for all water supplied through the temporary service; and 
+ 
+(b) 
+to pay the appropriate fees for connecting and disconnecting the temporary service. 
+
+
+--- PAGE 27 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+27 | P a g e  
+ 
+(3)  The Authority may consent to any application on such conditions as it sees fit to impose, or may 
+refuse its consent. 
+(4)  A person shall deposit with the Authority such sums of money as the Authority may request— 
+ 
+(a) 
+to meet the minimum charges prescribed for connecting and disconnecting a temporary supply 
+for construction purposes; and 
+ 
+(b) 
+as security for the safe-keeping of the meter. 
+(5)  A sum as security under subregulation 4(b) shall be refunded in full to the person if the meter is 
+returned to the Authority in good condition, but where the meter is returned damaged or unserviceable the 
+Authority may deduct the cost of repairing or replacing it. 
+PART VI 
+Water Charges 
+18.   Metered supplies 
+Charges for all metered supplies shall be by the measure of the quantity of water consumed. 
+19.   Charges for unmetered supplies 
+The Authority may supply water other than by measure by meter to any person for any purpose. 
+20.   Differing charges for water 
+(1)  Charges for water supplied which differ according to— 
+ 
+(a) 
+the volume of water supplied; 
+ 
+(b) 
+the purpose for, which the water is used; 
+ 
+(c) 
+the type or class of premises supplied, 
+shall be prescribed in the Fourth Schedule. 
+(2)  Where differing charges are fixed under subregulation (1) and either— 
+ 
+(a) 
+water supplied is used for more than one purpose; or 
+ 
+(b) 
+the premises supplied may be regarded as falling into more than one type or class, 
+the Manager, in his sole discretion, may either require that more than one water service pipe and more than 
+one meter be installed for supplying the premises or determine which of the different charges prescribed in 
+the Fourth Schedule applies to all water supplied. 
+21.   Recovery of outstanding charges 
+Without prejudice to any other remedy available to the Authority, where any rate, charge or fee or any 
+interest or penalty payable thereon in respect of any water supplied by the Authority or any sewerage services 
+relating to premises to which water is supplied by the Authority, is outstanding the Authority may— 
+ 
+(a) 
+after a period of twenty-one days from the day on which it became due, notify the owner or 
+occupier of the premises in question in writing that, if the sum outstanding is not paid to the 
+Authority before the expiration of thirty days from the due date the supply of water to the 
+premises will be restricted or disconnected; and 
+
+
+--- PAGE 28 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+28 | P a g e  
+ 
+ 
+(b) 
+after a period of thirty days from the due date restrict or disconnect the supply of water to the 
+premises in question, if the amount due remains unpaid. 
+22.   Penalties payable on overdue accounts 
+Where any rate, charge or fee in respect of any water supplied by the Authority is outstanding for a period 
+in excess of thirty days from the day on which it became due, the person liable to pay the rate, charge or fee 
+is also liable to pay to the Authority a penalty equal to ten per cent of the outstanding amount. 
+23.   Recovery of administrative charges 
+Wherever a cheque proffered in payment of any sum due to the Authority is not honoured by the paying 
+bank, the Authority may recover from either the drawer or from the owner or occupier of the premises in 
+respect of which the cheque was proffered the sum prescribed in the Fifth Schedule to cover bank charges 
+and administrative costs incurred by the Authority. 
+24.   Remission of charges 
+The Authority may wholly or partially remit any rate, charge, fee or penalty or may extend the date upon 
+which it falls due, on the ground— 
+ 
+(a) 
+that the person is not able to pay the same because of poverty; or 
+ 
+(b) 
+that its payment would cause undue hardship. 
+PART VII 
+Interruption to Supply 
+25.   Water restrictions 
+(1)  The Authority may, in any district supplied under the provisions of these Regulations, regulate or 
+restrict in such manner and for such period as it may specify, the consumption of water supplied by issuing a 
+notice which shall be broadcast by radio in the district. 
+(2)  A notice issued and broadcast under subregulation (1) shall specify— 
+ 
+(a) 
+the period during which; 
+ 
+(b) 
+the manner in which; and 
+ 
+(c) 
+the purpose in respect of which, 
+the use of water is to be restricted or regulated. 
+(3)  A person shall not fail to comply with, or cause or allow any person to fail to comply with a notice 
+issued and broadcast under this regulation. 
+(4)  In any proceedings for an offence against subregulation (3) a certificate, signed by the person who 
+was at the time of the broadcast in charge of the radio station from which it was made, stating that the 
+broadcast— 
+ 
+(a) 
+was made at the time or times specified; and 
+ 
+(b) 
+included a statement that the restrictions specified were to be observed during the periods and in 
+the areas specified in the certificate, 
+shall be evidence of the broadcast of the matter so certified. 
+
+
+--- PAGE 29 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+29 | P a g e  
+ 
+26.   Power temporarily to interrupt supply 
+(1)  The Authority may, at any time and for such period as it thinks fit, interrupt the supply of water to any 
+district or premises when, in the opinion of the Authority, it is expedient to do so in order to— 
+ 
+(a) 
+conserve water; 
+ 
+(b) 
+install, maintain or repair any works; 
+ 
+(c) 
+make any connection to or disconnection from the Authority’s works; 
+ 
+(d) 
+prevent the waste of any water. 
+(2)  Before interrupting the supply of water under this regulation the Authority shall, whenever practical, 
+give due notice of the likely duration of the interruption to all consumers of water who are likely to be 
+affected thereby. 
+27.   Power to disconnect or restrict supply 
+If any person supplied with water by the Authority contravenes or causes anyone to contravene the 
+provisions of the Act, or these Regulations or any conditions of supply relating to the prevention of waste, 
+misuse, undue consumption or contamination of water, the Authority may disconnect or restrict the supply of 
+water to that person or for his use either temporarily or permanently, as the Authority sees fit. 
+28.   Outstanding amounts to be paid before reconnection 
+Whenever a supply of water has been disconnected or restricted under regulation 21 or 27, the Authority 
+shall restore supply to the premises until payment has been made of a reconnection fee at the rates prescribed 
+in the Sixth Schedule and in addition— 
+ 
+(a) 
+any outstanding rates, charges, fees, interest or penalties payable to the Authority in respect of 
+any water supplied or sewerage services to the premises; 
+ 
+(b) 
+any security deposit required to be paid under regulation 10. 
+29.   No rebates allowable for interruptions to supply 
+Whenever a supply of water has been temporarily interrupted pursuant to regulation 26, or water restrictions 
+imposed pursuant to regulation 25, no rebate or reduction will be made of any rate, charge or fee which 
+would otherwise be payable to the Authority in respect of the period of interruption or restriction. 
+30.   Temporary disconnections 
+(1)  A person seeking the temporary disconnection of the water supply to any premises shall give the 
+Authority at least seven days notice in writing of the date upon which— 
+ 
+(a) 
+disconnection is required; and 
+ 
+(b) 
+reconnection is required. 
+(2)  The Authority may, in the case of a temporary disconnection under subregulation (1), require the 
+payment of the fee prescribed in the Sixth Schedule before reconnecting the water supply. 
+PART VIII 
+Waste or Misuse of Water 
+31.   Duty to avoid waste and pollution 
+
+
+--- PAGE 30 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+30 | P a g e  
+ 
+(1)  A person shall not cause or allow any pipe, fitting or apparatus to be out of repair, used or contrived 
+so that— 
+ 
+(a) 
+water supplied by the Authority is likely to be wasted, misused or unduly consumed; or 
+ 
+(b) 
+any water contained in mains vested in the Authority or pipes connected to the water supply is 
+or is likely to be polluted. 
+(2)  Anyone acting in contravention of this regulation commits an offence and on summary conviction is 
+liable to a fine not exceeding five thousand dollars or to a term of imprisonment not exceeding three months. 
+(3)  The occupier of premises supplied with water by the Authority shall immediately report to the 
+Authority any break, leak or damage occurring to any pipe, tank, tap, fitting or appliance connected to the 
+water supply. 
+(4)  An authorised person may enter upon any premises where water supplied by the Authority is or is 
+likely to be wasted, misused, unduly consumed or polluted contrary to this regulation and take such action as 
+may be required to prevent such waste, misuse, undue consumption or pollution. 
+(5)  The Authority may recover the cost of taking any action pursuant to paragraph (4) from the occupier 
+of the land. 
+32.   Prohibition of unauthorised use 
+(1)  A person shall not take or use water from any main or other work vested in the Authority except in 
+accordance with the Act and regulations. 
+(2)  Anyone acting in contravention of this regulation commits an offence and on summary conviction is 
+liable to a fine not exceeding five thousand dollars or to a term of imprisonment not exceeding twelve 
+months. 
+(3)  A person who, in the opinion of the Manager, takes or uses water in contravention of subregulation 
+(1) shall, in addition to any penalty which may be payable under subregulation (2) pay to the Authority a sum 
+determined by the Manager as compensation for water so used or taken. 
+(4)  A person shall pay to the Authority any sum determined by the Manager under subregulation (3), 
+whether or not that person is or has been prosecuted for or convicted of an offence against subregulation (1). 
+(5)  Whenever a person whose supply of water has been disconnected or restricted under regulation 21 or 
+27 reconnects or restores the supply of water from the Authority without the prior consent of the Authority, 
+that person shall, in addition to any penalty payable for an offence against these Regulations, pay to the 
+Authority a sum equivalent to double the amount of water charges which would be payable in respect of the 
+class of premises concerned for an unmetered supply pursuant to the Fourth Schedule, from the date upon 
+which the supply was initially disconnected or restricted until the date upon which the unauthorised supply is 
+disconnected by the Authority. 
+(6)  A person shall pay to the Authority any sum which he is liable to pay under subregulation (5), 
+whether or not that person is or has been prosecuted for or convicted of an offence against subregulation (1). 
+33.   Liability for damage 
+(1)  The Authority is not liable for any physical injury or any damage to the real or personal property of 
+any person as a result of interference, damage or injury to, or the failure of, any meter or water service pipe. 
+(2)  Where it is necessary for the Authority to repair a meter or water service pipe which, in the opinion of 
+the Authority, has been interfered with, damaged or injured as a result of the wilful or negligent act of any 
+person, the Authority may recover the cost of any such repair from the occupier of the land upon which the 
+meter or water service pipe is fixed. 
+
+
+--- PAGE 31 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+31 | P a g e  
+ 
+34.   Maximum capacity of storage tanks 
+Where water supplied by the Authority is stored on any premises, the total capacity of any tank or other 
+storages on those premises shall not exceed two thousand gallons. 
+35.   Building over mains sewers 
+(1)  A person shall not, unless he is authorised by or under these Regulations, erect any building or 
+structure, or cause, or allow any person to erect any building or structure within four meters of the centre-line 
+of any main or other works vested in the Authority. 
+(2)  Any person who contravenes the provision of this regulation commits an offence and is liable on 
+summary conviction to a fine not exceeding five thousand dollars or to a term of imprisonment not exceeding 
+three months. 
+(3)  The Authority may, of its own motion, or on an application by a person in the prescribed manner and 
+form— 
+ 
+(a) 
+approve the doing of anything referred to in subregulation (1) subject to such conditions as it 
+may specify; 
+ 
+(b) 
+refuse the application; or 
+ 
+(c) 
+with the consent of the application, divert or relocate the works referred to in subregulation (1) 
+at the cost of the applicant and subject to such conditions as the Authority may specify. 
+(4)  Where any building or structure on any land does not comply with the provisions of this regulation 
+the Authority may, by notice in writing served on the owner or occupier of the premises, require the owner or 
+occupier to alter, remove or re-locate such building or structure as is specified in the notice, whether or not 
+such building or structure was erected by or on behalf of the owner or occupier. 
+(5)  Any approval given by the Authority under subregulation (3) and all conditions attached thereto shall 
+be binding upon the applicant, his heirs, successors and assignees and the owner or occupier for the time 
+being of premises to which the approval relates, whether or not such person has notice of the approval or the 
+conditions thereof. 
+(6)  a person shall not contravene or fail to comply with or cause or allow any person to contravene or fail 
+to comply with— 
+ 
+(a) 
+any conditions specified under subregulation (3); or 
+ 
+(b) 
+any requirement of a notice served on that person under subregulation (4). 
+(7)  Any person who contravenes the provisions of this regulation commits an offence and is liable on 
+summary conviction to a fine not exceeding five thousand dollars or to a term of imprisonment not exceeding 
+twelve months. 
+(8)  Where at the commencement of these Regulations any main, pipe or other works (other than a water 
+service pipe) which are part of a water supply operated by the Authority are on or in private premises, the 
+main, pipe of other works shall be taken to have been installed with the consent of the owner for the time 
+being of the premises at the time they were installed and pursuant to a sufficient interest in the premises 
+created by that owner in favour of the Authority to enable it to enter the premises in order to repair, maintain, 
+alter, extend, replace or remove such main, pipe or other works in perpetuity. 
+ 
+ 
+36.   Trees and shrubs 
+
+
+--- PAGE 32 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+32 | P a g e  
+ 
+(1)  Where trees, crops or shrubs are wholly or partly located within four meters of the center-line of any 
+main, pipe or other works vested in the Authority and the Authority requires access to those works, an 
+authorised officer may without notice to the owner or occupier of the land upon which such trees, crops or 
+shrubs are wholly or partly located, cause them to be removed. 
+(2)  Where any main, pipe or other works vested in the Authority is damaged or blocked by any tree or 
+shrub or the roots thereof an authorised officer may require the owner or occupier of the premises on which 
+the tree or shrub is located— 
+ 
+(a) 
+to remove the tree or shrub and the roots thereof; 
+ 
+(b) 
+to make good any damage or blockage to such works; and 
+ 
+(c) 
+to restore the land surface, 
+in such manner as may be prescribed, at the expense of that owner or occupier. 
+37.   Tampering with works 
+(1)  No person shall— 
+ 
+(a) 
+uncover or expose any main, pipe, meter or other works vested in the Authority; 
+ 
+(b) 
+wilfully or negligently break, damage, injure, open, alter or obstruct any main pipe, meter or 
+other works vested in the Authority; 
+ 
+(c) 
+alter the index of any meter or prevent or impede any meter from duly registering the quantity of 
+water supplied, 
+except with the permission of the Authority. 
+(2)  Any person who contravenes the provisions of this regulation commits an offence and is liable on 
+summary conviction to a fine not exceeding five thousand dollars or to imprisonment for a term not 
+exceeding twelve months. 
+(3)  Where any person is convicted of an offence under subregulation (2) or regulation 12, 31, 32 or 39 the 
+court may, in addition to imposing the prescribed penalty, order that person— 
+ 
+(a) 
+to meet the cost of making good any damage so caused; 
+ 
+(b) 
+to compensate for any losses which the Authority may have sustained as a result of such 
+offence. 
+38.   Obstruction of authorised officers 
+(1)  No person shall assault, threaten, obstruct, or hinder, any authorised officer, in the performance of his 
+functions under these Regulations. 
+(2)  Any person who contravenes the provisions of subregulation (1) commits an offence and on summary 
+conviction is liable to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding 
+twelve months. 
+(3)  Where a person is convicted of an offence against subregulation (1) the court may, in addition to the 
+prescribed penalty, order the offender to pay by way of compensation a sum sufficient to cover any damage 
+which any authorised officer or other agent of the Authority may have suffered in the performance of his 
+functions and any sum so awarded may be recovered in the same manner as the penalty. 
+39.   Unlawful connections 
+(1)  No person shall— 
+
+
+--- PAGE 33 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+33 | P a g e  
+ 
+ 
+(a) 
+connect or cause or allow any person to connect any water service pipe or other device to any 
+main, pipe or other works of the Authority except in accordance with these Regulations; 
+ 
+(b) 
+knowingly use or cause or allow any person to use water which comes from a water service pipe 
+or other device unlawfully connected to a main, pipe or other work of the Authority; 
+ 
+(c) 
+sell water supplied by the Authority to any other person; 
+ 
+(d) 
+alter or cause or allow any person to alter any connection or water service pipe without first 
+obtaining the consent of the Authority; 
+ 
+(e) 
+take or use, cause or allow any person to take or use water from a standpipe, except for human 
+and domestic consumption or such other purposes as may be prescribed by the Authority from 
+time to time. 
+(2)  Any person contravening the provisions of this regulation commits an offence and is liable on 
+summary conviction to a fine not exceeding five thousand dollars or to a term of imprisonment not exceeding 
+twelve months. 
+40.   Public health 
+(1)  No person shall— 
+ 
+(a) 
+wash any part of a human, animal or any thing at any public standpipe; 
+ 
+(b) 
+put his mouth to any public standpipe; 
+ 
+(c) 
+rest any thing upon a public standpipe. 
+(2)  A person who contravenes the provisions of this regulation commits an offence and is liable on 
+summary conviction to a fine not exceeding five thousand dollars or to a term of imprisonment not exceeding 
+twelve months. 
+(3)  A person shall not cause or allow— 
+ 
+(a) 
+any waste to come into contact with any water within the works of the Authority; 
+ 
+(b) 
+any water within the works of the Authority to be polluted, 
+either directly or indirectly. 
+(4)  A person who contravenes the provisions of subregulation (3) commits an offence and is liable on 
+summary conviction in respect of each offence to a fine of not less than five hundred dollars or more man 
+five thousand dollars or to a term of imprisonment not exceeding two years, or to both such fine and 
+imprisonment, and to a further fine not exceeding five hundred dollars for each day the offence continues; 
+and in the case of a body corporate to a fine of not less than two thousand dollars and not more than five 
+thousand dollars and to a further fine not exceeding one thousand dollars for each day the offence continues. 
+(5)  In any proceedings for an offence against subregulation (3) proof of the existence on any premises of 
+any drain, pond, dump or other means whereby any waste is capable of being conveyed, retained or deposited 
+in such manner as to come in contact directly or indirectly with any water within the works of the Authority 
+is prima facie evidence that waste come into contact with such water in contravention of that paragraph at the 
+time that such drain, pond, dump or other means is proved to have existed. 
+(6)  where a person contravenes subregulation (3) and damage is caused which would not have occurred 
+without that contravention, that person is liable, whether charged with or convicted of an offence under this 
+regulation or not— 
+ 
+(a) 
+to pay to the Authority the cost of remedying all damages so caused and of reinstating the 
+environment so far as is possible to its previous state; 
+ 
+(b) 
+to pay to any other person damages for any loss sustained. 
+
+
+--- PAGE 34 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+34 | P a g e  
+ 
+(7)  In any proceedings against a person for an offence against this regulation the court may, on the 
+application of the Authority, require that person on summary conviction to pay into Court in addition to the 
+prescribed penalty a sum being not less than eighty per centum of the costs estimated by the Authority for 
+remedying all damages caused by the contravention of this regulation and of reinstating the environment so 
+far as possible to its previous state. 
+ 
+41.   Providing false information 
+(1)  No person shall in making any application to the Authority under these Regulations provide any 
+information which is false or misleading in any material particular. 
+(2)  Any person who contravenes the provisions of this regulation commits an offence and on summary 
+conviction is liable to a fine not exceeding three thousand dollars or to imprisonment for a term not 
+exceeding six months. 
+42.   Offences 
+A person who contravenes any provision of these Regulations for which no penalty is expressly provided, 
+is liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term 
+not exceeding twelve months, or to both such fine and imprisonment. 
+43.   Repeal 
+The Central Water and Sewerage Authority Regulations, 1973, are revoked. 
+ 
+First Schedule 
+[Regulation 8(1).] 
+Installation or Relocation of Water Connections 
+Diameter of Water Service Pipe 
+Minimum Charge 
+¾ inch 
+$55.00 
+1 inch 
+$60.00 
+1½ inch 
+$70.00 
+2 inches 
+$80.00 
+2½ inches 
+$100.00 
+3 inches 
+$150.00 
+4 inches 
+Not less than $350.00 and not more than $400.00 
+Over 4 inches 
+determined by the Manager 
+ 
+Second Schedule 
+[Regulation 10(4).] 
+Security Deposits for Payment of Charges 
+
+
+--- PAGE 35 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+35 | P a g e  
+ 
+Domestic premises, whether metered or 
+unmetered 
+$100.00 
+Industrial or commercial premises, whether 
+metered or unmetered 
+$500.00 or an amount equivalent to the cost of 
+one month’s consumption as estimated by the 
+Manager, whichever is the greater. 
+ 
+Third Schedule 
+[Regulations 12(2) and 14(1).] 
+Minimum fee for altering position of meter 
+$75.00 
+Fee for testing meters 
+$100.00 
+ 
+Fourth Schedule 
+[Regulation 21(1). Fourth Schedule amended by SRO 31 of 2007.] 
+Charges for Unmetered Premises 
+Class of premises 
+Rate per connection per month 
+(a) Domestic— 
+ House with 1 tap 
+$6.00 
+ House with 2  3taps 
+$10.00 
+ House with 4  5 taps 
+$20.00 
+ House with 6  7 taps 
+$30.00 
+ House with more than 7 taps 
+$35.00 
+(b) Commercial— 
+ (Number of employees, including proprietor) 
+ 1  5 
+$50.00 
+ 6  15 
+$90.00 
+ 16  29 
+$155.00 
+ 30 or more 
+$175.00 
+(c) Commercial premises in the Grenadines– 
+ Water delivered by Ship 
+$10.00 per 1,000 gallons or part thereof 
+(This rate does not apply to water supplied for the use of shipping) 
+Charges for Metered Premises 
+1. BASIC CHARGE 
+(a) Monthly charge applicable to domestic 
+premises 
+$12.00 
+(b) Monthly charge applicable to industrial or 
+commercial premises 
+$15.00 
+2. ADDITIONAL CHARGES 
+ In addition to the basic charge, the following monthly charges apply for water consumed— 
+Class of premises 
+Fee per 1,000 gallons or part thereof 
+(a) Domestic— 
+
+
+--- PAGE 36 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+36 | P a g e  
+ 
+ 
+0  2,500 gallons 
+$5.50 
+ 
+2,501  5,000 gallons 
+$6.50 
+ 
+5,001  10,000 gallons 
+$11.00 
+ 
+10,001  15,000 gallons 
+$15.00 
+ 
+Over 15,000 gallons 
+$20.00 
+(b) Industrial or Commercial— 
+ 
+Small  20 employees or less 
+$15.00 
+ 
+Medium  more than 20 employees but less 
+than 50 employees 
+$15.00 
+ 
+Large  50 or more employees 
+$20.00 
+(c) Ships 
+$40.00 
+(d) Government— 
+ 
+Standpipes and public baths 
+$4.00 
+ 
+Public buildings and offices 
+$8.00 
+ 
+Fifth Schedule 
+[Regulation 24.] 
+Fee for dishonoured cheques 
+$15.00 plus bank fee paid by the Authority 
+ 
+ 
+Sixth Schedule 
+[Regulations 8, 9 and 28.] 
+Fee for— 
+(a) establishing a supply; or 
+(b) restoring a supply which has been restricted 
+or disconnected 
+$100.00 
+ 
+Central Water and Sewerage Authority (Sewerage) Regulations 
+Act No. 30 of 1991 
+Amended by 
+SRO 32 of 2007 
+ARRANGEMENT OF REGULATIONS 
+PART I 
+
+
+--- PAGE 37 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+37 | P a g e  
+ 
+Preliminary 
+1. 
+Citation. 
+2. 
+Interpretation. 
+3. 
+Declaration of areas. 
+4. 
+Supply of services not compulsory. 
+PART II 
+Approval of Works 
+5. 
+Power to construct sewerage works. 
+6. 
+Power to relocate sewers. 
+7. 
+Declaration of completed sewerage works. 
+8. 
+Penalty for non-compliance. 
+9. 
+Group Drainage. 
+PART III 
+Private Sewerage Works 
+Building Sewers and Connected Works or Fittings 
+10. 
+New buildings to have approved building sewers and fittings. 
+11. 
+Applications to construct building sewers or make connections. 
+12. 
+Requirements of plans. 
+13. 
+Inspection of plan. 
+14. 
+Approval of works. 
+15. 
+Conditions of consent. 
+16. 
+Cost of works undertaken by Authority. 
+17. 
+Security deposit. 
+18. 
+Discharge from vessels. 
+19. 
+Duty to provide technical information. 
+20. 
+Duty to provide sewer property service. 
+21. 
+Commencement and execution of work. 
+22. 
+Inspection of works. 
+Private Sewerage Schemes 
+23. 
+Applications to construct private sewers. 
+24. 
+Approval of works. 
+25. 
+Direction to incorporate with public sewerage system. 
+Control of Private Sewerage Installations 
+26. 
+Power to ensure proper operation. 
+PART IV 
+Trade Waste Agreements 
+27. 
+Declaration of prohibited wastes. 
+28. 
+Authority may enter into trade waste agreements. 
+29. 
+Transfer of agreement. 
+30. 
+Reference of proposed agreement to other authorities. 
+PART V 
+
+
+--- PAGE 38 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+38 | P a g e  
+ 
+Prohibited Wastes 
+31. 
+Reception of certain waste not compulsory. 
+32. 
+Acts prohibited in declared areas. 
+33. 
+Acts subject to the Manager’s approval. 
+PART VI 
+Sewerage Charges 
+34. 
+Charges for sewerage. 
+35. 
+Recovery of outstanding charges. 
+36. 
+Penalties payable on overdue accounts. 
+37. 
+Recovery of administrative charges. 
+38. 
+Remission of charges. 
+PART VII 
+Offences 
+39. 
+Building over sewers. 
+40. 
+Trees and shrubs. 
+41. 
+Tampering with works. 
+42. 
+Obstruction of officers. 
+43. 
+Unlawful connections. 
+44. 
+Offences against the regulations. 
+First Schedule 
+Application to Connect with a Sewer 
+Second Schedule 
+Fees for Works, etc. 
+Third Schedule 
+Security Deposits for Payment of Charges 
+Fourth Schedule 
+Prohibited Substances 
+Fifth Schedule 
+Wastes Subjects to Trade Waste Agreements 
+Sixth Schedule 
+Premises Requiring Approved Grease Traps 
+Seventh Schedule 
+Technical Specifications 
+Eighth Schedule 
+Sewerage Charges 
+ 
+CENTRAL WATER AND SEWERAGE AUTHORITY (SEWERAGE) REGULATIONS 
+In exercise of the powers conferred under section 33 of the Central Water and Sewerage Act, 1991, the 
+Central Water and Sewerage Authority with the approval of the Minister makes the following 
+Regulations. 
+[Act No. 30 of 1991 amended by SRO 32 of 2007.] 
+[Date of commencement: 10th December, 1991.] 
+PART I 
+Preliminary 
+1.   Citation 
+These Regulations may be cited as the Central Water and Sewerage Authority (Sewerage) Regulations, 
+1991, and shall come into force on the 10th day of December, 1991. 
+
+
+--- PAGE 39 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+39 | P a g e  
+ 
+2.   Interpretation 
+In these Regulations, unless the contrary intention appears— 
+“authorised officer” means any officer or servant of the Authority; 
+“building sewer”, in relation to land, includes any drain on such land provided by the owner or 
+occupier thereof for the conveyance of sewage or trade waste to a sewer or a sewer property service and 
+any drain for draining any group or block of buildings by a combined operation by order of the Authority, 
+but shall not include a sewer or sewer property service; 
+“connected works or fittings” includes water closet, urinal sink, slop sink, lavatory, bath, cistern or 
+other sanitary fitting; 
+“construct” includes alter, improve and repair; 
+“declared area” means an area declared under regulation 3; 
+“domestic sewage” means all faecal matter, urine, household slops and liquid household refuse; 
+“environment” includes the physical, biological, economic, cultural and social aspects and all aspects 
+of the surroundings of man; 
+“premises” includes land; 
+“private sewer” means any sewer constructed for private purposes pursuant to regulations 23; 
+“sewer” means a pipe conduit or underground gutter or channel, not being a building sewer or sewer 
+property service, which is or is intended to be used for the conveyance of sewage or trade waste as part of 
+a public sewerage system vested in or constructed by the Authority; 
+“sewer property service”, in relation to land, means a connection provided by the Authority or its 
+direction for the conveyance of sewage or trade waster between a building sewer constructed on that land 
+and a sewer, at or near the boundary of such land; 
+“trade waste” means liquid waste other than domestic sewage; 
+“trade waste agreement” means an agreement made by the Authority under Part IV; 
+“waste” includes sewage and any other matter or thing whether wholly or partly in solid, liquid or 
+gaseous state which if added to any water may cause pollution. 
+3.   Declaration of areas 
+The Authority may declare any area to be an area to which these Regulations apply and may amend or 
+revoke any such declaration. 
+4.   Supply of services not compulsory 
+Notwithstanding any provision of these Regulations or of any agreement to which the Authority is a party, 
+it is not compulsory for the Authority to provide or to continue to provide sewerage services to any person or 
+public authority and the Authority is not liable to any penalty or damages for not supplying sewerage services 
+to any persons or public authority. 
+PART II 
+Approval of Works 
+Construction of works 
+
+
+--- PAGE 40 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+40 | P a g e  
+ 
+5.   Power to construct sewerage works 
+(1)  The Authority may construct sewers and associated works to serve any premises within any area 
+declared under regulation 3 and may recover the cost or any part of the cost of construction from owners of 
+premises within the area, together with an amount assessed by the Manager to be a fair and reasonable 
+contribution towards the cost of outfall, sewage disposal systems, treatment works and other associated 
+works. 
+(2)  Where the authority intends to construct works under this regulation, it shall cause a scheme for their 
+construction to be prepared. 
+(3)  Every such scheme shall include— 
+ 
+(a) 
+a description of the proposed works together with such specifications, maps, plans sections and 
+elevations as the Manager thinks necessary; 
+ 
+(b) 
+an estimate of the cost of executing the same; 
+ 
+(c) 
+a description of the premises which will be supplied with sewerage services, sufficient to 
+identify those premises; 
+ 
+(d) 
+a statement of the portion of the cost of execution of the scheme which is to be recovered from 
+the owners of such premises and the estimated amount to be recovered from each owner; 
+ 
+(e) 
+such other particulars as the Manager considers necessary or expedient. 
+(4)  In determining the respective amount to be recovered from each owner the Authority shall take into 
+consideration the extent to which the costs of the proposed scheme is increased as a result of— 
+ 
+(a) 
+the premises of any owner having special requirements for the supply of sewerage service; 
+ 
+(b) 
+increasing the extent of works to provide for premises outside the boundary of the scheme. 
+(5)  The Authority may include in the estimate of the cost of the scheme the following costs— 
+ 
+(a) 
+the cost of the provision by the Authority of any material, plan, labour, compensation and 
+insurance charges; 
+ 
+(b) 
+payments to contractors employed in the execution of the scheme; 
+ 
+(c) 
+the cost of investigation, design, plans, specifications and contract documents; 
+ 
+(d) 
+the cost of supervising the works and inspecting the materials used; 
+ 
+(e) 
+the cost of acquiring any interest in premises; 
+ 
+(f) 
+the cost of administration associated with the investigation and implementation of the scheme. 
+(6)  A copy of the scheme shall be kept in the office of the Authority and in some other convenient 
+location near or within the area to which the scheme applies and shall be available for inspection by any 
+person interested or affected by the scheme until the scheme in finally executed or abandoned. 
+(7)  The authority shall cause a notice in writing to be served on every owner of premises described in the 
+scheme stating— 
+ 
+(a) 
+that the scheme has been prepared and may be inspected at the office of the Authority or some 
+other convenient location; 
+ 
+(b) 
+the estimated amount which is to be recovered from the owner as his share of the costs of the 
+scheme and by way of any contribution assessed by the Authority; 
+ 
+(c) 
+that within one month of the service of the notice, the owner may by notice in writing to the 
+Authority object to the scheme or any part thereof; 
+ 
+(d) 
+the grounds on which any objections may be made. 
+
+
+--- PAGE 41 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+41 | P a g e  
+ 
+(8)  The owner of the premises described in the scheme may within one month after the service of the 
+notice under regulation 7 object to the scheme in writing on any of the following grounds— 
+ 
+(a) 
+that the amount to be recovered from him is excessive or has been incorrectly calculated; 
+ 
+(b) 
+that the owner intended to be made liable under the scheme should not be so liable or that any 
+owner not intended to be made liable under the scheme should be liable; 
+ 
+(c) 
+that the portion of the cost of the scheme which is to be recovered from owners is excessive or 
+unreasonable. 
+(9)  The Authority, not earlier than one month after serving the last notice— 
+ 
+(a) 
+shall consider the scheme and all objections made thereto; 
+ 
+(b) 
+may adopt the scheme with or without modifications. 
+6.   Power to relocate sewers 
+(1)  The Authority may— 
+ 
+(a) 
+alter the capacity or location of any sewer; 
+ 
+(b) 
+temporarily or permanently discontinue or prohibit the use of any sewer either generally or for 
+any specified purpose. 
+(2)  The Authority shall not temporarily discontinue or prohibit the use of any sewer unless it is expedient 
+to do so in order to— 
+ 
+(a) 
+install, construct of maintain any works; 
+ 
+(b) 
+make any connection or disconnection from a sewer; 
+ 
+(c) 
+prevent the escape of sewage or pollution of any water; 
+ 
+(d) 
+prevent a danger to public health. 
+(3)  Before temporarily discontinuing or prohibiting the use of any sewer the Authority shall, whenever 
+practicable, give due notice of the likely duration of the interruption to all persons who are likely to be 
+affected thereby. 
+(4)  Before permanently discontinuing or prohibiting the use of any existing sewer the Authority shall 
+ensure— 
+ 
+(a) 
+that an alternative sewer exists capable of serving all premises previously served by the existing 
+sewer; 
+ 
+(b) 
+that all such premises have been provided with a sewer property service connected to the 
+alternative sewer, at the expense of the Authority, 
+connect of premises to Sewerage Works. 
+7.   Declaration of completed sewerage works 
+(1)  Whenever, pursuant to any existing work constructed under this Part, it becomes possible to provide 
+sewerage to premises within any area, the Authority may declare such works to be effective in relation to that 
+area. 
+(2)  On and from the date of making a declaration under subregulation (1)— 
+ 
+(a) 
+the owner of any premises in the area is liable to such charges as may be prescribed by the 
+Authority, whether or not the premises— 
+ 
+(i) are connected to the works declared to be effective, 
+
+
+--- PAGE 42 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+42 | P a g e  
+ 
+ 
+(ii) are occupied, 
+ 
+(b) 
+the Authority may, by notice in writing, direct the owner of any premises in the area to connect 
+the premises to the works so declared in the manner prescribed by these Regulations and within 
+such time as is specified in the notice; 
+ 
+(c) 
+the Authority may, of its own motion or on an application by the owner of premises in the area, 
+agree to connect the premises to the works on such terms and conditions and in such manner as 
+is prescribed. 
+(3)  A person served with a notice under subregulation (2)(b) shall on failure to comply with that notice, 
+be liable on summary conviction to a fine not exceeding five thousand dollars or to imprisonment for a term 
+not exceeding twelve months and to a further fine not exceeding five hundred dollars for each day the offence 
+continues. 
+(4)  Within one month of receiving a direction under subregulation (2)(b) the owner shall submit to the 
+Authority a plan for providing the premises with a building sewer and any connection works and fittings in 
+the manner prescribed by regulation 12. 
+(5)  If within one month or such other time as the Authority may specify the owner fails to execute work 
+directed by the Authority under subregulation (2)(b) or approved by the Authority pursuant to regulation 14, 
+the Authority may undertake the work and recover the cost thereof from the owner. 
+8.   Penalty for non-compliance 
+(1)  An owner of premises who refuses or fails to execute any works or take any action required of him 
+pursuant to this Part commits an offence and is liable on summary conviction to a fine not exceeding five 
+thousand dollars or imprisonment for a term not exceeding twelve months and to a further fine of five 
+hundred dollars for each day the offence continues. 
+(2)  Whenever the owner of land fails to undertake any work required of him pursuant to this Part, the 
+Authority may cause such work to be executed and may recover the cost thereof from the owner and where 
+the amount remains outstanding for a period in excess of thirty days may charge interest thereon at the rate of 
+ten per cent per annum until the payment is made, or may recover the same in a summary way from the 
+owner. 
+9.   Group Drainage 
+(1)  If it appears to the Authority that contiguous or adjacent buildings or land may be connected to a 
+sewer more economically or advantageously in combination than separately, the Authority may required that 
+such buildings or land be so connected by a combined operation. 
+(2)  The Authority may apportion the cost or expenses to be paid between the owners of land connected to 
+a sewer by a combined operation in such manner as manner as the Authority considers just and reasonable. 
+PART III 
+Private Sewerage Works 
+Building Sewers and Connected Works or Fittings 
+10.   New buildings to have approved building sewers and fittings 
+
+
+--- PAGE 43 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+43 | P a g e  
+ 
+A person shall not erect or re-erect any building in a declared area unless a building sewer and other 
+connected works or fittings are installed with the consent of the Authority and in accordance with these 
+Regulations. 
+11.   Applications to construct building sewers or make connections 
+(1)  A person who wishes— 
+ 
+(a) 
+to construct or remove a building sewer or other connected works or fittings; 
+ 
+(b) 
+to make any opening in or connection with a sewer, 
+may apply in writing to the Authority. 
+(2)  An application under subregulation (1) shall be— 
+ 
+(a) 
+in the appropriate form prescribed in the First Schedule; 
+ 
+(b) 
+accompanied by the fee prescribed in the Second Schedule. 
+(3)  The Authority may, form time to time, prescribe other actions which shall not be performed without 
+the Authority’s consent. 
+12.   Requirements of plans 
+(1)  A person who— 
+ 
+(a) 
+applies to the Authority under regulation 11; 
+ 
+(b) 
+is directed to connect any land to works under regulation 7, 
+shall lodge with the Authority four copies of plans of the work proposed. 
+(2)  Each copy of a plan lodged under this regulation shall be— 
+ 
+(a) 
+signed by the applicant; and 
+ 
+(b) 
+certified as accurate and signed by the person preparing the plan. 
+(3)  Every plan lodged under this regulation shall— 
+ 
+(a) 
+contain a site plan of all existing or proposed buildings on the land; 
+ 
+(b) 
+describe the boundaries of the applicant’s land; 
+ 
+(c) 
+describe adjoining land and give the names of the owners thereof; 
+ 
+(d) 
+show the location of any adjoining roads; 
+ 
+(e) 
+show the position and dimensions of— 
+ 
+(i) any building sewer or other connected works or fittings, 
+ 
+(ii) all kitchens, bathrooms, rainwater channels, water supply pipes or drainage pipes, 
+ 
+(iii) all sinks, gullies, inspection chambers, manholes and other appurtenant works, 
+which exist on the land or which the applicant wishes to construct; 
+ 
+(f) 
+show the nature and location of any pavement or exposed surface; 
+ 
+(g) 
+show the diameter and gradient of all proposed pipes and junctions and the levels of any points 
+which may be necessary to determine such gradient; 
+ 
+(h) 
+where practicable, be drawn or printed on paper or cloth of a dimension prescribed by the 
+Authority; 
+
+
+--- PAGE 44 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+44 | P a g e  
+ 
+ 
+(i) 
+comply with such other requirements as the Authority may prescribe; 
+ 
+(j) 
+contain such other information as the Manager may require. 
+13.   Inspection of plan 
+(1)  An authorised officer shall examine and verify any plan lodged under regulation 12 and may make 
+such alterations or corrections as he considers necessary. 
+(2)  If, upon inspecting land to which a plan relates, an authorised officer finds that the plan is inaccurate, 
+the fee specified in the Second Schedule shall be paid by the applicant to the Authority for every subsequent 
+visit made by an authorised officer to the land to ascertain the correctness of, or to correct, a plan. 
+14.   Approval of works 
+(1)  The Authority may— 
+ 
+(a) 
+approve any plan verified pursuant to regulation 13; 
+ 
+(b) 
+consent to any application under these Regulations, on such conditions as it sees fit; 
+ 
+(c) 
+refuse to approve any plan or refuse its consent to an application. 
+(2)  Where the Authority approves any plan under subregulation (1) it shall— 
+ 
+(a) 
+return one copy to the applicant; 
+ 
+(b) 
+send one copy to the Ministry of Health; and 
+ 
+(c) 
+retain two copies for use by the Authority. 
+(3)  Except as provided in paragraph (4), work described in any plan approved by the Authority shall be 
+executed strictly in accordance with the plan. 
+(4)  The Minister may consent in writing to a proposed deviation from a plan approved by the Authority. 
+(5)  Where the Minister consents to a proposed deviation under subregulation (4) he shall clearly mark the 
+proposed deviation and his initials on copies of the plan held by the applicant and the Authority. 
+15.   Conditions of consent 
+(1)  Unless the Authority determines otherwise, any action for which the Authority’s consent is required 
+shall be performed in accordance with any direction given by an authorised officer. 
+(2)  Unless the Authority determines otherwise a person may not make any opening in or connection with 
+a sewer except in the presence of, and in accordance with any directions given by an authorised officer. 
+(3)  As a condition of granting its consent, the Authority may require that works specified by it be done 
+only by the Authority at the cost of the applicant. 
+16.   Cost of works undertaken by Authority 
+(1)  Where pursuant to regulation 15(3) work is to be undertaken by the Authority, the Authority shall not 
+commence the work until the applicant has paid it such minimum charge for executing the work as is 
+prescribed in the Second Schedule. 
+(2)  Where no minimum charge is prescribed in the Second Schedule for work done by the Authority, the 
+applicant shall pay to the Authority the actual cost of the work when completed, as determined by the 
+Manager. 
+
+
+--- PAGE 45 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+45 | P a g e  
+ 
+(3)  If the actual cost of doing work exceeds the minimum charge paid to the Authority under 
+subregulation (1), the applicant shall pay the balance of the actual cost of the work when completed to the 
+Authority as determined by the Manager. 
+ 
+17.   Security deposit 
+(1)  Before any premises is connected to any sewer, the owner of the premises shall pay to the Authority 
+such deposit as is prescribed in the Third Schedule as security for regular payment for sewerage charges. 
+(2)  Deposits payable under this regulation may differ according to the type or class of premises connected 
+to the sewer and prescribed in the Third Schedule. 
+(3)  Where differing deposits are fixed in the Third Schedule and the premises connected to the sewer may 
+be regarded as falling into more than one type or class, the Manager in his sole discretion shall determine 
+which of the differing deposits shall be paid. 
+18.   Discharge from vessels 
+(1)  The Authority shall, at all harbours, ports and other havens within a declared area, provide facilities 
+for the reception and discharge into sewers of sewage from vessels. 
+(2)  A person shall not cause or allow any sewage to be discharged from a vessel within the territorial 
+waters of Saint Vincent and the Grenadines except into facilities provided under subregulation (1). 
+19.   Duty to provide technical information 
+(1)  The Authority shall keep a map at its office, showing the location of all sewers and such map shall be 
+freely available for inspection by the public without charge during normal office hours. 
+(2)  The Manager shall, on receipt of a written application, provide an applicant with— 
+ 
+(a) 
+the approximate level and position of the point of junction between— 
+ 
+(i) any sewer and proposed sewer property service, 
+ 
+(ii) any proposed sewer property service and proposed building sewer; 
+ 
+(b) 
+the elevation of relevant available survey benchmarks. 
+20.   Duty to provide sewer property service 
+(1)  Subject to subregulation (2) where— 
+ 
+(a) 
+any person is required to connect land to a sewer under regulation 7; or 
+ 
+(b) 
+the Authority consents to an application under regulation 14, 
+the Authority shall provide a sewer property service to the premises concerned at the Authority’s expense. 
+(2)  Where it is necessary to provide more than one sewer property service in respect of any premises, the 
+provisions of regulation 16 shall apply to work in relation to any second or subsequent sewer property 
+service. 
+ 
+21.   Commencement and execution of work 
+(1)  A person shall not construct any building sewer or connected works or fittings or cause or allow the 
+same to be constructed 
+
+
+--- PAGE 46 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+46 | P a g e  
+ 
+ 
+(a) 
+without first receiving— 
+ 
+(i) approval for any plans required to be lodged, 
+ 
+(ii) the consent of the Authority to any application required to be made, under these 
+Regulations; 
+ 
+(b) 
+except in accordance with— 
+ 
+(i) any conditions attached to the approval of any plan or the consent of the Authority, 
+ 
+(ii) any direction given by an authorised officer under these Regulations, 
+ 
+(iii) any Code of Workmanship prescribed by the Authority from time to time, 
+ 
+(iv) the technical specifications prescribed in the Seventh Schedule. 
+(2)  An applicant shall inform the Authority in writing of the proposed commencement date of work 
+described in— 
+ 
+(a) 
+any plans approved; or 
+ 
+(b) 
+any application consented to, by the Authority. 
+22.   Inspection of works 
+(1)  Before any pipe or other fitting installed as part of any work referred to in regulation 21 has been 
+covered or concealed or any trench filled, the applicant or his agent shall notify the Authority that the work is 
+ready for inspection. 
+(2)  Within two working days of the Authority receiving notice under subregulation (1), an authorised 
+officer shall inspect and test the work. 
+(3)  If an authorised officer discovers— 
+ 
+(a) 
+any authorised deviation from plans approved under these Regulations; 
+ 
+(b) 
+any failure to observe a condition attached to the approval of any plans or the consent to any 
+application; 
+ 
+(c) 
+any departure from specifications prescribed in the Seventh Schedule or any Code of 
+Workmanship prescribed by the Authority, 
+the applicant shall execute such alterations to the work as the authorised officer directs and to his satisfaction 
+before any pipe or other fitting is concealed or any trench filled. 
+(4)  If an applicant— 
+ 
+(a) 
+fails to notify the Authority in accordance with subregulation (1) prior to covering any work; 
+ 
+(b) 
+covers any work within two days of giving notice to the Authority and before it has been 
+inspected, 
+the person shall at the request of an authorised officer and at his own expense immediately uncover the work. 
+(5)  Where an authorised officer has inspected, tested and approved work under this regulation he shall 
+issue the applicant with a certificate of approval and the applicant shall cover the work. 
+(6)  Where, in the opinion of the Manager, any building sewer or connected works or fittings— 
+ 
+(a) 
+have not been constructed in accordance with subregulation 21(1); 
+ 
+(b) 
+are in poor condition; 
+ 
+(c) 
+require alteration or amendment, 
+
+
+--- PAGE 47 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+47 | P a g e  
+ 
+the Authority may, by notice in writing, direct the owner of the land to execute the work as the Authority 
+may prescribe within such time as is specified in the notice. 
+(7)  If within the time specified in the notice the owner fails to execute the work prescribed, the Authority 
+may undertake the work and recover the costs thereof from the owner. 
+(8)  The provisions of regulation 8 may apply to any work prescribed by the Authority under this 
+regulation. 
+Private Sewerage Schemes 
+23.   Applications to construct private sewers 
+(1)  A person who wishes— 
+ 
+(a) 
+to construct a private sewer; 
+ 
+(b) 
+to connect any private sewer with a sewer, 
+may apply in writing to the Authority. 
+(2)  An application shall be accompanied by— 
+ 
+(a) 
+four copies of plans showing such information as the Manager may require; 
+ 
+(b) 
+the fee prescribed in the Second Schedule. 
+24.   Approval of works 
+The Authority may approve an application under regulation 23 on such conditions as it sees fit or may 
+refuse to approve an application. 
+25.   Direction to incorporate with public sewerage system 
+(1)  If, in the opinion of the Authority, it would be expedient if the proposed private sewer were made part 
+of or connected with a sewerage scheme proposed or operated by the Authority, the Authority may require 
+the applicant to construct the private sewer in such a manner and to such specifications as the Authority 
+directs. 
+(2)  Subject to subregulation (4), a person shall comply with any direction given by the Authority under 
+subregulation (1). 
+(3)  Any person who contravenes the provision of this regulation commits an offence and is liable on 
+summary conviction to a fine not exceeding five thousand dollars or to imprisonment for a term not 
+exceeding twelve months and a further fine not exceeding five hundred dollars for every day the offence 
+continues after conviction. 
+(4)  A person aggrieved by any direction given by the Authority under subregulation (1) may, within thirty 
+days of being notified of the direction, object in writing submitted to the Minister. 
+(5)  The Minister shall within thirty days of receiving an objection made under subregulation (4), consider 
+the objection and decide whether to— 
+ 
+(a) 
+disallow the direction; 
+ 
+(b) 
+allow the direction subject to conditions or modifications; 
+ 
+(c) 
+allow the direction. 
+(6)  The Authority shall repay to any person adversely affected by a direction under subregulation (1)— 
+
+
+--- PAGE 48 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+48 | P a g e  
+ 
+ 
+(a) 
+such additional expenses incurred by him in constructing the private sewer in the manner and to 
+the specifications directed by the Authority; 
+ 
+(b) 
+such additional costs of cleaning, repairing or maintaining the private sewer which may be 
+attributable to the direction. 
+(7)  Any dispute or difference as to the amount of any payment due from the Authority to any person 
+under subregulation (5) may, at the election of that person, be determined either by a court of summary 
+jurisdiction or by arbitration. 
+Control of Private Sewerage Installations 
+26.   Power to ensure proper operation 
+(1)  An authorised officer may enter any premises to inspect and ensure the safe and proper operation of 
+any latrine, septic tanks or private sewerage installation on those premises. 
+(2)  An authorised officer may take samples of such water, sewage, effluent or waste and submit them to 
+such analysis as he sees fit and the Authority may recover the cost of that analysis from the owner of the 
+premises from which the samples are taken. 
+(3)  The Authority may, by notice in writing, direct an owner of premises within such time as may be 
+specified in the notice— 
+ 
+(a) 
+to empty, clean, maintain or repair; 
+ 
+(b) 
+to temporarily or permanently cease using, 
+any latrine, septic tank or private sewerage installation on those premises, or to take such other action as the 
+Authority may specify. 
+(4)  The Authority may, at the request of, and at the expense of, any owner to whom notice has been 
+given, undertake such work as may be specified in the notice. 
+(5)  Where notice has been given to an owner, and within the time specified, he fails either— 
+ 
+(a) 
+to take such action as may be specified; or 
+ 
+(b) 
+to obtain the agreement of the Authority to undertake the work specified in the notice and to pay 
+to the Authority the estimated costs thereof, 
+the Authority may enter the premises and undertake such work or take other measures as may be necessary to 
+ensure complete compliance with the notice and may recover the costs of so doing from the owner. 
+(6)  The provisions of regulation 8 apply to any work prescribed by the Authority under this regulation. 
+PART IV 
+Trade Waste Agreements 
+27.   Declaration of prohibited wastes 
+The Authority may, in any declared area, specify trades in respect of which no trade waste may be directly 
+or indirectly discharged into any sewer, sewer property service, building sewer or connected works or fillings 
+from any premises used for or in connection with such trades, except in accordance with a trade waste 
+agreement. 
+28.   Authority may enter into trade waste agreements 
+
+
+--- PAGE 49 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+49 | P a g e  
+ 
+(1)  The Authority may enter into a trade waste agreement for the discharge, storage or treatment of— 
+ 
+(a) 
+trade waste from any trade specified under regulation 31; 
+ 
+(b) 
+any waste specified in the Fifth Schedule, 
+upon such conditions and in such manner and for such period as the Authority sees fit or may refuse to enter 
+into a trade waste agreement with any person. 
+(2)  Without limiting paragraph (1), the terms of any trade waste agreement may— 
+ 
+(a) 
+specify, restrict or prohibit certain types, volumes or concentration of waste which may be 
+produced, stored, discharged or deposited; 
+ 
+(b) 
+specify the manner in which waste is to be stored, treated, discharged, deposited or otherwise 
+dealt with; 
+ 
+(c) 
+require the person at his cost— 
+ 
+(i) to install population control or waste treatment equipment of a type specified by the 
+Authority and to operate that equipment in a manner specified by the Authority, 
+ 
+(ii) to provide monitoring equipment specified by the Authority, 
+ 
+(iii) to carry out a montoring programme specified by the Authority and to provide the 
+Authority with information and data relating to the characteristics, volumes and effects of 
+waste being produced stored, treated, discharged, deposited or otherwise disposed of; 
+ 
+(d) 
+require the person to take measures specified by the Authority for the purpose of minimising the 
+possibility of pollution occurring as a result of any activities conducted or proposed to be 
+conducted on premises owned by or occupied by that person; 
+ 
+(e) 
+require the person to do or cause to be done any other act or thing specified by the Authority which 
+the Authority considers necessary for the purpose of protecting the environment or preventing, 
+controlling or abating pollution. 
+(4)  Without limiting subregulation (1), any trade waste agreement which provides for the discharge of 
+waste specified in the Fifth Schedule into any sewer shall contain conditions requiring treatment of the waste 
+before it is discharged to meet such standard as the Authority may require unless the Authority is of the opinion 
+that the concentration of the waste at the point of discharge is such that the waste will not adversely affect 
+sludge  
+ 
+ 
+digestion or any bio-chemical, biological or other sewage treatment process employed by the Authority. 
+(5)  The Authority may, at the request of a person who is party to a trade waste agreement, agree to amend 
+the terms of that agreement. 
+29.   Transfer of agreement 
+(1)  A person who becomes the occupier of any premises in respect of which a trade waste agreement is in 
+force is not liable to any penalty under these Regulations for the discharge, deposit or intrusion of any waste 
+if that person— 
+ 
+(a) 
+complies with the terms of the existing trade waste agreement in respect of those premises; 
+ 
+(b) 
+within thirty days of becoming the occupier of the premises, requests the Authority to enter into 
+a trade waste agreement in his own name. 
+
+
+--- PAGE 50 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+50 | P a g e  
+ 
+(2)  Where the Authority refuses to enter into a trade waste agreement requested under the previous 
+paragraph the person making the request shall cease to allow any waste to be discharged, deposited or to 
+intrude pursuant to any previous trade waste agreement in respect of the premises within ten days of 
+receiving notice of that refusal. 
+30.   Reference of proposed agreement to other authorities 
+(1)  Whenever the Commission proposes to enter a trade waste agreement or to amend the terms of a trade 
+waste agreement, it shall refer the proposal, together with a copy or summary of appropriate plans, 
+specifications and other information— 
+ 
+(a) 
+to the Chief Environmental Health Officer of the Ministry of Health; 
+ 
+(b) 
+to any public authority which may be directly affected by activities pursuant to the proposed 
+agreement or amendment, 
+and shall take such further steps as may be prescribed by regulations concerning the public advertisement of, 
+and objections to, the proposed agreement or amendment. 
+(2)  The Chief Environmental Health Officer and any public authority to which a proposal is referred 
+under subregulation (1) shall inform the Authority in writing within thirty days after the day on which the 
+proposal was referred— 
+ 
+(a) 
+whether the proposal is supported or whether there are objections to it; 
+ 
+(b) 
+if the proposal is supported, what special terms should be included in the proposed agreement or 
+amendment. 
+(3)  The Authority shall— 
+ 
+(a) 
+take into account any report and comments received under subregulation (2); 
+ 
+(b) 
+refuse to enter into the proposed agreement if the Chief Environmental Health Officer submits a 
+written report objecting to the proposal on the grounds that public health is likely to be 
+endangered if the proposed agreement or amendment is made. 
+ 
+ 
+ 
+PART V 
+Prohibited Wastes 
+31.   Reception of certain waste not compulsory 
+Nothing in these Regulations requires the Authority— 
+ 
+(a) 
+to receive into a sewer— 
+ 
+(i) storm drainage or surface waters, 
+ 
+(ii) any matter which may adversely in the opinion of the Authority affect the operation of a 
+sewer or any associated works or the treatment or disposal of the contents thereof, 
+ 
+(iii) any matter which may be injurious to health; 
+ 
+(b) 
+to provide facilities to receive some drainage or surface waters where existing sewers or sewage 
+disposal works are inadequate to receive them. 
+
+
+--- PAGE 51 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+51 | P a g e  
+ 
+32.   Acts prohibited in declared areas 
+(1)  A person shall not, in any declared area— 
+ 
+(a) 
+discharged any waste or cause or allow any waste to be discharged directly or indirectly other 
+than to a sewer; 
+ 
+(b) 
+construct any septic tank, cesspool, privy or other facility for the disposal, reception, storage or 
+treatment of waste, 
+except in accordance with the Act. 
+(2)  Subject to these Regulations, a person shall not cause or allow any matter other than domestic sewage 
+or trade waste to enter a sewer, sewer property service, property sewer or connected works or fittings, either 
+directly or indirectly. 
+(3)  A person shall not cause or allow any matter specified in the Fourth Schedule or (except pursuant to a 
+trade waste agreement) any matter specified in the Fifth Schedule to enter a sewer, sewer property service, 
+building sewer or connected works or fittings either directly or indirectly. 
+(4)  Subject to the requirements of any trade waste agreement a person shall not cause or allow any waste 
+from premises of the type specified in the Sixth Schedule to enter a sewer, sewer property service, building 
+sewer or connected works or fittings either directly or indirectly except through a grease trap of a design 
+approved by the Manager. 
+(5)  Any person who contravenes any of the provisions of this regulation commits an offence and is liable 
+on summary conviction to a fine not exceeding five thousand dollars or imprisonment for a term not 
+exceeding two years and to a further fine not exceeding five hundred dollars for each day the offence 
+continues after conviction. 
+(6)  The occupier of any premises listed in the Sixth Schedule upon which a grease trap is installed who 
+fails to keep the grease trap clean and in sanitary condition commits an offence and is liable on summary 
+conviction to fine not exceeding ten dollars or to imprisonment for a term not exceeding fourteen days. 
+ 
+33.   Acts subject to the Manager’s approval 
+(1)  A person shall not— 
+ 
+(a) 
+cause or allow any waste from commercial or domestic food grinders to enter a sewer, sewer 
+property service, building sewer or connected works or fittings either directly or indirectly 
+except with the consent of the Authority and subject to such conditions as the Manager 
+determines; 
+ 
+(b) 
+cause or allow any waste from a swimming pool to enter a sewer, sewer property service, 
+building sewer or connected works or fittings either directly or indirectly except in accordance 
+with such conditions as the Manager may impose in each particular case. 
+(2)  Any person who contravenes the provisions of this regulation commits an offence and on summary 
+conviction is liable to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding 
+twelve months and in the case of subregulation (1)(a) to a further fine not exceeding five hundred dollars for 
+each day the offence continues after conviction. 
+PART VI 
+Sewerage Charges 
+
+
+--- PAGE 52 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+52 | P a g e  
+ 
+34.   Charges for sewerage 
+(1)  The Authority may, from time, to time make regulations fixing charges to be paid by the owner or 
+occupier of any premises connected with a sewer. 
+(2)  Charges may be fixed which differ according to the type, class or use of premises. 
+(3)  Until the Authority make regulations to the contrary, the charges shall be as prescribed in the Eighth 
+Schedule. 
+(4)  Sewerage charges become due and payable on the first day of every month. 
+(5)  Whenever the owner of premises connected with a sewer is not in occupation or sole occupation of 
+the premises, the owner and occupier may agree which of them shall pay sewerage charges in respect of 
+premises and in what proportion. 
+(6)  Whenever an owner or occupier have not agreed that the occupier is to pay all sewerage charges in 
+respect of premises connected with a sewer and the owner fails to pay any sewerage charge for which he is 
+liable, the Authority may— 
+ 
+(a) 
+recover the amount summarily from the owner; or 
+ 
+(b) 
+recover the amount in accordance with section 31 of the Act, 
+and may collect interest at the rate of ten per cent per annum until repayment is made. 
+35.   Recovery of outstanding charges 
+Without prejudice to any other remedy available to the Authority, where any sewerage charge or any 
+interest or penalty thereon in respect of any premises to which water is supplied by the Authority is 
+outstanding— 
+ 
+(a) 
+after a period of twenty-one days from the day on which it became due, the Authority may 
+notify the owner or occupier of the premises in question in writing that, if the sum outstanding is 
+not paid to the Authority before the expiration of thirty days from the day on which it became 
+due, the supply of water to the premises will be restricted or disconnected; 
+ 
+(b) 
+after a period of thirty days from the day on which it became due, the Authority may restrict or 
+disconnect the supply of water to the premises in question, if written notice has previously been 
+given under paragraph (a). 
+36.   Penalties payable on overdue accounts 
+Where any sewerage charge is outstanding for a period in excess of thirty days from the day on which it 
+became due, the person liable to pay the sewerage charge is also liable to pay to the Authority a penalty equal 
+to ten percent of the outstanding amount. 
+37.   Recovery of administrative charges 
+Where a cheque proffered in payment of any sum due to the Authority is not honoured by the paying 
+bank, the Authority may recover from either the drawer or from the owner or occupier of the premises in 
+respect of which the cheque was proffered the sum prescribed in the Second Schedule to cover bank charges 
+and administrative costs incurred by the Authority. 
+38.   Remission of charges 
+The Authority may wholly or partially remit any rate, charge, fee or penalty or may extend the date upon 
+which it falls due, on the ground— 
+
+
+--- PAGE 53 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+53 | P a g e  
+ 
+ 
+(a) 
+of the poverty of the person liable to pay the same; or 
+ 
+(b) 
+that its payment would cause undue hardship. 
+PART VII 
+Offences 
+39.   Building over sewers 
+(1)  A person shall not, unless he is authorised by or under these Regulations, erect any building or 
+structure, or cause, or allow any person to erect any building or structure within four meters of the centre-line 
+of any sewer or sewer property service vested in the Authority. 
+(2)  The Authority may, of its own motion, or on an application by a person in the prescribed manner and 
+form— 
+ 
+(a) 
+approve the doing of anything referred to in subregulation (1) subject to such conditions as it 
+may specify; 
+ 
+(b) 
+refuse the application; or 
+ 
+(c) 
+with the consent of the applicant, divert or relocate the sewer or sewer property service at the 
+cost of the applicant and subject to such conditions as the Authority may specify. 
+(3)  Where any building or structure on any land does not comply with the provisions of this regulation 
+the Authority may, by notice in writing served on the owner or occupier of the premises require the owner or 
+occupier to alter, remove or relocate such building or structure as is specified in the notice, whether or not 
+such building or structure was erected by or on behalf of that owner or occupier. 
+(4)  Any approval given by the Authority under subregulation (2) and all conditions attached thereto shall 
+be binding upon the applicant, his heirs, successors and assignees and the owner or occupier for the time 
+being of premises to which the approval relates, whether or not such person has notice of the approval or the 
+conditions thereof. 
+(5)  A person who contravenes or fails to comply with or causes or allows any person to contravene or fail 
+to comply with— 
+ 
+(a) 
+any conditions specified under subregulation (1) or (2); or 
+ 
+(b) 
+any requirement of a notice served on that person under subregulation (3), 
+commits an offence and is liable on conviction to a fine not exceeding five thousand dollars or imprisonment 
+for a term not exceeding twelve months and to a further fine not exceeding five hundred dollars for each day 
+the offence continues after conviction. 
+(6)  Where at the commencement of these Regulations any sewer, sewer property-service or other 
+connected works (other than a building sewer) which are part of a sewerage system operated by the Authority 
+are on, or in, private premises, the sewer, sewer property service or other connected works shall be taken to 
+have been installed with the consent of the owner for the time being of the premises at the time they were 
+installed and pursuant to a sufficient interest in the premises created by that owner in favour of the Authority 
+to enable it to enter the premises in order to use, repair, maintain, alter, extend, replace or remove such sewer, 
+sewer property service or other connected works in perpetuity. 
+40.   Trees and shrubs 
+(1)  Where trees, crops or shrubs are wholly or partly located within four meters of the centre-line of any 
+sewer, sewer property service or other works vested in the Authority and the Authority requires access to 
+
+
+--- PAGE 54 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+54 | P a g e  
+ 
+those works, an authorised officer may, without notice to the owner or occupier of the land upon which such 
+trees, crops or shrubs are wholly or partly located, cause them to be removed. 
+(2)  Where any sewer, sewer property service or other works vested in the Authority are damaged or 
+blocked by any tree or shrub or the roots thereof an authorised officer may require the owner or occupier of 
+the land on which the tree or shrub is located— 
+ 
+(a) 
+to remove the tree or shrub and the roots thereof; 
+ 
+(b) 
+to make good any damage or blockage to such works; and 
+ 
+(c) 
+to restore the land surface, 
+in such manner as may be prescribed, at the expense of that owner or occupier. 
+41.   Tampering with works 
+(1)  A person shall not— 
+ 
+(a) 
+uncover or expose any sewer, sewer property service or other works vested in the Authority; 
+ 
+(b) 
+wilfully or negligently break, damage, injure, open, alter or obstruct any sewer, sewer property 
+service or other works vested in the Authority, 
+except with the permission of the Authority. 
+(2)  Where any person is convicted of an offence under subregulation (1) or regulation 43 the Court may, 
+in addition to imposing the prescribed penalty, order that person— 
+ 
+(a) 
+to meet the cost of making good any damage so caused; 
+ 
+(b) 
+to pay any other charges which by virtue of the offence it may assess the Authority to have lost, 
+as the case may require. 
+42.   Obstruction of officers 
+(1)  A person shall not assault, threaten, resist, obstruct, hinder, or delay any authorised officer, person or 
+public authority in the performance of powers, functions or duties under these Regulations or allow or 
+encourage any other person to do so. 
+(2)  Any person who obstructs such person in the performance of his functions under these Regulations 
+commits an offence and is liable on summary conviction to a fine not exceeding five thousand dollars or to a 
+term of imprisonment for a term not exceeding twelve months. 
+(3)  Where a person is convicted of an offence against paragraph (1) the court may, in addition to any 
+penalty, order the offender to pay by way of compensation a sum sufficient to cover any damage which any 
+authorised officer or other person or public authority has suffered as a result of such assault, threat, 
+resistance, obstruction, hindrance or delay and any sum so awarded may be recovered in the same manner as 
+the penalty. 
+43.   Unlawful connections 
+(1)  A person shall not connect or allow any person to connect any building sewer, private sewer, drain or 
+pipe to any sewer, sewer property service or other works of the Authority except in accordance with these 
+Regulations. 
+(2)  Anyone contravening the provisions of this regulation commits an offence and is liable on summary 
+conviction to a fine not exceeding five thousand dollars or imprisonment for a term not exceeding twelve 
+months. 
+
+
+--- PAGE 55 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+55 | P a g e  
+ 
+44.   Offences against the regulations 
+(1)  A person shall not contravene or fail to comply with or cause or allow any person to contravene or fail 
+to comply with any provision of these Regulations. 
+(2)  Where no penalty is expressly provided a person convicted summarily of an offence against these 
+Regulations is liable to a fine not exceeding one thousand dollars or to imprisonment for a term not 
+exceeding twelve months. 
+ 
+First Schedule 
+[Regulation 11(2)(a).] 
+CENTRAL WATER AND SEWERAGE AUTHORITY 
+FORM A 
+Application to Connect with a Sewer 
+Please print or type in BLOCK LETTERS 
+1. Address of premises 
+  .....................................  
+ ........................................... 
+ ................................................... 
+ 
+(Number) 
+(Street) 
+(Area) 
+2. Owner’s Name and address 
+  ..............................................................  
+ ............................................................................  
+(Last name) 
+(First name) 
+  .....................................  
+ ........................................... 
+ ................................................... 
+ 
+(Number) 
+(Street) 
+(Area) 
+3. Is there a tenant on the land? If so give 
+(a) Name of the tenant 
+ 
+ .......................................................  
+ ............................................................................ 
+ 
+ 
+(Last name) 
+(First name) 
+(b) Nature of the tenancy 
+ ...................................................................................................................................................... 
+ 
+(weekly, monthly, yearly etc.) 
+4. What sort of premises are they? 
+ (dwelling, store, etc.)  ................................................................................................................... 
+5. Is there an open yard which is next to a street or lane? 
+ Yes 
+ No 
+6. How many people live or work on the premises? 
+ ...................................................................................................................................................... 
+7. What sort of sanitary arrangements are planned? 
+ ...................................................................................................................................................... 
+8. How many fittings will there be? Of what sort? 
+ ...................................................................................................................................................... 
+9. What sort of water closet and flush tank will there be? 
+ ...................................................................................................................................................... 
+10. Which Sanitary Constructor 
+(Name)  ................................................................  
+ will be doing the work? 
+(Address) .............................................................  
+
+
+--- PAGE 56 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+56 | P a g e  
+ 
+11. General remarks 
+ ...................................................................................................................................................... 
+12. Name and address of applicant 
+(Name)  ................................................................  
+  
+(Address) .............................................................  
+13. Your Signature 
+ ...................................................................................................................................................... 
+14. Date 
+ ...................................................................................................................................................... 
+When you have completed this form, send it, together with FOUR COPIES OF PLANS, which 
+clearly show the location of all proposed drain, water closets, waste pipes, gully traps, gradients 
+and depths of drain etc. to: 
+The Manager 
+Central Water and Sewerage Authority 
+Arnos Vale 
+Saint Vincent. 
+* IMPORTANT: NO WORK MUST BE COMMENCED UNTIL YOUR APPLICATION AND 
+PLANS HAVE BEEN APPROVED. 
+ 
+Second Schedule 
+[Regulations 11(2)(b), 13(2), 16(2), 20 and 37.] 
+Fees for Works, etc. 
+Fee to accompany application pursuant to the First Schedule  
+$ ............................................  
+Fee for any second or subsequent visit to premises to verify the 
+accuracy of applications and plans  
+$ ............................................  
+Minimum charges for executing the following works: 
+Fee per Connection 
+(a) Each additional sewer property service to domestic  
+premises  .................................................................................  
+$650 
+(b) Each additional sewer property service to industrial or  
+commercial premises 
+(i) not exceeding 1,000  
+square feet in area  ...........................................................  
+$650 
+(ii) in excess of 1,000  
+square feet in area  ...........................................................  
+$1,000 
+Fee for dishonoured cheques  ........................................................  
+$15 plus any bank fee paid 
+by the Authority 
+ 
+Third Schedule 
+[Regulation 17.] 
+Security Deposits for Payment of Charges 
+
+
+--- PAGE 57 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+57 | P a g e  
+ 
+DOMESTIC PREMISES 
+Private dwelling  
+in Arnos Vale Housing Scheme  ........................................  
+$  45 
+Other private dwelling  .......................................................  
+$  60 
+Apartments and other dwellings  ........................................  
+$180 
+COMMERCIAL AND INDUSTRIAL PREMISES 
+20 employees or less  .........................................................  
+$285 
+More than 20 and less than 50 employees  .........................  
+$570 
+50 or more employees  .......................................................  
+$855 
+ 
+Fourth Schedule 
+[Regulation 32(3).] 
+Prohibited Substances 
+Crude Petroleum 
+Oil made from petroleum, coal, shale, peat or other bituminous substance. 
+Any product, or mixture containing petroleum which, when tested in a manner approved by the Manager, 
+gives of inflammable vapour at a temperature lower than 23 degrees Celsius. 
+Carbide of Calcium. 
+Strong oxidising agents such as chromates, dichromates, permanganates and peroxide. 
+Chemical compounds producing toxic, inflammable or explosive gases, either upon acidification, 
+alkalisation, oxidation or reduction. 
+Strong reducing agents such as nitrites, sulphides, sulphites and thiosulphates. 
+Waste of whatever kind that cannot be satisfactorily processed or purified by the sewerage treatment process 
+used by the Authority. 
+ 
+Fifth Schedule 
+[Regulation 32(4).] 
+Wastes Subjects to Trade Waste Agreements 
+Steam or liquids with temperatures above 4 degrees Celsius. 
+Water or waste with pH less than 5.5 or greater than 9.0. 
+Highly coloured waste. 
+Waste which, in the opinion of the Manager, may create excessively offensive odours. 
+Waste containing the following substances— 
+ 
+ 
+alcohol 
+ 
+ 
+antibiotics 
+ 
+ 
+aresenic 
+
+
+--- PAGE 58 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+58 | P a g e  
+ 
+ 
+ 
+bromine 
+ 
+ 
+chlorine 
+ 
+ 
+copper 
+ 
+ 
+creosol or creosote 
+ 
+ 
+cadmium 
+ 
+ 
+cyanide 
+ 
+ 
+fluorine 
+ 
+ 
+formaldehyde 
+ 
+ 
+iodine 
+ 
+ 
+lead 
+ 
+ 
+mercury 
+ 
+ 
+phenols and their derivatives 
+ 
+ 
+sulphonamides 
+ 
+ 
+zinc compounds 
+ 
+Sixth Schedule 
+[Regulation 32(5).] 
+Premises Requiring Approved Grease Traps 
+Any premises producing waste containing grease including— 
+ 
+(a) 
+hotels, restaurants, boarding houses and laundries; 
+ 
+(b) 
+premises constructing, repairing, maintaining or cleaning motor vehicles, motor bicycles, boats, 
+engines, mechanical equipment or machines. 
+ 
+Seventh Schedule 
+[Regulation 21(1)(b)(iv).] 
+Technical Specifications 
+Location, course and diameter of building sewer 
+1.   Building sewer shall be laid in straight lines from point to point. 
+2.   A building sewer shall be at least 100 mm internal diameter. 
+3.   If a building seweris to be laid in soft or yielding ground the Manager may specify the materials and 
+methods of construction to be used and impose such other conditions as he sees fit. 
+4.   (1)  Unless the Manager certifies in writing that it is impractical or inexpedient to do otherwise, a person 
+shall not lay a building sewer under any building. 
+(2)  If a building sewer is to be laid under a building pursuant to the preceding clause, the Manager may 
+specify the materials and methods of construction to be used and impose such other conditions as he sees fit. 
+
+
+--- PAGE 59 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+59 | P a g e  
+ 
+5.   A person shall not construct any building over an existing sewer, sewer property service or building 
+sewer without the Manager’s written consent. 
+6.   Gradients of building sewers 
+(1)  Subject to paragraph (2), a building sewer shall be constructed with a gradient through its length of at 
+least one in one hundred. 
+(2)  The Manager may consent in writing to a gradient less than one in one hundred provided that— 
+ 
+(a) 
+any lesser gradient occurs— 
+ 
+(i) in the portion of the building sewer nearest to its outlet, 
+ 
+(ii) in the main line of the building sewer and not in any branches; 
+ 
+(b) 
+any special means of flushing required by the Manager is provided. 
+7.   Depth of sewer pipes 
+(1)  Subject to paragraph (2), all underground pipes which are part of a sewerage system shall be laid— 
+ 
+(a) 
+at least 900 mm below any road; 
+ 
+(b) 
+at least 450 mm below any other ground level. 
+(2)  The Manager may consent in writing to a lesser depth than specified in the preceding clause, provided 
+that the pipes are protected in such manner and with such materials as the Manager directs. 
+8.   Construction and joining of pipes 
+A pipe of whatever material which is part of a sewerage system shall be sound and impervious throughout 
+its length and shall be jointed in the best manner. 
+9.   Any internal projections or obstructions shall be cleared from all pipes. 
+10.   No cement or jointing material shall project from the joints of pipes. 
+11.   (1)  Joints of— 
+ 
+(a) 
+earthenware pipes; or 
+ 
+(b) 
+iron pipes (where screw joints are not used) shall be 
+ 
+(i) of a good quality hemp or jute gasket, 
+ 
+(ii) followed by lead at least 30 mm deep, and 
+ 
+(iii) caulked to make the joints fast and water-tight. 
+(2)  With the consent of the Manager— 
+ 
+(a) 
+special jointing compounds other than lead may be used; 
+ 
+(b) 
+flanged rubber compression rings or other mechanical joints may be used. 
+12.   In making screwed wrought iron or steel joints— 
+ 
+(a) 
+red lead or such other jointing compound approved by the Manager shall be used; 
+ 
+(b) 
+paint, putty or running thread shall not be used. 
+13.   Joints of copper pipes shall be— 
+ 
+(a) 
+made of a soldered sleeve; or 
+ 
+(b) 
+of mechanical or compression joints approved by the Manager. 
+14.   Joints between lead and iron pipes shall be made of a brass sleeve or brass ferrule of the same size as the 
+lead pipe. The lead pipe shall be attached to the ferrule by a wiped solder joint. 
+
+
+--- PAGE 60 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+60 | P a g e  
+ 
+15.   Locations of manholes, inspection chambers and gully basins 
+(1)  Manholes, inspection chambers, cleaning eyes and other appurtenances shall be provided in such 
+number and at such locations as the Manager thinks fit in order to— 
+ 
+(a) 
+allow the interior of pipes to be inspected during construction; 
+ 
+(b) 
+provide a means of removing obstructions from the pipes. 
+(2)  Without limiting the generality of the preceding clause, inspection chambers shall be provided at 
+every point in a building sewer— 
+ 
+(a) 
+where two or more lines of pipe converge, except where the Manager consents in writing to the 
+use of a “Y” branch; 
+ 
+(b) 
+where there is an angle, bend, change in gradient or size of pipe; 
+ 
+(c) 
+where there is a change in the type of pipe (for example from earthenware to metal); 
+ 
+(d) 
+where necessary to ensure that no part of the building sewer is more than 15 metres from the 
+centre of an inspection chamber, unless the Manager agrees in writing to some greater distance. 
+16.   Construction of manholes etc. 
+(1)  Inspection chambers or manholes shall be— 
+ 
+(a) 
+not less than 900 mm horizontally and 750 mm internally; 
+ 
+(b) 
+fitted with a strong cast iron frame securely bedded on cement mortar made of one part cement 
+to three parts sand, with an adequate exterior fillet to stop the frame from moving; 
+ 
+(c) 
+fitted with a removable cover, sufficiently strong to bear any traffic likely to pass over it, and 
+fixed at a level no lower than the adjoining surface. 
+(2)  A cover for a manhole or inspection chamber shall have a clear opening of at least 45 mm. 
+(3)  Interior corners of manholes and inspection chambers shall be rounded off on a radius of not less than 
+50 mm with a fillet of cement mortar of one part cement to three parts sand. 
+(4)  The floors or inverts of manholes and inspection chambers shall be made of concrete, brought to a 
+fine smooth surface, properly floated and well worked in with a steel trowel. 
+(5)  Suitable channels and benching shall be formed in the floor of each manhole or inspection chamber to 
+collect, conduct or convey waste. 
+(6)  Channels and benching shall be rendered smooth and true and offer the least possible resistance to the 
+flow of waste. 
+(7)  Concrete walls, arches and slabs of manholes and inspection chambers shall be— 
+ 
+(a) 
+re-inforced with seal bars of such size and in such manner as the Manager directs; 
+ 
+(b) 
+mounded true on the exposed surface and brought to a smooth and impervious surface. 
+(8)  A manhole, inspection chamber or gully basin shall be fitted with a specially sealed cover as 
+prescribed in paragraph (9) whenever— 
+ 
+(a) 
+the Manager certifies that it is impractical or inexpedient for the manhole, inspection chamber or 
+gully basin to be located outside a building; or 
+ 
+(b) 
+as a result of any building extension or alteration a manhole, inspection chamber of gully basin 
+falls within any building or covered area. 
+(9)  A cover fitted under paragraph (8)— 
+ 
+(a) 
+shall be water-tight and airtight; 
+
+
+--- PAGE 61 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+61 | P a g e  
+ 
+ 
+(b) 
+shall be so bolted or secured to the frame of the manhole, inspection chamber or gully basin that 
+it can be readily removed and replaced; 
+ 
+(c) 
+may be a cast iron access with a bolted water-tight and airtight cover of a design approved by 
+the Manager. 
+17.   Ventilating pipes 
+(1)  Ventilating pipes shall be made of cast iron, asbestos cement, specially enamelled steel or other 
+material approved by the Manager. 
+(2)  Earthenware or sheet metal pipes shall not be used for ventilating pipes. 
+(3)  All 90 degree bend, duckfoot bends or tee pieces set at the base of a vertical soil or ventilating pipe 
+shall be bedded in a block of concrete at least 375 mm square and 225 mm deep. 
+(4)  All waste pipes shall be trapped at each separate fixture and as close as possible to each fixture. 
+(5)  A trap shall not be placed at the foot of a vertical soil or ventilating pipe. 
+(6)  A soil, waste or ventilating pipe shall in no circumstances be connected to a chimney or smoke stack. 
+(7)  A sealed gully basin shall be adequately ventilated by a pipe of not less than 50 mm internal diameter. 
+(8)  A main ventilating pipe of at least 100 mm internal diameter— 
+ 
+(a) 
+shall be erected at the termination of each building sewer; and 
+ 
+(b) 
+shall project at least 600 mm above the eaves of the highest building within 6 metres of the 
+ventilating pipe; and 
+ 
+(c) 
+shall be fitted with a wire cage, guard, cowl or similar protection with openings at least equal in 
+area to the cross – section of the ventilating pipe so as to be adequate to prevent the ventilating 
+pipe so as to be adequate to prevent the ventilating pipe from being choked with leaves or other 
+obstructions. 
+(9)  Unless the Manager directs otherwise, any branch of a building sewer longer than 5 metres shall be 
+ventilated as if it were a separate building sewer. 
+(10)  Any trapped pipe which may be subjected to siphonage or back pressure shall be fitted with a 
+ventilating pipe from the crown of the trap. 
+(11)  Subject to clause (12) a ventilating pipe from a water closet trap shall be of at least 50 mm internal 
+diameter. 
+(12)  Where ventilating pipes from five or more water closet traps are combined, the combined ventilating 
+pipe shall be of at least 75 mm internal diameter. 
+(13)  A ventilating pipe from a water closet trap may only be connected to a main ventilating pipe at a 
+point above all other connections. 
+(14)  If two or more fixtures are attached to a single waste pipe— 
+ 
+(a) 
+all traps shall be back ventilated; 
+ 
+(b) 
+each ventilating pipe shall be run separately or together to project at least 600 mm above the eaves 
+of the building. 
+(15)  An adequate air gap shall be provided through free atmosphere between— 
+ 
+(a) 
+the lowest opening from any pipe or delivery cock, supplying water to any tank, plumbing 
+fixture or receptacle; and 
+ 
+(b) 
+the overflow or flood level run of the tank, plumbing fixture or receptacle. 
+ 
+
+
+--- PAGE 62 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+62 | P a g e  
+ 
+18.   Protection from surface waters 
+A pipe draining water from the roof of a building shall not be used— 
+ 
+(a) 
+to carry any water; 
+ 
+(b) 
+as a ventilating pipe or anti-siphon pipe for any sewer property service, building sewer or trap. 
+19.   (1)  Gullies or other inlets connected with building sewers shall be— 
+ 
+(a) 
+raised above ground level; and 
+ 
+(b) 
+surrounded by a concrete curb of at least 150 mm high or otherwise protected from flows of rain 
+or surface water. 
+(2)  Condensation and waste cooling water from air conditioning plants shall be discharged into trapped 
+gully basins. 
+(3)  Rain or surface water shall not be allowed to enter any building sewer. 
+20.   Wherever it is necessary to use a sump pump or ejector to raise waste from installations lower than the 
+sewer into which the waste is to be discharged the sump shall— 
+ 
+(a) 
+be made either of adequately reinforced water-proof concrete or cast iron; 
+ 
+(b) 
+be of sufficient capacity to receive the projected peak waste flow for thirty minutes; 
+ 
+(c) 
+have its sump discharge pipes when connected to a sewer fitted with both— 
+ 
+(i) a check or non-return valve, and 
+ 
+(ii) a gate valve; 
+ 
+(d) 
+be provided with securely fastened gas tight and airtight metal cover; 
+ 
+(e) 
+be adequately ventilated in accordance with this Schedule; and 
+ 
+(f) 
+have the whole installation, including the ejector or pump and the prime mover, installed in 
+well-ventilated and easily accessible compartments. 
+21.   (1)  A building sewer shall be— 
+ 
+(a) 
+water-tight and airtight; and 
+ 
+(b) 
+tested for water-tightness and airtightness by hydraulic pressure, or such other means as the 
+Manager directs. 
+(2)  Defective pipes discovered during testing shall be removed and replaced by sound pipes. 
+(3)  Defective joints discovered during testing shall be made water-tight and airtight. 
+22.   Water Closets and Fixtures 
+(1)  A water closet or bidet and connected fittings shall— 
+ 
+(a) 
+conform to such standards as may be laid down by the Manager; and 
+ 
+(b) 
+be of a pattern approved by the Authority. 
+(2)  A water closet shall— 
+ 
+(a) 
+be capable of being sluiced clean with a flush of not more than 9 litres of water each time it is 
+used; and 
+ 
+(b) 
+be provided with a trap or siphon, placed near to the pan, as an effective water seal; and 
+ 
+(c) 
+be connected to a siphonic waste-preventing flush tank of a pattern approved by the Manager; or 
+ 
+(d) 
+be connected to such type of flush tank as the Manager approves. 
+
+
+--- PAGE 63 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+63 | P a g e  
+ 
+(3)  A person shall not use a tank giving more than 9 litres each flush. 
+(4)  The water service pipe to every flush tank shall be fitted with a stop cock. 
+(5)  Each flush tank shall be fitted with an overflow pipe, which shall— 
+ 
+(a) 
+discharge into the open air, and not into the soil pipe; and 
+ 
+(b) 
+be arranged in such a manner as to act as a warning pipe; 
+ 
+(c) 
+discharge not more than 9 litres at each flush. 
+23.   A water closet installed above ground level shall be connected to waste pipes of cast iron, steel or such 
+other material as the Manager approves, which shall be— 
+ 
+(a) 
+at least 100 mm internal diameter; 
+ 
+(b) 
+jointed with lead and gasket or other jointing compound approved by the Manager; 
+ 
+(c) 
+placed outside the building, wherever possible, or in a pipe duct within the building. 
+24.   Air shall be allowed to circulate freely through the whole course of a building sewer without any 
+obstruction. 
+25.   Each bath, wash basin, lavatory and sink, including slop sink, shall be fitted with a trap as close as 
+possible to the fixture. 
+26.   (1)  The main waste pipe and overflow pipe of a wash basin, lavatory or sink (other than a slop sink), 
+shall be 35 mm internal diameter. 
+(2)  The main waste pipe and overflow pipe from a slop sink shall each be at least 75 mm internal 
+diameter. 
+(3)  The main waste pipe and overflow pipe from a bath shall be at least 50 mm internal diameter. 
+27.   (1)  A tee fitting may be used in making connection to a vertical pipe. 
+(2)  A connection to a pipe other than a vertical pipe shall be made within an angle branch. 
+28.   (1)  Subject to paragraph (2) a waste pipe exceeding 50 mm internal diameter shall not be made of lead. 
+(2)  If a waste pipe is protected by suitable casing, the Manager may allow a waste pipe of more than 50 
+mm but not more than 75 mm internal diameter to be made of lead. 
+29.   Urinals 
+A urinal shall be fitted with a glazed basin or staff. 
+30.   (1)  A basin urinal shall be separately connected to the waste pipe by a pipe of— 
+ 
+(a) 
+lead; 
+ 
+(b) 
+copper; 
+ 
+(c) 
+cast iron, effectively protected from corrosion; 
+ 
+(d) 
+galvanized wrought iron; 
+ 
+(e) 
+galvanized malleable iron; or 
+ 
+(f) 
+such other material as the Manager may approve, 
+and shall be fitted with a glazed trap of at least 50 mm internal diameter. 
+(2)  A staff urinal shall have a properly graded glazed channel along the bottom of the staff, leading to a 
+glazed trap of at least 100 mm internal diameter. 
+ 
+
+
+--- PAGE 64 ---
+
+ 
+CAP. 403 
+Central Water and Sewerage Authority Act – Subsidiary Legislation 
+ 
+64 | P a g e  
+ 
+31.   Urinal traps shall— 
+ 
+(a) 
+be fitted with a deep effective water seal; 
+ 
+(b) 
+have effective access for cleaning; 
+ 
+(c) 
+be covered with a strong removable grid. 
+32.   (1)  A urinal shall be fitted with a suitable and efficient automatic flush tank. 
+(2)  A flush tank shall— 
+ 
+(a) 
+be so installed as to be separate from any tank used for drinking water; 
+ 
+(b) 
+be of a capacity of 4.5 litres for each basin or each 685 mm length of staff; 
+ 
+(c) 
+be capable of being filled in not more than 25 minutes or such lesser period as is necessary to 
+clean the urinal satisfactorily; 
+ 
+(d) 
+be attached to a water supply pipe fitted, in easily accessible positions, with— 
+ 
+(i) one screw-down stop cock to regulate supply to the tank, and 
+ 
+(ii) one screw-down stop cock to shut off supply. 
+ 
+Eighth Schedule 
+[Regulation 34(3). Eighth Schedule amended by SRO 32 of 2007.] 
+Sewerage Charges 
+DOMESTIC PREMISES 
+$ Per Month 
+Private dwellings in Arnos Vale housing scheme  .............  
+15 
+Other private dwellings  .....................................................  
+20 
+Apartments and other dwellings  ........................................  
+60 
+COMMERCIAL AND INDUSTRIAL PREMISES 
+ 
+Small – 20 employees or less  ............................................  
+100 
+Medium – more than 20 but less than 50 employees  .........  
+250 
+Large – 50 or more employees  ..........................................  
+385 
+ 

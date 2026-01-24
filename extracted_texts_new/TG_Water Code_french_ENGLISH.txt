@@ -1,0 +1,829 @@
+****
+Please provide the text for translation. The content for "PART 1 of a legal document (TG_Water Code_french.txt)" was not included in your request.
+
+****
+54th Year No. 30 bis Special Issue September 09, 2010
+OFFICIAL JOURNAL OF THE TOGOLESE REPUBLIC
+PUBLISHED ON THE 1ST AND 16TH OF EACH MONTH IN LOME
+
+**RATES**
+**PURCHASE**
+1 to 12 pages .................................. 200 F
+16 to 28 pages ................................ 600 F
+32 to 44 pages .............................. 1000 F
+48 to 60 pages.............................. 1500 F
+Over 60 pages.............................. 2000 F
+
+**ANNUAL SUBSCRIPTION**
+• TOGO ..................................... 20,000 F
+• AFRICA .................................. 28,000 F
+• OUTSIDE AFRICA ................... 40,000 F
+
+**ANNOUNCEMENTS**
+Receipt for the declaration of associations: 10,000 F
+Notice of loss of land title (1st and 2nd insertions): 10,000 F
+Notice of registration: 10,000 F
+Certification of the OJ: 500 F
+
+NB. Advance payment is the only guarantee of prompt service.
+For any additional information, please contact EDITOGO
+Tel: (228) 221-37-18 / 221-61-07/08 Fax (228) 222-14-89 - PO Box 891 - LOME
+DIRECTORATE, EDITORIAL OFFICE, AND ADMINISTRATION
+OFFICE OF THE PRESIDENT OF THE REPUBLIC - TEL: 221-27-01 - LOME
+
+**TABLE OF CONTENTS**
+**OFFICIAL PART**
+**ACTS OF THE GOVERNMENT OF THE TOGOLESE REPUBLIC**
+**LAWS, ORDINANCES, DECREES, ORDERS, AND DECISIONS**
+
+**LAWS**
+**2010**
+June 14 - Law No. 2010-004 on the Water Code .................... 2
+July 02 - Law No. 2010-010 on the national fund for apprenticeship, training, and professional development.................... 24
+Sept. 09 - Law No. 2010-011 authorizing the ratification of the International Coffee Agreement 2007, adopted in London on September 28, 2007 ....26
+
+**OFFICIAL PART**
+**ACTS OF THE GOVERNMENT OF THE TOGOLESE REPUBLIC**
+**LAWS, ORDINANCES, DECREES, ORDERS, AND DECISIONS**
+
+**LAWS**
+
+**LAW NO. 2010-004 of June 14, 2010**
+**On the Water Code**
+
+The National Assembly has deliberated and adopted;
+The President of the Republic promulgates the law, the content of which is as follows:
+
+**TITLE I - GENERAL PROVISIONS**
+
+**Article 1** - This code establishes the general legal framework and the basic principles for Integrated Water Resources Management (IWRM) in Togo. It determines the fundamental principles and rules applicable to the allocation, use, protection, and management of water resources.
+
+**Art. 2:** For the purposes of this code, the following definitions shall apply:
+1.  **Sworn officer**: any State officer from a service of the ministries or territorial authorities responsible for implementing this code who has taken an oath before a court;
+2.  **Authority**: any holder of power at both the national and local levels;
+3.  **Sanitation**: all actions aimed at the collection, treatment, and disposal of wastewater and stormwater;
+4.  **Aquifer**: a permeable hydrogeological formation that allows for the significant flow of a body of groundwater and the capture of appreciable quantities of water by economic means;
+5.  **River basin (or watershed)**: a geographical area in which all surface water is drained towards a common outlet. This area is determined by the topographic water divide line, which constitutes the natural boundary separating two basins;
+6.  **Standpipe**: community equipment constructed from a drinking water distribution network pipe, fitted with a water meter and one or more taps for public use;
+7.  **Water abstraction**: the withdrawal of surface water or groundwater for the purpose of its use;
+8.  **Pipeline**: a conduit intended for water transport;
+9.  **Watercourse**: all rivers and streams;
+10. **Dredging**: all work necessary to restore a watercourse or canal to its natural width and depth;
+11. **Waste**: any residue from a process of production, manufacturing, transformation, or use; any substance, material, or product that its holder discards, intends to discard, or is required to discard;
+12. **Effluent**: any liquid or gaseous discharge of domestic, agricultural, or industrial origin, whether treated or untreated, released directly or indirectly into the natural environment;
+13. **Atmospheric water**: water present in the atmosphere in solid, liquid, or gaseous form;
+14. **Surface water**: rainwater and water flowing on the ground surface, found notably in watercourses, canals, lakes, lagoons, ponds, pools, marshes, and wetlands;
+15. **Groundwater**: all water found beneath the ground surface, whether or not it emerges at the surface in the form of springs;
+16. **Mineral water**: groundwater having the characteristics of drinking water and properties considered beneficial to health;
+17. **Drinking water**: any water intended for human consumption that meets the chemical and bacteriological quality standards established in accordance with Article 73;
+18. **Territorial waters or seas**: the zone of the sea extending from a country's coast to a line considered its maritime border. This border is defined by the Montego Bay Convention of December 10, 1982, as 12 nautical miles from the coast (1 mile: 1,852 meters). The use, protection, and management of territorial waters or seas shall be carried out in compliance with international agreements;
+19. **Sacred water**: water, with or without its contents, that is considered or used by a community and which commands respect worthy of worship and veneration;
+20. **Wastewater**: water whose composition or state has been altered as a result of its use;
+21. **Environmental impact assessment**: a study to evaluate the negative or positive effects that the implementation of an activity, project, program, or development plan is likely to have on the environment;
+22. **Borehole**: a circular hole of a predefined diameter, drilled from the ground surface to an aquifer layer, whether or not fitted with casing and screens;
+23. **Freeboard**: unowned land along the edge of a river or canal, the dimensions of which are subject to regulatory provisions;
+24. **Water wastage**: a violation of the technical standards for use in agriculture or industry, for drinking water distribution, etc., established by the competent authorities in conjunction with the Minister in charge of Water;
+25. **Geothermal deposit**: a groundwater deposit that can be used as a source of heat or energy;
+26. **Pumping device**: any mechanical or electromechanical equipment, fixed or mobile, other than traditional drawing means, placed inside, above, or near the water abstraction structure and requiring a source of energy other than human or animal power to operate it;
+27. **Water table**: the first layer of groundwater encountered beneath the soil, generally easily accessible by shallow wells;
+28. **Protection perimeter**: the boundary of a zone defined around a water abstraction or withdrawal point and its facilities, to preserve the quantity and quality of the water;
+29. **Polluting substance**: any substance likely to cause water pollution;
+30. **Water pollution**: any modification of the physical, chemical, or biological properties of water resulting from human or natural activity, in such a way as to render it dangerous or harmful from the point of view of public health, safety, and welfare, or of its legitimate uses for domestic, commercial, agricultural, industrial, and recreational purposes;
+31. **Well**: an excavation dug from the ground surface to an aquifer layer to draw water from it;
+32. **Hydrographic network**: the set of all watercourses where water from runoff flows or infiltrates into aquifers and may reappear, either as springs or through continuous discharge along the bed of the watercourse;
+33. **Wetlands**: areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed six meters.
+
+**Art. 3:** This code adheres to the basic principles of integrated water resources management, which include, in particular:
+1.  **Principle of equity**, that is, the fair treatment of all social categories of the population with regard to water, including the right of access to water for all, and equity in the allocation of water for domestic or productive purposes, taking into account provisions made for the protection and conservation of water resources;
+2.  **Principle of subsidiarity**, which aims to encourage the mobilization of resources and the participation of users at the lowest possible level, to develop skills allowing for greater decentralization of decision-making, and to discourage the perpetuation of centralized structures or monopolies solely responsible for the management of the country's water resources;
+3.  **Principle of information**, according to which every person has the right to be informed of the state of water resources and to participate in consultations and procedures prior to the making of decisions likely to have a detrimental effect on water resources;
+4.  **Principle of planning and participation**, which aims to allow for access and greater adherence by users and partners to all water resource planning and management processes, while ensuring transparency in decision-making and better implementation of decisions made jointly;
+5.  **Principle of sustainable development**, according to which the development and management of water resources must, from an environmental perspective, meet the needs of present generations without compromising the ability of future generations to meet their own;
+6.  **Principle of water management by river basin**, considered, instead of administrative units, as the framework for planning and participation (preparation of IWRM master plans) and for the management/protection of water resources, coherently integrating all components of the natural water cycle and all its uses, including upstream/downstream relationships;
+7.  **Principle of cooperation**, according to which public authorities, international institutions, development partners, non-governmental organizations, and individuals contribute in an organized manner to managing and protecting water resources at all levels;
+8.  **Precautionary principle**, which refers to preventive measures taken to avoid or reduce any risk of pollution of water resources or any danger that could affect water resources during the planning or execution of activities likely to have an impact on this environmental medium and the populations that depend on it. The absence of complete scientific certainty shall not be used as a reason for postponing measures that would prevent the danger or mitigate its effects;
+9.  **"Polluter-pays" principle**, according to which the polluter should be charged the expenses related not only to combating water pollution but also to the preventive measures undertaken by public authorities;
+10. **"User-pays" principle**, a set of defined rules that allow for the pricing of water use according to the type of use, and the quality and quantity of water used.
+11. **Principle of responsibility**, which determines how society and individuals must assume their powers and duties with regard to the water resource. This responsibility must be exercised by ensuring that current and future uses do not cause harm to the resource.
+
+**Art. 4:** The use of water resources shall be in accordance with the general provisions of this code and subject to respect for the rights of third parties.
+
+**TITLE II - LEGAL REGIME FOR WATER, DEVELOPMENT PROJECTS, AND HYDRAULIC STRUCTURES**
+
+**CHAPTER I - THE PUBLIC WATER DOMAIN**
+
+**Art. 5:** Water is part of the public domain.
+
+**Art. 6:** The public water domain comprises:
+1.  watercourses;
+2.  natural or artificial lakes, ponds, pools, and generally all bodies of water, including areas where the presence of water, while not permanent, is regular;
+3.  groundwater;
+4.  atmospheric water;
+5.  springs, wells, boreholes, drinking troughs, and other water points assigned for public use or a public service, as well as their immediate protection perimeters;
+6.  dikes, dams, weirs, and locks assigned for public use, and their appurtenances or ancillary works;
+7.  irrigation, sanitation, and drainage canals assigned for public use;
+8.  aqueducts, pipelines, water conduits, reservoirs, drinking water treatment plants, wastewater treatment plants, and generally, hydraulic structures assigned for public use or a public service, as well as the land facilities appurtenant thereto;
+9.  territorial waters or seas, the use, protection, and management of which shall be carried out in compliance with international agreements.
+
+**Art. 7:** In the case of watercourses, lakes, and canals, the public domain includes the bed, identified by the presence of water or apparent traces resulting from the flow of water, the banks up to the limit reached by floodwaters before overflowing, and the freeboards from the limits of the banks.
+
+**Art. 8:** Pursuant to Article 4, any harm or expropriation suffered by owners or other holders of land rights shall give rise to compensation.
+Decrees of the Council of Ministers shall determine the modalities of compensation for owners and other holders of land rights who have suffered direct, material, and certain harm as a result of the classification of their land as appurtenances of the public water domain, for any reason whatsoever.
+The aforementioned decrees shall also establish the modalities of compensation for persons to whom the effective application of the legislative provisions relating to the public water domain would cause direct, material, and certain harm due to the challenging of situations resulting from recognized customary practices.
+The provisions of this article shall not apply to fishing or to human settlements in lacustrine areas.
+
+**Art. 9:** Swimming pools, cisterns, ornamental ponds, artificial lakes, wells and boreholes, and irrigation or drainage canals built or developed by private individuals on private land after authorization has been duly granted by the Minister in charge of Water shall not be part of the public water domain.
+
+**Art. 10:** It is prohibited:
+*   to encroach in any way whatsoever, notably by construction, on the boundaries of the freeboards of temporary or permanent watercourses, lakes, protection perimeters, and springs, as well as on the right-of-way boundaries of aqueducts, water conduits, navigation canals, irrigation canals, or other protection perimeters forming part of the public water domain, except with the express authorization of the competent authority;
+*   to place within the boundaries of the public water domain any obstacle impeding navigation, the free flow of water, and free passage on the freeboards;
+*   to throw into the bed of watercourses any objects likely to obstruct this bed or cause siltation therein;
+*   to cross open-air conduits, aqueducts, or pipelines included in the public water domain with vehicles or animals outside the passages specially designated for this purpose, and to allow livestock to enter the rights-of-way of irrigation or sanitation canals.
+
+**CHAPTER II - USE OF THE PUBLIC WATER DOMAIN**
+
+**Art. 11:** The use of the public water domain is subject to the following regimes:
+*   the free use regime;
+*   the declaration regime;
+*   the authorization regime;
+*   the concession regime.
+Orders of the Minister in charge of Water shall determine the modalities for the declaration and registration of the works referred to in Article 13 below, as well as the modalities for the granting, registration, modification, suspension, revocation, and renewal of authorizations and concessions.
+
+**SECTION 1 - THE FREE USE REGIME**
+
+**Art. 12:** Free use is that which may be exercised without a declaration, authorization, or concession.
+The use of water for domestic purposes is free, limited to satisfying individual and family needs, the hygiene of persons, dwellings, and domestic animals, and the watering of gardens, provided that the abstraction depth, drawing capacity, and volume of water withdrawn do not exceed the thresholds set by order of the Minister in charge of Water.
+The artificial accumulation of rainwater falling on private land is free, provided that this water remains on said land and that its use complies with the provisions laid down by the laws and regulations in force.
+However, in the event of artificial accumulation of water falling on private land, the operator of the land may be required to declare the capacity, nature, and purpose of the accumulation works.
+
+**SECTION 2 - THE DECLARATION REGIME**
+
+**Art. 13:** Without prejudice to the application of Article 14, the following are subject to the declaration regime:
+*   the construction of groundwater abstraction works equipped with pumping devices;
+*   the construction of sumps and traditional wells for domestic use drawing water from the water table, not exceeding the thresholds set by order of the Minister in charge of Water;
+*   exceeding the thresholds established by the Minister in charge of Water, in accordance with Article 12, with regard to abstraction depth, drawing capacity, and volume of water withdrawn.
+
+**SECTION 3 - THE AUTHORIZATION REGIME**
+
+**Art. 14:** The following are subject to the authorization regime:
+*   uses of surface water carried out by means of permanent works and installations likely to present dangers to public health and safety, to substantially modify the level, flow pattern, or regime of the water, and to affect water quality;
+*   groundwater exploration activities;
+*   the abstraction of groundwater by borehole, drainage gallery, pipeline, or any other device equipped with a pumping device;
+*   the equipping of existing groundwater abstraction works with a pumping device;
+*   the operation of any artesian borehole;
+*   the establishment of any work for the prevention of the harmful effects of water;
+*   any occupation of the public water domain by deposits, plantations, or crops of a nature to impede the flow of water or affect its quality;
+*   the dredging, deepening, widening, straightening, and regularization of temporary or permanent watercourses;
+*   the extraction of stones, sand, and gravel from the bed and banks of watercourses, lakes, and canals.
+An order of the Minister in charge of Water shall specify the limits of potential use that present a danger or an impact on water resources or aquatic ecosystems. It shall enact, in accordance with the laws and regulations in force, the general rules to be observed in order to preserve the quantity and quality of water, public health, hygiene, and safety, and to ensure the conservation of aquatic ecosystems.
+
+**Art. 15:** The application for authorization shall be addressed to the Minister in charge of Water. Any refusal of authorization must be justified.
+Authorization is granted by the Minister in charge of Water, following a public inquiry and prior consultation with the other ministries concerned. It is granted subject to the rights of third parties.
+Authorization is subject to registration.
+
+**Art. 16:** Authorization is personal and may not be transferred, on pain of revocation, except by virtue of an agreement from the Minister in charge of Water.
+It grants the beneficiary the right to occupy the parts of the public domain necessary for carrying out the authorized works and imposes upon them the obligation to ensure compliance with the conditions prescribed in the authorization.
+It is subject to conditions relating, in particular, to the volumes of water that may be withdrawn or drawn annually, the modalities of withdrawal or abstraction, the characteristics of the structure and installations; to the extent of the protection perimeters in the case of abstraction of water intended for human consumption, to the intended use of unused water and wastewater, and to measures for the maintenance and protection of the works and installations.
+The use of water by virtue of an authorization gives rise to the payment of a fee, the amount of which is set by joint order of the Minister in charge of Water and the Minister of Finance.
+
+**Art. 17:** Authorization is granted for a specified duration. It is renewable.
+It may be revoked without compensation, after written notice has been served on the interested party, if:
+*   the purpose for which the authorization was granted has not been initiated within a period of six (06) months;
+*   the water is used for a purpose other than that authorized;
+*   the works or installations are abandoned or are no longer regularly maintained or are likely to present a danger to public safety;
+*   there is non-observance of the conditions prescribed in the authorization, notably the non-payment of fees due according to the fixed terms.
+It may be suspended, modified, or revoked for reasons of public health, particularly when the revocation or modification is necessary for the supply of drinking water to the population, or to prevent or stop floods constituting a danger to public safety, or in the event of a threat to the aquatic environment, particularly when the environment is subject to critical hydraulic conditions incompatible with its preservation.
+It may also be revoked, with compensation, when the water whose use has been authorized is to be used for another purpose, in accordance with the provisions of a water development and management master plan.
+
+**Art. 18:** Development projects and hydraulic structures subject to the authorization regime must be the subject of a prior environmental impact assessment in the cases provided for by legislation on the environment.
+The content, methodology, and procedures for environmental impact assessments are regulated by the Minister in charge of the Environment, in agreement with the Minister in charge of Water.
+
+**SECTION 4 - THE CONCESSION REGIME**
+
+**Art. 19:** The following are subject to the concession regime:
+*   the development and operation of mineral and thermal springs;
+*   the withdrawal, accumulation, and use of surface and ground water carried out by means of permanent works, installations, and projects, and intended for the production and distribution of drinking water, or for the production of electrical energy, within the framework of a public service;
+*   the construction and operation of works, installations, and projects intended for supplying irrigation networks within the framework of a public service.
+The signing of the concession is authorized by decree of the Council of Ministers.
+Development projects, works, and undertakings subject to the concession regime shall be the subject of a prior environmental impact assessment in the cases provided for by legislation on the environment.
+The content, methodology, and procedures for environmental impact assessments are regulated by the Minister in charge of the Environment, in agreement with the Minister in charge of Water.
+The concession is subject to registration.
+
+**Art. 20:** Any concession relating to the public water domain shall give rise to the establishment of terms of reference, which shall specify, in particular:
+*   the object of the concession;
+*   the conceded flow rate;
+*   the mode of water use;
+*   the rights and obligations of the concession holder;
+*   the fee to be paid by the beneficiary of the concession;
+*   the duration of the concession, which may not exceed thirty (30) years, renewable;
+*   the conditions for the renewal of equipment;
+*   the nature of the works and the time frame for executing the various phases of the planned installations and development projects;
+*   the measures to be taken by the concession holder to ensure the protection of the works and installations;
+*   the measures to be taken by the concession holder to prevent the degradation of water resource quality;
+*   the level of State participation in the share capital, which may not exceed 10%;
+*   where applicable, the conditions under which the conceded flow rate may be modified or reduced, as well as the compensation to which the modification or reduction of the flow rate may give rise;
+*   where applicable, the conditions for repurchase, withdrawal, and forfeiture of the concession, as well as those for the return of the works to the State at the end of the concession.
+The concession confers no right of ownership over the public water domain upon its holder.
+
+**Art. 21:** The allocation of conceded water, under the terms of Article 22 below, among lands belonging to different owners or rights holders, shall be fixed in the concession deed; it may only be modified under the conditions provided for in said deed.
+
+**Art. 22:** In the event of a change of owner or rights holder of the concession, the benefits and burdens of the concession shall be transferred by full right to the new owner or rights holder, who must declare the transfer to the Minister in charge of Water within a period of three months from the date of the transfer.
+
+**Art. 23:** The concession may confer upon the beneficiary the right to occupy, after approval from the Minister in charge of Water, the parts of the public domain necessary for the installation of the works required for the use of the conceded flow rates.
+Works not specified in the concession must be the subject of a negotiated amendment to said concession.
+
+**Art. 24:** The concession invests the holder, for the execution of the works defined in the terms of reference, with all the rights that the laws and regulations confer upon the administration in matters of public works. The concession holder remains at the same time subject to all the obligations that derive, for the administration, from these laws and regulations.
+
+**Art. 25:** Without prejudice to the particular clauses appearing in the terms of reference, forfeiture of the concession may be declared for:
+*   use of the water for purposes other than those authorized or outside the fixed use zone;
+*   non-payment of fees by the deadlines set;
+*   non-use of the conceded water within the time frames set in the terms of reference;
+*   non-compliance with obligations of a sanitary nature and in general;
+*   non-compliance with the conditions specified by the concession.
+In the event of forfeiture of the concession, the Minister in charge of Water may order the restoration of the site to its original state and, if necessary, have this restoration carried out ex officio at the expense of the defaulting concession holder.
+The revocation or modification of the concession in cases where the conceded water is to be used for another purpose in the public interest, in accordance with the provisions of a water development and management master plan, shall give rise to compensation corresponding to the value of the damage suffered.
+
+**CHAPTER III - EASEMENTS**
+
+**Art. 26:** Lower-lying lands must receive the water that flows naturally, without human intervention, from higher-lying lands.
+This easement gives rise to no compensation.
+
+**Art. 27:** The owner or rights holder of lower-lying lands is obliged to receive the water that flows from lands irrigated with human intervention, subject to any compensation that may be due to them.
+
+**Art. 28:** Any landowner who wishes to use water that they have the right to dispose of for the irrigation of their property may obtain passage for this water over intermediate lands, in exchange for fair and prior compensation.
+Courtyards, gardens, parks, and enclosures adjoining dwellings are exempt from this easement.
+
+**Art. 29:** Any natural or legal person, whether owner, rights holder, or tenant, who wishes to proceed with the drainage of water harmful to their land may obtain passage for this water over intermediate lands under the same conditions as those set out in the preceding article.
+
+**Art. 30:** Any natural or legal person, whether owner, rights holder, or tenant of the traversed lands, has the right to use the works constructed for the flow of water on their own land, subject to a financial contribution to the works completed or remaining to be completed, as well as to the maintenance of the installations that have become common.
+In this case, the beneficiary shall bear a share proportional to the value of the works from which they benefit, as well as the expenses resulting from the modifications that the exercise of this right may render necessary and, for the future, a contributory share in the maintenance of the works that have become common.
+
+**Art. 31:** Disputes that may arise from the establishment of the easements referred to in Articles 28 and 29, the fixing of the routes and characteristics of the passages, as well as the compensation due to any natural or legal person, whether owner, rights holder, or tenant of the traversed lands, are governed by the legislative and regulatory provisions in force.
+
+**Art. 32:** Properties bordering watercourses, lakes, aqueducts, buried or unburied water conduits, and irrigation or sanitation canals assigned for public use are subject to an easement within a sufficient width, defined by regulation, intended to allow for the free passage of personnel and administrative equipment, as well as the deposit of dredged materials or the execution of installations and works of public interest.
+This easement obliges bordering landowners to refrain from any act likely to harm the functioning, maintenance, and conservation of the watercourses, lakes, and works.
+When the easement zone proves insufficient for the establishment of a path, the Minister in charge of Water or the territorial authority may, in the absence of express consent from the bordering landowners, acquire the necessary lands by means of expropriation.
+
+**Art. 33:** The execution of the installations or works referred to in the preceding article on lands encumbered by an easement must be notified in writing to the owners or operators of said lands.
+Damages resulting from this execution shall be determined, in the absence of an amicable agreement, by the competent court.
+
+**Art. 34:** Any owner of land encumbered by the deposit easement referred to in Article 32 for a duration exceeding one year may, at any time during the duration of the easement, demand that the beneficiary of this easement acquire said land.
+If this demand is not complied with within a period of one year, the owner may bring the matter before the competent court for a judgment ordering the transfer of ownership and determining the compensation. This compensation shall be fixed according to the rules applicable in matters of expropriation for public utility.
+
+**Art. 35:** Any operation or installation relating to the use of water resources for a purpose of general interest shall encumber intermediate lands with an easement of passage, installation, support, and access, in accordance with the laws and regulations in force.
+
+**Art. 36:** If necessary, the Minister in charge of Water or the territorial authority may demand, in exchange for compensation, the felling of trees and the demolition of existing constructions within the limits of the zones subject to easement.
+It may proceed ex officio if, within a period of three (03) months, no action has been taken on its demand.
+In the absence of prior authorization, the Minister in charge of Water or the territorial authority may proceed ex officio, at the offenders' expense, with the demolition of any new construction or the erection of any fixed enclosure, as well as the felling of any plantation within the zones subject to easement, if no action is taken by the interested parties in response to the formal notice addressed to them by the Minister in charge of Water or the territorial authority to carry out these operations within a period which may not be less than fifteen (15) days.
+
+**Art. 37:** Any municipality may, with the authorization of the Minister in charge of Water, acquire, by private agreement or by expropriation, water supply sources, protection perimeters, and other properties located outside its territory that are required for the construction of a water conveyance and distribution system, a sewer system, or the establishment of a water or solid or liquid waste treatment plant.
+In the event of expropriation, any compensation that may be due to the owners or occupants of the lands shall be fixed according to the rules applicable in matters of expropriation for public utility.
+
+**Art. 38:** The State, territorial authorities, and duly authorized concession holders have the right to have groundwater exploration work carried out on private properties, as well as the construction and operation of wells or boreholes, by proceeding in accordance with the legislation relating to expropriation for public utility and to temporary occupation.
+
+**CHAPTER IV - SPECIAL PROVISIONS CONCERNING GROUNDWATER**
+
+**Art. 39:** Professional drillers, carrying out their activity for commercial purposes, must hold a driller's license. They must ensure that the person for whom they are executing a well or borehole is in possession of an exploration authorization and shall provide the State with a detailed report of their drilling activity, as well as samples of the strata drilled, and any relevant information that may be required.
+The driller's license is subject to the payment of a fee.
+An order of the Minister in charge of Water shall set the conditions for the granting of driller's licenses.
+
+**Art. 40:** The holder of a mining concession is required to inform the Ministry in charge of Water of any discovery of groundwater during their activities.
+
+**TITLE III - PROTECTION REGIME FOR WATER, DEVELOPMENT PROJECTS, AND HYDRAULIC STRUCTURES**
+
+**CHAPTER I - PROTECTION OF WATER**
+
+**SECTION 1 - PROTECTION OF QUANTITY**
+
+**Art. 41:** The Minister in charge of Water shall determine the conditions to be recommended to individuals and imposed on public and private networks and installations aimed at preventing water wastage.
+
+**Art. 42:** In parts of the national territory where water resources are scarce or threatened by floods or drought, the Minister in charge of Water is authorized to order a limitation on withdrawals, including those referred to in Article 12.
+This limitation shall not give rise to any compensation.
+
+**Art. 43:** In the event of a water shortage, the Minister in charge of Water may prohibit certain activities that are high consumers of water, notably the watering of gardens and golf courses, the filling of swimming pools, and the washing of vehicles.
+
+**Art. 44:** The Minister in charge of Water, operators, and users shall take all appropriate measures to promote the conservation of water resources. This involves, in particular:
+*   promoting infiltration into aquifers through soil protection and conservation measures, including reforestation;
+*   increasing the storage capacity of surface waters;
+*   improving the efficiency of drinking water distribution networks by minimizing physical losses.
+
+**SECTION 2 - PROTECTION OF QUALITY**
+
+**Art. 45:** Authorizations and concessions relating to the withdrawal of surface or ground water intended for human consumption and to the related works and installations shall delineate around the withdrawal point an immediate protection perimeter, a close protection perimeter, and, if necessary, a distant protection perimeter.
+These perimeters shall also be determined in the case of withdrawals subject to declaration, whenever the water withdrawn is wholly or partially intended for human consumption.
+
+**Art. 46:** No underground work or excavation, no drilling, no development project likely to pollute the water resource abstracted for human consumption may be carried out within a protection perimeter without the prior authorization of the Minister in charge of Water.
+
+**Art. 47:** The lands included in the immediate protection perimeter, established to guard against all pollution, shall be acquired in full ownership by the State or the concession holder of the public distribution service, who shall be responsible for fencing them and ensuring that they are used exclusively for water withdrawal and are regularly maintained for this purpose. These lands form an integral part of the work for whose benefit they were acquired. Any activity other than that for which an immediate protection perimeter has been defined is prohibited.
+
+**Art. 48:** Within the close protection perimeters, established primarily to guard against chemical pollution, deposits, installations, and activities likely to directly or indirectly harm the quality of the water or render it unfit for human consumption are prohibited. The prohibition applies, in particular, to industrial discharges, deposits of refuse, filth, and debris, the spreading of manure, deposits of fertilizers, and the extraction of mineral substances and quarry materials.
+
+**Art. 49:** In addition to the immediate and close protection perimeters, the Minister in charge of Water shall delineate a distant protection perimeter within which the deposits, installations, and activities mentioned in Article 48 may be regulated in order to prevent the pollution dangers they present to the water.
+
+**Art. 50:** The Minister in charge of Water shall also delineate protection areas around dam reservoirs, lakes, pools, and, generally, bodies of water intended, at least partially, for human consumption, as well as to protect aquifer recharge zones.
+
+**Art. 51:** The boundaries of the immediate, close, and distant protection areas and perimeters, particularly for water withdrawal points existing at the date of promulgation of this code, shall be set by decrees of the Council of Ministers.
+These same decrees shall specify the conditions under which the owners or occupants of the concerned lands may be compensated in the event that they suffer direct, material, and certain harm as a result.
+
+**Art. 52:** In addition to the prohibitions and rules enacted in Articles 46 to 50 above, the act delineating the protection areas may also regulate activities such as watering, penning, and movement of animals, and the erection of buildings or constructions, whether for residential use or not.
+
+**Art. 53:** A decree of the Council of Ministers shall determine the zones within which the erection of constructions or buildings, whether for residential use or not, is prohibited or subject to the observance of special requirements due to the risks of impairing water quality, dangers to the population, foreseeable difficulties in water supply, or obstacles to the implementation of sanitation in these zones.
+
+**SECTION 3 - PROTECTION OF AQUATIC ECOSYSTEMS**
+
+**Art. 54:** Withdrawal systems in rivers, lakes, boreholes, or wells must maintain a minimum flow rate that guarantees the aquatic life of the ecosystems located in the corresponding river basin. When they are located in watercourses frequented by migratory fish, they must also be equipped with passage devices.
+
+**Art. 55:** In national parks, total or partial wildlife reserves, biosphere reserves, and sanctuaries that encompass all or part of one or more aquatic ecosystems, as well as in protected wetlands, actions likely to undermine the balance of these ecosystems or affect their biological diversity shall be regulated and, where necessary, prohibited.
+This applies in particular to water uses leading to a modification of their level, flow pattern, or regime, the spreading for any purpose whatsoever of chemical products and particularly agricultural pesticides, the discharge of effluents or toxic substances, the dumping or runoff of wastewater, and the deposit of filth or domestic and industrial waste.
+
+**SECTION 4 - COMBATING WATER POLLUTION**
+
+**Art. 56:** The dumping, runoff, and discharge of polluting substances into surface or ground waters, whether directly or indirectly, are either prohibited or subject to prior authorization in accordance with the laws and regulations in force in Togo.
+
+**Art. 57:** It is prohibited:
+*   to discharge hazardous wastewater or waste into water, or to bury it in the ground without prior treatment;
+*   to carry out any spreading of raw septic waste in the zones delineated around urban areas, watercourses, springs, and groundwater abstraction points;
+*   to discharge or make deposits of radioactive effluents;
+*   to use explosives, drugs, or toxic products as bait in surface waters in a manner likely to harm the quality of the aquatic environment;
+*   to create deposits of filth, household refuse, stones, gravel, wood, or industrial waste in the bed or on the banks of watercourses, lakes, ponds, or lagoons, in the drainage canals and gutters of the public domain, or in any place other than an official waste disposal, storage, or treatment site;
+*   to introduce or allow the introduction of excremental matter or any other matter likely to be detrimental to the wholesomeness of the water of springs, fountains, wells, cisterns, conduits, or reservoirs used for the supply of drinking water to the population;
+*   to wash laundry and other products or objects, notably gravel, meat, skins, or animal products, in the waters of watercourses, aqueducts, canals, reservoirs, springs, or near wells or boreholes that supply towns, urban areas, or public places, and within the protection zones of these same watercourses, aqueducts, canals, reservoirs, springs, and wells or boreholes;
+*   to bathe and wash in the aforementioned works or to water, wash, or bathe animals therein;
+*   to dispose, within urban perimeters, delineated centers, and rural settlements, of any wastewater or any matter harmful to health outside the places indicated for this purpose or in forms contrary to those established by this code and the regulations in force;
+*   to dispose of dead animals, or to bury drowned persons in watercourses, lakes, ponds, or marshes, or near springs, wells, or boreholes, and public fountains and drinking troughs;
+*   to discharge wastewater likely to harm the life of livestock or the quality of its meat, as well as its reproduction, into pools, ponds, and drinking troughs used for its watering.
+
+**Art. 58:** Without prejudice to the application of Article 57, no direct or indirect dumping, runoff, or discharge of polluting substances into surface or ground waters, likely to cause pollution thereof, may be carried out without the prior authorization of the Minister in charge of Water.
+Authorization is granted after an inquiry and subject to the rights of third parties.
+In cases where the authorization referred to in the first paragraph above is to be issued at the same time as that referred to in Article 14 or the concession referred to in Article 19 of this code, this authorization or concession shall specify the conditions for withdrawal and for dumping, runoff, or discharge.
+
+**Art. 59:** Factories, commercial and industrial enterprises, and health establishments must equip themselves with wastewater purification mechanisms and treat this water in accordance with the discharge norms or standards set by joint order of the Ministers in charge of Health, the Environment, and Water.
+
+**Art. 60:** The modalities for granting, modifying, suspending, revoking, and renewing the authorizations provided for in Article 58 shall be set by decree of the Council of Ministers.
+
+**Art. 61:** The authorization to discharge gives rise to the payment of a fee, the rate of which is established by the Minister in charge of Water based on the quantity of polluting substances discharged.
+
+**Art. 62:** In collaboration with the competent authorities, the Minister in charge of Water shall draw up an inventory establishing the degree of pollution of surface waters as well as groundwaters.
+Data sheets shall be established for each of these waters to determine their state according to physical, chemical, biological, and bacteriological criteria. Pollution vulnerability maps shall be established for the main aquifers.
+At a frequency set by regulation, these documents shall be subject to general periodic reviews and to immediate reviews whenever an exceptional or unforeseen change in water load affects the state of the waters or receiving media.
+The Minister in charge of Water shall define the procedure for establishing these documents. He shall define, on the one hand, the technical specifications and the physical, chemical, biological, and bacteriological quality standards to which watercourses, sections of watercourses, canals, lakes or ponds, and aquifers must meet, particularly for withdrawals ensuring the supply of drinking water to the population, and, on the other hand, the time frame within which the quality of each receiving medium must be improved.
+
+**Art. 63:** Checks on the physical, chemical, biological, and bacteriological characteristics of receiving waters and discharges shall be carried out.
+A decree of the Council of Ministers shall set the conditions for these checks, for sampling, and for the analysis of samples.
+
+**Art. 64:** Anyone who is responsible for or witnesses an accidental or non-accidental pollution of water must notify, without delay, the competent authorities of the Ministry in charge of Water or those of the ministries in charge of Health and the Environment.
+
+**Art. 65:** In all cases of dumping, runoff, or discharge of polluting substances, and due to the peril that could result for public health, safety, or hygiene, the services in charge of environmental health, the environment, or water resources may take any immediately enforceable measure to put an end to the disturbance caused by the dumping, runoff, or discharge.
+In all cases, the rights of third parties with regard to the perpetrator of the dumping, runoff, or discharge are reserved.
+
+**Art. 66:** The exercise of activities involving the collection, transport, and disposal of liquid and solid waste and other used materials is subject to obtaining an accreditation.
+The modalities relating to the obtaining of said accreditation are specified by decree of the Council of Ministers.
+Another decree of the Council of Ministers defines the general framework for the collection, transport, and disposal of household waste. Each municipal authority shall specify the modalities for the collection, transport, and disposal of domestic and industrial waste in its territory.
+
+**Art. 67:** Land that has served as a storage and disposal site for solid or liquid waste may not, before the time limit prescribed by the Minister in charge of Water, be used for the purposes of constructing boreholes, wells, aqueducts, sewers, or for installing water storage, purification, or treatment facilities.
+
+**Art. 68:** The State may grant, in the form of loans, subsidies, or tax advantages, aid to companies and establishments that commit to progressively reducing, according to announced procedures and agreed deadlines, the risks of water pollution linked to their discharges.
+
+**Art. 69:** Industrial enterprises, institutions, or organizations that import equipment enabling them to eliminate pollutants from their manufacturing processes or their products may benefit from incentive measures that encourage their acquisition. The nature of the incentive measures and the conditions under which the concerned enterprises may benefit from them are determined by the framework law on the environment.
+
+**CHAPTER II - PROTECTION OF DEVELOPMENT PROJECTS AND HYDRAULIC STRUCTURES**
+
+**Art. 70:** The ministries, each in its sector of intervention, shall enact standards for the construction, operation, maintenance, and protection of development projects and hydraulic structures in consultation with the Ministry in charge of Water.
+
+**TITLE IV - VARIOUS USES OF WATER**
+
+**CHAPTER I - USES OF WATER**
+
+**SECTION 1 - DRINKING WATER SUPPLY**
+
+**Art. 71:** For the purposes of this code, water intended for human consumption includes:
+*   water intended for drinking and domestic uses;
+*   water intended for the manufacture of beverages and ice;
+*   water intended for the preparation, packaging, or preservation of foodstuffs.
+
+**Art. 72:** Water intended for human consumption, whether distributed by conveyance and distribution networks or originating from a well, a borehole, or a spring intended for the water supply of populations, must be potable.
+
+**Art. 73:** A decree of the Council of Ministers shall set the national standards for water potability.
+
+**Art. 74:** The abstraction and distribution of water intended for human consumption from private networks, as well as its bottling and packaging in sachets, are subject respectively to prior authorization issued by the Minister in charge of Water upon the advice of the Minister in charge of Health.
+This authorization may be revoked in the event of non-observance of the hygiene and potability requirements relating to the production of water intended for human consumption.
+
+**Art. 75:** The construction or modification of public or private water conveyance or distribution systems intended for the needs of a community is subject to a prior check of the water quality by the competent service of the Ministry in charge of Health.
+
+**Art. 76:** Any process aimed at changing the chemical composition of water intended for drinking or any use of a treatment of this water based on chemical additives must be authorized according to modalities that shall be set by regulation. Any additives must in no case be detrimental to the potability of the water or alter its organoleptic properties.
+
+**Art. 77:** Anyone who operates a water conveyance, distribution, and treatment system must, at their own expense and at regular intervals set by the Minister in charge of Water, take samples of said water, have them analyzed by an approved laboratory, and transmit the results to the Ministers in charge of Water and Health.
+The same services are required for water points and other abstractions in urban areas where there is no conveyance and distribution system. If the operator is not a private entity, these analyses are the responsibility of the territorial authorities.
+
+**Art. 78:** The competent services of the ministries in charge of Water and Health shall carry out checks on the potability of water intended for human consumption, according to modalities set by regulation.
+When it is found that this water is not potable or is poorly protected, its use for consumption is immediately prohibited. Any subsequent use is subject to a special authorization from the Minister in charge of Health.
+
+**Art. 79:** Notwithstanding the verifications that may be carried out by the control service of the Ministry in charge of Water or the Ministry in charge of Health, the water treatment and distribution service remains responsible for any damage that may be caused by the poor quality of the water due to a lack of supervision or maintenance of the works.
+
+**Art. 80:** To constantly ensure the quality of the water, the water treatment and distribution service is obliged to use, as needed and at its own expense, the existing installations. If these installations no longer make it possible to meet quality standards due to modifications in the chemical, physical, or bacteriological composition of the water, the necessary upgrading works or new installations must be carried out as soon as possible.
+Failing this, the competent authority may serve notice upon it to carry out the necessary works within a fixed period, while in the meantime using alternative water sources of the required quality so as to restore, as soon as possible, a water supply that meets all the required potability qualities.
+
+**Art. 81:** In areas provided with a public water distribution service, it is prohibited for natural or legal persons, and particularly for restaurateurs and hoteliers, to offer for food and for all uses related to food, any water other than the potable water supplied by authorized distributors. The same prohibition applies to brewers, manufacturers of ice, and of any industrial or artisanal beverage intended for human consumption.
+Outside areas provided with a public distribution service, the use of a well or a borehole is subject to compliance with potability standards and to authorization from the competent authorities, according to the terms set by the Ministers in charge of Water and Health.
+
+**Art. 82:** Any natural or legal person who offers water to the public for drinking, whether for a fee or free of charge and in any form whatsoever, including water sachets and edible ice, is required to ensure, under their own responsibility, that the quality of the water offered complies with the potability standards in force.
+
+**Art. 83:** In the event that a dwelling or a group of dwellings is served by a non-potable water pipeline, it must be labeled with the words "non-potable water." No connection must exist with the other pipelines of the network.
+
+**Art. 84:** It is prohibited to offer, sell, or distribute, in any form whatsoever, for drinking purposes, non-potable water, and to use for the preparation, packaging, and preservation of foodstuffs, water that does not meet the required potability standards.
+
+**Art. 85:** Any open-air distribution system for water intended for human consumption is prohibited.
+
+**Art. 86:** Water from wells, whether modern or traditional, intended for drinking must be drawn by means of a pump or any other appropriate device that prevents the introduction into the well of a container likely to pollute it. The well must be protected by a sealed slab against any contamination from the ground surface.
+
+**Art. 87:** In areas served by a drinking water distribution network, the use of water from wells or boreholes for domestic, administrative, or commercial consumption may be suspended by the Ministers in charge of Water and Health if it proves that the quality of the water from the well or borehole cannot be guaranteed in the same way as that of the network.
+
+**SECTION 2 - MINERAL WATERS AND GEOTHERMAL DEPOSITS**
+
+**Art. 88:** The potability control of commercialized mineral waters and the control of installations and operations relating to the production, conservation, and packaging of mineral waters are exercised by the technical services of the ministries in charge of Water and Health.
+
+**Art. 89:** The protection of geothermal deposits is ensured by the Ministers in charge of Water and Mines, who shall determine the conditions for their exploitation and use.
+
+**SECTION 3 - WATER FOR AGRICULTURAL USE**
+
+**Art. 90:** In agricultural areas likely to suffer damage from floods, the Minister in charge of Water or the territorial authority may execute, either on its own initiative when the public interest so requires, or at the request of the owners and at their expense, all works necessary for the protection of their property and the use of water on their properties.
+
+**Art. 91:** With a view to achieving water savings or better valuing water resources in irrigated perimeters, the Minister in charge of Water, in consultation with the Minister in charge of Agriculture, may prescribe modifications to the irrigation systems in place. Users are required to comply with these modifications.
+
+**Art. 92:** When, in perimeters served by an irrigation network, whether public and built and developed at the State's expense, or private, the competent service of the Ministry in charge of Water observes a dangerous rise in the piezometric level, users may be obliged to temporarily irrigate their land by recourse to water from the water table. The act that notes the rise of the water table shall define the new modalities for water withdrawal and, possibly, for the granting of financial aid to the concerned operators.
+
+**Art. 93:** The State may create irrigation networks and be remunerated for the expenses thus incurred by selling water to individuals and communities at determined prices fixed by a published scale. It may also, within the framework of a public service concession, concede the operation of the network to local institutions in accordance with the general conditions governing public works concessions.
+The irrigation networks thus created are declared to be of public utility, after an inquiry.
+
+**Art. 94:** When it concerns works declared to be of public utility, the compensation for damages resulting from the easement for aqueducts or the expropriation compensation due to the owners or users of the lands where the irrigation water flows may be allocated to them in the form of an attribution of lands of a value equal to the value of those of which they are deprived or dispossessed. In the event of a dispute, the courts shall rule taking into account the conveniences resulting from the personal situation of the interested parties.
+
+**Art. 95:** When, due to the execution of works aimed at the development of water resources, lands acquire an added value or are susceptible to an increase in agricultural income, the owners or users of these lands are subject to the payment of an annual fee.
+
+**Art. 96:** Incentive measures to promote the development of the country's hydro-agricultural potential are taken at the land, technical, administrative, and financial levels.
+
+**SECTION 4: OTHER USES OF WATER**
+
+**Art. 97:** Water points for pastoral use are regulated by the competent authorities of the ministries in charge of Livestock and Water. These water points are constructed in such a way as to allow for the watering of livestock without causing prejudice to other users or generating pollution. The direct watering of livestock in water reservoirs outside of any arrangement provided for this purpose is prohibited.
+
+**Art. 98:** The Minister in charge of Water and the Minister in charge of Fisheries shall put in place regulatory provisions relating to the use of water for fishing and aquaculture.
+
+**Art. 99:** Any creation of a swimming pool or bathing place open to the public must be the subject of an authorization request addressed to the authorities in charge of health and water. Every swimming pool must be subject to a double check covering the functioning of the installations and the quality of the water.
+Operators must take all useful measures to avoid health-related dangers and to ensure that the water of the establishments they operate is wholesome. They are required to comply with the requirements of sanitary control, including, in particular, visits to the establishment, verifications of disinfection apparatus, and the taking of water samples for analysis.
+
+**Art. 100:** Checks on the quality of bathing water are carried out by laboratories approved by the Ministry of Health. Bathing is suspended whenever a check reveals that the water is polluted, pending the taking of the necessary corrective measures.
+
+**Art. 101:** Sacred waters, forests, and other sacred places play an eminent role in safeguarding the environment. Their use, in the event of a water shortage or other exceptional needs, must be carried out as far as possible in respect of the traditions and beliefs accorded to them.
+A decree of the Council of Ministers shall determine the modalities for the inscription of sacred waters and places in the national cultural heritage and shall set the rules for their use.
+
+**Art. 102:** The Minister in charge of Water shall define the conditions for the use of wastewater. Any use of wastewater is subject to authorization from the Minister in charge of Water, upon the advice of the Minister in charge of Health.
+
+**CHAPTER II - MUNICIPAL USES OF WATER**
+
+**Art. 103:** Water installations and works for which municipalities generally ensure project ownership include standpipes, washing and watering hydrants, and fire hydrants.
+
+**SECTION 1 - STANDPIPES**
+
+**Art. 104:** The following provisions are applicable to standpipes:
+*   standpipes and their connections are installed, maintained, moved, or removed, at the expense of the municipality, by the water distribution service. This service may be provided by the municipal technical services if their capacity to manage it is sufficient;
+*   their consumption is measured by means of a meter, the installation and maintenance costs of which are borne by the municipality;
+*   in the case of a contract with a private operator, the municipality must settle its debts to the water distribution service.
+
+**SECTION 2 - WASHING AND WATERING HYDRANTS**
+
+**Art. 105:** The following provisions are applicable to washing and watering hydrants:
+*   washing and watering hydrants and their connections are installed, maintained, moved, or removed at the expense of the municipality by the water distribution service;
+*   the hourly flow rate of each hydrant is evaluated jointly by the municipality and the water distribution service;
+*   the municipality is required to settle its debts to a private water distribution service;
+*   the opening operations of the hydrants for the purpose of their verification or the washing of gutters are carried out according to a schedule determined in agreement with the water distribution service;
+*   drawing for watering or road works may be carried out at any time by municipal agents;
+*   any repairs must be carried out by the water distribution service.
+
+**SECTION 3 - FIRE HYDRANTS OR STANDPIPES**
+
+**Art. 106:** The following provisions are applicable to fire hydrants:
+*   fire hydrants are installed, maintained, and moved or removed, at the expense of the municipality, by the water distribution service;
+*   the water distribution service supplies free of charge all the water discharged by the fire hydrants, whether it is used for extinguishing fires or for the drills of the fire brigade;
+*   in the event of a fire, all qualified and available personnel are at the disposal of the authorities, free of charge, with regard to the operations to be carried out on the network;
+*   a special fire instruction, drawn up in agreement between the municipality and the water distribution service, is displayed in all the operational premises of the water service;
+*   fire hydrants may only be operated by municipal personnel, in the event of a fire, and by the fire brigade or by the personnel of the water distribution service.
+
+**SECTION 4 - REGIME FOR PUBLIC SERVICES IN THE WATER SECTOR**
+
+**Art. 107:** In all or part of the territory of a territorial authority, the State may delegate to it, under the conditions it defines in accordance with the law, certain of its powers relating to the use of water.
+This delegation concerns the management of the public service of drinking water distribution or the use of water for agricultural, aquacultural, pastoral, industrial, tourism, or energy production purposes. It may also relate to sanitation, understood as the treatment and disposal of wastewater and stormwater.
+
+**Art. 108:** The State or the delegated territorial authority manages the public water distribution service, either itself under direct management or within the framework of a management or operating contract, or by way of a concession or lease contract.
+A decree of the Council of Ministers specifies the modalities for managing the public water distribution service.
+
+**Art. 109:** Whatever the management model chosen for water distribution and sanitation, the public or private persons in charge of it are responsible for the quality of the water distributed.
+
+**CHAPTER III - ESTABLISHMENT OF PRIORITY ORDERS IN WATER USES AND SPECIAL PROVISIONS IN CASE OF SHORTAGE**
+
+**Art. 110:** The supply of drinking water to the population remains the priority element in the allocation of water resources.
+No other priority is established between the other uses, except on the basis of the water development and management master plans that are established for each river basin in accordance with Article 140 of this code.
+
+**Art. 111:** Pending the approval of the water development and management master plans, a decree of the Council of Ministers shall define the order of priority among the various uses of water, taking into account all the needs at the scale of river basins or sub-basins, both national and international.
+
+**Art. 112:** In the event of a water shortage due to over-exploitation or exceptional events such as droughts, natural disasters, or force majeure, the Minister in charge of Water shall declare, by order, a state of shortage, define the disaster area, and enact local and temporary regulations aimed at ensuring, as a priority, the supply of drinking water to the population.
+The end of the state of shortage shall also be declared by order of the Minister in charge of Water.
+
+**Art. 113:** The regulations referred to in Article 112 above may provide for measures aimed, in particular, at limiting:
+*   the use of water for domestic, urban, and industrial purposes;
+*   the construction of new wells and boreholes;
+*   authorized water withdrawals for irrigation and other water uses;
+*   the operation of public water points and the supply of water to urban areas and public places.
+
+**Art. 114:** Without prejudice to the provisions of Article 113 and in the absence of an amicable agreement with the interested parties, the Ministry in charge of Water may proceed, in accordance with the regulations in force, with requisitions in order to mobilize the water resources necessary to ensure the supply of drinking water to the population.
+
+**TITLE V - HARMFUL EFFECTS OF WATER**
+
+**CHAPTER I - GENERAL PROVISIONS**
+
+**Art. 115:** "Harmful effects of water" shall mean:
+*   damage caused by floods;
+*   damage caused by poor land drainage and the outcropping of the water table;
+*   erosion and sedimentation in canals, watercourses, reservoirs, and lakes;
+*   salinization of water and soils;
+*   eutrophication of lakes, reservoirs, and ponds.
+
+**Art. 116:** The concerned ministries, in agreement with the Minister in charge of Water, shall enact all regulatory measures falling within their competence and covering, in particular:
+*   the establishment and management of flood forecasting and warning systems;
+*   the construction of dikes and bank protection works, as well as their maintenance, repair, and renovation;
+*   the fight against soil erosion and deforestation;
+*   the drainage and disposal of wastewater;
+*   the fight against the silting up of watercourses;
+*   the prevention of saltwater intrusion.
+
+**Art. 117:** For the purpose of protecting dikes and bank protection works against water damage, the following are prohibited or subject to prior authorization thereon:
+*   the extraction of earth or other materials;
+*   the storage of materials and the execution of constructions;
+*   the planting of trees on the dikes;
+*   the passage of vehicles and animals on dikes and works that are not designed for this purpose.
+
+**CHAPTER II - FLOOD CONTROL**
+
+**Art. 118:** Flood control is an obligation for every natural or legal person, and every public or private community.
+
+**Art. 119:** The State and territorial authorities shall construct and maintain, on the national hydrographic network, works for regulation, improvement, calibration, diking, and flood peak reduction, with a view to ensuring the protection of persons and property against possible damage and to preventing, or at the very least limiting, the damage and harm that could be caused by floods.
+
+**Art. 120:** It is prohibited to establish and construct dwellings without authorization on submersible lands, or dikes, levees, and other developments likely to impede the flow of floodwaters, except for the protection of adjoining dwellings and private properties.
+
+**Art. 121:** The Minister in charge of Water reserves the right, in exchange for compensation if applicable, to proceed with the modification or demolition of any work likely to obstruct the flow of water or the construction of dikes or any other protective work.
+
+**Art. 122:** If the public interest so commands, the Minister in charge of Water may require owners of land bordering watercourses to proceed with the construction of dikes intended for the protection of their property against the overflowing of the watercourses.
+
+**Art. 123:** It is prohibited to carry out planting, construction, or deposits on the lands located between watercourses and the protective dikes built along the edge of these watercourses.
+
+**Art. 124:** The Minister in charge of Water shall develop a plan to combat floods that might occur following exceptional precipitation, a reservoir dike breach, or a modification of the ecological environment.
+The conditions for implementing this plan shall be set by regulation.
+
+**Art. 125:** Hydraulic structures likely to threaten the safety of the population must be subject to periodic inspection by officers of the Ministry in charge of Water.
+
+**CHAPTER III - DRAINING OF WATER BODIES**
+
+**Art. 126:** The draining of ponds, lagoons, and marshes may be prescribed for the purpose of public health or hygiene, or for the purpose of agricultural improvement and the extension of crops.
+These works are declared to be of public utility, after an inquiry, by a decree of the Council of Ministers. The decree shall fix the perimeter to be improved and shall prescribe, if applicable, the compulsory registration of the lands included in this perimeter after their possible declassification from the public domain. This decree shall also set the financing modalities for said works.
+If the works are prescribed for a public health purpose, the inquiry file must contain the opinion of the services in charge of hygiene and sanitation.
+
+**Art. 127:** After the execution of the drainage works, the lands included in the improved perimeter may be freed from all rights of use, either by payment of a security deposit to the owners, or by attribution of lands to the users within the extent of said perimeter. If the owners and users do not reach an agreement, the dispute is brought before the competent courts, which must, in their ruling, reconcile the interests of agriculture with the respect due to previously established rights and uses.
+
+**Art. 128:** An action for the release from rights of use may, in all cases, be brought before the courts by the owners of lands included in the improved perimeter. In the case where the execution of the drainage works has infringed upon the exercise of rights of use, the action may also be brought by the aggrieved users.
+
+**CHAPTER IV - COMBATING SEDIMENTATION IN WATERCOURSES AND WATER BODIES**
+
+**Art. 129:** When it is necessary to proceed with the dredging of watercourses and canals of the public domain, an order of the Minister in charge of Water, after an inquiry and the opinion of the technical services, may make these works partially or wholly the responsibility of the municipalities, communities, concession holders, or beneficiaries of water intakes. The order shall expressly state whether the works thus made the responsibility of the interested parties are to be executed by the State, which shall be responsible for distributing the expense in proportion to the interest of each, or whether they are to be executed by the interested parties, individually or grouped in an association under the conditions determined by the regulations.
+The sums due by the interested parties for the works made their responsibility are recovered in the same forms as for direct taxes.
+
+**Art. 130:** Disputes relating to the distribution of the expense and to requests for discharge or reduction made by individuals or communities and imposed by virtue of the provisions of Article 129 above are brought before the courts.
+
+**TITLE VI - INSTITUTIONAL FRAMEWORK, PLANNING, AND COOPERATION**
+
+**CHAPTER I - INSTITUTIONAL FRAMEWORK FOR WATER RESOURCES MANAGEMENT**
+
+**Art. 131:** The State and territorial authorities shall ensure, within the framework of their respective powers and with the participation of the concerned stakeholders, the sustainable management of water.
+In this capacity, their missions are:
+*   to create the institutional, legal, economic, and financial environment conducive to the development of the country's water resources and to their integrated and participatory management;
+*   to ensure the application of laws and regulations and water policing;
+*   to promote the development of water resources for the benefit of the population and the country's economic development, and in particular;
+*   to ensure the supply of drinking water to the population;
+*   to carry out the sanitation of wastewater as well as the drainage and disposal of stormwater;
+*   to satisfy the water needs of agriculture, livestock farming, fishing and aquaculture, the extraction of mineral substances, industry, crafts, energy production, transport, tourism, the protection of aquatic sites and landscapes, leisure, as well as all other legally exercised human activities;
+*   to develop knowledge and capacities in the study and management of water resources;
+*   to develop an international partnership for the development and exploitation of water resources;
+*   to cooperate with neighboring countries for the management of shared water resources;
+*   to protect the country's water resources against pollution and all forms of degradation, to preserve and restore aquatic environments and wetlands as well as the ecosystems that depend on them;
+*   to combat the harmful effects and risks related to water, whether of natural origin or caused by human activities;
+*   to exercise water policing.
+
+**Art. 132:** The institutional framework for water resources management comprises:
+*   the National Water Council;
+*   the basin institutions.
+
+**SECTION 1 - THE NATIONAL WATER COUNCIL**
+
+**Art. 133:** A National Water Council is hereby created.
+It assists in defining the general objectives and orientations of the national water policy and planning, as a consultative body.
+It is consulted in particular on:
+*   the priorities to be adopted to achieve the objectives and implement the orientations mentioned above;
+*   the national water policy and strategies;
+*   the national action plan for integrated water resources management;
+*   the water development and management master plans;
+*   water development and allocation projects of national or regional importance;
+*   the orientations and main decisions relating to the public services of water distribution and sanitation;
+*   the pricing policy for water distribution;
+*   drafts of fees and contributions of any kind relating to water management or likely to have a direct impact on this management;
+*   draft laws and regulations relating to water management;
+*   the orientations and measures envisaged by public authorities in the fields of land use planning, environmental protection, forest management, agricultural and pastoral activities, fishing, industry, crafts, energy, urbanization, tourism, and communication infrastructure, insofar as they are likely to have an impact on water management;
+*   any question concerning water that the President of the Republic, the Prime Minister, or the Minister in charge of Water deems useful to submit to it, where appropriate at the request of another minister.
+
+**Art. 134:** The National Water Council is composed of representatives of:
+*   the Economic and Social Council;
+*   the Ministry in charge of Water;
+*   the technical services of the sectoral water ministries;
+*   the territorial authorities;
+*   the basin committees;
+*   the public establishments concerned;
+*   professional associations and water users;
+*   scientific, technical, and training organizations.
+The composition of the council shall take into account, as much as possible, gender balance.
+The National Water Council is chaired by the Prime Minister, Head of Government.
+A decree of the Council of Ministers shall set the organization and functioning of the council.
+
+**SECTION 2 - BASIN INSTITUTIONS**
+
+**Art. 135:** The planning and integrated management of water resources are carried out by river basin.
+
+**Art. 136:** The national territory is subdivided into three (03) river basins, named "Oti Basin," "Mono Basin," and "Lake Togo Basin."
+The boundaries of these three (03) basins are set by decree of the Council of Ministers.
+The Minister in charge of Water shall study the modalities for the creation, in each river basin, of a basin agency vested with scientific, technical, and administrative missions. A national water agency, vested with missions of coordinating the activities of the basin agencies, may be created if necessary.
+
+**Art. 137:** In each river basin, a basin committee is created, bringing together representatives of the central administration, territorial authorities, civil society, operators and users of water, and resource persons.
+The basin committee shall deliberate on the draft water development and management master plans and shall give its opinion on any question relating to the management of water resources in the concerned basin.
+The statutes and powers of the basin committees are determined by decrees of the Council of Ministers.
+
+**Art. 138:** Within the framework of the powers recognized to them by law, the territorial authorities shall cooperate with the State with a view to sustainable management of water resources. They shall receive for this purpose the technical support of the State services.
+A municipality or a group of municipalities may, where appropriate, at the request of a village community, propose to the competent authority the creation of a local water management body for the construction and management of a hydraulic structure, the management of a water body, or a wetland of local, municipal, or inter-municipal interest.
+The local water management bodies shall manage the hydraulic structure, the water body, or the wetland under the control of the municipal or inter-municipal authority.
+
+**CHAPTER II - PLANNING AND MANAGEMENT INSTRUMENTS**
+
+**Art. 139:** Within the framework of the implementation of the national water policy adopted by the government, a national action plan for integrated water resources management that defines the modalities of water management is developed by decree under the authority of the Minister in charge of Water.
+The national integrated management action plan identifies the specific actions to be undertaken as well as the resources to be mobilized for their implementation and monitoring. It is adopted by decree of the Council of Ministers and is subject to periodic reviews.
+
+**Art. 140:** Water development and management master plans are produced by basin, sub-basin, or group of sub-basins, taking into account, where appropriate, the groundwater bodies attached to them. They set the orientations for the development, exploitation, and management of water resources at the scale of each basin, sub-basin, or group of sub-basins.
+Any program for the development of water resources at the scale of a river basin, as well as any administrative decision relating to the management of the basin's water resources, must be compatible with the provisions of the development and management master plan for the concerned basin.
+The water development and management master plan is supplemented, as needed, by water development and management plans drawn up for the management of surface or ground water bodies.
+
+**Art. 141:** A decree of the Council of Ministers shall set the procedures for the elaboration, discussion, and approval of the national action plan for integrated water resources management and of the master plans, as well as the modalities for the participation of the basin committees in the process of elaborating said plan and the master plans.
+
+**CHAPTER III - COOPERATION ON SHARED WATERS**
+
+**Art. 142:** The State, through the intermediary of the Ministry in charge of Water, shall take the necessary measures to promote cooperation with neighboring States in the management and development of shared waters, in accordance with the provisions of the conventions in force and the principles of international law.
+The cooperation aims to ensure, in particular, the exchange of information on water resources and all related situations, such as critical situations resulting from floods, drought, and accidental pollution; the implementation of joint projects and of bilateral and multilateral structures for the management of shared waters; a framework for consultation and dialogue for the management of potential conflicts related to water, the use and monitoring of shared water resources.
+
+**TITLE VII - FINANCING SYSTEM**
+
+**CHAPTER I - FEES**
+
+**Art. 143:** Fees on water withdrawals and on the volumes of effluents discharged are instituted in application of the "user-pays" and "polluter-pays" principles.
+
+**Art. 144:** The determination of the persons subject to or exempt from the fees instituted by Article 143, of the amount and of the administrative and accounting rules applicable to this contribution, shall take into consideration the economic and social level of the liable parties, and in particular the importance of their income and profits related to water withdrawals and effluent discharges, as well as the burdens they impose on the State in terms of water management and administration.
+
+**Art. 145:** The modalities of application of the preceding provisions, including the basis, rate, and method of collection of the fees, shall be the subject of a decree of the Council of Ministers.
+
+**Art. 146:** In the event of accidental or non-accidental pollution of water, the public entities that have intervened materially or financially are entitled to reimbursement by the person or persons on whom the responsibility for the accident falls, of the investigation and expert assessment costs incurred by them, as well as the expenses incurred to mitigate or prevent the aggravation of the damages. The reimbursement of the sums due is made without prejudice to compensation for other damages.
+
+**CHAPTER II - THE INTEGRATED WATER RESOURCES MANAGEMENT FUND**
+
+**Art. 147:** An Integrated Water Resources Management Fund is hereby created, which constitutes a special allocation account endowed with accounting and budgetary autonomy.
+
+**Art. 148:** The Integrated Water Resources Management Fund is financed by:
+*   the proceeds from fees collected in accordance with the provisions of this code and its implementing texts;
+*   the proceeds from fines imposed in application of the provisions of this code and its implementing texts;
+*   subsidies from the State;
+*   financing/credits from international cooperation institutions;
+*   all other resources legally attributed to the fund.
+
+**Art. 149:** The resources of the Integrated Water Resources Management Fund are intended for financing the following activities:
+*   integrated water resources management, particularly participatory planning at the basin and national levels;
+*   the inventory of water resources and the updating of the integrated water information system;
+*   water policing;
+*   the protection of water resources and user awareness campaigns;
+*   support for the development, maintenance, and operation of development projects and hydraulic structures.
+A decree of the Council of Ministers shall determine the operating modalities of the Integrated Water Resources Management Fund.
+
+**TITLE VIII - PENAL PROVISIONS**
+
+**CHAPTER I - WATER POLICING, INVESTIGATION, AND REPORTING OF OFFENSES**
+
+**Art. 150:** A water police force is hereby instituted, responsible for investigating and reporting offenses against this law. It shall operate over the entire national territory.
+
+**Art. 151:** The water police shall be exercised by:
+*   judicial police officers and agents;
+*   sworn officers of the ministries in charge of Water, Health, the Environment, and Agriculture;
+*   sworn officers of the territorial authorities;
+*   any person mandated for this purpose by the State.
+The aforementioned water police officers are appointed by decree of the Council of Ministers. They shall take an oath before the court in whose jurisdiction they are to serve.
+
+**Art. 152:** The sworn officers referred to in Article 151 above may, for the purpose of carrying out investigations and making findings, have access to private estates, private homes, and their dependencies:
+*   either in the presence or upon the request of the public prosecutor, the investigating judge, or any competent judicial authority;
+*   or by virtue of a warrant expressly issued by the competent judicial authorities.
+
+**Art. 153:** In the exercise of their duties, sworn officers may, among other things:
+*   have access to wells, boreholes, and any other work or installation for the abstraction or withdrawal of water, or for the discharge of effluents;
+*   require from the owner or operator of an installation for the abstraction or withdrawal of water, or for the discharge of effluents, their authorizations as well as the start-up of the installations for the purpose of verifying their characteristics;
+*   have access to lands, edifices, dwelling houses, vehicles, or boats in order to take samples, install measuring devices, carry out analyses, or examine the places where the operations giving rise to the offenses are carried out, when they have reason to believe that an activity likely to exceed withdrawal allocations or to result in the dumping or discharge of polluting substances into the water is being or has been carried on there;
+*   require from any person responsible for the dumping or discharge of a polluting substance into the water all information necessary for the exercise of their duties.
+
+**Art. 154:** The sworn officers of the water police shall exercise their duties under the conditions of protection fixed in the penal code relating to contempt, threats, and violence against representatives of public authority.
+
+**Art. 155:** Every sworn officer is required to present their title, warrant, certificate, attestation, professional card, or any other document duly bearing the signature of the competent authority and attesting to their capacity and mission.
+
+**Art. 156:** In the exercise of their duties, sworn officers may, if necessary, request the assistance of law enforcement. In cases of flagrante delicto, they may initiate proceedings against the offenders.
+
+**Art. 157:** Offenses against this code and the provisions made for its application shall be recorded in official reports drawn up in four copies by the sworn officers. These shall be transmitted to the public prosecutor, to the reporting officer's superiors, to the Minister in charge of Water, and notified to the offender.
+
+**Art. 158:** The official report of findings must include, in particular, the identity of the persons involved, the circumstances of the offense, the explanations of the alleged perpetrators and any witnesses, as well as the elements establishing the materiality of the facts and their imputability to the alleged perpetrators.
+
+**Art. 159:** Actions and prosecutions are exercised by the Minister in charge of Water before the competent courts, without prejudice to the right of the Public Prosecutor's Office at the concerned courts.
+
+**Art. 160:** For any prosecution relating to an offense provided for in this code, the provisions of common law relating to the administration of evidence are applicable. Likewise, all cases not provided for by this code are covered by the provisions of the Penal Code and the Code of Criminal Procedure in force at the time of the occurrence of the prosecuted facts.
+
+**CHAPTER II - OFFENSES AND SANCTIONS**
+
+**Art. 161:** In accordance with the provisions of Article 41 above, any wastage of water, duly noted by the authorities in charge of water resources management, shall be subject to a warning. In the event of a repeat offense within a period of one year from the warning, the perpetrator of the wastage is liable to a fine ranging from thirty thousand (30,000) to one million (1,000,000) CFA francs.
+The competent court may furthermore order the suspension or cessation of all works or activities, or the total or partial prohibition of the operation of the installation or structure.
+
+**Art. 162:** Whoever knowingly throws, discharges, or allows to flow, into surface or ground waters, directly or indirectly, any waste or any substance whatsoever whose action or reactions cause or are likely to cause, even temporarily, harmful effects on health or damage to biological diversity or to the balance of aquatic ecosystems shall be punished by a term of imprisonment ranging from six (06) months to one (01) year and a fine ranging from one million (1,000,000) to ten million (10,000,000) CFA francs, or by one of these two penalties only.
+
+**Art. 163:** Whoever, through negligence, lack of precaution, or violation of safety regulations, destroys or damages, by any means whatsoever, all or part of the development projects and hydraulic structures identified in Article 6 of this code, is liable to a fine of one hundred thousand (100,000) to ten million (10,000,000) CFA francs and to the repair of the damaged works.
+
+**Art. 164:** When the total or partial destruction of the development projects and hydraulic structures results from an act of vandalism, terrorism, or any other reprehensible act knowingly orchestrated and executed, the perpetrators are liable to a term of imprisonment of two (02) to five (05) years and/or a fine of five hundred thousand (500,000) to fifty million (50,000,000) CFA francs when this act has resulted in light material damage. This penalty may be doubled when the damage results in the total decommissioning of the works in question.
+When these reprehensible acts have resulted in serious injury or loss of human life, the perpetrators are liable to the same penalties as those under common law.
+
+**Art. 165:** Whoever, within an immediate or close protection perimeter of a water withdrawal point, makes deposits, constructs or operates an installation, or carries out an activity despite a prohibition enacted by virtue of this code, shall be punished by imprisonment of three (03) months to two (02) years and a fine of twenty thousand (20,000) to five hundred thousand (500,000) CFA francs.
+In the event of a repeat offense, the penalties incurred are doubled.
+
+**Art. 166:** Whoever, within a distant protection perimeter of a water withdrawal point or in a protection area of a water body used for human consumption, contravenes a legal requirement or a prohibition measure enacted by virtue of this code, shall be punished by a term of imprisonment of two (02) months to six (06) months and a fine of ten thousand (10,000) to two hundred thousand (200,000) CFA francs.
+In the event of a repeat offense, the penalties incurred are doubled.
+
+**Art. 167:** Shall be punished by imprisonment of six (06) months to two (02) years and a fine ranging from five million (5,000,000) to fifty million (50,000,000) CFA francs, or by one of these two penalties only, any person who carries out, without a prior environmental impact assessment, large-scale activities, installations, development projects, and hydraulic structures in violation of the criteria, standards, and measures enacted in this matter by the competent authority.
+
+**Art. 168:** Whoever, without authorization or declaration, knowingly carries out water withdrawals, or constructs, modifies, or operates works, installations, or projects, or carries out activities subject to declaration or authorization by virtue of Articles 13 and 14 of this code, is liable to a fine ranging from ten thousand (10,000) to five hundred thousand (500,000) CFA francs.
+Shall be punished by a fine ranging from five hundred thousand (500,000) to fifty million (50,000,000) CFA francs whoever carries out water withdrawals, or constructs, modifies, or operates works, installations, or projects subject to concession by virtue of Article 19 of this code.
+In the event of a repeat offense, the penalties incurred are doubled.
+The competent court may furthermore order the suspension or cessation of all works or activities, the total or partial prohibition of the operation of the installation or structure, and the destruction of the installation or structure together with the restoration of the site. All these related sanctions may be subject to a penalty for non-compliance.
+
+**Art. 169:** Whoever constructs a borehole, a well, or a drainage abstraction, operates or carries out withdrawals of ground or surface water without submitting to the necessary authorizations by virtue of this code, shall be punished by a fine ranging from ten thousand (10,000) to five hundred thousand (500,000) CFA francs.
+
+**Art. 170:** Offenders of the provisions of Article 58 of this code, relating to unauthorized discharges, are liable to a fine ranging from fifty thousand (50,000) to five hundred thousand (500,000) CFA francs.
+
+**Art. 171:** Whoever, without any prior authorization, proceeds with the bottling or distribution of water by any means whatsoever to the population, or makes available to them through conveyance and distribution systems, water that does not meet the potability standards established by the competent authority, shall be punished by a term of imprisonment of two (02) months to six (06) months, and a fine ranging from one million (1,000,000) to fifty million (50,000,000) CFA francs, or by one of these two penalties only.
+In the event of a repeat offense, the term of imprisonment incurred may be increased to five (05) years.
+These sanctions are without prejudice to the confiscation of operating equipment, the suspension or cessation of all works or activities, or the temporary or permanent closure of the legal entity responsible for the distribution, which may be ordered by the competent court seized for this purpose.
+
+**Art. 172:** Shall be liable to the same penalties as those provided for in the preceding article, any natural or legal person who, with a view to obtaining the necessary authorizations for the construction of boreholes, wells, aqueducts, sewers, or for the operation of a water conveyance, distribution, or treatment system, uses false declarations, documents, analyses, or any other fraudulent maneuver of any nature whatsoever.
+
+**Art. 173:** Whoever, through negligence or deliberate refusal to submit to legal requirements, omits to carry out the periodic potability analyses provided for in Article 77 of this code, is liable to a fine ranging from two hundred thousand (200,000) to ten million (10,000,000) CFA francs, without prejudice to the confiscation of operating equipment, the suspension or cessation of all works or activities, or the temporary or permanent closure of the responsible legal entity, which may be ordered by the competent court.
+
+**Art. 174:** Any person who, through negligence or imprudence, introduces substances likely to harm the wholesomeness of any water, discharges wastewater directly into nature without any precaution, abandons objects or putrefiable bodies in natural or artificial waters, or waters, bathes, or washes animals in waters used for human consumption, shall be punished by a fine ranging from twenty thousand (20,000) to five hundred thousand (500,000) CFA Francs. They may furthermore be sentenced by the competent court to perform community service, the maximum duration of which may not exceed two (02) months.
+
+**Art. 175:** Shall be punished by a fine of ten thousand (10,000) to thirty thousand (30,000) CFA francs, whoever knowingly refuses to comply with a legitimate order given by a water police officer acting in the exercise of their duties.
+When the refusal to comply is accompanied by violence of any nature whatsoever, voluntarily exercised upon the person of the officer, the penalty is:
+a- from one (01) month to one (01) year of imprisonment when this violence was committed in concert with several individuals or with the carrying of an apparent or concealed weapon, without resulting in an incapacity for the victim officer to perform their duties;
+b- from three (03) months to three (03) years of imprisonment if the violence resulted for the victim officer in a temporary work incapacity of less than two (02) weeks;
+c- from two (02) to five (05) years of imprisonment if the violence resulted for the victim officer in a temporary work incapacity of between two (02) weeks and three (03) months;
+d- from five (05) to twenty (20) years of penal servitude if the violence resulted for the victim officer in mutilation, serious disability, or a temporary work incapacity of more than three (03) months.
+When the violence exercised resulted in the death of the victim officer, with or without intent to cause it, the provisions of the Penal Code in cases of voluntary homicide shall apply.
+
+**Art. 176:** The distribution of the proceeds from fines imposed in application of this code shall be carried out by regulation.
+
+**TITLE IX - TRANSITIONAL PROVISIONS**
+
+**Art. 177:** Any existing use of water or existing activity subject to the authorization regime or to the concession regime by the provisions of this code must be the subject of a declaration to the Minister in charge of Water within a period of one (01) year from the date of publication of this code.
+Failing this, the corresponding sanctions provided for in Chapter II of Title VIII shall apply.
+
+**Art. 178:** Any dumping, runoff, discharge, or direct or indirect deposit into a surface water or likely to rapidly reach an aquifer, and which exists at the date of publication of this code, must, within a period of one (01) year from said publication, be the subject of a declaration to the Minister in charge of Water. This declaration is equivalent to a request for authorization.
+Failing this, the corresponding sanctions provided for in Chapter II of Title VIII shall apply.
+
+**Art. 179:** The owners and operators of existing wastewater discharge installations must take all necessary measures to satisfy the conditions imposed on their effluents by the Minister in charge of Water and the Ministers in charge of Health and the Environment within a period of one (01) year from the publication of this code.
+Failing this, the corresponding sanctions provided for in Chapter II of Title VIII shall apply.
+
+**Art. 180:** A decree of the Council of Ministers shall define the modalities for the declaration and registration of the uses and activities referred to in Articles 177 and 178 of this code.
+
+**TITLE X - FINAL PROVISIONS**
+
+**Art. 181:** Regulatory texts shall specify, as needed, the modalities for the application of this code.
+
+**Art. 182:** All prior provisions contrary to those of this code are hereby repealed.
+
+**Art. 183:** This law shall be executed as a law of the State.
+
+Done at Lome, June 14, 2010
+
+The President of the Republic
+Faure Essozimna GNASSINGBE
+
+The Prime Minister
+Gilbert Fossoun HOUNGBO
+

@@ -1,0 +1,855 @@
+****
+**WATER CODE OF THE REPUBLIC OF TAJIKISTAN**
+
+(Akhbori Majlisi Oli of the Republic of Tajikistan, 2000, No. 11, Art. 503; 2005, No. 3, Art. 126; 2006, No. 3, Art. 161; 2008, No. 1, Art. 4; 2009, No. 5, Art. 331; 2011, No. 3, Art. 162; 2012, No. 7, Art. 709; 2013, No. 3, Art. 183; 2014, No. 1, Art. 4; No. 7, Part II, Art. 411; 2015, No. 3, Art. 210; 2016, No. 7, Art. 617; 2017, No. 5, Part I, Art. 282; 2018, No. 1, Art. 20; Law of the Republic of Tajikistan No. 1643 of July 19, 2019)
+
+This Code shall regulate water relations for the purposes of ensuring the rational use of water to meet the needs of the population and sectors of the economy, protecting waters from pollution, obstruction, and depletion, preventing and eliminating the harmful effects of water, improving the condition of water bodies, and strengthening the rule of law in the sphere of water relations.
+
+**SECTION I. GENERAL PROVISIONS**
+
+**CHAPTER 1. BASIC PROVISIONS**
+
+**Article 1. Key Definitions**
+The following key definitions are used in this Code:
+- **water** - a substance in a liquid, solid, gaseous, or plasma state, located in water bodies;
+- **water resources** - reserves of surface and groundwater within a specific territory that are available for use;
+- **water body** - a natural or artificial accumulation of water on the land surface or within its subsoil, having defined boundaries, volume, and features of a water regime;
+- **water fund** - the aggregate of all water bodies within the territory of the Republic of Tajikistan;
+- **water use** - the use of water resources and/or water bodies to meet the needs of the population and sectors of the economy;
+- **water user** - a natural or legal person who, in the prescribed manner, has been granted the right to use water resources and/or water bodies;
+- **water consumer** - a natural or legal person who receives water from a water user in the prescribed manner to meet their needs;
+- **catchment area** - the territory from which runoff forms a water body;
+- **drainage water** - water diverted by drainage structures from irrigated or waterlogged lands;
+- **wastewater** - water generated as a result of domestic and industrial activities (excluding mine, pit, and quarry water), as well as from the built-up areas of populated localities where the population and industrial enterprises are concentrated, the discharge of which is carried out through wastewater disposal systems or by gravity flow;
+- **groundwater** - water, including mineral water, located in underground water bodies;
+- **surface water** - water permanently or temporarily located in surface water bodies;
+- **water regime** - the change over time in the level, flow rate, and volume of water in water bodies;
+- **water protection** - activity aimed at the preservation and restoration of water bodies;
+- **water pollution** - the discharge or entry by other means into water bodies, as well as the formation therein, of harmful substances that degrade the quality of surface and groundwater, restrict their use, or negatively affect the condition of the bed and banks of water bodies;
+- **obstruction of waters** - the discharge or entry by other means into water bodies of objects or suspended particles that degrade the condition and impede the use of water bodies;
+- **water depletion** - a sustained reduction in the reserves and degradation of the quality of surface and groundwater;
+- **harmful effects of water** - flooding, waterlogging, and other harmful impacts of surface and groundwater on specific territories and objects;
+- **water management activity** - the activity of citizens and legal persons related to the study, use, and protection of water bodies, as well as the prevention and elimination of the harmful effects of water;
+- **water management system** - a complex of interconnected water bodies and hydraulic structures designed to ensure the rational use and protection of water resources;
+- **hydraulic structures** - dams, hydroelectric power station buildings, spillways, water outlet and water release structures, tunnels, canals, pumping stations, navigation locks, ship lifts, structures designed for protection against floods and the destruction of the banks and beds of reservoirs and rivers, structures (dikes) enclosing liquid waste storage facilities of industrial and agricultural organizations, devices for protection against erosion in canals, as well as other structures intended for the use of water resources and the prevention of the harmful effects of water and liquid waste;
+- **monitoring of water bodies** - a system of observation, assessment, and forecasting of changes in the condition of water bodies under state, municipal, and private ownership;
+- **use of water bodies** - obtaining benefits from water bodies in various ways to satisfy the material and other needs of citizens and legal persons;
+- **designated purpose of a water body** - the use of water bodies for specific purposes;
+- **special water use permit** - an official document certifying the right of its holder to use a water body for specific purposes for a specified period.
+
+**Article 2. Water Legislation of the Republic of Tajikistan**
+The water legislation of the Republic of Tajikistan is based on the Constitution of the Republic of Tajikistan and consists of this Code, other normative legal acts of the Republic of Tajikistan, as well as international legal acts recognized by Tajikistan.
+
+**Article 3. State Ownership of Water**
+Water (water bodies) in the Republic of Tajikistan shall be the exclusive property of the state, and the state shall guarantee its effective use in the interests of the people.
+Actions by natural and legal persons that violate the right of state ownership of water shall be prohibited.
+
+****
+
+**WATER CODE OF THE REPUBLIC OF TAJIKISTAN**
+
+Adopted by Resolution of the Majlisi Namoyandagon of the Majlisi Oli of the Republic of Tajikistan on February 12, 2020, No. 1596
+Approved by Resolution of the Majlisi Milli of the Majlisi Oli of the Republic of Tajikistan on March 19, 2020, No. 756
+
+This Code regulates public relations associated with the ownership, use, and disposal of waters and water bodies and is aimed at the protection and rational use of water resources, as well as the legal protection of water users.
+
+**CHAPTER 1. GENERAL PROVISIONS**
+
+**Article 1. Basic Concepts**
+
+The following basic concepts are used in this Code:
+- **water resources** - surface and groundwater that are used or may be used in economic or other activities;
+- **drainage water** - water collected by drainage structures and discharged into water bodies;
+- **water resource management** - a set of measures, norms, and rules that ensure effective planning, sustainable management, rational use, and protection of water resources, as well as the protection of populated areas, agricultural lands, industrial territories, and all forms of property from the adverse impacts of water;
+- **integrated water resource management** - a system of water resource management based on the accounting and interaction of water (surface, groundwater, and return water) and land resources, as well as other related natural resources within specific hydrographic boundaries, which aligns the interests of various sectors and hierarchical levels of water use and natural resource use, involving them in the process of decision-making, planning, financing, protection, and development of water resources in the interests of sustainable development of society and environmental protection;
+- **water management facilities** - engineering structures and devices intended for the abstraction (withdrawal), transport, and treatment of water, the discharge of wastewater, the regulation of water flows, navigation needs, water protection, and the prevention of the adverse impacts of water (water intake structures, canals, dams, dikes, sluices, hydraulic structures, pumping stations, water conduits, collectors, and other similar engineering structures and devices);
+- **water user** - a natural or legal person that receives water in the prescribed manner to meet its needs;
+- **use of water bodies** - the use of water bodies in various ways to meet the needs of natural and legal persons;
+- **aquifer** - strata of water-permeable rock that are homogeneous or similar in facies-lithological composition and hydrogeological properties, the voids (pores, fissures) of which are filled with gravitational water;
+- **water depletion** — a sustained reduction in the reserves and deterioration in the quality of surface and groundwater;
+- **water management section** - a part of a river basin with characteristics that allow for the establishment of limits for the abstraction (withdrawal) of water resources from a water body and other parameters for the use of the water body;
+- **catchment area** - the territory whose runoff forms a water body;
+- **drinking water source** - natural waters (surface and groundwater) that are used for drinking water supply after appropriate treatment or without it;
+- **water area** - a water space defined by natural, artificial, and/or conventional boundaries;
+- **restricted territory** - a territory where on-farm water management facilities are located;
+- **river basin management plan** - a document reflecting an assessment of the current state of formation, use, and protection of water resources, the development of water-consuming sectors of the economy within the basin, and their water resource needs in the short, medium, and long term, taking into account the achievement of sustainable development goals;
+- **drinking water** - water that, in its natural state or after treatment (purification, disinfection, addition of missing chemical substances), meets established regulatory requirements for quality and safety and is intended for drinking, food preparation, and other household needs of the population, as well as for the production of food products;
+- **surface water** - water permanently or temporarily located in surface water bodies;
+- **groundwater** - water located in the rock strata of the upper part of the Earth's crust in liquid, solid, and gaseous states;
+- **wastewater** - water and atmospheric precipitation diverted into water bodies from the territory of industrial enterprises, agricultural lands, and populated areas through a sewerage system, drainage, or by gravity flow, the properties of which have been degraded as a result of human activity;
+- **water body** - a natural or artificial reservoir, watercourse, or other feature with a permanent or temporary concentration of water that has characteristic forms and signs of a water regime;
+- **capping** - the collection and direction of water into a specific channel for the purpose of its full utilization and protection from pollution;
+- **water management system** - a complex of interconnected water management facilities designed to ensure the rational use and protection of water resources;
+- **adverse impact of water** - washout, erosion, flooding, waterlogging, destruction of the banks of water bodies, swamping, and other negative impacts on specific territories and objects;
+- **river basin** - a geographical area of water resource formation, defined by the boundaries of the catchment basin, including surface waters that have a common final drainage point;
+- **groundwater basins** - a collection of catchment aquifers located in the subsoil;
+- **maximum permissible wastewater discharge** - the mass of a substance in wastewater that is maximally permissible for discharge in a prescribed mode at a specific point of a water body per unit of time, with the aim of ensuring water quality standards at a control point;
+- **protection of water bodies** - a set of measures aimed at the protection, preservation, and restoration of water bodies;
+- **aquatic ecosystem** - an interconnected system of living organisms and their surrounding natural environment in which a cyclical interchange of mineral and organic substances and energy occurs within a water body.
+
+**Article 2. Water Legislation of the Republic of Tajikistan**
+
+The water legislation of the Republic of Tajikistan is based on the Constitution of the Republic of Tajikistan and consists of this Code, other normative legal acts of the Republic of Tajikistan, as well as international legal acts recognized by Tajikistan.
+
+**Article 3. Tasks of the Water Legislation of the Republic of Tajikistan**
+
+The tasks of the water legislation of the Republic of Tajikistan are the legal regulation of water relations in order to ensure the sustainable management and rational use of water for the needs of the population and sectors of the economy, the protection of water bodies from pollution, contamination, and depletion, the prevention and elimination of the harmful effects of water, the improvement of the condition of water bodies, as well as the protection of the rights of natural and legal persons and the strengthening of legality in the sphere of water relations.
+
+**Article 4. Principles of the Water Legislation of the Republic of Tajikistan**
+
+The water legislation of the Republic of Tajikistan is based on the following principles:
+- recognizing the significance of water bodies as the basis of human life and activity;
+- water resources are state property;
+- targeted use of water bodies and water resources;
+- priority of using water bodies for the drinking and household needs of the population;
+- river basin management of water resources;
+- reduction and prevention of water resource pollution;
+- participation of interested parties in the preparation and adoption of decisions on water resource management;
+- equal access for natural and legal persons to acquiring the right to use water bodies;
+- rational and effective use of water resources;
+- protection of water bodies;
+- prevention of significant negative impacts on the environment exceeding established norms when using water bodies;
+- regulation of water relations depending on the natural characteristics of water bodies;
+- regulation of the use of water resources from water bodies through the issuance of permits for special water use;
+- introduction of innovative, water-saving technologies, and means of measuring and accounting for water use;
+- economic incentives for water conservation;
+- accounting for the economic value of water resources;
+- compensation for expenses related to damage caused to a water body;
+- compensation for expenses for the cleanup of a polluted water body.
+
+**Article 5. State Water Fund of the Republic of Tajikistan**
+
+The State Water Fund of the Republic of Tajikistan (hereinafter - the State Water Fund) includes the aggregate of all water bodies and the water resources concentrated within them within the territory of the Republic of Tajikistan, as well as the lands they occupy with their water protection zones.
+
+**Article 6. Water Bodies**
+
+1.  Water bodies are subdivided into surface and groundwater bodies.
+2.  Surface water bodies consist of surface waters and the lands covered by them within the shoreline. Surface water bodies include:
+    - watercourses (rivers, streams, canals);
+    - reservoirs (lakes, ponds, flooded quarries, water reservoirs, mudflow reservoirs);
+    - swamps;
+    - natural outlets of groundwater (springs, geysers);
+    - glaciers, snowfields.
+3.  Groundwater bodies include:
+    - groundwater basins;
+    - aquifers.
+4.  The boundaries of groundwater bodies are determined in accordance with the Law of the Republic of Tajikistan "On Subsoil."
+
+**Article 7. Lands of the State Water Fund**
+
+1.  The lands of the State Water Fund are state property and consist of lands occupied by surface water bodies, water management facilities, as well as lands allocated for water protection zones.
+2.  Land plots of the State Water Fund may be used by natural and legal persons in accordance with the provisions of the Land Code of the Republic of Tajikistan.
+3.  The non-designated use of lands of the State Water Fund that has a negative impact on their condition is prohibited.
+
+**Article 8. Right of Ownership of Water**
+
+1.  In the Republic of Tajikistan, water is the exclusive property of the state, and the state guarantees its effective use in the interests of the people.
+2.  Natural and legal persons who violate the right of state ownership of water shall be held liable in accordance with the legislation of the Republic of Tajikistan.
+
+**Article 9. Right to Use Water Bodies**
+
+Natural and legal persons acquire the right to use water bodies on the grounds and in the manner prescribed by this Code.
+
+**Article 10. Water Management Facilities of Special Strategic Importance**
+
+1.  The list of water management facilities of special strategic importance shall be determined by the Government of the Republic of Tajikistan.
+2.  The transfer by lease, concession, or private management, and the privatization of water management facilities of special strategic importance are prohibited.
+3.  The operating regime, protection procedures, and safety monitoring of water management facilities of special strategic importance, regardless of their form of ownership, shall be determined by the legislation of the Republic of Tajikistan.
+4.  Financing for the maintenance and operation, protection, and safety monitoring of water management facilities of special strategic importance shall be carried out on a priority basis.
+
+**CHAPTER 2. STATE REGULATION AND CONTROL IN THE FIELD OF USE AND PROTECTION OF WATER RESOURCES**
+
+**Article 11. State Bodies in the Field of Regulation of Use and Protection of Water Resources**
+
+State regulation in the field of use and protection of water resources in the Republic of Tajikistan is carried out by the following bodies:
+- the Government of the Republic of Tajikistan;
+- the authorized state body in the field of regulating the use of water resources;
+- the authorized state body in the field of environmental protection;
+- the authorized state body in the field of drinking water supply and sanitation;
+- the authorized state body in the field of land reclamation and irrigation;
+- the authorized state body in the field of supervision of industrial safety and mining supervision;
+- the authorized state body in the field of subsoil use;
+- local executive bodies of state authority;
+- other state bodies within their powers in accordance with the legislation of the Republic of Tajikistan.
+
+**Article 12. Competence of the Government of the Republic of Tajikistan**
+
+The competence of the Government of the Republic of Tajikistan in the field of regulation of the use and protection of water resources includes:
+- ensuring the implementation of state policy in the field of use, protection of water resources, and integrated water resource management;
+- developing, adopting, and implementing forecasts, concepts, strategies, and state development programs in the field of water resources, river basin plans, projects, and measures related to the management, use, and protection of water resources, the development of public water supply and sanitation systems, the prevention, reduction, and elimination of the consequences of water-related emergency situations, the protection of territories from the adverse impacts of water and major accidents, and the protection and conservation of aquatic ecosystems;
+- establishing a special water use regime in emergency situation zones;
+- coordinating the activities of ministries, agencies, local executive bodies of state authority, and associations, regardless of their form of ownership, as well as legal entities, related to the use and protection of water systems;
+- approving and amending the boundaries of river basin zones;
+- regulating issues related to setting tariffs for water supply services;
+- regulating issues related to the paid use of water bodies;
+- determining the authorized state bodies in the field of regulation of the use and protection of water resources;
+- determining the sources and procedure for financing the maintenance and operation of state water management facilities;
+- establishing and dissolving the National Water Council;
+- developing and regulating inter-state and international relations in the field of use and protection of water resources;
+- managing the State Water Fund and water management facilities that are state property;
+- exercising other powers provided for by this Code and the normative legal acts of the Republic of Tajikistan.
+
+**Article 13. Powers of the Authorized State Body in the Field of Regulating the Use of Water Resources**
+
+The powers of the authorized state body in the field of regulating the use of water resources include:
+- implementing state policy in the field of water resource use and integrated water resource management;
+- developing proposals for improving the water legislation of the Republic of Tajikistan;
+- developing normative legal regulations in the field of use and integrated management of water resources;
+- general coordination of the activities of state bodies and organizations in the field of water resources, as well as branches and other structures of regional and international organizations whose activities are related to water resources, functioning on the territory of the Republic of Tajikistan with partial or full financing from state sources;
+- organizing integrated water resource management based on the rational allocation of water resources among sectors of the economy;
+- developing draft state programs, strategies, and concepts in the field of water resources with the participation of interested state bodies;
+- organizing the development of river basin management plans, seasonal and annual water allocation plans, and water management balances;
+- monitoring the implementation of and compliance with the indicators established by river basin management plans, as well as seasonal and annual water allocation plans;
+- developing and approving the operating rules for multi-purpose reservoirs, as well as regulating river flow by reservoirs;
+- keeping records of water abstraction limits from water bodies for sectors of the economy;
+- carrying out state accounting of water use from water bodies, maintaining the state water cadastre with respect to water use from water bodies, and maintaining the unified state water cadastre in the manner prescribed by the Government of the Republic of Tajikistan;
+- receiving, free of charge, information from water users and state bodies necessary for the performance of the tasks assigned to the authorized state body in the field of regulating the use of water resources;
+- developing and implementing, jointly with interested bodies, measures to improve the condition and prevent the depletion of water resources, and to prevent the adverse impacts of water;
+- organizing scientific research related to the use and integrated management of water resources;
+- creating and maintaining a database and a national water information system;
+- exercising other powers provided for by this Code and other normative legal acts of the Republic of Tajikistan.
+
+**Article 14. Powers of the Authorized State Body in the Field of Environmental Protection**
+
+The powers of the authorized state body in the field of environmental protection in the sphere of regulation of the use and protection of water resources include:
+- implementing state policy in the field of water resource protection, hydrometeorology management, biodiversity, and climate change;
+- state control over the correct accounting of water resource use and the discharge of pollutants into water bodies;
+- state control over the existence of and compliance with the conditions of permits for special water use;
+- state control over the observance of measures for the protection of surface and groundwater bodies by natural and legal persons;
+- state control over compliance with environmental protection requirements during the siting, design, construction (reconstruction), and commissioning of new and reconstructed enterprises, structures, and other facilities, and during dredging, drilling, laying of cables, pipelines, and other communications that affect the state of the aquatic environment;
+- state control over compliance with environmental requirements for the operation of water management systems and reservoirs, lakes, and other water bodies used as reservoirs;
+- state control over the implementation of measures to prevent accidental, sudden discharges of pollutants into water bodies and to eliminate their consequences;
+- approving, in the prescribed manner, the standards for maximum permissible concentrations of substances in water bodies and the maximum permissible discharge of wastewater into water bodies;
+- suspending or prohibiting, in the manner prescribed by the legislation of the Republic of Tajikistan, the discharge of pollutants into the environment carried out in violation of the conditions and requirements provided for in permits for special water use;
+- coordinating, in the prescribed manner, documentation for construction, dredging, blasting, and other works on water bodies or their coastal strips (zones) that affect the state of natural resources;
+- organizing and conducting monitoring of water resources, forecasting and regularly studying the state of water resources, including glaciers, lakes, and reservoirs;
+- developing and implementing national and regional programs, strategies, and plans for the protection of water resources;
+- coordinating the activities of ministries, agencies, and local bodies of state authority, and organizations, regardless of their form of ownership and departmental affiliation, on matters of water resource protection;
+- coordinating and ensuring the fulfillment of obligations undertaken by the Republic of Tajikistan under international agreements on matters of water resource protection;
+- carrying out water accounting and maintaining the state water cadastre with respect to the formation of surface waters and their quality in the manner prescribed by the Government of the Republic of Tajikistan;
+- conducting environmental impact assessments and expert reviews of projects for water management facilities under construction;
+- creating and developing a database and information system for environmental protection;
+- exercising other powers provided for by this Code and other normative legal acts of the Republic of Tajikistan.
+
+**Article 15. Powers of the Authorized State Body in the Field of Drinking Water Supply and Sanitation**
+
+The powers of the authorized state body in the field of drinking water supply and sanitation in the sphere of regulation of the use and protection of water resources include:
+- implementing state policy in the field of drinking water supply and sanitation;
+- developing proposals for improving the legislation of the Republic of Tajikistan in the field of drinking water supply and sanitation;
+- developing draft state programs, strategies, and concepts in the field of drinking water supply and sanitation in cooperation with the relevant state bodies;
+- supervising the uninterrupted supply of drinking water from drinking water supply systems;
+- carrying out state accounting of drinking water use and drinking water quality;
+- keeping records of the networks supplying drinking water systems;
+- creating and developing a database and information system for drinking water supply and sanitation;
+- exercising other powers provided for by the normative legal acts of the Republic of Tajikistan.
+
+**Article 16. Powers of the Authorized State Body in the Field of Land Reclamation and Irrigation**
+
+The powers of the authorized state body in the field of land reclamation and irrigation, regulation of the use and protection of water resources include:
+- implementing state policy in the field of land reclamation and irrigation;
+- developing normative legal acts and proposals for improving the legislation of the Republic of Tajikistan in the field of land reclamation and irrigation;
+- developing draft state programs, strategies, and concepts in the field of land reclamation and irrigation with the participation of the relevant state bodies;
+- coordinating water use plans in accordance with the established procedure;
+- ensuring water distribution and uninterrupted water supply from irrigation systems to water consumers in accordance with concluded contracts;
+- ensuring control and mitigation of the impact of changes in groundwater levels and salinization in irrigated lands;
+- carrying out state accounting of water resource use for irrigation purposes, as well as the discharge of drainage water into water bodies;
+- implementing anti-mudflow, anti-flood, anti-landslide, and bank protection measures at facilities under its jurisdiction;
+- general coordination of the activities of state institutions, international organizations, and investment projects in the field of land reclamation and irrigation;
+- developing, approving, and establishing operating rules for water management facilities on its balance sheet;
+- designing, constructing new, and reconstructing enterprises and water management facilities;
+- developing and implementing, jointly with the relevant bodies, measures to improve the reclamation state of irrigated lands, and to prevent erosion, salinization, and land degradation;
+- organizing scientific research in the field of land reclamation and irrigation;
+- developing new irrigated lands;
+- developing economic mechanisms for water use and coordinating the amount of tariffs in the field of irrigation and land reclamation;
+- carrying out state accounting of water resource use and the discharge of drainage water in the field of land reclamation and irrigation;
+- creating and maintaining a database and information system for land reclamation and irrigation;
+- exercising other powers provided for by this Code and other normative legal acts of the Republic of Tajikistan.
+
+**Article 17. Powers of the Authorized State Body in the Field of Supervision of Industrial Safety and Mining Supervision**
+
+The powers of the authorized state body in the field of supervision of industrial safety and mining supervision in the sphere of regulation of the use and protection of water resources include:
+- coordinating annual plans for water abstraction from deposits of medicinal, mineral, and thermal waters;
+- state control over the correct development of deposits of mineral, medicinal, and thermal waters;
+- coordinating the technological plan for the development of mineral and medicinal waters and draft license conditions for obtaining a license (subsoil use) for the use of groundwater (mineral, medicinal, thermal), as well as registering these licenses;
+- reviewing and controlling the submission of annual statistical reports on water use (mineral, medicinal, and thermal) in the approved format;
+- coordinating projects for the construction of tailings dumps, settling ponds, sludge ponds, and other structures for the discharge of industrial waste;
+- reviewing and coordinating projects for the construction of landfills for the underground disposal of industrial wastewater and radioactive waste;
+- granting a mining allotment for the discharge of wastewater;
+- exercising other powers provided for by the normative legal acts of the Republic of Tajikistan.
+
+**Article 18. Powers of the Authorized State Body in the Field of Subsoil Use**
+
+The powers of the authorized state body in the field of subsoil use, in the sphere of regulation of the use and protection of groundwater resources, include:
+- state registration and accounting of work on the geological study of the subsoil, including the drilling of water wells and wells for the disposal of industrial wastewater and radioactive waste;
+- coordinating projects for drilling water wells prepared by natural and legal persons;
+- coordinating projects for the prospecting, exploration, and construction of new groundwater intakes;
+- coordinating projects for the construction of tailings dumps, settling ponds, sludge ponds, filtration fields, and other structures for the discharge of industrial waste;
+- coordinating projects for the construction of landfills for the underground disposal of industrial wastewater and radioactive waste;
+- departmental control over the protection of groundwater bodies from depletion and pollution;
+- keeping records of approved operational groundwater reserves;
+- keeping records of artesian wells;
+- maintaining the state water cadastre with respect to groundwater bodies in the manner prescribed by the legislation of the Republic of Tajikistan;
+- creating and developing a database and information system on subsoil use;
+- exercising other powers provided for by the normative legal acts of the Republic of Tajikistan.
+
+**Article 19. Powers of Local Executive Bodies of State Authority**
+
+The powers of local executive bodies of state authority in the field of regulation of the use and protection of water resources include:
+- determining the main directions for the use and protection of water bodies within the respective administrative-territorial units;
+- participating in the development of river basin management plans;
+- implementing measures to preserve and improve the condition of water bodies, to prevent and eliminate adverse impacts, as well as water pollution, and to restore facilities damaged as a result of accidents, floods, mudflows, and other natural disasters;
+- jointly with other state bodies, creating a flood risk control system and an early warning and flood elimination system;
+- providing drinking water, protecting and developing centralized, decentralized, and distribution systems for drinking water to consumers in accordance with the legislation of the Republic of Tajikistan;
+- coordinating the siting and commissioning of enterprises and the execution of works on water bodies and in coastal water protection strips;
+- cooperating with authorized state bodies in the field of regulation of the use and protection of water resources;
+- exercising other powers provided for by this Code and other normative legal acts of the Republic of Tajikistan.
+
+**Article 20. National Water Council**
+
+1.  The National Water Council is a consultative and advisory body under the Government of the Republic of Tajikistan.
+2.  The powers of the National Water Council in the field of regulation of the use and protection of water resources include:
+    - coordinating the actions of relevant ministries, agencies, river basin councils, water user associations, private sector organizations, as well as non-governmental organizations in the field of use and protection of water resources;
+    - reviewing and coordinating draft state forecasts, concepts, strategies, and development programs in the field of water resources, draft river basin management plans, and action plans related to the use and protection of water resources;
+    - analyzing and evaluating the implementation of state forecasts, concepts, strategies, and development programs in the field of water resources, draft river basin plans, and action plans related to the use and protection of water resources;
+    - exercising other powers provided for by this Code and other normative legal acts.
+3.  The National Water Council shall be composed of the heads of ministries, agencies, and other state bodies responsible for the use and protection of water resources. The National Water Council may include representatives of non-governmental organizations, individual specialists, scientists, and experts in the fields of water resources, environmental protection, and economics.
+
+**Article 21. River Basin Management of Water Resources**
+
+1.  River basin management of water resources is carried out within the hydrographic boundaries of river basins and their associated groundwater bodies, in accordance with the principles of integrated water resource management.
+2.  To implement river basin management of water resources, river basins and their associated groundwater bodies are divided into river basin zones as territorial units for water resource management.
+
+**Article 22. River Basin Zones**
+
+1.  River basin zones are the main unit for water resource management and consist of river basins and their associated groundwater bodies on the territory of the Republic of Tajikistan.
+2.  The following river basin zones are established in the Republic of Tajikistan:
+    - Syrdarya River Basin Zone;
+    - Zeravshan River Basin Zone;
+    - Panj River Basin Zone;
+    - Vakhsh River Basin Zone;
+- Kafirnigan River Basin Zone.
+
+**Article 23. River Basin Organizations**
+
+1.  River basin organizations and their subdivisions are organizations responsible for matters of organizing integrated water resource management, planning the use of water bodies, monitoring the use of water bodies, and implementing river basin management plans in the river basin zones.
+2.  River basin organizations are structural subdivisions of the authorized state body in the field of regulating the use of water resources.
+
+**Article 24. River Basin Councils**
+
+1.  To promote effective water resource management and coordinate the activities of all interested parties within the respective river basin zones, river basin councils are established as consultative and advisory bodies.
+2.  River basin councils shall review and coordinate draft river basin management plans.
+3.  The composition of river basin councils includes representatives of authorized state bodies in the field of regulation, use, and protection of water resources, local executive bodies of state authority, as well as representatives of water users, public associations, and other interested parties.
+4.  The procedure for the creation and activity of river basin councils shall be established by the Government of the Republic of Tajikistan.
+
+**Article 25. Development and Establishment of Standards for Permissible Impact on Water Bodies**
+
+1.  Maintaining surface and groundwater in a state that complies with the requirements of the legislation of the Republic of Tajikistan is ensured by establishing and observing standards for the permissible impact on water bodies.
+2.  Standards for the permissible impact on water bodies are developed based on the maximum permissible concentrations of chemical substances, radioactive substances, microorganisms, and other indicators of water quality in water bodies.
+3.  The approval of standards for the permissible impact on water bodies shall be carried out in the manner determined by the Government of the Republic of Tajikistan, by the authorized state body in the field of environmental protection in coordination with the authorized state body in the field of public health.
+4.  The quantity of substances and microorganisms contained in wastewater discharges into water bodies must not exceed the established standards for the permissible impact on water bodies.
+
+**Article 26. Granting the Right to Manage State-Owned Water Management Facilities to Natural and Legal Persons**
+
+The Government of the Republic of Tajikistan may grant the right to manage state-owned water management facilities within a restricted territory to natural and legal persons on the basis of a public-private partnership, contract, concession, lease, or other forms of partnership, subject to compliance with the requirements of the legislation of the Republic of Tajikistan.
+
+**Article 27. State Control in the Field of Use and Protection of Water Resources**
+
+1.  State control in the field of use and protection of water resources is carried out to ensure compliance by natural and legal persons with the established procedure for using water bodies, the fulfillment of obligations for the protection of water bodies, the prevention and elimination of the adverse impacts of water, the rules for keeping water records, as well as other requirements provided for by the legislation of the Republic of Tajikistan.
+2.  State control in the field of use and protection of water resources is carried out by the authorized state body in the field of environmental protection in accordance with the provisions of this Code and other normative legal acts of the Republic of Tajikistan.
+3.  The inspection of the activities of economic entities in the field of use and protection of water resources is carried out in accordance with the legislation of the Republic of Tajikistan on inspections of the activities of economic entities.
+
+**CHAPTER 3. PARTICIPATION OF NON-STATE ORGANIZATIONS AND NATURAL PERSONS IN THE IMPLEMENTATION OF MEASURES FOR THE RATIONAL USE AND PROTECTION OF WATER BODIES**
+
+**Article 28. Assistance to State Bodies in the Implementation of Measures for the Rational Use and Protection of Water Bodies**
+
+Non-state organizations and natural persons may assist state bodies in the implementation of measures for the rational use and protection of water bodies.
+
+**Article 29. Procedure for the Participation of Non-State Organizations and Natural Persons in the Implementation of Measures for the Rational Use and Protection of Water Bodies**
+
+1.  Non-state organizations shall take part in activities aimed at ensuring the rational use and protection of water bodies in accordance with the legislation of the Republic of Tajikistan, their charters, or regulations.
+2.  Natural persons shall assist state bodies in the implementation of measures for the rational use and protection of water bodies by directly participating in carrying out measures, submitting proposals for improving the use and protection of water bodies, and reporting known violations of the rules for their use and protection.
+3.  State bodies are obliged to take into account the proposals of non-state organizations and natural persons when implementing measures for the rational use and protection of water bodies.
+
+**CHAPTER 4. STATE PLANNING, ACCOUNTING, AND MONITORING OF WATER RESOURCE USE**
+
+**Article 30. Planning of Water Resource Use**
+
+1.  The planning of water resource use must ensure a scientifically-based distribution of water among water users, taking into account the primary satisfaction of the drinking and household needs of the population, the protection of water bodies, and the prevention of their adverse impacts.
+2.  When planning water resource use, data from the state water cadastre, water management balances, schemes for the integrated use and protection of waters, as well as limits on water abstraction from sources of the State Water Fund, shall be taken into account.
+
+**Article 31. National Water Strategy**
+
+1.  The National Water Strategy determines the main directions for the planning, use, and protection of water resources, taking into account the development prospects of economic sectors.
+2.  The National Water Strategy is developed by the authorized state body in the field of regulating the use of water resources with the involvement of other interested parties.
+
+**Article 32. State Monitoring of Water Bodies**
+
+1.  State monitoring of water bodies is carried out for the purpose of observing, assessing, and forecasting changes in the state of water bodies.
+2.  Data and information obtained as a result of monitoring water resources shall be included in the national water information system and the unified state system of the Republic of Tajikistan for the prevention and elimination of emergency situations.
+3.  State monitoring of water bodies is carried out in accordance with the legislation of the Republic of Tajikistan.
+
+**Article 33. National Water Information System**
+
+1.  The National Water Information System is created for the purpose of collecting, storing, processing, and providing information to support the development of state policy, forecasts, concepts, strategies, and development programs in the field of water resources, river basin plans, projects, and measures related to the management, use, and protection of water resources, strategic and operational decision-making, and public information in the field of water resources.
+2.  The National Water Information System is created, managed, and coordinated by the authorized state body in the field of regulating the use of water resources.
+3.  To automate data processing in the national water information system, the water bodies of the Republic of Tajikistan shall be coded.
+4.  All water users and relevant state bodies, in accordance with the established formats and procedure, shall ensure the collection, processing, and transmission of information to the national water information system free of charge.
+5.  The procedure for maintaining the national water information system shall be determined by the Government of the Republic of Tajikistan.
+6.  Financing related to the maintenance of the national water information system shall be carried out from the budget funds of the authorized state body in the field of regulating the use of water resources.
+
+**Article 34. Water Management Balances**
+
+1.  River basin organizations, with the assistance of authorized state bodies in the field of regulation of the use and protection of water resources and in coordination with other relevant parties, shall compile water management balances.
+2.  The water management balance, which statistically assesses the availability and degree of use of water resources, shall be compiled for river basins, sub-basins, water management sections, and major canals.
+3.  Water management balances are developed in the manner and according to the methods established by the authorized state body in the field of regulating the use of water resources.
+
+**Article 35. State Water Cadastre of the Republic of Tajikistan**
+
+1.  The State Water Cadastre of the Republic of Tajikistan (hereinafter - the State Water Cadastre) is a collection of systematized official information on the state, use, and protection of water bodies.
+2.  The maintenance of the State Water Cadastre is carried out by the authorized state bodies in the field of regulation of the use and protection of water resources from the state budget funds in accordance with the powers defined by this Code.
+3.  The State Water Cadastre is part of the national water information system.
+4.  The procedure for maintaining the State Water Cadastre shall be determined by the Government of the Republic of Tajikistan.
+
+**Article 36. State Register of Water Management Facilities**
+
+1.  The State Register of Water Management Facilities is a collection of systematized data from the certification of water management facilities.
+2.  The maintenance of the State Register of Water Management Facilities is carried out by the authorized state body in the field of regulating the use of water resources. Each water management facility entered in the state register must have a comprehensive description containing its economic purpose, legal, physical-geographical, hydrological, hydrogeological, technical-economic, and other indicators.
+3.  The State Register of Water Management Facilities also includes water management facilities of special strategic importance.
+4.  The State Register of Water Management Facilities is part of the national water information system.
+
+**Article 37. State Register of Permits for Special Water Use**
+
+1.  The state registration of permits for special water use, the transfer of rights and obligations under permits for special water use, as well as the termination of a permit for special water use, shall be carried out in the state register of permits for special water use.
+2.  The maintenance of the state register of permits for special water use is carried out in accordance with the legislation of the Republic of Tajikistan in the field of regulating the permit system and other sectoral normative legal acts.
+
+**Article 38. River Basin Management Plan**
+
+1.  River basin management plans are developed by the authorized state body in the field of regulating the use of water resources with the participation of river basin organizations and other interested parties in accordance with the provisions of the national water strategy and taking into account local socio-economic development programs.
+2.  River basin management plans are developed using data from the national water information system, existing schemes for the integrated use and protection of water resources, water balances, plans, water abstraction limits, and water use norms.
+3.  The procedure for the development, approval, and implementation of river basin management plans shall be determined by the Government of the Republic of Tajikistan.
+4.  Costs associated with the development of river basin management plans shall be covered by state budget funds and other sources not prohibited by the legislation of the Republic of Tajikistan.
+
+**CHAPTER 5. WATER USE**
+
+**Article 39. Water Users and Objects of Water Use**
+
+1.  Water users may be natural or legal persons carrying out their activities on the territory of the Republic of Tajikistan and complying with the requirements of the water legislation of the Republic of Tajikistan.
+2.  The water bodies listed in Article 6 of this Code are granted for use.
+3.  The use of water bodies of special state significance or of special scientific and cultural value may be partially or fully prohibited by the Government of the Republic of Tajikistan.
+
+**Article 40. Types of Water Use**
+
+Based on the conditions for granting water bodies for use, water use is subdivided into:
+- general water use;
+- special water use;
+- joint water use;
+- separate water use.
+
+**Article 41. General and Special Water Use**
+
+1.  General water use is carried out by natural and legal persons from surface water bodies without the use of structures or technical devices that affect the state of surface water bodies, free of charge, without a permit, and without title documents.
+2.  Special water use is carried out with or without the withdrawal of water from a water body (with the exception of canals and reservoirs exclusively for irrigation purposes not located in the channel of rivers and streams) to meet the needs of natural and legal persons with the use of structures or technical devices that affect the state of water bodies, on the basis of permits for special water use.
+
+**Article 42. Joint and Separate Water Use**
+
+1.  Water bodies may be in joint or separate use.
+2.  Joint water use may be carried out on water bodies or their parts that have not been granted for separate use.
+3.  Separate water use may be carried out on surface water bodies or their parts granted to meet the needs of a natural or legal person, the provision of which excludes the use of the water bodies or their parts by other natural and legal persons.
+4.  Water bodies or their parts granted for use to natural and legal persons on the basis of a decision of the relevant state body are in separate use.
+
+**Article 43. Primary and Secondary Water Use**
+
+1.  Primary water use is the water use by natural and legal persons who abstract water directly from water bodies (with the exception of canals and reservoirs exclusively for irrigation purposes not located in the channel of rivers and streams) to meet their own needs and/or to supply it to secondary water users.
+2.  Secondary water use is the water use by natural and legal persons who receive water from primary water users on the basis of contracts with them.
+3.  The conditions of secondary water use, and the mutual rights and obligations of the parties, must be regulated by a contract between the primary and secondary water users.
+
+**CHAPTER 6. PROCEDURE AND CONDITIONS FOR GRANTING WATER BODIES FOR USE**
+
+**Article 44. Priority Granting of Water Bodies for the Drinking and Household Needs of the Population**
+
+1.  Water bodies shall be granted for use, first and foremost, to meet the drinking and household needs of the population.
+2.  The use of water bodies for other purposes is permitted only when sufficient water resources are available.
+
+**Article 45. Payment for the Use of Water Bodies**
+
+1.  General water use in the Republic of Tajikistan is free of charge.
+2.  Special water use for the purpose of generating hydropower with a capacity of power-generating facilities up to 30,000 kilowatt-hours, for the elimination of emergency situations and/or their consequences, as well as for the needs of agricultural irrigation and forestry carried out by state bodies, and for navigation in the Republic of Tajikistan is free of charge.
+3.  Special water use in the Republic of Tajikistan is carried out on a paid basis, except in cases provided for by part 2 of this article and the legislation of the Republic of Tajikistan.
+4.  The procedure and conditions for establishing and collecting payment for the use of water bodies and water resources shall be determined by the normative legal acts of the Republic of Tajikistan.
+
+**Article 46. Procedure for Carrying Out General Water Use**
+
+1.  When carrying out general water use, it is mandatory to comply with the requirements of normative documents established by the authorized state bodies for public health and social protection supervision and the protection of fish stocks, as well as the rules for ensuring the health and safety of the population on the water, the rational use and protection of waters, and other requirements established by the authorized state bodies in the field of regulation of the use and protection of water resources.
+2.  In order to protect the life and health of the population, local executive bodies of state authority, upon the submission of the authorized state bodies in the field of regulation of the use and protection of water resources, the authorized body for state public health and social protection supervision, and other relevant bodies, shall establish places where bathing, swimming in small vessels, and watering of livestock are prohibited, and shall also determine other conditions for general water use on water bodies.
+3.  Local executive bodies of state authority are obliged to inform natural and legal persons about the established conditions for general water use.
+
+**Article 47. General Water Use on Water Bodies Granted for Separate Use**
+
+1.  On water bodies granted for separate use, general water use is permitted under the conditions established by the primary water user in coordination with the authorized state bodies in the field of regulation of the use and protection of water resources, and if necessary, it may be prohibited.
+2.  The primary water user is obliged to inform natural and legal persons about the conditions or prohibition of general water use on the surface water body granted to it for separate use.
+3.  If the primary water user has not announced the conditions or prohibition of general water use on the surface water body granted to it for separate use, general water use is deemed to be permitted without restrictions.
+
+**Article 48. Permits for Special Water Use**
+
+1.  Special water use is carried out on the basis of permits issued by the authorized state body, and in cases provided for by Article 49 of this Code, by local executive bodies of state authority and self-governing bodies of settlements and villages.
+2.  The issuance of a permit for special water use, the introduction of amendments and additions to it, the extension and termination of the permit, the issuance of duplicates, and the assignment of the rights and obligations of special water use to other persons shall be carried out by the relevant authorized state body, the procedure for which is regulated in accordance with this Code, the legislation of the Republic of Tajikistan in the field of regulating the permit system, and sectoral normative legal acts.
+
+**Article 49. Permits for Special Water Use Issued by Local Executive Bodies of State Authority and Self-Governing Bodies of Settlements and Villages**
+
+1.  Permits for the use of groundwater bodies not used for centralized water supply by means of constructing shaft wells, driven filter wells, as well as capping springs that operate without forced water level drawdown on the territory of villages, settlements, and cities, shall be issued by local executive bodies of state authority and self-governing bodies of settlements and villages.
+2.  Permits for the construction of wells and cappings on lands of the state reserve and the state forest fund, as specified in part 1 of this article, shall be issued by local executive bodies of state authority upon the proposal of local land management bodies.
+3.  Special water use on closed (non-flowing) reservoirs located on the territory of a district or city, as well as on streams and dry riverbeds, is carried out on the basis of permits issued by the local executive bodies of state authority of the respective districts and cities.
+
+**Article 50. Granting of Water Bodies for Separate Use**
+
+1.  Water bodies are granted for separate use, in whole or in part, on the basis of a resolution of the Government of the Republic of Tajikistan, a decision of the authorized state body in the field of regulating the use of water resources, or local executive bodies of state authority.
+2.  The resolution on granting surface water bodies for separate use shall indicate the purpose and main conditions for the use of the surface water bodies.
+
+**Article 51. Bodies Granting Water Bodies for Separate Use**
+
+1.  The Government of the Republic of Tajikistan shall grant water bodies or their parts for separate use in cases provided for by part 3 of Article 39 and Article 72 of this Code.
+2.  The authorized state body in the field of regulating the use of water resources shall grant water bodies (with the exception of canals and reservoirs exclusively for irrigation purposes) located on the territory of the Republic of Tajikistan for separate use, except in cases provided for by parts 1 and 3 of this article.
+3.  Local bodies of state authority of districts and cities shall grant closed (non-flowing) reservoirs located within the territory of the district or city for separate use, provided that this does not have a negative impact on other water users.
+
+**Article 52. Documents Certifying the Right to Separate Use of Water Bodies**
+
+1.  The right of water users to the separate use of a water body (with the exception of canals and reservoirs exclusively for irrigation purposes) is certified by state normative legal acts on the right of water use, which are issued by the authorized state body in the field of regulating the use of water resources in cases established by the provision of part 2 of Article 51, and by local bodies of state authority of districts and cities in cases established by the provision of part 3 of Article 51.
+2.  Sample forms of these acts shall be developed and approved by the authorized state body in the field of regulating the use of water resources.
+
+**Article 53. Terms of Use of Water Bodies**
+
+1.  Water bodies are granted for permanent or temporary use.
+2.  Use of water bodies without a predetermined term is recognized as permanent.
+3.  Temporary use of water bodies may be short-term — for five years, and long-term — from five to twenty-five years. If necessary, the terms of use of water bodies may be extended for a period not exceeding the respective terms of short-term or long-term temporary use.
+4.  General use of water bodies is not limited by a term.
+
+**CHAPTER 7. RIGHTS AND OBLIGATIONS OF WATER USERS WHEN USING WATER BODIES**
+
+**Article 54. Rights of Water Users**
+
+In accordance with the designated purpose of the water body granted for use, water users have the right, in the prescribed manner, to:
+- abstract (withdraw) water for its subsequent use;
+- supply abstracted water for use by secondary water users;
+- use water bodies for the drinking and household needs of the population, recreation, the needs of agriculture, industry, electricity generation, transport, fish farming, fishing, hunting, and other needs;
+- construct water management facilities, as well as carry out their reconstruction and decommissioning;
+- use water bodies for recreation, sports, and health-improving activities, maintaining a favorable state of natural complexes, as well as carrying out other actions not prohibited by the legislation of the Republic of Tajikistan;
+- unite into water user associations;
+- create a water user association;
+- receive information on the quantity, quality, and use of water resources;
+- participate in the management and planning of water resources;
+- be members of river basin councils.
+
+**Article 55. Limitation of the Rights of Water Users**
+
+1.  In cases of exceptional low water, emergency situations on water bodies, the threat of epidemics or epizootics, exceeding the established limit for water abstraction (withdrawal), non-payment for water delivery services, and in other cases provided for by the legislation of the Republic of Tajikistan, the rights of water users may be limited in order to protect public health, for other state interests, as well as in the interests of other water users. However, the conditions for using water bodies for the drinking and household needs of the population must not be worsened.
+2.  The limitation of the rights of water users in preventing the adverse impact of water and eliminating its consequences, caused by the harmful effects of water, is regulated by Article 87 of this Code.
+3.  The rights of water users to the separate use of a water body may be limited by the body that granted the said water body for separate use; rights to special water use — by the body that issued the permit for special water use; rights to secondary water use — by the primary water user, as well as by other authorized state bodies in the field of regulation of the use and protection of water resources in accordance with the legislation of the Republic of Tajikistan.
+
+**Article 56. Obligations of Water Users**
+
+Water users are obliged to:
+- use water bodies only for the purposes for which they were granted;
+- rationally use water bodies, take measures for the economical consumption of water, and for the restoration and improvement of water quality;
+- take possible measures for the complete cessation of the discharge of wastewater containing pollutants into water bodies;
+- not permit the violation of the rights of other water users, nor cause harm to the environment;
+- maintain the water management facilities they operate in good working order;
+- make timely payment for water supply services;
+- inform the authorized state bodies in the field of regulation of the use and protection of water resources and local executive bodies of state authority about accidents and other emergency situations on water bodies;
+- keep records, in the prescribed manner, of the volume of water abstraction (withdrawal) from water bodies and the volume of wastewater discharge, their quality, and also to submit the results of such accounting free of charge and within the established deadlines to the authorized state body in the field of regulating the use of water resources;
+- maintain water protection zones in a proper state, observing the regime for the use of the territories, if they are in their use;
+- comply with the established requirements and conditions of the water use contract concluded with the organization supplying the water;
+- fulfill other obligations provided for by the normative legal acts of the Republic of Tajikistan.
+
+**Article 57. Incentives for Water Users Implementing Measures for the Rational Use and Protection of Waters**
+
+The procedure for providing incentives to water users who implement socially useful measures for the rational use and protection of waters shall be determined by the Government of the Republic of Tajikistan.
+
+**CHAPTER 8. GROUNDS AND PROCEDURE FOR TERMINATION OF THE RIGHT OF WATER USE**
+
+**Article 58. Grounds for Termination of the Right of Water Use**
+
+1.  The right of water use by natural and legal persons is subject to termination on the following grounds:
+    - the need for water use no longer exists or it has been renounced;
+    - expiration of the term of the permit for special water use;
+    - reorganization or liquidation of a legal person, death of a natural person;
+    - transfer of water management facilities to other water users;
+    - emergence of a state need to withdraw water bodies from special and separate use;
+    - the need to reallocate water for use in accordance with a specific river basin management plan;
+    - non-use for three years of a water body for which a permit for special water use has been issued;
+    - on other grounds provided for by the legislation of the Republic of Tajikistan.
+2.  The right of water use (except for the right to use water for drinking and household needs) by natural and legal persons may also be terminated in the event of a violation of the rules for water use and protection, or the use of a water body for purposes other than those for which it was granted, as well as in cases of a significant disruption of the ecological balance of the natural environment.
+3.  A decision to terminate the right of water use may be appealed by the water user in court.
+
+**Article 59. Procedure for Termination of the Right of Water Use**
+
+1.  The right of water use is terminated by:
+    - annulling or suspending the permit for special water use;
+    - withdrawing water bodies granted for separate use.
+2.  The termination of special water use is carried out by a decision of the body that issued the permit for it.
+3.  The right of a secondary water user may be terminated by a decision of the primary water user.
+
+**Article 60. Withdrawal of Water Bodies from Separate Use**
+
+1.  The withdrawal of water bodies from separate use is carried out on the basis of resolutions and decisions of the state bodies that granted the water bodies for separate use in accordance with Article 51 of this Code.
+2.  The withdrawal of water bodies from the use of nature reserves is carried out in accordance with part 4 of Article 72 of this Code.
+
+**Article 61. Compensation for Losses Caused by the Implementation of Water Management Measures, Termination, or Change in the Conditions of Water Use**
+
+Losses caused to natural and legal persons by the implementation of water management measures (hydrotechnical works, etc., except for emergency situations and those related to natural disasters), as well as by the termination or change in the conditions of water use, are subject to compensation in the manner prescribed by the legislation of the Republic of Tajikistan.
+
+**CHAPTER 9. USE OF WATER BODIES**
+
+**Article 62. Basic Requirements for the Use of Water Bodies**
+
+1.  When designing, constructing, reconstructing, and operating water management facilities, measures for the protection of water bodies, as well as aquatic biological resources and other objects of fauna and flora, must be provided for and timely implemented.
+2.  When using water bodies that are part of water management systems, it is not permitted to change the water regime of these water bodies in a way that could lead to the violation of the rights of other water users.
+3.  Work to alter or improve a natural reservoir or watercourse shall be carried out on the condition of preserving its natural origin.
+
+**Article 63. Use of Water Bodies for the Drinking and Household Needs of the Population**
+
+1.  Every citizen of the Republic of Tajikistan has the right to access safe and clean drinking water as an integral component of the realization of all human rights.
+2.  For the drinking and household needs of the population, water bodies protected from pollution and contamination must be used, the suitability of which for these purposes is determined on the basis of sanitary-epidemiological conclusions.
+3.  Sanitary protection zones shall be established for water bodies used for the drinking and household needs of the population in accordance with the legislation of the Republic of Tajikistan.
+4.  In the sanitary protection zones of drinking water sources, the allocation of territory for all types of construction is prohibited or restricted in the manner established by sanitary rules and norms and by projects for the sanitary protection zones of water bodies.
+5.  The authorized body for state public health and social protection supervision, local executive bodies of state authority and self-governing bodies of settlements and villages, and natural and legal persons, in cases where water quality does not meet the requirements of sanitary norms and rules, are obliged to take measures to prevent, suspend, or prohibit the use of the said water bodies.
+6.  The use of groundwater of drinking quality for needs not related to drinking and household water supply is not permitted.
+7.  In territories where there are no surface water bodies but there are sufficient resources of groundwater suitable for drinking water supply purposes, the use of groundwater for purposes not related to drinking and household water supply may be permitted in exceptional cases, in accordance with issued permits for special water use.
+8.  The regulation of other legal and organizational bases of relations in the sphere concerning drinking water and drinking water supply, and the establishment of state guarantees for providing the population with drinking water, is ensured by the legislation of the Republic of Tajikistan on drinking water supply and sanitation.
+
+**Article 64. Use of Water Bodies for Medicinal, Spa, and Health-Resort Purposes**
+
+1.  Water bodies classified in the prescribed manner as medicinal shall be used, first and foremost, for medicinal, spa, and health-resort purposes. A permit for special water use may be issued in exceptional cases for the use of water bodies classified as medicinal for other purposes, in coordination with the authorized body for state public health and social protection supervision.
+2.  The discharge of wastewater into water bodies classified as medicinal is prohibited.
+
+**Article 65. Use of Water Bodies for Recreational Purposes**
+
+1.  The use of water bodies for recreational purposes (rest, tourism, sports) is carried out taking into account the rules for the use of water bodies established by local executive bodies of state authority in accordance with Articles 46 and 47 of this Code.
+2.  The design, construction, reconstruction, commissioning, and operation of buildings, structures, and facilities for recreational purposes, including for the development of beaches, shall be carried out in accordance with the legislation of the Republic of Tajikistan.
+
+**Article 66. Use of Water Bodies for the Purpose of Electricity Generation**
+
+1.  The use of water bodies for the purpose of electricity generation is carried out taking into account the interests of other water users and in compliance with the requirements for the rational use and protection of water bodies.
+2.  Water users operating hydropower facilities are obliged to ensure the regime for the development and filling of reservoirs, taking into account the priority of the drinking and household needs of the population, as well as in accordance with the rules for the operation of reservoirs approved by the authorized state body in the field of regulating the use of water resources.
+3.  Natural and legal persons, in agreement with the owners, may use the engineering capabilities of canals and other existing hydrotechnical structures of various purposes for the generation of electricity, if this does not cause damage to the main purpose of these structures and the environment.
+
+**Article 67. Use of Water Bodies for Agricultural Needs**
+
+1.  The use of water bodies for agricultural needs is carried out in the manner of both general and special water use.
+2.  Natural and legal persons may use water management facilities for the purpose of ensuring and maintaining a water regime that is optimal for agricultural plants on lands of agricultural designation in the manner prescribed by the legislation of the Republic of Tajikistan on land reclamation and irrigation.
+3.  Agricultural water use is carried out for the purposes of agricultural and forestry production, irrigation of household plots, flushing of saline lands, moisture-recharging irrigation, and providing for other agricultural needs.
+4.  Water use from water bodies, watering, irrigation, and watering-irrigation systems is carried out in accordance with water use plans based on contracts between water suppliers and water users.
+5.  Water use plans are approved:
+    - at the on-farm level - by water user associations;
+    - at the inter-farm level - by state land reclamation and irrigation institutions;
+    - at the basin level - by the river basin organization.
+6.  Changes in the volume and timing of water supply to water users shall be made based on the regime of the water body, the availability of water resources in the water body, weather conditions, and other reasons in accordance with established norms.
+7.  The irrigation of land with wastewater shall be coordinated with the authorized state body in the sphere of environmental protection in accordance with the requirements of the legislation of the Republic of Tajikistan.
+8.  Natural and legal persons using water bodies for agricultural needs are obliged to observe the rules for the operation (maintenance) of reclamation systems and separately located water management facilities.
+9.  Natural and legal persons are prohibited from the unauthorized regulation of hydrotechnical structures on canals and reservoirs of inter-farm significance that are not their property, for the purpose of increasing or decreasing the flow of water, as well as constructing temporary weirs, pumping stations, and other structures and devices on them.
+10. The discharge of water from ponds, canals, and other watering facilities into water bodies without a permit for special water use is not permitted.
+11. Driving agricultural animals and mechanical vehicles across water management facilities and devices, as well as using water management facilities and devices for watering agricultural animals, is permitted in places designated for this purpose.
+12. The regulation of other legal and organizational bases of relations concerning the field of land reclamation and irrigation in agriculture is ensured by the legislation of the Republic of Tajikistan on land reclamation and irrigation.
+
+**Article 68. Use of Water Bodies for Industrial Purposes**
+
+1.  Water users who use water bodies for industrial purposes are obliged to comply with technological norms and rules of water use, as well as to take measures to reduce water consumption and cease the discharge of wastewater by improving production technology and water supply schemes (application of waterless technological processes, water recycling, and other technological methods).
+2.  Local executive bodies of state authority, in the event of a natural disaster, accident, low water, and other exceptional circumstances, have the right to reduce or prohibit the consumption of drinking water from the municipal network for industrial purposes and to temporarily restrict it from departmental domestic-drinking water pipelines in the interests of giving priority to satisfying the drinking and domestic needs of the population.
+3.  Groundwater not classified as drinking or medicinal may, in the manner established by the Government of the Republic of Tajikistan, be used for technical water supply, the extraction of chemical elements contained therein, the generation of thermal energy, and other production needs, subject to compliance with the requirements for the rational use and protection of water.
+
+**Article 69. Use of Surface Water Bodies for Water and Air Transport Purposes**
+
+1.  Rivers, lakes, and reservoirs are public waterways, except in cases where their use for these purposes is fully or partially prohibited or they have been granted for separate use.
+2.  The procedure for classifying waterways as navigable and the rules for their operation shall be approved by the Government of the Republic of Tajikistan.
+3.  The procedure for using water bodies for parking, takeoff, and landing, as well as for other needs of air transport, shall be determined by the Government of the Republic of Tajikistan.
+
+**Article 70. Use of Water Bodies for the Purposes of Fish Farming and Fishing**
+
+The use of water bodies of fishery significance for the purposes of fish farming and fishing, as well as the regulation of the legal framework for activities in the field of fish farming, fishing, and the protection of fish resources, is carried out in accordance with the legislation of the Republic of Tajikistan on fish farming, fishing, and the protection of fish resources.
+
+**Article 71. Use of Water Bodies for the Needs of the Hunting Economy**
+
+1.  On rivers, lakes, and other water bodies that are habitats for wild waterfowl and valuable fur-bearing animals, the authorized state body in the field of regulating the use of water resources may grant preferential rights of water use to organizations of the hunting economy, taking into account the requirements of integrated water resource management.
+2.  The procedure for using water bodies for the needs of the hunting economy (breeding of waterfowl and fur-bearing animals, cultivation of aquatic plants, and implementation of other measures necessary for managing the hunting economy) shall be developed by the authorized state body in the field of environmental protection and coordinated with the authorized state body in the field of regulating the use of water resources, the authorized body for state public health and social protection supervision, and other relevant bodies, and approved by the Government of the Republic of Tajikistan.
+
+**Article 72. Use of Water Bodies for the Needs of Nature Reserves**
+
+1.  Water bodies of special scientific or cultural value shall be declared protected in the manner prescribed by the Government of the Republic of Tajikistan and granted for perpetual separate use to nature reserves for the purpose of nature protection and scientific research.
+2.  Water bodies that are declared protected shall be granted for use to nature reserves on the basis of a resolution of the Government of the Republic of Tajikistan.
+3.  The procedure for using the waters of nature reserves is determined by the regulations on nature reserves.
+4.  The withdrawal of water bodies from the use of nature reserves is permitted in cases of special necessity by the Government of the Republic of Tajikistan.
+5.  Water bodies of scientific and cultural value that have been declared protected may be recognized as natural or cultural monuments by a resolution of the Government of the Republic of Tajikistan. The decision to recognize water bodies as natural or cultural monuments and to establish special conditions for their use shall be brought to the attention of the public and interested organizations.
+
+**Article 73. Use of Water Bodies for Firefighting Needs and Elimination of Emergency Situations**
+
+1.  The abstraction (withdrawal) of water from water bodies for firefighting needs and the elimination of emergency situations is permitted. Water is abstracted free of charge and without a special permit in the quantity necessary to extinguish a fire and eliminate an emergency situation.
+2.  It is prohibited to use water from water bodies specially designated for firefighting needs for purposes other than its intended use.
+
+**Article 74. Use of Water Bodies for the Discharge of Wastewater**
+
+1.  The use of water bodies for the discharge of industrial, municipal-domestic, drainage, and other wastewater may be carried out only after obtaining a permit for special water use. The permit is issued on the basis of documents justifying the necessity and possibility of using water bodies for wastewater discharge.
+2.  The discharge of wastewater into water bodies classified as drinking water sources is prohibited.
+3.  The discharge of wastewater is permitted only in cases where it will not lead to an increase in the content of pollutants in the water body above the established norms.
+4.  The procedure and conditions for using water bodies for the discharge of wastewater are established in accordance with normative legal acts in the sphere of environmental protection.
+
+**Article 75. Operation of Reservoirs**
+
+1.  Natural and legal persons operating water conduits, water release, or water intake structures on reservoirs are obliged to comply with the regime for filling and drawdown of the reservoirs, established taking into account the interests of water users and land users located in the zones of influence of the reservoirs.
+2.  The rules for the use of reservoirs, including reservoirs of special strategic importance, shall be approved by the authorized state body in the field of regulating the use of water resources in coordination with the authorized body for state public health and social protection supervision, the authorized state body in the field of land reclamation and irrigation, and other relevant bodies.
+3.  The organization and coordination of measures ensuring the proper technical condition and improvement of reservoirs, as well as control over compliance with their operating rules, are carried out by the authorized state body in the field of regulating the use of water resources.
+4.  The provisions of parts 1, 2, and 3 of this article also apply to the operation of lakes and other water bodies used as reservoirs.
+5.  The list of reservoirs for each of which rules for the use of reservoirs are developed shall be established by the Government of the Republic of Tajikistan.
+6.  The use of reservoirs, with the exception of the reservoirs specified in part 5 of this article, shall be carried out in accordance with the standard rules for the use of reservoirs approved by the Government of the Republic of Tajikistan.
+7.  The procedure for developing, coordinating, and approving the rules for the use of reservoirs shall be determined by the Government of the Republic of Tajikistan.
+
+**CHAPTER 10. PROTECTION OF WATER BODIES**
+
+**Article 76. Basic Requirements for the Protection of Water Bodies**
+
+1.  The protection of water bodies is carried out by state bodies within their powers in accordance with the legislation of the Republic of Tajikistan in the field of environmental protection, state public health and social protection supervision, veterinary supervision, and this Code.
+2.  When using water bodies, natural and legal persons are obliged to implement water management measures and measures for the protection of water bodies in accordance with this Code and the legislation of the Republic of Tajikistan in the field of environmental protection.
+
+**Article 77. Protection of Water Bodies from Pollution and Contamination**
+
+1.  The discharge of production and consumption waste and other waste that has a harmful effect on water quality into water bodies is prohibited.
+2.  The owners of water transport means, pipelines, floating and other structures on water bodies are obliged to prevent the pollution and contamination of waters due to losses of oils, chemical, and petroleum products.
+3.  Measures to prevent the pollution of water bodies due to accidents and other emergency situations and to eliminate their consequences are determined by the legislation of the Republic of Tajikistan.
+4.  The content of radioactive substances, pesticides, agrochemicals, and other substances and compounds hazardous to human health in water bodies must not exceed the respective maximum permissible levels of the natural radiation background characteristic of individual water bodies, and other standards established in accordance with the legislation of the Republic of Tajikistan.
+5.  The burial of radioactive and toxic substances in water bodies is prohibited.
+6.  The discharge into water bodies of wastewater in which the content of radioactive substances, pesticides, agrochemicals, and other substances and compounds hazardous to human health exceeds the standards for permissible impact on water bodies is prohibited.
+7.  The conduct of blasting operations on water bodies that release radioactive and/or toxic substances is prohibited.
+
+**Article 78. Protection of Glaciers and Snowfields from Pollution and Contamination**
+
+1.  The pollution of glaciers and snowfields with production and consumption waste, and their contamination with petroleum products, toxic chemicals, and other harmful substances are prohibited.
+2.  The abstraction (withdrawal) of ice from glaciers must not have a negative impact on the state of water bodies and lead to water depletion.
+
+**Article 79. Protection of Groundwater Bodies**
+
+1.  Natural and legal persons whose activities have or may have a negative impact on the state of groundwater bodies are obliged to take measures to prevent the pollution and contamination of groundwater bodies and water depletion, as well as to comply with the established standards for permissible impact on groundwater bodies.
+2.  In the catchment areas of groundwater bodies that are used or may be used for the drinking and household needs of the population, it is not permitted to place production and consumption waste disposal sites, cemeteries, cattle burial grounds, and other facilities that have a negative impact on the state of groundwater.
+3.  The use of wastewater for irrigating and fertilizing land in areas with a shallow groundwater level may be carried out in accordance with the legislation of the Republic of Tajikistan in the field of environmental protection and sanitary-epidemiological supervision.
+4.  If underground aquifers are discovered during the use of the subsoil, natural and legal persons are obliged to immediately inform the authorized state body in the field of regulating the use of water resources and, in the prescribed manner, take measures to protect groundwater from pollution and depletion, and equip artesian wells with regulating devices and control means.
+5.  When designing, constructing, reconstructing, commissioning, and operating water intake structures related to the use of groundwater bodies, measures must be provided to prevent the negative impact of such structures on water bodies and other objects of the environment.
+
+**Article 80. Protection of Water Bodies during the Design, Construction, Reconstruction, Commissioning, and Operation of a Water Management System**
+
+1.  When designing, constructing, reconstructing, commissioning, and operating a water management system, and when introducing new technological processes, their impact on the state of water bodies must be taken into account, and the standards for permissible impact on water bodies must be observed, except in cases established by the legislation of the Republic of Tajikistan.
+2.  The commissioning of facilities intended for irrigating and fertilizing land with wastewater is not permitted without the creation of observation points for the water regime and water quality in water bodies.
+3.  The design of direct-flow technical water supply systems is not permitted.
+4.  During the operation of a water management system, it is prohibited to:
+    - discharge into water bodies wastewater that has not undergone sanitary treatment and neutralization (based on the inadmissibility of exceeding the standards for permissible impact on water bodies and the standards for maximum permissible concentrations of harmful substances in water bodies);
+    - abstract (withdraw) water resources from a water body in a volume that has a negative impact on the water body;
+    - discharge into water bodies wastewater that contains pathogens of infectious diseases, as well as harmful substances for which maximum permissible concentration standards have not been established.
+5.  Violation of the requirements for the use and protection of water bodies shall result in the limitation, suspension, or prohibition of the operation of water management system facilities in the manner provided for by this Code and other legislative acts of the Republic of Tajikistan.
+
+**Article 81. Protection of Water Bodies during the Conduct of Works**
+
+1.  The conduct of construction, dredging, blasting, drilling, and other relevant works related to changing the bed and banks of water bodies within their water protection zones shall be carried out in accordance with the requirements of water legislation and the legislation of the Republic of Tajikistan.
+2.  Water users who use water bodies for the abstraction (withdrawal) of water resources are obliged to take measures to prevent fish from entering water intake structures and to implement measures to prevent the pollution of groundwater and the rise of its level.
+3.  Irrigation, including the use of wastewater whose quality meets the requirements of the standards for permissible impact on water bodies, drainage, and other land reclamation works must be carried out simultaneously with the implementation of environmental protection measures and measures to protect water bodies and their catchment areas.
+4.  Natural and legal persons carrying out construction, dredging, blasting, drilling, and other relevant works related to changing the bed and banks of water bodies are obliged to implement measures for the protection of water bodies and the prevention of their pollution and contamination.
+
+**Article 82. Protection of Water Bodies during their Use for Electricity Generation**
+
+1.  Water users who use water bodies to meet the technological needs of thermal power generation are obliged to comply with the temperature regime of the water bodies.
+2.  The use of water bodies for the purpose of electricity generation by hydropower facilities is carried out taking into account the interests of other water users, compliance with the requirements for the use and protection of water bodies, requirements for the conservation of aquatic biological resources and other objects of fauna and flora, and requirements for the prevention of the adverse impacts of water and the elimination of its consequences.
+3.  To ensure the safe and accident-free functioning and safe operation of hydropower facilities, protection zones with special conditions for water use and use of sections of the coastal strip (including sections adjacent to hydropower facilities) shall be established in the water areas of water bodies, on sections of the coastal strip (including sections adjacent to hydropower facilities), and on sections of the floodplain.
+4.  The procedure for establishing protection zones for the said facilities, and the special conditions for water use and use of sections of the coastal strip (including sections adjacent to hydropower facilities) within their boundaries, shall be determined by the Government of the Republic of Tajikistan.
+
+**Article 83. Basins and Sanitary Protection Zones of Water Bodies whose Water Resources are Medicinal**
+
+1.  In order to protect water bodies whose water resources are medicinal, basins and sanitary protection zones shall be established in accordance with the legislation of the Republic of Tajikistan.
+2.  The withdrawal of sanitary zones of water bodies whose water resources are medicinal for other needs is prohibited.
+
+**Article 84. Water Protection Zones and Coastal Protection Strips**
+
+1.  Water protection zones are territories that adjoin the shoreline (boundaries of the water body) of rivers, streams, canals, lakes, and reservoirs, and on which a special regime for carrying out economic and other activities is established in order to prevent the pollution, contamination, and silting of the said water bodies and the depletion of their waters, as well as to preserve the habitat of aquatic biological resources and other objects of fauna and flora.
+2.  Within the boundaries of water protection zones, coastal protection strips are established, in the territories of which additional restrictions on economic and other activities are introduced.
+3.  Water protection zones include:
+    - sanitary protection zones of surface and groundwater bodies that are used for the abstraction (withdrawal) of water for the drinking and household needs of the population;
+    - water protection zones of rivers, streams, canals, lakes, and reservoirs.
+4.  Sanitary protection zones of water bodies, water protection zones of rivers, streams, canals, lakes, reservoirs, and their coastal protection strips shall be established on the ground in accordance with projects developed by the authorized state body in the field of environmental protection, the authorized body for state public health and social protection supervision, the authorized state body in the field of land reclamation and irrigation, and the authorized state body in the field of regulating land relations. Projects for water protection zones, which also include coastal protection strips, shall be approved by the Government of the Republic of Tajikistan or, on its instruction, by the state body authorized to do so.
+5.  Water protection zones that fall under the competence of local executive bodies of state authority shall be established on the ground in the same manner at the appropriate level, and the projects shall be approved by the local structures of the relevant state bodies on site.
+6.  Within the boundaries of water protection zones, the following are prohibited:
+    - the use of wastewater for the purpose of regulating soil fertility;
+    - the placement of cemeteries, cattle burial grounds, production and consumption waste disposal sites, chemical, explosive, toxic, poisonous, and venomous substances, and radioactive waste disposal sites;
+    - the implementation of aerial measures to combat harmful organisms;
+    - the movement and parking of vehicles (except for special vehicles), except for their movement on roads and parking on roads and in specially equipped places with a hard surface;
+    - the placement of gas stations, fuel and lubricant warehouses, and technical service stations used for the technical inspection and repair of vehicles, and the washing of vehicles;
+    - the placement of specialized storage facilities for pesticides and agrochemicals, and the application of pesticides and agrochemicals;
+    - the discharge of wastewater;
+    - the prospecting and extraction of commonly occurring minerals (except in cases where the prospecting and extraction of commonly occurring minerals are carried out by subsoil users. The prospecting and extraction of other types of minerals within the boundaries granted to them are carried out in accordance with the legislation of the Republic of Tajikistan on subsoil on the basis of an approved technical project).
+7.  Within the boundaries of water protection zones, the design, construction, reconstruction, commissioning, and operation of economic and other facilities are permitted, provided that such facilities are equipped with structures that ensure the protection of water bodies from pollution, contamination, silting, and water depletion in accordance with the legislation of the Republic of Tajikistan.
+8.  The choice of the type of structure that ensures the protection of a water body from pollution, contamination, silting, and water depletion is made taking into account the need to comply with the standards for permissible discharges of polluting substances, other substances, and microorganisms established in accordance with the legislation of the Republic of Tajikistan in the field of environmental protection. For the purposes of this article, structures that ensure the protection of water bodies from pollution, contamination, silting, and water depletion are understood to be:
+    - centralized sanitation systems (sewerage), centralized storm water drainage systems;
+    - structures and systems for diverting (discharging) wastewater into centralized sanitation systems (including rainwater, meltwater, infiltration water, wash water, and drainage water), if they are intended for the reception of such water;
+    - local treatment facilities for wastewater treatment (including rainwater, meltwater, infiltration water, wash water, and drainage water), ensuring their treatment based on the standards established in accordance with the requirements of the legislation of the Republic of Tajikistan in the field of environmental protection and this Code;
+    - structures for the collection of production and consumption waste, as well as structures and systems for diverting (discharging) wastewater (including rainwater, meltwater, infiltration water, wash water, and drainage water) into receivers made of waterproof materials.
+9.  The establishment on the ground of the boundaries of water protection zones and the boundaries of coastal protection strips of water bodies, including by means of special information signs, shall be carried out in the manner prescribed by the Government of the Republic of Tajikistan.
+
+**Article 85. Specially Protected Water Bodies**
+
+1.  Water bodies or their parts that have special ecological, scientific, cultural, aesthetic, recreational, and health-improving significance may be recognized as specially protected water bodies.
+2.  The status, special protection regime, and boundaries of the territories within which the water bodies specified in part 1 of this article are located shall be established in accordance with the legislation of the Republic of Tajikistan on specially protected natural territories.
+3.  The special regime for the use of a water body or its part within the boundaries of which an object of archaeological heritage is located provides for the possibility of carrying out works defined by this Code, provided that the integrity of the object of archaeological heritage included in the state register of objects of historical and cultural heritage of the Republic of Tajikistan, or a discovered object of archaeological heritage, is ensured, as well as ensuring public access to the said objects and the conduct of archaeological fieldwork in the manner prescribed by the legislation of the Republic of Tajikistan.
+
+**Article 86. Ecological Disaster Zones and Emergency Situation Zones on Water Bodies**
+
+1.  In accordance with the legislation of the Republic of Tajikistan in the field of environmental protection and the legislation in the field of protection of the population and territories from natural and man-made emergency situations, water bodies and river basins in which, as a result of man-made and natural phenomena, changes occur that pose a threat to the health or life of the population, objects of fauna and flora, and other objects of the environment may be declared ecological disaster zones and emergency situation zones.
+2.  Bottom sediment may be used to prevent the adverse impact of water in the event of emergency situations and to eliminate the consequences of such situations in accordance with the legislation of the Republic of Tajikistan in the field of protection of the population and territories from natural and man-made emergency situations.
+
+**Article 87. Prevention of the Adverse Impact of Water and Elimination of its Consequences**
+
+1.  In order to prevent the adverse impact of water (flooding, waterlogging, destruction of the banks of water bodies, swamping) and to eliminate its consequences, special protective measures, including bank reinforcement and mudflow protection measures, shall be carried out in accordance with this Code and other legislative acts of the Republic of Tajikistan.
+2.  The placement of new populated areas and the construction of capital construction projects without carrying out special protective measures to prevent the adverse impact of water within the boundaries of flood and waterlogging zones are prohibited.
+3.  Within the boundaries of flood and waterlogging zones, the following are prohibited:
+    - the use of wastewater for the purpose of regulating soil fertility;
+    - the placement of cemeteries, cattle burial grounds, production and consumption waste disposal sites, chemical, explosive, toxic, poisonous, and venomous substances, and radioactive waste storage and disposal sites;
+    - the implementation of aerial measures to combat harmful organisms.
+4.  The boundaries of flood and waterlogging zones shall be determined by the authorized state body in the sphere of emergency situations with the participation of the relevant structures of local executive bodies of state authority and self-governing bodies of settlements and villages.
+5.  Measures to prevent the adverse impact of water and to eliminate its consequences with respect to water bodies shall be carried out by the relevant bodies authorized by the Government of the Republic of Tajikistan, local executive bodies of state authority, and self-governing bodies of settlements and villages.
+
+**CHAPTER 11. RESOLUTION OF DISPUTES IN THE FIELD OF WATER RELATIONS**
+
+**Article 88. Resolution of Disputes in the Field of Water Relations**
+
+Disputes in the field of water relations between participants in water relations shall be resolved through negotiations between the parties, their consideration by the Government of the Republic of Tajikistan, the National Water Council, river basin councils, authorized state bodies in the field of regulation of the use and protection of water resources, local executive bodies of state authority, self-governing bodies of settlements and villages, bodies created by citizens and water user associations, within their competencies, or in courts in the manner prescribed by the legislation of the Republic of Tajikistan.
+
+**Article 89. Procedure for the Resolution of Property Disputes in the Field of Water Relations**
+
+Property disputes in the field of water relations shall be resolved in the manner prescribed by the legislation of the Republic of Tajikistan.
+
+**CHAPTER 12. INTERNATIONAL COOPERATION IN THE FIELD OF WATER RELATIONS**
+
+**Article 90. International Cooperation in the Field of Water Relations**
+
+In its foreign policy in the field of water relations, the Republic of Tajikistan proceeds from the need to ensure the sustainable development of the national economy, the effective, rational use and protection of water resources based on compliance with the principles of international water law, expanded mutually beneficial and friendly cooperation with foreign states, ensuring universal environmental security, and developing international cooperation in the field of water relations.
+
+**Article 91. Economic Bases of Water Relations with Other States**
+
+The economic bases of water relations with other states are established on the basis of inter-state agreements and international legal acts recognized by Tajikistan.
+
+**CHAPTER 13. FINAL PROVISIONS**
+
+**Article 92. Liability for Non-Compliance with the Requirements of this Code**
+
+Natural and legal persons shall be held liable for non-compliance with the requirements of this Code in the manner prescribed by the legislation of the Republic of Tajikistan.
+
+**Article 93. Compensation for Harm Caused to Water Bodies**
+
+1.  Persons who have caused harm to water bodies shall compensate for it voluntarily or through court proceedings.
+2.  The methodology for calculating the amount of harm caused to water bodies as a result of a violation of the legislation of the Republic of Tajikistan shall be approved in the manner established by the Government of the Republic of Tajikistan.
+
+**Article 94. On Declaring the Water Code of the Republic of Tajikistan Invalid**
+
+To declare invalid the Water Code of the Republic of Tajikistan, adopted by the Law of the Republic of Tajikistan of November 29, 2000, No. 34 (Bulletin of the Majlisi Oli of the Republic of Tajikistan, 2000, No. 11, Art. 510; 2006, No. 3, Art. 164; 2008, No. 3, Art. 200; 2009, No. 12, Art. 824; 2011, No. 6, Art. 455; 2012, No. 4, Art. 271).
+
+**Article 95. Procedure for the Entry into Force of this Code**
+
+This Code shall enter into force after its official publication.
+
+**President of the Republic of Tajikistan**
+**Emomali Rahmon**
+
+Dushanbe, April 2, 2020, No. 1688
+

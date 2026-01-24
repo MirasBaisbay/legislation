@@ -1,0 +1,1614 @@
+
+
+--- PAGE 1 ---
+
+THE GUME VALLEY WATER COMPANY ,   2016
+ARRANGEMENT   OF   SECTIONS
+Section.
+PART 1–PRELIMINARY
+1.
+Interpretation.
+PART II – ESTABLISHMENT   OF  NATIONAL
+             WATER  RESOURCES  MANAGEMENT  AGENCY
+2.
+Establishment of National Water Resources Management Agency.
+3.
+Use of water resources.
+4.
+Board of Agency.
+5.
+Tenure of members.
+6.
+Meetings of Board.
+7.
+Disclosure of  interest.
+8.
+Immunity of members of Board, etc.
+9.
+Committees of Board.
+10.
+ Remuneration of members.
+11.
+Filling of vacancies.
+12.
+Independence of Agency.
+PART III – FUNCTIONS  OF  AGENCY  AND  ADMINISTRATIVE   PROVISIONS
+13.
+Functions of Agency.
+14.
+Director-General.
+15.
+Other Directors of Agency  .
+16.
+Other staff of Agency.
+17.
+Secondment of public officers.
+18.
+ Protection of officers.
+19.
+Consultants and experts.
+ACT
+Supplement to the Sierra Leone Gazette Vol. CXLVIII, No. 48
+dated 17th August, 2017
+ii
+PART IV – FINANCIAL  PROVISIONS
+20.
+National Water Resources Management Fund.
+21.
+Accounts and audit of Agency.
+22.
+Financial year of Agency.
+23.
+Annual Report.
+PART V–THE   WATER   BASIN   MANAGEMENT   BOARDS
+24.
+Declaration of National Water Basins.
+25.
+Water Basin Management Board.
+PART VI–THE   WATER CATCHMENT   AREA   MANAGEMENT
+COMMITTEE
+26.
+Declaration of protected Catchment Areas.
+27.
+The Water Catchment Area Management Committees.
+PART VII-WATER  USE  AND  PERMIT  PROCEDURES
+28.
+Regulation of water use.
+29.
+Application for water use permit.
+30.
+Refusal to grant permit.
+31.
+Registration of water use.
+32.
+Public notification.
+33.
+Objections.
+PART–VIII-MONITORING    AND   INFORMATION   SYSTEMS
+34.
+Monitoring ,  reporting and information systems.
+PART IX–OFFENCES  AND  PENALTIES
+35.
+Offences and penalties.
+PART X–MISCELLANEOUS
+36.
+Regulations.
+37.
+Repeal and savings.
+
+
+--- PAGE 2 ---
+
+Short title.
+No. 5
+2017
+Sierra Leone
+THE  NATIONAL   WATER   RESOURCES
+MANAGEMENT  AGENCY ACT ,  2017.
+Being an Act to provide for the equitable, beneficial, efficient,
+and sustainable use and management of the country’s water
+resources; to establish a National Water Resources Management
+Agency; to provide a  Water Basin Management Board and Water
+Catchment  Area Management Committees for the management of
+the water resources and for other related matters.
+[
+]
+ENACTED by the President and Members of Parliament in this
+present Parliament assembled.
+Date of com-
+mencement.
+SIGNED this   3rd  day of  August , 2017.
+DR. ERNEST BAI KOROMA,
+President.
+LS
+
+
+--- PAGE 3 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+ PART I – PRELIMINARY
+1.
+In this Act, unless the context otherwise requires–
+"Agency" means the National Water Resources
+Management Agency established by section 2;
+"basin" means the land area formed by drainage
+boundaries of major river systems delineated by
+natural topographical features and international
+borders, which may be subdivided into a number of
+constituent parts and which includes both surface
+water and groundwater resources;
+ "basin strategy" means a water strategy adopted for
+a basin;
+ "Water Basin Management Board" means  Water
+Basin Management Boards established by section
+25;
+ "beneficial use" means the use of water including the
+method of diversion, storage, transportation and
+application of water  resources which is reasonable
+and consistent with public interest, including
+domestic, energy, agriculture, commercial, industrial,
+navigational and recreational use;
+  "catchment area" means the area from which any
+rainfall will drain into the watercourse or
+watercourses or part of a watercourse through
+surface flow to a common point or common   points;
+"contained water" means underground streams, water
+upon the surface of the earth in bounds created
+naturally or artificially and the sub-flow of the
+water;
+"court"   means the High Court;
+"existing right" means any right to water resources:
+(a)
+which on the commencement of this Act has
+been lawfully acquired, is possessed by and
+is being  beneficially used by any person; or
+ (b)
+lawfully acquired by any person before the
+commencement of this Act for the purpose
+of supplying water to the public
+ "fund" means the National Water Resources
+Management Fund established by section 20;
+"groundwater" means water from aquifers or other
+underground sources;
+ "holder" means a person who has been granted water
+permit under this Act;
+"Integrated Water Resources Management" means the
+subscribed principles of integrated water resources
+management  which promote the coordinated
+development and management of water, land and
+related resources in order to maximize the resultant
+economic and social welfare in an equitable manner
+without compromising the sustainability of vital
+ecosystems;
+ "Minister" means the Minister  responsible   for Water
+Resources and Ministry shall be construed
+accordingly;
+"National Water Basin" means  a  National Water Basin
+     declared by the Agency under section 24;
+2
+3
+Interpretation.
+
+
+--- PAGE 4 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+ "pollution" means any natural, man-made or man aided
+alteration of the chemical, physical or biological
+quality of the  environment to the extent that it is
+detrimental to the environment or beyond acceptable
+limits and pollutants shall be construed accordingly;
+    "protected catchment area" means any area declared
+by the Minister to be preserved for the protection of
+water resources in or derived from the area;
+ "Water Catchment Area  Management Committees"
+means the Water Catchment Area Management
+Committees established by section 27;
+  "reserve" in relation to water resources means that
+quantity of water required to-
+(a)
+satisfy basic human needs for all people who
+are or may be supplied from the water
+resources; and
+ (b)
+maintain significant environmental services
+of the water resource including protection of
+aquatic ecosystems;
+ "surface water" means any natural or man-made body
+of water  flowing or standing on the surface of the
+land including rivers, streams, lakes, reservoirs,
+lagoons, wetlands, swamps, creeks deltas and
+estuaries;
+ "waste" means any material that is suspended,
+dissolved or  transported in water (including
+sediment) and which is spilled or deposited on land
+or into water resources in such volume, composition
+or manner as to cause or be reasonably likely to
+cause the water resource to be polluted;
+ "water bodies" means any ground water or surface
+water;
+4
+5
+ "watercourse" means any natural channel or
+depression in  which water flows regularly or
+intermittently;
+ "water resources" means all water flowing over the
+surface of
+the ground or contained in or flowing
+from any river, spring, stream, natural or artificial lake,
+part of a swamp, beneath a water course and all
+underground water but excluding any pond or
+swamp wholly contained within the boundaries of
+any  private land;
+  "water resources of Sierra Leone" means all water
+resources in any form, including atmosphere, surface
+and underground whether the water resources are
+in territorial waters, exclusive economic zone or any
+area under the jurisdiction of the  Republic of Sierra
+Leone;
+ "works" means any construction or activity for or
+related to use of water;
+PART II–ESTABLISHMENT  AND  FUNCTIONS  OF  NATIONAL
+            WATER  RESOURCES  MANAGEMENT  AGENCY
+2.
+(1)
+There is hereby established a body to be known as
+the   National Water Resources Management Agency which shall be
+resposible to ensure that the water resources of the country are
+controlled in a sustainable manner taking into account:
+(a)
+adopting natural river basin and aquifer
+boundaries as the basic units of management
+of water resources;
+(b)
+protecting the water resources for
+sustainability of the resource and protection
+of aquatic systems and recognizing the
+polluter-pays  principle;
+Establishment
+of  National
+Water
+Resources
+Management
+Agency.
+
+
+--- PAGE 5 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(c)
+providing for existing customary uses of
+water and avoidance of significant harm to
+other users;
+(d)
+promoting the efficient and beneficial use of
+water resources in the public interest;
+(e)
+promoting community participation and
+gender equity in the allocation of water
+resources;
+(f)
+promoting conservation and recognizing the
+economic value of water resources;
+(g)
+reducing and preventing pollution and
+degradation of water resources; and
+(h)
+meeting international obligations in
+protecting and managing transboundary
+water bodies.
+(2)
+The Agency shall be a body corporate having
+perpetual  succession and capable of acquiring, holding and
+disposing of any   property, whether   movable or immovable, and of
+suing and being sued in  its corporate name and, subject to this Act,
+of performing all such acts as bodies corporate may by law perform.
+(3)
+The Agency shall have a common seal, the use of
+which shall be authenticated by the signatures of -
+(a)
+the Chairman or other member of the Board
+authorised either generally or specially by the
+Board in that behalf; and
+(b)
+the Director-General or some other person
+authorised by the Board in that behalf.
+(4)
+The Agency and other water institutions established
+by this Act shall in the performance of their duties be guided by the
+following principles:
+(a)
+consultation and participation of relevant
+state institutions, local communities,  women
+and other relevant stakeholders
+(b)
+management of water resources at the lowest
+possible level
+(c)
+administrative efficiency transparency and
+accountability; and
+(d)
+promotion of integrated water resources
+management.
+(5)
+In implementing the principles under subsections (1)
+and (2) of this section, the Agency established under this Act shall
+promote the integrated water resources management and the
+coordinated management of:
+(a)
+economic development, social welfare and
+environmental sustainability;
+(b)
+land and water resources
+(c)
+the river basin and its adjacent marine and
+coastal environment; and
+(d)
+upstream and downstrem interests.
+3.
+(1)
+The property in and control of all water resources is
+vested in the Government and people of Sierra Leone.
+(2)
+Notwithstanding anything to the contrary in this Act
+or any other enactment, no person shall:
+(a)
+divert, dam, store, dredge, abstract or use
+water resources; or
+(b)
+construct or maintain any works for the use
+of water resources, except in acordance with
+the provisions of this Act.
+(3)
+Notwithstanding the provision in subsection (2)  a
+person may, without a permit:
+6
+7
+Use of water
+resources.
+
+
+--- PAGE 6 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(a)
+take water from a water course to which the
+public has free access for the purpose of
+reasonable domestic use or for watering
+domestic livestock;
+(b)
+use water for the purposes of subsistence
+fishing or for navigation to the extent that
+such use is not inconsistent with the
+provisions of this Act or any other existing
+law;
+(c)
+where a statutory or customary right of
+occupancy to any land exists, take or use
+water without charge from the underground
+water source or if abutting the bank of any
+watercourse, from that watercourse for
+reasonable domestic use, watering livestock
+and for personal irrigation and not for
+commercial purpose.
+(4)
+A person may continue with an existing lawful water
+use, including customary use, in accordance with  the exempted water
+use section of this Act.
+4.
+(1)
+The governing body of the Agency shall be a Board
+in which shall be vested, subject to this Act, the control and
+supervision of the Agency.
+(2)
+The Board shall consist of a Chairman who shall have
+considerable knowledge and proven experience in water resources
+management and the following other members -
+ (a)
+the Permanent Secretary of the Ministry or
+his representative not below the rank of
+Director;
+                                 (b) the Permanent Secretary of the Ministry
+responsible   for Energy or his representative
+not below the rank  of Director;
+                                 (c)
+the Permanent Secretary of the Ministry
+responsible  for Local Government and Rural
+Development or  his representative not below
+the rank of Director;
+(d)
+the Permanent Secretary of the Ministry
+responsible  for Lands or his representative
+not below the rank of Director;
+(e)
+the Executive Chairman, Environment
+Protection Agency or his representative not
+below the rank of Director;
+(f)
+the Director General,  National Minerals
+Agency or his representative not below the
+rank of Director;
+(g)
+the Chairman, National Council of Paramount
+Chiefs ;
+ (h)
+the Managing Director,  of Guma Valley Water
+Company or his representative not below the
+rank of Director;
+ (i)
+ the Director General, of Sierra Leone Water
+Company or his representative not below the
+rank of Director;
+ (j)
+the Director, Sierra Leone Meteorological
+Services or his representative not below the
+rank of Director;
+ (k)
+ two representatives from Civil Society
+Organisations one of whom shall be a woman
+dealing with water resources management
+appointed by the Minister ;
+(l)
+the Executive Director, National Protected
+Area Authority, or his representative not
+below the rank of Director;
+(m)
+ the Director-General who shall serve as
+secretary
+(n)
+the Permanent Secretary, Ministry of
+Agriculture, or his representative not below
+the rank of Director
+8
+9
+Board of
+Agency.
+
+
+--- PAGE 7 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(3)
+The Chairman shall be appointed by the President
+after consultations with the Minister and subject to the approval of
+Parliament on such terms as may be stated in his letter of appointment.
+5.
+(1)
+The Chairman shall hold office for a period of 3 years
+ and shall be eligible for re-appointment for another term of 3 years
+and may at any time by notice in writing to the Minister resign his
+office.
+(2)
+A person shall cease to be a member of the Board on
+any of the following grounds-
+(a)
+for his inability to perform the functions of
+his office by reason of infirmity of mind or
+body;
+(b)
+for proven misconduct;
+(c)
+if he becomes bankrupt or insolvent;
+(d)
+if he is convicted and sentenced for an
+offence involving fraud or dishonesty;
+(e)
+if he fails to attend three consective meetings
+of the board without reasonable cause,or
+(f)
+if he resigns his office by written notice to
+the  Minister.
+6.
+(1)
+The Board shall meet for the dispatch of its business
+at least once every three months at such times and places as the
+Chairman may determine.
+(2) The Chairman shall preside at every meeting of the
+Board, if  present, and in his absence, the members present shall
+appoint a member from among their number to preside at that
+meeting.
+(3)
+A minimum of not less than one-third of members of
+the Board may, by notice in writing signed by them, request the
+Chairman to summon a special meeting of the Board for such purposes
+as may be  stated in the notice:
+ (4) The Chairman or, in his absence, the member
+appointed to act in his behalf shall summon a special meeting within
+five days of  his  receipt of the notice referred to in subsection (3).
+(5)
+The quorum at any meeting of the Board shall be 9.
+(6) The Chairman or other person presiding shall have a
+casting vote where there is an equality of votes.
+(7)
+Any proposal circulated among all members and
+agreed to in writing by a two-thirds majority of all members shall be
+of the same force or effect as a decision made at a duly constituted
+meeting of the Board and shall be incorporated in the minutes of the
+next succeeding meeting of the Board:
+Provided that, if a member requires that such proposal be placed
+before a meeting of  the Board, this subsection shall not apply to
+such proposal.
+(8)
+The Board may co-opt any person to attend and
+participate in its deliberations on any matter but such person shall
+not vote on any issue for the decision by the Board.
+(9)
+No act or proceeding shall be invalidated by a vacancy
+among its members or a defect in the appointment or qualification of
+a member.
+ (10)  The Board shall cause minutes of all its meetings to
+be taken and signed by the Chairman and kept in proper form.
+(11) Subject to this Act, the Board shall regulate its own
+procedure.
+7.
+(1)
+A member of the Board who has any personal interest,
+whether direct or indirect in any matter being considered or to be
+considered by the Board, shall disclose the nature of his interest to
+the  Board and the disclosure shall be recorded in the minutes of the
+Board and  such member shall not take part in any deliberation or
+decision of the Board relating to that matter.
+(2)
+A member of the Board who contravenes subsection
+(1) shall be guilty of misconduct and shall be removed from the Board.
+10
+11
+Tenure of
+members.
+Disclosure
+of interest.
+Meetings of
+Board.
+
+
+--- PAGE 8 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+8.
+(1)
+No action or other proceedings shall lie or be instituted
+against any member of the Board or member of a committee of the
+Board for or in respect of any act or thing done or omitted to be done
+in good
+faith in the exercise of his functions under this Act.
+(2)
+No member of the Board shall be personally liable for
+any debt or obligation of the Agency.
+9.
+(1)
+The Board may, for the discharge of its functions,
+appoint  committees comprising members or non-members or both.
+ (2) Without prejudice to the generality of subsection (1),
+the Board shall appoint an audit committee consisting of such
+members of  the Board, excluding the Director-General, and performing
+such functions as the Board may determine.
+(3)
+A committee appointed under subsection (1), shall
+submit a report of its proceedings to the Board at such time as the
+Board may determine.
+10.
+The  Chairman and other members of the Board and any
+person co-opted by the Board under subsection (8) of section 6 shall
+be paid such
+remuneration, fees and allowances approved by the
+Minister and shall be reimbursed by the Agency for expenses incurred
+in connection with the  discharge of their functions as the Board may,
+with the approval of the  Minister, determine.
+11.
+ (1) Where the Chairman or a member of the Board dies,
+resigns, is removed from office or is absent  for a  continuous period
+exceeding 12 months or is by reason of illness  unable to perform the
+functions of his office for a continuous period of  three months-
+(a)
+the members of the Board shall, as the  case
+ may be, elect one of their number to act as
+Chairman until such time as the Chairman
+resumes his office or another is appointed in
+his stead; and
+(b)
+in the case of a member, the Chairman  shall
+arrange, subject to this Act, to have another
+person appointed to the Board.
+(2)
+Where a person is appointed as Chairman or appointed
+as a member to fill a vacancy, he shall hold office for the remainder of
+the term of the previous Chairman or member, as the case may be, and
+shall, subject to this Act, be eligible for re-appointment for one other
+term only.
+12.
+Subject to this Act, the Agency shall not be under the
+control or direction of any person or authority.
+PART III–FUNCTIONS  OF  THE  AGENCY  AND
+ADMINISTRATIVE PROVISIONS
+13.
+(1)  The object for which the Agency is established is to
+regulate, utilize, protect, develop, conserve, control and generally
+manage water resources throughout Sierra Leone.
+(2)
+Without prejudice to the generality of subsection (1)
+the Agency shall perform the following functions-
+(a)
+propose comprehensive plans and strategies
+for the utilization, conservation,  develop-
+ment and improvement of water
+resources;
+ (b)
+initiate, control and coordinate activities
+concerned with the development and
+utilization of water resources including the
+supervision and regulation of -
+(i) the Water Basin Management Boards;
+and
+(ii) Water Catchment Area Management
+Committees.
+ (c)
+grant water rights and collect raw water
+charges;
+(d)
+collect, collate, store and disseminate data or
+information on water resources in Sierra
+Leone in collaboration with other relevant
+institutions;
+12
+13
+Committees
+of Board.
+Remuneration
+of members.
+Immunity of
+members of
+Board, etc.
+Independence
+of Agency.
+Filling of
+vacancies.
+Functions of
+Agency
+
+
+--- PAGE 9 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+ (e)
+require water user agencies to undertake
+scientific investigations,  experiments or
+research into water resources in Sierra Leone;
+(f)
+monitor and evaluate programmes for the
+operation and maintenance of water
+resources;
+(g)
+advise the Minister on any matter likely to
+have adverse effect on the water resources
+of the country;
+(h)
+advise pollution control agencies in Sierra
+Leone on matters concerning the manage-
+ment and control of pollution of water
+resources;
+(i)
+cooperate and collaborate with relevant
+international organisations for the manage-
+ment and utilization of international trans
+boundary watercourses; and
+(j)
+carry out such other functions and
+programmes as is necessary for the
+attainment of the object stated in subsection
+(1).
+ 14.
+(1)
+The Agency shall have a Director-General who shall
+be  the administrative head of the Agency, appointed by the President
+subject  to the approval of Parliament.
+(2)
+The Director-General shall be a person with-
+                            (a)
+formal qualification in any profession
+relevant or appropriate to the functions of
+the  Agency; and
+                           (b)
+proven ability in public administration and
+management.
+(3)
+The Director-General shall hold office on such terms
+and conditions as shall be specified in his letter of appointment.
+15.
+(1)
+ The Director-General shall be assisted by other
+Directors who  shall be in  charge of such departments of the Agency
+established by the Board as may  be necessary for the performance
+of the functions of the  Agency including -
+(a)
+the Water Planning, Research and Policy
+Department;
+(b)
+the Monitoring, Data Collection and
+Information Technology Department;
+(c)
+the Finance and Administration Department;
+and
+(d)
+the Regulation, Enforcement and Public
+Relations Department.
+(2)
+A Director shall be appointed by the Board on such
+terms and conditions as shall be specified in his letter of appointment.
+16.
+(1) The Agency shall have, in addition to the Director-
+General  and other Directors referred to in sections 14 and 15, a
+secretariat consisting of a Secretary, Finance Officer, Administrative
+Officer and such other additional technical and administrative staff,
+as may be required for the efficient performance of the functions of
+the Agency.
+(2)  The staff of the secretariat shall be appointed by the
+Board on such terms and conditions as the Board shall determine.
+(3)  The Board may delegate to the Director-General-
+(a)
+the power to appointment  such grade  or
+categories of staff as the Agency may re-
+quire; and
+(b)
+the power to enter into agreements with
+independent bodies or agencies for the
+purpose of carrying out the functions of the
+Agency for and on behalf of the Agency.
+14
+15
+Director-
+General
+Other
+Directors of
+Agency.
+Other staff
+of Agency.
+
+
+--- PAGE 10 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+16
+17
+17.
+ Public officers may at the instance of the Agency, be
+seconded or otherwise render assistance to the Agency but the
+Agency  may request the withdrawal of any such seconded staff
+who is unable to carry out assigned functions in a manner satisfactory
+to the Agency.
+18.
+No officer or employee of the Agency or any person acting
+on the directions of an officer or employee of the Agency shall be
+liable in  respect of any matter or thing done by him in good faith
+under this Act.
+19.
+The Board may engage the services of consultants and
+experts as it considers necessary for the proper and efficient
+performance of the Agency.
+PART IV–FINANCIAL  PROVISIONS
+20.
+(1)
+There is established by this Act a fund to be known
+as the National Water Resources Management Fund referred to in
+this Act as the “Fund” which shall consist of monies including–
+(a)
+such portion of the fees, levies, raw water
+charges as monies the Agency is allowed to
+retain by the Minister of Finance and
+Economic Development;
+(b)
+all monies appropriated  by Parliament for the
+purposes of the  Agency;
+(c)
+all monies given to the Agency by way of
+gifts, endowments, bequests, grants or other
+contributions by persons and organisations
+for the purposes of the  Agency;
+(d)
+all returns on investment; and
+(d)
+all other monies including permit fees  which
+may, from time to time, accrue to the  Agency.
+(2)
+The Water Resources Management Fund shall be
+applied only for the purposes of the approved budget of the Agency
+including.
+(a)
+the sustainable and efficient management of
+the water resources;
+(b)
+the education of the general public on proper
+management and utilization of water
+resources;
+(c)
+research, studies and investigations relating
+to the functions of the Agency;
+(d)
+funding the activities of the Basin Boards
+and Water Catchment Area Management
+Committees established under this Act;
+(e)
+human resource development; and
+(f)
+such other purposes as the Board after
+consultions with the Minister may determine.
+21.
+(1)
+The Agency shall keep proper books of account and
+other  records in relation to the activities, property and finances of
+the Agency in  a  form approved by the Auditor-General, and shall
+prepare in respect of  each financial year of the Agency a financial
+statement which shall include-
+(a)
+balance sheet accounts;
+(b)
+income and expenditure accounts; and
+(c)
+source and application of funds.
+(2)  The accounts of the Agency kept under subsection (1)
+shall, not later than two months after the end of each financial year,
+be audited by the Auditor-General or an auditor appointed by him.
+(3)
+For the purposes of subsection (2), the Auditor-
+General  or the auditor appointed by him shall be entitled to have
+access to all books of account, vouchers and other financial records
+of the Agency and  to require such information and explanation thereon
+as he may think fit.
+Secondment
+of public
+officers.
+Protection of
+ officers.
+Consultants
+and experts.
+National
+Water
+Resources
+Management
+Fund.
+Accounts and
+audit of
+Agency.
+
+
+--- PAGE 11 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(4)
+The Agency shall provide the Auditor-General or the
+auditor appointed by him with all necessary and appropriate facilities
+for the examination of the accounts and records of the Agency.
+(5)
+The Auditor-General or the auditor appointed by him
+shall submit to the Agency a report on the audited accounts and the
+financial statements referred to in subsection (1) and shall, in his
+report  draw attention to -
+(a)
+any irregularities in the accounts;
+(b)
+any matters that are likely to adversely
+affect the operations of the Agency; and
+(c)
+any other matter which, in his opinion,  ought
+to be brought to the notice of the Agency.
+22.
+The financial year of the Agency shall be the same as
+the financial year of Government.
+23.
+(1)
+ The Agency shall, within 3 months after the end of
+the financial year, submit to the Minister a report on the performance
+of its  functions during that year and on its policies and programmes.
+(2)
+The annual report shall include the accounts and
+annual financial statement prepared under section 21 and the report
+of the audit thereon.
+(3)
+The Minister shall lay copies of the annual report
+before Parliament within 2 months after he has received the report.
+(4)
+The Agency shall make copies of the report available
+to all stakeholders once it has been laid before Parliament.
+PART V–THE  WATER  BASIN  MANAGEMENT  BOARDS
+24.
+The Agency may, for the purpose of efficient water
+management declare any area to be a National Water Basin.
+25.
+(1)
+There shall be, in respect of each National Water Basin
+declared by the Agency under section 24, a Water Basin   Management
+Board for the area in question which shall, subject to the  overall
+supervision and direction of the Agency, be responsible for the
+performance of the following functions-
+(a)
+exercise control over water resources within
+the Basin in respect of protection, use,
+development, conservation and  manage-
+ment;
+(b)
+in consultation with the Agency and relevant
+local authorities, establish  Water Catchment
+Area Management Committees for the
+sustainable management of water catchments
+within the Basin;
+(c)
+coordinate the activities of  Water Catchment
+Area Management Committees within the
+Basin;
+(d)
+serve as an arbitration body in resolving
+conflicts between various Water Catchment
+Area Management Committees within the
+Basin;
+(e)
+establish and maintain a National Water Basin
+Register on which shall be  a record of all
+water basins declared  by the Agency as a
+National Water Basin under section 24;
+(f)
+promote improved water resources quality
+and control pollution through collaboration
+with relevant institutions;
+ (g)
+monitor water use and water quality and take
+action for remediation where water quality is
+adversely affected; and
+18
+19
+Annual
+report.
+Financial
+year of
+Agency.
+Declaration
+of National
+Water Basins.
+Water Basin
+Management
+Board.
+
+
+--- PAGE 12 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+ (h)
+ regulate other activities that may affect water
+quantity including but not limited to weed
+dredging, control, clearing and containment
+activities.
+(2)
+A Water Basin Management Board referred to under
+subsection (1), shall consist of the following members-
+(a)
+the Chairman of the District Council or
+Councils within the National Water Basin;
+(b)
+the Chairman of the Water  Catchment Area
+Management Committee or
+Committees within the Basin;
+(c)
+the Paramount Chief or Chiefs within the
+Basin;
+ (d)
+a representative of -
+(i) the Ministry of  Agriculture Forestry
+Divisions;
+(ii) the National Minerals Agency;
+(iii) the Ministry of Lands;
+(iv) the Environment Protection Agency;
+(v) the Natonal Protected Area Authority;
+and
+(e)
+the Basin Board Officer who shall be the
+Secretary to the Board.
+(3)
+The Basin Board Officer referred to in paragraph (e)
+of subsection (2) shall be appointed by the Agency and shall be
+responsible for the day to day administration of the National Water
+Basin  in question and to ensure the implementation of the decision
+of the national Water Basin Management Board.
+PART VI–THE WATER  CATCHMENT  AREA MANAGEMENT
+COMMITTEES
+26.
+The Agency may, for the purpose of efficient water
+management   declare any area to be a Protected Water  Catchment
+Area.
+27.
+(1)
+There shall be, in respect of each protected  catchment
+area within a Water Basin, a water catchment area management
+Committee established by the Water Basin Management Board in
+consultation with the Agency and relevant local authorities, which
+shall  perform the following functions-
+(a)
+develop and implement water Catchment Area
+management strategies;
+(b)
+advise the relevant local authorities in making
+rules and bye-laws for the efficient
+management of water resources in the
+Protected Water Catchment Area;
+(c)
+protect, conserve, manage and control water
+resources and their use within the Protected
+Water Catchment Area
+(d)
+advise the Agency on the allocation and
+issuance of water permits within the Protected
+Water Catchment Area;
+(e)
+monitor water use and quality, collect data
+on water resources within the Protected
+Water Catchment Area and take action for
+remediation where water quality is adversely
+affected;
+(f)
+in collaboration with traditional authorities,
+promote improved water quality and pollution
+control through the integration of traditional
+institutions and practices within the
+Protected Water Catchment Area;
+20
+21
+Declaration
+of Protected
+Water Catch-
+ment  Area.
+Water
+Catchment
+Area
+Management
+Committees.
+
+
+--- PAGE 13 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(g)
+promote community participation in the
+protection, use, development, conservation,
+management and control of the water
+resources in the Protected Water Catchment
+Area;
+(h)
+coordinate the related activities of water users
+and other relevant water management
+institutions within the Protected Water
+Catchment Area;
+(i)
+facilitate resolution of water-related conflicts
+relating to the Protected Water Catchment
+Area;
+(j)
+participate in and coordinate with other
+Committees in upstream or downstream
+catchments in maintaining the integrity of the
+water resources;
+(k)
+maintain a Catchment Water Use Register
+containing information on water uses
+registered in the Protected Water Catchment
+Area; and
+(l)
+prepare and submit periodic reports on the
+management of water resources in the
+Protected Water Catchment Area to the
+National Water Basin Management Board
+including listing all registered water uses in
+its Protected water Catchment  Area;
+(2)
+A  Water Catchment Area Management Committee
+referred to in subsection (1) shall consist of the following
+members-
+ (a)
+ a representative of –
+(i)  the Electricity Distribution and Supply
+Authority;
+(ii) the Ministry responsible for mineral
+resources;
+(iii) the Ministry responsible for lands;
+(iv) the Environment Protection Agency;
+(v) the National Protected Area authority;
+(vi) 2 members of a civil society organisa-
+tion one of whom shall be a woman
+involved in water related activities
+within the Protected Water  Catchment
+Area appointed by  the Minister; and
+(vii) forestry division, and
+(b)
+the Catchment Officer who shall be  the
+Secretary to the Committee.
+(3)  The Catchment Officer referred to in paragraph (b) of
+subsection (2) shall be appointed by the Agency and shall, subject
+to the general directions of the Basin Officer, be responsible for the
+day to day  administration of the Protected Water Catchment Area
+and to ensure the implementation of the decisions of the Committee.
+PART VII–WATER  USE  AND  PERMIT  PROCEDURES
+28.
+(1)
+No person shall abstract raw water by mechanical
+means except on a permit issued by the Agency for that purpose.
+(2)   The Minister may, after consultation with the Agency,
+by statutory instrument prescribe the level of water uses which shall
+be  exempted from the requirement of a permit under subsection (1).
+(3)
+Subject to this Act, an exemption from the requirement
+of a permit under subsection (2)  shall be registered in accordance
+with section 29.
+(4)
+A water permit granted under this Act shall–
+22
+23
+Regulation
+of water use.
+
+
+--- PAGE 14 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(a)
+be valid for the period specified in the  permit;
+(b)
+be subject to the conditions specified in the
+permit; and
+(c)
+be renewed.
+ 29.
+(1)
+An application for water use permit may be obtained
+from   the Agency for any of the following purposes–
+(a)
+domestic water use
+(b)
+commercial water use
+(c)
+municipal water use
+(d)
+industrial water use
+(e)
+agricultural water use
+(f)
+power generation water use
+(g)
+water transportation  use
+(h)
+ fisheries (aquaculture) water use
+ (i)
+ environmental water use;
+ (j)
+underwater wood harvesting; and
+(k)
+ recreational water use ; or
+(l)
+ any other purpose
+(2)
+An application for water use permit under subsection
+(1), shall be submitted to the Agency in the prescribed form and shall
+be accompanied by-
+                                   (a) the prescribed administrative and processing
+fees; and
+                                  (b) any other information including an
+environmental impact assessment and an
+environmental management plan as the
+Agency may consider  appropriate.
+ (3) The Agency shall, within 10 days of receipt of an
+application  under subsection (2), -
+(a)
+acknowledge receipt of the application in
+writing, and
+(b)
+not more than 4 months, inform the applicant
+in writing of the Agency's decision.
+(4)
+In considering an application for water use permit
+under subsection (2), the Agency shall be guided by the priority of
+domestic water use and any other national socio-economic
+development factors  including -
+                                   (a) lawful uses of water, including customary
+water use to the extent that such use does
+not conflict with national water policy and
+strategy;
+(b)
+efficient and beneficial use of water in the
+public  interest;
+(c)
+the likely effect of the water use on the water
+resource and on other water users,  including
+the  avoidance  of  significant  harm  to
+customary users;
+(d)
+the strategic importance of the water use;  and
+ (e)
+the likely effect of the water use on water
+quality and  reserve.
+30.
+ (1)      Where the Agency has reasons based on-
+(a)
+technical data;
+24
+25
+Refusal to
+grant permit.
+Application
+for water  use
+permit.
+
+
+--- PAGE 15 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+(b)
+sustainability of the water resources;
+(c)
+national security
+(d)
+ public safety; or
+(e)
+ other reasonable justification,
+it  shall refuse to grant the permit to the applicant.
+(2)
+The Agency shall within fourteen days communicate
+the reasons for the refusal of a permit to the applicant.
+31.
+(1)
+A permit issued and an exemption given by the
+Minister under section  28 shall be registered by the Agency in the
+Catchment, Basin or National Water Register as the case may be.
+(2)
+An application for the registration of water use permit
+or exemption under subsection (1) shall be submitted to the Agency
+in writing and shall state the -
+(a)
+ name and address of the applicant;
+                                  (b)   category and level of the water required;
+                                  (c)   water body or system affected; and
+                                  (d)   location of the water use.
+(3)  Where  the Agency is satisfied with the application, it
+shall-
+                                 (a)
+register the water use; and
+ (b)
+ issue the user with a registration number.
+32.
+(1)  The Agency shall, depending on the nature of the
+water use applied for, prior to granting of a permit, publish in the
+Gazette and  in at least one national newspaper a notice-
+(a)
+stating the purpose of the application; and
+(b)
+inviting objections from the public to be
+submitted to the Agency within 30 days from
+the date of the publication.
+(2)  Objections made in response to a notice under
+subsection (1) shall be submitted in writing or in any other form as
+the Agency may specify  in the notice.
+33.
+(1)      Where-
+ (a)
+a person claims water right or other interest
+in a water resource which is the subject of an
+application, or
+(b)
+conflicting claims of interest are made over
+the same water resources,
+the claim shall be referred to a Committee set up by the Agency, in
+collaboration with the Environmental Protection Agency, traditional
+authorities of the community and relevant government institutions
+and agencies.
+(2)
+A  Committee set up by the Agency under subsection
+(1)   shall, as much as possible, be informal and shall be governed by
+the rules of natural justice.
+(3)  The committee shall submit its report and recommendat-
+ions to the Agency within 14 days after completion of  the hearing.
+(4)   The Agency shall consider the report and   recomm-
+endations of the committee and give such direction for its
+implementation as may be appropriate within fourteen days.
+(5)
+A person may appeal to the High Court where that
+person is dissatisfied with the decision of the Agency.
+   PART VIII–MONITORING,  REPORTING  AND  INFORMATION
+SYSTEMS
+34.
+(1)
+The Agency shall establish and maintain national,
+basin and catchment water resources monitoring and information
+systems which shall provide for the collection of data and information
+necessary to assess-
+26
+27
+Registration
+of water use.
+Public
+notification-
+Monitoring,
+reporting,
+and informa
+tion systems.
+Objections.
+
+
+--- PAGE 16 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+28
+29
+(a)
+the quantity of water in the various water
+resources;
+ (b)
+the status of groundwater aquifers;
+(c)
+the quality of water resources and the state
+of the general aquatic environment; and
+(d)
+the use of water resources, including a
+register of water uses authorized for all
+categories of uses.
+(2)
+ Information system under subsection (1) shall
+provide data and information -
+(a)
+for the  protection, sustainable use and
+management of water  resources;
+(b)
+for the development and or review and im-
+plementation of the national water resources
+strategy; and
+(c)
+to government, existing and potential water
+users and the public-
+(i) on the status of water  resources;
+(ii) for research and  development;
+(iii) for planning and water environmental
+ management;
+(iv) for determining permit  applications;
+(v) for public safety and disaster
+management; and
+                                          (vi) for international cooperation.
+ (3) The Agency may require in  writing that any person
+shall,within a reasonable time or on a regular basis, provide any  data,
+information, documents, samples or materials reasonably required
+for-
+(a)
+the purposes of any national monitoring
+network or national  information system; or
+ (b)
+the management and protection of water
+resources.
+PART IX–OFFENCES AND PENALTIES
+35.
+(1)
+Any person who-
+(a)
+uses water resources otherwise than as
+permitted under this Act;
+(b)
+fails to provide access to any  records,
+documents or assets when  required to do so
+under this Act;
+(c)
+fails to comply with any condition attached
+to a water use permit under  this Act;
+(d)
+fails to comply with a directive  issued by the
+Agency under this Act;
+                                  (e)      fails or refuses to give data or information,
+or gives false or  misleading data or
+information when required to give
+information   under this Act;
+(f)
+fails to register a water use permit  issued or
+exemption granted under this Act;
+ (g)
+intentionally refuses to perform a duty, or
+obstructs any other person in  the exercise of
+any power or  performance of any duties in
+pursuance of this Act;
+Offences   and
+penalties.
+
+
+--- PAGE 17 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+30
+31
+(h)
+unlawfully and intentionally or negligently
+commits any act or omission which pollutes
+or is likely to pollute a water resource; or
+(i) unlawfully and intentionally or
+negligently commits any act or omission
+which detrimentally affects or is likely
+to affect a water resource,
+commits an offence and shall be liable on conviction to a fine not
+exceeding Le 5,000,000.00 or  a term of  imprisonment not exceeding  1
+year  or both such fine and imprisonment.
+(2)
+Any person who–
+(a)
+interferes with or alters the flow of; or
+(b)
+pollutes or contaminates, any water resource
+beyond such level as the  Agency may pre-
+scribe,
+commits an offence and is liable on conviction to a fine not less than
+Le 10,000,000.00 or to a term of imprisonment not exceeding 3  years
+or to both such  fine and imprisonment.
+(3)   Any person  who.
+(a)
+diverts, dams, stores, dredges, abstracts or
+ uses water resources; or
+(b)
+constructs or maintains any works for the
+use of water resources,
+in contravention of this Act commits an offence and shall be liable on
+conviction to a fine not less than of Le 20,000,000.00 or to a term of
+imprisonment not exceeding 1 year or to both such  fine and
+imprisonment.
+(4)
+ Any person who obstructs another person in the
+performance of their functions under this Act commits an offence
+and shall be liable on conviction to a fine of  Le3,000,000.00  or a term
+of imprisonment not exceeding 6 months or both sucn fine or
+imprisonment.
+                      PART X–MISCELLANEOUS
+36.
+  The Minister may,  upon the recommendations of the
+Agency, by statutory instrument make Regulations-
+(a)
+for preserving existing uses of public water;
+(b)
+prescribing the level of water uses  exempted
+from permit  procedures;
+ (c)
+for controlling any change in the course,
+current or cross-current of  any contained
+surface water in order  to obtain the most
+beneficial use of the water;
+ (d)
+relating to the declaration of water
+emergencies;
+(e)
+for regulating the use of contained  water
+and groundwater;
+ (f)
+for regulating drillers of underground  water
+resources;
+ (g)
+for the carrying out of investigations  in
+respect of any function of the Agency;
+(h)
+for the protection of watersheds;
+(i)
+for the granting of permits to  discharge
+waste into water bodies;
+Regulations.
+
+
+--- PAGE 18 ---
+
+No. 5
+National Water Resources Management Agency Act
+2017
+No. 5
+National Water Resources Management Agency Act
+2017
+32
+33
+ (j)
+for prescribing the acceptable levels of
+pollution;
+ (k)
+to regulate or prohibit the doing of  any act
+by any person in a protected catchment area;
+(l)
+for levying raw water charges for water us-
+es under this Act; and
+                                 (m) prescribing guidelines, procedures,
+standards and methods for  monitoring;
+ (n)
+prescribing the nature, type, period and
+format of data to be submitted  under this
+Act; and
+ (o)
+generally for the purpose of giving effect to
+the provisions of this Act;
+37.
+(1)
+The Water (Control and Supply) Act, (Act No. 16 of
+1963)   is hereby repealed
+(2)
+Not withstanding subsection (1), any instrument
+made or any right, privilege, obligation or liability acquired, accrued
+or incurred under the Water (Control and Supply) Act, 1963  shall
+remain in force and be deemed to have been made under this Act
+until expressly revoked by statutory instrument made under this Act.
+Repeal and
+savings.
+Passed in Parliament this 30th day of  May , in the year of our  Lord  two
+thousand  and Seventeen.
+IBRAHIM  S.  SESAY,
+Clerk of Parliament.
+THIS PRINTED IMPRESSION has been carefully compared by me with the Bill
+which has passed Parliament and found by me to be a true and correct printed
+copy of the said Bill.
+IBRAHIM  S.  SESAY,
+Clerk of Parliament.
+PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTING DEPARTMENT, SIERRA LEONE.
+GAZETTE  NO. 48 OF  17TH  AUGUST, 2016.

@@ -1,0 +1,5351 @@
+
+
+--- PAGE 1 ---
+
+                                
+SAINT LUCIA 
+ 
+ 
+CHAPTER 9.03 
+WATER AND SEWERAGE ACT 
+Revised Edition 
+Showing the law as at 31 December 2008 
+This is a revised edition of the law, prepared by the Law Revision Commissioner under the authority 
+of the Revised Edition of the Laws Act. 
+This edition contains a consolidation of the following laws— 
+ 
+WATER AND SEWERAGE ACT 
+Act 14 of 2005.. in force 15 May 2006 (S.I.40/2006) 
+Amended by Act 13 of 2008 in force 20 October 2008 
+ 
+WATER AND SEWERAGE (SERVICE LEVY) ORDER – Section 85 
+Statutory Instrument 102/2008 in force 19 November 2008 
+ 
+WATER AND SEWERAGE (CODE OF CONDUCT) REGULATIONS – Sections 38 and 97 
+ 
+Statutory Instrument 103/2008.in force 19 November 2008 
+ 
+ 
+WATER AND SEWERAGE (GENERAL PROVISIONS) REGULATIONS – Section 97 
+Statutory Instrument 104/2008 in force 19 November 2008 
+ 
+
+
+--- PAGE 2 ---
+
+ 
+ 
+ 
+WATER AND SEWERAGE (APPEALS TRIBUNAL)  REGULATIONS – Section 97 
+Statutory Instrument 105/2008 in force 19 November 2008 
+ 
+WATER AND SEWERAGE (TARIFF) REGULATIONS – Section 97 
+Statutory Instrument 106/2008 in force 19 November 2008 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 3 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+3
+Revision Date: 31 Dec 2008 
+ 
+CHAPTER 9.03 
+WATER AND SEWERAGE ACT 
+ARRANGEMENT OF SECTIONS 
+Section 
+PART 1  
+7   
+PRELIMINARY 
+ 7 
+1. 
+Short title .............................................................................................................. 7 
+2. 
+Interpretation ........................................................................................................ 7 
+PART 2 
+14 
+WATER RESOURCE MANAGEMENT 
+14 
+Division 1 ................................................................................................................. 14 
+Water Resource Management Agency ................................................................................14 
+3. 
+Establishment of Agency ....................................................................................14 
+4. 
+Functions and powers of the Agency ..................................................................14 
+5. 
+Revenue of Agency .............................................................................................16 
+Division 2 ................................................................................................................ 17 
+Crown Rights in Water, Protection of Water and Gathering Grounds ..................................17 
+6. 
+Crown rights in water ..........................................................................................17 
+7. 
+Protection of water ..............................................................................................17 
+8. 
+Gathering grounds ..............................................................................................17 
+9. 
+Protection of defined area around gathering grounds .........................................18 
+Division 3 ................................................................................................................ 19 
+Emergencies ........................................................................................................................19 
+10. 
+Water-related emergencies .................................................................................19 
+Division 4 ................................................................................................................ 20 
+Abstraction of Water ............................................................................................................20 
+11. 
+Private use of water ............................................................................................20 
+12. 
+Requirement for abstraction licence ....................................................................20 
+13. 
+Abstraction licence as of right .............................................................................21 
+14. 
+Application for abstraction licence .......................................................................21 
+15. 
+Recommendation by Agency ..............................................................................21 
+16. 
+Grant or refusal of abstraction licence ................................................................22 
+17. 
+No recommendation or notice .............................................................................22 
+18. 
+Issuance and form of abstraction licence ............................................................23 
+
+
+--- PAGE 4 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+4
+19. 
+Validity of abstraction licence ..............................................................................23 
+20. 
+Breaches by abstraction licensee .......................................................................23 
+21. 
+Suspension or revocation of abstraction licence .................................................24 
+22. 
+Offence of not complying with direction of Agency for abstraction licence ..........24 
+Division 5 ............................................................................................................... 24 
+Water and Waste Control Areas and Permits ......................................................................24 
+23. 
+Water control area ..............................................................................................24 
+24. 
+Waste control area ..............................................................................................25 
+25. 
+Requirement for permit .......................................................................................25 
+26. 
+Permit as of right .................................................................................................26 
+27. 
+Application for permit ..........................................................................................26 
+28. 
+Recommendation by Agency for permit ..............................................................26 
+29. 
+Grant or refusal of permit ....................................................................................27 
+30. 
+No recommendation or notice for permit .............................................................27 
+31. 
+Issuance and form of permit ...............................................................................28 
+32. 
+Validity of permit .................................................................................................28 
+33. 
+Breaches by permit holder ..................................................................................28 
+34. 
+Suspension or revocation of permit .....................................................................28 
+35. 
+Offence of not complying with direction of Agency for permit .............................29 
+PART 3 
+29 
+WATER SUPPLY AND SEWERAGE SERVICES 
+29 
+Division 1 ............................................................................................................... 29 
+Commission .........................................................................................................................29 
+36. 
+Establishment of Commission .............................................................................29 
+37. 
+Functions and powers and exemption from liability of Commission ....................30 
+38. 
+Commission to regulate own procedure ..............................................................32 
+39. 
+Seal .....................................................................................................................32 
+40. 
+Executive Director ...............................................................................................33 
+41. 
+Meetings of Board ...............................................................................................33 
+42. 
+Quorum ...............................................................................................................33 
+43. 
+Voting ..................................................................................................................33 
+44. 
+Confidentiality .....................................................................................................34 
+45. 
+Declaration of interest and abstention from voting ..............................................34 
+46. 
+Terms of appointment .........................................................................................35 
+47. 
+Revocation ..........................................................................................................35 
+48. 
+Resignation .........................................................................................................35 
+49. 
+Vacation ..............................................................................................................35 
+50. 
+Decisions not invalidated ....................................................................................36 
+51. 
+Staff ....................................................................................................................36 
+52. 
+Remuneration .....................................................................................................36 
+53. 
+Fund for use by Commission ..............................................................................36 
+54. 
+Financial year of Commission .............................................................................37 
+55. 
+Budget and plan of action of Commission ...........................................................37 
+56. 
+Accounts of Commission ....................................................................................37 
+57. 
+Audit of Commission ...........................................................................................37 
+58. 
+Auditor’s report of Commission ...........................................................................38 
+59. 
+Annual report of Commission ..............................................................................38 
+Division 2 ............................................................................................................... 39 
+Service Licence ...................................................................................................................39 
+60. 
+Requirement for service licence ..........................................................................39 
+
+
+--- PAGE 5 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+5
+Revision Date: 31 Dec 2008 
+ 
+61. 
+Application for service licence .............................................................................39 
+62. 
+Recommendation by Commission for service licence .........................................39 
+63. 
+Grant or refusal of service licence .......................................................................40 
+64. 
+No recommendation or notice for service licence ...............................................41 
+65. 
+Issuance and form of service licence ..................................................................41 
+66. 
+Validity of service licence ....................................................................................42 
+Division 3 ................................................................................................................ 42 
+Service Licensee .................................................................................................................42 
+67. 
+Obligations of service licensee............................................................................42 
+68. 
+Rights and powers of service licensee ................................................................42 
+69. 
+Sub-contracting ...................................................................................................42 
+70. 
+Budget and plan of action of service licensee .....................................................43 
+71. 
+Accounts of service licensee ...............................................................................43 
+72. 
+Audit of service licensee .....................................................................................43 
+73. 
+Auditor’s report of service licensee .....................................................................43 
+74. 
+Annual report of service licensee ........................................................................44 
+75. 
+Standards ...........................................................................................................44 
+Division 4 ................................................................................................................ 45 
+Customer  ............................................................................................................................45 
+76. 
+Rights of customer ..............................................................................................45 
+77. 
+Obligations of customer ......................................................................................45 
+Division 5 ................................................................................................................ 46 
+Tariff Scheme, Tariff, Tariff Review, Subsidies and Levy.....................................................46 
+78. 
+Tariff scheme and tariff .......................................................................................46 
+79. 
+Types of reviews .................................................................................................47 
+80. 
+Annual tariff review .............................................................................................47 
+81. 
+Triennial tariff review ...........................................................................................48 
+82. 
+Extraordinary tariff review ...................................................................................49 
+83. 
+Direct subsidy .....................................................................................................50 
+84. 
+Cross subsidy .....................................................................................................51 
+85. 
+Levy ....................................................................................................................51 
+Division 6 ................................................................................................................ 52 
+Breaches, Offences and Penalties .......................................................................................52 
+86. 
+Breach relating to minimum standards of potable water .....................................52 
+87. 
+Breaches by the service licensee ........................................................................52 
+88. 
+Remedial action, suspension or revocation of service licence ............................53 
+89. 
+Offence of not complying with direction of Commission ......................................54 
+90. 
+Offences in respect of water supply and sewerage service ................................54 
+91. 
+Offences of obstructing service licensee .............................................................55 
+92. 
+Criminal liability for damage and wrongful service connection ............................56 
+PART 4 
+57 
+MISCELLANEOUS 
+57 
+93. 
+Matters excluded from arbitration ........................................................................57 
+94. 
+Matters to be submitted to arbitration ..................................................................57 
+95. 
+Arbitrator and applicable law ...............................................................................57 
+96. 
+Appeal .................................................................................................................57 
+97. 
+Regulations .........................................................................................................58 
+98. 
+Act binds the Crown ............................................................................................59 
+99. 
+Savings ...............................................................................................................59 
+
+
+--- PAGE 6 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+6
+SCHEDULE 
+60 
+ 
+
+
+--- PAGE 7 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+7
+Revision Date: 31 Dec 2008 
+ 
+CHAPTER 9.03 
+WATER AND SEWERAGE ACT 
+(Acts 14 of 2005 and 13 of 2008) 
+AN ACT to provide for the management of water resources and to 
+regulate the delivery of water supply services and sewerage 
+services throughout Saint Lucia and for related matters. 
+Commencement [15 May 2006] 
+PART 1 
+PRELIMINARY 
+1. 
+SHORT TITLE  
+This Act may be cited as the Water and Sewerage Act. 
+2. 
+INTERPRETATION 
+In this Act— 
+―abstraction licence‖ means an abstraction licence granted  
+under Division 4 of Part 2; 
+―abstraction licence fee‖ means an abstraction licence fee 
+payable under section 18; 
+―abstraction licensee‖ means a person who holds a valid 
+abstraction licence under this Act; 
+―application fee‖ means an application fee to be submitted 
+with an application made under this Act; 
+―Agency‖ means the Water Resource Management Agency 
+established under section 3; 
+―annual tariff review‖ means the annual tariff review under 
+section 80; 
+―Appeals Tribunal‖ means the Appeals Tribunal appointed 
+under section 96; 
+―application‖ means an application made under this Act; 
+
+
+--- PAGE 8 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+8
+―applicant‖ means a person making an application under this 
+Act; 
+―aquifer‖ means a geological structure or formation or an 
+artificial land fill permeated or capable of being 
+permeated permanently or intermittently with water; 
+―auditor‖ means a person who is a member of the Institute of 
+Chartered Accountants in Saint Lucia or any other person 
+who is a member of another professional accounting 
+association and who is approved as an auditor by the 
+Minister responsible for finance; 
+―Board‖ means the Board of the National Water and Sewerage 
+Commission appointed under section 36; 
+―bore‖ means any bore, hole, well, excavation or other opening 
+in the ground naturally or artificially constructed or 
+improved for the purpose of intercepting, collecting, 
+obtaining or using groundwater or disposing of any water 
+or waste below the surface of the ground, or which 
+extends to an aquifer; 
+―Bureau of Standards‖ means the Bureau of Standards 
+established under the Standards Act; 
+―business risk‖ means the risk derived from a service 
+licensee‘s own decisions regarding its operations, 
+investments and costs; 
+―Chairperson‖ means the Chairperson of the Board appointed 
+under section 36; 
+―Commission‖ means the National Water and Sewerage 
+Commission established under section 36; 
+―consumer‖ means a person who uses a service; 
+―continuity‖ means the condition by which potable water 
+supply service or sewerage services are provided 
+continuously, avoiding interruptions; 
+―cross subsidy‖ means differentiating tariffs for certain 
+categories of customers so that the contribution by a 
+group of customers pays for part of the cost of services 
+supplied to other customers or group of customers; 
+―customer‖ means a person who subscribes for a service; 
+
+
+--- PAGE 9 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+9
+Revision Date: 31 Dec 2008 
+ 
+―Deputy Director‖ means the Deputy Director of the Water 
+Resource Management Agency appointed under section 
+3; 
+―Director‖ means the Director of the Water Resource 
+Management Agency appointed under section 3; 
+―direct subsidy‖ means the granting of revenue by the 
+Government— 
+(a) 
+to certain customers to pay part of the cost of their 
+access to a service; or 
+(b) 
+to the provider of a service to help pay part of the 
+cost of service connection, service or construction 
+of the works necessary for the maintenance, 
+refurbishment, and expansion of facilities; 
+―dispose‖ includes transfer, destroy, sell, abandon, dismantle; 
+―economic equilibrium‖ means that the revenues from a 
+service rendered allow for the full recovery of all 
+efficiently incurred costs and reasonable compensation 
+for the cost of capital in the provision of that service; 
+―Executive Director‖ means the Executive Director of the 
+Commission appointed under section 40; 
+―environment‖ means all aspects of a person‘s surroundings, 
+including the physical, biological, economic, cultural and 
+social aspects of such surroundings; 
+―extraordinary tariff review‖ means the extraordinary tariff 
+review under section 82; 
+―facilities‖ means the premises and apparatus required to 
+provide services; 
+―Fund‖ means the Water and Sewerage Fund established under 
+section 53; 
+―gathering ground‖ means an area of land declared to be a 
+gathering ground under section 8; 
+―Government‖ means the Government of Saint Lucia; 
+―groundwater‖ means all water occurring or obtained from 
+below the surface of the ground other than water 
+contained in works, not being a bore, for the distribution, 
+
+
+--- PAGE 10 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+10 
+storage or treatment of water or waste, and includes water 
+occurring in or obtained from any bore or aquifer; 
+―levy‖ means the water and sewerage service levy established 
+under section 85; 
+―licence‖ means a licence granted under this Act; 
+―licensee‖ means a person who holds a valid licence under this 
+Act; 
+―low-income household‖ means a household with an annual 
+income of less than the amount set as the personal 
+allowance under the Income Tax Act, Cap. 15.02; 
+―member‖ means a member of the Board appointed under 
+section 36; 
+―meter‖ means any appliance used to measure, ascertain or 
+regulate the amount of water taken or used from 
+waterworks by means of any service, as well as any 
+appliance used in estimating the flow of water in or from 
+any part of waterworks; 
+―Minister”— 
+(a) 
+when referred to in Part 2 means the Minister 
+responsible for agriculture; 
+(b) 
+when referred to in Part 3 means the Minister 
+responsible for public utilities; 
+―owner‖ in relation to any building or land includes a person 
+other than a mortgagee who for the time being— 
+(a) 
+is entitled to dispose of the right of ownership of the 
+building or land whether in possession or reversion; 
+or 
+(b) 
+holds or is entitled to the rights and profits of the 
+building or land under a lease or agreement, the 
+unexpired term whereof exceeds 3 years; or 
+(c) 
+where the person referred to in paragraph (a) or (b) 
+is absent or under any disability, his or her agent or 
+if there is no such agent, the occupier of the 
+building or land; 
+―permit fee‖ means the permit fee under section 31; 
+
+
+--- PAGE 11 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+11
+Revision Date: 31 Dec 2008 
+ 
+―permit holder‖ means a person who holds a valid permit 
+under this Act; 
+―person‖ includes a body corporate or an unincorporated body; 
+―pollution‖ means the man-made or man-induced alteration of 
+the physical, biological, chemical, and radiological 
+integrity of water and other media; 
+―potable water‖ means water which meets quality standards set 
+under this Act and to any other law in force in Saint 
+Lucia; 
+―potable water supply service‖ includes the— 
+(a) 
+treating of water to make it potable water; 
+(b) 
+storing, bottling, transporting, or distribution of 
+potable water, 
+and the sale or offer for sale of that water as potable 
+water; 
+―prescribed‖ means prescribed in the regulations; 
+―raw water‖ means water which does not meet the quality 
+standards for potable water set under this Act and any 
+other law in force in Saint Lucia; 
+―raw water supply service‖ includes the, storing, transporting 
+and distribution of raw water and the offer for sale or the 
+sale of raw water; 
+―regulations‖ means regulations made under section 97; 
+―repealed Act‖ means the Water and Sewerage Act 1999, No. 
+13 of 1999; 
+―Reserve Fund‖ means the Reserve Fund established under 
+section 53(3); 
+―rooftop catchment‖ means any installation or device suitable 
+for the collection of rainwater on the roof of a building or 
+dwelling house; 
+―service‖ includes a water supply service, a sewerage service 
+and 
+the 
+construction, 
+operation, 
+maintenance, 
+rehabilitation, expansion, management and exploitation of 
+works necessary for a water supply service or a sewerage 
+service under a service licence; 
+
+
+--- PAGE 12 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+12 
+―service connection‖ means a connection for receipt of a 
+service; 
+―service licence‖ means a service licence granted under 
+Division 2 of Part 3; 
+―service licensee‖ means a person who holds a valid service 
+licence under this Act; 
+―service licence fee‖ means a service licence fee payable under 
+section 61; 
+―sewage‖ includes residential, industrial and commercial waste 
+and such other matter or substance as may be prescribed; 
+―sewerage service‖ includes the removal of sewage by pipe 
+from the exterior of any domestic, commercial, 
+governmental, industrial or other building and the 
+collection, transportation, treatment and disposal of such 
+sewage; 
+―sewerage works‖ means any works for the collection, 
+transmission, treatment and disposal of sewage or any 
+part of such works; 
+―subsistence garden‖ means a garden, used in connection with 
+a dwelling or group of dwellings for the subsistence of the 
+residents of the dwelling, the produce of which is 
+predominantly consumed by the residents; 
+―street‖ includes any highway, road, lane, footway, square, 
+court, alley or passage, whether a thoroughfare or not; 
+―tariff‖ means the rate charged to the customer by the service 
+licensee for a service, calculated according to the tariff 
+scheme; 
+―tariff scheme‖ means a tariff scheme established under 
+section 78; 
+―tariff review‖ means an annual tariff review, an extraordinary 
+tariff review or a triennial tariff review; 
+―triennial period‖ means the period of 3 years between each 
+triennial tariff review; 
+―triennial tariff review‖ means a triennial tariff review under 
+section 81; 
+
+
+--- PAGE 13 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+13
+Revision Date: 31 Dec 2008 
+ 
+―universal service‖ means service which allows all persons 
+access within one kilometer of their dwelling; 
+―waste‖ includes any solid, liquid or gaseous material including 
+but not limited to logs, bottles, tins, sawdust, derelict 
+vehicles, cartons, plastic, paper, glass, food, animal 
+remains, garbage, refuse, debris, gravel stone, sand dirt or 
+sewage or other material which may cause pollution; 
+―waste control area‖ means an area declared to be a waste 
+control area under section 24; 
+―water‖ includes— 
+(a) 
+water flowing or situated upon the surface of any 
+land; 
+(b) 
+water flowing or contained in any natural course for 
+water or any lake or spring whether or not it has 
+been altered or artificially improved; 
+(c) 
+estuarine or coastal water; 
+(d) 
+groundwater; and 
+(e) 
+water contained by works acquired, constructed, 
+improved or operated by or on behalf of a service 
+licensee; 
+―water control area‖ means an area declared to be a water 
+control area under section 23; 
+―watercourse‖ includes all rivers, streams, ditches, gullies, 
+culverts, dykes and passages through which water flows, 
+whether on the surface or underground, except water 
+mains and sewers; 
+―water resource‖ includes— 
+(a) 
+any surface of any land upon which water is 
+situated or is flowing; and 
+(b) 
+any watercourse; 
+―water supply service‖ includes potable water supply service 
+and raw water supply service; 
+―waterworks‖ includes all existing reservoirs, intakes, 
+catchments, dams, tanks, cisterns, deep wells or 
+boreholes, tunnels, pillar beds, conduits, aqueducts, pipes, 
+
+
+--- PAGE 14 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+14 
+fountains, sluices, valves, hydrants, pumps and all other 
+structures or appliances which— 
+(a) 
+are used or intended to be used or constructed for 
+the supply, storage, purification, conveyance, 
+support, measurement or regulation of water by or 
+on behalf of a service licensee, or 
+(b) 
+may be used or constructed for the purposes 
+referred to in paragraph (a) by a service licensee, 
+and which belong to or are managed by or leased to 
+the service licensee; 
+―works‖ includes the facilities and works of expansion, 
+replacement and network improvement for the provision 
+of a service. 
+(Amended by Act 13 of 2008) 
+PART 2 
+WATER RESOURCE MANAGEMENT 
+Division 1 
+Water Resource Management Agency 
+3. 
+ESTABLISHMENT OF AGENCY 
+ 
+(1) 
+There is hereby established the Water Resources Management 
+Agency for the purpose of managing water resources. 
+(2) 
+The Agency shall be under the portfolio of the Minister 
+responsible for agriculture and shall be administered by a 
+Director assisted by a Deputy Director and other necessary 
+administrative and technical personnel appointed by the Public 
+Service Commission. 
+(3) 
+The Director shall report to the Minister. 
+(4) 
+The Minister may appoint such persons as the need arises on an 
+ad hoc basis to give technical advice to the Agency. 
+4. 
+FUNCTIONS AND POWERS OF THE AGENCY 
+(1) 
+The functions and powers of the Agency include the 
+following— 
+
+
+--- PAGE 15 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+15
+Revision Date: 31 Dec 2008 
+ 
+(a) 
+receiving and considering applications for abstraction 
+licences, and permits for use of water in water control 
+areas and permits for discharge of waste in waste control 
+areas and making recommendation to the Minister for the 
+approval of such applications; 
+(b) 
+establishing and maintaining a database of information 
+necessary and relating to water resource management; 
+(c) 
+promoting the sustainability of water resources; 
+(d) 
+advising on the conservation and use of water resources; 
+(e) 
+promoting public awareness concerning the use and 
+management of water resources; 
+(f) 
+undertaking water resources assessment and planning, 
+including 
+surveying, 
+monitoring, 
+research 
+and 
+development; 
+(g) 
+developing watershed management plans and facilitating 
+regulation accordingly; 
+(h) 
+undertaking the preparation of water master plans and 
+allocation schemes; 
+(i) 
+advising the Government on the administration of 
+enactments that relate to or in any way affect the 
+conservation or use of water resources; 
+(j) 
+providing technical advice to the Commission in support 
+of the Commission‘s regulatory functions; 
+(k) 
+advising the Minister in relation to abstraction licences 
+under Division 4; 
+(l) 
+advising the Minister in relation to water control areas 
+and waste control areas under Division 5; 
+(m) advising the Minister in relation to water related 
+emergencies under Division 3; 
+(n) 
+advising the Minister in relation to gathering grounds 
+under Division 2. 
+(2)  Where the Agency reasonably suspects that an abstraction licensee  or a 
+permit holder is in breach of this Act, the Regulations or an abstraction 
+licence or a permit held by an abstraction licensee or a permit holder or 
+where an allegation of breach is made to the Agency against an 
+abstraction licensee or a permit holder, the Agency may conduct any 
+investigation it considers necessary in relation to the abstraction licensee 
+
+
+--- PAGE 16 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+16 
+or permit holder and may perform any of the following in the course of 
+such investigation — 
+(a)  compel the production of documents and records in 
+the custody or control of the abstraction licensee or 
+permit holder; 
+ (b) compel the appearance of an employee or officer of 
+an abstraction licensee or permit holder or any other 
+person for the purpose of ascertaining compliance 
+with this Act, the Regulations or the abstraction 
+licence or permit; 
+(c)  inspect, examine or make copies of any document 
+or record in the possession of the abstraction 
+licensee or permit holder relevant to the abstraction 
+licence or permit held by the abstraction licensee or 
+permit holder; 
+(d)  require the verification of income and all other 
+matters pertinent to an abstraction licence or a 
+permit; 
+(e)   or inspect any premises for the purpose of 
+ascertaining 
+compliance 
+with 
+this 
+Act, 
+the 
+Regulations or the permit; or 
+(f)  
+seize, remove or impound any document or records 
+relating to an abstraction licence or a permit for the 
+purposes of examination and inspection. 
+ (3) In carrying out the provisions of subsection (2), the Agency 
+may consult any department of Government or statutory body 
+likely to be affected, and shall send to the department of 
+Government or statutory body likely to be affected, a copy of 
+any report prepared by the Agency in consequence of any 
+investigation made under subsection (2). 
+(Amended by Act 13 of 2008) 
+5. 
+REVENUE OF AGENCY 
+(1) 
+All sums received by the Agency in respect of application fees, 
+licence fees and permit fees and other charges imposed by the 
+Agency under this Act shall be paid into the Consolidated Fund. 
+ [Next page is page 16A] 
+
+
+--- PAGE 17 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+16A
+Revision Date: 31 Dec 2008 
+ 
+(2) For the proper discharge of its functions the Agency shall receive 
+its revenue from sums allocated to the Agency by Parliament. 
+[Next page is 17] 
+
+
+--- PAGE 19 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+17
+Division 2 
+Crown Rights in Water, Protection of Water and Gathering Grounds 
+6. 
+CROWN RIGHTS IN WATER 
+(1) 
+The right to water is hereby vested in the Crown and may be 
+exercised on its behalf by the Minister in accordance with this 
+Act. 
+(2) 
+The Crown shall, in exercising its right to water under 
+subsection (1)— 
+(a) 
+investigate, use, control, conserve, protect, manage and 
+administer water in Saint Lucia for domestic purposes; 
+(b) 
+engage in 
+industrial, commercial, hydro-electrical, 
+geothermal, navigation, fishing and agricultural activities 
+in so far as such activities relate to water; 
+(c) 
+preservation of flora and fauna in gathering grounds; and 
+(d) 
+prevent and mitigate the effects of erosion, drainage, 
+pollution and flooding. 
+7. 
+PROTECTION OF WATER 
+Where upon recommendation by the Agency, the Minister is satisfied 
+that the quantity or quality of any water is threatened, the Minister 
+shall— 
+(a) 
+cause to be carried out, such operations as he or she 
+considers appropriate to prevent any matter from entering 
+the water, or to remove or dispose of any matter and to 
+remedy or mitigate any pollution caused by the presence 
+of any matter in the water; and 
+(b) 
+immediately request the Minister responsible for health 
+and any other Minister to take appropriate action in 
+accordance with the law in force in Saint Lucia. 
+8. 
+GATHERING GROUNDS 
+(1) 
+All areas of land on which water is collected for the purposes of 
+water works which are declared to be gathering grounds under 
+the repealed Act or declared to be a protected forest or 
+
+
+--- PAGE 20 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+18 
+protected reserve under the Forest Soil and Water Conservation 
+Act are hereby declared to be gathering grounds under this Act. 
+(2) 
+The Minister shall as soon as is practicable after the 
+commencement of this Act publish a list specifying the 
+boundaries of all areas of land declared to be gathering grounds 
+in accordance with subsection (1). 
+(3) 
+Where, on the advice of the Agency, the Minister is satisfied 
+that an additional gathering ground is required for the purposes 
+of extending or augmenting the water supply, the Minister shall 
+cause the limits or areas thereof to be marked out and the 
+Minister shall, subject to subsection (5), by order published in 
+the Gazette and at least 2 newspapers in general weekly 
+circulation in Saint Lucia, specify the boundaries of the area 
+and declare the area to be a gathering ground. 
+(4) 
+Where an order is published under subsection (3), the land 
+declared to be a gathering ground shall be acquired by the 
+Government and compensation shall be payable to the owner of 
+the land in accordance with the Land Acquisition Act. 
+(5) 
+No area of land within the limits of a gathering ground shall be 
+granted, devised or otherwise disposed of except in keeping 
+with such conditions as may be laid down by the Minister. 
+9. 
+PROTECTION OF DEFINED AREA AROUND GATHERING 
+GROUNDS 
+(1) 
+On the advice of the Agency and for the purpose of protecting 
+the quantity or quality of water in any gathering ground the 
+Minister may, by order published in the Gazette and at least 2 
+newspapers in general weekly circulation in Saint Lucia— 
+(a) 
+define an area of land around a gathering ground which is 
+in need of protection; 
+(b) 
+prohibit or regulate the doing within that area of land of 
+any act specified in the order; and 
+(c) 
+construct mechanisms to restrict access to that area of 
+land. 
+(2) 
+Where an order is published in the Gazette under subsection 
+(1), the Government shall pay adequate compensation to the 
+owner of the land for the loss of the use prohibited or regulated. 
+
+
+--- PAGE 21 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+19
+(3) 
+Despite subsection (1)(b), the acts prohibited or regulated by 
+the order made by the Minister under this section shall 
+include— 
+(a) 
+the placing, deposit or discharge within the area of 
+material of any kind that is likely to impair the quality or 
+significantly reduce the quantity of the water or the 
+storage capacity of the gathering ground; 
+(b) 
+such other acts or omissions as may be considered likely 
+to impair the quality or significantly reduce the quantity 
+of the water or the storage capacity of the gathering 
+ground. 
+(4) 
+A person who contravenes an order made under this section 
+commits an offence and upon summary conviction is liable to a 
+fine of not less than $3,000 or to imprisonment for a term of not 
+less than 6 months or to both and to a further fine of not less 
+than $50 for each day during which the offence continues. 
+Division 3 
+Emergencies 
+10. 
+WATER-RELATED EMERGENCIES 
+(1) 
+Where on the advice of the Agency the Minister is satisfied that 
+by reason of an exceptional shortage of rain, or contamination 
+of water, a serious deficiency of supplies of water exists or is 
+threatened, the Minister shall forthwith, by order published in 
+the Gazette, in at least 2 newspapers in general weekly 
+circulation in Saint Lucia and by any other media declare a 
+water-related emergency and may— 
+(a) 
+permit the taking of water from any source specified in 
+the order; 
+(b) 
+prohibit or limit the use of water for any purpose 
+specified in the order; 
+(c) 
+prohibit or limit the taking by any person of water from a 
+source specified in the order if the Minister is satisfied 
+that the taking of water from that source depletes or 
+otherwise affects the supplies available to the public; 
+(d) 
+prohibit any activity which may cause the contamination 
+of the water; and 
+
+
+--- PAGE 22 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+20 
+(e) 
+cater for any other matter as appears to the Minister to be 
+expedient to meet the water-related emergency. 
+(2) 
+An order made under subsection (1) shall be revoked by the 
+Minister by order published in the Gazette, in at least 2 
+newspapers in general weekly circulation in Saint Lucia and by 
+any other media, as soon as practicable after the deficiency or 
+threatened deficiency has been made good or removed. 
+(3) 
+A person who contravenes a provision of an order made under 
+subsection (1)(b), (c) or (d) commits an offence and upon 
+summary conviction is liable to a fine of not less than $3,000 or 
+to imprisonment for a term of not less than 6 months or to both 
+and to a further fine of not less than $50 for each day during 
+which the breach continues. 
+Division 4 
+Abstraction of Water 
+11. 
+PRIVATE USE OF WATER 
+(1) 
+Subject to sections 10 and 25, the occupier of any land, his or 
+her family and employees ordinarily resident on that land are 
+entitled to abstract and use any water within the boundary of 
+that land for the domestic necessities of his or her household, 
+including the watering of livestock and the irrigation of a 
+subsistence garden provided that such abstraction or use does 
+not compromise the quality or the quantity of the water supply. 
+(2) 
+The rights under subsection (1) shall not extend to the 
+intentional blocking of access to water by any person. 
+12. 
+REQUIREMENT FOR ABSTRACTION LICENCE 
+(1) 
+A person shall not abstract water for any use other than a use 
+specified in section 11 unless that person is a holder of a valid 
+abstraction licence. 
+(2) 
+A person who contravenes subsection (1) commits an offence 
+and upon summary conviction is liable to a fine of not less than 
+$3,000 or to imprisonment for a term not less than 6 months or 
+to both and to a further fine of not less than $50 for each day 
+during which the offence continues. 
+
+
+--- PAGE 23 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+21
+(3) 
+An abstraction licence granted under this Division shall not 
+have the effect of dispensing with the necessity of obtaining any 
+other permission where such permission is required under any 
+law in force in Saint Lucia. 
+13. 
+ABSTRACTION LICENCE AS OF RIGHT 
+A person who has been abstracting water for a continuous period of 
+24 months prior to the date of commencement of this Act is, subject 
+to section 18, entitled on application to the Agency made within 6 
+months of commencement of this Act in accordance with section 14, 
+to the grant of an abstraction licence for a period which expires one 
+year after the date of commencement of this Act. 
+14. 
+APPLICATION FOR ABSTRACTION LICENCE 
+(1) 
+Subject to subsection (2), a person may in the prescribed form 
+apply to the Minister for an abstraction licence to abstract water 
+for use other than the use to which section 11 applies. 
+(2) 
+A person shall submit the application made under subsection 
+(1) to the Agency together with the prescribed application fee. 
+15. 
+RECOMMENDATION BY AGENCY 
+(1) 
+Subject to subsections (2), (3) and (4) and to section 13, where 
+an application is submitted to the Agency under section 14, the 
+Agency shall, having regard to the factors referred to in 
+subsection (6), make a recommendation to the Minister for the 
+grant or refusal of an abstraction licence to the applicant and 
+shall give written reasons for a recommendation of refusal. 
+(2) 
+The Agency may within 14 days of the receipt of an 
+application, request additional information from the applicant 
+for the purpose of considering an application. 
+(3) 
+Where the Agency makes a request for information under 
+subsection (2), the applicant shall submit that information 
+within 14 days of the request or within a further period of time 
+granted and specified in writing by the Agency. 
+(4) 
+The Agency shall not unreasonably refuse to give a further time 
+period under subsection (3). 
+
+
+--- PAGE 24 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+22 
+(5) 
+The Agency shall submit a recommendation under subsection 
+(1) to the Minister, within 28 days of the application being 
+made or information requested under subsection (3) being 
+submitted as the case may be. 
+(6) 
+The factors referred to in subsection (1) are as follows— 
+(a) 
+the ecology, hydrology and hydrogeology of the area; 
+(b) 
+the established and projected water demands in the area; 
+and 
+(c) 
+the current and projected availability of water in the area. 
+16. 
+GRANT OR REFUSAL OF ABSTRACTION LICENCE 
+(1) 
+In accordance with a recommendation made under section 15, 
+the Minister shall grant or refuse an abstraction licence and 
+shall within 14 days of the receipt of the recommendation notify 
+the applicant of the grant or the refusal and shall give the 
+reasons in writing for a refusal. 
+(2) 
+A person aggrieved by the decision of the Minister under 
+subsection (1) shall have the right of appeal in accordance with 
+section 96. 
+17. 
+NO RECOMMENDATION OR NOTICE 
+(1) 
+If no recommendation is made by the Agency within the period 
+specified in section 15(5) or if no notification is given by the 
+Minister to the applicant within the 14 day period specified in 
+section 16(1), the applicant shall have the right to make a case 
+before the Agency and the Agency shall hear the case following 
+an application to the Agency by the applicant. 
+(2) 
+The application for a hearing before the Agency shall be in the 
+prescribed form. 
+(3) 
+Where, after a hearing under subsection (2)— 
+(a) 
+the application is refused, or 
+(b) 
+the Agency fails to make a recommendation or the 
+Minister fails to give a notice within 14 days of the 
+hearing; 
+the applicant shall have the right to appeal under section 96. 
+
+
+--- PAGE 25 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+23
+18. 
+ISSUANCE AND FORM OF ABSTRACTION LICENCE 
+An abstraction licence granted under this Division shall be issued on 
+payment of the prescribed abstraction licence fee to the Agency and 
+be in the prescribed form and— 
+(a) 
+shall clearly establish the scope of the abstraction licence; 
+and 
+(b) 
+shall include the terms and conditions, in addition to those 
+provided for in this Act or the regulations, under which 
+the abstraction licence is granted, based on the situation 
+regarding the relevant natural resources. 
+19. 
+VALIDITY OF ABSTRACTION LICENCE 
+Subject to sections 13 and 21, an abstraction licence shall be valid for 
+the period specified in it. 
+20. 
+BREACHES BY ABSTRACTION LICENSEE 
+Where an allegation of breach of the terms of an abstraction licence is 
+made by an aggrieved person to the Agency or where the Agency 
+reasonably suspects an abstraction licensee of being in breach of its 
+abstraction licence, the Agency, shall conduct an investigation in 
+accordance with section 4(2) and if it finds that— 
+(a) 
+the person‘s allegations or its suspicions are substantiated, 
+it shall so notify the abstraction licensee of its findings 
+and where appropriate issue directions to the abstraction 
+licensee— 
+ 
+(i) 
+requesting the abstraction licensee to stop the 
+breach and take remedial action and stipulating a 
+time period within which such remedial action is to 
+be completed, and 
+ 
+(ii) 
+requesting the abstraction licensee to compensate 
+the Government or any person aggrieved for any 
+foreseeable damages caused by the breach within a 
+specific time period; 
+(b) 
+the person‘s claim is frivolous or vexatious or that its 
+suspicions are incorrect, it shall stop its investigations and 
+the person bringing the action shall be liable for the cost 
+incurred. 
+
+
+--- PAGE 26 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+24 
+21. 
+SUSPENSION OR REVOCATION OF ABSTRACTION LICENCE 
+Where an abstraction licensee fails to comply with any direction 
+given by the Agency under section 20, the Agency shall advise the 
+Minister who may suspend or revoke the abstraction licence of the 
+abstraction licensee in accordance with the terms of the abstraction 
+licence. 
+22. 
+OFFENCE OF NOT COMPLYING WITH DIRECTION OF AGENCY 
+FOR ABSTRACTION LICENCE 
+An abstraction licensee who fails to comply with a direction of the 
+Agency given under section 20 commits an offence and upon 
+summary conviction is liable to a fine of not less than $3,000 or to 
+imprisonment for a term of not less than 6 months or to both and to a 
+further fine of not less than $50 for each day during which the offence 
+continues. 
+Division 5 
+Water and Waste Control Areas and Permits 
+23. 
+WATER CONTROL AREA 
+(1) 
+Where on the advice of the Agency the Minister is satisfied that 
+the regulating of water use or classes of use of water in any area 
+is necessary in the public interest, the Minister shall by order 
+published in the Gazette and at least 2 newspapers in general 
+and at least weekly circulation in Saint Lucia, declare the area 
+as a water control area. 
+(2) 
+In exercising his or her authority under subsection (1), the 
+Minister shall have regard to the following factors— 
+(a) 
+the ecology, hydrology and hydrogeology of the area; 
+(b) 
+the established and projected water demands in the area; 
+and 
+(c) 
+the current and projected availability of water in the area. 
+(3) 
+An order under subsection (1) shall specify the boundaries of 
+the water control area, the abstraction, use or classes of use 
+required to be regulated. 
+
+
+--- PAGE 27 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+25
+24. 
+WASTE CONTROL AREA 
+(1) 
+Where on the advice of the Agency, the Minister is satisfied 
+that the regulating of the discharging of wastes or classes of 
+wastes into or on— 
+(a) 
+any land; 
+(b) 
+any sewer or drain; 
+(c) 
+any bore; or 
+(d) 
+any water, 
+is necessary to protect the water resources from pollution or 
+reduction in water quality, the Minister shall by order published 
+in the Gazette declare the area to be a waste control area. 
+(2) 
+In exercising his or her authority under subsection (1), the 
+Minister shall have regard to the factors listed in section 23(2), 
+and to the necessity of protecting the health of the public and 
+the requirements of established and intended uses of water 
+resources, including protection of the fauna and flora of 
+watercourses and he or she shall also have regard to the 
+desirability of protecting and enhancing the environment. 
+(3) 
+An order under subsection (1) shall specify the boundaries of 
+the waste control area and the waste or classes of waste 
+required to be regulated. 
+25. 
+REQUIREMENT FOR PERMIT 
+(1) 
+A person shall not use water in a water control area or discharge 
+waste or a class of waste in a waste control area, except in 
+accordance with a permit for the purpose granted to that person 
+by the Minister under this Division. 
+(2) 
+A person who contravenes subsection (1) commits an offence 
+and upon summary conviction is liable to a fine of not less than 
+$3,000 or to imprisonment for a term of not less than 6 months 
+or to both and to a further fine of not less than $50 for each day 
+during which the offence continues. 
+(3) 
+A permit granted under this Division shall not have the effect of 
+dispensing with the necessity of obtaining any other permission 
+where such permission is required under any law in force in 
+Saint Lucia. 
+
+
+--- PAGE 28 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+26 
+26. 
+PERMIT AS OF RIGHT 
+A person who has been using water in a water control area for a 
+continuous period at least of 24 months immediately prior to the date 
+of commencement of this Act is, subject to section 31, entitled on 
+application made in accordance with section 27, to the Agency made 
+within 6 months of commencement of this Act, to the grant of a 
+permit for a period which expires one year after the date of 
+commencement of this Act. 
+27. 
+APPLICATION FOR PERMIT 
+(1) 
+Subject to subsection (2), a person may in the prescribed form 
+apply to the Minister for a permit to— 
+(a) 
+abstract or use water in a water control area; or 
+(b) 
+discharge waste or a class of waste in a waste control 
+area. 
+(2) 
+A person shall submit the application made under subsection 
+(1) to the Agency together with the prescribed application fee. 
+28. 
+RECOMMENDATION BY AGENCY FOR PERMIT 
+(1) 
+Subject to subsections (2), (3) and (4) and to section 26, where 
+an application is submitted to the Agency under section 27, the 
+Agency shall, having regard to the factors mentioned in 
+subsection (6), make a recommendation to the Minister for the 
+grant or refusal of a permit to that applicant and shall give 
+reasons for a recommendation of refusal. 
+(2) 
+The Agency may, within 14 days of the receipt of an 
+application, request additional information from the applicant 
+for the purpose of considering an application. 
+(3) 
+Where the Agency makes a request for information under 
+subsection (2), the applicant shall submit that information 
+within 14 days of the request or within a further period of time 
+granted and specified in writing by the Agency. 
+(4) 
+The Agency shall not refuse to grant a further time period under 
+subsection (3) unless it is reasonable to do so. 
+(5) 
+The Agency shall submit a recommendation made under 
+subsection (1) to the Minister within 28 days of the application 
+
+
+--- PAGE 29 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+27
+being made or information requested under subsection (3) being 
+submitted as the case may be. 
+(6) 
+The factors referred to in subsection (1) are as follows— 
+(a) 
+the ecology, hydrology and hydrogeology of the area; 
+(b) 
+the established and projected water demands in the area; 
+and 
+(c) 
+the current and projected availability of water in the area. 
+29. 
+GRANT OR REFUSAL OF PERMIT 
+(1) 
+In accordance with a recommendation made under section 28, 
+the Minister shall grant or refuse a permit and shall within 14 
+days of the receipt of the recommendation notify the applicant 
+of the grant or the refusal and shall give the reasons in writing 
+for a refusal. 
+(2) 
+A person aggrieved by the decision of the Minister under 
+subsection (1) shall have the right of appeal in accordance with 
+section 96. 
+30. 
+NO RECOMMENDATION OR NOTICE FOR PERMIT 
+(1) 
+If no recommendation is made by the Agency within the period 
+specified in section 28(5) or if no notification is given by the 
+Minister to the applicant within the 14 day period specified in 
+section 29(1), the applicant shall have the right to make a case 
+before the Agency and the Agency shall hear the case following 
+an application by the applicant. 
+(2) 
+The application for a hearing before the Agency shall be in the 
+prescribed form. 
+(3) 
+Where, after a hearing under subsection (1)— 
+(a) 
+the application is refused, or the Agency fails to make a 
+recommendation; or 
+(b) 
+the Minister fails to give a notice within 14 days of the 
+hearing; 
+the applicant shall have the right to appeal under section 96. 
+
+
+--- PAGE 30 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+28 
+31. 
+ISSUANCE AND FORM OF PERMIT 
+A permit granted under this Division shall be issued on payment of 
+the prescribed permit fee to the Agency and be in the prescribed form 
+and shall— 
+(a) 
+clearly establish the scope of the permit; 
+(b) 
+include the terms and conditions, in addition to those 
+provided for in this Act or the regulations, under which 
+the permit is granted, based on the situation regarding the 
+relevant natural resources. 
+32. 
+VALIDITY OF PERMIT 
+Subject to sections 26 and 34, a permit shall be valid for the period 
+specified in it. 
+33. 
+BREACHES BY PERMIT HOLDER 
+Where an allegation of breach of the terms of a permit is made to the 
+Agency by an aggrieved person or where the Agency reasonably 
+suspects that a permit holder is in breach of the permit holder‘s 
+permit, the Agency, shall conduct an investigation in accordance with 
+section 4(2) and if it finds that— 
+(a) 
+the person‘s allegations or its suspicions are substantiated, 
+it shall so notify the permit holder of its findings and 
+where appropriate issue directions to the permit holder 
+including a direction to stop the breach; 
+(b) 
+the person‘s allegations are frivolous or vexatious or its 
+suspicions are incorrect, it shall stop its investigations and 
+the person bringing the action shall be liable for the cost 
+incurred. 
+34. 
+SUSPENSION OR REVOCATION OF PERMIT 
+Where a permit holder fails to comply with a direction given by the 
+Agency under section 33, the Agency shall advise the Minister who 
+may suspend or revoke the permit of the permit holder in accordance 
+with the terms of the permit. 
+
+
+--- PAGE 31 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+29
+35. 
+OFFENCE OF NOT COMPLYING WITH DIRECTION OF AGENCY 
+FOR PERMIT 
+A permit holder who fails to comply with a direction given by the 
+Agency under section 33 commits an offence and upon summary 
+conviction is liable to a fine of not less than $3,000 or to 
+imprisonment for a term of not less than 6 months or to both and to a 
+further fine of not less than $50 for each day during which the offence 
+continues. 
+PART 3 
+WATER SUPPLY AND SEWERAGE SERVICES 
+Division 1 
+Commission 
+36. 
+ESTABLISHMENT OF COMMISSION 
+(1) 
+There is hereby established a Commission to be known as the 
+National Water and Sewerage Commission for the purpose of 
+regulating the delivery of water supply services and sewerage 
+services throughout Saint Lucia. 
+(2) 
+The Commission is a body corporate to which section 19 of the 
+Interpretation Act applies. 
+(3) 
+The Commission shall be administered by a Board which, 
+subject to subsection (4), comprises a Chairperson and 4 other 
+members, excluding the Executive Director, appointed by the 
+Cabinet from among persons of high repute and integrity and 
+who have experience of, and proven capacity in, matters 
+relating to regulation of public services, public health, water 
+resource 
+management, 
+industry, 
+finance, 
+economics, 
+engineering, accountancy, commerce, consumer affairs or law. 
+(4) 
+A person shall be disqualified from being a member of the 
+Board if that person— 
+(a) 
+holds or is beneficially interested in any stock, share, 
+bond, debenture or other security of, or other interest in, 
+any service licensee or any other company which is in 
+competition with, or provides similar services to those 
+provided by the service licensee; 
+(b) 
+is adjudged by a court to be a bankrupt; 
+
+
+--- PAGE 32 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+30 
+(c) 
+is declared by a court to be physically or mentally 
+incapacitated by reason of unsoundness of mind; 
+(d) 
+has been convicted of an offence involving dishonesty; 
+(e) 
+is the holder of any paid office with the Government of 
+Saint Lucia. 
+(5) 
+Cabinet shall by order publish the names of the members of the 
+Commission in the Gazette. 
+(Amended by Act 13 of 2008) 
+37. 
+FUNCTIONS AND POWERS AND EXEMPTION FROM LIABILITY 
+OF COMMISSION 
+(1) 
+The functions and powers of the Commission include the 
+following— 
+(a) 
+receiving and considering applications for the— 
+ 
+(i) 
+provision of a water supply service, 
+ 
+(ii) 
+provision of a sewerage service; 
+(b) 
+making recommendations to the Minister for the approval 
+of applications made under paragraph (a); 
+(c) 
+establishing and approving tariff schemes in accordance 
+with Division 5 of this Part; 
+(d) 
+promoting economy and efficiency in the delivery of any 
+services; 
+(e) 
+subject to this Part, ensuring the economic regulation of 
+any service; 
+(f) 
+determining the validity of a claim by a customer against 
+a service licensee in accordance with the terms of the 
+service licence in the event that the customer and the 
+service licensee have not been able to resolve the claim 
+and determining the consequences that result from such a 
+determination; 
+(g) 
+advising the Minister in the financing and carrying out of 
+the water works; 
+(h) 
+advising the Minister on the standards to be set in the 
+regulations relating to— 
+ 
+(i) 
+the provision of a service, 
+ 
+(ii) 
+environmental performance, 
+
+
+--- PAGE 33 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+31
+(i) 
+advising the Minister with regard to the enacting of 
+regulations; 
+(j) 
+administering the provisions of this Act and the 
+regulations; 
+(k) 
+publishing information to be specified in the regulations; 
+(l) 
+determining principles and issuing instructions to each 
+service licensee regarding the accounting and information 
+systems required as the basis for the service licensee‘s 
+tariff calculations; 
+(m) providing information to be prescribed in the regulations 
+regarding a service licensee‘s activities and performance; 
+(n) 
+establishing and maintaining a database of information 
+relating to water supply, water demands and water 
+pricing; 
+(o) 
+identifying research and development resources; 
+(p) 
+considering the operation of any enactments related to or 
+in any way affecting the supply of water or sewage 
+disposal, and making to the Minister such representations 
+with respect to matters of general concern arising in 
+connection with the operation of those enactments, and 
+making such recommendations for their extension or 
+modification as the Commission thinks fit. 
+(2) 
+Where the Commission reasonably suspects that a service 
+licensee is in breach of this Act, the regulations or a licence 
+held by the service licensee as the case may be, or where an 
+allegation of breach is made to the Commission against a 
+service 
+licensee, 
+the 
+Commission 
+may 
+conduct 
+any 
+investigation it considers necessary in relation to the service 
+licensee and may perform any of the following in the course of 
+such investigation— 
+(a) 
+compel the production of documents and records in the 
+custody or control of the service licensee; 
+(b) 
+compel the appearance of an employee or officer of a 
+service licensee, or any other person for the purpose of 
+ascertaining compliance with this Act, the regulations or 
+the relevant service licence; 
+
+
+--- PAGE 34 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+32 
+(c) 
+inspect, examine or make copies of any document or 
+record in the possession of the service licensee relevant to 
+the service licence held by the service licensee; 
+(d) 
+require verification of income and all other matters 
+pertinent to the service licence or service; 
+(e) 
+enter or inspect any premises for the purpose of 
+ascertaining compliance with this Act, the regulations, 
+and the licence; and 
+(f) 
+seize, remove or impound any document or records 
+relating to the service licence or service for the purpose of 
+examination and inspection. 
+(3) 
+In carrying out the provisions of subsection (2), the 
+Commission may consult any Department of Government or 
+statutory body likely to be affected, and shall send to the 
+Department of Government or statutory body likely to be 
+affected, a copy of any report prepared by the Commission in 
+consequence of any investigation made under subsection (2). 
+(4) 
+In ensuring economic regulation of the services under 
+subsection (1)(e), the Commission shall have regard to the 
+principles listed in the Schedule. 
+(5) 
+The Commission shall not be liable for the acts of a service 
+licensee. 
+38. 
+COMMISSION TO REGULATE OWN PROCEDURE 
+Subject to this Act and to the regulations, the Commission shall 
+regulate its own procedure. 
+39. 
+SEAL 
+(1) 
+The Commission shall have an official seal. 
+(2) 
+The affixing of the official seal of the Commission shall be in 
+the presence, and witnessed by the signature, of the 
+Chairperson. 
+(3) 
+All documents, other than those required by law to be under 
+seal, which are executed by, and all decisions of, the Board 
+shall be signed by the Chairperson or any other member duly 
+authorized in writing by the Chairperson to act on behalf of the 
+Chairperson. 
+
+
+--- PAGE 35 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+33
+40. 
+EXECUTIVE DIRECTOR 
+(1) 
+The affairs of the Commission on shall be managed by the 
+Executive Director, appointed by the Board after consultation 
+with Cabinet, who shall be ex officio the Secretary to the Board 
+and who shall attend meetings of the Board. 
+(2) 
+The Board after consulation with Cabinet may, during the 
+absence of the Executive Director, appoint a person to act as 
+Executive Director upon such terms and conditions as the 
+Board may determine. 
+(Amended by Act 13 of 2008) 
+41. 
+MEETINGS OF BOARD 
+(1) 
+The Board shall meet at such times as may be necessary or 
+expedient for the transaction of business and such meetings 
+shall be held at such places and times as the Chairperson shall 
+determine. 
+(2) 
+The Chairperson of the Board may at any time call a special 
+meeting of the Board and shall call a special meeting to be held 
+within 7 days of a written request for that purpose addressed to 
+the Chairperson by any other member of the Board. 
+(3) 
+The Chairperson and any other member of the Board shall be 
+deemed to be present at a meeting of the Board if that 
+Chairperson or the member participates by telephone and all 
+members participating in the meeting are able to hear and to 
+speak to each other. 
+42. 
+QUORUM 
+A meeting of the Board is duly constituted for all purposes if at the 
+commencement of the meeting there is a quorum of not less than 3 
+members of the Board, excluding the Executive Director, 
+participating in the meeting. 
+(Amended by Act 13 of 2008) 
+43. 
+VOTING 
+(1) 
+Decisions of the Board shall be taken by a majority of votes. 
+
+
+--- PAGE 36 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+34 
+(2) 
+The Chairperson shall have the right to vote and in cases of 
+equal division the Chairperson shall have the casting vote. 
+44. 
+CONFIDENTIALITY 
+(1) 
+Every member, officer or employee of the Commission shall at 
+all times preserve and aid in preserving confidentiality with 
+regard to all matters coming to his or her knowledge in the 
+performance of his or her duties. 
+(2) 
+Except for the performance of his or her duties or under legal 
+obligation, no member, officer or employee of the Commission 
+shall communicate any confidential matter to any person or, 
+unless under legal obligation, grant access to any person to any 
+records in the possession, custody or control of the 
+Commission. 
+45. 
+DECLARATION OF INTEREST AND ABSTENTION FROM 
+VOTING 
+(1) 
+A member of the Board who is in any way, either directly or 
+indirectly, interested in a matter before the Commission shall 
+declare the nature of his or her interest at the first meeting of 
+the Board at which it is practicable to do so and shall leave the 
+meeting upon the matter coming up for discussion. 
+(2) 
+A declaration and the departure of a member of the Board from 
+the meeting in accordance with subsection (1) shall be noted in 
+the minutes of the meeting. 
+(3) 
+A member of the Board shall not— 
+(a) 
+vote in respect of a matter before the Board in which he 
+or she is in any way interested, whether directly or 
+indirectly; or 
+(b) 
+seek to influence the vote of any other member of the 
+Board in relation to the matter. 
+(4) 
+A member of the Board who fails to comply with subsection (3) 
+shall be promptly removed from the Board. 
+
+
+--- PAGE 37 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+35
+46. 
+TERMS OF APPOINTMENT 
+(1) 
+The appointment of a member of the Board shall, subject to 
+subsection (2), be for a period of not less than 3 years and no 
+more than 7 years and the person so appointed shall be eligible 
+for re-appointment. 
+(2) 
+The appointments of the members of the Board shall be 
+staggered in accordance with the regulations. 
+47. 
+REVOCATION 
+Cabinet may at any time, in writing, revoke the appointment of any 
+member of the Board if, upon evidence, Cabinet is satisfied that the 
+member is disqualified from being a member of the Board under 
+section 36(4), or is guilty of neglect of duty, misconduct or 
+malfeasance. 
+48. 
+RESIGNATION 
+(1) 
+A member of the Board shall, by letter to the Cabinet Secretary 
+resign from the membership of the Board immediately if that 
+member becomes disqualified by virtue of section 36(4). 
+(2) 
+A member of the Board may, for any reason other than 
+disqualification 
+under 
+section 
+36(4), 
+resign 
+from 
+the 
+membership of the Board by giving at least 3 months notice in 
+writing to Cabinet of his or her resignation. 
+49. 
+VACATION 
+The office of a member of the Board is vacated— 
+(a) 
+upon the death of the member; 
+(b) 
+if the member becomes disqualified under section 36(4); 
+(c) 
+if the member resigns from membership under section 48; 
+(d) 
+if Cabinet revokes the appointment of that member under 
+section 45 or 47; or 
+(e) 
+if the member fails to attend 3 consecutive meetings of 
+the Board without presenting a medical certificate or 
+without being excused by Cabinet in writing. 
+
+
+--- PAGE 38 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+36 
+50. 
+DECISIONS NOT INVALIDATED 
+(1) 
+A vacancy in the membership of the Board shall not invalidate 
+a decision of the Board made at a meeting with the quorum 
+required under section 42. 
+(2) 
+Where a disqualified member sits at a meeting of the Board, the 
+Board may review and amend its decision within 2 months of 
+that decision being made. 
+51. 
+STAFF 
+(1) 
+The Commission may, in accordance with the regulations, 
+appoint such staff as it may require for the proper carrying out 
+of its functions under this Act. 
+(2) 
+A person appointed under subsection (1) shall perform the 
+duties assigned to him or her by the Executive Director. 
+52. 
+REMUNERATION 
+The members of the Board shall be remunerated in accordance with 
+the regulations. 
+(Amended by Act 13 of 2008) 
+53. 
+FUND FOR USE BY COMMISSION 
+(1) 
+There is hereby established a fund to be known as the Water 
+and Sewerage Fund to be used by the Commission as revenue 
+for the execution of its functions and the discharge of its 
+obligations under this Act. 
+(2) 
+The Fund shall consist of— 
+(a) 
+sums received by the Commission in respect of 
+application fees and service licence fees and other charges 
+imposed by the Commission under this Act; 
+(b) 
+the levy collected by any service licensee under section 
+85; 
+(c) 
+sums allocated to the Commission by Parliament; 
+(d) 
+revenue raised by the Commission in the form of loans, 
+grants, investments or other means; and 
+
+
+--- PAGE 39 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+37
+(e) 
+all other sums that may become payable to or vested in 
+the Commission in respect of matters incidental to its 
+powers and duties. 
+(3) 
+The Commission may establish a Reserve Fund into which may 
+be paid any surplus funds of the Commission. 
+(4) 
+The Commission may withdraw any funds from the Reserve 
+Fund in cases of a shortfall for purpose of exercising its 
+functions or discharging its duties under this Act. 
+(5) 
+Subject to any general or specific direction of Cabinet, the 
+funds in the Reserve Fund may be invested in securities by the 
+Commission on such terms and conditions determined by the 
+Commission except that the Commission shall not invest its 
+funds in securities offered by any person under its supervision. 
+54. 
+FINANCIAL YEAR OF COMMISSION 
+The financial year of the Commission shall begin on 1 January and 
+shall end on 31 December in each year. 
+55. 
+BUDGET AND PLAN OF ACTION OF COMMISSION 
+The Board shall not later than October 31st in each year cause to be 
+prepared and shall adopt and submit to Cabinet— 
+(a) 
+a budget with the estimates of its income and expenditure; 
+and 
+(b) 
+a plan of action; 
+for the Commission in respect of the next financial year. 
+56. 
+ACCOUNTS OF COMMISSION 
+The Commission shall keep proper records of accounts in accordance 
+with generally accepted international standards and principles and 
+shall prepare and retain financial statements in respect of each 
+financial year. 
+57. 
+AUDIT OF COMMISSION 
+(1) 
+The Commission shall as soon as is practicable after each 
+financial year have its accounts audited annually by an 
+
+
+--- PAGE 40 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+38 
+independent auditor appointed by the Board, who shall conduct 
+the audit in accordance with generally accepted international 
+auditing standards and principles. 
+(2) 
+The Board, the Executive Director and staff of the Commission 
+shall grant to the auditor appointed under subsection (1) access 
+to all books, deeds, contracts, accounts, vouchers, or other 
+documents which the auditor may deem necessary and the 
+auditor may require the person holding or accountable for such 
+document to appear, make a signed statement or provide such 
+information in relation to the document as the auditor deems 
+necessary. 
+(3) 
+A person required to appear, make a signed statement or to 
+provide information under subsection (2) and who fails to 
+comply commits an offence and upon summary conviction is 
+liable to a fine not exceeding $3,000 or to imprisonment for a 
+term not exceeding 6 months or to both and to revocation of his 
+or her appointment as a member of the Board, the Executive 
+Director or a staff member of the Commission in accordance 
+with this Act. 
+58. 
+AUDITOR’S REPORT OF COMMISSION 
+An independent auditor appointed under section 57 shall as soon as 
+practicable and not later than 2 months after the end of each financial 
+year submit copies of the audited financial statement of the 
+Commission and a report on the financial statement to the Board. 
+59. 
+ANNUAL REPORT OF COMMISSION 
+(1) 
+Subject to subsection (2) and not later than 3 months after the 
+end of each financial year, the Commission shall submit to 
+Cabinet an annual report on the work and activities of the 
+Commission for that financial year and Cabinet shall not later 
+than one month later lay the same in Parliament. 
+(2) 
+An annual report under subsection (1) shall be in the form 
+prescribed and shall be accompanied by the auditor‘s report 
+under section 58 and the annual reports of all service licensees 
+submitted to the Board under section 74. 
+(3) 
+A summary of an annual report under subsection (1) shall be 
+published in the Gazette and at least 2 newspapers in general 
+
+
+--- PAGE 41 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+38A 
+Revision Date: 31 Dec 2008 
+ 
+ 
+and at least weekly circulation in Saint Lucia and the entire 
+annual report shall be available to the public on payment of the 
+prescribed fee to the Commission. 
+[Next page is 39] 
+ 
+ 
+
+
+--- PAGE 43 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+39
+Division 2 
+Service licence 
+60. 
+REQUIREMENT FOR SERVICE LICENCE 
+(1) 
+A person shall not carry on a water supply service, or a 
+sewerage service unless that person is the holder of a valid 
+service licence granted under this Act. 
+(2) 
+A person who contravenes subsection (1) commits an offence 
+and upon conviction, on indictment, is liable to a fine not 
+exceeding $100,000 or to imprisonment for a term not 
+exceeding 15 years or to both and to a further fine not 
+exceeding $500 for each day during which the offence 
+continues. 
+(3) 
+A service licence granted under this Division shall not have the 
+effect of dispensing with the necessity of obtaining any other 
+permission where such permission is required under any law in 
+force in Saint Lucia. 
+61. 
+APPLICATION FOR SERVICE LICENCE 
+(1) 
+The Minister may by notice published in the Gazette and in at 
+least 2 newspapers in weekly and general circulation in Saint 
+Lucia and by any other media invite persons to tender 
+applications for the provision of a service together with a 
+closing date for tendering of applications. 
+(2) 
+Subject to subsection (3), a person wishing to carry on a service 
+shall, whether or not a notice is published under subsection(1), 
+submit an application to the Commission for a service licence to 
+provide a water supply service or a sewerage service to the 
+public or to a part of the public. 
+(3) 
+An application under subsection (2) shall be in the prescribed 
+form and shall be accompanied by the prescribed service 
+licence fee. 
+62. 
+RECOMMENDATION BY COMMISSION FOR SERVICE LICENCE 
+(1) 
+Subject to subsections (2), (3) and (4), where applications are 
+submitted to the Commission under section 61, the Commission 
+
+
+--- PAGE 44 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+40 
+shall evaluate the applicants in accordance with the regulations 
+made under section 97(2) and— 
+(a) 
+if satisfied that an applicant has the requisite technical and 
+managerial capacity and experience in the management of 
+similar service and the financial ability for the execution 
+of the service and is the best applicant for the grant of a 
+service licence, make a recommendation to the Minister 
+for the grant of a service licence to that applicant; or 
+(b) 
+if not satisfied that the applicant has met the requirements 
+referred to in paragraph (a), make a recommendation to 
+the Minister, with reasons, for the refusal to grant a 
+service licence to that applicant. 
+(2) 
+The Commission may within 14 days of the an application 
+being made or within 14 days of the closing date for 
+applications, whichever is later request additional information 
+from an applicant for the purpose of considering the 
+application. 
+(3) 
+Where the Commission makes a request for information under 
+subsection (2), the applicant shall submit that information 
+within 14 days of the request or within a further period of time 
+granted and specified in writing by the Commission. 
+(4) 
+The Commission shall not refuse to grant a further time period 
+under subsection (3) unless it is reasonable to so refuse. 
+(5) 
+The Commission shall submit a recommendation made under 
+subsection (1) to the Minister within 28 days of the application 
+being made or information requested under subsection (3) being 
+submitted as the case may be. 
+63. 
+GRANT OR REFUSAL OF SERVICE LICENCE 
+(1) 
+In accordance with a recommendation made under section 62, 
+the Minister shall grant or refuse a service licence and shall 
+within 14 days of the receipt of the recommendation notify the 
+applicant of the grant or the refusal and shall give the reasons in 
+writing for a refusal. 
+(2) 
+A person aggrieved by the decision of the Minister shall have 
+the right of appeal under section 96. 
+
+
+--- PAGE 45 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+41
+64. 
+NO RECOMMENDATION OR NOTICE FOR SERVICE LICENCE 
+(1) 
+If no recommendation is made by the Commission within the 
+period specified in section 62(5) or if no notification is given by 
+the Minister to the applicant within the 14 day period specified 
+in section 63(1), the applicant shall have the right to make a 
+case before the Commission and the Commission shall hear the 
+case following an application by the applicant. 
+(2) 
+The application for a hearing before the Commission shall be in 
+the prescribed form. 
+(3) 
+Where, after a hearing under subsection (2)— 
+(a) 
+the application is refused; or 
+(b) 
+the Commission fails to make a recommendation or the 
+Minister fails to give a notice within 14 days of the 
+hearing, 
+the applicant shall have the right to appeal under section 96. 
+65. 
+ISSUANCE AND FORM OF SERVICE LICENCE 
+A service licence granted under section 63 shall be issued on payment 
+of the prescribed service licence fee, and— 
+(a) 
+shall clearly establish the scope of the service, including 
+the activities for maintenance and repair of the existing 
+works and the construction of facilities for the expansion 
+and improvement of the service; 
+(b) 
+shall include the terms and conditions, in addition to those 
+provided for in this Act or the regulations, under which 
+the service is to be provided by the service licensee; 
+(c) 
+shall outline the principles and shall provide instructions 
+regarding the accounting and information systems 
+required to form the basis on which tariffs are to be 
+calculated; 
+(d) 
+shall specify the financial reporting obligations of the 
+service licensee; 
+(e) 
+may require a service licensee to provide guarantees for 
+securing the performance of obligations; and 
+(f) 
+may specify special conditions for providing the service, 
+based on the situation regarding the relevant natural 
+
+
+--- PAGE 46 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+42 
+resources, and the applicable technical and economic 
+conditions. 
+66. 
+VALIDITY OF SERVICE LICENCE 
+Subject to section 88, a service licence shall be valid for the period 
+specified therein and shall be renewable in accordance with the terms 
+of the service licence. 
+Division 3 
+Service licensee 
+67. 
+OBLIGATIONS OF SERVICE LICENSEE 
+Despite the obligations established in its service licence, a service 
+licensee shall— 
+(a) 
+provide the services defined in its service licence in 
+accordance with the law in force in Saint Lucia; 
+(b) 
+provide to the Commission such complete and regular 
+information as the Commission requires in order to prove 
+compliance with the tariff, tariff scheme, plan of action, 
+claim proceedings and appeals; and 
+(c) 
+facilitate, in accordance with the regulations, the access 
+and interconnection of other service licensees who 
+provide services. 
+68. 
+RIGHTS AND POWERS OF SERVICE LICENSEE 
+A service licensee shall have all the rights and powers of a service 
+licensee specified in this Act and in its service licence. 
+69. 
+SUB-CONTRACTING 
+(1) 
+A service licensee may, with the approval of the Commission, 
+sub-contract certain of its activities to one or more third parties. 
+(2) 
+Where a service licensee has sub-contracted an activity under 
+subsection (1), the service licensee‘s obligation to perform that 
+activity remains in every respect, and the service licensee shall 
+continue to be responsible for the performance and discharge of 
+the activity. 
+
+
+--- PAGE 47 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+43
+70. 
+BUDGET AND PLAN OF ACTION OF SERVICE LICENSEE 
+A service licensee shall not later than 3 months prior to the end of its 
+financial year cause to be prepared and submit to the Commission— 
+(a) 
+a budget with the estimates of its income and expenditure; 
+and 
+(b) 
+a plan of action, 
+for the service licensee in respect of the next financial year. 
+71. 
+ACCOUNTS OF SERVICE LICENSEE 
+The service licensee shall keep proper records of accounts in 
+accordance with generally accepted international standards and 
+principles and shall prepare and retain financial statements in respect 
+of each financial year. 
+72. 
+AUDIT OF SERVICE LICENSEE 
+(1) 
+The service licensee shall as soon as is practicable after each 
+financial year have its accounts audited annually by an 
+independent auditor appointed by the service licensee, who 
+shall conduct the audit in accordance with generally accepted 
+international accounting standards and principles. 
+(2) 
+The service licensee, its directors and employees shall grant to 
+the auditor appointed under subsection (1), access to all books, 
+deeds, contracts, accounts, vouchers, or other documents which 
+the auditor may deem necessary and the auditor may require the 
+person holding or accountable for such document to appear, 
+make a signed statement or provide such information in relation 
+to the document as the auditor deems necessary. 
+(3) 
+A person required to appear, make a signed statement or to 
+provide information under subsection (2) and who fails to 
+comply commits an offence and upon summary conviction is 
+liable to a fine not exceeding $3,000 or to imprisonment for a 
+term not exceeding 6 months or to both. 
+73. 
+AUDITOR’S REPORT OF SERVICE LICENSEE 
+An independent auditor appointed under section 72 shall as soon as 
+practicable and not later than 2 months after the end of each financial 
+
+
+--- PAGE 48 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+44 
+year submit copies of the audited financial statement of the service 
+licensee and a report on the financial statement to the service 
+licensee. 
+74. 
+ANNUAL REPORT OF SERVICE LICENSEE 
+(1) 
+Subject to subsection (2) and not later than 3 months after the 
+end of each financial year the service licensee shall submit to 
+the Commission an annual report on the work and activities of 
+the service licensee for that financial year. 
+(2) 
+An annual report under subsection (1) shall be in the form 
+prescribed and shall be accompanied by the auditor‘s report 
+under section 73. 
+(3) 
+A summary of an annual report under subsection (1) shall be 
+published in the Gazette and at least 2 newspapers in general 
+weekly circulation in Saint Lucia and the entire annual report 
+shall be available to the public on payment of the prescribed fee 
+to the service licensee. 
+75. 
+STANDARDS 
+(1) 
+Subject to subsection (2), a service licensee shall comply 
+with— 
+(a) 
+the minimum standards for the quality of potable water 
+set by the Ministry responsible for health and the Bureau 
+of Standards under the Public Health Act and the 
+Standards Act; and 
+(b) 
+the minimum standards set under the regulations made 
+under section 97(2)(o). 
+(2) 
+In accordance with the Public Health Act, after consultation 
+with the Commission and the Bureau of Standards, the Minister 
+responsible for health may— 
+(a) 
+set different standards for the quality of potable water 
+based on the particular characteristics of the various 
+localities, regions or sectors where the services are to be 
+or are being provided; and 
+(b) 
+establish the terms for the achievement of those 
+standards; 
+
+
+--- PAGE 49 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+45
+and the service licensee shall, by complying with those standards, be 
+exempt from the provisions of subsection (1). 
+Division 4 
+Customer 
+76. 
+RIGHTS OF CUSTOMER 
+In addition to any other right contained in the contract between 
+customer and the customer‘s service licensee, the customer shall have 
+the right to— 
+(a) 
+be informed by the service licensee of the rights and 
+obligations of the service licensee under the service 
+licence; and 
+(b) 
+receive a service which complies with the minimum 
+standards of quality of water, provision of service and 
+environmental performance, provided for under this Act; 
+(c) 
+access the contents of a service licence and receive a copy 
+of a service licence or part of a service licence on 
+payment of the prescribed fee to the Commission; 
+(d) 
+make a claim to the Commission against his or her service 
+licensee in accordance with the terms of the service 
+licence in the event that the customer and the service 
+licensee are not able to resolve the claim. 
+77. 
+OBLIGATIONS OF CUSTOMER 
+(1) 
+In addition to any other obligation contained in the contract 
+between the customer and the customer‘s service licensee, the 
+customer shall— 
+(a) 
+pay for the services provided or made available in 
+accordance with the applicable tariff; 
+(b) 
+pay the levy; 
+(c) 
+comply with the technical regulations issued by the 
+service licensee related to service connections and the 
+maintenance of internal facilities; 
+(d) 
+allow the service licensee to install a meter on the 
+property where service is to be made available to the 
+customer in a location fixed by the service licensee; 
+
+
+--- PAGE 50 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+46 
+(e) 
+shall keep the meter located on his or her property in the 
+same condition as existed when installed, fair wear and 
+tear excepted; 
+(f) 
+report a damaged meter to the service licensee as soon as 
+the damage occurs or becomes known to the customer; 
+(e) 
+permit the service licensee or its agents and employees to 
+read the meter in accordance with the terms established in 
+the service licence. 
+(2) 
+Where a customer fails, after giving the prescribed notice, to 
+comply with subsection (1), the service licensee may suspend 
+the service to that customer except where the customer is an 
+essential service within the meaning of the Essential Services 
+Act. 
+(3) 
+Nothing in subsection (2) shall interfere with the right of the 
+licensee to sue its customer for payment of the amount owed to 
+the service licensee. 
+Division 5 
+Tariff Scheme, Tariff, Tariff Review, Subsidies and Levy 
+78. 
+TARIFF SCHEME AND TARIFF 
+(1) 
+A tariff scheme for the services of a service licensee shall be 
+based on the following general principles— 
+(a) 
+tariffs must recover— 
+(i)  
+the efficiently incurred costs of the service, and 
+(ii)  
+a reasonable return on capital, 
+thereby permitting the service licensee to attain the 
+objective of economic equilibrium; 
+(b) 
+a tariff scheme must be explicit and elaborated in a 
+manner so as to be easily understood, and must be made 
+available to customers; 
+(c) 
+subject to paragraph (d) a tariff must not be unduly 
+discriminating, in the sense that all customers in the same 
+category will be treated equally; 
+(d) 
+when demand so permits, different tariffs may be 
+established for differing localities, seasons, categories of 
+customers, volumes of water provided and volumes of 
+sewage discharged, if costs of the services so justify; 
+
+
+--- PAGE 51 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+47
+(e) 
+subject to paragraph (d), a tariff scheme must not penalize 
+the service licensee for— 
+ 
+(i) 
+past benefits or benefits obtained from operating 
+the services, 
+ 
+(ii) 
+efficiency increases different from those considered 
+in the tariff reviews; and 
+(f) 
+a tariff scheme may permit the granting of a direct 
+subsidy in accordance with section 83 or a cross subsidy 
+in accordance with section 84. 
+(2) 
+The Commission shall by order published in the Gazette and at 
+least 2 newspapers in general weekly circulation in Saint 
+Lucia— 
+(a) 
+establish a tariff scheme for the services of a service 
+licence; 
+(b) 
+modify an existing tariff scheme in accordance with the 
+modifications approved by the Commission for the 
+services of a service licensee in accordance with sections 
+80, 81 or 82. 
+79. 
+TYPES OF REVIEWS 
+There shall be 3 types of tariff reviews carried out in relation to the 
+service of a service licensee as follows— 
+(a) 
+annual tariff review; 
+(b) 
+triennial tariff review; and 
+(c) 
+extraordinary tariff review; 
+which will be considered by the Commission in approving a tariff or 
+a tariff scheme or a modification of a tariff scheme in accordance 
+with sections 80, 81 or 82. 
+80. 
+ANNUAL TARIFF REVIEW 
+(1) 
+An annual tariff review shall be carried out annually by a 
+service licensee within a triennial period between the ninth and 
+the eleventh month in each 12 month period following the date 
+of commencement of the service licence of that service 
+licensee. 
+
+
+--- PAGE 52 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+48 
+(2) 
+In carrying out the annual tariff review the service licensee shall 
+ensure that the value of the tariff is maintained in real terms, 
+regardless of the evolution of the service licensee‘s own costs 
+and using an index stipulated in the service licence. 
+(3) 
+The service licensee shall submit to the Commission the new 
+tariffs if any which it requires to be applied in accordance with 
+the tariff scheme together with supporting information for 
+approval and publication in accordance with subsection (4). 
+(4) The Commission — 
+(a)  may amend the new tariffs required by the service 
+licensee and submitted to it pursuant to subsection 
+(3), if it considers that an error has been made in 
+calculating the new tariffs; or  
+(b)  shall, if it accepts the tariffs submitted to it pursuant 
+to subsection (3), publish the new tariffs, the 
+corresponding indices and the effective date in two 
+newspapers in general and weekly circulation in 
+Saint Lucia at least one month prior to the effective 
+date. 
+(Amended by Act 13 of 2008) 
+81. 
+TRIENNIAL TARIFF REVIEW 
+(1) 
+The Commission shall carry out and complete a triennial tariff 
+review in accordance with subsections (2), (3), (4) and (5) for a 
+triennial period of at least 60 days before the end of that 
+triennial period. 
+(2) 
+In carrying out a triennial tariff review, the Commission shall 
+review the tariff scheme and level of tariffs in the service 
+licensee‘s tariff scheme, taking into consideration the new 
+quality and expansion goals set by the Commission and the 
+investment plan of the service licensee for the ensuing triennial 
+period. 
+(3) 
+The Commission shall prepare a draft report of the triennial 
+tariff review stipulating the new tariff scheme or the 
+modification of the service licensee‘s tariff scheme including 
+the tariff scheme and the level of tariffs which is required to be 
+applied to generate the required revenues for the service 
+licensee to enable it to fulfil its obligations during the 
+
+
+--- PAGE 53 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+49
+subsequent 3 years or remaining term of its licence whichever is 
+shorter, and shall publish the draft report in the Gazette and at 
+least 2 newspapers in general weekly circulation in Saint Lucia 
+and shall invite comments from the public within at least 2 
+weeks from the date of publication. 
+(4) 
+The Commission shall consider the comments made by the 
+public under subsection (3) and shall make the changes to the 
+report as it sees fit. 
+(5) 
+The Commission shall not later than 60 days prior to the end of 
+the triennial period, publish the report stipulating the new or 
+modified tariff scheme in the Gazette and in at least 2 
+newspapers in general weekly circulation in Saint Lucia. 
+(6) 
+The new or modified tariff scheme referred to in subsection (5) 
+shall be applied during the triennial period next ensuing the one 
+in which the triennial review was carried out. 
+(Amended by Act 13 of 2008) 
+82. 
+EXTRAORDINARY TARIFF REVIEW 
+(1) 
+An extraordinary tariff review shall be carried out by the 
+Commission where due to one or more circumstances listed in 
+subsection (2), a service licensee experiences what in its view 
+constitutes a significant variation in its cost structure in relation 
+to what was approved in the previous annual tariff review or 
+triennial tariff review as the case may be. 
+(2) 
+For purposes of subsection (1), a circumstance constitutes— 
+(a) 
+a substantial and unforeseen modification made to the 
+water or sewerage quality standards or to the regulations 
+imposing a substantial change in the conditions under 
+which the services are provided and which entail a cost to 
+the service licensee; 
+(b) 
+the creation, substitution or modification of taxes 
+affecting the service licensee or the provision of the 
+services; or 
+(c) 
+a substantial and unforeseen change in the conditions 
+under which the services are provided, including a 
+situation of force majeure; 
+
+
+--- PAGE 54 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+50 
+provided that in any event, the impact triggering an 
+extraordinary review, will be defined in the service licence. 
+(3) 
+In carrying out an extraordinary tariff review the Commission 
+shall define the marginal effect of each applicable circumstance 
+listed in subsection (2) on the economic equilibrium of the 
+service licensee. 
+(4) 
+The Commission shall prepare a draft report of the 
+extraordinary tariff review stipulating the new tariff scheme or 
+the modification of the service licensee‘s tariff scheme 
+including the tariff scheme and the level of tariffs which are 
+required to be applied to generate the required revenues for the 
+service licensee to enable it to fulfil its obligations during the 
+remaining term of the triennial period or its service licence 
+whichever is shorter, and shall publish the draft report in the 
+Gazette and at least 2 newspapers in general weekly circulation 
+in Saint Lucia and shall invite comments from the public within 
+at least 2 weeks from the date of publication. 
+(5) 
+The Commission shall consider the comments made by the 
+public under subsection (4) and shall make the changes as it 
+sees fit to the report. 
+(6) 
+The Commission shall as soon as is reasonably practicable 
+publish the report stipulating the new or modified tariff scheme 
+in the Gazette and at least 2 newspapers in general weekly 
+circulation in Saint Lucia. 
+(7) 
+The new or modified tariff scheme referred to in subsection (6) 
+shall be applied during the remaining term of the triennial 
+period in which the extraordinary review was carried out or the 
+remaining term of the service licence whichever is shorter. 
+(Amended by Act 13 of 2008) 
+83. 
+DIRECT SUBSIDY 
+(1) 
+Cabinet may, by order published in the Gazette, grant a direct 
+subsidy for the provisions of a service in order to ensure that 
+low income households obtain access to the service. 
+(2) 
+An order under subsection (1) shall specify the beneficiaries of 
+the direct subsidy and the precise extent of the subsidy. 
+
+
+--- PAGE 55 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+51
+(3) 
+The Commission shall advise Cabinet on the determination of 
+all aspects of any direct subsidy including the conditions under 
+which it is to apply as well as on the applicable conditions. 
+(4) 
+The operation of any direct subsidy shall be reviewed not less 
+than annually by the Commission which shall thereupon, as a 
+result, make such recommendations to Cabinet as it deems 
+appropriate regarding the termination or continuation of, or any 
+amendment to, the direct subsidy. 
+(5) 
+Subject to subsection (1), Cabinet may by order in the Gazette 
+terminate, continue or amend any existing direct subsidy. 
+84. 
+CROSS SUBSIDY 
+(1) 
+Cabinet may by order published in the Gazette provide a cross 
+subsidy for the provision of a service in order to ensure that low 
+income households obtain access to the service. 
+(2) 
+An order under subsection (1) shall specify the beneficiaries to 
+the cross subsidy and the precise extent of the cross subsidy. 
+(3) 
+The Commission shall advise Cabinet on the determination of 
+all aspects of the cross subsidy including the conditions under 
+which it is to apply. 
+(4) 
+The operation of any cross subsidy shall be reviewed not less 
+than annually by the Commission which shall, as a result, make 
+such recommendations to Cabinet as it deems, appropriate 
+regarding the termination or continuation of, or any amendment 
+to, the cross subsidy. 
+(5) 
+Subject to subsection (1), Cabinet may by order in the Gazette 
+terminate, continue or amend any existing cross subsidy. 
+85. 
+LEVY 
+(1) 
+There is hereby established a levy to be known as the water and 
+sewerage service levy which shall be charged to every customer 
+for the provision of a potable water supply service or sewerage 
+service. 
+(2) 
+The amount of the levy in relation to a service licensee and the 
+rate of any interest payable by a service licensee under 
+subsection (5) shall be determined by Cabinet by order 
+
+
+--- PAGE 56 ---
+
+ 
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+52 
+published in the Gazette and at least 2 newspapers in general 
+weekly circulation in Saint Lucia. 
+(3) 
+The levy shall be charged by each service licensee to every one 
+of its customers in the customer‘s monthly invoice and the levy 
+shall be collected by the service licensee. 
+(4) 
+The service licensee shall submit the levy to the Commission 
+within 28 days of collection and the levy shall form part of the 
+revenue of the Fund in accordance with section 53. 
+(5) 
+Where a service licensee fails to comply with subsection (4), 
+the service licensee shall be liable for the payment of the levy 
+together with interest at the rate determined by Cabinet under 
+subsection (2). 
+Division 6 
+Breaches, offences and penalties 
+86. 
+BREACH RELATING TO MINIMUM STANDARDS OF POTABLE 
+WATER 
+In the event that the quality of water provided as potable water to a 
+customer falls below the minimum standards set under this Act or to 
+any other law in force in Saint Lucia, the service licensee providing 
+the water shall immediately on becoming aware of the fall in standard 
+inform— 
+(a) 
+the Commission in writing; and 
+(b) 
+its customers, directly wherever possible and through 
+television, radio, the print media, and any other 
+reasonable means of communication, 
+indicating the preventive measures to be taken and describing the 
+problem that caused the lowering of the water quality, the reason the 
+problem arose, the measures being, and to be, taken by the service 
+licensee to restore the stipulated minimum water quality level and the 
+estimated time and expense needed for these restorative purposes, and 
+the Commission shall direct the service licensee accordingly and the 
+service licensee shall comply with the directions of the Commission. 
+87. 
+BREACHES BY THE SERVICE LICENSEE 
+(1) 
+A service licensee shall be in breach of its service licence if it— 
+(a) 
+unjustifiably interrupts the provision of its service; 
+
+
+--- PAGE 57 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+53
+(b) 
+provides potable water which fails to meet the minimum 
+standards required under this Act and to any other law in 
+force in Saint Lucia; 
+(c) 
+breaches the minimum standards set under the regulations 
+made under section 97(2)(o) for— 
+ 
+(i) 
+the-provision of service, 
+ 
+(ii) 
+environmental performance; 
+(d) 
+does not comply with the tariff scheme; 
+(e) 
+applies an incorrect invoice to a customer; or 
+(f) 
+fails to comply with any provisions of this Act, the 
+regulations or its service licence. 
+(2) 
+When an allegation of breach mentioned in subsection (1) has 
+been made to the Commission by a person aggrieved, or where 
+the Commission reasonably suspects that a service licensee is in 
+breach of its service licence, the Commission shall conduct an 
+investigation into the allegation in accordance with sections 
+37(2) and section 38 and if it finds that— 
+(a) 
+the person‘s allegations or its suspicions are substantiated, 
+it shall so notify the service licensee of its findings and 
+where it deems appropriate issue directions to the service 
+licensee— 
+ 
+(i) 
+requesting the service licensee to take remedial 
+action and stipulating a time period within which 
+such remedial action is to be completed; and 
+ 
+(ii) 
+requesting the service licensee to compensate one 
+or more of its customers for any foreseeable 
+damages caused to such customer or customers by 
+the breach within a specific time period; 
+(b) 
+the person‘s claim is frivolous or vexatious, it shall stop 
+its investigations and the person bringing the claim shall 
+be liable for the cost incurred. 
+88. 
+REMEDIAL ACTION, SUSPENSION OR REVOCATION OF 
+SERVICE LICENCE 
+Where a service licensee fails to comply with any direction given by 
+the Commission under section 87, the Commission shall advise the 
+Minister who may— 
+
+
+--- PAGE 58 ---
+
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+54 
+ 
+ 
+(a) 
+utilize the security or part of the security held by way of 
+guarantee under section 65(e), for the execution of the 
+remedial action or payment of compensation for 
+foreseeable damages caused by the breach; or 
+(b) 
+suspend or revoke the service licence of the service 
+licensee in accordance with the terms of the service 
+licence. 
+89. 
+OFFENCE OF NOT COMPLYING WITH DIRECTION OF 
+COMMISSION 
+(1) 
+Subject to subsection (2), a service licensee who fails to comply 
+with a direction  given by the Commission under section 87 
+commits an offence and upon conviction, on indictment is liable 
+to a fine not exceeding $100,000 or to imprisonment for a term 
+not exceeding 15 years or to both and to a further fine not 
+exceeding $500 for each day during which the offence 
+continues. 
+(2) 
+A prosecution for an offence pursuant to subsection (1) shall 
+not be brought during the time within which an appeal may be 
+applied for or during an appeal pursuant to section 96. 
+(Amended by Act 13 of 2008) 
+90. 
+OFFENCES IN RESPECT OF WATER SUPPLY AND SEWERAGE 
+SERVICE 
+(1) 
+A person shall not wilfully— 
+(a) 
+cause any pipe, valve, cock, cistern, bath, sink, pan, water 
+closet or other apparatus belonging to, or connected with, 
+the waterworks, to be out of repair, or to be so used or 
+contrived in such a way that the water supplied to such 
+person is or is likely to be wasted, misused, unduly 
+consumed or contaminated; 
+(b) 
+cause any pipe belonging to or connected to a pipe of the 
+waterworks to be used or manipulated in such a way as to 
+occasion or allow the return of foul, noxious or impure 
+matter therein; 
+
+
+--- PAGE 59 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+55
+(c) 
+remove or tamper with any gauge, meter, measuring 
+instrument, level, mark, or any other appliance forming 
+part of the waterworks; 
+(d) 
+damage any part of the waterworks or sewerage works; 
+(e) 
+commit any act which by itself or with other acts, 
+impedes or interrupts, or is calculated to interrupt the flow 
+of water belonging to the waterworks; 
+(f) 
+obstruct the lawful execution or implementation of any 
+provision of this Act or the regulations; 
+(g) 
+discharge any substance the composition of which 
+damages the quality of any source of water used for water 
+supply service; or 
+(h) 
+use any water supply or water system for any purpose that 
+may jeopardize the public health or alter the chemical or 
+bacteriological balance of the water in the water supply 
+system. 
+(2) 
+A person who contravenes subsection (1) commits an offence 
+and is liable on summary conviction for each offence to a fine 
+not of less than $3,000 or to imprisonment for a period of not 
+less than 6 months or both and to a further fine of not less than 
+$50 for each day during which the offence continues. 
+(3) 
+In the event any damage results to waterworks or sewerage 
+works from the commission of any of the offences mentioned in 
+this section, the Court may, in addition to the punishment 
+imposed under subsection (2), order the person convicted under 
+that subsection to pay compensation to the service licensee. 
+91. 
+OFFENCES OF OBSTRUCTING SERVICE LICENCE 
+(1) 
+A person shall not obstruct or attempt to obstruct the members, 
+officers and staff of the Commission or any service licensee in 
+the performance of any powers or functions conferred by this 
+Act. 
+(2) 
+A person who contravenes subsection (1) commits an offence 
+and upon summary conviction is liable to a fine of not less than 
+$3,000 or to imprisonment for a term of not less than 6 months 
+or to both and to a further fine of not less than $50 for each day 
+during which the offence continues. 
+
+
+--- PAGE 60 ---
+
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+56 
+ 
+92. 
+CRIMINAL LIABILITY FOR DAMAGE AND WRONGFUL SERVICE 
+CONNECTION 
+(1) 
+A person shall not— 
+(a) 
+wilfully damage the facilities or alter a meter belonging to 
+a service licensee or otherwise prevent any such meter 
+from correctly registering the quantity of water supplied 
+by the service licensee; or 
+(b) 
+connect to any pipe or meter any device capable of 
+wrongfully abstracting, diverting, consuming or using 
+water or of preventing any meter from correctly 
+registering any quantity of water supplied by a service 
+licensee. 
+(2) 
+A person who contravenes subsection (1) commits an offence 
+and upon summary conviction is liable to a fine of not less than 
+$3,000 or to imprisonment for a term of not less than 6 months 
+or to both and to a further fine of not less than $50 for each day 
+during which the offence continues. 
+(3) 
+Where there exists upon any premises or land any device 
+capable of wrongful abstracting, diverting, consuming or using 
+water or of preventing any meter from correctly registering any 
+quantity of water supplied by a service licensee the burden of 
+proof lies on the person charged to prove that the person has not 
+unlawfully abstracted or diverted water or has not unlawfully 
+prevented a meter from duly registering any quantity of water 
+supplied by the service licensee. 
+(4) 
+Without prejudice to subsection (2)— 
+(a) 
+the court may order that the service licensee recover the 
+amount of any damage sustained by the service licensee 
+from a person convicted under that subsection; and 
+(b) 
+the service licensee may discontinue service to that 
+person. 
+
+
+--- PAGE 61 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+57
+PART 4 
+MISCELLANEOUS 
+93. 
+MATTERS EXCLUDED FROM DISPUTE RESOLUTION  
+Sections 94 and 95 of this Act shall not apply to any issue, cause or 
+matter arising in relation to a tariff scheme. 
+(Amended by Act 13 of 2008) 
+94. 
+MATTERS TO BE SUBMITTED TO DISPUTE RESOLUTION  
+When a dispute relating to any matter concerning anything under this 
+Act arises between a licensee or a permit holder, and either the 
+Commission, the Agency or the Government such dispute shall be 
+resolved by dispute resolution in accordance with the Regulations. 
+(Amended by Act 13 of 2008) 
+ 
+95.   ARBITRATOR AND APPLICABLE  LAW 
+(Repealed by Act 13 of 2008) 
+96. 
+APPEAL 
+(1) 
+There is hereby established an appeals tribunal for the purpose 
+of hearing appeals against decisions of the Agency, the 
+Commission, the Minister responsible for agriculture or the 
+Minister responsible for public utilities. 
+(2) 
+The constitution and procedure of the Appeals Tribunal shall be 
+as prescribed in the regulations made under section 97(2)(q). 
+(3) 
+An appeal from a decision of the Agency, the Commission, the 
+Minister responsible for agriculture or the Minister responsible 
+for public utilities to this Act lies to the Appeals Tribunal. 
+(4) 
+A person may, within 28 days of a decision of the Agency, the 
+Commission, the Minister responsible for agriculture or the 
+Minister responsible for public utilities, apply in writing to the 
+Appeals Tribunal against that decision. 
+
+
+--- PAGE 62 ---
+
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+58 
+ 
+97. 
+REGULATIONS 
+(1) 
+The relevant Minister, after consultation with the Agency or the 
+Commission, as the case may be, may make regulations for the 
+purpose of giving effect to the provisions of this Act. 
+(2) 
+Without prejudice to subsection (1), the relevant Minister, after 
+consultation with the Agency or the Commission, as the case 
+may be, may make regulations particularly— 
+(a) 
+for the protection of customers and of the public generally 
+against personal injury or damage to property arising 
+from the operations of a service licensee; 
+(b) 
+to provide for enquiries in connection with any accident 
+which is or may be attributed to an escape of water or 
+sewerage or to the state of operation of any part of the 
+undertaking; 
+(c) 
+relating to a tariff scheme; 
+(d) 
+relating to the publication of information regarding the 
+service provided by a service licensee; 
+(e) 
+to prescribe the form of applications and service licences 
+and permits and orders under this Act; 
+(f) 
+prescribing the criteria for evaluating applicants for 
+service licences; 
+(g) 
+prescribing the form of annual reports; 
+(h) 
+to prescribe fees payable under this Act; 
+(i) 
+to prescribe application for hearing under section 
+17(2)and 64(2); and 
+(j) 
+to provide for the staggering of the terms of appointments 
+of the members Board under section 46(2); 
+(k) 
+to prescribe the allowance for a member of the review 
+panel; 
+(l) 
+prescribing the size, nature, efficiency, materials, strength 
+and workmanship, and the mode of arrangement, service 
+connection, disconnection of service, alteration and repair 
+of the water fittings to be used; 
+(m) prescribing the circumstances in which, and the methods 
+by which, water is to be stored and treated on any 
+premises; 
+
+
+--- PAGE 63 ---
+
+Laws of Saint Lucia 
+Water and Sewerage Act 
+Cap.9.03 
+ 
+Revision Date: 31 Dec 2008 
+ 
+59
+(n) 
+governing installation, operation and maintenance of 
+water supply system within a private development; 
+(o) 
+to set standards relating to— 
+ 
+(i) 
+the provisions of a service; 
+ 
+(ii) 
+to environmental performance; 
+(p) 
+prescribing the manner of facilitation of access and inter 
+connection of the other service licensees who provide 
+services; 
+(q) 
+prescribing the constitution and procedure of the Appeals 
+Tribunal. 
+(3)  The Regulations made pursuant to this section may create an 
+offence for a breach of a provision of the Regulations and a 
+person is, upon summary conviction for an offence created 
+pursuant to the Regulations, liable to a fine not exceeding 
+$1000 or to imprisonment for a term not exceeding 6 months. 
+(4) 
+For the purposes of this section— 
+―relevant Minister‖— 
+(a) 
+in the case of matters relating to water resource 
+management means the Minister responsible for 
+agriculture; 
+(b) 
+in the case of matters relating to water supply 
+service and sewerage service means the Minister 
+responsible for public utilities. 
+(Amended by Act 13 of 2008) 
+98. 
+ACT BINDS THE CROWN 
+This Act binds the Crown. 
+99. 
+SAVINGS 
+Any action, proceeding and any like matter commenced or pending 
+under the repealed Act shall continue under this Act as if it had been 
+commenced under this Act. 
+
+
+--- PAGE 64 ---
+
+Cap.9.03 
+Water and Sewerage Act 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+60 
+ 
+ 
+SCHEDULE 
+(Section 37(1)(e)) 
+ECONOMIC REGULATION 
+The economic regulation of the services shall be based on the following 
+principles— 
+1. 
+discriminatory practices in the provision of services will be limited as much 
+as possible; 
+2. 
+fair competition practices will be promoted to the extent possible in the 
+provision of services; 
+3. 
+there will be no reuse of past benefits to— 
+(a) 
+compensate deficits incurred as a consequence of business risk; 
+(b) 
+revalidate inefficiencies in the provision of the services; and 
+(c) 
+allow a service licensee to appropriate profits obtained from 
+restrictive practices towards its competition or from the abuse of its 
+dominant position. 
+4. 
+there will be a rational and efficient use of the resources involved and the 
+services supplied; 
+5. 
+there will be consistent balance between service supply and demand; 
+6. 
+there will be universal service; and 
+7. 
+that there will be constant improvements in productivity and efficiency, 
+without affecting the continuity and quality of service delivery. 
+ 
+
+
+--- PAGE 65 ---
+
+Laws of Saint Lucia 
+Water and Sewerage(Service Levy) Order 
+Cap.9.03 
+61
+Revision Date: 31 Dec 2008 
+ 
+WATER AND SEWERAGE (SERVICE LEVY) ORDER  – 
+SECTION 85 
+(Statutory Instrument 102/2008) 
+Commencement [19 November 2008] 
+ 
+1.  
+CITATION  
+This Order may be cited as the Water and Sewerage (Service Levy) Order. 
+2.  
+INTERPRETATION  
+In this Order ―Act‖ means the Water and Sewerage Act, Cap. 9.03.  
+3. 
+WATER AND SEWERAGE SERVICE LEVY 
+The levy payable by a customer in each month‘s water invoice from a 
+service licensee for water and sewerage service in accordance with section 
+85 of the Act shall be calculated by the Commission, using its budget as 
+prepared pursuant to section 55 of the Act as a percentage not exceeding 2% 
+of the total revenue of the service licensee during the previous calendar 
+year. 
+4.  
+SERVICE LICENSEE INTEREST 
+The annual interest rate payable by a service licensee who fails to pay levies 
+collected in the manner required by section 85 of the Act is equal to the 
+service licensee‘s allowable return on equity as determined by the 
+Commission plus 3%. 
+ 
+
+
+--- PAGE 67 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Code of Condct) 
+Regulations  
+Cap.9.03 
+63
+Revision Date: 31 Dec 2008 
+ 
+WATER AND SEWERAGE (CODE OF CONDUCT) 
+REGULATIONS – SECTION 38 AND 97 
+(Statutory Instrument 103/2008) 
+Commencement [19 November 2008] 
+ 
+1.  
+CITATION  
+These Regulations may be cited as the Water and Sewerage (Code of 
+Conduct) Regulations. 
+2.  
+CODE OF CONDUCT 
+The Code of Conduct set out in the Shedule shall, in addition to the 
+provisions of the Water and Sewerage Act,  regulate the conduct of the 
+Board and staff of the Commission. 
+ 
+SCHEDULE 
+ (Regulation 2) 
+1.  
+CONDUCT OF BOARD AND STAFF OF COMMISSION 
+(l)  
+A member of the Board or staff of the Commission shall conduct 
+himself or herself in such a manner as to promote public confidence in 
+the integrity and impartiality of the Commission. 
+(2) 
+A member of the Board or staff of the Commission who fails to 
+comply with the requirements of this Code of Conduct may be 
+subjected to disciplinary or removal proceedings. 
+2.  
+FINANCIAL INTERESTS 
+(1)   A member of the Board or staff of the Commission with decision 
+influencing responsibilities shall not own any financial interest of any 
+sort in any licensee or permit holder regulated by the Commission or 
+applicant. 
+
+
+--- PAGE 68 ---
+
+64 
+Cap.9.03 
+Water and Sewerage (Code of Conduct) 
+Regulations 
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+(2) 
+A member of the Board or staff of the Commission must disclose to 
+the Commission and to the public, any financial interest in any entity 
+that is not a  licensee potentially affected by a decision of the 
+Commission. 
+3.  
+GIFTS OR FAVOURS 
+(1) 
+A member of the Board or staff of the Commission shall not accept 
+any favour or item of value or offer of favours or items of value from 
+a licensee, or, permit holder applicant or from any person with interest 
+in a matter before the Board. 
+(2)   A member of the Board or staff of the Commission who receives a 
+favour or item of value must report receipt of the favour or item of 
+value to the Board within or not later than 90 days after receipt of the 
+favour or item of value in writing . 
+4.  
+TIES TO LICENSEES 
+If an immediate family member of a member of the Board or staff of the 
+Commission is employed by a licensee, or a permit holder, or an applicant, 
+or owns a financial interest in a licensee, permit holder, or applicant, the 
+relevant facts shall be disclosed to the Commission and to the public and the 
+member of the Board or staff member shall not take part in the matter 
+affecting that licensee, permit holder or applicant. 
+5.  
+RECOMMENDATIONS OF EMPLOYMENT 
+A member of the Board or staff member of the Commission shall not 
+recommend a person for employment either directly or as a consultant by a 
+licensee, permit holder or applicant.  
+6.  
+EX PARTE CONTACTS 
+A member of the Board or staff member of the Commission shall not 
+discuss a pending licence or tariff recommendation with the applicant 
+outside of the procedures by the Commission and if such discussion occurs, 
+it must be reported to the Board in writing and made public. 
+ 
+
+
+--- PAGE 69 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (General 
+Provisions) Order 
+Cap. 9.03 
+65
+Revision Date: 31 Dec 2008 
+ 
+ 
+WATER AND SEWERAGE (GENERAL PROVISIONS) 
+REGULATIONS 
+ARRANGEMENT OF REGULATIONS 
+ 
+Regulation 
+1.  
+Citation ................................................................................................................66 
+2.  
+Interpretation .......................................................................................................66 
+3.  
+Tenure of board members ..................................................................................66 
+4.  
+Remuneration and Retainer ................................................................................67 
+5.  
+Commission staff ................................................................................................67 
+6.  
+Consultants .........................................................................................................67 
+7.  
+Public consultation ..............................................................................................67 
+8.  
+Purpose of proceedings ......................................................................................68 
+9. 
+Public access to information ...............................................................................68 
+10.  
+Form of Commission decisions ...........................................................................68 
+11. 
+Citizenship Advisory Councils .............................................................................69 
+12.  
+Form of service licence application .....................................................................69 
+13.  
+Form of Commission orders ................................................................................70 
+14.  
+Form of application for hearing ...........................................................................70 
+15.  
+Waiver of regulations ..........................................................................................70 
+16.  
+Procedure for handling complaints......................................................................71 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 70 ---
+
+66 
+Cap.9.03 
+Water and Sewerage (General 
+Provisions) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+WATER AND SEWERAGE (GENERAL PROVISIONS) 
+REGULATIONS – SECTION 97 
+(Statutory Instrument 104/2008) 
+Commencement [19 November 2008] 
+ 
+1.  
+CITATION  
+These Regulations may be cited as the Water and Sewerage (General 
+Provisions) Regulations. 
+2.  
+INTERPRETATION 
+In these Regulations — 
+―Act‖ means the Water and Sewerage Act; 
+―Chairperson‖ means the Chairperson of the Commission appointed 
+pursuant to section 36 of the Act; 
+―Commission‖ has the same meaning as in the Act; 
+―member‖ means a member of the Board of the Commission appointed 
+pursuant to section 36 of the Act. 
+ 
+Commission 
+3.  
+TENURE OF BOARD MEMBERS 
+(1)  The first members of the Board of the Commission shall hold office 
+for 3 years, 4 years, 5 years, 6 years and 7 years respectively. 
+(2)  The term of the Chairperson shall be at least 5 years. 
+(3)   A Board member appointed subsequently to the first appointments 
+shall hold office for 5 years, except if appointed to fill a vacancy, in 
+which case he or she shall hold office for the unexpired term. 
+
+
+--- PAGE 71 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (General 
+Provisions) Order 
+Cap. 9.03 
+67
+Revision Date: 31 Dec 2008 
+ 
+ 
+4.  
+REMUNERATION AND RETAINER 
+(1) A member of the Board is entitled to remuneration of $300 per meeting 
+at which the member is present. 
+(2) The Chairperson is entitled to a monthly retainer of $1500. 
+5.  
+COMMISSION STAFF 
+The Commission may appoint staff who shall work under the supervision 
+and direction of the Executive Director including any one or more of the 
+following — 
+(a) 
+a manager whose responsibilities include managing consultants in 
+the preparation of tariff decisions and the preparation of 
+recommendations to the Minister as to service standards and other 
+regulations to be issued under the Act; 
+(b) 
+one or more employees whose duties include handling customer    
+concerns and overseeing processes for public and media 
+involvement in the activities of the Commission; 
+(c) 
+a legal officer or advisor whose duties include legal advice to the 
+Commission and legal review of Commission decisions and 
+recommendations; 
+(d) 
+an administrative assistant, who shall perform administrative duties. 
+6.  
+CONSULTANTS 
+(1)  
+The Commission may contract consultants to provide assistance that 
+it may require for the proper carrying out of its functions. 
+(2) 
+In the case of a consultancy in excess of $25,000 the Commission 
+shall seek offers from at least 3 consultants qualified to perform the 
+work and shall choose among the respondents according to criteria 
+announced at the time of the request for proposals. 
+(3)  
+The scoring shall be made public at the time that the winning bid is 
+announced. 
+7.  
+PUBLIC CONSULTATION 
+(1)  
+The Commission shall engage in public consultation before making a 
+decision. 
+
+
+--- PAGE 72 ---
+
+68 
+Cap.9.03 
+Water and Sewerage (General 
+Provisions) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+(2)  
+Subject to sub regulation (3), the Commission shall decide the 
+manner and time frame for public consultation. 
+(3)  
+The Commission shall allow a party, who has a particular interest 
+other than the general public interest, sufficient involvement to 
+enable the party to protect its interest. 
+(4)  
+Notwithstanding sub-section (2), the Board members and any 
+persons authorised by it have the right to ask questions of a party 
+involved in Commission proceedings. 
+8.  
+PURPOSE OF PROCEEDINGS 
+The primary purpose of all Commission proceedings and hearings is to 
+provide the Commission with the information necessary to reach a fair 
+decision and the Commission shall organise its proceedings to that end. 
+9. 
+PUBLIC ACCESS TO INFORMATION  
+(1)   The Commission shall give the public access to information in its 
+possession unless the Commission considers that such access should 
+be precluded on grounds of personal privacy, pending litigation, 
+national security or commercial sensitivity. 
+(2) 
+The Commission, licensees and permit holders shall maintain a web 
+site designed to keep the public appraised on questions of substantial 
+public significance. 
+(3)    The Commission shall also maintain and disseminate brochures on the 
+rights of water customers, methods of water conservation, and all 
+other matters of substantial public concern. 
+(4)     Board members shall take an active role in meeting with the public to 
+hear public concerns, and to explain Commission decisions and 
+policies. 
+10.  FORM OF COMMISSION DECISIONS 
+The Commission‘s decisions shall be in writing and publicly available and 
+shall contain a statement of the Commission‘s reasoning. 
+
+
+--- PAGE 73 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (General 
+Provisions) Order 
+Cap. 9.03 
+69
+Revision Date: 31 Dec 2008 
+ 
+ 
+11. 
+CITIZENSHIP ADVISORY COUNCILS  
+The Commission, licensee and permit holders may each create citizen 
+advisory councils, comprising groups of citizens who are interested in 
+assisting in ensuring an effective water sector and good water services 
+ 
+Form and content of applications and orders 
+12.  FORM OF SERVICE LICENCE APPLICATION 
+(1)  
+An application for a service licence pursuant to section 6 of the Act 
+shall contain the following information — 
+(a) 
+a complete description of the service to be rendered;  
+(b) 
+a complete description of the proposed service territory 
+including, if the licence is to be exclusive, the precise 
+geographic boundaries; 
+(c) 
+proof of the competency of the licensee to render the service 
+adequately and in an environmentally acceptable manner; 
+(d) 
+proof that the licensee is financially qualified to render the 
+service; 
+(e) 
+a complete set of‘ proposed tariffs, and a description of the 
+method by which the tariff was calculated; 
+(f) 
+plans and schedules for investments to improve service, 
+including pressure stability, service extension, loss reduction, 
+metering and water conservation; 
+(g) 
+proof that any other necessary permits have been obtained or 
+are likely to be obtained; 
+(h) 
+a complete description of the prospective licensee, including 
+all corporate affiliates, all other countries in which that 
+company or corporate affiliate renders water service and a 
+copy of annual reports prepared by the prospective licensee or 
+corporate affiliate; 
+(i) 
+the identities and resumes of the individuals proposed to act 
+as chief executive officer, chief operational officer, and chief 
+financial officer; 
+(j) 
+additional information that the Minister or the Commission 
+may request. 
+
+
+--- PAGE 74 ---
+
+70 
+Cap.9.03 
+Water and Sewerage (General 
+Provisions) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+(2)  
+Upon receipt of an application that conforms with the requirements 
+in sub regulation (1), the Commission shall provide public notice of 
+it, together with a description of the process by which members of 
+the public may inform themselves as to the application and may 
+make their views known to the Commission. 
+(3) 
+In evaluating the licence application, the Commission shall take into 
+account and make specific findings as to the experience of the 
+applicant in operating water systems in the Caribbean region and 
+elsewhere, including whether the applicant has been successful in 
+improving service, in connecting new customers, in increasing 
+efficiency (including loss reduction), and in improving customer 
+satisfaction and the applicant‘s record of environmental compliance  
+and so as to provide potable water shall also be the subject of 
+specific findings. 
+(4)  
+The Board shall also evaluate the specific technical and managerial 
+experience of individuals identified to manage licensees‘ operations 
+in Saint Lucia and this evaluation shall include their performance 
+with regard to the criteria set out in sub regulation (3). 
+13.  FORM OF COMMISSION ORDERS 
+(1) 
+The Commission shall include in its orders the decision reached and 
+an explanation of the reasons for the decisions and the Commission 
+may also refer to prior Commission and Ministerial decisions where 
+applicable. 
+(2) 
+The Commission shall make the Order available to the public and to 
+the media. 
+14.  FORM OF APPLICATION FOR HEARING 
+An application for a hearing under section 64(2) of the Act shall be in 
+writing and shall state the date of the original application and the reasons, if 
+known to the applicant, why no recommendation and or decision has been 
+rendered and the Commission shall give public notice of the requested 
+hearing. 
+15.  WAIVER OF REGULATIONS 
+(1) 
+Upon a finding that good cause exists, the Minister or the Commission 
+that has promulgated any requirement or procedure pursuant to this 
+section, may waive or modify the application of that regulation and 
+
+
+--- PAGE 75 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (General 
+Provisions) Order 
+Cap. 9.03 
+71
+Revision Date: 31 Dec 2008 
+ 
+ 
+the waiver shall be limited in time and scope to the minimum 
+necessary to meet the good cause that has been found. 
+(2)   The Commission or Minister as the case may be shall, before the 
+waiver takes effect, publish on its website and in at least 2 newspapers 
+in general and at least weekly circulation in Saint Lucia — 
+(a)  the waiver granted; 
+(b)   the reason for giving the waiver; 
+(c)   the scope and duration of the waiver; and 
+(d)    a justification of why the waiver was the best way to achieve the       
+objective sought. 
+16.  PROCEDURE FOR HANDLING COMPLAINTS 
+(1) 
+The Commission shall attend to customers in a prompt and courteous 
+manner and a response to a communication in writing by a customer is 
+prompt if done within 48 hours. 
+(2)  The Commission shall keep a record of all customer contacts and shall 
+separate the record in the following categories — 
+(a) 
+information seeking; 
+(b) 
+service related; 
+(c) 
+metre accuracy; 
+(d)     service connection; 
+(e)     disconnection; or 
+(f)     miscellaneous. 
+(3)    The record shall include the name and address of the complainant, the 
+date and time received, a summary of the specifics of the contact, and 
+the name of the official handling the contact. 
+(4) 
+A complaint lodged under any category other than ‗information 
+seeking‘ shall not be processed unless the customer has first raised the 
+complaint with the licensee, and has been unable to resolve it. 
+       (5)  
+The official handling the complaint shall make every effort to resolve   
+it informally, but should also advise customers of their rights 
+pertaining to the type of complaint filed. 
+
+
+--- PAGE 76 ---
+
+72 
+Cap.9.03 
+Water and Sewerage (General 
+Provisions) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+(6)  
+If informal resolution is not possible, the official handling the 
+complaint shall use such fact finding methods as are appropriate to the 
+matter in dispute and should prepare a written decision to be issued by 
+the Board. 
+(7)  
+A complete record of complaints and decisions should be kept and 
+reported to the Board at regular intervals. 
+ 
+ 
+
+
+--- PAGE 77 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Appeals 
+Tribunal) Regulations 
+Cap 9.03 
+73
+Revision Date: 31 Dec 2008 
+ 
+ 
+WATER AND SEWERAGE (APPEALS TRIBUNAL) 
+REGULATIONS 
+ARRANGEMENT OF REGULATIONS 
+ 
+Regulation 
+ 
+PART 1  
+76 
+PRELIMINARY 
+76 
+1.  
+Citation ................................................................................................................76 
+2.  
+Interpretation .......................................................................................................76 
+PART 2  
+76 
+CONSTITUTION AND POWERS 
+76 
+3.  
+Constitution .........................................................................................................76 
+4. 
+Tenure ................................................................................................................77 
+5.  
+Removal and resignation ....................................................................................77 
+6. 
+Inquiry .................................................................................................................77 
+7. 
+Continuation of proceedings after termination.....................................................78 
+8.  
+Absence or incapacity .........................................................................................78 
+9. 
+Publication of changes in membership ...............................................................78 
+10. 
+Secretary ............................................................................................................79 
+11. 
+Remuneration .....................................................................................................79 
+12. 
+Sittings and quorum ............................................................................................79 
+13. 
+Powers of Tribunal ..............................................................................................79 
+14. 
+Expert advice ......................................................................................................80 
+15. 
+Confidentiality .....................................................................................................80 
+16. 
+Validity of proceedings ........................................................................................80 
+PART 3  
+81 
+APPEAL PROCEDURE .......................................................................... 81 
+ 
+17. 
+Application for appeal .........................................................................................81 
+18. 
+Transmission of the appeal documents ..............................................................82 
+19. 
+Hearing ...............................................................................................................82 
+20. 
+Decisions ............................................................................................................82 
+21. 
+Costs ...................................................................................................................83 
+22. 
+Decision final.......................................................................................................83 
+
+
+--- PAGE 78 ---
+
+74 
+Cap.9.03 
+Water and Sewerage (Appeals 
+Tribunal) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+PART 4  
+83 
+ENFORCEMENT AND OFFENCES 
+83 
+23. 
+Filing of order ......................................................................................................83 
+24. 
+Offence ...............................................................................................................84 
+25. 
+Perjury ................................................................................................................84 
+ 
+
+
+--- PAGE 80 ---
+
+76 
+Cap.9.03 
+Water and Sewerage (Appeals 
+Tribunal) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+WATER AND SEWERAGE (APPEALS TRIBUNAL) 
+REGULATIONS – SECTION 97 
+(Statutory Instrument 105/2008) 
+Commencement [19 November 2008] 
+ 
+PART 1 
+PRELIMINARY 
+1.  
+CITATION  
+These Regulations may be cited as the Water and Sewerage (Appeals 
+Tribunal) Regulations. 
+2.  
+INTERPRETATION 
+In these Regulations — 
+―Act‖ means the Water and Sewerage Act; 
+―appellant‖ means a service licensee or an intervening party who 
+participated extensively or sought to participate, in the proceeding 
+leading to the decision being appealed; 
+―Tribunal‖ means the Appeals Tribunal appointed pursuant to section 96 of 
+the Act. 
+ 
+PART 2 
+CONSTITUTION AND POWERS 
+3.  
+CONSTITUTION 
+(1) 
+Subject to subsection (2), the Tribunal shall comprise not less than 3 
+nor more than 5 members, appointed by the Judicial and Legal 
+Services Commission after consultation with Cabinet. 
+
+
+--- PAGE 81 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Appeals Tribunal) 
+Regulations  
+Cap.9.03 
+77
+Revision Date: 31 Dec 2008 
+ 
+(2) 
+The Tribunal shall have at least one member who is an expert in 
+water sector operations, one who is an expert in economic 
+regulations and one who is an expert in regulatory law. 
+ (3) 
+One member of the Tribunal shall be from Saint Lucia, and one 
+member may be from the same country as the licensee, or permit 
+holder or any significant shareholder in the licensee or permit 
+holder. 
+4. 
+TENURE 
+Subject to regulation 5, a member of the Tribunal shall hold office for a 
+term of 5 years, but shall be eligible for reappointment. 
+5.  
+REMOVAL AND RESIGNATION 
+(1) 
+A member of the Tribunal may be removed from office by the 
+Judicial and Legal Services Commission after consultation with 
+Cabinet and the Commission on the grounds of — 
+(a) 
+failure to execute his or her functions as a member by reason 
+of infirmity or mental illness; 
+(b) 
+misconduct; 
+(c) 
+failure to execute his or her functions as a member without 
+reasonable excuse; and  
+(d) 
+being placed, by conduct or otherwise, in a position that is 
+incompatible with the due execution of his or her office. 
+ 
+(2)  
+A member of the Tribunal may at any time resign from office by 
+ 
+instrument in writing addressed to the Judicial and Legal Services 
+ 
+Commission, transmitted through the Chairperson, and such 
+ 
+resignation shall take effect as from the date of receipt of the 
+ 
+instrument by the Judicial and Legal Services Commission. 
+6. 
+INQUIRY 
+(1) 
+ The Commission shall cause a commission of inquiry to be 
+appointed under the Commissions of Inquiry Act, Cap. 17.03 where 
+it considers  that an inquiry should be held to determine whether a 
+member of the Tribunal should be subject to disciplinary or 
+remedial measures on any of the grounds specified in regulation 5. 
+
+
+--- PAGE 82 ---
+
+78 
+Cap.9.03 
+Water and Sewerage (Appeals 
+Tribunal) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+(2) 
+The Commissioner of the inquiry shall send his or her report to the 
+Judicial and Legal Services Commission, Cabinet and the 
+Commission. 
+        (3) 
+On receipt of a report under subregulation (2), the Judicial and 
+Legal Services Commission may, after consultation with Cabinet 
+and the Commission, remove a member of the Tribunal or take any 
+other remedial measure recommended by the Commissioner of the 
+inquiry. 
+7. 
+CONTINUATION OF PROCEEDINGS AFTER TERMINATION  
+ 
+ 
+ 
+(1)   A person who resigns or ceases to hold office as a member may, if  
+ 
+ authorised to do so by the Judicial and Legal Services Commission 
+ 
+ after consultation with Cabinet and the Commission, continue to  
+ 
+ inquire into, hear and determine a proceeding to which that person  
+ 
+ was assigned while that person was a member. 
+(2) 
+Where a person continues to be a member in accordance with 
+subregulation (1), he or she shall continue to be a member on the 
+terms and conditions that the Judicial and Legal Services 
+Commission, after consultation with Cabinet and the Commission, 
+considers appropriate. 
+8.  
+ABSENCE OR INCAPACITY 
+ 
+(1) 
+If a member of the Tribunal is absent or unable to perform the 
+ 
+functions of his or her office, or if there is a vacancy in the Tribunal, 
+ 
+the Judicial and Legal Services Commission may, after consultation 
+ 
+with Cabinet and the Commission, appoint another person to act 
+ 
+temporarily in place of the member. 
+ 
+(2) 
+ An appointment made pursuant to sub regulation (1) shall be in  
+ 
+ accordance with the constitution of the Commission stipulated in 
+ 
+regulation 3. 
+9. 
+PUBLICATION OF CHANGES IN MEMBERSHIP 
+ 
+Cabinet shall publish in the Gazette the appointment of any member of the 
+Tribunal and the termination of office of person as a member, whether by 
+death, resignation, removal, effluxion of time or otherwise. 
+
+
+--- PAGE 83 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Appeals Tribunal) 
+Regulations  
+Cap.9.03 
+79
+Revision Date: 31 Dec 2008 
+ 
+10. 
+SECRETARY 
+ 
+(1) 
+The Tribunal shall appoint a Secretary. 
+ 
+(2) 
+The Secretary shall keep a written record of all proceedings of the 
+ 
+Tribunal, which shall be confirmed by the Chairperson. 
+11. 
+REMUNERATION 
+ 
+A member of the Tribunal is entitled to be paid remuneration per sitting 
+based on the rate of an international legal consultant performing similar 
+duties. 
+12. 
+SITTINGS AND QUORUM 
+(1) 
+The Tribunal shall sit in Saint Lucia at the times necessary or 
+expedient for the discharge of its functions. 
+(2) 
+Subject to sub regulation (3), 3 members of the Tribunal constitute a 
+quorum. 
+(3) 
+A member of the Tribunal shall, as soon as is practicable, inform the 
+Chairperson of any matter in which he or she has, either directly or 
+indirectly, personally or by his or her spouse, partner, business 
+associate or company, any pecuniary or business interest and that 
+member shall take no part, directly or indirectly, in any 
+hearing,deliberation or decision by the Tribunal on that matter. 
+13. 
+POWERS OF TRIBUNAL 
+(1) 
+The Tribunal has, with respect to the appearance, swearing and 
+examination of witnesses, the production and inspection of 
+documents, the enforcement of orders and other matters -necessary 
+or proper for the due exercise of their jurisdiction, all the powers, 
+rights and privileges that are vested in a superior court of record 
+and, without limiting the generality of the foregoing, the Tribunal 
+may — 
+(a) 
+issue a summons requiring a person to – 
+(i) 
+appear at the time and place stated in the summons to 
+testify to all matters within the person‘s knowledge 
+relative to any subject matter before the Appeal Tribunal; 
+and 
+
+
+--- PAGE 84 ---
+
+80 
+Cap.9.03 
+Water and Sewerage (Appeals 
+Tribunal) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+(ii) bring and produce any document, book or paper including 
+electronic media in the person‘s possession or under the 
+person‘s control relative to that subject matter; 
+(b) 
+administer oaths and examine any person on oath; and 
+(c) 
+during the hearing, receive evidence that they consider; 
+(d) 
+relevant and trustworthy and are not bound by any legal or 
+technical rules of evidence  
+(2) 
+Subject to the provisions of these Regulations, the Tribunal shall 
+have the power to regulate its own proceedings. 
+(3) 
+The Tribunal shall not conduct a detailed economic or technical 
+review of a decision unless it first finds that there is reasonable 
+probability that the decision being appealed is erroneous. 
+(4) 
+The Tribunal may choose to conduct a detailed review of economic, 
+financial or technical component of a decision before arriving at a 
+final decision. 
+14. 
+EXPERT ADVICE 
+The Tribunal may retain the services of legal, economic, financial or 
+technical consultants to advise it on any matter relating to the discharge of 
+its functions. 
+15. 
+CONFIDENTIALITY 
+(1) 
+A member of the Tribunal shall at all times preserve and aid in 
+preserving confidentiality with regard to all matters coming to his or 
+her knowledge in the performance of his or her duties. 
+(2)  
+Except for the performance of his or her duties or under legal 
+obligation, no member, of the Tribunal shall communicate any 
+confidential matter to any person or, unless under legal obligation, 
+grant to any person access to any records in the possession, custody 
+or control of the Tribunal. 
+16. 
+VALIDITY OF PROCEEDINGS 
+The validity of any proceedings of the Tribunal shall not be affected by any 
+vacancy in its membership or by any defect in the appointment of any of its 
+members. 
+
+
+--- PAGE 85 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Appeals Tribunal) 
+Regulations  
+Cap.9.03 
+81
+Revision Date: 31 Dec 2008 
+ 
+PART 3 
+APPEAL PROCEDURE  
+17. 
+APPLICATION FOR APPEAL 
+(1) 
+An appellant may appeal in writing to the Tribunal. 
+(2) 
+The application for appeal shall be signed by the appellant 
+and ―copies of  the application for appeal shall be submitted 
+to the Secretary. 
+  
+  (3)  
+An application for appeal shall be dated as of the day on 
+which it is signed and shall state — 
+(a) 
+the name of the appellant; 
+(b) 
+the appellant‘s office, if any; 
+(c) 
+the date of the decision from which the appellant 
+desires to appeal; 
+(d) 
+the person or authority from whose decision the 
+appellant desires to appeal; 
+(e) 
+the date on which the appellant received application 
+for the decision he or she desires to appeal; 
+(f) 
+the decision which the appellant seeks from the 
+Tribunal; 
+(g) 
+an address to which any notice or other document 
+may be sent to the appellant from the Tribunal; and 
+(h) 
+the reasons in detail for the appeal and materials in 
+support of the petition. 
+     (4)  
+  The secretary shall publish in the Gazette an address where 
+an application for appeal may be given under these 
+Regulations. 
+ 
+(5) 
+An application for appeal shall be given to the secretary 
+either personally or by sending it by registered mail to the 
+address published under sub regulation (4). 
+
+
+--- PAGE 86 ---
+
+82 
+Cap.9.03 
+Water and Sewerage (Appeals 
+Tribunal) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+18. 
+TRANSMISSION OF THE APPEAL DOCUMENTS 
+The secretary shall send one copy of the application for appeal and any 
+other document that is relevant to the appeal to each of the following 
+persons — 
+(a) 
+the members of the Tribunal, 
+(b) 
+the person whose decision is being appealed; and 
+(c) 
+any other person who was a party to the proceedings in which 
+the decision was taken. 
+19. 
+HEARING 
+(1)  
+At least 7 days before the date fixed for the hearing of an appeal, the 
+secretary to the Tribunal shall advise the parties by notice in writing 
+of the date, and the place at which the appeal has been set down for 
+hearing. 
+ (2)   
+At a hearing by the Tribunal the parties are entitled to appear in 
+person or by a representative. 
+ 
+(3) 
+ Subject to sub regulation (4), the hearing of the Tribunal shall be     
+public. 
+(4)         The Tribunal may, on application, take any measures or make any   
+order that the Tribunal considers necessary to ensure the 
+confidentiality of the proceedings if it is satisfied that financial or 
+personal or other matters may be disclosed and are of such a nature 
+that the desirability of avoiding public disclosure of those matters in 
+the interest of any person affected or in the public interest, 
+outweighs the desirability of adhering to the principle that the 
+inquiry be conducted in public. 
+20. 
+DECISIONS 
+(1) 
+After considering the evidence and any representations made on 
+behalf of any party to the proceedings, the Tribunal may affirm, set 
+aside or vary, the decision appealed, make any other decision which 
+the person could have made or direct the person to retake the 
+decision after taking into consideration the conclusion of the 
+Tribunal on any point. 
+(2) 
+The Tribunal shall publish the decision within a period of 9 days of 
+the appeal, or such extended period that the parties decide by mutual 
+agreement. 
+
+
+--- PAGE 87 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Appeals Tribunal) 
+Regulations  
+Cap.9.03 
+83
+Revision Date: 31 Dec 2008 
+ 
+(3)  
+The decisions of the Tribunal is by a majority of votes of those 
+members present and voting and, in addition to an original vote, the 
+Chairperson has a second or casting vote in any case in which the 
+voting is equal. 
+(4)  
+The decisions of the Tribunal shall be authenticated by the signature 
+of the Chairperson and the secretary. 
+21. 
+COSTS 
+ The Tribunal may assess its costs of processing an appeal against the losing 
+party if it concludes that unreasonable conduct by that party contributed to 
+the costs of the appeal and if the Tribunal makes no such award, the costs of 
+the Tribunal shall be paid from the Water and Sewerage Fund established 
+under section 53 of the Act. 
+22. 
+DECISION FINAL 
+The Tribunal has exclusive jurisdiction to hear and determine all questions 
+of tact or law in relation to any matter over which it is given jurisdiction 
+and, subject to judicial review, decisions of the Tribunal are final and shall 
+not be appealed. 
+PART 4 
+ENFORCEMENT AND OFFENCES  
+23. 
+FILING OF ORDER 
+(1) 
+The Tribunal may file in the High Court for immediate registration a 
+copy of the order, exclusive of any reasons for it, but the order shall 
+not be filed until at least 30 days after the day on which the order was 
+made has elapsed, or the day provided in the order for compliance 
+with it, whichever is the later. 
+(2) 
+On filing in the High Court, an order shall be registered in that Court 
+and, when registered, it shall have the same force and effect, and all 
+proceedings may be taken, as if the order were a judgement obtained 
+in that Court. 
+
+
+--- PAGE 88 ---
+
+84 
+Cap.9.03 
+Water and Sewerage (Appeals 
+Tribunal) Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+24. 
+OFFENCE 
+(1)  
+A person shall not obstruct the Tribunal or a person acting on behalf 
+or under its direction in the performance of its functions under this 
+Act. 
+(2)  
+A person who contravenes this section commits an offence and is 
+liable on summary conviction to a fine of $5000.00 or imprisonment 
+for a term not exceeding 3 months. 
+25. 
+PERJURY 
+(1)  
+A person is liable to be prosecuted for perjury under the Criminal 
+Code for a false statement made to the Tribunal. 
+(2)  
+For the purpose of this regulation and the Criminal Code the Tribunal 
+is a Court within the meaning of the Criminal Code. 
+
+
+--- PAGE 89 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+85
+Revision Date: 31 Dec 2008 
+ 
+ 
+WATER AND SEWERAGE (TARIFF) REGULATIONS 
+ARRANGEMENT OF REGULATIONS 
+ 
+Regulation 
+PART 1 ............................................................................................87 
+PRELIMINARY ................................................................................87 
+ 
+1.  
+Citation ................................................................................................................87 
+2.  
+Interpretation .......................................................................................................87 
+3. 
+Water and sewerage rates ..................................................................................89 
+ 
+PART 2 ............................................................................................89 
+INDEXATION ..................................................................................89 
+ 
+4. 
+Indexation adjustment .........................................................................................89 
+5. 
+Indexation procedure ..........................................................................................89 
+6. 
+Amendment of indexation formula ......................................................................90 
+PART 3 ............................................................................................90 
+TRIENNIAL TARIFF REVIEW .........................................................90 
+7.  
+Triennial tariff review adjustment ........................................................................90 
+8. 
+Triennial tariff review procedures ........................................................................91 
+9. 
+Accounting information .......................................................................................91 
+10. 
+Reviewing forecast capital expenditure ...............................................................92 
+11. 
+Adjustments to actual investment .......................................................................93 
+12. 
+Adjustments to forecast investment ....................................................................93 
+13. 
+Reviewing depreciation .......................................................................................93 
+14. 
+Reviewing operations and maintenance expenses .............................................94 
+15. 
+Adjustment to allowable operating and maintenance expenditure ......................94 
+16. 
+Additional parameters for setting of tariffs ...........................................................94 
+17. 
+Publishing the results of the review .....................................................................95 
+ 
+PART 4 ............................................................................................96 
+EXTRAORDINARY TARIFF REVIEW ............................................96 
+ 
+18.  
+Extraordinary tariff review ...................................................................................96 
+19.  
+Extraordinary tariff review Process .....................................................................96 
+20.  
+Publication of results ...........................................................................................97 
+ 
+SCHEDULE 1 ..................................................................................97 
+ 
+
+
+--- PAGE 90 ---
+
+86 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+SCHEDULE 2 ................................................................................. 98 
+ 
+SCHEDULE 3 ................................................................................. 99 
+ 
+
+
+--- PAGE 91 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+87
+Revision Date: 31 Dec 2008 
+ 
+ 
+WATER AND SEWERAGE (TARIFF) REGULATIONS – 
+SECTION 97 
+(Statutory Instrument 106/2008) 
+Commencement [19 November 2008] 
+ 
+PART 1 
+PRELIMINARY 
+1.  
+CITATION  
+These Regulations may be cited as the Water and Sewerage (Tariff) 
+Regulations. 
+2.  
+INTERPRETATION 
+In these Regulations — 
+―Act‖ means the Water and Sewerage Act, Cap. 9.03; 
+―allowed real revenue‖ means the total revenue that the service 
+licensee is allowed to earn from tariffs, determined by the 
+method outlined in paragraph 2 of Schedule 3; 
+―allowable rate of return‖ means the rate of return the service 
+licensee may earn on its investment, as defined in paragraph 1.2 
+of Schedule 3; 
+―appeals tribunal‖ has the same meaning as in the Act; 
+―capital expenditure‖ means expenditure on new assets, including 
+rehabilitation and replacement of existing assets, improvements 
+to meet new regulatory requirements, and new infrastructure; 
+―Commission‖ has the same meaning as in the Act; 
+―depreciation‖ means annual accounting charge for wear, tear and 
+obsolescence of fixed assets, calculated in accordance with 
+paragraph 1.3 of Schedule 3; 
+―dispute‖ means a disagreement between a service licensee and the 
+Commission; 
+
+
+--- PAGE 92 ---
+
+88 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+―cost‖ means the increase in cost from producing one output or 
+serving one group of customers in addition to another such that 
+a service licensee, producing two services A and B, the 
+incremental cost of B is the additional cost of producing B, 
+given that the firm is already producing A; 
+―K factor‖ means an adjustment factor, aimed at keeping tariffs in 
+line with the cost of service as efficiency increases and 
+investment grows, and smoothing tariff changes over time and 
+is determined according to the process outlined in paragraph 2 
+of Schedule 3; 
+―legacy asset value‖ means the value of legacy assets owned by the 
+service licensee at the time of privatization as agreed between the 
+Government and the Transaction Advisor at the time of sale, and 
+stipulated before the bids are received; 
+―net present value‖ means the discounted value of the expected 
+benefits of a project, less the discounted value of the expected 
+costs, calculated as specified in paragraph 2 of Schedule 3; 
+―operating and maintenance expenditure‖ means expenditure 
+incurred through operations and maintenance activities in 
+providing the services, calculated as outlined in paragraph 1.4 of 
+Schedule 3; 
+―reasonable cost of service‖ means the total cost the utility would 
+incur in providing the required services efficiently and is made 
+up of the components defined in paragraph 1 of Schedule 3; 
+―regulatory asset value‖ means the value of assets utilized by the 
+service licensee in providing the service, calculated as specified 
+in paragraph 1.1 of Schedule 3; ―rate of return‖ means the 
+annual growth in the service licensee‘s profits, expressed as a 
+percentage of the original investment in the service licensee, 
+calculated as specified in paragraph 1.2 of Schedule 3; 
+―rising block tariffs‖ means some water is available at low unit 
+prices, and additional water at progressively higher prices that 
+are not subsidized; 
+―service‖ has the same meaning as in the Act; 
+―standalone cost‖ means the hypothetical cost of producing each 
+output or serving each customer independently such that a 
+service licensee producing two services A and B, the standalone 
+cost of A is the cost that the firm would incur producing A, but 
+not B; 
+
+
+--- PAGE 93 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+89
+Revision Date: 31 Dec 2008 
+ 
+ 
+―tariff revenue‖ means the revenue earned by a service licensee from 
+tariffs; 
+―tariff review period‖ means the period for which a new tariff is set 
+following a triennial or an extraordinary tariff review; 
+―used and useful‖ means that an asset is considered used and useful 
+when it is currently used to provide service, is not oversized or 
+clearly inefficient, and is currently contributing to the provision 
+of the service; 
+―working capital‖ means the difference between current assets and 
+current liabilities. 
+3. 
+WATER AND SEWERAGE RATES 
+For water and sewerage services supplied under its service licence, a service 
+licensee shall charge the rates prescribed in Schedule 1 as adjusted, when 
+required in accordance with Parts 1, 2 and 3 of these Regulations. 
+ 
+PART 2 
+INDEXATION 
+4. 
+INDEXATION ADJUSTMENT 
+(1)  
+A service licensee is entitled to adjust its water and sewerage rates 
+annually in accordance with the indexation formula in Schedule 2 to 
+compensate it for the impact of inflation on costs and to allow for 
+efficiency gains and capital investment. 
+(2)       Indices specified in Schedule 2 are to be the latest index available at 
+the time of the review. 
+(3)  
+The indexation formula sha1l be applied equally to all service 
+licensees‘ tariff classes. 
+5. 
+INDEXATION PROCEDURE 
+(1) 
+ Two months prior to the start of each year, the service licensee shall 
+apply the indexation formula to tariffs, and notify the Commission 
+of the proposed new tariffs, the corresponding indices and the 
+effective date. 
+
+
+--- PAGE 94 ---
+
+90 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+ (2)  
+The Commission may amend the proposed new tariffs if it considers 
+that an error has been made in calculating the tariffs. 
+(3) 
+Where the commission accepts the tariffs submitted in accordance 
+with this regulation, it shall publish the new tariffs, the 
+corresponding indices and the effective date in the Gazette and 2 
+newspapers in weekly circulation in Saint Lucia, at least one month 
+prior to the effective date. 
+(4)  
+The service licensee shall implement the new tariffs no earlier than 
+the effective date. 
+(5)  
+The service licensee may object to the new tariffs if it believes that 
+the Commission has erred and in the event of an objection, the 
+Commission and the service licensee shall resolve the dispute in 
+accordance with the appeals process outlined under the Act. 
+(6)  
+In the event of a dispute that extends beyond the effective date of 
+the new tariffs, the service licensee‘s tariff shall be implemented 
+until the dispute is resolved and if the decision is given against the 
+service licensee, it shall immediately reduce tariffs to the agreed 
+level and issue a customer refund. 
+6. 
+AMENDMENT OF INDEXATION FORMULA 
+(1)  
+Subject to subregulation (3) pursuant to a triennial tariff review 
+referred to in regulation 7, the Commission may amend Schedule 2 
+to change the indexation formula if it considers that the existing 
+formula is no longer an accurate reflection of a service licensee‘s 
+input costs. 
+(2)  
+The input indices shall be regularly published or easily observable. 
+(3)  
+The new indexation formula shall be a better reflection of changes in 
+cost than the existing formula. 
+ 
+PART 3 
+TRIENNIAL TARIFF REVIEW 
+7.  
+TRIENNIAL TARIFF REVIEW ADJUSTMENT 
+In a triennial tariff review, the Commission shall set tariffs using the 
+triennial tariff adjustment procedure in Schedule 3 so that — 
+
+
+--- PAGE 95 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+91
+Revision Date: 31 Dec 2008 
+ 
+ 
+ (a)  the net present value of the tariff revenue earned by 
+the service licensee over the following three years is 
+equal to the net present value of its efficiently 
+incurred costs plus a fair and reasonable return on 
+capital over the same period of time, in accordance 
+with the following — 
+NPV (C) = NPV (R) 
+Where: 
+NPV means net present value  
+C = reasonable cost of service for the tariff review 
+period 
+R = Total revenue earned by the service licensee from 
+supplying services over the tariff review period; and 
+(b) 
+tariff increases are smoothed by applying a K Factor. 
+8. 
+TRIENNIAL TARIFF REVIEW PROCEDURES 
+(1) 
+Four months prior to the commencement of a triennial tariff review 
+period, a service license shall submit to the Commission its 
+proposed tariff rates, estimated revenue requirement, and sufficient 
+supporting information to enable the Commission to verify that the 
+proposed tariff rates reflect reasonably incurred costs of service and 
+a reasonable return on capital. 
+(2) 
+Supporting information shall include — 
+(a) 
+a business plan with planned investment and financial 
+forecasts for at least the following 9 years,  
+(b) 
+a demand forecast for at least the following nine 
+years, 
+(c) 
+changes to the depreciation schedule, as specified in 
+paragraph 1.3 of Schedule 3, 
+(d) 
+audited accounts referred to in regulation 9. 
+9. 
+ACCOUNTING INFORMATION 
+(1)  
+For the purpose of the triennial review, a service licensee shall 
+prepare audited accounts in accordance with International Financial 
+Reporting Standards, or any other standards specified by the 
+
+
+--- PAGE 96 ---
+
+92 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+Commission but the Commission may alternatively specify 
+additional schedules to fulfil specific requirements, once it does not 
+override the International Financial Reporting Standards. 
+ (2)  
+The service licensee shall appoint an external auditor to audit the 
+accounts and shall ensure that the auditor submits the following to 
+the Commission — 
+(a) 
+a note indicating that the auditor acknowledges the intended 
+use of the accounts by the Commission; 
+(b) 
+a report, in respect of each of the accounting statements 
+submitted, stating whether in the Auditor‘s opinion, — 
+(i)  the service licensee has kept proper accounting records, in 
+a form that enables identification of the revenues, costs, 
+assets and liabilities of providing the services, and 
+(ii) the set of accounting statements submitted represents a 
+true and fair view of the revenues, costs. assets and 
+liabilities of the service the licensee incurred in providing 
+the services. 
+10. 
+REVIEWING FORECAST CAPITAL EXPENDITURE 
+The Commission shall carry out the following steps in reviewing the service 
+licensee‘s capital expenditure requirements — 
+(a)  
+review the service licensee‘s demand forecast and service standards 
+to define the service capabilities required of the network; 
+(b)  
+assess the condition of the infrastructure, including its adequacy for 
+service and how well it has been maintained; 
+(c)  
+benchmark asset utilization and maintenance levels against best 
+practices; 
+(d)  
+identify the required system upgrades, by comparing the service 
+licensee‘s actual service capabilities and the required service 
+capabilities; 
+(e)  
+review the efficiency of the proposed capital expenditure 
+programme to ensure that the projects are the least cost solution, 
+technically sound, and reflect reasonable post estimates; and 
+(f)  
+subject to regulation 12, make any necessary adjustments to the 
+forecast capital expenditure. 
+ 
+
+
+--- PAGE 97 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+93
+Revision Date: 31 Dec 2008 
+ 
+ 
+11. 
+ADJUSTMENTS TO ACTUAL INVESTMENT 
+(1) 
+The Commission shall make adjustments to actual investment, 
+adjusting the opening assets value on the basis of actual assets that 
+are considered used and useful but if an asset is not considered used 
+and useful, the Commission will exclude it from the asset value. 
+(2) 
+Investments are to be automatically included in the Commission‘s 
+calculation if they are — 
+(a) 
+subject to a plan already approved by the Commission; and 
+(b) 
+procured on a competitive basis. 
+12. 
+ADJUSTMENTS TO FORECAST INVESTMENT 
+ (1) 
+The Commission shall make adjustments to forecast investment 
+after considering all forecast capital expenditure costs that are 
+reasonably forecasted to be incurred by the service licensee in 
+providing services to consumers. 
+(2)  
+The service licensee shall provide the Commission with information 
+on its investment plans, projected capital expenditure for the tariff 
+review period, and such other information as the Commission 
+reasonably requests. 
+(3)  
+Approval of investment plans and projected cash flows by the 
+Commission shall be in respect of a period of at least 9 years. 
+(4)  
+In the event that a dispute arises between a service licensee and the 
+Commission on the allowable investment, the appeals process 
+outlined under the Act applies. 
+13. 
+REVIEWING DEPRECIATION 
+(1) 
+The Commission will consider all depreciation costs that are 
+reasonably incurred by the service licensee while providing services 
+to consumers. 
+(2)  
+The service licensee shall submit an initial depreciation schedule to 
+the Commission for approval along with the first triennial tariff 
+review application and for future reviews, the Commission shall 
+approve changes to the depreciation schedule only. 
+
+
+--- PAGE 98 ---
+
+94 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+14. 
+REVIEWING OPERATIONS AND MAINTENANCE EXPENSES 
+(1) 
+The Commission shall review the service licensee‘s forecast and 
+historic operating and maintenance costs, as well as its forecast 
+demand to ensure that this represents an accurate view of the state of 
+the business and that the costs are reasonable. 
+(2)  
+The Commission shall determine the efficiency of the operating and 
+maintenance costs using any combination of the following methods 
+— 
+(a)  
+compare the forecast operating and maintenance costs with 
+historical costs and forecast performance; 
+(b) 
+ review a statement of justification for the forecast operating 
+and maintenance costs submitted by the service licensee; 
+(c)  
+benchmark operating and maintenance costs and performance 
+on key service indicators against other utilities of a similar 
+nature, operating in similar conditions; 
+(d) 
+review the service licensee‘s performance on key performance 
+indicators and against agreed service or efficiency targets; 
+(e) 
+ request an independent technical audit to assess service levels 
+and associated costs. 
+15. 
+ADJUSTMENT TO ALLOWABLE OPERATING AND 
+MAINTENANCE EXPENDITURE 
+(1)  
+The Commission shall adjust the forecast operating and maintenance 
+expenditure accordingly if the Commission finds that the service 
+license is inefficent. 
+(2)  
+The Commission may make the adjustment based on immediate 
+achievement of efficient cost levels or based on improved efficiency 
+levels over a period of time that the Commission specifies, 
+whichever the Commission considers reasonable. 
+(3)  
+In the event that a dispute arises between the service licensee and the 
+Commission 
+on 
+the 
+allowable 
+operating 
+and 
+maintenance 
+expenditure, the appeals process outlined in the Act applies. 
+16. 
+ADDITIONAL PARAMETERS FOR SETTING OF TARIFFS 
+In addition to the principles set out in section 78 of the Act, the tariffs shall 
+accord with the following: 
+
+
+--- PAGE 99 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+95
+Revision Date: 31 Dec 2008 
+ 
+ 
+(a) the tariff may contain different tariff classes; 
+(b) 
+each customer within a tariff class should be charged 
+the same tariff; 
+(c) 
+a customer is not to be charged more than the 
+standalone cost, or less than the incremental cost of 
+providing service; 
+(d) 
+all customers in the same class shall be charged the 
+same tariff unless different costs apply to certain 
+customers within this class; and 
+(e) 
+rising block tariffs are permitted if applied equally to 
+all customers in the same class. 
+17. 
+PUBLISHING THE RESULTS OF THE REVIEW 
+(1) 
+The Commission shall review the tariff review application and 
+publish   its results not later than 60 days before the end of the 
+triennial period for a triennial tariff review. 
+(2)  
+In default of publication within this period, the new tariffs in the 
+application are deemed effective. 
+(3)   
+The Commission shall publish its report stipulating the new tariff in 
+the Gazette and in at least 2 newspapers in general weekly 
+circulation in Saint Lucia. 
+(4)  
+If the service licensee‘s proposal is rejected by the Commission, the 
+service licensee may submit a revised proposal within 14 days of 
+notification of the rejection. 
+(5)  
+If the service licensee does not submit a revised proposal, the tariff 
+already agreed for the existing period shall continue to apply. 
+(6)  
+In the event that a dispute arises between the service licensee and 
+the Commission, both parties shall make an effort to resolve this 
+through mutual consultation and negotiation. 
+(7)  
+Any disputes that cannot be resolved through mutual consultation 
+and negotiation shall be referred to the Appeals Tribunal. 
+ 
+ 
+ 
+
+
+--- PAGE 100 ---
+
+96 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+PART 4 
+EXTRAORDINARY TARIFF REVIEW 
+18.  EXTRAORDINARY TARIFF REVIEW 
+If an extraordinary event occurs, extraordinary tariff review will 
+compensate — 
+(a) 
+the service licensee with a tariff increase, for any losses in 
+revenue or increases in the cost of providing service; 
+(b) 
+customers with a tariff decrease, for increases in revenue, or 
+decreases in the cost of providing service. 
+19.  EXTRAORDINARY TARIFF REVIEW PROCESS 
+(1)  
+The service licensee may, at any time, request the Commission to 
+consider circumstances that the service licensee believes constitute 
+grounds for an extraordinary tariff review by submitting information 
+on the following — 
+(a) 
+the event giving rise to the extraordinary tariff review; 
+(b) 
+the valuation of the impact of the events on the service 
+licensee‘s historical and future cash flows; and 
+(c) 
+the calculation of the magnitude of the extraordinary tariff 
+review requested. 
+(2)  
+The Commission may also, at any time, notify the service licensee 
+of circumstances that the Commission believes constitutes grounds 
+for an extraordinary tariff review and shall notify the service 
+licensee of the extraordinary event, and request that the service 
+licensee submit the information in subregulation (1). 
+(3)  
+The Commission shall determine whether an extraordinary event 
+has occurred or will occur, by taking into account all information 
+available at the time, and by making reasonable projections of all 
+factors relevant to the service licensee‘s future cash flow and the 
+Commission may employ the services of technical or other experts 
+in making this determination. 
+(4)  
+The Commission shall — 
+(a) calculate the change in the service licensee‘s cash flows as a 
+result of the extraordinary event; 
+
+
+--- PAGE 101 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+97
+Revision Date: 31 Dec 2008 
+ 
+ 
+(b) identify the annual changes (increases or decreases) in operating 
+and maintenance costs and capital expenditure over the remainder 
+of the triennial period; 
+(c) add or subtract these costs from the reasonable cost of service 
+calculation for the remainder of the triennial period, and adjust the 
+allowed real revenue requirement and tariff scheme accordingly; 
+(d) take into account in calculating the service licensee‘s allowed real 
+revenue at the next triennial tariff adjustment if all additional costs 
+extend beyond the end of the triennial period. 
+(5)  
+If the service licensee objects to the Commission‘s determination, it 
+may refer the matter to the Appeals Tribunal. 
+20.  PUBLICATION OF RESULTS 
+The Commission shall publish its determination stipulating the revised tariff 
+scheme in the Gazette and in at least 2 newspapers in general weekly 
+circulation in Saint Lucia. 
+ 
+SCHEDULE 1 
+(Regulation 3) 
+WATER AND SEWERAGE RATES 
+ 
+WATER RATES 
+• Domestic 
+ • The first 3,000 gallons @ $7.35 per 1,000 gallons 
+• In excess of 3,000 gallons @ $15.00 per 1,000 gallons  
+• Commercial/Industry • $20.00 per 1,000 gallons 
+• Hotel • $22.00 per 1,000 gallons 
+• Government • $14.00 per 1,000 gallons 
+• Ships • $ 40.00 per 1,000 gallons 
+ 
+
+
+--- PAGE 102 ---
+
+98 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+SEWERAGE RATES 
+• Domestic • The first 3,000 gallons @ $5.45 per 1,000 gallons• In excess of 3,000 
+gallons @ $10.35 per 1,000 gallons 
+• Commercial/ Industry • $13.70 per 1,000 gallons 
+• Hotel • $14 60 per 1,000 gallons 
+• Government • $8.50 per 1,000 gallons 
+ 
+CONNECTION FEE • Variable, based on site conditions with respect to existing 
+servicenetworks and schemes. 
+ 
+SCHEDULE 2 
+(Regulation 4) 
+INDEXATION FORMULA 
+The indexation formula is: 
+Tt = T(t-1) *[1 +(0.4 L + 0.3 E + 0.2 I+0.1 CPI) + K] 
+Where: 
+T = Tariff 
+t = Year in which the adjustments will be implemented (current year), 
+t- 1 = Year prior to the year in which the adjustments will be implemented 
+L = Wage Index, measured by the wage rate for the lowest grade of worker at 
+Cable & Wireless 
+ÄL = Change in wage index, as calculated by: Lt - L(t-1) /L(t-1) 
+E = Tariff for high voltage electricity supply (per kWh) 
+ÄE = Change in electricity tariffs, as calculated by: (Et - E(t-1) / E(t-1) 
+I = Industrial index weighting for Maintenance costs as measured by changes to 
+the following categories in the US Department of Labor Producer Price 
+Index (This index does not take into account currency fluctuations and so 
+shall be adjusted during a triennial tariff review to provide for exchange rate 
+fluctuation if the currency in Saint Lucia is no longer pegged to the US 
+Dollar): 
+
+
+--- PAGE 103 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+99
+Revision Date: 31 Dec 2008 
+ 
+ 
+Abbr. Industry Product Change Calculated by: 
+Category Category 
+P Pump and Domestic 
+P = (Pt – Pt-1)/ Pt-1 pumping Water equipment mfg Systems 
+FM Total fluid Liquid 
+FM =(FMt – FMt-1) meter and Meters / FMt-1 counting device  
+mfg 
+I = Change in Industrial Index, as calculated by: 
+( P + FM)/2 
+CPI = St Lucia Consumer Price Index, as published by the St Lucia Department of 
+Statistics 
+CPI = Change in CPI, as calculated by: 
+(CPIt – CPI t-1)/ CPI t-1 
+K = K factor. This is to be determined by the Commission during each triennial 
+tariff review. 
+ 
+SCHEDULE 3 
+(Regulation 7) 
+TRIENNIAL TARIFF ADJUSTMENT 
+The triennial tariff adjustment procedure comprises 3 steps: 
+1. Defining the service licensee‘s reasonable cost of service 
+2. Determining the allowed real revenue for each year 
+3. Setting the tariff rates 
+ 
+1. 
+ Defining the reasonable cost of service 
+For each year in the tariff review period, the reasonable cost of service is 
+measured by applying the following formula: 
+C = (RAV x RoR) + Dep + Opex 
+
+
+--- PAGE 104 ---
+
+100 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+Where: 
+C = Reasonable Cost Of Service 
+RAV = Regulatory Asset Value (1.1) 
+RoR = Allowable Rate of Return (1.2) 
+Dep = Depreciation (1.3) 
+Opex = Operating and Maintenance Expenditure based on Current Prices 
+(1.4) 
+ 
+1.1 Determining the Regulatory Asset Value 
+The Regulatory Asset Value is to be determined using the following formula: 
+*Regulatory Asset Value = Opening Assets + Forecast Capital Expenditure 
+– 
+Forecast 
+Depreciation 
+– 
+Forecast 
+Customer 
+and 
+Government 
+Contributions 
+Opening Assets = Regulatory Asset Value at the start of the Tariff Review 
+Period as determined below  
+Forecast Capital Expenditure = New assets forecast to be created annually, 
+after the start of the Tariff Review Period, including rehabilitation and 
+maintenance of existing assets and new infrastructure 
+Forecast Depreciation = Annual amount for depreciation forecast from the 
+start of the Tariff Review Period 
+Forecast Customer and Government Contributions = Assets forecast to be 
+paid for by the customers or by Government over the tariff review period 
+(e.g. connection assets) 
+*All assets that are used in providing the service to customers are to be 
+considered service licensee‘s assets. Assets are to be valued on a historic 
+cost basis. 
+ 
+Opening Asset Value 
+The Opening Asset value is to be calculated according to this formula: 
+Opening Assets = OAt-3 + Actual Capital Expenditure – Actual 
+Depreciation – Actual Customer and Government Contributions  
+T = Year of the Triennial Tariff Review 
+
+
+--- PAGE 105 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+101
+Revision Date: 31 Dec 2008 
+ 
+ 
+t-3 = Final year in the previous Tariff Review Period 
+OAt-3 = Opening Assets in the previous Tariff  Review Period. If t -3 = 0, then  
+‗Opening Assets‘ will refer to the Legacy Asset Value of the service 
+licensee at the time of the privatization transaction. This value shall be 
+agreed by the Government and the Transaction Advisor 1=3 Actual new 
+assets created, including rehabilitation Actual Capital Expenditure and 
+maintenance of existing assets and new infrastructure over the past 3 years, 
+adjusted as described in regulation 11; 
+t=3 Actual annual amount for depreciation recorded Actual Depreciation over the 
+past 3 years 1=3 Actual assets paid for by the customers and Actual 
+Customer and Government by Contributions over the Government 
+Contributions past three years (e.g. connection assets). 
+1.2 Allowable Rate of Return 
+The service licensee‘s allowable rate of return shall be calculated according to the 
+following formula: 
+RoR = Bank Rate + Q 
+Where: 
+RoR = Pre-tax Rate of Return 
+Bank Rate = Average 12 month deposit rate paid by commercial banks in Saint  
+Lucia 
+Q = Additional return required by investors for an investment with similar risk 
+characteristics, calculated as described below. 
+Calculating Q 
+Q is to be calculated at every third triennial tariff review in the following way: 
+1.  
+In year one, the Transaction Advisor advises on the full post-tax equity 
+return on investment in businesses with commensurate risk levels to the 
+service licensee, an applicable gearing or leverage ratio, and an estimated 
+debt risk premium. 
+At future triennial tariff reviews, the Commission shall review these 
+estimates if there is sufficient evidence that existing levels are inadequate or 
+excessive. 
+2. The Commission shall calculate Q according to the following formula: 
+Q = g(l - t)d + (1- g)e – Bank Rate 
+(1- t) 
+
+
+--- PAGE 106 ---
+
+102 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+Where: 
+g = Gearing or leverage ratio defined in step 1 
+d = Debt risk premium defined in step 1 + the Bank Rate 
+e = Post-tax equity return defined in step 1 
+t = St Lucia‘s corporate tax rate 
+Bank Rate = Average 12 month deposit rate paid by commercial banks in St Lucia 
+ 
+1.3  
+Depreciation 
+Assets are to be depreciated on a straight line basis, according to a 
+depreciation schedule. 
+Depreciation is to be in accordance with generally accepted accounting 
+principles and practices as used by the service licensee for accounting 
+purposes, or as otherwise specified by the Commission. 
+1.4 
+Allowable Operating and Maintenance Expenditure 
+Allowable Operating and Maintenance Expenditure will include all 
+operation and maintenance costs that are reasonably incurred by the service 
+licensee in providing services to consumers.  
+Expenses incurred in building customer awareness about aspects of service 
+provision, including billing and tariff information, information on customer 
+obligations and liabilities, complaints processes and customer rights will be 
+included in operations and maintenance expenditure if reasonable and 
+justified. 
+  
+Goodwill costs, brand building, sponsorships, and any expenses that are 
+incurred in activities other than providing Services to St Lucian customers 
+will be excluded from the allowable Operating and Maintenance 
+Expenditure. 
+2. 
+Determining the Allowed Real Revenue* 
+NPV (C) is to be calculated according to this formula: 
+NP O(C) =~ 
+C‗ 
+(1+Where: 
+t = year 
+
+
+--- PAGE 107 ---
+
+Laws of Saint Lucia 
+Water and Sewerage (Tariff) 
+Regulations 
+Cap 9.03 
+103
+Revision Date: 31 Dec 2008 
+ 
+ 
+Ct = Resonable Cost of Service in year t 
+r = Rate of Return (calculated as specified in section 0) 
+NPV (R) is to be calculated according to this formula: 
+3 RTvXy 
+NP V(R) _ 
+Y 
+t-1 (1 + 
+Where: 
+t = year 
+RTt = Tariffs in year t (in current prices) 
+Qt = Forecast demand in year t 
+K Factor 
+The K Factor to be applied to each of the 3 years of the tariff review period, is to 
+be determined as follows: 
+l. 
+The service licensee‘s total revenue for each year in the triennial period is to 
+be set so that it equals the reasonable cost of service for the same year. 
+2. 
+The tariff is then to be calculated by dividing the total revenue, by the 
+forecast demand for each year. 
+3. 
+If the resulting tariff fluctuates significantly from year to year, the changes 
+are to be smoothed out so that NPV(C) is still equal to NPV(R) over the 
+triennial period. 
+4. 
+The smoothed change in tariffs over the triennial period is the K factor for 
+each year of the tariff review period. 
+* 
+Ensuring the service licensee‘s ability to finance investment In setting the 
+allowed revenue, and smoothing changes in tariffs over the triennial period, 
+the Commission shall ensure that given reasonable costs and financing 
+requirements, the service licensee is able to meet reasonable debt covenants, 
+including interest and debt service coverage ratios. 
+3. 
+Setting the tariff rates 
+ 
+The service licensee‘s tariff review application shall include proposed tariffs 
+for the Commission‘s approval. The Commission shall review the proposed 
+tariffs taking the following into account: the service licensee‘s allowed real 
+
+
+--- PAGE 108 ---
+
+104 
+Cap.9.03 
+Water and Sewerage (Tariff) 
+Regulations  
+Laws of Saint Lucia
+Revision Date: 31 Dec 2008 
+ 
+revenue, the principles as stated in Part III, Division 5 of the Act and Part 3 
+of the Regulations. 
+ 
+ 

@@ -1,0 +1,1920 @@
+
+
+--- PAGE 1 ---
+
+The Water Act, Cap. 152.  
+THE WATER ACT.  
+Commencement: 7 April, 1997  
+(except for division 5 of Part II).  
+An Act to provide for the use, protection and management of water resources and supply; 
+to provide for the constitution of water and sewerage authorities; and to facilitate the 
+devolution of water supply and sewerage undertakings.  
+Part I: Preliminary.  
+1. Commencement.  
+This Act shall come into force on a date that the Minister may, by statutory instrument, 
+appoint; except that -  
+(a) different sections may come into force at different times; and  
+(b) no date shall be appointed to bring into force division 5 of Part 11 unless the 
+delegation referred to under section 3(2) has been effected.  
+2. Interpretation.  
+(1) In this Act, unless the context otherwise requires -  
+"action plan" means the national water action plan prepared under section 16;  
+"aquifer" includes a geological structure or formation and an artificial landfill permeated 
+or capable of being permeated permanently or intermittently with water;  
+"area"’ includes a water supply area and sewerage area or either of them, as the case 
+may be;  
+"authorised person" means a person acting on behalf of the Minister or the director to 
+whom powers have been delegated under section 11 and includes an officer, servant or 
+agent of an authority or any person acting on behalf of the authority;  
+"authority" includes a water authority or sewerage authority or either of them, as the 
+case may be;  
+"borehole" includes a borehole, well, excavation or other opening in the ground or any 
+natural or artificially constructed or improved underground cavity which is used or 
+extends to an aquifer -  
+(i) for intercepting, collecting, obtaining or using ground water; or  
+(ii) for disposing of any water or waste below the surface of the ground;  
+
+
+--- PAGE 2 ---
+
+"building sewer" in relation to land means any pipe conduit, underground gutter or 
+channel provided on that land to convey sewage or trade waste, but does not include a 
+sewer connection;  
+"connected fittings" includes any water closet, urinal, sink, lavatory, bath cistern or other 
+sanitary fittings;  
+"construct" includes alter, improve, maintain and repair;  
+"director" means the director of water development;  
+"domestic sewage" includes faecal matter, urine, household slops and other liquid house 
+refuse;  
+"domestic use" includes use for the purpose of -  
+(i) human consumption, washing and cooking by persons ordinarily resident on the land 
+where the use occurs;  
+(ii) watering not more than thirty livestock units;  
+(iii) irrigating a subsistence garden; and  
+(iv) watering a subsistence fish pond;  
+"easement’’ means a right to enter on land owned or occupied by another person for all 
+or any of the following purposes -  
+(i) to construct works on or in that land;  
+(ii) to store water on or in that land; or  
+(iii) to carry water, drainage or waste under, through or over that land;  
+"environment" means all aspects of the surroundings of humans, including the physical, 
+biological, economic, cultural and social aspects;  
+"ground water" means all water occurring or obtained from below the surface of the 
+ground other than water contained in works, not being a borehole, for the distribution, 
+reticulation, transportation, storage or treatment of water or waste and includes water 
+occurring in or obtained from any borehole or aquifer;  
+"hydrological station" includes a gauging, recording or monitoring station or an 
+investigation or monitoring borehole or ancillary works constructed or installed on land;  
+"land" includes premises;  
+"livestock unit" means a mature animal with a live weight of 500 kilograms and for the 
+purposes of this definition -  
+(i) one head of cattle shall be deemed to be 0.7;  
+
+
+--- PAGE 3 ---
+
+(ii) one horse shall be deemed to be 0.6;  
+(iii) one donkey shall be deemed to be 0.4;  
+(iv) one goat shall be deemed to be 0.15;  
+(v) one sheep shall be deemed to be 0.15, of a livestock unit;  
+"main" means a main pipe forming part of the water supply system owned, operated or 
+constructed by a water authority and includes any valves, meters, hydrants, access 
+shafts, chambers and other fittings as may be necessary for proper functioning of the 
+main pipe;  
+"Minister" means the Minister responsible for water or natural resources;  
+"occupier" means any person in occupation of the land or any part of the land or 
+premises;  
+"owner" includes -  
+(i) the person for the time being receiving the rent of the land in connection with which 
+the word is used, whether on his or her own account or as agent or trustee for any other 
+person; or  
+(ii) the person who would receive the rent of the land were let to a tenant;  
+"performance contract" means a contract made under section 48;  
+"person" includes any corporation, authorised officer, public authority, other legal entity 
+or water users group constituted for the purpose of acting as an authority under this Act;  
+"pollute" means directly or indirectly to alter the physical, thermal, chemical, biological or 
+radioactive properties of any water so as to render the water less fit for any beneficial 
+purpose for which it is, or may reasonably be, used or to cause a condition which is 
+hazardous or potentially hazardous to public health, safety or welfare, or to animals, 
+birds, fish or aquatic life or other  
+organisms or to plants; and "pollution" has a corresponding meaning;  
+"premises" includes any building or structure whether of a temporary or permanent 
+nature and any vehicle or vessel;  
+"private sewer" includes a privately constructed pipe, conduit, underground gutter or 
+channel, other than a building sewer, which may be connected to a private sewerage 
+installation -  
+(i) for the conveyance of sewage or trade waste; or  
+(ii) for other private purposes and not being part of a public sewerage system vested in 
+or constructed by a sewerage authority;  
+
+
+--- PAGE 4 ---
+
+‘’private sewerage installation’’ includes a privately constructed latrine, septic tank or 
+other sewerage system and all fittings connected to any of them but docs not include a 
+building sewer;  
+"private water pipe" means any pipe provided by the owner or occupier of land for the 
+receipt of a water supply but does not include a water connection or main;  
+"public authority" includes Government Minister, government department, statutory 
+authority or any local government body, including any body provided for in the Local 
+Governments Act;  
+"sewer connection" means a connection provided by the sewerage authority or at the 
+authority’s directions for the conveyance of sewage or trade waste between a building 
+sewer and a sewer at or near the boundary of that land;  
+"sewerage area" means an area declared as such under section 45;  
+"sewerage authority" means a sewerage authority appointed under section 46;  
+"subsistence fish pond" means a fish pond appurtenant to, or used in connection with, a 
+dwelling or group of dwellings for subsistence of its residents, the produce of which is 
+predominantly consumed by the residents and is not sold or bartered;  
+"subsistence garden" means a garden, not exceeding 0.5 hectare in area, appurtenant to, 
+or used in connection with, a dwelling or group of dwellings for the subsistence of its 
+residents, the produce of which is predominantly consumed by the residents and is not 
+sold or bartered;  
+"trade waste" means waste declared to be waste under section 68;  
+"trade waste agreement" means an agreement made under section 69 and includes a 
+trade waste consent;  
+"use", in relation to water, includes to withdraw, pump, extract, take, use or reuse or to 
+divert for the purpose of using or reusing, that water;  
+‘’waste" includes sewage and any other matter or thing, whether wholly or partly In solid, 
+liquid or gaseous state, which if added to any water may cause pollution;  
+"waste discharge permit’’ means a permit granted under section 29;  
+"water" includes -  
+(i) water flowing or situated upon the surface of any land;  
+(ii) water flowing or contained in -  
+(a) any river, stream, watercourse or other natural course for water;  
+(b) any lake, pan, swamp, marsh or spring, whether or not it has been altered or 
+artificially improved;  
+
+
+--- PAGE 5 ---
+
+(iii) ground water;  
+(iv) such other water as the Minister may from time to time declare to be water;  
+"water authority" means a water authority appointed under section 46;  
+"water connection" means a connection provided by a water authority, or at its direction, 
+for the conveyance of a water supply between a main and any private water pipe 
+constructed on land, at or near the boundary of that land;  
+"water permit" means a permit issued under division 3;  
+"Water Policy Committee" means the committee established under section 9;  
+"water supply area" means an area declared as such under section 45;  
+"works" includes any works whatever which are related to or may affect the investigation, 
+use, control, management or administration of any water or waste and any works, 
+excavations or boreholes -  
+(i) where water or waste may be used, extracted, collected, diverted, stored, conducted, 
+regulated, controlled, supplied, discharged, treated or measured;  
+(ii) where land may be drained;  
+(iii) where flooding or erosion of land or siltation of water may be mitigated or prevented;  
+(iv) partly or wholly situated within or on -  
+(a) the bed or banks of any watercourse; or  
+(b) any other source of water, by which any structure may be constructed or protected.  
+(2) In this Act, unless the contrary intention appears, a reference to the Act includes 
+regulations made under the Act.  
+(3) In interpreting this Act, an interpretation, which promotes the purposes of the Act, 
+must be preferred to one, which does not.  
+3. Application of the Act.  
+(1) The Minister may, from time to time, by notice in the Gazette declare part of this Act 
+not to apply to an area denned in the notice for a purpose defined in the water action 
+plan.  
+(2) Division 5 of Part 11 of this Act shall not be applied until the National Environment 
+Management Authority, acting under section 6(2) of the National Environment Act, has 
+delegated to the relevant authorities referred to in that division and on terms acceptable 
+by the Minister, its functions -  
+(a) under sections 26 and 34(2) of that Act; and  
+
+
+--- PAGE 6 ---
+
+(b) in relation to water, of granting pollution licences under Part VIII of that Act.  
+(3) After the delegation has been made as provided under subsection (2) and division 5 
+has come into effect, if there is any conflict between this Act and section 26, section 
+34(2) or Part VIII of the National Environment Act, this Act shall prevail.  
+4. Objectives.  
+The objectives of the Act are -  
+(a) to promote the rational management and use of the waters of Uganda through -  
+(i) the progressive introduction and application of appropriate standards and techniques 
+for the investigation, use, control, protection, management and administration of water 
+resources;  
+(ii) the coordination of all public and private activities which may influence the quality, 
+quantity, distribution, use or management of water resources;  
+(iii) the coordination, allocation and delegation of responsibilities among Ministers and 
+public authorities for the investigation, use, control, protection, management or 
+administration of water resources;  
+(b) to promote the provision of a clean, safe and sufficient supply of water for domestic 
+purposes to all persons;  
+(c) to allow for the orderly development and use of water resources for purposes other 
+than domestic use, such as the watering of stock, irrigation and agriculture, industrial, 
+commercial and mining uses, the generation of hydroelectric or geothennal energy, 
+navigation, fishing, preservation of flora and fauna and recreation in ways which minimise 
+harmful effects to the environment;  
+(d) to control pollution and to promote the safe storage, treatment, discharge and 
+disposal of waste which may pollute water or otherwise harm the environment and 
+human health.  
+Part II: Water Resources.  
+Division I: Rights in Water and Water AWdministration.  
+Rights in water.  
+5. Rights in water vested in the Government.  
+All rights to investigate, control, protect and manage water in Uganda for any use is 
+vested in the Government and shall be exercised by the Minister and the director in 
+accordance with this Part of the Act.  
+6. Interests to be in accordance with the Act.  
+(1) Notwithstanding any other law to the contrary, no person shall acquire or have a right 
+to -  
+
+
+--- PAGE 7 ---
+
+(a) use water;  
+(b) construct or operate any works; or  
+(c) cause or allow any waste to come into contact, whether directly or indirectly, with any 
+water, other than under the provisions of this Part of the Act.  
+(2) At the commencement of this Act -  
+(a) no person shall sink any well or use any water pursuant to section 31 of the Mining 
+Act without a permit to undertake works or a water permit as may be required by the 
+Minister or Regulations made under this Act;  
+(b) no consent for alluvial or river locations under section 41 of the Mining Act shall be 
+given without the prior written approval of the Minister, and any consent given shall be 
+subject to conditions that the Minister may require;  
+(c) reference to the Minister under section 56 of the Mining Act shall be deemed to be a 
+reference to the Minister under this Part of the Act;  
+(d) the provisions of section 42 dealing with works and uses existing before the 
+commencement of this Act shall apply to existing permits and rights to use water granted 
+under Part IV of the Mining Act exercised by the Minister and the director in accordance 
+with the provisions of this Act.  
+7. General rights to use water.  
+(1) Subject to section 8, a person may -  
+(a) while temporarily at any place; or  
+(b) being the occupier of or a resident on any land, where there is a natural source of 
+water, use that water for domestic use, fighting fire or irrigating a subsistence garden.  
+(2) In addition to the right to water under subsection (1), the occupier of land or resident 
+on land may, with the approval of the authority responsible for the area, use any water 
+under the land occupied by him or her or on which he or she is resident on or any land 
+adjacent to that land.  
+(3) The rights under subsections (1) and (2) do not per se authorise a person to 
+construct any works.  
+8. Limitation on use of water.  
+(1) The Minister may, in relation to any water source, where the situation so requires, by 
+notice published in a manner appropriate for the area as the Minister may see fit -  
+(a) prescribe places from which water may be extracted for use;  
+(b) prescribe the time and manner in which water may be used;  
+(c) at times of shortage or anticipated shortage -  
+
+
+--- PAGE 8 ---
+
+(i) regulate water to be used for particular purposes;  
+(ii) regulate, restrict or prohibit the application of a water permit, waste discharge permit 
+or other permit or licence issued under this Part of the Act;  
+(iii) on the advice of the Water Policy Committee, declare any part of Uganda to be a 
+controlled area and establish a comprehensive and integrated plan for managing land, 
+water and other natural resources within that area;  
+(d) temporarily or permanently prohibit the use of water from a given source on health 
+grounds;  
+(e) require any person to take measures, as may be specified in the notice, to avoid, 
+reduce or repair damage to a source of water or neighbouring land from the watering of 
+stock.  
+(2) No person shall extract water unless authorised under this Part of the Act.  
+(3) Water shall be deemed to have been extracted if there exists on the land in question 
+any pipe, channel, tank or other means of extracting water.  
+Water Policy Committee.  
+9. Water Policy Committee.  
+(1) There shall be a Water Policy Committee consisting of -  
+(a) the Permanent Secretary in the Ministry responsible for water resources;  
+(b) the executive director. National Environment Management Authority;  
+(c) the director responsible for irrigation;  
+(d) the director responsible for animal industry and fisheries;  
+(e) the commissioner responsible for industry;  
+(f) the commissioner responsible for hydropower;  
+(g) one district council chairperson;  
+(h) one chief administrative officer;  
+(i) the managing director, National Water and Sewerage Corporation;  
+(j) two persons having special qualifications or experience relevant to the functions of the 
+Water Policy Committee; and  
+(k) the director of water development.  
+
+
+--- PAGE 9 ---
+
+(2) The Minister shall appoint the members specified under subsection (1)(g), (h) and (j) 
+who shall hold office for a period of three years.  
+(3) The officers who are members of the Water Policy Committee by virtue of their offices 
+shall not delegate their powers under the committee.  
+(4) The Permanent Secretary of the Ministry responsible for natural resources shall be the 
+chairperson of the Water Policy Committee.  
+(5) The director shall be the secretary of the Water Policy Committee.  
+(6) The Minister shall appoint a deputy chairperson of the Water Policy Committee from 
+among the members of the committee.  
+(7) The Water Policy Committee may co-opt any person to the Committee as it may 
+require for the proper discharge of its functions.  
+(8) The directorate of water development of the Ministry responsible for natural resources 
+shall be the secretariat of the Water Policy Committee.  
+10. Functions of the Water Policy Committee.  
+The functions of the Water Policy Committee shall be -  
+(a) to assist the Minister in the coordination of hydrological and hydrogeological 
+investigations;  
+(b) to coordinate the preparation, implementation and amendment of the water action 
+plan and to recommend the water action plan to the Minister;  
+(c) at the request of the Minister, to advise any other Minister who may request advice 
+on -  
+(i) issues of policy relevant to the investigation, use, control, protection, management or 
+administration of water;  
+(ii) any other issue that may be referred to it;  
+(d) whether on request or otherwise, to review the law relating to water and advise the 
+Minister on any amendments that may be required for the improvement or better 
+administration of that law;  
+(e) to advise the responsible Minister, as the case may require, on any dispute between 
+agencies involved in water management that may be referred to it; and  
+(f) to undertake any other functions conferred upon it under this Act or referred to it from 
+time to time.  
+11. Delegation of powers and functions.  
+(1) The Minister may, in writing, delegate all or any of his or her powers or functions 
+under this Part of the Act other than -  
+
+
+--- PAGE 10 ---
+
+(a) the powers conferred by this section;  
+(b) the power to make regulations;  
+(c) the power to fix charges or fees; and  
+(d) the power to determine appeals.  
+(2) Delegation under subsection (1) may be in relation to a matter or class of matters or 
+to a part of Uganda.  
+(3) The Minister may in writing, revoke a delegation under subsection (1), and the fact 
+that the Minister has delegated a power or function shall not prevent him or her from 
+exercising that power or function.  
+(4) Powers and functions delegated under subsection (1) shall be exercised or performed 
+in accordance with the conditions set out in the instrument of delegation.  
+(5) A delegate under this section shall have all necessary power to exercise the powers or 
+functions delegated notwithstanding that the delegate would not be legally empowered 
+were it not for this section.  
+(6) A delegate exercising the powers and functions delegated under this section may 
+receive written or oral submissions from any person on any matter within the delegation.  
+(7) Where in the exercise of a power or performing of a function the opinion or discretion 
+of the Minister is required, the delegate may, unless the contrary intention appears, 
+exercise or perform the power or function upon his or her own opinion or discretion as 
+the case may require.  
+(8) Where there is a conflict between matters to which regard has to be made under this 
+Act and the instrument of delegation, the person acting on behalf of the Minister or an 
+authorised person may apply to the Minister for directions; and the Minister shall issue 
+directions within fourteen days of receiving the request, and the directions shall be 
+binding on the applicant, who may publish such directions as he or she may see fit.  
+Division 2: Water Resource Planning.  
+Inventory of water resources  
+12. Water resources investigation.  
+(1) The director may provide for -  
+(a) the collection, collation and analysis of data concerning the occurrence, flow, 
+characteristics, quality and use of any water or waste;  
+(b) the systematic gauging and recording of rainfall and of the volume, flow and quality 
+of other water or waste;  
+(c) the construction, operation and removal of gauging, recording and monitoring stations 
+and investigation and monitoring boreholes;  
+
+
+--- PAGE 11 ---
+
+(d) the sampling and analysis of any water or waste.  
+(2) The director may do anything necessary or expedient for or in connection with the 
+exercise of the powers conferred by subsection (1),  
+13. Minister’s power to require records, etc.  
+(1) The director may, by regulation or by notice served on any person, require any class 
+or type of persons, or the person on whom notice is served, as the case may be, to -  
+(a) keep and maintain records;  
+(b) install, operate and maintain equipment;  
+(c) take samples, dispose of them in a manner and submit them to such analysis by such 
+person or class of persons;  
+(d) provide information to a person, concerning the investigation, use, control, 
+protection, management or administration of any water or concerning any waste, as may 
+be prescribed in the regulation or notice.  
+(2) Anything required to be done by a regulation made or a notice given under subsection 
+(1) shall be done at the expense of the person to whom the notice or regulation applies, 
+unless the Minister otherwise determines.  
+(3) A person who contravenes or fails to comply with or causes or allows any person to 
+contravene or fail to comply with this section commits an offence.  
+(4) Any person who furnishes any information under this section or who causes or allows 
+any statement or representation to be made which he or she knows to be false or 
+misleading in a material particular commits an offence.  
+14. Power to enter land and investigate water resources.  
+(1) The director, an authorised person or a public authority may enter and remain on 
+land for purposes of performing functions or exercising powers conferred under this Part 
+of the Act and may take such measures and construct or operate works as may be 
+necessary for the investigation, use, control, protection, management or administration 
+of water.  
+(2) Subject to section 33, an authorised person may enter any land for the purpose of 
+investigating water resources and may -  
+(a) construct works;  
+(b) install and equip gauging, recording and monitoring stations;  
+(c) investigate or monitor bores and ancillary works on any land;  
+(d) make surveys;  
+(e) take measurements or samples;  
+
+
+--- PAGE 12 ---
+
+(f) make alterations or remove any of the above.  
+(3) Whatever is attached to land does not become part of the land for the purposes of 
+giving the owner or occupier of land a proprietory interest in it.  
+15. Obligations on entry on land.  
+In exercising the powers under section 14(1), the authorised person shall -  
+(a) cooperate as much as possible with the owner and occupier of the land;  
+(b) cause as little harm and inconvenience as possible;  
+(c) stay on the land only for as long as is reasonably necessary;  
+(d) remove from the land, on completing any works, all plant machinery, equipment, 
+goods or buildings brought on to the land, other than anything that the owner or occupier 
+of the land agrees may be left there;  
+(e) leave the land as nearly as possible in the condition in which it was prior to entry 
+being made.  
+National Water Action Plan.  
+16. National water action plan.  
+(1) The Minister may, on the basis of data progressively generated under water resources 
+investigations, require the Water Policy Committee to -  
+(a) coordinate the preparation, revision and keeping up-to-date of a comprehensive 
+action 
+plan 
+for 
+the 
+investigation, 
+use, 
+control, 
+protection, 
+management 
+and 
+administration of water for the nation;  
+(b) recommend an action plan and revision of it.  
+(2) The Minister shall submit the action plan recommended to him or her under 
+subsection (1) to the Cabinet with his or her recommendations within twenty-one days of 
+receiving it.  
+(3) The components of the action plan and procedures for its preparation, revision and 
+recommendations to and consideration by the Minister may be as prescribed by the 
+Minister, and if the Minister does not prescribe, as may be determined by the Water 
+Policy Committee.  
+17. Action plan to be adhered to.  
+(1) After approval by the Cabinet, the Minister shall by legal notice issue the action plan 
+which shall be binding to all persons and public authorities.  
+(2) The action plan may, from time to time, specify the types of activities, developments 
+or works which may not be done without -  
+
+
+--- PAGE 13 ---
+
+(a) prior approval of the Water Policy Committee; or  
+(b) prior amendment of the action plan.  
+Division 3: Hydraulic Works and Uses of Water.  
+18. Construction of works.  
+(1) No person shall construct or operate any works unless authorized to do so under this 
+Part of the Act.  
+(2) A person wishing to construct any works or to take and use water may apply to the 
+director in the prescribed form for a permit to do so.  
+(3) The director shall, on receipt of an application under subsection (1), give public notice 
+of the application in the prescribed manner.  
+(4) The director may, after taking into consideration any objection that may be raised 
+and after consultation with any person or public authority as he or she may see fit, grant 
+a permit to the applicant.  
+(5) The director may grant the permit under subsection (4) on conditions that he or she 
+may think fit; and the conditions may -  
+(a) require the payment of fees or charges that may be prescribed under this Act;  
+(b) specify the way in which land where water is used under the water permit is to be 
+drained;  
+(c) require the person to whom the permit is granted to make compensation to any other 
+person.  
+(6) Subject to article 26 of the Constitution, compensation under subsection (5)(c) shall 
+be in a manner prescribed by the Minister  
+(7) A grant of an application under this section does not imply any representation or 
+guarantee by the director, authorised person or public authority that water will be 
+available at the place.  
+19. Exemption of works.  
+Subject to guidelines established by the Minister from time to time, the director may 
+exempt -  
+(a) a public authority; or  
+(b) a class of persons or works, from all or any of the provisions of section 18(1) on such 
+conditions as he or she may deem fit.  
+20. Standard conditions.  
+A holder of a permit issued under this division of the Act shall -  
+
+
+--- PAGE 14 ---
+
+(a) not cause or allow any water to be polluted;  
+(b) prevent damage to the source from which water is taken or to which water is 
+discharged after use;  
+(c) take precautions to ensure that no activities on the land where water is used result in 
+the accumulation of any substance which may render water less fit for the purpose for 
+which it may be reasonably used;  
+(d) observe conditions prescribed by regulations made under this Act; and  
+(e) observe any special condition that may be attached to the permit.  
+21. Inspection of works.  
+Where under section 18 a permit is granted subject to a condition that the works shall for 
+purposes of this Act be inspected and approved by an authorised person, the inspection, 
+approval or certificate given by the authorised person shall not –  
+(a) be deemed to imply that the works are properly designed or constructed; or  
+(b) support or justify any claim against the Government, public authority or authorised 
+person in connection with the works.  
+D0ivision 4: Revision, Variation and Cancellation of Water Permits.  
+22. Suspension or variation of a water permit.  
+(1) Where in the opinion of the director the water available in an area is, or is likely to 
+become, insufficient in quantity or quality for the needs of the persons using or seeking 
+to use it from that source, the director may, by notice in writing to the holder of a water 
+permit for that area, suspend or vary the water permit.  
+(2) The director may impose conditions to any permit varied, suspended or granted under 
+subsection (1), including requiring compensation to a holder of a water permit by another 
+holder of a water permit.  
+(3) Subject to article 26 of the Constitution, compensation under subsection (2) shall be 
+as is prescribed under this Act.  
+23. Quantification for a water permit.  
+The director may specify the quantity of water that may be taken under a permit where 
+the permit does not specify the quantity.  
+24. Duration of a water permit.  
+(1) The director may specify the duration of a permit where it is not specified in the 
+permit.  
+(2) Unless the director determines otherwise, the director shall not, under subsection (1), 
+specify a date less than two years from the date of the director’s specification.  
+
+
+--- PAGE 15 ---
+
+25. Cancellation of a permit.  
+The director may cancel a water permit where in his or her opinion the holder of a water 
+permit has -  
+(a) failed to comply with any express or implied condition to which the water permit is 
+subject;  
+(b) taken or used more water than he or she is entitled to take in any period;  
+(c) taken or used water for a purpose other than that for which he or she is entitled;  
+(d) failed to comply with any provision of this Act;  
+(e) not made full beneficial use of the pen-nil within the two preceding years.  
+26. Cancellation or variation of a permit for a public purpose.  
+(1) Subject to section 33, where the director is of the opinion that in order to make water 
+available for a public purpose it is necessary to cancel or vary a water permit, the director 
+may cancel or vary the water permit.  
+(2) The Minister may, by notice in the Gazette, declare any purpose to be a public 
+purpose for the purpose of this section.  
+27. Variation of a water permit upon application of the holder.  
+On the application of the holder of a water permit, the director may vary the permit or 
+any condition attached to a permit.  
+Division 5: Waste Discharge Permits.  
+28. Declaration of prohibited waste by the Minister.  
+(1) The Minister may, in any area prescribe -  
+(a) waste which may not be discharged;  
+(b) trades which may not discharge waste; or  
+(c) classes of premises or particular premises from which waste may not be discharged,  
+directly or indirectly into any water except in accordance with a waste discharge permit.  
+(2) A person who -  
+(a) is responsible for the production, storage, discharge or deposit of any waste;  
+(b) is engaged in any trade; or  
+(c) owns or occupies any premises,  
+
+
+--- PAGE 16 ---
+
+prescribed under subsection (1) shall not cause or permit any waste to be discharged 
+directly or indirectly into any water, except in accordance with a waste discharge permit.  
+(3) A person who contravenes subsection (2) commits an offence.  
+29. Application for a waste discharge permit.  
+(1) A person wishing to discharge waste may apply to the director for a waste discharge 
+permit in the prescribed manner.  
+(2) The director shall, on receipt of an application under subsection (1), give public notice 
+of the application made in the prescribed manner.  
+(3) Any person with an interest in the outcome of an application made under this section 
+may give notice of objection to the director in a manner and within the time prescribed.  
+(4) The director shall consider every application and objection to it and, after 
+consultations with any persons or public authorities, which he or she sees fit, may grant 
+the permit on such terms and conditions as he or she sees fit.  
+(5) The Water Policy Committee, at the request of the Minister or on its own initiative, 
+may prepare guidelines or conditions concerning waste discharge permits and 
+recommend them to the Minister.  
+(6) The Minister shall consider the recommendations made under subsection (5) and may 
+prescribe the recommended guidelines or conditions as the case may require, with or 
+without amendments.  
+(7) Without limiting subsection (4), the conditions of any waste discharge permit may  
+(a) specify, restrict or prohibit certain types, volumes or concentrations of waste which 
+may be produced, stored, discharged or deposited;  
+(b) specify the manner in which waste is to be stored, treated, discharged or otherwise 
+dealt with;  
+(c) require the holder, at his or her own cost, to install pollution control or waste 
+treatment equipment of a type specified by the director and to operate that equipment in 
+a manner determined by the director;  
+(d) require the holder to take measures specified by the director for the purpose of 
+minimising the possibility of pollution occurring as a result of any activity conducted or 
+proposed to be conducted on land owned or occupied by the holder;  
+(e) require the holder, at his or her own cost, to provide monitoring equipment specified 
+by the director;  
+(f) require the holder, at his or her own expense, to carry out a monitoring programme 
+specified by the director and to provide the director with information and data relating to 
+the characteristics, volume and effects of waste being produced, stored, treated, 
+discharged, deposited or otherwise disposed of;  
+
+
+--- PAGE 17 ---
+
+(g) require the holder to do or cause to be done any other act or thing specified by the 
+director which the director considers necessary for protecting the environment or 
+preventing, controlling or abating pollution.  
+(8) The director may, at the request of a holder of a waste discharge permit, amend the 
+terms of the permit.  
+(9) The director may, at any time, amend the terms of, suspend the operation of, or 
+cancel a waste discharge permit if, in his or her opinion, it is necessary to protect the 
+environment or to prevent the pollution of any water.  
+30. Reference of permits to other authorities.  
+(1) Where the director proposes to amend the terms of a waste discharge permit, he or 
+she shall refer the proposal, together with a copy or summary of the application and 
+appropriate plans, specifications and other information -  
+(a) to public authorities or persons that may be prescribed by regulation; and  
+(b) to any other public authority which or person who may be directly affected by 
+activities pursuant to the proposed amendment,  
+and shall take further steps that may be prescribed concerning the public advertisement 
+of, and objections to, the proposed amendment.  
+(2) A public authority or person to which a proposal is referred under subsection (1) shall 
+inform the director in writing within thirty days after the day on which the proposal was 
+referred -  
+(a) whether the proposal is supported or whether there are objections to it;  
+(b) whether, and if so what, special terms should be included in the proposed permit or 
+amendment.  
+(3) The director shall -  
+(a) take into account any report and comments received under subsection (2); and  
+(b) refuse to grant the proposed permit or make the proposed amendment if a competent 
+public authority or person submits a written report objecting to the proposal on the 
+grounds that public health is likely to be endangered by the proposed permit or 
+amendment.  
+31. Prohibition of pollution.  
+(1) A person commits an offence who, unless authorised under this Part of the Act, 
+causes or allows -  
+(a) waste to come into contact with any water;  
+(b) waste to be discharged directly or indirectly into water:  
+
+
+--- PAGE 18 ---
+
+(c) water to be polluted.  
+(2) Subsection (1) shall apply to permits granted and works constructed before the 
+commencement of this Act.  
+(3) In any proceedings for an offence under subsection (1), proof of the existence of a 
+drain, pond, dump or other means by which waste may be conveyed, retained or 
+deposited as to come into contact, directly or indirectly, with water shall be prima facie 
+evidence of pollution of that water.  
+(4) A person or public authority contravening subsection (1) through which damage is 
+caused is liable to pay the cost of remedying the damage caused and reinstating the 
+environment, as far as is possible, to the condition that would have existed if the damage 
+was not caused.  
+(5) Where a person or authority fails to comply with subsection (4), the Minister may -  
+(a) apply to court for enforcement of compliance with the provisions; or  
+(b) enter any land and take such measures as may be necessary to ensure compliance 
+with the provisions.  
+(6) In any proceedings under subsection (5), the court may, on application by the 
+Minister, require that person or authority to pay into court a sum not being less than 80 
+percent of the cost estimated by the Minister of remedying the damage caused and 
+reinstating of the environment.  
+Division 6: Miscellaneous Provisions for Part II  
+32. Charges and fees.  
+(1) The Minister may, by notice in the Gazette, fix fees and charges for-  
+(a) services provided by the Minister, the director, a public authority or authorised person 
+under this Part of the Act;  
+(b) the taking or use of water under a water permit granted under this Part of the Act; or  
+(c) the discharge of waste under a waste discharge permit granted under this Part of the 
+Act.  
+(2) Charges and fees fixed under subsection (1) shall be in accordance with pricing 
+policies established by the water action plan or other policy as may be determined by the 
+Government.  
+(3) The director may levy and demand charges or fees fixed by the Minister under 
+subsection (1).  
+33. Damage caused by the Minister etc. to be compensated.  
+
+
+--- PAGE 19 ---
+
+(1) Where damage is caused to land through the exercise of powers conferred upon the 
+Minister, the director or an authorised officer by this Act, the Government shall 
+compensate all parties having an interest in that land.  
+(2) For purposes of this section, damage to land includes -  
+(a) deprivation of possession of the surface land;  
+(b) damage to the surface of land and any improvements, trees or crops;  
+(c) damage to stock; and  
+(d) all consequential damage.  
+(3) Compensation under this section may be -  
+(a) in the form of money;  
+(b) provision of an alternative supply of water;  
+(c) exchange of land for another piece of public land if the land lost was under the Land 
+Reform Decree, 1975; or  
+(d) any other type of compensation which the Minister may consider appropriate.  
+(4) In calculating monetary compensation  
+(a) for damage to land under this section;  
+(b) in respect of compulsory acquisition of any interest in land, no amount shall be paid 
+in respect of the taking or use of water on, adjacent to or beneath that land, unless the 
+effect of that taking or use is to deprive the owner or occupier of the right to use water 
+conferred by section 8, or any water permit granted under this Part of the Act.  
+34. Register of permits.  
+(1) The director shall maintain a register of all permits granted and any works or uses of 
+water registered under this Part of the Act and shall record in the register –  
+(a) any variation, modification, suspension or cancellation thereof; and  
+(b) any easement created over land.  
+(2) The director may provide extracts from the register maintained under subsection (1) 
+to any person who applies in the prescribed manner.  
+(3) An extract from the register, certified to be under the hand of the director, shall be -  
+(a) admissible evidence in all court proceedings without further proof unless proved 
+otherwise; and  
+
+
+--- PAGE 20 ---
+
+(b) prima facie evidence of the facts recorded in the extract.  
+35. Prescribed guidelines.  
+The Minister may, on the advice of the Water Policy Committee, from time to time 
+prescribe guidelines to be followed by the director, authorised person or public authority 
+while exercising their powers under this Part of the Act.  
+36. Easements.  
+(1) The holder of a water permit who wishes to bring water to, or drain water from, his or 
+her land over land owned or occupied by another person may apply to the director for the 
+creation of an easement over that land if he or she has been unable to obtain an 
+easement by agreement with the owner or occupier of that land.  
+(2) The holder of a waste discharge permit who wishes to drain waste from his or her 
+land over land owned or occupied by another person may apply to the director for the 
+creation of an easement over that land if he or she has been unable to obtain an 
+easement by agreement with the owner or occupier of that land.  
+(3) On receiving the application under subsection (1) or (2), the director shall, in the 
+prescribed manner, give notice to the owner, occupier or any other person having an 
+interest in that land.  
+(4) A person having any objection to an application made under subsection (1) or (2) 
+may give notice of objection to the director in a manner and within the period that may 
+be prescribed.  
+(5) Subject to section 35 and after giving a hearing to all persons having an interest in 
+the land, including the applicant, who wish to be heard, the director may create an 
+casement over that land in the prescribed form as may be appropriate.  
+(6) An easement under subsection (5) may make provision for –  
+(a) the construction of works necessary to carry water or waste across that land;  
+(b) construction offences, bridges, crossings or other works on that land;  
+(c) the amount of compensation, if any, to be paid to the owner, occupier or other person 
+having interest in that land,  
+and the person having the easement shall comply with the provisions.  
+(7) Any person aggrieved by the decision of the director under subsection (6) may appeal 
+to the High Court against the decision, if the decision was made without his or her 
+consent.  
+(8) If a person having an easement fails to comply with subsection (6), the director may 
+cancel the casement and notify that person and the registrar of titles.  
+(9) If the person having an easement fails to maintain any works he or she constructed 
+under this section, the owner or occupier of the land on which the works are situated may 
+
+
+--- PAGE 21 ---
+
+maintain or repair the works and recover the reasonable costs as a civil debt from the 
+person having the easement.  
+(10) Any compensation due under this section, which remains unpaid for an unreasonable 
+period, may be obtained as a civil debt.  
+(11) An easement created under this section terminates six months after the date of 
+creation, unless it is registered with the registrar of titles.  
+37. Inspection of land in relation to water use.  
+An authorised person may enter land for purposes of -  
+(a) inspecting works or use of water; or  
+(b) taking samples or making tests, to find out whether -  
+(i) water is being wasted, misused or polluted;  
+(ii) the terms of any water permit, waste discharge permit or any other permit granted 
+under this Part of the Act are being complied with;  
+(iii) an offence is being committed against this Part of the Act, or the Act is otherwise 
+being complied with.  
+38. General appeals.  
+(1) Except as otherwise provided under this Act, any person aggrieved by a decision of 
+the director, authorised person or public authority made under this Part of the Act may, 
+within one month, appeal to the Minister in a prescribed manner.  
+(2) A person who failed without reasonable cause or neglected to exercise his or her right 
+of objection under this Part of the Act shall not have a right to appeal under subsection 
+(1).  
+39. Offences.  
+(1) Any person who -  
+(a) causes or allows water to be wasted, misused, or without reasonable cause, 
+excessively consumed; or  
+(b) takes or uses water for a purpose other than provided by the water permit,  
+commits an offence,  
+(2) A person commits an offence who -  
+(a) assaults, threatens, resists, obstructs, hinders or delays the authorised person or a 
+public authority in the performance of any function or duty under this Part of the Act; or  
+
+
+--- PAGE 22 ---
+
+(b) allows or encourages another person to do any of the acts under paragraph (a).  
+(3) Where a person is convicted under subsection (2), the court may, in addition to any 
+other penalty, order that person to pay, by way of |compensation, any person who may 
+have suffered any damage as a result of the action for which that person is convicted.  
+(4) A person commits an offence who -  
+(a) interferes;  
+(b) attempts to interfere; or  
+(c) allows another person to interfere,  
+with any hydrological station.  
+(5) Any person who contravenes any of the provisions of this Part of the Act commits an 
+offence.  
+40. Penalties.  
+(1) Any person convicted of an offence under this Part of the Act for which no other 
+penalty is provided is liable to a term of imprisonment of not more than five years or to a 
+fine of not more than six million shillings and is liable to a fine of one million shillings for 
+every day during which the offence is continued.  
+(2) Where under this Part penalty is provided for a continuing or subsequent offence, the 
+penalty shall apply -  
+(a) in the case of a continuing offence, if the person continues to contravene the 
+provision for which he or she was convicted after the date on which he or she was 
+convicted; or  
+(b) in the case of a subsequent offence, if that person contravenes the same provision for 
+which he or she was convicted earlier.  
+41. Protection from liabilities.  
+Except as expressly provided under this Part of the Act, the Minister, director or 
+authorised officer shall not be personally liable for any act done or omission made in good 
+faith in the exercise of the functions and duties under this Part of the Act.  
+42. Transitional period and existing works and permits.  
+(1) All works lawfully constructed and all permits dealt with under this Part of the Act 
+which were lawfully issued before the commencement of this Act shall be deemed to have 
+been issued under this Act, and any such works or pen-nits shall be registered in the 
+manner and within the period prescribed by regulations; and the Minister may, in relation 
+to those works or permits, exercise all powers conferred upon him or her under this Part 
+of the Act.  
+
+
+--- PAGE 23 ---
+
+(2) Where a person fails to register his or her permit or works within the period 
+prescribed by the Minister, his or her water permit or permit for works shall lapse, and he 
+or she shall only use water or the works after obtaining a water permit or permit to 
+construct works under this Part of the Act.  
+43. Decision to be in regard to objectives.  
+While exercising his or her powers and function under this Act, the Minister, director, 
+authorised person or any other person shall have regard to -  
+(a) the objectives of this Act;  
+(b) any relevant international agreement regulating the use of water to which Uganda is 
+a party;  
+(c) the provisions of the water action plan;  
+(d) any policy of the Government concerning the decentralisation of administrative 
+responsibilities;  
+(e) any guidelines prescribed by the Minister under this Part of the Act; and  
+(f) any delegation that may have been made by the Minister.  
+44. Director’s power to give direction.  
+(1) The director may, by notice in writing served on any person, require that person, 
+within the period specified in the notice, to do or not to do any thing or to take such 
+measures or construct or remove works that may, in the opinion of the director, be 
+necessary or desirable for the investigation, use, control, protection, management or 
+administration of water.  
+(2) Where a person fails to comply with a notice served under subsection (1), the director 
+may enter any land and take such measures and construct or remove such works as are 
+necessary to ensure complete compliance with the notice and may recover reasonable 
+costs of so doing from that person.  
+Part III: Water Supply and Sewerage.  
+Division 7: Water and Sewerage Areas and Authorities, and User Groups and 
+Associations.  
+45. Declaration of water and sewerage areas.  
+(1) The Minister may, for purposes of this Part, by notice published in the Gazette, 
+declare any area to be -  
+(a) a water supply area; or  
+(b) a sewerage area.  
+
+
+--- PAGE 24 ---
+
+(2) A notice made under subsection (1) shall declare the boundaries of an area by any 
+means that is most descriptive of the area or by reference to either or both of -  
+(a) survey coordinates; or  
+(b) distances from one or more prominent physical features.  
+46. Appointment of water or sewerage authorities.  
+(1) The Minister shall by notice published in the Gazette or other form of publication most 
+appropriate for the area appoint any person or public body to be -  
+(a) a water authority for any water supply area declared under section 45;  
+(b) a sewerage authority for any sewerage area declared under section 45.  
+(2) The Minister may appoint under subsection (1) a person or existing public authority 
+together with any other person or persons named by the Minister.  
+47. Functions of water and sewerage authorities.  
+(1) The functions of an authority shall be -  
+(a) to provide water supply services for domestic, stock, horticultural, industrial, 
+commercial, recreational, environmental and other beneficial uses as is required by the 
+declaration establishing the authority or the performance contract;  
+(b) to manage the water resources entrusted to it;  
+(c) to provide and manage sewerage services as may be required by the declaration or 
+performance contract;  
+(d) to give effect to any direction by the Minister relating to water or sewerage; and  
+(e) to do anything connected or incidental to the above,  
+(2) In the exercise of its functions, an authority shall endeavour to provide its services to 
+the extent and standards determined by the Minister and provide those services -  
+(a) in a manner which is most beneficial to the people of Uganda;  
+(b) efficiently and economically;  
+(c) in a socially and environmentally responsible manner; and  
+(d) in consultation with appropriate public authorities and relevant community groups.  
+(3) In all its functions, an authority shall adhere to all relevant stipulations set out in 
+divisions 3, 4, 5 and 6 of Part II of this Act.  
+48. Performance contracts.  
+
+
+--- PAGE 25 ---
+
+(1) The Minister shall enter into performance contracts with each authority appointed by 
+him or her, and a contract shall include among other things -  
+(a) terms of reference of the authority relating to its rights and obligations;  
+(b) the extent of the authority’s interest in any land, or works constructed or financed by 
+the Government or works constructed by the authority;  
+(c) terms of reference of the authority relating to the operations of the authority in the 
+exercising of its functions;  
+(d) provisions under this Part of the Act, if any, that will not apply to the authority;  
+(e) the period of the contract; and  
+(f) any other information or matter that the Minister and the authority may find 
+necessary for the better operations of the authority.  
+(2) In the performance of the contract, an authority shall make a report to the Minister 
+on the achievements of the authority since the making of the contract or the last report 
+by the authority at such intervals and in a manner that the Minister may prescribe in 
+relation to that authority.  
+(3) The director may exercise such functions in relation to a performance contract as may 
+be specified -  
+(a) in that performance contract; or  
+(b) by the Minister,  
+including any power to supervise or inspect the activities of an authority and report his or 
+her findings to the Minister.  
+(4) No contract shall dispense with or qualify any duty or obligation imposed upon an 
+authority under Part II of this Act or any other law.  
+(5) The Minister may, from time to time, give directions to any authority on general 
+policy, and the authority shall give effect to that policy.  
+49. Service discretionary.  
+The supply of any services by an authority to any person shall be a discretion of the 
+authority; but where the authority chooses to supply services, the water or other service 
+quality shall be that required by regulations or by a performance contract with the 
+authority.  
+Water user groups and associations.  
+50. Water user groups and water and sanitation committee.  
+(1) A set of individuals or households may form a water user group and collectively plan 
+and manage the point source water supply system in their area.  
+
+
+--- PAGE 26 ---
+
+(2) A water user group may collect revenue from persons using the water supply system 
+for the maintenance of the system, and the tariffs to be collected under this subsection 
+shall be approved by the director.  
+(3) A water user group shall operate through a water and sanitation committee which 
+shall be -  
+(a) the executive organ of the group; and  
+(b) in addition to water supply, responsible for sanitation and hygiene in the area.  
+51. Water user association.  
+(1) Where a water supply system is established by and serving more than one water user 
+group, each operating through a water and sanitation committee, the committees 
+involved shall form a water user association which shall consist of an agreed 
+representative of each committee.  
+(2) An association formed under subsection (1) shall manage the water system and may 
+with the approval of the director set tariffs and collect revenue for the maintenance of the 
+system.  
+52. Associations and committees to work under director.  
+(1) Water and sanitation committees and associations shall operate under the direction of 
+the director of the directorate of water development.  
+(2) Local authorities may organise the formation of water user groups and associations 
+within their jurisdiction.  
+Division 8: Water Supply.  
+Supply for private and public purposes.  
+53. Construction of water works.  
+(1) A water authority may acquire, construct or operate works for the supply of water.  
+(2) Works acquired, constructed or operated under this section may be situated within or 
+outside the area for which the authority is appointed.  
+(3) An authority may alter the capacity or location of any works and may temporarily or 
+permanently discontinue the use of any works generally or for any specified purpose.  
+(4) Before discontinuing the use of any works the authority shall, where practicable, give 
+notice to all persons likely to be affected by the non-operation of the works.  
+54. Recovery of capital costs.  
+(1) With the approval of the Minister, an authority may recover the costs or any part of 
+the costs of acquiring or constructing any works after considering the benefits from the 
+
+
+--- PAGE 27 ---
+
+works and any contribution that the authority may assess to be contribution from the 
+owner of the land.  
+(2) Any amount to be recovered by the authority under subsection (1) shall be paid to 
+the authority -  
+(a) by the owner of the land; or  
+(b) from such other fund as the Minister from time to time may establish for the purpose 
+of defraying amounts payable to authorities by an owner excused from payment on the 
+ground -  
+(i) of poverty of the owner of land; or  
+(ii) that payment would cause undue hardship.  
+55. Declaration of completed water supplies.  
+(1) A water authority may, by notice published in a manner deemed appropriate by the 
+authority, declare any works acquired or constructed by the authority to be effective in a 
+given water supply area.  
+(2) On the declaration of works to be effective in an area, the owner of any land within 
+the water supply area shall if he or she benefits in any way from the works be liable to 
+the rates or charges that may be prescribed by the water authority, whether or not the 
+land is occupied or connected to the works.  
+(3) Where, in the opinion of the water authority, the cost of extending existing works to 
+supply water to an applicant is not commensurate with sums likely to be recovered from 
+water charges, the authority may require the applicant to meet the costs of extending the 
+existing works as a condition of providing supply.  
+56. Requiring owner to connect to works.  
+(1) A water authority may, by notice in writing, require an owner of land within the water 
+supply area -  
+(a) to connect the land to the authority’s works;  
+(b) to remove any existing connection between that land and the authority’s works; or  
+(c) to carry out any works or repair that the authority considers necessary for the 
+provision of the services.  
+(2) The owner of land or his or her agent may apply, in a manner and form prescribed by 
+the water authority, and the water authority may agree, to connect that land to the 
+works on terms and conditions as the authority may determine.  
+(3) A water authority may, by notice in writing to a group of owners of land, require 
+those owners to connect their land by a combined connection to the authority’s works 
+within a specified period.  
+
+
+--- PAGE 28 ---
+
+(4) Any notice under this section shall be served on each owner whose land is required to 
+be connected.  
+(5) Where the owner of land notified under this section fails to comply with the notice 
+within the specified period or any longer period agreed to by the authority, the authority 
+may connect the land as required by the notice and recover reasonable costs of doing so 
+from the owner or under section 54.  
+(6) An application made under subsection (2) shall not be unreasonably refused.  
+(7) The authority may, as it may consider just and reasonable, apportion the costs or 
+expenses to be paid by each owner of land where a group of owners are required to make 
+a combined connection.  
+57. Authority to supply water by measure or otherwise.  
+A water authority may supply water to any person or land by measure or in any other 
+manner, subject to terms and conditions that the authority may determine or as may be 
+prescribed by the Minister.  
+58. Metering.  
+(1) The water authority may install a meter for the purposes of measuring the amount of 
+water supplied by it.  
+(2) The water authority shall keep a record of all meters installed by it.  
+(3) An authorised person may enter land for purposes of affixing, installing, maintaining, 
+repairing, replacing, removing, testing or reading any meter and may take such action 
+and do such things as may be reasonably necessary.  
+(4) Where a meter is installed -  
+(a) the person supplied shall not cause or permit the meter to be tampered with, altered, 
+damaged or destroyed;  
+(b) the meter shall be properly protected and shall remain accessible to an authorised 
+person, free from soil, plants, vegetation or any other obstruction.  
+(5) Where a person falls to comply with subsection (4), an authorised person may enter 
+the land where the meter is situated and repair any damage or remove any obstruction 
+or alter the position of the meter and recover the cost involved from that person.  
+(6) A meter installed under this section remains the property of the water authority.  
+(7) Where a meter is not functioning properly, the authorised person may estimate the 
+amount of water used for the period during which the meter was or is not functioning 
+properly.  
+(8) A person requiring to remove or alter the position of a meter shall give seven days 
+notice in writing to the water authority; and a reading of the water used shall be taken 
+before any meter is removed or altered.  
+
+
+--- PAGE 29 ---
+
+(9) No person other than an authorised person shall remove, disconnect, or alter the 
+position of, or in any way interfere with, a meter.  
+59. Testing meters  
+(1) This section shall apply to those areas in which the Minister declares it to apply.  
+(2) Where a meter has been installed under section 58, the person supplied may request 
+the water authority in writing to test the meter; and on receipt of the request and 
+payment of a fee that may be prescribed, the water authority shall test the meter.  
+(3) If the meter registers above 5 percent more than was actually passed through the 
+meter at the test, the water authority shall return the fee.  
+60. Authority to erect hydrants and standpipes.  
+(1) The Minister may require a water authority to erect fire hydrants And standpipes for 
+the supply of water for extinguishing fires.  
+(2) Hydrants shall be erected in conspicuous places and at convenient distances that a 
+water authority considers appropriate, and the authority shall keep them in effective 
+order.  
+(3) Where it is impractical or inappropriate for a water authority to provide a reticulated 
+supply of water to particular premises, it may supply Water to those premises by a 
+standpipe erected in such reasonably convenient location, as the authority considers 
+appropriate.  
+Water Restrictions.  
+61. Water restrictions.  
+(1) A water authority may prohibit, regulate or restrict the consumption of water 
+supplied, by notice published as is provided under subsection (3).  
+(2) The following shall be specified in a notice made under subsection (l) -  
+(a) the area to which the notice applies;  
+(b) the period during which the restriction, prohibition or regulation shall last;  
+(c) the manner in which the notice shall be enforced; and  
+(d) the purpose for the restriction, prohibition or regulation of the water.  
+(3) A notice issued under subsection (1) may be published -  
+(a) in a newspaper circulating in the area to which the notice relates;  
+(b) by radio, television or mobile loudspeaker in the area to which the notice relates.  
+
+
+--- PAGE 30 ---
+
+(4) A person commits an offence who fails to comply with, or causes or allows any other 
+person not to comply with, a notice under this section.  
+(5) In any proceedings for an offence under this section, a certificate signed by the 
+person who, at the time of the broadcast, was in charge of the radio, television station or 
+mobile loudspeaker from which publication was made, stating that the broadcast -  
+(a) was made at the time or times specified in the certificate; and  
+(b) included a statement of specified restrictions for a given period and in the areas 
+specified in the certificate,  
+shall, unless the contrary is proved, be evidence of the broadcast of the matter.  
+Division 9: Public and Private Sewerage Works.  
+62. Construction of sewerage works.  
+(1) A sewerage authority may acquire, construct, operate or arrange for the construction 
+or operation of works to provide sewerage services or to dispose of or treat any sewage 
+or waste.  
+(2) Sections 53(2) and (3) and 54 shall apply to a sewerage authority.  
+(3) A sewerage authority shall not temporarily discontinue or prohibit the use of any 
+sewer unless it is expedient to do so in order to -  
+(a) install, maintain or repair any works;  
+(b) make any connection to or disconnection from a sewer; or  
+(c) prevent the escape of sewage or the pollution of any water.  
+(4) Before permanently discontinuing or prohibiting the use of any sewer, a sewerage 
+authority shall ensure that -  
+(a) an alternative sewer exists which is capable of serving all land previously served by 
+the existing sewer;  
+(b) all affected land has been provided with a sewer connection to the alternative sewer, 
+at the expense of the authority,  
+63. Declaration of completed sewerage works.  
+(1) Whenever it becomes possible to provide sewerage to land within any sewerage area 
+from works acquired or constructed under this Part of the Act, a sewerage authority may 
+by notice declare the works to be effective in that sewerage area.  
+(2) On the declaration of works to be effective in an area, the owner of any land in the 
+sewerage area shall be liable to the rates or charges that may be prescribed by the 
+sewerage authority whether or not the land is occupied or connected to the works.  
+
+
+--- PAGE 31 ---
+
+(3) The sewerage authority may -  
+(a) with the approval of the Minister and by notice in writing, require any owner of land in 
+any sewerage area to connect that land to the works;  
+(b) connect any land to its works on application by the owner or his or her agent, in a 
+form prescribed by regulation or the authority.  
+(4) Within one month of receipt of a notice under this section, the owner of land shall 
+submit a plan for providing the land with a building sewer and other connected fittings to 
+the authority; and the authority may approve the plan with or without conditions as it 
+may see fit; and where the plan is approved, work shall be executed in conformity with 
+the approved plan within such period as the authority may specify.  
+(5) An application made under subsection (3)(b) shall not be unreasonably refused.  
+(6) Where in the opinion of a sewerage authority the cost of extending the existing works 
+to provide sewerage to an applicant is not commensurate with the sums likely to be 
+recovered through sewerage charges, the sewerage authority may require the applicant 
+to meet the costs of extending the existing works.  
+(7) Where the owner of land fails to undertake work required of him or her under this 
+Part -  
+(a) the lessee or occupier of that land may, with the approval of the authority, execute 
+the work and deduct the cost with interest at the rate of 10 percent per year (or such 
+other rate as may be specified from time to time by the Minister) until repayment is 
+made, from any rent due from him or her to that owner, or may recover the costs directly 
+from the owner; or  
+(b) the authority may execute the work and recover the cost as set out in section 54.  
+64. Connections and work requirements within a sewerage area.  
+After the declaration of a sewerage area, no building shall be erected or reerected unless 
+it is connected to the sewerage authority’s works, and all sewerage work on the land shall 
+be constructed with the approval of the authority in conformity with the code of 
+workmanship that may be prescribed.  
+65. Application for the construction of a private sewer.  
+(1) A person who wishes  
+(a) to construct a private sewer within that sewerage area; or  
+(b) to connect a private sewer to the authority’s sewer, may apply to the relevant 
+sewerage authority in a manner prescribed by regulations or the authority.  
+(2) The sewerage authority may, within one month, approve any application on 
+conditions that it sees fit.  
+66. Incorporation with public sewerage system.  
+
+
+--- PAGE 32 ---
+
+(1) Where in the opinion of a sewerage authority it would be expedient if an existing or 
+proposed private sewer were made part of or connected with a sewerage scheme 
+proposed or operated by the sewerage authority, the sewerage authority may require the 
+applicant to construct the private sewer in a manner and to specifications that the 
+sewerage authority may direct  
+(2) Subject to subsection (4), a person shall comply with any direction given by a 
+sewerage authority under subsection (1).  
+(3) On the connection of a private sewer to an authority’s works  
+(a) all property, rights and liabilities of the owner in relation to the private sewer and any 
+land necessary for the operation, maintenance, repair or removal of the sewer vest in the 
+authority; and  
+(b) the authority shall be solely responsible for operating, maintaining and meeting all 
+outstanding or future costs of that sewer.  
+(4) A person aggrieved by a direction given by a sewerage authority under this section 
+may within one month of being notified of the direction abject in writing to the Minister.  
+(5) The Minister shall within fourteen days of receiving any objection made under 
+subsection (4) consider the objection and decide whether to -  
+(a) disallow the direction;  
+(b) allow the direction subject to conditions or modifications; or  
+(c) allow the direction.  
+(6) A sewerage authority shall pay to any person affected by a direction under this 
+section -  
+(a) any additional expenses incurred by that person in constructing or connecting the 
+private sewer in the manner and to the specifications directed by the sewerage authority;  
+(b) any additional costs of cleaning, repairing or maintaining the private sewer which arc 
+attributable to the direction.  
+(7) Any dispute or difference as to the amount of payment due from a sewerage 
+authority to a person under this section may, at the election of that person, be 
+determined either by a court or by arbitration.  
+67. Proper construction and operation.  
+(1) No person shall construct a private sewerage installation except in accordance with 
+any relevant code of workmanship prescribed under section 70; but any private sewerage 
+installation which was legally constructed prior to the commencement of this Act shall be 
+deemed to have been constructed under this Act  
+
+
+--- PAGE 33 ---
+
+(2) An authorised person may enter any land to inspect and ensure the proper 
+construction of, or the safe and proper operation of, any private sewerage installation on 
+that land.  
+(3) An authorised officer may take samples of such water or waste and submit them to 
+analysis that he or she may see fit, and the sewerage authority may recover the cost of 
+that analysis from the owner of the land from which samples are taken.  
+(4) A sewerage authority may, by notice in writing, direct an owner of land within such 
+period as may be specified in the notice -  
+(a) to empty, clean, maintain or repair;  
+(b) to temporarily or permanently cease using;  
+(c) to take such other action as the sewerage authority may specify in relation to, any 
+private sewerage installation on that land.  
+(5) A sewerage authority may, at the request of and at the expense of the owner, 
+undertake such work as may be specified in the notice.  
+(6) Where the owner of land fails, within a specified period -  
+(a) to take the action specified in the notice; or  
+(b) to obtain the agreement of the sewerage authority to undertake the work specified in 
+the notice and to pay to the sewerage authority the costs as estimated by the sewerage 
+authority,  
+the sewerage authority may enter the land and undertake work or other measures that 
+may be necessary to ensure compliance with the notice and may recover the costs from 
+the owner or under section 54.  
+Division 10: Trade Waste Agreements.  
+68. Declaration of prohibited waste by an authority.  
+(1) Regulations or a sewerage authority may declare –  
+(a) any type of waste to be trade waste which may not be discharged;  
+(b) any type of trade, classes of premises or particular premises in which trade waste 
+may not be discharged, directly or indirectly into any sewer, sewer connection, building 
+sewer or connected fittings except in accordance with a trade waste agreement.  
+(2) A person -  
+(a) responsible for the production, storage, discharge or deposit of any waste;  
+(b) engaged in any trade;  
+
+
+--- PAGE 34 ---
+
+(c) owning or occupying any premises, shall not cause or permit waste declared under 
+subsection (1) to be directly discharged into any sewer, sewer connection, building sewer 
+or connected fittings except in accordance with a trade waste agreement.  
+69. Trade waste agreements.  
+(1) A sewerage authority may enter into a trade waste agreement with any person for 
+the discharge of waste into a sewer or the storage or ; treatment of waste by the 
+sewerage authority, on terms and in a manner and I for a period that the sewerage 
+authority may decide or as may be prescribed.  
+(2) Unless the sewerage authority is of the opinion that the concentration of the waste at 
+the point of discharge from land occupied by that person will not -  
+(a) adversely affect -  
+(i) the life, health or safety of any person;  
+(ii) the works of the authority;  
+(iii) any sewerage treatment process employed by the authority; or  
+(b) after treatment by the authority, affect -  
+(i) the life, health or safety of any person; or  
+(ii) any part of the environment,  
+any trade waste agreement made under subsection (1) shall include a condition requiring 
+the treatment of waste before it is discharged.  
+(3) A trade agreement may be amended by the parties to the agreement.  
+(4) A trade waste consent may be amended by notice in writing given to the occupier by 
+the sewerage authority.  
+(5) A trade waste agreement or a trade waste consent may be terminated in the 
+circumstances and in a manner that may be provided by regulations or in the trade waste 
+agreement or trade waste consent.  
+Division 11: Standards of Workmanship.  
+70. Codes of workmanship.  
+(1) The Minister shall prescribe codes of workmanship in respect of -  
+(a) works of water supply, sewerage or waste treatment to be constructed under this Part 
+of the Act;  
+(b) private sewerage installations;  
+
+
+--- PAGE 35 ---
+
+(c) plumbing or drainage relating to water supply or sewerage to be executed on any 
+land.  
+(2) A code of workmanship may include matters concerning the design, construction, 
+alteration, maintenance or repair of works, including the types of materials, fittings or 
+appliances which may be used in works or any other thing connected thereto.  
+(3) An authority may require that all or any part of the works referred to in a code of 
+workmanship -  
+(a) may only be executed by, or under the direct supervision of, a person holding the 
+prescribed qualifications;  
+(b) may only be executed after giving the authority notice that may be prescribed;  
+(c) may only be executed after obtaining the approval of the authority in the prescribed 
+manner;  
+(d) may only be executed under the supervision and in the presence of an authorised 
+officer and according to his or her direction;  
+(e) be inspected and approved by an authorised person before the work is used.  
+(4) Any person who fails to comply with, or causes or allows another person to fail to 
+comply with, any lawful direction issued by an authorised person under this division 
+commits an offence.  
+71. Power to conduct training courses for plumbers and drainers.  
+The director may, in association with any other body -  
+(a) organise training courses for plumbers and drainers or other operators;  
+(b) conduct examinations in relation to plumbing and draining;  
+(c) award certificates to persons who have attended training courses or passed 
+examinations held under this section.  
+Division 12: General Powers of Authorities.  
+72. Execution of works on request.  
+(1) The owner of any land which cannot be -  
+(a) supplied by water from any existing water supply works; or  
+(b) connected to any existing sewerage works, under this Part of the Act, may apply to 
+the appropriate authority in writing for the extension of that existing works to extend 
+services to that land.  
+(2) The authority may, at the cost of the owner, extend or arrange for the extension of 
+existing works in order to serve that land.  
+
+
+--- PAGE 36 ---
+
+73. Notice to repair.  
+(1) An authority may, by notice in writing to the owner of land, require the owner to 
+repair, within the time specified in the notice, any works connecting that land to the 
+works of the authority, or to do any thing necessary for the service provided to the land 
+by the authority.  
+(2) If land is connected to the works of an authority by a combined connection, a notice 
+to repair may be served on any or all of the owners of that land.  
+(3) Where the owner of land served by a notice fails to comply with the notice within the 
+time specified, or any longer period allowed by an authority, the authority may carry out 
+the necessary repairs and recover its reasonable costs from each owner on whom the 
+notice was served under section 56.  
+74. Notice of contravention.  
+(1) An authority may, by notice in writing to a person who contravenes  
+(a) a provision of this Part of the Act;  
+(b) a requirement made by the authority under this Part of the Act; or  
+(c) a term of any agreement for services under this Part of the Act, require that person, 
+or the owner of the land in relation to which the contravention occurs, to take specified 
+action within the time specified in the notice or any longer time allowed by the authority 
+to remedy the contravention.  
+(2) A person on whom a notice of contravention is served shall make sure that the notice 
+is complied with within the time specified, or any longer time allowed by the authority.  
+(3) If a notice of contravention is not complied with within the time specified or any 
+longer time allowed by the authority, the authority may -  
+(a) carry out the required works and take any other action necessary to remedy the 
+contravention, and recover its reasonable costs from the person on whom the notice was 
+served or under section 56;  
+(b) remove or disconnect any service to the land in relation to which the contravention 
+occurs, and recover its reasonable costs from the person on whom the notice was served 
+or under section 54;  
+(c) apply to court for an injunction restraining the person on whom the notice was served 
+from contravening the notice.  
+75. Power to enter land for reading meter, etc.  
+(1) An authorised person may enter land for the purpose of -  
+(a) reading, removing or repairing a meter;  
+
+
+--- PAGE 37 ---
+
+(b) inspecting any works, installations or appliances or taking any samples or making 
+tests to find out whether this Part of the Act is being complied with.  
+(2) An authorised person may, after an authority has given seven days’ notice in writing 
+to the occupier, enter any land and carry out on that land works that the authority is 
+empowered to carry out.  
+(3) An authority may not give the notice required under subsection (2) -  
+(a) if the occupier consents to the entry and the carrying out of the works;  
+(b) in an emergency; or  
+(c) if the purpose of entry is to prevent the waste, misuse or pollution of any water or to 
+enforce this Act.  
+(4) An authorised person shall not enter land which is used primarily for residential 
+purposes under this section, except between 6 a.m. and 6 p.m., unless he or she has 
+reasonable grounds to believe that -  
+(a) water restrictions in force are not being complied with by the occupier;  
+(b) water is being wasted, misused or polluted; or  
+(c) an offence under this Act is being committed.  
+76. Powers to undertake works.  
+Subject to this Act, the action plan, or the terms of any water permit or other permit, 
+which may be required under Part II of this Act, an authority may -  
+(a) enter upon any land, take its levels and set it out as the authority thinks necessary, 
+dig, trench and break up the soil, and use or remove any material dug from the land;  
+(b) sink such boreholes and construct, use or operate reservoirs, waterworks, cisterns, 
+tanks, aqueducts, sewers, sluices, pipes, culverts, drains, machinery and other works 
+relevant to supply water, sewerage or waste treatment; and construct or use buildings as 
+the authority thinks fit;  
+(c) divert, extract and impound the water from any watercourse or borehole or alter the 
+course of any watercourse;  
+(d) blast with explosives or otherwise break up any rock, clay, stone, soil or other 
+geological formation or artificial structure in any manner and remove or use all or any 
+material obtained;  
+(e) construct or operate any works for the conservation or supply of water, the provision 
+of sewerage or the treatment of any water or waste,  
+77. Land and works to vest in authority.  
+(1) Land and works acquired or constructed by or on behalf of an authority -  
+
+
+--- PAGE 38 ---
+
+(a) prior to the commencement of this Act; or  
+(b) under this Part of the Act,  
+are owned by that authority to the extent that is prescribed or directed by the Minister 
+under section 48.  
+(2) Any main, water connection, sewer or sewer connection provided at the direction of, 
+but not by an authority, belongs to the authority.  
+(3) Water taken by a water authority in accordance with the water resources provisions in 
+Part II of this Act and contained for the time being in any works controlled by that 
+authority belongs to the authority.  
+(4) Any waste for the time being contained in any works controlled by a sewerage 
+authority belongs to that authority, and the authority -  
+(a) shall comply with any requirement of Part II of this Act in relation to the treatment or 
+disposition of that waste;  
+(b) is liable to any penalty prescribed under section 104 for any offence relating to 
+pollution.  
+(5) Where at the commencement of this Act -  
+(a) any main, water connection or related works (other than a private water pipe) which 
+are part of a water supply operated by a water authority;  
+(b) any sewer, sewer connection or related works (other than a building sewer) which are 
+part of a sewerage system operated by a sewerage authority,  
+are on private land, those works shall be taken to have been installed with the consent of 
+the owner and occupier for the time being of that land at the time they were installed and 
+pursuant to a sufficient interest in the land created by that owner or occupier in favour of 
+the authority to enable it to enter the land in order to repair, maintain, alter, extend, 
+replace or remove works in perpetuity.  
+(6) Any main, water connection, sewer or sewer connection or related work attached to 
+private land by, for, on behalf of or at the direction of an authority does not become part 
+of the land for the purpose of giving the owner or occupier of land a proprietory interest 
+in it.  
+(7) Works constructed by an authority on behalf of another person do not belong to the 
+authority.  
+78. Abandonment of works.  
+An authority shall not abandon any of its works without the Minister’s approval.  
+79. Power to stop traffic.  
+
+
+--- PAGE 39 ---
+
+(1) An authority may temporarily close all or any part of a road to traffic if it is necessary 
+to carry out works on or adjacent to the road.  
+(2) An authority shall give notice to the Uganda Police Force -  
+(a) in writing at least three days before the closure;  
+(b) in an emergency, as soon as possible after the closure occurs.  
+80. Works on roads.  
+(1) Where it is necessary for the construction or operation of any works, an authority 
+may break up the surface of any road and open or break up any works under the road.  
+(2) An authority shall -  
+(a) while the surface is broken up, take appropriate safety precautions to minimise the 
+possibility of injury to members of the public;  
+(b) remove from the site all rubbish resulting from the works;  
+(c) do as little damage as possible; and  
+(d) carry out the work as quickly and efficiently as practicable.  
+(3) An authority shall -  
+(a) return the site, so far as possible, to the state it was in before the work was started; 
+and  
+(b) pay compensation for any damage which may have been done to the works of any 
+public authority in the exercise of the powers under this section.  
+(4) The obligations created under subsection (3) shall not apply to my structures or 
+works of any type erected by a private person in or on a public road or adjacent road 
+reserve.  
+81. Protected zones.  
+Subject to section 91, an authority may -  
+(a) establish a protected zone on land adjacent to -  
+(i) any water, borehole, treatment or other works forming part of a water supply or from 
+which a water supply is drawn; or  
+(ii) any sewer, sewerage treatment works or outfall;  
+(b) erect and maintain fences on or enclose the land under the protected zone; and  
+(c) prohibit activities within the protected zone, as it sees fit.  
+
+
+--- PAGE 40 ---
+
+82. Restriction or discontinuation of water supply.  
+(1) A water authority may, without prejudice to any other remedy it may have, restrict 
+the quantity of water or discontinue the supply of water to any person if -  
+(a) the water authority is unable to supply the quantity of water which would otherwise 
+be supplied to the person;  
+(b) the water authority believes that the reduction or discontinuance is necessary to 
+avoid future water shortages;  
+(c) any private water pipe or other works on land of that person for the supply of water 
+or any connected fittings -  
+(i) are, in the opinion of the water authority, inadequate or not properly constructed; or  
+(ii) do not comply with the regulations or code of workmanship;  
+(d) that person contravenes this Act through waste, misuse or pollution of water supplied 
+to that person by the water authority or through the taking or use of water;  
+(e) that person contravenes any water restrictions in force;  
+(f) that person refuses entry to an authorised person exercising powers conferred under 
+this Act to stop the committing of an offence under this Act.  
+(2) If a water authority restricts or discontinues the supply of water to a person in 
+accordance with subsection (1), that person shall have no claim against the authority.  
+(3) Where a water authority restricts or discontinues the supply of water to a person 
+under subsection (l)(c), (d), (e) or (f), it may charge a fee for restoring the supply.  
+83. Power to enter land and take action.  
+(1) An authority may enter and remain upon land and may –  
+(a) take measurements and make estimates on the land as it thinks necessary or 
+desirable;  
+(b) construct or remove works as it thinks necessary or desirable for the exercise of its 
+functions;  
+(c) collect and take samples it may think necessary or desirable;  
+(d) make investigations, inquiries or inspections as it thinks necessary or desirable to 
+determine whether the provisions of this Act are being complied with.  
+(2) Section 15 shall apply to any entry of land under this section.  
+(3) A water authority shall be liable for any nuisance or other injury tone to any land 
+other than the land entered under this Act.  
+
+
+--- PAGE 41 ---
+
+84. Power to acquire land.  
+(1) The Minister or the authority, if authorised by the Minister, may acquire an interest in 
+land and any structures on the land for purposes of this Act.  
+(2) An acquisition under subsection (1) -  
+(a) may be by agreement or through lawful compulsory acquisition of land;  
+(b) shall be deemed to be for a public purpose within the meaning of article 26 of the 
+Constitution.  
+(3) Compensation payable to a person under this section shall be determined under the 
+Land Acquisition Act and section 91 of this Act.  
+85. Power to deal with land.  
+An authority may, in the performance of its functions -  
+(a) exchange any land for any other land;  
+(b) grant leases, licences or easements over its land;  
+(c) mortgage its land; or  
+(d) sell any of its land.  
+86. Notice of intention to affect works.  
+Where an authority intends to do anything that will affect the works of mother public 
+authority, it shall give notice to that other public authority -  
+(a) in normal circumstances, of at least fourteen days before the work is effected; or  
+(b) in an emergency, as soon as is practicable before or after the work is affected.  
+Division 13: Commercial Powers and Financial Provisions.  
+87. Application of sections 88, 89 and 90.  
+The Minister may authorise an authority to exercise powers under sections 88, 89 and 90 
+on such conditions as he or she may see fit.  
+88. Authority’s contracts.  
+(1) Subject to section 87 and for the better functioning of the authority, the authority 
+may enter into contract with any person or public authority for the provision of 
+equipment, facilities, expertise, services or staff or the joint use of the above.  
+(2) An authority may, at the request of any person or public authority and at the expense 
+of that person or public authority -  
+
+
+--- PAGE 42 ---
+
+(a) repair or alter any works;  
+(b) carry out any survey or investigation; or  
+(c) do anything else connected with, or incidental to, the functions of the water authority.  
+89. Authority’s commercial ventures.  
+An authority may, subject to section 87 -  
+(a) participate in the formation of a corporation, trust, partnership or other body;  
+(b) subscribe for, or otherwise acquire, hold and dispose of, shares in debentures or 
+other securities of a corporation;  
+(c) become a member of a company limited by guarantee;  
+(d) subscribe for, or otherwise acquire, hold and dispose of, units in a trust;  
+(e) acquire, hold and dispose of an interest in a partnership or other body; and  
+(f) enter into a partnership or arrangement for sharing of profits, union of interest, 
+cooperation, joint venture, reciprocal concession or other arrangement, with any person 
+or body carrying on or engaged in any business or transaction (whether within or outside 
+Uganda) to the benefit of the authority.  
+90. Industrial property.  
+An authority may, subject to section 87 -  
+(a) apply for, obtain and hold, whether on its own behalf or jointly with any other person, 
+industrial property rights;  
+(b) assign or grant licences in respect of those industrial property rights, with or without 
+charge; and  
+(c) enter into agreements and arrangements for the commercial exploitation of industrial 
+property rights.  
+91. Compensation to be paid.  
+(1) If damage is caused to land in the exercise of powers conferred on an authority by 
+this Act, the authority shall, if required, compensate all parties interested in the land for 
+all damage sustained by them in consequence of the exercise of those powers, subject to 
+this Act.  
+(2) For purposes of this section, "damage to land" means loss suffered as a result of -  
+(a) deprivation of the possession of the surface of any land;  
+(b) damage to the surface of land and to any improvements, crops or trees on the land;  
+
+
+--- PAGE 43 ---
+
+(c) damage to stock; and  
+(d) all consequential damage.  
+(3) In calculating compensation under this section -  
+(a) for damage to land payable under this section;  
+(b) in respect of the compulsory acquisition of any interest in land for the purposes of this 
+Act,  
+no amount will be payable to the owner of any interest in, or the occupier of, any land in 
+respect of the taking or use of water on, adjacent to or beneath that land by an authority 
+pursuant to a water permit granted under Part II of this Act.  
+(4) Compensation shall not be paid under this section unless a written claim for 
+compensation has been lodged with the responsible authority within six months of either 
+the claimant learning of the act giving rise to the claim or the completion of any works in 
+respect of which compensation is sought, whichever is later.  
+(5) A claim for compensation shall set out -  
+(a) the claimant’s name and address;  
+(b) a description of the land in respect of which the claim is made;  
+(c) the claimant’s interest in the land;  
+(d) the nature and extent of the interest of any other person in the land;  
+(e) the damage caused to the land;  
+(f) the particulars of any other damage; and  
+(g) the total amount of the claim.  
+(6) An award of compensation may take the form of -  
+(a) a payment of money;  
+(b) the provision of compensation water to land on terms the authority may determine;  
+(c) the remission of rates, charges or fees payable to the authority;  
+(d) any other type of award which the authority considers appropriate.  
+(7) An authority shall notify the claimant of its decision on a claim made under subsection 
+(5) as soon as is practicable; and any person aggrieved by the decision of an authority 
+may, within thirty days from receiving the notice of the decision, appeal to the Minister.  
+
+
+--- PAGE 44 ---
+
+(8) The Minister shall consider an appeal made under subsection (7) within thirty days of 
+receiving the notice of appeal and may grant the appeal and fix compensation as he or 
+she may consider reasonable in the circumstances.  
+(9) An authority shall pay to the applicant all the difference, if any, between the amount 
+already paid by it and the amount fixed under subsection (8) award within seven days of 
+getting notice of the Minister’s decision.  
+92. Cost of relocation or reconstruction.  
+(1) Where it becomes necessary to relocate or reconstruct works vested in an authority 
+as a consequence of the execution of work by any other public authority, the costs of the 
+relocation or reconstruction shall be paid to the authority by that public authority less 
+such sum, if any, of any improvement to the works of the authority.  
+(2) An authority may, at the request of a person with an interest in the land upon which 
+works vested in the authority are located, agree to relocate lose works at the cost of that 
+person and upon such terms as the authority lay determine.  
+93. Compensation to the authority.  
+If damage occurs to any works of an authority as a consequence of the ommission of an 
+offence under this Act, the court may, in addition to any penalty, order the offender to 
+compensate the authority as the court may think fit.  
+94. Rates, charges and fees.  
+(1) An authority may, by regulations and with the approval of the Minister -  
+(a) fix rates with respect to land within the authority’s area;  
+(b) fix charges, fees or deposits for commodities, services or facilities provided or to be 
+provided by the authority;  
+(c) fix penalties for failure to pay any amount due to the authority when it falls due and 
+payable and rates or interest on outstanding amounts due to the authority.  
+(2) An authority may levy and demand rates, and demand payments of charges, fees, 
+deposits, interests or penalties fixed under this section.  
+(3) Charges for water supplied by a water authority may, at the option of the water 
+authority -  
+(a) be assessed on the quantity of water supplied as registered by a meter installed on 
+the consumer’s land by the water authority;  
+(b) be assessed in some other manner approved by the Minister; or  
+(c) be otherwise arrived at by agreement with the consumer.  
+(4) A water authority may, with the approval of the Minister, establish -  
+
+
+--- PAGE 45 ---
+
+(a) charges to be paid per unit of quantity for water supplied by metered or computed 
+quantity;  
+(b) minimum charges to be paid for water supplied;  
+(c) rent to be paid for a meter installed by the water authority; and  
+(d) the time within which charges and rent shall be paid, and the terms and conditions of 
+payment, including the payment of deposits,  
+by consumers generally or by any class of consumers.  
+95. Recovery of outstanding rates, etc.  
+(1) A rate, charge or fee levied or made under this Part of the Act and any interest or 
+penalty payable on it is a charge against the land in respect of which the rate, charge or 
+fee is levied or made.  
+(2) Without prejudice to any other remedy available to a water authority, where any rate, 
+charge, fee, or any interest or penalty payable in respect of -  
+(a) any water supplied by the water authority; or  
+(b) any sewerage services relating to land to which water is supplied by the water 
+authority,  
+is outstanding for thirty days from the day on which it became due, the water authority 
+may -  
+(c) restrict or disconnect the supply of water to the land in question;  
+(d) demand the outstanding amount from the person; and  
+(i) if the amount demanded is not paid in full within seven days from the date of that 
+demand, may recover any part of the amount which has not been paid by distress and 
+sale of the goods of the person; or  
+(ii) by serving on any occupier paying rent in respect of the land a notice setting out the 
+outstanding amount and requiring the occupier, from the date that notice is served, to 
+pay any rent or other amount he or she would otherwise be obliged by law to pay to that 
+person, direct to the authority until the outstanding amount, any interest thereon, any 
+penalty imposed or any reconnection fee has been recovered in full by the authority.  
+(3) Any amount paid to the authority under subsection (2)(d)(ii) shall, for all purposes, 
+be deemed to have been paid to the owner, and the receipt of the authority shall be a 
+sufficient discharge for the amount which would otherwise be payable to the owner by 
+the occupier.  
+(4) Section 84(2) and (3) shall apply to the restriction or discontinuation of water supply 
+under this section.  
+Division 14: Miscellaneous for Part III  
+
+
+--- PAGE 46 ---
+
+96. Supply outside water supply areas.  
+(1) The Minister may authorise a water authority to execute works and to supply water 
+outside its water supply area on terms prescribed by the Minister, including -  
+(a) the charge to be paid for water supplied; and  
+(b) the conditions on which supply is authorised.  
+(2) Except in the case of water supplied in bulk to a public authority, a charge prescribed 
+under this section shall not be less than for a similar supply within the water supply area.  
+97. Supply by certain persons prohibited.  
+No person within a water supply area and no person supplied with water under this Act 
+may supply water to any other person or cause or permit any other person to take water 
+except -  
+(a) for use or consumption on those premises;  
+(b) for the purpose of extinguishing a fire; or  
+(c) with the approval of the water authority for that water supply area.  
+98. Unlawful taking of water.  
+(1) A person shall not take or use, or cause or allow or attempt to cause or allow any 
+person to take or use, water from works vested in a water authority except as provided 
+under this Act.  
+(2) A person shall not -  
+(a) take, or cause or allow or attempt to cause or allow any person to take, water from a 
+standpipe;  
+(b) use, or cause or allow any person to use, water from a standpipe, except for human 
+and household consumption or such other purposes as may be prescribed by the 
+responsible authority from time to time.  
+(3) In any proceedings for an offence under this section, proof of the existence of a 
+structure, obstruction or device on the land capable of allowing water to be taken or used 
+is prima facie evidence that water was taken or used at the time that structure, 
+obstruction or device is proved to have existed.  
+99. Interference with works.  
+(1) A person shall not cause or allow or attempt to cause or allow any works acquired, 
+constructed or operated under this Act to be interrupted, interfered with, altered, moved, 
+damaged or destroyed, except as provided for in this Act.  
+(2) A person who attaches or causes or allows any person to attach any hose, pipe, 
+fitting or other device to a standpipe vested in an authority commits an offence.  
+
+
+--- PAGE 47 ---
+
+(3) In any proceedings for an offence under this section, proof of the existence of any 
+structure, obstruction or device on land capable of causing an interruption, interference, 
+alteration, movement, damage or destruction is prima facie evidence that an interruption, 
+interference, alteration, movement, damage or destruction occurred at the time that 
+structure, obstruction or device is proved to have existed.  
+(4) An authority may confiscate any structure, obstruction or device referred to under 
+subsection (3).  
+100. Tampering with works.  
+(1) A person shall not -  
+(a) uncover or expose any main, pipe or other underground works vested in a water 
+authority;  
+(b) wilfully or negligently break, damage, injure, open, alter or obstruct any main, pipe, 
+meter or other works vested in a water authority; or  
+(c) alter the index of any meter or prevent or impede any meter from duly registering the 
+quantity of water supplied, except with the permission of the responsible water authority.  
+(2) Where any person is convicted of an offence under this section, the court may, in 
+addition to imposing the penalty, order that person -  
+(a) to meet the cost of making good any damage caused;  
+(b) to pay any other charges which by virtue of the offence it may assess the water 
+authority to have lost,  
+as the case may require.  
+101. Structures not to be put on land, etc.  
+(1) A person shall not, without the consent of an authority, cause or allow –  
+(a) a structure to be built or filling to be placed on land in which the authority has a 
+proprietary interest;  
+(b) a structure to be built or filling to be placed within four meters of any works of an 
+authority;  
+(c) any soil, rock or other matter that supports, protects or covers any works of an 
+authority to be removed.  
+(2) An application for an authority’s consent under subsection (1) shall be made in the 
+manner prescribed by the authority and shall be accompanied by plans and other 
+information that the authority may require.  
+(3) A person who, with the consent of an authority, causes or allows anything referred to 
+in subsection (1) to be done shall make sure that it is done in accordance with any 
+conditions which the authority gave with the consent, if any.  
+
+
+--- PAGE 48 ---
+
+(4) If a structure has been built or filling placed on land contrary to this section, an 
+authority may, by notice in writing to the owner or occupier of the land, require the 
+owner or occupier to alter, remove or relocate the structure or filling within the time 
+specified in the notice, whether or not the structure was built or the filling placed by or on 
+behalf of the owner or occupier.  
+(5) If the person to whom a notice is given under subsection (4) does lot comply with the 
+notice within the time specified, or any longer time allowed by the authority, the 
+authority may -  
+(a) carry out the requirements of the notice; and  
+(b) recover from that person its reasonable costs of carrying out paragraph (a) of this 
+subsection; or  
+(c) exercise the powers conferred on it by section 95.  
+(6) Consent given by an authority under subsection (3) shall be binding upon the 
+applicant, his or her heirs, successors and assignees and the owner or occupier for the 
+time being of the land, whether or not that person has notice of the consent or the 
+conditions of the consent.  
+(7) A person who contravenes this section or causes or allows any person to contravene 
+this section or any condition attached to any approval of an authority commits an 
+offence.  
+102. Trees, crops and shrubs.  
+(1) Where trees, crops or shrubs are located within four metres of the centre line of any 
+sewer, pipe or other works vested in an authority and the authority requires access to 
+those works, an authorised officer may, without notice to the owner or occupier of the 
+land upon which the trees, crops or shrubs are located, cause them to be removed.  
+(2) Where a sewer, pipe or other works vested in an authority is damaged or blocked by 
+any tree or shrub or the roots, an authorised officer may, by notice in writing to the 
+owner or occupier, require the owner or occupier of the land on which the tree or shrub is 
+located to -  
+(a) remove the tree or shrub or roots thereof;  
+(b) make good any damage or blockage to the works; and  
+(c) restore the service to the land,  
+in a manner and within the time specified in the notice.  
+(3) If the person to whom a notice is given fails to comply with the notice within the time 
+specified, or any longer time allowed by the authorised officer, the authorised officer may 
+-  
+(a) carry out the requirement of the notice; and  
+
+
+--- PAGE 49 ---
+
+(b) recover from that person any costs incurred in the carrying out requirements of the 
+notice.  
+(4) A person contravening this section commits an offence  
+Part IV: General and Miscellaneous.  
+103. Obstruction of an officer.  
+(1) No person shall assault, threaten, resist, obstruct, hinder, delay or allow any other 
+person to do the above to an authorised officer or person in the performance of his or her 
+powers, functions or duties under this Act.  
+(2) Where a person is convicted of an offence under this section, the court may, in 
+addition to any penalty, order that person to pay compensation sufficient to cover any 
+damage which the authorised officer or other person might have suffered as a result of 
+the commission of the offence, and the sum awarded may be recovered in the same 
+manner as the penalty.  
+104. Offences and penalties.  
+(1) A person who contravenes any provision for which no offence is specified commits an 
+offence and is liable on conviction to imprisonment for a term of not less than three 
+months and not more than ten years or to a fine of not less than one hundred thousand 
+shillings and not more than six million shillings or both.  
+(2) A person who commits an offence under any other section for which no penalty is 
+specified is liable on conviction to imprisonment for a term of not less than twelve 
+months and not more than ten years or to a fine of not less than one hundred and twenty 
+thousand shillings and not more than i ten million shillings or to both and is liable -  
+(a) for a continuing offence, to a fine of not less than one hundred and eighty thousand 
+shillings and not more than eighteen million shillings for each day on which the offence is 
+continued;  
+(b) for a subsequent offence, to imprisonment for a term of not less than thirty-six 
+months or to a fine of not less than three hundred and sixty thousand shillings and not 
+more than thirty-six million shillings or both.  
+(3) In this section, a "continuing offence" starts when the offence continues -  
+(a) after the date on which the court finds that the offence was committed; or  
+(b) where there is no court proceeding, after the complaint alleging the commission of 
+the offence has been issued.  
+105. Inspection of authorities.  
+(1) The Minister shall, from time to time, appoint an inspector to investigate the affairs of 
+each authority and to report to the Minister in such manner as he or she directs.  
+
+
+--- PAGE 50 ---
+
+(2) An authority, its officers, servants and agents shall, if required by an inspector, 
+provide the inspector with -  
+(a) all information in its possession;  
+(b) the books of account, records, other documents and other sources of information 
+available to the authority.  
+(3) An inspector, and advisers or assistants as he or she considers necessary, may enter 
+any land at any reasonable time for purposes of carrying out an investigation under this 
+section.  
+(4) A person shall not -  
+(a) assault, threaten, resist, obstruct, hinder or delay, or use foul, abusive or insulting 
+language towards or at any inspector, his or her advisers or assistants in the exercise of 
+an inspector’s powers under this section; or  
+(b) falsely hold himself or herself out to be an inspector.  
+106. Protection of authorities and officers.  
+(1) Except as expressly provided in this Act, the Minister, an authority, its servants or 
+agents or any authorised person shall not be liable for any loss, injury or damage 
+resulting from any act done or omission made in good faith in the exercising of any 
+powers or functions or in discharging of any duty under this Act.  
+(2) Without in any way limiting the generality of subsection (1), that subsection shall 
+apply to -  
+(a) any failure to make available or to continue to make available any service under this 
+Act;  
+(b) any action taken in connection with the beneficial treatment of water for human 
+consumption, including disinfection or fluoridation;  
+(c) any date or information supplied;  
+(d) any approval or permission given;  
+(e) any inspection conducted; or  
+(f) any requirement imposed or direction given,  
+by the Minister, an authority, its servants or agents, or an authorised person.  
+(3) Nothing in subsection (1) protects an authority from any liability it might otherwise 
+have for supplying water, which does not comply with any water quality or other 
+standards prescribed under this Act.  
+107. Regulations.  
+
+
+--- PAGE 51 ---
+
+(1) The Minister may make regulations not inconsistent with this Act generally to give 
+effect to the purposes and provisions of this Act.  
+(2) Without limiting the generality of subsection (1), regulations may -  
+(a) prescribe anything which may be prescribed under this Act;  
+(b) establish guidelines for the exercise of the functions or powers of the director, any 
+authorised person or public authority under this Act;  
+(c) provide for the preparation, revision and approval of the water action plan;  
+(d) provide for the membership, appointment, functions, powers and proceedings of the 
+Water Policy Committee;  
+(e) provide for the registration of existing uses of water and structures;  
+(f) provide for means of exempting classes of uses, uses and the structures from some or 
+all the provisions of Part II of this Act;  
+(g) provide for the decentralisation or delegation of functions under this Act;  
+(h) provide for the duration, granting, amending, renewing, suspending, varying or 
+cancelling of permits;  
+(i) prescribe the registers and records to be kept under this Act and the manner in which 
+they are to be kept;  
+(j) prescribe the forms to be used and fees to be paid in respect of any matter required 
+or permitted to be done under this Act;  
+(k) provide for the advertisement of, and the giving of notice of, applications made under 
+this Act;  
+(l) provide for and regulate the making of objections and the time in which objections 
+must be made;  
+(m) regulate the conduct of appeals to the Minister;  
+(n) prescribe standard conditions to be attached to water permits, waste discharge 
+permits or other permits or different classes of any such permits;  
+(o) classify water by reference to its quantity, quality or possible use;  
+(p) prescribe standards or criteria for the design, construction or operation of works and 
+means for enforcing the same;  
+(q) fix rates, charges, fees, deposits, penalties and interest payable on outstanding 
+amounts paid;  
+(r) provide for the prevention of waste, misuse or pollution of water;  
+
+
+--- PAGE 52 ---
+
+(s) provide standards for the quality of water supplied for domestic use;  
+(t) impose penalties not exceeding penalties imposed under section 104(2), for 
+contravening regulations made under this section.  
+(3) The Minister shall, within three weeks after the publication of regulations made under 
+subsection (1)(q) or under section 94 or as soon as it resumes sitting, lay the regulations 
+before Parliament for confirmation; and if the regulations are not rejected within one 
+month of their being tabled, they will be deemed to have been confirmed.  
+   
+History: Statute 9/1995; S.I. 24/1997.  
+Cross References  
+Constitution of 1995.  
+Land Acquisition Act, Cap. 226.  
+Land Reform Decree, Decree 3/1975,  
+Local Governments Act, Cap. 243.  
+Mining Act, Cap. 148.  
+National Environment Act, Cap. 153.  
+National Environment  
+ 

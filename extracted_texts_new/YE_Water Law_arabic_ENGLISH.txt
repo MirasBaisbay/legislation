@@ -1,0 +1,297 @@
+****
+[Please provide the text you would like to have translated.]
+
+****
+Law No. (41) of 2006
+Amending Certain Articles of Law No. (33) of 2002 Concerning Water
+
+In the Name of the People,
+The President of the Republic,
+
+Having reviewed the Constitution of the Republic of Yemen,
+And Law No. (33) of 2002 Concerning Water,
+And with the approval of the House of Representatives,
+
+We have promulgated the following Law:
+
+**Chapter I**
+**Title and Definitions**
+
+**Article (1):** Articles (2-3-7-9-11-13-15-18-23-24-25-26-29-33-35-37-38-40-41-42-45-46-47-48) and (49-50-54-61-64-69-70-71-72-74-76-78) of Law No. (33) of 2002 Concerning Water shall be amended as follows:
+
+**Article (2):** For the purposes of this Law, the following terms and phrases shall have the meanings assigned to them below, unless the context indicates otherwise:
+
+1.  **The Republic:** The Republic of Yemen.
+2.  **The Ministry:** The Ministry of Water and Environment.
+3.  **The Minister:** The Minister of Water and Environment.
+4.  **The Authority:** The General Authority for Water Resources.
+5.  **Relevant or Competent Authorities:** Ministries, authorities, local authorities, institutions, or government projects indicated in the context of this Law in any form.
+6.  **Water Resources:** Any water existing within the borders of the Republic, whether surface or groundwater, including water flowing naturally in wadi channels and artificial canals, wastewater after purification, and saline water after desalination. It also includes the Republic's share of water in basins shared with neighboring countries, as determined by treaties and agreements signed with these countries or international agreements to which Yemen is a party.
+7.  **Surface Water:** Any water existing on the surface of the earth, including water from flash floods, spring-fed streams, and regular, mineral, and hot springs, whether perennial or seasonal; water from natural and artificial lakes and ponds; as well as wastewater after treatment.
+8.  **Groundwater:** All water stored or flowing naturally beneath the surface of the earth in water-bearing layers at various depths.
+9.  **Aquifer and Water-Bearing Layer:** Any horizontally or vertically contiguous geological formations beneath the earth's surface that are saturated with water and are affected as a whole by changes in hydraulic pressure in any of their parts, despite potential differences in their hydraulic coefficients and physical, chemical, and geological properties. If a single geological formation is distinguished by hydraulic coefficients and pressures that are isolated from adjacent layers and formations, this formation is called a water-bearing layer.
+10. **Water Basin and Water Zone:**
+    **Water Basin:** Any area of the earth's surface whose surface water naturally drains towards a common watercourse, or whose surface and groundwater resources form a single unit, such that any water-related action in any part of it affects the total water in the remaining parts.
+    **Water Zone:** Any part or several parts of a basin or basins with similar water conditions, or which necessity dictates be managed as a single water unit, whether or not its boundaries align with the administrative divisions of the Republic.
+11. **Sustainability of Water Resources:** The extraction of water from aquifers in quantities equal to or less than the quantities recharged during the same year, or over a pre-calculated period, and in a manner that does not affect the quantity and quality of water in the long term.
+12. **Depletion:** The extraction of groundwater at a rate exceeding the rate of recharge, leading to a decline in groundwater levels.
+13. **Well:** Any hole or opening drilled manually or mechanically for the purpose of extracting groundwater, regardless of its depth, diameter, the quantity of water extracted, or the type of water.
+14. **Water Facility:** Any traditional or non-traditional structure, including excavation or piling of soil, below or above the ground, intended for storing, diverting, discharging, conveying, or distributing water, or for flood protection purposes.
+15. **Strategy:** The National Water Strategy.
+16. **Water Policies:** All directives and measures adopted by the state to regulate, develop, and exploit water resources and protect them from depletion and pollution.
+17. **Water Planning:** The analysis and evaluation of available data and information on the water situation, and presenting it in graphical and statistical formats that show water balances in each basin or water zone and their fluctuations, in light of indicators of current and future national development needs for water. It also involves comparing various possible alternatives to ensure the development of water plans and the management of supply and demand for water in the zone or basin in the best possible ways, leading to the sustainability of human resources.
+18. **Water Plan:** The alternative or set of alternatives selected in light of data, statistics, and indicators that show the status of the water situation and water projects in the Republic or any part thereof for a specific period, to achieve the objectives of the water policy.
+19. **Water Regulation:** All water policies, legislation, and plans, and all field, office, and laboratory procedures, measures, and activities undertaken for their implementation.
+20. **Usufruct Rights (Rights of Use):** Rights that entitle the holder to use specified quantities of water for specified purposes, in accordance with the provisions of this Law.
+21. **Traditional Usufruct Rights:** Inherited rights whose continuity is recognized by custom (`urf`) or Islamic law (`shari'a`), or both, based on the right of individual, family, or collective use of rainwater, flash floods, spring-fed streams, springs, and wells, and the purposes and limits of these uses and their associated easement rights.
+22. **Easement Rights:** Benefits that have historically accrued to others from water sources and their facilities, and from water points and wells, such as the right to obtain water for human and animal consumption, or for any other customary purpose; the right of passage or grazing in rainwater catchment areas and water channels; the right of irrigation for higher lands before lower lands, or with water surplus to the original user; or the right to monitor and inspect what happens to the water in accordance with this Law.
+23. **Sanctuary or Protection Zone:** The areas surrounding wells, water facilities, and natural watercourses within which any activity that causes or is expected to cause damage to such wells and facilities is totally or partially prohibited.
+24. **Restricted Zone:** A geographical area or region where the establishment of any water facilities, the drilling of water wells, or the creation of any industrial, agricultural, or other activities that affect water resources in quantity, quality, or both, is totally or partially prohibited.
+25. **Pollution:** Any change in the natural, chemical, or biological properties of water that limits its suitability for any of its designated purposes.
+26. **Waste or Polluting Materials:** Any liquid, solid, gaseous, microbial, viral, radioactive, or thermal materials that lead or can lead to water pollution, deterioration of its quality, or limitation of its suitability for any of its designated uses.
+27. **Discharge of Waste:** Any process of disposing of any polluting materials, whether by piling, dumping, or leaving them at their sites after the completion of a specific activity or on the surface of the land, or by burning and evaporating them into the atmosphere, or by disposing of them in the sea.
+28. **Wastewater:** Water that has been used for domestic, industrial, and service purposes, including its content of liquid or solid waste and refuse.
+29. **Treated Water:** Water from which some or all of its suspended solids, sediments, or dissolved substances have been removed by physical, chemical, or biological methods.
+30. **Wasting Water:** Causing, intentionally or through negligence, the loss of a quantity of water without it being used for its specified purpose.
+31. **License or Permit:** A document granted by the Authority or competent authorities to the concerned party to practice any of the activities subject to the provisions of this Law before commencing the execution of such activities.
+32. **Registration:** The process of recording water rights and works that the Law requires to be licensed or permitted in a special register at the Authority or competent authorities, which includes certificates of registration of water rights.
+33. **Commercial Use of Water:** The distribution, transportation, or sale of water for a fee in any form for use in commercial activities such as hotels, restaurants, and any uses other than domestic and agricultural uses.
+34. **Regulation or Regulations:** Official documents issued by decisions of the Council of Ministers regarding the organization of the executive provisions, controls, and procedures of this Law and based upon it.
+35. **Contractor:** Any natural or legal person who practices any of the professions mentioned in Article (42) of this Law.
+36. **Drilling Machinery:** Equipment that perforates the earth's surface to any depth beneath it for the purpose of accessing groundwater, whether for extraction or study, regardless of its method of operation or power source.
+37. **Rainwater Harvesting:** The collection of water resulting from rainfall from areas owned by the beneficiary or authorized by the right holder, for direct use or storage in tanks, dams, barriers, ponds, and the like.
+38. **Well Drilling and Deepening:**
+    **Well Drilling:** The penetration of soil or rock, manually or mechanically, for the purpose of extracting groundwater.
+    **Well Deepening:** The further drilling of a well, manually or mechanically, for the purpose of extracting groundwater or increasing the quantity extracted therefrom.
+
+**Chapter II**
+**Objectives and General Principles**
+
+**Article (3):** This Law aims to regulate, manage, develop, and rationalize the exploitation of water resources; protect them from depletion and pollution; increase the efficiency of their conveyance, distribution, and use; ensure the proper maintenance and operation of their facilities; and involve beneficiaries in their management at the stages of development, investment, protection, and conservation.
+
+**Chapter III**
+**Regulation, Management, and Planning of Water Resources**
+
+**Section I**
+**Regulation and Management of Water Resources**
+
+**Article (7):** Water resources shall be developed, regulated, and managed in accordance with the provisions of this Law and its Implementing Regulation, in light of a water strategy proposed by the Ministry based on a submission from the Authority and issued by a decision of the Council of Ministers, and pursuant to the sectoral policies, plans, and programs emanating therefrom.
+
+**Article (9):** The relevant authorities shall regulate, manage, and prepare their sectoral policies and plans related to the development and rationalization of water use in coordination with the Ministry.
+
+**Article (11):**
+a) The Ministry, based on a submission from the Authority and in coordination with the competent authorities and local authorities, may propose the formation of committees for water basins and zones to contribute to the regulation of water management, with appropriate representation from relevant non-governmental organizations.
+b) The formation of these committees shall be issued by a decision of the Prime Minister. The Implementing Regulation of this Law shall specify the composition, tasks, powers, and duration of these committees, and their relationship with local authorities, in a manner that does not prejudice the unity of water resources in accordance with the provisions of this Law and is consistent with the articles of the Local Authority Law.
+
+**Section II**
+**Water Resources Planning**
+
+**Article (13):** The Ministry shall establish the principles for general water planning for the Republic in light of the results of the evaluation of water basins and zones, such that it includes general indicators of the water situation, trends in water demand for all uses, and water balances in the short, medium, and long term. These principles shall form the basis for developing alternatives for the Water Plan.
+
+**Article (15):** All governmental bodies and private and public legal persons must submit their water project plans to the Authority or one of its branches in the governorate offices for review and approval within a period not exceeding sixty days from the date of submission. If the Authority does not provide an opinion within the mentioned period, its approval shall be deemed implicitly given, unless there is a convincing justification.
+
+**Article (18):** The Water Plan shall be issued by a decision of the Council of Ministers based on a proposal from the Authority and submitted by the Minister. In implementing this plan, the delegation of powers shall be considered in a way that promotes decentralization and the participation of beneficiaries in the regulation and management of water at the level of basins and water zones, without prejudice to the unity of water resources management.
+
+**Chapter IV**
+**Water Uses**
+
+**Section II**
+**Controls for Handling Used Water**
+
+**Article (23):** The following must conform to the standards and specifications prepared by the Authority and approved by the Council of Ministers:
+1.  Water designated for drinking, domestic use, the food industry, and water used in the manufacture and handling of medical substances.
+2.  Water used for watering animals, irrigation, tourism services, and therapeutic purposes.
+3.  Treated wastewater used for irrigation or other purposes.
+4.  Saline water after desalination.
+
+**Article (24):** Any method of rectifying and treating water quality for various purposes—by mixing water or by using chemical, biological, radioactive, or gaseous substances, or by any method that would alter the physical and chemical properties of water, including thermal, radioactive, gaseous, or bacteriological properties, or change the taste, color, or odor of water—must be subject to a prior license and within the conditions and controls specified by the Implementing Regulation of this Law. The Regulation shall specify the authorities responsible for issuing licenses according to their respective jurisdictions.
+
+**Section III**
+**Sectoral Water Uses**
+
+**Article (25):** Without prejudice to the provisions of this Law, the Ministry of Agriculture and Irrigation and its affiliated authorities and institutions shall operate and maintain their water facilities and regulate and rationalize the use of water designated for irrigation in a manner consistent with the Local Authority Law and in accordance with the Water Plan, in light of the general strategy and policies for water resources, irrigation policies, and other related policies. To this end, the Ministry of Agriculture and Irrigation may undertake the following:
+1.  Prepare executive irrigation policies and plans that ensure the optimal utilization of the agricultural sector's water share.
+2.  Conduct theoretical and applied studies and research, implement extension programs, and take measures to rationalize water use in irrigation, increase the return from water use in crop production, and encourage modern irrigation technologies, in line with economic feasibility, adaptation to specified water quotas for irrigation, and the conservation of water and the environment.
+3.  a) Establish and operate water facilities for irrigation purposes and act in accordance with the Local Authority Law in a way that enhances the role of beneficiaries in participating in the planning, financing, management, operation, and maintenance of these facilities, so as to benefit from rain and flash floods within the framework of the indicators of the Republic's Water Plan, the water balances of basins and water zones, and the Water Plan.
+    b) Any other natural or legal person may contribute to the establishment of water facilities for irrigation purposes, provided that it does not conflict with the general plan of the Ministry of Agriculture and Irrigation and is under its technical supervision and in accordance with the provisions of this Law.
+4.  Develop a flood protection plan, as well as establish and operate agro-climatic monitoring networks, record and analyze the monitored information, document it, and exchange it with the Authority and its beneficiaries, and utilize the outputs of the National Water Monitoring Network of the Authority.
+5.  Develop and implement plans and programs related to the training of wadi channels and public canals, monitoring the flow of flash floods and floods, and monitoring the use of irrigation water and its facilities to ensure the safety of these facilities and to conserve water from waste and pollution.
+6.  Prepare indicators for the demand for irrigation water for the short, medium, and long term, including the needs of private sector projects for irrigation water, so that after review and evaluation, they form one of the inputs for the water plans stipulated in Article (13) of this Law.
+7.  If any party in areas of irrigation water use is exposed to the dangers of flash floods and floods during field operations, and there is a fear of harm to lives and property that requires urgent action in the public interest, the Ministry of Agriculture and Irrigation has the right to take what it deems appropriate of such measures, including demolishing or breaching any facility or removing or erecting any barriers, within the narrowest limits that enable it to prevent or avert this damage. It must pay fair compensation to the beneficiaries for any damage they incur as a result of these measures within six months of their implementation, and in agreement with them. In case of disagreement between the two parties, the affected party has the right to resort to the judiciary. The Implementing Regulation shall specify the controls for coordination with the Ministry and other relevant authorities in this regard.
+
+**Article (26):** Without prejudice to the provisions of this Law, the Ministry and its affiliated authorities and institutions, whether in urban or rural areas, shall regulate, manage, and rationalize the uses of water allocated to the water and sanitation sector in the Water Plan, in light of the general water strategy and policies and in a manner consistent with the Local Authority Law. To this end, it may undertake the following:
+1.  Prepare executive policies and plans related to the water and sanitation sector, ensuring the optimal utilization of the sector's allocated water share in the Water Plan.
+2.  Conduct theoretical and applied studies and research, and establish facilities, laboratories, and water distribution networks to supply the population with water for drinking, domestic, industrial, tourism, and other service purposes, within the limits of the quantities of water allocated for these purposes in the Water Plan.
+3.  Rationalize and increase the efficiency of water use for drinking, domestic, industrial, tourism, and other service purposes through awareness and extension programs, regulatory controls, and the introduction of methods and technologies that would reduce water loss and conserve it.
+4.  Secure services for supplying the population with pure water suitable for drinking and domestic use, and establish the necessary controls to ensure the application and monitoring of its quality and suitability standards for human use, and take measures and procedures to prevent any health damage to the population, as well as to develop and improve these services in quantity and quality.
+5.  Supply water for various private and public industrial, tourism, and other service purposes that fall within the scope of water distribution networks, and subject them to the application of controls for water standards and specifications in line with the different purposes of use and in accordance with the provisions of this Law and its Implementing Regulation.
+6.  Establish and manage sanitation networks and treatment plants for wastewater resulting from water use for domestic and other service purposes, and supervise wastewater treatment projects for tourism and industrial projects, provided that coordination is made with the Ministry of Agriculture and Irrigation, the local authority, and relevant authorities on the optimal ways to use treated wastewater for irrigation and other purposes, in light of the approved technical specifications and health and environmental controls established by the Ministry in participation with the relevant authorities.
+7.  Treat and discharge wastewater in accordance with the quality and environmental specifications and standards determined by the Implementing Regulation of this Law, such that treated water is not discharged or permitted for use except after coordination with the Ministry and relevant authorities, and after consultation and coordination with its users and those affected by it.
+
+**Chapter V**
+**Water Rights and Licenses**
+
+**Section I**
+**Water Rights**
+
+**Article (29):** Traditional usufruct rights and associated easement rights to the water of springs, perennial and seasonal streams, and wells, existing before the issuance of this Law, shall be preserved and retained by their owners as existing rights, without prejudice to the rules of registration, and shall remain allocated for their intended purposes. In the event of their transfer to the ownership of others, these rights shall mandatorily transfer to the new owner. In the event of the subdivision of the land benefiting from the water, the water shall be distributed according to the areas of the land parcels resulting from the subdivision.
+
+**Article (33):** Beneficiaries or their representatives of groundwater wells drilled before the issuance of this Law, and holders of associated usufruct and easement rights, whether utilized or not, must apply to the Authority or one of its branches in the governorate offices or to the bodies authorized by the Authority with the Minister's approval for registration and to continue enjoying usufruct and easement rights within three years from the date of the announcement issued by the Authority after the promulgation of this Law.
+
+**Section II**
+**Licenses**
+
+**Article (35):** Taking into account Article (73) of this Law, no individual, group, governmental or private entity, or any legal or natural person may drill a water well, deepen one, or establish any water facility to impound the water of flash floods and flowing streams in wadi channels and water basins, either on or below the surface, or divert them from their natural courses, except after obtaining a prior license from the Authority.
+
+**Article (37):** No beneficiary may exceed the quantities, purposes of use, or any other technical specifications determined by the Authority. He must also adhere to the conditions specified in the license. The Implementing Regulation shall specify the necessary details for the execution thereof.
+
+**Article (38):** Licenses granted in accordance with this Law for drilling water wells shall be deemed null and void by force of law in the following cases:
+1.  If the licensee does not commence drilling operations within six months from the date of issuance of the license.
+2.  If the license is used for a purpose other than that for which it was granted.
+3.  If the conditions stipulated in the license are violated.
+4.  If the license is transferred, with or without consideration, without the approval of the Authority. The Regulation shall specify the cases in which such a transfer may be accepted. The Authority also has the right to periodically review these licenses according to the system established for this purpose. The license may be renewed once for another three-month period for justified reasons, and the period may be extended if those reasons persist.
+
+**Article (40):** Without prejudice to the penalties stipulated in Chapter VIII of this Law, the Ministry may suspend the usufruct right if it is found that the water of the well or water facility is polluted and harmful to public health and the environment, and its treatment is impossible, according to a laboratory report from the competent authority.
+
+**Article (41):** The government shall establish projects that develop water resources and harvest water. The Ministry has the right, when necessary, to reconsider the quantity of water licensed to be pumped from any aquifer or surface reservoir to align with the total exploitable water resources from that reservoir, within the framework of water projects established by the government or that it seeks to establish in the future in accordance with the Water Plan.
+
+**Article (42):** Taking into account the provisions of the regulation for the classification of contractors and engineering offices, these contractors and engineering offices may not practice any of the following activities except after obtaining licenses from the Authority to practice these activities:
+1.  Drilling water wells.
+2.  Exploring for groundwater and conducting studies and consultancy work in the field of water resources.
+3.  Distributing water from wells directly, through drinking water networks, or by bottling.
+The Authority shall issue licenses or reject applications in coordination with the relevant authorities according to jurisdiction. All natural and legal persons who, at the time of the issuance of this Law, are engaged in any of the activities stipulated in the preceding paragraphs must apply to the Authority within one year from the date of the issuance of this Law to register themselves, their offices, or their companies, and the machinery and equipment they use in these professions, and to obtain licenses to practice the profession. The Regulation shall specify the requirements for practicing the profession, as well as the validity period of the license or registration and the rules, provisions, and procedures for implementing the provisions of this Article, in a manner that does not violate the texts and provisions of this Law.
+
+**Article (45):** Taking into account the text of Article (29) of this Law, manual wells may be drilled without a prior license to obtain limited quantities of water for drinking purposes, not exceeding sixty meters (60m) in depth, provided that the following conditions are met:
+1.  Adherence to the controls and provisions of sanctuaries for water sources and their facilities and water restriction zones, and not causing harm to others.
+2.  Observance of established customs and traditions related to usufruct rights to water and associated easement rights and facilities.
+
+**Chapter VI**
+**Water Conservation and Protection from Pollution**
+
+**Section I**
+**General Technical Standards and Specifications**
+
+**Article (46):** With the exception of works preceding the issuance of this Law and without prejudice to the provisions of the Civil Code, the following works shall be subject to the established general technical standards and specifications:
+1.  Drilling of water wells.
+2.  a) The locations and general designs of irrigation and water facilities.
+    b) Water treatment and desalination plants.
+3.  Sanctuaries for wells, perennial and seasonal streams, and natural springs.
+4.  Supplies for drilling rigs, drilling materials, and well casings.
+5.  Pumps.
+6.  Means of transporting and distributing water for drinking purposes.
+The Regulation shall specify these general technical standards and specifications and all other rules and procedures for implementing the provisions of this Article.
+
+**Article (47):** Taking into account Article (54) of this Law, the competent authorities, in coordination with the Ministry, shall issue licenses for the disposal of waste, wastewater, and oils, and determine the locations and methods for their disposal, the establishment of their facilities, and the reuse of treated wastewater according to the approved conditions, standards, and specifications, and for the construction of sanitation networks and the establishment of water desalination plants, in accordance with relevant laws.
+
+**Section II**
+**Conservation of Water Resources from Depletion and Rationalization of Use**
+
+**Article (48):** The State, represented by the Ministry and relevant authorities, shall undertake the following actions:
+1.  Contribute to providing the necessary support and facilities to farmers to encourage them to use modern irrigation methods and technologies aimed at saving, rationalizing, and increasing the productivity of water use.
+2.  a) Establish dams, water barriers, cisterns, and necessary facilities for rainwater harvesting for the optimal use of rain and flash floods to recharge groundwater and ensure its sustainability through their maintenance and operation, in coordination with the concerned local councils and beneficiaries.
+    b) Provide technical supervision for the establishment of water facilities by any natural or legal person for the purpose of groundwater recharge, in a manner that does not conflict with the provisions of this Law, its Implementing Regulation, and the Ministry's general plan.
+3.  Provide the necessary assistance and support for water conservation through the conservation of soil and vegetation cover, combating desertification, and supporting measures that would limit damage to environmental factors.
+4.  Support and encourage the participation of popular efforts to contribute to the management and conservation of water resources.
+
+**Article (49):** Taking into account approved urban and land use plans, and without prejudice to the provisions and texts of this Law, the Council of Ministers may, by decision based on a proposal from the Authority and submitted by the Minister, designate restricted zones where it is prohibited to drill or deepen any wells, establish any facilities, or develop or create any industrial activities, expand agricultural areas, or any other activities that increase the burden on the water stock in those areas. The decision shall include the geographical boundaries of each of these zones, the duration of the restriction, and the procedures and measures for its implementation. The restriction decision shall, after fair compensation, result in the cancellation of all licenses for works that have not yet begun at the time of the restriction's announcement. The restriction decision may include modifying or suspending the licensed quantity of use if there is harm to the water resources in the restricted zone. This restriction shall be lifted upon the cessation of its causes.
+
+**Article (50):** The Authority, with the approval of the Minister and the ratification of the Council of Ministers, may license the pumping of specific quantities of groundwater or surface water from one basin or water zone and its permanent or temporary transfer for use in other basins, after evaluating possible alternatives and options and determining their preference through comprehensive and extensive studies (technical, social, and economic) of current and future water needs, provided that the following conditions are met:
+1.  The transfer process shall not harm drinking and domestic use needs, and there shall be no future negative impact on the quantity and quality of water in the source zone or basin.
+2.  The transfer shall be for the purpose of drinking and domestic use in the receiving basin.
+3.  The water stock in the receiving zone or basin is insufficient to meet needs due to water scarcity or its unsuitability for drinking, after halting all other uses.
+4.  Consultation and coordination with local authorities, basin committees, and actual beneficiaries from the source basin.
+5.  If damage is caused by the water transfer to the existing interests of beneficiaries (holders of usufruct rights), this damage shall be compensated fairly and on a one-time basis.
+6.  In all cases, if there are multiple sources from which water can be transferred, and the economic cost of transfer from them or some of them is close to the cost of transfer from a single source, the required quantities of water shall be withdrawn distributed among more than one source, so as to distribute the effects of the withdrawal among the basins.
+
+**Section III**
+**Protection of Water from Pollution**
+
+**Article (54):** The Ministry shall have the authority to protect water resources from pollution, preserve their quality, prevent activities that lead to their pollution or quality degradation, and combat emergency pollution incidents in cooperation with the relevant authorities. The following must be adhered to:
+1.  Entities that practice activities that could lead to the pollution of water resources must adhere to the application of standards and specifications related to the discharge of solid, liquid, radioactive, thermal, and other waste, including waste associated with oil extraction operations, in accordance with this Law and its Implementing Regulation.
+2.  It is prohibited for any entity whatsoever to discharge any waste, regardless of its source, by dumping or piling solid or liquid waste or dead animals in wadi channels or in areas designated by the Authority as groundwater recharge zones, or to practice any activity in these channels that may directly or indirectly lead to the pollution of water resources or the deterioration of their quality.
+3.  Relevant entities and individuals must respect water restriction zones or protection zones around wells and other water resources as specified by the Implementing Regulation.
+4.  a) The Ministry, in coordination with the relevant authorities and after the approval of the Council of Ministers, shall close down factories and establishments that discharge their waste without a permit, in violation of the permit conditions, or fail to comply with orders and directives issued to them by the Authority or relevant authorities to remove and stop the waste in accordance with the provisions of this Law, while obliging them to pay compensation for the damages they have caused.
+    b) The Authority, with the approval of the Minister, has the right to designate protected zones from industries whose waste poses a danger to water resources. The Implementing Regulation of this Law shall specify protection conditions and standards that factories must adhere to before being allowed to operate. Government agencies must not issue industrial investment licenses except after coordination with the Authority.
+5.  The Ministry, in cooperation and coordination with the relevant authorities, shall prepare regulations governing the discharge of industrial waste, the use of fertilizers, agricultural enrichers, and pesticides, and all materials harmful to water resources or the environment, and the selection of sites for garbage dumps and waste disposal sites, as well as classifying the damage caused by polluting activities and their potential harm to water resources in the Republic.
+
+**Chapter VII**
+**Flood Protection**
+
+**Article (61):** The Ministry of Agriculture and Irrigation, in coordination with the local authority and relevant authorities, shall establish controls for the management of rainfall areas that generate flash floods and floods, and their collection, flow, and discharge areas. It shall also prepare a plan for the management of watersheds and outlets for flash floods and floods to ensure protection from them and prevent their damage, according to the jurisdiction of each, in cooperation with water users. This shall include:
+1.  Protection of soil and vegetation cover and optimal investment in water and other land resources to ensure natural environmental balance and mitigate the impact of harmful natural and human erosion factors.
+2.  Training of wadi channels and protecting them from erosion, and establishing the necessary facilities to protect soil, public and private property, and populated areas, including the removal of Prosopis juliflora (mesquite) trees.
+3.  Protection and maintenance of agricultural terraces to reduce the intensity of flood runoff and enhance rainwater harvesting systems.
+4.  Preventing the expansion of new agricultural lands or civil, industrial, or other facilities at the expense of wadi and flood channels and public canals, if this would impede the flow of floodwater in its designated channels. Also, preventing the construction of barriers, buildings, and other installations in lands that could be submerged by floods, or any buildings between watercourses and any barriers and facilities erected for protection from the danger of flash floods and floods, with the exception of facilities built to protect adjacent homes and properties in emergency situations.
+5.  Without prejudice to what is stated in paragraph (4) of Article (25) of this Law, the Ministry of Agriculture and Irrigation may remove barriers, buildings, and any other facilities licensed for construction if it becomes clear that they obstruct the flow of water or contribute to increasing flood damage, after paying fair compensation to their owners.
+
+**Chapter VIII**
+**Enforcement Procedures and Penal Sanctions**
+
+**Section I**
+**Enforcement Procedures**
+
+**Article (64):**
+1.  The inspectors stipulated in the preceding article shall be responsible for documenting the violations specified in accordance with the provisions of this Law and drawing up reports thereon, recording the type of violation, its location, the perpetrators, the date of documentation, and any other data related to the incident in question.
+2.  The inspectors shall issue stop-work orders for the violation immediately after completing the report in accordance with the provisions of the preceding paragraph, as well as impound the work machinery and equipment, and refer the case of the violation and the impounded machinery and equipment to the Public Prosecution to take legal action.
+
+**Section II**
+**Penal Sanctions**
+
+**Article (69):** Shall be punished by imprisonment for a term not exceeding two years:
+1.  Anyone who discharges waste that leads to the pollution of water resources or the deterioration of their quality without obtaining a prior permit. The penalty shall be doubled in case of recurrence.
+2.  Anyone who refuses to comply with the decisions and orders issued to him by the Authority to stop work at the site of the violation that leads to water pollution.
+3.  Anyone who discharges any industrial, medical, or animal waste or products, or waste containing toxic, viral, or radioactive compounds, or any liquid, solid, or gaseous materials, or any other materials whose specifications do not comply with the permissible standards for the public sanitation network.
+4.  Anyone who distributes water for drinking, tourism, or other non-standard purposes through distribution networks, transport tankers, or any other means contrary to the specified standards and specifications for water and its means of transport.
+5.  Any beneficiary or contractor who changes the location of drilling or any other water facility to another site without obtaining a license for that.
+6.  Anyone who drills a water well or establishes any water facility to impound floodwater or divert it from its natural course, whether for himself or for others, with or without consideration, without having a work license from the Authority.
+7.  Anyone who dumps or piles solid or liquid waste, including oils or dead animals, or engages in any harmful activity in wadi channels or groundwater recharge areas in a manner that would lead to the pollution of water resources or the deterioration of their quality.
+
+**Article (70):** Shall be punished by imprisonment for a term not exceeding six months or a fine not exceeding two hundred thousand riyals, along with stopping the work in question and obliging the perpetrator to repair the damages and restore the situation to its previous state. The penalty shall be doubled upon recurrence or continuation of the violation:
+1.  Any contractor who drills a water well or establishes a water facility to impound floodwater or divert it from its natural course without being licensed to practice that activity.
+2.  Any contractor who drills water wells or establishes a facility in violation of the technical conditions stipulated in the license during its execution, or who fails to adhere to the general technical specifications for water wells or water facilities, or who violates the license granted to the project owner, or who uses unregistered drilling machinery from the Authority.
+3.  Anyone who throws waste in wadis and other watercourses, leading to the obstruction of water flow in the channels.
+4.  Anyone who expands or creates new agricultural lands or civil, industrial, or other facilities at the expense of wadi and flood channels and public canals, or obstructs the flow of floodwater in its designated channels.
+5.  Anyone who studies or explores for water resources without being licensed to practice the profession or in a manner that violates the license granted to him by the Authority.
+6.  Any employee of the Authority or relevant authorities who exploits his position during the performance of his assigned mission.
+
+**Article (71):** Shall be punished by imprisonment for a term of not less than one month or a fine not exceeding three hundred thousand riyals, and the penalty shall be doubled upon recurrence and continuation of the violation, anyone who:
+1.  Uses water for purposes other than those for which it is designated.
+2.  Begins to withdraw water from a drilled well or water facility before submitting a registration application.
+3.  Begins to distribute water for drinking and domestic consumption without periodically analyzing samples of this water and providing the Authority and competent authorities with the analysis results periodically.
+4.  Provides incorrect data to the Authority or other entities related to the application of this Law, if it results in violations of this Law.
+5.  Is delayed in registering usufruct rights with the Authority within the period specified by this Law.
+6.  Is delayed in registering exploited water wells within the period specified for registration.
+7.  Is delayed in submitting certificates of completion for licensed works beyond the period specified in the license. In case of a delay of more than one year, the Authority has the right to cancel the license.
+8.  If a contractor imports or brings in any machine for drilling water wells or any equipment, spare parts, metal casings, or drilling supplies in violation of the conditions specified by the Authority.
+9.  Any contractor who drills a well or establishes a water facility after the expiration of the license granted to him to practice the profession or activity by three months and has not renewed it during this period.
+10. Any contractor who drills a water well and then backfills or closes it after drilling without clarifying this to the Authority in the certificate of work completion or including incorrect data in this certificate or the technical information form.
+11. Anyone who transfers to others the drilling license or usufruct right without the approval of the Authority.
+
+**Chapter IX**
+**General and Final Provisions**
+
+**Article (72):** Without prejudice to the provisions of this Law and the Local Authority Law, the Authority, after the Minister's approval, may delegate some of its powers stipulated in this Law to any committee, office, or unit, whether affiliated with it or not, if the Authority is unable to carry out these powers and tasks itself.
+
+**Article (74):** The Ministry shall consult and coordinate with the Ministry of Agriculture and Irrigation and the local authority regarding the tasks related to them mentioned in this Law.
+
+**Article (76):** Based on a proposal from the Authority, with the approval of the Minister, and in coordination with the relevant authorities and in accordance with legal procedures, fees may be imposed, the proceeds of which shall be allocated to support the development of water resources and their protection from depletion and pollution, in a way that achieves the objectives of this Law, as follows:
+1.  Fees for the registration of water rights.
+2.  Fees for the use of water for commercial purposes.
+3.  Fees for the protection of water resources from pollution resulting from sanitation and commercial and industrial waste.
+The Implementing Regulation of this Law shall specify the rules, procedures, and controls governing the collection and disbursement of these fees.
+
+**Article (78):** The Implementing Regulation of this Law shall be issued by a decision of the Prime Minister, after the approval of the Council of Ministers, based on a submission from the Minister in coordination with the relevant authorities.
+
+**Article (2):** Two articles shall be added to Law No. (33) of 2002 Concerning Water, after Article (74) and Article (75), which shall read as follows:
+**Article (74 bis):** The Ministry has the right, in emergency cases where there is a fear of harm to lives and public and private property, to remove the works subject to the violation and restore the situation to what it was before the violation, in the manner it deems appropriate and at the expense of the violator, without waiting for the outcome of the judicial decision, in accordance with its jurisdiction and in coordination with other relevant authorities. The Regulation shall specify these emergency cases.
+**Article (75 bis):** Water protection associations, bodies authorized by the Ministry, and any natural or legal person may initiate a civil lawsuit against any natural or legal person who, through his action or violation of the provisions of this Law, has caused damage to water and its facilities, including causing excessive depletion or pollution of water.
+
+**Article (3):** This Law shall come into force from the date of its issuance and shall be published in the Official Gazette.
+
+Issued at the Presidency of the Republic - Sana'a
+On: 8/Dhu al-Hijjah/1427 AH
+Corresponding to: 28/December/2006 AD
+
+Ali Abdullah Saleh
+President of the Republic
+
