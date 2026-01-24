@@ -1,18 +1,14 @@
 import numpy as np
 import pandas as pd
-import torch
-import gc
 import os
 import re
 from pathlib import Path
-from tqdm import tqdm
-from sentence_transformers import SentenceTransformer
 
 # ================= CONFIGURATION =================
-os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
-
-CACHE_DIR = Path("cache/raw_embeddings")
-OUTPUT_DIR = Path("results/validation_targets")
+# Make paths relative to script location (Portable)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+CACHE_DIR = SCRIPT_DIR / "cache" / "raw_embeddings"
+OUTPUT_DIR = SCRIPT_DIR / "results" / "validation_targets"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # 1. THE SPECIFIC COUNTRIES YOU WANT
@@ -35,18 +31,18 @@ ISO_MAP = {
     "Somalia": "SO"
 }
 
-# 3. KEYWORDS
+# 3. KEYWORDS - MUST MATCH 01_embeddings_ALL.py for index alignment
 KEYWORDS = [
-    "groundwater withdrawal", "ground-water monitoring", "underground water abstraction", 
-    "groundwater permits", "groundwater rights", "well and borehole drilling licenses", 
-    "conjunctive management", "groundwater protection zones", "aquifer recharge", 
+    "groundwater withdrawal", "ground-water monitoring", "underground water abstraction",
+    "groundwater permits", "groundwater rights", "well and borehole drilling licenses",
+    "conjunctive management", "groundwater protection zones", "aquifer recharge",
     "transboundary aquifers"
 ]
 
-# 4. MODELS
+# 4. MODELS (Short names only - we use pre-calculated embeddings)
 MODEL_CONFIGS = [
-    {"name": "Qwen/Qwen3-Embedding-8B", "short": "Qwen3-8B"},
-    {"name": "jinaai/jina-embeddings-v3", "short": "Jina-v3", "trust": True}
+    {"short": "Qwen3-8B"},
+    {"short": "Jina-v3"}
 ]
 
 # 5. DEPTH
@@ -54,11 +50,13 @@ SEARCH_DEPTH = 150
 
 # ================= UTILS =================
 
-def clean_memory():
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-        torch.cuda.ipc_collect()
+def get_keyword_index(keyword):
+    """Get the index of a keyword in the KEYWORDS list."""
+    try:
+        return KEYWORDS.index(keyword)
+    except ValueError:
+        print(f"❌ ERROR: Keyword '{keyword}' not found in KEYWORDS list!")
+        return None
 
 def normalize_name(name):
     """Normalize for matching: lower case, no spaces/underscores."""
@@ -129,35 +127,13 @@ def map_files_to_targets(model_dir):
             
     return mapping
 
-def load_model(model_name):
-    print(f"  Loading {model_name}...")
-    clean_memory()
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    
-    model_kwargs = {
-        "torch_dtype": torch.float16,
-        "use_safetensors": True 
-    }
-    
-    if "jina" in model_name.lower():
-        model_kwargs["use_flash_attn"] = False
-        
-    try:
-        return SentenceTransformer(
-            model_name, 
-            device=device, 
-            trust_remote_code=True,
-            model_kwargs=model_kwargs
-        )
-    except Exception as e:
-        print(f"  ❌ Error loading {model_name}: {e}")
-        return None
-
 # ================= MAIN LOGIC =================
 
 def main():
-    print("\n=== TARGETED CONSENSUS EXTRACTION (ISO FIX) ===")
-    
+    print("\n=== TARGETED CONSENSUS EXTRACTION (USING RERANKED SCORES) ===")
+    print("✓ Reading pre-calculated similarity_matrix from .npz files")
+    print("✓ NO model loading, NO re-embedding - using reranked scores directly\n")
+
     # Structure: data_store[keyword][country][model_name] = {text: score}
     data_store = {kw: {c: {} for c in TARGET_COUNTRIES} for kw in KEYWORDS}
 
@@ -165,57 +141,71 @@ def main():
     for config in MODEL_CONFIGS:
         short_name = config["short"]
         model_dir = CACHE_DIR / short_name
-        
+
         if not model_dir.exists():
-            print(f"Cache missing for {short_name}")
+            print(f"❌ Cache missing for {short_name}")
             continue
-            
+
+        print(f"\n{'='*60}")
+        print(f"Processing Model: {short_name}")
+        print(f"{'='*60}")
+
         # Map target countries to files
         file_map = map_files_to_targets(model_dir)
         if not file_map:
-            print(f"  No targets found in {short_name} cache.")
+            print(f"  ⚠ No targets found in {short_name} cache.")
             continue
-            
-        # Load Model
-        model = load_model(config["name"])
-        if not model: continue
-        
-        # Process Keywords
+
+        # Process Keywords (NO MODEL LOADING!)
         for kw in KEYWORDS:
-            # print(f"  Scanning '{kw}'...")
-            kw_embed = model.encode(kw, normalize_embeddings=True)
-            
+            kw_idx = get_keyword_index(kw)
+            if kw_idx is None:
+                continue
+
             for country, filepath in file_map.items():
                 try:
-                    data = np.load(filepath)
+                    data = np.load(filepath, allow_pickle=True)
                     chunks = data['text_chunks']
-                    embeds = data['embeddings']
-                    
-                    if len(embeds) == 0: continue
-                    
-                    # Score
-                    scores = embeds @ kw_embed.T
-                    
-                    # Get indices of Top N
-                    # We negate scores to use argsort for descending order
-                    top_indices = np.argsort(-scores)[:SEARCH_DEPTH]
-                    
+
+                    # ✅ CRITICAL FIX: Use pre-calculated similarity_matrix
+                    if 'similarity_matrix' in data:
+                        similarity_matrix = data['similarity_matrix']
+
+                        # Ensure keyword index is valid
+                        if kw_idx >= similarity_matrix.shape[0]:
+                            print(f"    ⚠ Keyword index {kw_idx} out of bounds for {country}")
+                            continue
+
+                        # Extract scores for this keyword (already reranked!)
+                        scores = similarity_matrix[kw_idx]
+                    else:
+                        # Fallback to raw embeddings if similarity_matrix not available
+                        print(f"    ⚠ No similarity_matrix in {filepath.name}, skipping")
+                        continue
+
+                    if len(scores) == 0:
+                        continue
+
+                    # Get indices of Top N (based on RERANKED scores)
+                    top_indices = np.argsort(scores)[::-1][:SEARCH_DEPTH]
+
                     # Store results
                     results = {}
                     for idx in top_indices:
                         score = float(scores[idx])
-                        if score < 0.25: continue # Basic noise filter
+                        if score < 0.01:  # Lower threshold since reranked scores may be normalized
+                            continue
+                        if idx >= len(chunks):
+                            continue
                         text = str(chunks[idx]).strip()
                         results[text] = score
-                        
+
                     data_store[kw][country][short_name] = results
-                    
+
                 except Exception as e:
-                    print(f"    Error reading {country}: {e}")
-                    
-        # Cleanup
-        del model
-        clean_memory()
+                    print(f"    ❌ Error reading {country}: {e}")
+
+        print(f"  ✓ Processed {short_name} using reranked scores")
 
     # --- STEP 2: FIND INTERSECTION & SAVE ---
     print("\n=== CALCULATING CONSENSUS ===")

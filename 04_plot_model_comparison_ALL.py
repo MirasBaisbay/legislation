@@ -7,9 +7,11 @@ from scipy.cluster.hierarchy import linkage, fcluster
 from matplotlib.colors import ListedColormap
 
 # ================= CONFIGURATION =================
-DATA_DIR = Path("results/viz_data")
-ANALYSIS_DIR = Path("results/final_analysis")
-FIGURES_DIR = Path("results/figures/model_comparison").resolve()
+# Make paths relative to script location (Portable)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+DATA_DIR = SCRIPT_DIR / "results" / "viz_data"
+ANALYSIS_DIR = SCRIPT_DIR / "results" / "final_analysis"
+FIGURES_DIR = SCRIPT_DIR / "results" / "figures" / "model_comparison"
 FIGURES_DIR.mkdir(parents=True, exist_ok=True)
 
 DATASET_LABEL = "All Documents (n=167)"
