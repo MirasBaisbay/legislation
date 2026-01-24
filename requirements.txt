@@ -11,6 +11,12 @@ spacy
 einops
 tqdm
 
+# Reranking & Flash Attention (for optimal performance on 5090)
+# flash-attn is used for Qwen models and can improve memory efficiency
+# Install with: pip install flash-attn --no-build-isolation
+# Note: Requires CUDA toolkit and may take time to compile
+flash-attn>=2.0.0  # Optional but recommended for Qwen models
+
 # Visualization
 matplotlib
 seaborn
