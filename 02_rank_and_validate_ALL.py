@@ -7,9 +7,11 @@ from scipy.stats import kendalltau
 import re
 
 # ================= CONFIGURATION =================
-CACHE_DIR = Path("cache")
-RESULTS_DIR = Path("results/final_analysis")
-OPENAI_FILE = Path("keyword_similarities_OPENAI.parquet") 
+# Make paths relative to script location (Portable)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+CACHE_DIR = SCRIPT_DIR / "cache"
+RESULTS_DIR = SCRIPT_DIR / "results" / "final_analysis"
+OPENAI_FILE = SCRIPT_DIR / "keyword_similarities_OPENAI.parquet"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
 MODEL_FILES = {

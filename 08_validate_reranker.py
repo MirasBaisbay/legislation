@@ -4,9 +4,10 @@ import re
 from pathlib import Path
 
 # ================= CONFIGURATION =================
-
-CACHE_DIR = Path("cache/raw_embeddings")
-OUTPUT_DIR = Path("results/validation_reranker")
+# Make paths relative to script location (Portable)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+CACHE_DIR = SCRIPT_DIR / "cache" / "raw_embeddings"
+OUTPUT_DIR = SCRIPT_DIR / "results" / "validation_reranker"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # 1. TARGET COUNTRIES (Subset for focused validation)

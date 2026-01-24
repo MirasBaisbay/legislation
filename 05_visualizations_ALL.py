@@ -18,8 +18,10 @@ except ImportError:
     PLOTLY_AVAILABLE = False
 
 # ================= CONFIGURATION =================
-RESULTS_DIR = Path("results/final_analysis")
-FIGURES_DIR = Path("results/figures/final_submission")
+# Make paths relative to script location (Portable)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+RESULTS_DIR = SCRIPT_DIR / "results" / "final_analysis"
+FIGURES_DIR = SCRIPT_DIR / "results" / "figures" / "final_submission"
 os.makedirs(FIGURES_DIR, exist_ok=True)
 
 INPUT_FILE = RESULTS_DIR / "final_rankings.csv"

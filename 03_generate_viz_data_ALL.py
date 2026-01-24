@@ -6,10 +6,11 @@ from pathlib import Path
 import re
 
 # ================= CONFIGURATION =================
-CACHE_DIR = Path("cache")
-OUTPUT_DIR = Path("results/viz_data")
-OPENAI_FILE = Path("keyword_similarities_OPENAI.parquet")
-# We don't rely on folder scanning anymore to avoid mismatch issues
+# Make paths relative to script location (Portable)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+CACHE_DIR = SCRIPT_DIR / "cache"
+OUTPUT_DIR = SCRIPT_DIR / "results" / "viz_data"
+OPENAI_FILE = SCRIPT_DIR / "keyword_similarities_OPENAI.parquet"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 MODEL_FILES = {
