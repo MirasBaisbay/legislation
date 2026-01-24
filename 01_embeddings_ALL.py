@@ -6,7 +6,7 @@ import gc
 import spacy
 from pathlib import Path
 from tqdm import tqdm
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, CrossEncoder
 from sklearn.metrics.pairwise import cosine_similarity
 
 # ================= CONFIGURATION =================
@@ -32,7 +32,7 @@ EMBEDDING_MODELS = [
     {
         "name": "Qwen/Qwen3-Embedding-8B",
         "short_name": "Qwen3-8B",
-        "batch_size": 1, 
+        "batch_size": 1,
         "max_chunks": None,
         "prompt": None,
         "trust_remote": True,
@@ -59,12 +59,90 @@ EMBEDDING_MODELS = [
     }
 ]
 
+# ================= RERANKER CONFIGURATION =================
+RERANKER_CONFIG = {
+    "name": "BAAI/bge-reranker-v2-m3",
+    "enabled": True,              # Set to False to disable reranking
+    "fp16": True,                 # Use FP16 for faster inference on 5090
+    "batch_size": 32,             # Reranker batch size (can be larger than embedding)
+    "top_k_initial": 100,         # Initial retrieval depth (increases recall)
+    "top_n_final": 20,            # Final number of chunks after reranking
+    "trust_remote": True
+}
+
 def clean_memory():
     """Aggressively clear GPU memory."""
     gc.collect()
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
         torch.cuda.ipc_collect()
+
+def load_reranker(config, device):
+    """Load the CrossEncoder reranker model with FP16 support."""
+    if not config.get("enabled", True):
+        return None
+
+    clean_memory()  # Clear before loading
+    print(f"  Loading reranker: {config['name']}...")
+
+    kwargs = {}
+    if config.get("trust_remote", False):
+        kwargs["trust_remote_code"] = True
+
+    # Load CrossEncoder
+    model = CrossEncoder(config["name"], device=device, **kwargs)
+
+    # Enable FP16 if requested and on CUDA
+    if config.get("fp16") and device == "cuda":
+        try:
+            model.model.half()
+            print(f"  ✓ Reranker loaded in FP16 mode")
+        except Exception as e:
+            print(f"  ⚠ FP16 conversion failed: {e}, using FP32")
+
+    return model
+
+def rerank_chunks(reranker, query, chunks, scores, top_n=20, batch_size=32):
+    """
+    Rerank retrieved chunks using CrossEncoder for improved relevance.
+
+    Args:
+        reranker: CrossEncoder model
+        query: The search query (keyword)
+        chunks: List of text chunks
+        scores: Initial cosine similarity scores
+        top_n: Final number of chunks to return after reranking
+        batch_size: Batch size for reranker inference
+
+    Returns:
+        reranked_indices: Indices of top chunks after reranking
+        reranked_scores: Reranker scores for the top chunks
+    """
+    if reranker is None or len(chunks) == 0:
+        # Fallback to cosine similarity ranking
+        top_indices = np.argsort(scores)[::-1][:top_n]
+        return top_indices, scores[top_indices]
+
+    # Prepare query-chunk pairs for reranking
+    pairs = [[query, chunk] for chunk in chunks]
+
+    # Get reranker scores
+    try:
+        rerank_scores = reranker.predict(
+            pairs,
+            batch_size=batch_size,
+            show_progress_bar=False,
+            convert_to_numpy=True
+        )
+    except Exception as e:
+        print(f"    ⚠ Reranking failed: {e}, falling back to cosine similarity")
+        top_indices = np.argsort(scores)[::-1][:top_n]
+        return top_indices, scores[top_indices]
+
+    # Get top-n indices based on reranker scores
+    top_indices = np.argsort(rerank_scores)[::-1][:top_n]
+
+    return top_indices, rerank_scores[top_indices]
 
 def load_and_chunk_documents(folder):
     print("\n" + "="*60)
@@ -151,89 +229,197 @@ def load_model(config, device):
             return SentenceTransformer(config["name"], device=device, **kwargs)
         raise e
 
-def process_model(model, config, chunks_map):
+def process_model(model, config, chunks_map, reranker=None, reranker_config=None):
+    """
+    Process documents with embedding model and optional reranking.
+
+    Args:
+        model: SentenceTransformer embedding model
+        config: Embedding model configuration
+        chunks_map: Dictionary mapping country -> list of text chunks
+        reranker: Optional CrossEncoder reranker model
+        reranker_config: Reranker configuration dict
+
+    Returns:
+        results: Dictionary of country scores
+    """
     print(f"\n  Processing with {config['short_name']}...")
-    
+    if reranker is not None:
+        print(f"  ✓ Reranking enabled with top_k={reranker_config['top_k_initial']} → top_n={reranker_config['top_n_final']}")
+
     print("  Encoding keywords...")
     kw_args = {"show_progress_bar": False, "normalize_embeddings": True}
     if config.get("is_jina"): kw_args["task"] = "retrieval.query"
-    
+
     prompts = [config["prompt"] + k for k in KEYWORDS] if config.get("prompt") else KEYWORDS
     kw_embeds = model.encode(prompts, **kw_args)
-    
+
     results = {}
     max_chunks = config.get("max_chunks", None)
-    
+
     raw_embed_dir = CACHE_DIR / "raw_embeddings" / config["short_name"]
     if SAVE_RAW_EMBEDDINGS:
         raw_embed_dir.mkdir(parents=True, exist_ok=True)
-    
+
     for country, chunks in tqdm(chunks_map.items(), desc=f"  {config['short_name']}", leave=False):
         chunks_subset = chunks[:max_chunks]
         if not chunks_subset: continue
-        
+
         try:
             doc_args = {"batch_size": config["batch_size"], "show_progress_bar": False, "normalize_embeddings": True}
             if config.get("is_jina"): doc_args["task"] = "retrieval.passage"
-            
+
             chunk_embeds = model.encode(chunks_subset, **doc_args)
-            
+
+            # Compute initial cosine similarity matrix
             sim_matrix = cosine_similarity(kw_embeds, chunk_embeds)
-            
-            # Global Mean Metric
+
+            # ============ RERANKING STAGE ============
+            if reranker is not None and reranker_config.get("enabled", True):
+                top_k = reranker_config["top_k_initial"]
+                top_n = reranker_config["top_n_final"]
+                batch_size = reranker_config.get("batch_size", 32)
+
+                # Initialize arrays to store reranked scores
+                reranked_sim_matrix = np.zeros_like(sim_matrix)
+                reranked_chunk_scores = np.zeros(len(chunks_subset))
+
+                # For each keyword, retrieve top_k chunks and rerank
+                for kw_idx, keyword in enumerate(KEYWORDS):
+                    keyword_scores = sim_matrix[kw_idx]
+
+                    # Get top_k candidates based on cosine similarity
+                    top_k_candidates = min(top_k, len(chunks_subset))
+                    top_indices = np.argsort(keyword_scores)[::-1][:top_k_candidates]
+
+                    # Extract top chunks and their scores
+                    candidate_chunks = [chunks_subset[i] for i in top_indices]
+                    candidate_scores = keyword_scores[top_indices]
+
+                    # Rerank the candidates
+                    reranked_indices, reranked_scores = rerank_chunks(
+                        reranker,
+                        keyword,
+                        candidate_chunks,
+                        candidate_scores,
+                        top_n=min(top_n, len(candidate_chunks)),
+                        batch_size=batch_size
+                    )
+
+                    # Map reranked scores back to original indices
+                    for rank, (rel_idx, score) in enumerate(zip(reranked_indices, reranked_scores)):
+                        orig_idx = top_indices[rel_idx]
+                        # Store reranked score (normalized to [0, 1] if needed)
+                        # CrossEncoder scores can be unbounded, so we normalize
+                        reranked_sim_matrix[kw_idx, orig_idx] = score
+                        # Accumulate maximum reranked score for each chunk
+                        reranked_chunk_scores[orig_idx] = max(reranked_chunk_scores[orig_idx], score)
+
+                # Normalize reranked scores to [0, 1] range for consistency
+                # Using min-max normalization per keyword
+                for kw_idx in range(len(KEYWORDS)):
+                    kw_scores = reranked_sim_matrix[kw_idx]
+                    non_zero = kw_scores[kw_scores != 0]
+                    if len(non_zero) > 0:
+                        min_score = non_zero.min()
+                        max_score = non_zero.max()
+                        if max_score > min_score:
+                            # Normalize only non-zero scores
+                            mask = kw_scores != 0
+                            kw_scores[mask] = (kw_scores[mask] - min_score) / (max_score - min_score)
+                        else:
+                            # All scores are the same
+                            kw_scores[kw_scores != 0] = 1.0
+                        reranked_sim_matrix[kw_idx] = kw_scores
+
+                # Use reranked similarity matrix for scoring
+                sim_matrix = reranked_sim_matrix
+                chunk_scores = reranked_chunk_scores
+            else:
+                # No reranking - use original cosine similarity
+                chunk_scores = np.max(sim_matrix, axis=0)
+
+            # ============ SCORING ============
+            # Global Mean Metric (across all keywords)
             keyword_means = np.mean(sim_matrix, axis=1)
             global_score = np.mean(keyword_means)
 
+            # Save raw embeddings with reranked scores
             if SAVE_RAW_EMBEDDINGS:
                 np.savez_compressed(
-                    raw_embed_dir / f"{country}.npz", 
+                    raw_embed_dir / f"{country}.npz",
                     embeddings=chunk_embeds,
                     text_chunks=chunks_subset,
-                    chunk_scores=np.max(sim_matrix, axis=0)
+                    chunk_scores=chunk_scores,  # Reranked scores if enabled
+                    similarity_matrix=sim_matrix  # Full reranked similarity matrix
                 )
-            
+
             results[country] = {
-                "weighted_score": float(global_score), 
+                "weighted_score": float(global_score),
                 "keyword_scores": {k: float(s) for k, s in zip(KEYWORDS, keyword_means)},
                 "chunk_count": len(chunks_subset)
             }
-            
+
         except Exception as e:
             print(f"    Error {country}: {e}")
-            clean_memory() # Panic clear if an error occurs inside loop
-            
+            clean_memory()  # Panic clear if an error occurs inside loop
+
     return results
 
 def main():
     print("\n" + "="*70)
     print(" WATER POLICY EMBEDDING ANALYSIS (FULL DOCS) ".center(70))
     print("="*70)
-    
+
     clean_memory()
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     if torch.cuda.is_available():
         print(f"VRAM Free: {torch.cuda.mem_get_info()[0]/1024**3:.2f} GB")
-    
+
     chunks = load_and_chunk_documents(DATA_FOLDER)
     if not chunks: return
-    
+
+    # Load reranker once (shared across all embedding models)
+    reranker = None
+    if RERANKER_CONFIG.get("enabled", True):
+        print("\n" + "="*60)
+        print("LOADING RERANKER")
+        print("="*60)
+        reranker = load_reranker(RERANKER_CONFIG, device)
+        if torch.cuda.is_available():
+            print(f"VRAM Free after loading reranker: {torch.cuda.mem_get_info()[0]/1024**3:.2f} GB")
+
     for config in EMBEDDING_MODELS:
         cache_path = CACHE_DIR / f"country_scores_{config['short_name']}.json"
-        
+
         if cache_path.exists() and not TEST_MODE:
              print(f"\n  ℹ Note: {cache_path} exists. Skipping...")
-             continue 
-            
+             continue
+
         model = load_model(config, device)
         if model:
-            scores = process_model(model, config, chunks)
+            # Pass reranker to process_model
+            scores = process_model(model, config, chunks, reranker, RERANKER_CONFIG)
             with open(cache_path, 'w', encoding='utf-8') as f:
                 json.dump(scores, f, indent=2)
-            
+
             # AGGRESSIVE CLEANUP AFTER EACH MODEL
             del model
             clean_memory()
+
+            if torch.cuda.is_available():
+                print(f"  VRAM Free: {torch.cuda.mem_get_info()[0]/1024**3:.2f} GB")
+
+    # CLEANUP RERANKER AFTER ALL MODELS
+    if reranker is not None:
+        print("\n" + "="*60)
+        print("CLEANING UP RERANKER")
+        print("="*60)
+        del reranker
+        clean_memory()
+        if torch.cuda.is_available():
+            print(f"VRAM Free after cleanup: {torch.cuda.mem_get_info()[0]/1024**3:.2f} GB")
 
     print("\n" + "="*60)
     print("EMBEDDING COMPLETE")
