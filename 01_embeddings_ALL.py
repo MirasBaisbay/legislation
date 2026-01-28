@@ -3,15 +3,18 @@ import json
 import numpy as np
 import torch
 import gc
-import spacy
 import logging
 import traceback
+import threading
+import queue
+import re
 from pathlib import Path
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.special import expit
 import torch.nn.functional as F
+from rank_bm25 import BM25Okapi
 
 # ================= LOGGING SETUP =================
 # Configure comprehensive logging for debugging and error tracking
@@ -36,13 +39,18 @@ CACHE_DIR = SCRIPT_DIR / "cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 # !!! CONTROL SWITCHES !!!
-TEST_MODE = False           
-SAVE_RAW_EMBEDDINGS = True 
+TEST_MODE = False
+SAVE_RAW_EMBEDDINGS = True
+
+# ================= SLIDING WINDOW CONFIGURATION =================
+WINDOW_SIZE_WORDS = 400      # ~512 tokens (approx. 400 words)
+OVERLAP_WORDS = 100          # ~128 tokens (approx. 100 words)
+MIN_CHUNK_WORDS = 10         # Minimum words for a valid chunk
 
 KEYWORDS = [
-    "groundwater withdrawal", "ground-water monitoring", "underground water abstraction", 
-    "groundwater permits", "groundwater rights", "well and borehole drilling licenses", 
-    "conjunctive management", "groundwater protection zones", "aquifer recharge", 
+    "groundwater withdrawal", "ground-water monitoring", "underground water abstraction",
+    "groundwater permits", "groundwater rights", "well and borehole drilling licenses",
+    "conjunctive management", "groundwater protection zones", "aquifer recharge",
     "transboundary aquifers"
 ]
 
@@ -88,6 +96,14 @@ RERANKER_CONFIG = {
     "trust_remote": True
 }
 
+# ================= HYBRID SEARCH CONFIGURATION =================
+HYBRID_SEARCH_CONFIG = {
+    "enabled": True,
+    "vector_weight": 0.7,         # Weight for cosine similarity score
+    "bm25_weight": 0.3,           # Weight for BM25 score
+    "bm25_normalization": "minmax"  # "minmax" or "sigmoid"
+}
+
 def clean_memory():
     """Aggressively clear GPU memory."""
     gc.collect()
@@ -128,8 +144,263 @@ def cosine_similarity_gpu(matrix1, matrix2):
         return similarity.cpu().numpy()
     except Exception as e:
         # Fallback to sklearn if GPU calculation fails
-        print(f"    ⚠ GPU cosine similarity failed: {e}, using CPU")
+        print(f"    Warning: GPU cosine similarity failed: {e}, using CPU")
         return cosine_similarity(matrix1, matrix2)
+
+# ================= SLIDING WINDOW CHUNKING =================
+def sliding_window_chunk(text, window_size=WINDOW_SIZE_WORDS, overlap=OVERLAP_WORDS):
+    """
+    Split text into overlapping chunks using a sliding window approach.
+
+    Args:
+        text: Input text string
+        window_size: Number of words per chunk (~400 words = ~512 tokens)
+        overlap: Number of overlapping words between chunks (~100 words = ~128 tokens)
+
+    Returns:
+        List of text chunks
+    """
+    # Clean text: normalize whitespace and remove page markers
+    text = re.sub(r'\s+', ' ', text).strip()
+    text = re.sub(r'---+', ' ', text)  # Remove horizontal rules
+
+    # Split into words while preserving boundaries
+    words = text.split()
+
+    if len(words) < MIN_CHUNK_WORDS:
+        return []
+
+    chunks = []
+    step = window_size - overlap
+
+    if step <= 0:
+        step = window_size // 2  # Fallback to 50% overlap
+
+    i = 0
+    while i < len(words):
+        # Get window of words
+        chunk_words = words[i:i + window_size]
+
+        # Skip if chunk is too small (except for last chunk)
+        if len(chunk_words) >= MIN_CHUNK_WORDS:
+            chunk_text = ' '.join(chunk_words)
+
+            # Filter out page number patterns at the start
+            if not re.match(r'^Page\s+\d+', chunk_text[:15]):
+                chunks.append(chunk_text)
+
+        # Move to next window
+        i += step
+
+        # If we're at the end and have a small remaining piece, we've already
+        # captured it in the last full window due to overlap
+        if i >= len(words):
+            break
+
+    return chunks
+
+
+def tokenize_for_bm25(text):
+    """
+    Simple tokenizer for BM25 - lowercase and split on non-alphanumeric.
+
+    Args:
+        text: Input text string
+
+    Returns:
+        List of tokens
+    """
+    return re.findall(r'\b\w+\b', text.lower())
+
+
+def compute_bm25_scores(chunks, keywords, normalization="minmax"):
+    """
+    Compute BM25 scores for keywords against chunks.
+
+    Args:
+        chunks: List of text chunks
+        keywords: List of keyword strings
+        normalization: "minmax" or "sigmoid" for score normalization
+
+    Returns:
+        numpy array of shape (num_keywords, num_chunks) with normalized scores
+    """
+    if not chunks:
+        return np.zeros((len(keywords), 0))
+
+    # Tokenize chunks for BM25
+    tokenized_chunks = [tokenize_for_bm25(chunk) for chunk in chunks]
+
+    # Initialize BM25 index
+    bm25 = BM25Okapi(tokenized_chunks)
+
+    # Compute scores for each keyword
+    scores_matrix = np.zeros((len(keywords), len(chunks)))
+
+    for kw_idx, keyword in enumerate(keywords):
+        tokenized_query = tokenize_for_bm25(keyword)
+        raw_scores = bm25.get_scores(tokenized_query)
+        scores_matrix[kw_idx] = raw_scores
+
+    # Normalize scores to 0-1 range
+    if normalization == "sigmoid":
+        # Sigmoid normalization (handles any range, centers around 0.5)
+        scores_matrix = expit(scores_matrix)
+    else:
+        # MinMax normalization per keyword (default)
+        for kw_idx in range(len(keywords)):
+            row = scores_matrix[kw_idx]
+            min_val, max_val = row.min(), row.max()
+            if max_val > min_val:
+                scores_matrix[kw_idx] = (row - min_val) / (max_val - min_val)
+            else:
+                scores_matrix[kw_idx] = 0.0  # All same score -> set to 0
+
+    return scores_matrix
+
+
+def compute_hybrid_scores(vector_scores, bm25_scores, config=HYBRID_SEARCH_CONFIG):
+    """
+    Combine vector similarity and BM25 scores using weighted fusion.
+
+    Args:
+        vector_scores: numpy array of cosine similarity scores (keywords x chunks)
+        bm25_scores: numpy array of normalized BM25 scores (keywords x chunks)
+        config: Hybrid search configuration dict
+
+    Returns:
+        numpy array of hybrid scores (keywords x chunks)
+    """
+    if not config.get("enabled", True):
+        return vector_scores
+
+    vector_weight = config.get("vector_weight", 0.7)
+    bm25_weight = config.get("bm25_weight", 0.3)
+
+    # Weighted fusion: combined = (0.7 * vector) + (0.3 * bm25)
+    hybrid_scores = (vector_weight * vector_scores) + (bm25_weight * bm25_scores)
+
+    return hybrid_scores
+
+
+# ================= PRODUCER-CONSUMER PATTERN =================
+class DocumentProducer(threading.Thread):
+    """
+    Background thread that reads files, applies sliding window chunking,
+    and pushes (country_name, chunks) tuples into a queue.
+    """
+
+    def __init__(self, folder, output_queue, test_mode=False):
+        super().__init__(daemon=True)
+        self.folder = Path(folder)
+        self.output_queue = output_queue
+        self.test_mode = test_mode
+        self.total_files = 0
+        self.processed_files = 0
+        self.error_count = 0
+
+    def run(self):
+        """Producer thread main loop."""
+        try:
+            if not self.folder.exists():
+                logger.error(f"Folder {self.folder} does not exist!")
+                self.output_queue.put(None)  # Signal completion
+                return
+
+            files = list(self.folder.glob("*.txt"))
+
+            if self.test_mode:
+                logger.info(f"TEST MODE: Processing only first 5 documents")
+                files = files[:5]
+
+            self.total_files = len(files)
+            logger.info(f"Producer: Found {self.total_files} text files to process")
+
+            for f in files:
+                try:
+                    text = f.read_text(encoding='utf-8', errors='ignore')
+
+                    # Skip very short files
+                    if len(text) < 100:
+                        continue
+
+                    # Apply sliding window chunking
+                    chunks = sliding_window_chunk(text)
+
+                    if chunks:
+                        # Push to queue for consumer
+                        self.output_queue.put((f.stem, chunks))
+                        self.processed_files += 1
+
+                except Exception as e:
+                    logger.error(f"Producer error reading {f.name}: {e}")
+                    logger.debug(traceback.format_exc())
+                    self.error_count += 1
+
+            logger.info(f"Producer: Completed. {self.processed_files} documents chunked, {self.error_count} errors")
+
+        finally:
+            # Signal that producer is done
+            self.output_queue.put(None)
+
+
+def load_and_chunk_documents_threaded(folder, test_mode=TEST_MODE):
+    """
+    Load and chunk documents using producer-consumer pattern.
+
+    Producer: Background thread reads files and chunks them
+    Consumer: Main thread collects results into dictionary
+
+    Args:
+        folder: Path to folder containing .txt files
+        test_mode: If True, only process first 5 files
+
+    Returns:
+        Dictionary mapping country_name -> list of chunks
+    """
+    print("\n" + "="*60)
+    print(f"STEP 1: Loading Documents from {folder}")
+    print("="*60)
+    print("  Using Sliding Window chunking (400 words, 100 overlap)")
+    print("  Producer-Consumer threading enabled")
+
+    # Create queue for producer-consumer communication
+    doc_queue = queue.Queue(maxsize=50)  # Buffer up to 50 documents
+
+    # Start producer thread
+    producer = DocumentProducer(folder, doc_queue, test_mode)
+    producer.start()
+
+    # Consumer: collect results from queue
+    doc_chunks = {}
+    pbar = None
+
+    while True:
+        item = doc_queue.get()
+
+        if item is None:
+            # Producer signaled completion
+            break
+
+        country_name, chunks = item
+        doc_chunks[country_name] = chunks
+
+        # Initialize progress bar after first item (we now know producer started)
+        if pbar is None:
+            pbar = tqdm(total=producer.total_files, desc="Chunking", unit="docs")
+
+        pbar.update(1)
+
+    # Wait for producer to fully complete
+    producer.join(timeout=5.0)
+
+    if pbar is not None:
+        pbar.close()
+
+    print(f"  Loaded {len(doc_chunks)} documents with chunks")
+
+    return doc_chunks
+
 
 def load_reranker(config, device):
     """Load the CrossEncoder reranker model with FP16 support."""
@@ -150,9 +421,9 @@ def load_reranker(config, device):
     if config.get("fp16") and device == "cuda":
         try:
             model.model.half()
-            print(f"  ✓ Reranker loaded in FP16 mode")
+            print(f"  Reranker loaded in FP16 mode")
         except Exception as e:
-            print(f"  ⚠ FP16 conversion failed: {e}, using FP32")
+            print(f"  Warning: FP16 conversion failed: {e}, using FP32")
 
     return model
 
@@ -189,7 +460,7 @@ def rerank_chunks(reranker, query, chunks, scores, top_n=20, batch_size=32):
             convert_to_numpy=True
         )
     except Exception as e:
-        print(f"    ⚠ Reranking failed: {e}, falling back to cosine similarity")
+        print(f"    Warning: Reranking failed: {e}, falling back to cosine similarity")
         top_indices = np.argsort(scores)[::-1][:top_n]
         return top_indices, scores[top_indices]
 
@@ -197,51 +468,6 @@ def rerank_chunks(reranker, query, chunks, scores, top_n=20, batch_size=32):
     top_indices = np.argsort(rerank_scores)[::-1][:top_n]
 
     return top_indices, rerank_scores[top_indices]
-
-def load_and_chunk_documents(folder):
-    print("\n" + "="*60)
-    print(f"STEP 1: Loading Documents from {folder}")
-    print("="*60)
-    
-    nlp = spacy.load("en_core_web_sm")
-    nlp.max_length = 3500000 
-    
-    path_obj = Path(folder)
-    if not path_obj.exists():
-        print(f"ERROR: Folder {folder} does not exist!")
-        return {}
-
-    files = list(path_obj.glob("*.txt"))
-    
-    if TEST_MODE:
-        print(f"⚠ TEST MODE ACTIVE: Processing only first 5 documents")
-        files = files[:5]
-    else:
-        print(f"Found {len(files)} text files")
-    
-    doc_chunks = {}
-    
-    for f in tqdm(files, desc="Chunking"):
-        try:
-            text = f.read_text(encoding='utf-8', errors='ignore')
-            if len(text) < 100: continue
-            
-            doc = nlp(text[:3500000])
-            chunks = []
-            for sent in doc.sents:
-                s = sent.text.strip()
-                if (len(s.split()) >= 10 and len(s) >= 50 and 
-                    "Page" not in s[:15] and "---" not in s):
-                    chunks.append(s)
-            
-            if chunks:
-                doc_chunks[f.stem] = chunks
-                
-        except Exception as e:
-            logger.error(f"Error reading {f.name}: {e}")
-            logger.debug(traceback.format_exc())
-    
-    return doc_chunks
 
 def load_model(config, device):
     clean_memory() # Clear before loading
@@ -285,24 +511,24 @@ def load_model(config, device):
                         mode="reduce-overhead",  # Best for repeated inference
                         fullgraph=True
                     )
-                    print(f"  ✓ torch.compile() enabled for {config['short_name']}")
+                    print(f"  torch.compile() enabled for {config['short_name']}")
             except Exception as e:
-                print(f"  ⚠ torch.compile() failed: {e}, continuing without compilation")
+                print(f"  Warning: torch.compile() failed: {e}, continuing without compilation")
 
         return model
     except Exception as e:
-        print(f"  ⚠ Standard load failed: {e}")
+        print(f"  Warning: Standard load failed: {e}")
 
         # FALLBACK: If Qwen fails with Flash Attn, try Native (might OOM, but better than crash)
         if "model_kwargs" in kwargs and "attn_implementation" in kwargs["model_kwargs"]:
-            print("  ↻ Retrying without Flash Attention...")
+            print("  Retrying without Flash Attention...")
             del kwargs["model_kwargs"]["attn_implementation"]
             return SentenceTransformer(config["name"], device=device, **kwargs)
         raise e
 
 def process_model(model, config, chunks_map, reranker=None, reranker_config=None):
     """
-    Process documents with embedding model and optional reranking.
+    Process documents with embedding model, hybrid search, and optional reranking.
 
     Args:
         model: SentenceTransformer embedding model
@@ -315,8 +541,12 @@ def process_model(model, config, chunks_map, reranker=None, reranker_config=None
         results: Dictionary of country scores
     """
     print(f"\n  Processing with {config['short_name']}...")
+
+    # Log enabled features
+    if HYBRID_SEARCH_CONFIG.get("enabled", True):
+        print(f"  Hybrid search enabled: {HYBRID_SEARCH_CONFIG['vector_weight']:.0%} vector + {HYBRID_SEARCH_CONFIG['bm25_weight']:.0%} BM25")
     if reranker is not None:
-        print(f"  ✓ Reranking enabled with top_k={reranker_config['top_k_initial']} → top_n={reranker_config['top_n_final']}")
+        print(f"  Reranking enabled with top_k={reranker_config['top_k_initial']} -> top_n={reranker_config['top_n_final']}")
 
     print("  Encoding keywords...")
     kw_args = {"show_progress_bar": False, "normalize_embeddings": True}
@@ -343,7 +573,21 @@ def process_model(model, config, chunks_map, reranker=None, reranker_config=None
             chunk_embeds = model.encode(chunks_subset, **doc_args)
 
             # Compute initial cosine similarity matrix (GPU-accelerated)
-            sim_matrix = cosine_similarity_gpu(kw_embeds, chunk_embeds)
+            vector_sim_matrix = cosine_similarity_gpu(kw_embeds, chunk_embeds)
+
+            # ============ HYBRID SEARCH (BM25 + Vector) ============
+            if HYBRID_SEARCH_CONFIG.get("enabled", True):
+                # Compute BM25 scores for this document's chunks
+                bm25_scores = compute_bm25_scores(
+                    chunks_subset,
+                    KEYWORDS,
+                    normalization=HYBRID_SEARCH_CONFIG.get("bm25_normalization", "minmax")
+                )
+
+                # Combine vector and BM25 scores
+                sim_matrix = compute_hybrid_scores(vector_sim_matrix, bm25_scores, HYBRID_SEARCH_CONFIG)
+            else:
+                sim_matrix = vector_sim_matrix
 
             # ============ RERANKING STAGE ============
             if reranker is not None and reranker_config.get("enabled", True):
@@ -355,11 +599,11 @@ def process_model(model, config, chunks_map, reranker=None, reranker_config=None
                 reranked_sim_matrix = np.zeros_like(sim_matrix)
                 reranked_chunk_scores = np.zeros(len(chunks_subset))
 
-                # For each keyword, retrieve top_k chunks and rerank
+                # For each keyword, retrieve top_k chunks (using hybrid scores) and rerank
                 for kw_idx, keyword in enumerate(KEYWORDS):
                     keyword_scores = sim_matrix[kw_idx]
 
-                    # Get top_k candidates based on cosine similarity
+                    # Get top_k candidates based on HYBRID score (BM25 + Vector)
                     top_k_candidates = min(top_k, len(chunks_subset))
                     top_indices = np.argsort(keyword_scores)[::-1][:top_k_candidates]
 
@@ -394,7 +638,7 @@ def process_model(model, config, chunks_map, reranker=None, reranker_config=None
                 sim_matrix = reranked_sim_matrix
                 chunk_scores = reranked_chunk_scores
             else:
-                # No reranking - use original cosine similarity
+                # No reranking - use hybrid similarity scores
                 chunk_scores = np.max(sim_matrix, axis=0)
 
             # ============ SCORING ============
@@ -402,14 +646,14 @@ def process_model(model, config, chunks_map, reranker=None, reranker_config=None
             keyword_means = np.mean(sim_matrix, axis=1)
             global_score = np.mean(keyword_means)
 
-            # Save raw embeddings with reranked scores
+            # Save raw embeddings with hybrid/reranked scores
             if SAVE_RAW_EMBEDDINGS:
                 np.savez_compressed(
                     raw_embed_dir / f"{country}.npz",
                     embeddings=chunk_embeds,
                     text_chunks=chunks_subset,
-                    chunk_scores=chunk_scores,  # Reranked scores if enabled
-                    similarity_matrix=sim_matrix  # Full reranked similarity matrix
+                    chunk_scores=chunk_scores,  # Hybrid/reranked scores
+                    similarity_matrix=sim_matrix  # Hybrid similarity matrix
                 )
 
             results[country] = {
@@ -429,6 +673,7 @@ def main():
     print("\n" + "="*70)
     print(" WATER POLICY EMBEDDING ANALYSIS (FULL DOCS) ".center(70))
     print("="*70)
+    print("  Refactored: Sliding Window + Producer-Consumer + Hybrid BM25")
 
     clean_memory()
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -436,7 +681,8 @@ def main():
     if torch.cuda.is_available():
         print(f"VRAM Free: {torch.cuda.mem_get_info()[0]/1024**3:.2f} GB")
 
-    chunks = load_and_chunk_documents(DATA_FOLDER)
+    # Use threaded producer-consumer for document loading
+    chunks = load_and_chunk_documents_threaded(DATA_FOLDER)
     if not chunks: return
 
     # Load reranker once (shared across all embedding models)
@@ -453,7 +699,7 @@ def main():
         cache_path = CACHE_DIR / f"country_scores_{config['short_name']}.json"
 
         if cache_path.exists() and not TEST_MODE:
-             print(f"\n  ℹ Note: {cache_path} exists. Skipping...")
+             print(f"\n  Note: {cache_path} exists. Skipping...")
              continue
 
         model = load_model(config, device)
