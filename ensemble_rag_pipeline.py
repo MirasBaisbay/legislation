@@ -611,37 +611,33 @@ class RetrievedChunk:
     source_model: str
 
 
-def retrieve_with_model(
+def retrieve_all_queries_with_model(
     model,
     config: EmbeddingModelConfig,
-    query: str,
+    queries: Dict[str, str],
     chunks: List[str],
     top_k: int = 50
-) -> List[RetrievedChunk]:
+) -> Dict[str, List[RetrievedChunk]]:
     """
-    Retrieve top-K chunks for a query using an embedding model.
+    Retrieve top-K chunks for ALL queries using a single model load.
+
+    OPTIMIZATION: Encodes chunks ONCE, then searches with all queries.
+    This avoids redundant chunk encoding per query.
 
     Args:
         model: Loaded SentenceTransformer model
         config: Model configuration
-        query: Search query
+        queries: Dictionary of dimension_name -> query_text
         chunks: List of document chunks
-        top_k: Number of top candidates to retrieve
+        top_k: Number of top candidates to retrieve per query
 
     Returns:
-        List of RetrievedChunk objects
+        Dictionary of dimension_name -> List[RetrievedChunk]
     """
     if not chunks:
-        return []
+        return {dim: [] for dim in queries.keys()}
 
-    # Encode query
-    query_args = {"normalize_embeddings": True}
-    if config.is_jina:
-        query_args["task"] = "retrieval.query"
-
-    query_embed = model.encode([query], **query_args)
-
-    # Encode chunks in batches
+    # Encode chunks ONCE (this is the expensive operation)
     chunk_args = {
         "batch_size": config.batch_size,
         "normalize_embeddings": True,
@@ -652,65 +648,126 @@ def retrieve_with_model(
 
     chunk_embeds = model.encode(chunks, **chunk_args)
 
-    # Compute similarities
-    similarities = cosine_similarity_gpu(query_embed, chunk_embeds)[0]
+    # Encode ALL queries at once
+    query_args = {"normalize_embeddings": True}
+    if config.is_jina:
+        query_args["task"] = "retrieval.query"
 
-    # Get top-K indices
-    top_k = min(top_k, len(chunks))
-    top_indices = np.argsort(similarities)[::-1][:top_k]
+    query_list = list(queries.values())
+    dim_names = list(queries.keys())
+    query_embeds = model.encode(query_list, **query_args)
 
-    # Create RetrievedChunk objects
-    results = []
-    for idx in top_indices:
-        results.append(RetrievedChunk(
-            text=chunks[idx],
-            chunk_idx=int(idx),
-            score=float(similarities[idx]),
-            source_model=config.short_name
-        ))
+    # Compute similarities for all queries at once (batch operation)
+    # Shape: (num_queries, num_chunks)
+    all_similarities = cosine_similarity_gpu(query_embeds, chunk_embeds)
+
+    # Extract top-K for each query
+    results: Dict[str, List[RetrievedChunk]] = {}
+
+    for query_idx, dim_name in enumerate(dim_names):
+        similarities = all_similarities[query_idx]
+        top_k_actual = min(top_k, len(chunks))
+        top_indices = np.argsort(similarities)[::-1][:top_k_actual]
+
+        dim_results = []
+        for idx in top_indices:
+            dim_results.append(RetrievedChunk(
+                text=chunks[idx],
+                chunk_idx=int(idx),
+                score=float(similarities[idx]),
+                source_model=config.short_name
+            ))
+        results[dim_name] = dim_results
 
     return results
 
 
-def ensemble_retrieve(
-    chunks: List[str],
-    query: str,
-    device: str
-) -> List[RetrievedChunk]:
+def process_all_countries_with_model(
+    model,
+    config: EmbeddingModelConfig,
+    doc_chunks: Dict[str, List[str]],
+    queries: Dict[str, str],
+    top_k: int = 50
+) -> Dict[str, Dict[str, List[RetrievedChunk]]]:
     """
-    Ensemble retrieval using multiple embedding models.
+    Process ALL countries with a single model load.
 
-    For each model:
-    1. Load model
-    2. Retrieve top-50 chunks
-    3. Unload model (clear GPU memory)
-    4. Merge results with deduplication
+    OPTIMIZATION: Load model once, process all countries, then unload.
 
     Args:
-        chunks: List of document chunks
-        query: Search query
-        device: Target device
+        model: Loaded SentenceTransformer model
+        config: Model configuration
+        doc_chunks: Dictionary of country_name -> List[chunks]
+        queries: Dictionary of dimension_name -> query_text
+        top_k: Number of top candidates per query
 
     Returns:
-        Merged list of unique retrieved chunks
+        Nested dict: country_name -> dimension_name -> List[RetrievedChunk]
     """
-    all_retrieved: Dict[int, RetrievedChunk] = {}  # chunk_idx -> RetrievedChunk
+    all_results: Dict[str, Dict[str, List[RetrievedChunk]]] = {}
 
-    for config in EMBEDDING_MODELS:
-        with model_manager(config.short_name, load_embedding_model, config, device) as model:
-            retrieved = retrieve_with_model(
-                model, config, query, chunks, config.top_k
+    for country_name, chunks in tqdm(
+        doc_chunks.items(),
+        desc=f"  {config.short_name}",
+        leave=False
+    ):
+        country_results = retrieve_all_queries_with_model(
+            model, config, queries, chunks, top_k
+        )
+        all_results[country_name] = country_results
+
+    return all_results
+
+
+def merge_retrieval_results(
+    results_by_model: List[Dict[str, Dict[str, List[RetrievedChunk]]]]
+) -> Dict[str, Dict[str, List[RetrievedChunk]]]:
+    """
+    Merge retrieval results from multiple models with deduplication.
+
+    For duplicate chunks (same chunk_idx), keeps the one with highest score.
+
+    Args:
+        results_by_model: List of results from each model
+            Each element: country_name -> dimension_name -> List[RetrievedChunk]
+
+    Returns:
+        Merged results: country_name -> dimension_name -> List[RetrievedChunk]
+    """
+    merged: Dict[str, Dict[str, List[RetrievedChunk]]] = {}
+
+    # Get all country names
+    all_countries: Set[str] = set()
+    for model_results in results_by_model:
+        all_countries.update(model_results.keys())
+
+    for country in all_countries:
+        merged[country] = {}
+
+        # Get all dimensions
+        all_dims: Set[str] = set()
+        for model_results in results_by_model:
+            if country in model_results:
+                all_dims.update(model_results[country].keys())
+
+        for dim in all_dims:
+            # Merge chunks from all models, deduplicate by chunk_idx
+            chunk_map: Dict[int, RetrievedChunk] = {}
+
+            for model_results in results_by_model:
+                if country in model_results and dim in model_results[country]:
+                    for chunk in model_results[country][dim]:
+                        existing = chunk_map.get(chunk.chunk_idx)
+                        if existing is None or chunk.score > existing.score:
+                            chunk_map[chunk.chunk_idx] = chunk
+
+            # Sort by score descending
+            merged_chunks = sorted(
+                chunk_map.values(),
+                key=lambda x: x.score,
+                reverse=True
             )
-
-            # Merge with deduplication (keep highest score)
-            for chunk in retrieved:
-                existing = all_retrieved.get(chunk.chunk_idx)
-                if existing is None or chunk.score > existing.score:
-                    all_retrieved[chunk.chunk_idx] = chunk
-
-    # Return merged list sorted by score
-    merged = list(all_retrieved.values())
-    merged.sort(key=lambda x: x.score, reverse=True)
+            merged[country][dim] = merged_chunks
 
     return merged
 
@@ -816,64 +873,68 @@ class CountryResult:
     overall_score: float  # Mean of all dimension max scores
 
 
-def process_country(
-    country_name: str,
-    chunks: List[str],
-    device: str
-) -> CountryResult:
+def rerank_all_countries(
+    reranker,
+    merged_results: Dict[str, Dict[str, List[RetrievedChunk]]],
+    queries: Dict[str, str],
+    config: RerankerConfig
+) -> Dict[str, Dict[str, List[RankedChunk]]]:
     """
-    Process a single country through the ensemble RAG pipeline.
+    Rerank ALL countries and dimensions with a single reranker load.
 
-    Pipeline:
-    1. For each dimension query:
-       a. Ensemble retrieval (BGE-M3 + Jina-v3)
-       b. Merge candidates
-    2. Load reranker once
-    3. Rerank all dimension candidates
-    4. Aggregate scores
+    OPTIMIZATION: Load reranker once, process everything, then unload.
 
     Args:
-        country_name: Name of the country
-        chunks: List of document chunks
-        device: Target device
+        reranker: Loaded CrossEncoder model
+        merged_results: country_name -> dimension_name -> List[RetrievedChunk]
+        queries: dimension_name -> query_text
+        config: Reranker configuration
 
     Returns:
-        CountryResult with all dimension scores and evidence
+        country_name -> dimension_name -> List[RankedChunk]
     """
-    logger.info(f"Processing: {country_name} ({len(chunks)} chunks)")
+    all_ranked: Dict[str, Dict[str, List[RankedChunk]]] = {}
 
-    # Step 1: Ensemble retrieval for each dimension
-    dimension_candidates: Dict[str, List[RetrievedChunk]] = {}
+    for country_name, dim_candidates in tqdm(
+        merged_results.items(),
+        desc="  Reranking",
+        leave=False
+    ):
+        all_ranked[country_name] = {}
 
-    for dim_name, query in SEARCH_QUERIES.items():
-        logger.debug(f"  Retrieving for: {dim_name}")
-        candidates = ensemble_retrieve(chunks, query, device)
-        dimension_candidates[dim_name] = candidates
-        logger.debug(f"    Retrieved {len(candidates)} unique candidates")
+        for dim_name, candidates in dim_candidates.items():
+            query = queries[dim_name]
+            ranked = rerank_chunks(reranker, query, candidates, config)
+            all_ranked[country_name][dim_name] = ranked
 
-    # Step 2: Rerank all dimensions with a single reranker load
-    dimension_results: Dict[str, DimensionResult] = {}
+    return all_ranked
 
-    with model_manager("BGE-Reranker-v2-M3", load_reranker_model, RERANKER_CONFIG, device) as reranker:
-        for dim_name, query in SEARCH_QUERIES.items():
-            candidates = dimension_candidates[dim_name]
 
-            if not candidates:
-                dimension_results[dim_name] = DimensionResult(
-                    dimension=dim_name,
-                    query=query,
-                    top_chunks=[],
-                    max_score=0.0,
-                    mean_score=0.0
-                )
-                continue
+def build_country_results(
+    ranked_results: Dict[str, Dict[str, List[RankedChunk]]],
+    queries: Dict[str, str]
+) -> Dict[str, CountryResult]:
+    """
+    Build final CountryResult objects from ranked results.
 
-            # Rerank candidates
-            ranked = rerank_chunks(reranker, query, candidates, RERANKER_CONFIG)
+    Args:
+        ranked_results: country_name -> dimension_name -> List[RankedChunk]
+        queries: dimension_name -> query_text
+
+    Returns:
+        Dictionary of country_name -> CountryResult
+    """
+    results: Dict[str, CountryResult] = {}
+
+    for country_name, dim_ranked in ranked_results.items():
+        dimension_results: Dict[str, DimensionResult] = {}
+
+        for dim_name, ranked_chunks in dim_ranked.items():
+            query = queries[dim_name]
 
             # Convert to serializable format
             top_chunks = []
-            for rank, chunk in enumerate(ranked):
+            for rank, chunk in enumerate(ranked_chunks):
                 top_chunks.append({
                     "rank": rank + 1,
                     "text": chunk.text[:500] + "..." if len(chunk.text) > 500 else chunk.text,
@@ -883,7 +944,7 @@ def process_country(
                     "chunk_idx": chunk.chunk_idx
                 })
 
-            scores = [c.reranker_score for c in ranked]
+            scores = [c.reranker_score for c in ranked_chunks]
 
             dimension_results[dim_name] = DimensionResult(
                 dimension=dim_name,
@@ -893,15 +954,28 @@ def process_country(
                 mean_score=sum(scores) / len(scores) if scores else 0.0
             )
 
-    # Calculate overall score
-    dim_max_scores = [r.max_score for r in dimension_results.values()]
-    overall_score = sum(dim_max_scores) / len(dim_max_scores) if dim_max_scores else 0.0
+        # Ensure all dimensions are present (even if empty)
+        for dim_name, query in queries.items():
+            if dim_name not in dimension_results:
+                dimension_results[dim_name] = DimensionResult(
+                    dimension=dim_name,
+                    query=query,
+                    top_chunks=[],
+                    max_score=0.0,
+                    mean_score=0.0
+                )
 
-    return CountryResult(
-        country=country_name,
-        dimensions=dimension_results,
-        overall_score=overall_score
-    )
+        # Calculate overall score
+        dim_max_scores = [r.max_score for r in dimension_results.values()]
+        overall_score = sum(dim_max_scores) / len(dim_max_scores) if dim_max_scores else 0.0
+
+        results[country_name] = CountryResult(
+            country=country_name,
+            dimensions=dimension_results,
+            overall_score=overall_score
+        )
+
+    return results
 
 
 def serialize_results(results: Dict[str, CountryResult]) -> Dict[str, Any]:
@@ -957,7 +1031,25 @@ def serialize_results(results: Dict[str, CountryResult]) -> Dict[str, Any]:
 
 
 def main():
-    """Main pipeline execution."""
+    """
+    Main pipeline execution with OPTIMIZED model loading.
+
+    OPTIMIZATION: Each model is loaded ONCE, processes ALL countries, then unloaded.
+    This reduces model load/unload cycles from O(countries × dimensions × models)
+    to O(models), saving hours of overhead.
+
+    Pipeline:
+    1. Load & chunk all documents
+    2. For each embedding model:
+       - Load model ONCE
+       - Process ALL countries with ALL queries
+       - Unload model
+    3. Merge results from all models
+    4. Load reranker ONCE
+    5. Rerank ALL countries
+    6. Unload reranker
+    7. Build final results & save
+    """
     print("\n" + "=" * 70)
     print(" MULTI-MODEL ENSEMBLE RAG + RERANKING PIPELINE ".center(70))
     print("=" * 70)
@@ -965,6 +1057,7 @@ def main():
     print(f"Reranker: {RERANKER_CONFIG.name}")
     print(f"Dimensions: {len(SEARCH_QUERIES)}")
     print(f"Test Mode: {TEST_MODE}")
+    print("\n[OPTIMIZED] Models loaded once per stage, not per query")
 
     # Initialize
     clean_memory()
@@ -972,39 +1065,88 @@ def main():
     print(f"\nDevice: {device}")
     log_memory_state("Initial")
 
-    # Step 1: Load and chunk documents
+    # =========================================================================
+    # STEP 1: Load and chunk documents
+    # =========================================================================
     doc_chunks = load_and_chunk_documents(DATA_FOLDER, test_mode=TEST_MODE)
 
     if not doc_chunks:
         logger.error("No documents loaded. Exiting.")
         return
 
-    # Step 2: Process each country
+    # =========================================================================
+    # STEP 2: ENSEMBLE RETRIEVAL (Load each model ONCE, process ALL countries)
+    # =========================================================================
     print("\n" + "=" * 70)
-    print(" STEP 2: ENSEMBLE RETRIEVAL + RERANKING ".center(70))
+    print(" STEP 2: ENSEMBLE RETRIEVAL ".center(70))
+    print("=" * 70)
+    print(f"  Processing {len(doc_chunks)} countries × {len(SEARCH_QUERIES)} dimensions")
+
+    results_by_model: List[Dict[str, Dict[str, List[RetrievedChunk]]]] = []
+
+    for config in EMBEDDING_MODELS:
+        print(f"\n  Loading {config.short_name}...")
+
+        with model_manager(config.short_name, load_embedding_model, config, device) as model:
+            # Process ALL countries with this model
+            model_results = process_all_countries_with_model(
+                model, config, doc_chunks, SEARCH_QUERIES, config.top_k
+            )
+            results_by_model.append(model_results)
+
+            logger.info(f"  {config.short_name}: Processed {len(model_results)} countries")
+
+    # =========================================================================
+    # STEP 3: MERGE RESULTS FROM ALL MODELS
+    # =========================================================================
+    print("\n" + "=" * 70)
+    print(" STEP 3: MERGING ENSEMBLE RESULTS ".center(70))
     print("=" * 70)
 
-    results: Dict[str, CountryResult] = {}
+    merged_results = merge_retrieval_results(results_by_model)
+    logger.info(f"  Merged results for {len(merged_results)} countries")
 
-    for country_name, chunks in tqdm(doc_chunks.items(), desc="Processing countries"):
-        try:
-            result = process_country(country_name, chunks, device)
-            results[country_name] = result
+    # Free memory from individual model results
+    del results_by_model
+    clean_memory()
 
-            # Log summary
-            logger.info(
-                f"  {country_name}: Overall Score = {result.overall_score:.4f}, "
-                f"Dimensions = {len(result.dimensions)}"
-            )
-
-        except Exception as e:
-            logger.error(f"Failed to process {country_name}: {e}")
-            logger.debug(traceback.format_exc())
-            clean_memory()
-
-    # Step 3: Save results
+    # =========================================================================
+    # STEP 4: RERANKING (Load reranker ONCE, process ALL countries)
+    # =========================================================================
     print("\n" + "=" * 70)
-    print(" STEP 3: SAVING RESULTS ".center(70))
+    print(" STEP 4: RERANKING ".center(70))
+    print("=" * 70)
+
+    with model_manager("BGE-Reranker-v2-M3", load_reranker_model, RERANKER_CONFIG, device) as reranker:
+        ranked_results = rerank_all_countries(
+            reranker, merged_results, SEARCH_QUERIES, RERANKER_CONFIG
+        )
+
+    # Free memory from merged results
+    del merged_results
+    clean_memory()
+
+    # =========================================================================
+    # STEP 5: BUILD FINAL RESULTS
+    # =========================================================================
+    print("\n" + "=" * 70)
+    print(" STEP 5: BUILDING FINAL RESULTS ".center(70))
+    print("=" * 70)
+
+    results = build_country_results(ranked_results, SEARCH_QUERIES)
+
+    # Log summary for each country
+    for country_name, result in results.items():
+        logger.info(
+            f"  {country_name}: Overall Score = {result.overall_score:.4f}, "
+            f"Dimensions = {len(result.dimensions)}"
+        )
+
+    # =========================================================================
+    # STEP 6: SAVE RESULTS
+    # =========================================================================
+    print("\n" + "=" * 70)
+    print(" STEP 6: SAVING RESULTS ".center(70))
     print("=" * 70)
 
     output_data = serialize_results(results)
@@ -1018,7 +1160,9 @@ def main():
 
     print(f"\nResults saved to: {output_file}")
 
-    # Print summary
+    # =========================================================================
+    # SUMMARY
+    # =========================================================================
     print("\n" + "=" * 70)
     print(" SUMMARY ".center(70))
     print("=" * 70)
@@ -1031,6 +1175,7 @@ def main():
     )
 
     print(f"\nCountries processed: {len(results)}")
+    print(f"Model loads: {len(EMBEDDING_MODELS)} retrievers + 1 reranker = {len(EMBEDDING_MODELS) + 1} total")
     print("\nTop Countries by Overall Score:")
     for i, (country, result) in enumerate(sorted_countries[:10], 1):
         print(f"  {i:2}. {country}: {result.overall_score:.4f}")
